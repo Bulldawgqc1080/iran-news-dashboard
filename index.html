@@ -298,6 +298,7 @@
     <button onclick="showTab('timeline',this)">Timeline</button>
     <button onclick="showTab('sources',this)">Sources</button>
     <button onclick="showTab('deeper',this)">🌍 Go Deeper</button>
+    <button onclick="showTab('live',this)" id="live-tab-btn">📡 Live News</button>
   </nav>
   <div class="last-updated">
     <div class="live-dot"></div>
@@ -922,8 +923,43 @@
 
 </main>
 
+  <!-- ══════════════════════════════ -->
+  <!--        LIVE NEWS TAB          -->
+  <!-- ══════════════════════════════ -->
+  <div id="tab-live" class="tab-section">
+
+    <div class="disclaimer" style="border-left:3px solid #2ecc71; background:rgba(46,204,113,0.06)">
+      <strong>Live headlines — auto-updated every hour</strong> from Reuters, AP News, BBC, and Al Jazeera. Every story is labeled by source and region so you always know the angle. Click any headline to read the full story at the original outlet.
+    </div>
+
+    <section>
+      <div class="section-title" style="display:flex;justify-content:space-between;align-items:center">
+        <span>Iran Headlines — All Sources</span>
+        <span id="news-updated" style="font-size:11px;color:var(--subtext);text-transform:none;letter-spacing:0;font-weight:400"></span>
+      </div>
+
+      <!-- Filter row -->
+      <div class="filter-row" id="news-filter-row">
+        <button class="filter-btn active" style="background:#444;color:#fff;border-color:transparent" onclick="filterNews('all',this)">All Sources</button>
+        <button class="filter-btn" onclick="filterNews('Reuters',this)" style="border-color:var(--us)">Reuters</button>
+        <button class="filter-btn" onclick="filterNews('AP News',this)" style="border-color:var(--us)">AP News</button>
+        <button class="filter-btn" onclick="filterNews('BBC',this)" style="border-color:var(--eu)">BBC</button>
+        <button class="filter-btn" onclick="filterNews('Al Jazeera',this)" style="border-color:var(--me)">Al Jazeera</button>
+      </div>
+
+      <div id="news-container">
+        <div style="text-align:center;padding:60px 20px;color:var(--subtext)">
+          <div style="font-size:32px;margin-bottom:12px">📡</div>
+          <div style="font-size:15px;font-weight:600;margin-bottom:8px">Loading live stories...</div>
+          <div style="font-size:13px">Fetching from news.json</div>
+        </div>
+      </div>
+    </section>
+  </div><!-- /live -->
+
+
 <footer>
-  ClearView Iran Conflict Dashboard &nbsp;|&nbsp; This tool is a framework — not a live news service. Populate it with verified current reports. &nbsp;|&nbsp; No content here should be taken as a final or complete account of events.
+  ClearView Iran Conflict Dashboard &nbsp;|&nbsp; Headlines auto-updated hourly via GitHub Actions &nbsp;|&nbsp; Always follow source links and read primary documents.
 </footer>
 
 <script>
@@ -934,6 +970,81 @@
     btn.classList.add('active');
   }
 
+  // ── LIVE NEWS ─────────────────────────────────────────────
+  let allStories = [];
+
+  const SOURCE_META = {
+    "Reuters":    { region: "U.S. Wire",      color: "#3a86ff", flag: "🇺🇸" },
+    "AP News":    { region: "U.S. Wire",      color: "#3a86ff", flag: "🇺🇸" },
+    "BBC":        { region: "European",       color: "#06d6a0", flag: "🇬🇧" },
+    "Al Jazeera": { region: "Middle East",    color: "#ffbe0b", flag: "🌍" },
+  };
+
+  function renderNews(stories) {
+    const container = document.getElementById('news-container');
+    if (!stories.length) {
+      container.innerHTML = '<div style="text-align:center;padding:40px;color:var(--subtext)">No stories found for this filter.</div>';
+      return;
+    }
+    container.innerHTML = stories.map(s => {
+      const meta = SOURCE_META[s.source] || { region: s.region, color: "#aaa", flag: "🌐" };
+      return `
+        <a href="${s.link}" target="_blank" rel="noopener noreferrer" style="display:block;text-decoration:none;margin-bottom:10px">
+          <div class="card" style="border-left:3px solid ${meta.color};cursor:pointer;transition:background 0.2s" onmouseover="this.style.background='#232640'" onmouseout="this.style.background=''">
+            <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+              <span style="font-size:14px">${meta.flag}</span>
+              <span style="font-size:11px;font-weight:700;color:${meta.color};letter-spacing:0.5px;text-transform:uppercase">${s.source}</span>
+              <span style="font-size:10px;color:var(--subtext);background:var(--surface2);padding:2px 7px;border-radius:4px">${meta.region}</span>
+              <span style="font-size:10px;color:var(--subtext);background:var(--surface2);padding:2px 7px;border-radius:4px">Bias: ${s.bias}</span>
+              <span style="margin-left:auto;font-size:11px;color:var(--subtext)">${s.date ? s.date.slice(0,16) : ''}</span>
+            </div>
+            <div style="font-size:14px;font-weight:600;color:var(--text);margin-bottom:6px;line-height:1.45">${s.title}</div>
+            ${s.description ? `<div style="font-size:12px;color:var(--subtext);line-height:1.6">${s.description}</div>` : ''}
+            <div style="margin-top:8px;font-size:11px;color:${meta.color};opacity:0.8">Read full story →</div>
+          </div>
+        </a>`;
+    }).join('');
+  }
+
+  function filterNews(source, btn) {
+    document.querySelectorAll('#news-filter-row .filter-btn').forEach(b => {
+      b.classList.remove('active');
+      b.style.background = '';
+      b.style.color = '';
+    });
+    btn.classList.add('active');
+    btn.style.background = '#444';
+    btn.style.color = '#fff';
+    const filtered = source === 'all' ? allStories : allStories.filter(s => s.source === source);
+    renderNews(filtered);
+  }
+
+  async function loadNews() {
+    try {
+      const res = await fetch('news.json?t=' + Date.now());
+      if (!res.ok) throw new Error('news.json not found yet');
+      const data = await res.json();
+      allStories = data.stories || [];
+      const upd = document.getElementById('news-updated');
+      if (upd) upd.textContent = `Last updated: ${data.updated} · ${data.total} stories`;
+      renderNews(allStories);
+    } catch (e) {
+      document.getElementById('news-container').innerHTML = `
+        <div style="text-align:center;padding:40px 20px;color:var(--subtext)">
+          <div style="font-size:28px;margin-bottom:12px">⏳</div>
+          <div style="font-size:14px;font-weight:600;margin-bottom:8px;color:var(--text)">News feed not yet generated</div>
+          <div style="font-size:13px;line-height:1.7">
+            The GitHub Actions workflow hasn't run yet.<br>
+            Go to your repo → <strong>Actions tab</strong> → <strong>Update Iran News Feed</strong> → <strong>Run workflow</strong> to trigger it manually the first time.
+          </div>
+        </div>`;
+    }
+  }
+
+  // Load news when Live News tab is opened
+  document.getElementById('live-tab-btn').addEventListener('click', loadNews);
+
+  // ── CARD FILTER ────────────────────────────────────────────
   function filterCards(type, btn) {
     document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
