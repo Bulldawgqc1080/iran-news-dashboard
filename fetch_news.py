@@ -1,7 +1,7 @@
 """
 ClearView Iran Dashboard — Automated News Fetcher
-Runs on GitHub Actions every hour. Pulls RSS feeds from Reuters, BBC,
-Al Jazeera, and AP, filters for Iran-related stories, and writes news.json.
+Runs on GitHub Actions every hour. Pulls RSS feeds, filters for
+Iran-related stories, and writes news.json.
 """
 
 import json
@@ -10,14 +10,23 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 import re
 
-# ── RSS FEED SOURCES ──────────────────────────────────────────────────────────
+# ── RSS FEED SOURCES ─────────────────────────────────────────────────────────
+# Reuters and AP block GitHub's IPs. Replaced with equivalent sources
+# that have open RSS access.
 SOURCES = [
     {
-        "name": "Reuters",
+        "name": "NPR News",
         "region": "us",
         "color": "#3a86ff",
         "bias": "Low",
-        "url": "https://feeds.reuters.com/reuters/worldNews",
+        "url": "https://feeds.npr.org/1004/rss.xml",
+    },
+    {
+        "name": "VOA (Iran)",
+        "region": "us",
+        "color": "#3a86ff",
+        "bias": "Low-Med",
+        "url": "https://www.voanews.com/rss/z_ir.xml",
     },
     {
         "name": "BBC",
@@ -27,6 +36,13 @@ SOURCES = [
         "url": "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
     },
     {
+        "name": "France 24",
+        "region": "eu",
+        "color": "#06d6a0",
+        "bias": "Low-Med",
+        "url": "https://www.france24.com/en/rss",
+    },
+    {
         "name": "Al Jazeera",
         "region": "me",
         "color": "#ffbe0b",
@@ -34,119 +50,143 @@ SOURCES = [
         "url": "https://www.aljazeera.com/xml/rss/all.xml",
     },
     {
-        "name": "AP News",
-        "region": "us",
-        "color": "#3a86ff",
+        "name": "Deutsche Welle",
+        "region": "eu",
+        "color": "#06d6a0",
         "bias": "Low",
-        "url": "https://rsshub.app/apnews/topics/apf-intlnews",
+        "url": "https://rss.dw.com/rdf/rss-en-world",
     },
 ]
 
-# ── IRAN-RELATED KEYWORDS ─────────────────────────────────────────────────────
+# ── IRAN-RELATED KEYWORDS ────────────────────────────────────────────────────
 IRAN_KEYWORDS = [
-    "iran", "iranian", "tehran", "irgc", "quds", "khamenei", "rouhani",
-    "raisi", "nuclear deal", "jcpoa", "sanctions", "strait of hormuz",
+    "iran", "iranian", "tehran", "irgc", "quds", "khamenei",
+    "nuclear deal", "jcpoa", "sanctions", "strait of hormuz",
     "hezbollah", "houthi", "proxy", "persian gulf", "revolutionary guard",
-    "zarif", "uranium enrichment", "natanz", "fordow", "arak", "bushehr",
+    "uranium enrichment", "natanz", "fordow", "arak", "bushehr",
+    "raisi", "pezeshkian", "zarif", "mojtaba",
 ]
 
 def is_iran_related(text):
-    """Return True if the text contains any Iran-related keyword."""
     lowered = text.lower()
     return any(kw in lowered for kw in IRAN_KEYWORDS)
 
 def clean_html(text):
-    """Strip HTML tags from a string."""
     if not text:
         return ""
-    return re.sub(r"<[^>]+>", "", text).strip()
+    text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"&amp;", "&", text)
+    text = re.sub(r"&lt;", "<", text)
+    text = re.sub(r"&gt;", ">", text)
+    text = re.sub(r"&quot;", '"', text)
+    text = re.sub(r"&#39;", "'", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
 
 def fetch_feed(source):
-    """Fetch and parse an RSS feed, return Iran-related items."""
     items = []
-    headers = {"User-Agent": "ClearView-IranDashboard/1.0"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; ClearViewBot/1.0)",
+        "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    }
     try:
         req = urllib.request.Request(source["url"], headers=headers)
-        with urllib.request.urlopen(req, timeout=15) as response:
+        with urllib.request.urlopen(req, timeout=20) as response:
             raw = response.read()
         root = ET.fromstring(raw)
-        ns = ""
-        # Handle both RSS 2.0 and Atom
+
+        # RSS 2.0
         channel = root.find("channel")
-        entries = channel.findall("item") if channel is not None else root.findall(".//{http://www.w3.org/2005/Atom}entry")
+        if channel is not None:
+            entries = channel.findall("item")
+        else:
+            # Atom
+            ns = "{http://www.w3.org/2005/Atom}"
+            entries = root.findall(f".//{ns}entry")
 
-        for item in entries[:40]:  # Check first 40 items per feed
-            title_el = item.find("title")
-            link_el  = item.find("link")
-            desc_el  = item.find("description") or item.find("{http://www.w3.org/2005/Atom}summary")
-            date_el  = item.find("pubDate") or item.find("{http://www.w3.org/2005/Atom}updated")
+        found = 0
+        for item in entries[:50]:
+            # Try RSS fields first, then Atom
+            def get(tag, atom_tag=None):
+                el = item.find(tag)
+                if el is None and atom_tag:
+                    el = item.find(atom_tag)
+                if el is not None:
+                    return el.text or el.get("href", "") or ""
+                return ""
 
-            title = clean_html(title_el.text if title_el is not None else "")
-            link  = link_el.text if link_el is not None else ""
-            desc  = clean_html(desc_el.text if desc_el is not None else "")
-            date  = date_el.text if date_el is not None else ""
+            title = clean_html(get("title", "{http://www.w3.org/2005/Atom}title"))
+            link  = get("link",  "{http://www.w3.org/2005/Atom}link")
+            desc  = clean_html(get("description", "{http://www.w3.org/2005/Atom}summary"))
+            date  = get("pubDate", "{http://www.w3.org/2005/Atom}updated")
 
-            # For Atom feeds link may be an attribute
-            if not link and link_el is not None:
-                link = link_el.get("href", "")
+            # VOA feeds sometimes put content in media:description
+            if not desc:
+                for child in item:
+                    if "description" in child.tag.lower() or "summary" in child.tag.lower():
+                        if child.text:
+                            desc = clean_html(child.text)
+                            break
+
+            if not title:
+                continue
 
             combined = f"{title} {desc}"
-            if title and (is_iran_related(combined) or source["name"] == "Al Jazeera"):
-                # For Al Jazeera (Middle East-focused), include all items then filter lightly
-                if source["name"] == "Al Jazeera" and not is_iran_related(combined):
-                    continue
+            if is_iran_related(combined):
                 items.append({
                     "title": title,
                     "link": link,
-                    "description": desc[:300] + ("..." if len(desc) > 300 else ""),
-                    "date": date,
+                    "description": desc[:280] + ("..." if len(desc) > 280 else ""),
+                    "date": date[:16] if date else "",
                     "source": source["name"],
                     "region": source["region"],
                     "color": source["color"],
                     "bias": source["bias"],
                 })
+                found += 1
+
+        print(f"  Found {found} Iran-related stories")
 
     except Exception as e:
-        print(f"  ⚠ Error fetching {source['name']}: {e}")
+        print(f"  ERROR: {e}")
 
     return items
 
 def main():
-    print(f"\n{'='*50}")
-    print(f"ClearView News Fetch — {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
-    print(f"{'='*50}")
+    print(f"\n{'='*55}")
+    print(f"ClearView Fetch — {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
+    print(f"{'='*55}")
 
     all_items = []
     for source in SOURCES:
-        print(f"\n→ Fetching {source['name']}...")
+        print(f"\n-> Fetching {source['name']} ({source['url'][:50]}...)")
         items = fetch_feed(source)
-        print(f"  Found {len(items)} Iran-related stories")
         all_items.extend(items)
 
-    # Deduplicate by title similarity
-    seen_titles = set()
-    unique_items = []
+    # Deduplicate by title
+    seen = set()
+    unique = []
     for item in all_items:
-        normalized = re.sub(r"\W+", " ", item["title"].lower()).strip()
-        if normalized not in seen_titles:
-            seen_titles.add(normalized)
-            unique_items.append(item)
+        key = re.sub(r"\W+", " ", item["title"].lower()).strip()[:80]
+        if key not in seen:
+            seen.add(key)
+            unique.append(item)
 
-    # Sort by source for grouping (Reuters, AP first, then BBC, Al Jazeera)
-    source_order = {"Reuters": 0, "AP News": 1, "BBC": 2, "Al Jazeera": 3}
-    unique_items.sort(key=lambda x: source_order.get(x["source"], 99))
+    # Sort: US sources first, then EU, then ME
+    order = {"us": 0, "eu": 1, "me": 2}
+    unique.sort(key=lambda x: order.get(x["region"], 9))
 
     output = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
-        "total": len(unique_items),
-        "stories": unique_items,
+        "total": len(unique),
+        "stories": unique,
     }
 
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ Saved {len(unique_items)} stories to news.json")
-    print(f"{'='*50}\n")
+    print(f"\n✅ Saved {len(unique)} stories to news.json")
+    print(f"{'='*55}\n")
 
 if __name__ == "__main__":
     main()
