@@ -277,7 +277,57 @@
     @media (max-width: 900px) {
       .grid-3, .grid-2 { grid-template-columns: 1fr; }
       .span-2, .span-3 { grid-column: span 1; }
-      nav { display: none; }
+    }
+
+    @media (max-width: 768px) {
+      /* Header: stack logo + nav vertically */
+      header {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 10px 16px;
+        gap: 8px;
+      }
+      .last-updated { display: none; }
+
+      /* Nav: horizontal scrolling strip instead of hidden */
+      nav {
+        display: flex;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        gap: 6px;
+        padding-bottom: 2px;
+      }
+      nav::-webkit-scrollbar { display: none; }
+      nav button {
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 12px;
+        padding: 6px 10px;
+      }
+
+      /* Reduce main padding */
+      main { padding: 12px 16px; }
+
+      /* Tighten legend bar */
+      .legend-bar { padding: 8px 16px; }
+      .legend-label { display: none; }
+      .legend-item { font-size: 11px; }
+
+      /* Cards */
+      .card { padding: 14px; }
+
+      /* Source table: horizontal scroll */
+      .source-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      .source-table { min-width: 560px; }
+
+      /* Filter buttons: horizontal scroll, no wrap */
+      .filter-row { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
+      .filter-btn { white-space: nowrap; flex-shrink: 0; }
+
+      /* Footer */
+      footer { padding: 16px; font-size: 11px; }
     }
   </style>
 </head>
@@ -647,6 +697,7 @@
     <section>
       <div class="section-title">Source Transparency Guide</div>
       <div class="card">
+        <div class="source-table-wrap">
         <table class="source-table">
           <thead>
             <tr>
@@ -778,6 +829,7 @@
             </tr>
           </tbody>
         </table>
+        </div>
       </div>
     </section>
 
