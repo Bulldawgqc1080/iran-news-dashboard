@@ -929,7 +929,7 @@
   <div id="tab-live" class="tab-section">
 
     <div class="disclaimer" style="border-left:3px solid #2ecc71; background:rgba(46,204,113,0.06)">
-      <strong>Live headlines — auto-updated every hour</strong> from Reuters, AP News, BBC, and Al Jazeera. Every story is labeled by source and region so you always know the angle. Click any headline to read the full story at the original outlet.
+      <strong>Live headlines — auto-updated every hour</strong> from NPR, VOA, BBC, Al Jazeera, France 24, and Deutsche Welle. Every story is labeled by source and region so you always know the angle. Click any headline to read the full story at the original outlet.
     </div>
 
     <section>
@@ -938,13 +938,9 @@
         <span id="news-updated" style="font-size:11px;color:var(--subtext);text-transform:none;letter-spacing:0;font-weight:400"></span>
       </div>
 
-      <!-- Filter row -->
+      <!-- Filter row — built dynamically from whatever sources are in news.json -->
       <div class="filter-row" id="news-filter-row">
         <button class="filter-btn active" style="background:#444;color:#fff;border-color:transparent" onclick="filterNews('all',this)">All Sources</button>
-        <button class="filter-btn" onclick="filterNews('Reuters',this)" style="border-color:var(--us)">Reuters</button>
-        <button class="filter-btn" onclick="filterNews('AP News',this)" style="border-color:var(--us)">AP News</button>
-        <button class="filter-btn" onclick="filterNews('BBC',this)" style="border-color:var(--eu)">BBC</button>
-        <button class="filter-btn" onclick="filterNews('Al Jazeera',this)" style="border-color:var(--me)">Al Jazeera</button>
       </div>
 
       <div id="news-container">
@@ -974,11 +970,32 @@
   let allStories = [];
 
   const SOURCE_META = {
-    "Reuters":    { region: "U.S. Wire",      color: "#3a86ff", flag: "🇺🇸" },
-    "AP News":    { region: "U.S. Wire",      color: "#3a86ff", flag: "🇺🇸" },
-    "BBC":        { region: "European",       color: "#06d6a0", flag: "🇬🇧" },
-    "Al Jazeera": { region: "Middle East",    color: "#ffbe0b", flag: "🌍" },
+    "NPR News":       { region: "U.S.",        color: "#3a86ff", flag: "🇺🇸" },
+    "VOA (Iran)":     { region: "U.S. Gov",    color: "#3a86ff", flag: "🇺🇸" },
+    "Reuters":        { region: "U.S. Wire",   color: "#3a86ff", flag: "🇺🇸" },
+    "AP News":        { region: "U.S. Wire",   color: "#3a86ff", flag: "🇺🇸" },
+    "BBC":            { region: "European",    color: "#06d6a0", flag: "🇬🇧" },
+    "France 24":      { region: "European",    color: "#06d6a0", flag: "🇫🇷" },
+    "Deutsche Welle": { region: "European",    color: "#06d6a0", flag: "🇩🇪" },
+    "Al Jazeera":     { region: "Middle East", color: "#ffbe0b", flag: "🌍" },
   };
+
+  function buildFilterButtons(stories) {
+    const row = document.getElementById('news-filter-row');
+    const seen = new Set();
+    stories.forEach(s => seen.add(s.source));
+    // Remove old dynamic buttons (keep "All Sources")
+    [...row.querySelectorAll('.dynamic-filter')].forEach(b => b.remove());
+    seen.forEach(src => {
+      const meta = SOURCE_META[src] || { color: "#aaa" };
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn dynamic-filter';
+      btn.style.borderColor = meta.color;
+      btn.textContent = src;
+      btn.onclick = function() { filterNews(src, this); };
+      row.appendChild(btn);
+    });
+  }
 
   function renderNews(stories) {
     const container = document.getElementById('news-container');
@@ -1025,6 +1042,7 @@
       if (!res.ok) throw new Error('news.json not found yet');
       const data = await res.json();
       allStories = data.stories || [];
+      buildFilterButtons(allStories);
       const upd = document.getElementById('news-updated');
       if (upd) upd.textContent = `Last updated: ${data.updated} · ${data.total} stories`;
       renderNews(allStories);
