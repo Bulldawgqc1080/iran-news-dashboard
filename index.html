@@ -295,7 +295,7 @@
   <nav>
     <button class="active" onclick="showTab('overview',this)">Overview</button>
     <button onclick="showTab('perspectives',this)">Perspectives</button>
-    <button onclick="showTab('timeline',this)">Timeline</button>
+    <button onclick="showTab('timeline',this)" id="timeline-tab-btn">Timeline</button>
     <button onclick="showTab('sources',this)">Sources</button>
     <button onclick="showTab('deeper',this)">🌍 Go Deeper</button>
     <button onclick="showTab('live',this)" id="live-tab-btn">📡 Live News</button>
@@ -532,6 +532,22 @@
       <div class="section-title">Key Events Timeline</div>
       <div class="grid-2">
         <div class="card" style="padding:20px 24px">
+          <!-- AUTO-UPDATED RECENT EVENTS -->
+          <div id="timeline-auto-section" style="margin-bottom:24px">
+            <div style="font-size:12px;color:var(--subtext);margin-bottom:12px;display:flex;align-items:center;gap:8px;flex-wrap:wrap">
+              <span style="width:8px;height:8px;border-radius:50%;background:#06d6a0;display:inline-block"></span>
+              <span style="font-weight:600;color:var(--text);font-size:13px">Recent Events</span>
+              <span style="font-size:10px;background:rgba(6,214,160,0.12);color:#06d6a0;padding:2px 8px;border-radius:10px">Auto-Updated</span>
+              <span id="timeline-updated" style="margin-left:auto;font-size:10px;color:var(--subtext);opacity:0.7"></span>
+            </div>
+            <div id="timeline-auto-container">
+              <div style="text-align:center;padding:20px;color:var(--subtext);font-size:13px">Loading recent events…</div>
+            </div>
+          </div>
+
+          <div style="height:1px;background:var(--border);margin:4px 0 20px"></div>
+          <div style="font-size:11px;font-weight:700;letter-spacing:0.8px;text-transform:uppercase;color:var(--subtext);margin-bottom:14px">Historical Context</div>
+
           <div class="timeline">
 
             <div class="tl-item fact">
@@ -1061,6 +1077,54 @@
 
   // Load news when Live News tab is opened
   document.getElementById('live-tab-btn').addEventListener('click', loadNews);
+
+  // ── TIMELINE AUTO-UPDATE ────────────────────────────────────
+  let timelineLoaded = false;
+
+  const TYPE_COLOR = { fact: 'var(--fact)', govt: 'var(--govt)', framing: 'var(--framing)' };
+  const TYPE_LABEL = { fact: '🔵 Multi-source confirmed', govt: '🟠 2 sources', framing: '🟣 Single source' };
+
+  async function loadTimeline() {
+    if (timelineLoaded) return;
+    try {
+      const res = await fetch('timeline.json?t=' + Date.now());
+      if (!res.ok) throw new Error('timeline.json not found');
+      const data = await res.json();
+
+      const upd = document.getElementById('timeline-updated');
+      if (upd && data.updated) upd.textContent = 'Updated: ' + data.updated;
+
+      const container = document.getElementById('timeline-auto-container');
+      if (!data.events || !data.events.length) {
+        container.innerHTML = '<div style="color:var(--subtext);font-size:13px;padding:8px 0">No recent events yet — check back after the next GitHub Actions run.</div>';
+        timelineLoaded = true;
+        return;
+      }
+
+      container.innerHTML = data.events.map(e => `
+        <div class="tl-item ${e.type}" style="margin-bottom:14px">
+          <div class="tl-dot"></div>
+          <div class="tl-date">${e.dateDisplay}</div>
+          <a href="${e.link}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+            <div class="tl-title" style="color:var(--text)">${e.title}</div>
+          </a>
+          <div style="margin-top:5px;display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+            <span style="font-size:11px;color:${TYPE_COLOR[e.type]}">${TYPE_LABEL[e.type]}</span>
+            <span style="font-size:11px;color:var(--subtext)">${e.sources.join(' · ')}</span>
+          </div>
+        </div>`).join('');
+
+      timelineLoaded = true;
+    } catch (err) {
+      document.getElementById('timeline-auto-container').innerHTML = `
+        <div style="color:var(--subtext);font-size:13px;padding:8px 0;line-height:1.7">
+          Recent events will appear here after the first GitHub Actions run.<br>
+          Go to your repo → <strong>Actions</strong> → <strong>Update Iran News Feed</strong> → <strong>Run workflow</strong>.
+        </div>`;
+    }
+  }
+
+  document.getElementById('timeline-tab-btn').addEventListener('click', loadTimeline);
 
   // ── CARD FILTER ────────────────────────────────────────────
   function filterCards(type, btn) {
