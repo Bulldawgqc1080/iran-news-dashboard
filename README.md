@@ -2,7 +2,7 @@
 
 A free, open-source news dashboard designed to help Americans (and anyone) cut through media bias and understand what's actually happening with the Iran conflict.
 
-**[Live Demo →](https://yourusername.github.io/iran-news-dashboard/)** *(replace with your GitHub Pages URL)*
+**[Live Demo →](https://bulldawgqc1080.github.io/iran-news-dashboard/)**
 
 ---
 
