@@ -217,6 +217,18 @@ def main():
 
     # Sort: US first, then EU, then ME/others
     order = {"us": 0, "eu": 1, "me": 2, "ru": 3, "cn": 4}
+
+    # Cap: max 15 stories per source, 60 total
+    from collections import defaultdict
+    source_counts = defaultdict(int)
+    capped = []
+    for item in unique:
+        src = item.get("source", "")
+        if source_counts[src] < 15:
+            source_counts[src] += 1
+            capped.append(item)
+    unique = capped[:60]
+
     unique.sort(key=lambda x: order.get(x["region"], 9))
 
     output = {
