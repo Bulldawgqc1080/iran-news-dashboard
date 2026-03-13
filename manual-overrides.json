@@ -1,0 +1,19 @@
+{
+  "casualties": {
+    "us": {
+      "killed": 7,
+      "wounded": 140,
+      "asOf": "2026-03-13T12:00:00Z"
+    },
+    "iranMilitary": {
+      "killedMin": 2094,
+      "killedMax": 2300,
+      "asOf": "2026-03-13T12:00:00Z"
+    },
+    "iranCivilians": {
+      "killedMin": 1255,
+      "woundedMin": 12000,
+      "asOf": "2026-03-13T12:00:00Z"
+    }
+  }
+}
