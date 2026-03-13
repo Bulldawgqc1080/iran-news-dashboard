@@ -1,8 +1,8 @@
 (function () {
   const CONFIG = {
     mountId: "war-widget",
-    metricsUrl: "./war-metrics.json",
-    sourcesUrl: "./sources.json",
+    metricsUrl: "./data/war-metrics.json",
+    sourcesUrl: "./data/sources.json",
     refreshMs: 60 * 60 * 1000,
     tickerFps: 4,
     locale: "en-US",
