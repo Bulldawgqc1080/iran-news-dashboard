@@ -159,14 +159,16 @@ font-family:var(--font-mono,monospace);
 
       const gas = m.energy?.usGasNationalAvgUsd;
       const gd = m.energy?.usGasChangeSinceStartUsd;
+      const gasArrow = Number.isFinite(gd) ? (gd > 0 ? "▲" : gd < 0 ? "▼" : "→") : "";
       $("#ww-gas").textContent = Number.isFinite(gas) ? `${fmtMoney2(gas)}/gal` : "—";
-      $("#ww-gasd").textContent = Number.isFinite(gd) ? `Since start: ${gd >= 0 ? "+" : ""}${fmtMoney2(gd)}` : "—";
-
+      $("#ww-gasd").textContent = Number.isFinite(gd) ? `${gasArrow} Since start: ${gd >= 0 ? "+" : ""}${fmtMoney2(gd)}` : "—";
+      
       const brent = m.energy?.brentUsdPerBbl;
       const bd = m.energy?.brentChangePct24h;
+      const brentArrow = Number.isFinite(bd) ? (bd > 0 ? "▲" : bd < 0 ? "▼" : "→") : "";
       $("#ww-brent").textContent = Number.isFinite(brent) ? `${fmtMoney2(brent)}/bbl` : "—";
-      $("#ww-brentd").textContent = Number.isFinite(bd) ? `24h: ${bd >= 0 ? "+" : ""}${Number(bd).toFixed(1)}%` : "—";
-
+      $("#ww-brentd").textContent = Number.isFinite(bd) ? `${brentArrow} 24h: ${bd >= 0 ? "+" : ""}${Number(bd).toFixed(1)}%` : "—";
+      
       const ul = $("#ww-sources");
       ul.innerHTML = "";
       (s.sources || []).forEach(src => {
