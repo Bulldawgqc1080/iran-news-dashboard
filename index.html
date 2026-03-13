@@ -456,7 +456,7 @@
       .card { padding: 14px; }
       .source-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
       .source-table { min-width: 560px; }
-      .filter-row { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
+      .filter-row { flex-wrap: wrap; padding-bottom: 4px; gap: 6px; }
       .filter-btn { white-space: nowrap; flex-shrink: 0; }
       footer { padding: 16px; font-size: 10px; }
     }
@@ -1234,7 +1234,7 @@
     <section>
       <div class="section-title" style="display:flex;justify-content:space-between;align-items:center">
         <span>Iran Headlines — All Sources</span>
-        <span id="news-updated" style="font-size:10px;color:var(--dim);text-transform:none;letter-spacing:0;font-weight:400;font-family:var(--font-mono)"></span>
+        <span id="news-updated" style="font-size:10px;color:var(--dim);text-transform:none;letter-spacing:0;font-weight:400;font-family:var(--font-mono)"></span><span id="news-rel-time" style="font-size:10px;color:var(--subtext);font-family:var(--font-mono);margin-left:5px;"></span>
       </div>
 
       <!-- Live tab search -->
@@ -1254,6 +1254,7 @@
         <span style="margin-left:auto;color:#4fc3f7;font-size:0.85rem;">→</span>
       </a>
 
+      <div style="margin-bottom:10px;"><div style="font-size:0.68rem;font-family:var(--font-mono);color:var(--subtext);letter-spacing:0.05em;margin-bottom:5px;">FEED STATUS</div><div id="feed-health-badges" style="display:flex;flex-wrap:wrap;gap:5px;"></div></div>
       <!-- Tone filter -->
       <div class="filter-row" id="tone-filter-row" style="margin-bottom:8px">
         <button class="filter-btn active" style="background:#363d5e;color:#fff;border-color:transparent" onclick="filterByTone('all',this)">All Tones</button>
@@ -1451,6 +1452,29 @@
     });
   }
 
+  
+  function relativeTime(utcStr) {
+    if (!utcStr) return '';
+    var p = utcStr.match(/(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2})/);
+    if (!p) return '';
+    var then = new Date(Date.UTC(+p[1],+p[2]-1,+p[3],+p[4],+p[5]));
+    var diff = Math.round((Date.now()-then)/60000);
+    if (diff<1) return '· just now';
+    if (diff<60) return '· '+diff+'m ago';
+    return '· '+Math.round(diff/60)+'h ago';
+  }
+  var ALL_FEED_SOURCES=['NPR News','VOA (Iran)','BBC','France 24','Al Jazeera','Deutsche Welle','TASS','Xinhua','Dawn','Arab News','The Hindu','Gulf News'];
+  function renderFeedHealth(stories) {
+    var bar=document.getElementById('feed-health-badges');
+    if(!bar) return;
+    var counts={};
+    stories.forEach(function(s){counts[s.source]=(counts[s.source]||0)+1;});
+    bar.innerHTML=ALL_FEED_SOURCES.map(function(src){
+      var n=counts[src]||0,ok=n>0;
+      return '<span title="'+src+': '+n+' stories" style="font-size:0.68rem;padding:2px 8px;border-radius:10px;font-family:var(--font-mono);cursor:default;background:'+(ok?'rgba(0,180,100,0.12)':'rgba(255,90,70,0.1)')+';border:1px solid '+(ok?'rgba(0,180,100,0.3)':'rgba(255,90,70,0.25)')+';color:'+(ok?'#4cba87':'#d07070')+';white-space:nowrap;">'+(ok?'✅':'⚠')+' '+src+'</span>';
+    }).join('');
+  }
+
   function renderNews(stories) {
     const container = document.getElementById('news-container');
     if (!stories.length) {
@@ -1517,8 +1541,8 @@
       }));
       buildFilterButtons(allStories);
       const upd = document.getElementById('news-updated');
-      if (upd) upd.textContent = `Updated: ${data.updated} · ${data.total} stories`;
-      renderNews(allStories);
+      if (upd) upd.textContent = `Updated: ${data.updated} · ${data.total} stories`; var rEl=document.getElementById('news-rel-time'); if(rEl) rEl.textContent=relativeTime(data.updated);
+      renderFeedHealth(allStories); renderNews(allStories);
     } catch (e) {
       document.getElementById('news-container').innerHTML = `
         <div style="text-align:center;padding:40px 20px;color:var(--subtext)">
