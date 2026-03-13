@@ -1,19 +1,29 @@
 {
-  "updated": "2026-03-12 23:53 UTC",
-  "total": 9,
+  "updated": "2026-03-13 02:14 UTC",
+  "total": 10,
   "events": [
+    {
+      "date": "2026-03-13",
+      "dateDisplay": "Mar 13, 2026",
+      "title": "Iranian missile strikes residential area in northern Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-03-12",
       "dateDisplay": "Mar 12, 2026",
-      "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
-      "link": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran says its new leader made his 1st address, vowing to keep Strait of Hormuz closed",
+      "link": "https://www.npr.org/2026/03/12/nx-s1-5745689/iran-war-israel-us",
       "sources": [
-        "France 24",
-        "Al Jazeera",
-        "BBC"
+        "NPR News",
+        "Al Jazeera"
       ],
-      "sourceCount": 3,
-      "type": "fact"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-03-11",
