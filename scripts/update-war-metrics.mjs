@@ -105,12 +105,21 @@ const operation = mergeDeep(DEFAULTS.operation, existing.operation || {});
 const cost = mergeDeep(DEFAULTS.cost, existing.cost || {});
 const casualties = mergeDeep(DEFAULTS.casualties, existing.casualties || {});
 let energy = existing.energy || {};
+const lastGoodEnergy = existing.energy || {};
 
-try { energy = { ...energy, ...(await getGasPatch()) }; }
-catch (e) { console.warn("gas fetch failed:", e.message); }
+try {
+energy = { ...energy, ...(await getGasPatch()) };
+} catch (e) {
+console.warn("gas fetch failed:", e.message);
+energy = { ...energy, ...lastGoodEnergy };
+}
 
-try { energy = { ...energy, ...(await getBrentPatch()) }; }
-catch (e) { console.warn("brent fetch failed:", e.message); }
+try {
+energy = { ...energy, ...(await getBrentPatch()) };
+} catch (e) {
+console.warn("brent fetch failed:", e.message);
+energy = { ...energy, ...lastGoodEnergy };
+}
 
 let metrics = {
 lastUpdated: nowIso(),
