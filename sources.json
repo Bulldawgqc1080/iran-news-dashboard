@@ -1,0 +1,33 @@
+{
+  "lastUpdated": "2026-03-13T12:20:00Z",
+  "sources": [
+    {
+      "id": "pentagon-congress-briefing",
+      "label": "Pentagon briefing to Congress (reported by NYT)",
+      "url": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-war-costs-pentagon.html",
+      "category": "cost",
+      "priority": "primary"
+    },
+    {
+      "id": "dod-centcom",
+      "label": "DoD / CENTCOM official releases",
+      "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/",
+      "category": "us_casualties",
+      "priority": "primary"
+    },
+    {
+      "id": "aaa-gas",
+      "label": "AAA Gas Prices",
+      "url": "https://gasprices.aaa.com/",
+      "category": "gas_price",
+      "priority": "primary"
+    },
+    {
+      "id": "reuters-conflict",
+      "label": "Reuters conflict tallies",
+      "url": "https://www.reuters.com/",
+      "category": "regional_casualties",
+      "priority": "secondary"
+    }
+  ]
+}
