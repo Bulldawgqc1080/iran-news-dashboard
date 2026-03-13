@@ -61,7 +61,7 @@ font-family:var(--font-mono,monospace);
 font-size:2rem;
 font-weight:800;
 margin-top:10px;
-color:var(--fact,#1a73e8);
+color:#ff4d4d;
 letter-spacing:.5px;
 }
 .ww-sub{
@@ -102,7 +102,7 @@ letter-spacing:.8px;
 font-family:var(--font-mono,monospace);
 }
 .ww-sources ul{margin:8px 0 0 18px}
-.ww-sources a{color:var(--fact,#1a73e8);text-decoration:none}
+.ww-sources a{color:#ff6b6b;text-decoration:none}
 .ww-sources a:hover{text-decoration:underline}
 `;
   document.head.appendChild(style);
