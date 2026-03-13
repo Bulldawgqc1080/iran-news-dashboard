@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 import re
 
-# ── RSS FEED SOURCES ─────────────────────────────────────────────────────────
+# ── RSS FEED SOURCES ───────────────────────────────────────────────────────────
 # Reuters and AP block GitHub's IPs. Replaced with equivalent sources
 # that have open RSS access.
 SOURCES = [
@@ -56,9 +56,52 @@ SOURCES = [
         "bias": "Low",
         "url": "https://rss.dw.com/rdf/rss-en-world",
     },
+    # ── NEW NON-WESTERN SOURCES ────────────────────────────────────────────────
+    {
+        "name": "TASS",
+        "region": "ru",
+        "color": "#cc4444",
+        "bias": "Very High",
+        "url": "https://tass.com/rss/v2.xml",
+    },
+    {
+        "name": "Xinhua",
+        "region": "cn",
+        "color": "#cc4444",
+        "bias": "High",
+        "url": "https://www.xinhuanet.com/english/rss/worldrss.xml",
+    },
+    {
+        "name": "Dawn",
+        "region": "me",
+        "color": "#22bb77",
+        "bias": "Low-Med",
+        "url": "https://www.dawn.com/feeds/world",
+    },
+    {
+        "name": "Arab News",
+        "region": "me",
+        "color": "#ffbe0b",
+        "bias": "High",
+        "url": "https://www.arabnews.com/rss.xml",
+    },
+    {
+        "name": "The Hindu",
+        "region": "me",
+        "color": "#22bb77",
+        "bias": "Low-Med",
+        "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+    },
+    {
+        "name": "Gulf News",
+        "region": "me",
+        "color": "#ffbe0b",
+        "bias": "Medium",
+        "url": "https://gulfnews.com/rss/world",
+    },
 ]
 
-# ── IRAN-RELATED KEYWORDS ────────────────────────────────────────────────────
+# ── IRAN-RELATED KEYWORDS ──────────────────────────────────────────────────────
 IRAN_KEYWORDS = [
     "iran", "iranian", "tehran", "irgc", "quds", "khamenei",
     "nuclear deal", "jcpoa", "sanctions", "strait of hormuz",
@@ -106,7 +149,6 @@ def fetch_feed(source):
 
         found = 0
         for item in entries[:50]:
-            # Try RSS fields first, then Atom
             def get(tag, atom_tag=None):
                 el = item.find(tag)
                 if el is None and atom_tag:
@@ -116,7 +158,7 @@ def fetch_feed(source):
                 return ""
 
             title = clean_html(get("title", "{http://www.w3.org/2005/Atom}title"))
-            link  = get("link",  "{http://www.w3.org/2005/Atom}link")
+            link  = get("link", "{http://www.w3.org/2005/Atom}link")
             desc  = clean_html(get("description", "{http://www.w3.org/2005/Atom}summary"))
             date  = get("pubDate", "{http://www.w3.org/2005/Atom}updated")
 
@@ -134,14 +176,14 @@ def fetch_feed(source):
             combined = f"{title} {desc}"
             if is_iran_related(combined):
                 items.append({
-                    "title": title,
-                    "link": link,
+                    "title":       title,
+                    "link":        link,
                     "description": desc[:280] + ("..." if len(desc) > 280 else ""),
-                    "date": date[:16] if date else "",
-                    "source": source["name"],
-                    "region": source["region"],
-                    "color": source["color"],
-                    "bias": source["bias"],
+                    "date":        date[:16] if date else "",
+                    "source":      source["name"],
+                    "region":      source["region"],
+                    "color":       source["color"],
+                    "bias":        source["bias"],
                 })
                 found += 1
 
@@ -151,6 +193,7 @@ def fetch_feed(source):
         print(f"  ERROR: {e}")
 
     return items
+
 
 def main():
     print(f"\n{'='*55}")
@@ -172,13 +215,13 @@ def main():
             seen.add(key)
             unique.append(item)
 
-    # Sort: US sources first, then EU, then ME
-    order = {"us": 0, "eu": 1, "me": 2}
+    # Sort: US first, then EU, then ME/others
+    order = {"us": 0, "eu": 1, "me": 2, "ru": 3, "cn": 4}
     unique.sort(key=lambda x: order.get(x["region"], 9))
 
     output = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
-        "total": len(unique),
+        "total":   len(unique),
         "stories": unique,
     }
 
@@ -187,6 +230,7 @@ def main():
 
     print(f"\n✅ Saved {len(unique)} stories to news.json")
     print(f"{'='*55}\n")
+
 
 if __name__ == "__main__":
     main()
