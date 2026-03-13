@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T17:06:45.373Z",
+  "lastUpdated": "2026-03-13T17:12:54.806Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,7 +9,7 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 19013025150
+    "estimatedTotalUsd": 19017301007
   },
   "casualties": {
     "us": {
@@ -28,7 +28,13 @@
       "asOf": "2026-03-13T12:00:00Z"
     }
   },
-  "energy": {},
+  "energy": {
+    "usGasNationalAvgUsd": 3.58,
+    "usGasChangeSinceStartUsd": 0.62,
+    "brentUsdPerBbl": 99.06,
+    "brentChangePct24h": 0.1,
+    "asOf": "2026-03-13T12:15:00Z"
+  },
   "ui": {
     "showRanges": true,
     "currency": "USD"
