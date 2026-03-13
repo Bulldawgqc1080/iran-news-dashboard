@@ -104,6 +104,9 @@ font-family:var(--font-mono,monospace);
 .ww-sources ul{margin:8px 0 0 18px}
 .ww-sources a{color:#ff6b6b;text-decoration:none}
 .ww-sources a:hover{text-decoration:underline}
+.ww-trend-up{color:#ff6b6b;font-weight:700}
+.ww-trend-down{color:#4dcc88;font-weight:700}
+.ww-trend-flat{color:#8892b0;font-weight:700}
 `;
   document.head.appendChild(style);
 
@@ -156,18 +159,24 @@ font-family:var(--font-mono,monospace);
       $("#ww-im-k").textContent = range(m.casualties?.iranMilitary?.killedMin, m.casualties?.iranMilitary?.killedMax);
       $("#ww-ic-k").textContent = range(m.casualties?.iranCivilians?.killedMin, m.casualties?.iranCivilians?.killedMax);
       $("#ww-ic-w").textContent = range(m.casualties?.iranCivilians?.woundedMin, m.casualties?.iranCivilians?.woundedMax);
-
       const gas = m.energy?.usGasNationalAvgUsd;
       const gd = m.energy?.usGasChangeSinceStartUsd;
-      const gasArrow = Number.isFinite(gd) ? (gd > 0 ? "▲" : gd < 0 ? "▼" : "→") : "";
-      $("#ww-gas").textContent = Number.isFinite(gas) ? `${fmtMoney2(gas)}/gal` : "—";
-      $("#ww-gasd").textContent = Number.isFinite(gd) ? `${gasArrow} Since start: ${gd >= 0 ? "+" : ""}${fmtMoney2(gd)}` : "—";
-      
       const brent = m.energy?.brentUsdPerBbl;
       const bd = m.energy?.brentChangePct24h;
+
+      const gasTrendClass = Number.isFinite(gd) ? (gd > 0 ? "ww-trend-up" : gd < 0 ? "ww-trend-down" : "ww-trend-flat") : "";
+      const gasArrow = Number.isFinite(gd) ? (gd > 0 ? "▲" : gd < 0 ? "▼" : "→") : "";
+      $("#ww-gas").textContent = Number.isFinite(gas) ? `${fmtMoney2(gas)}/gal` : "—";
+      $("#ww-gasd").innerHTML = Number.isFinite(gd)
+      ? `<span class="${gasTrendClass}">${gasArrow}</span> Since start: ${gd >= 0 ? "+" : ""}${fmtMoney2(gd)}`
+      : "—";
+      
+      const brentTrendClass = Number.isFinite(bd) ? (bd > 0 ? "ww-trend-up" : bd < 0 ? "ww-trend-down" : "ww-trend-flat") : "";
       const brentArrow = Number.isFinite(bd) ? (bd > 0 ? "▲" : bd < 0 ? "▼" : "→") : "";
       $("#ww-brent").textContent = Number.isFinite(brent) ? `${fmtMoney2(brent)}/bbl` : "—";
-      $("#ww-brentd").textContent = Number.isFinite(bd) ? `${brentArrow} 24h: ${bd >= 0 ? "+" : ""}${Number(bd).toFixed(1)}%` : "—";
+      $("#ww-brentd").innerHTML = Number.isFinite(bd)
+      ? `<span class="${brentTrendClass}">${brentArrow}</span> 24h: ${bd >= 0 ? "+" : ""}${Number(bd).toFixed(1)}%`
+      : "—";
       
       const ul = $("#ww-sources");
       ul.innerHTML = "";
