@@ -743,7 +743,7 @@
               <td style="font-size:12px;color:var(--subtext)">Broadly balanced; some critique of Anglo-American foreign policy framing.</td>
               <td>
                 <div class="bias-bar-wrap">
-                  <div class="bias-bar"><div class="bias-fill" style="width:30%;background:#aaa)"></div></div>
+                  <div class="bias-bar"><div class="bias-fill" style="width:30%;background:#aaa"></div></div>
                   <span class="bias-label" style="font-size:11px;color:#aaa">Low-Med</span>
                 </div>
               </td>
@@ -1180,8 +1180,12 @@
 
   // ── CARD FILTER ────────────────────────────────────────────
   function filterCards(type, btn) {
-    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    const overviewFilterRow = btn.closest('.filter-row');
+    if (overviewFilterRow) {
+      overviewFilterRow.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    }
     btn.classList.add('active');
+
     document.querySelectorAll('#cards-container .card').forEach(card => {
       if (type === 'all') {
         card.style.display = '';
