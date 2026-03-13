@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13 05:14 UTC",
+  "updated": "2026-03-13 07:59 UTC",
   "total": 60,
   "stories": [
     {
@@ -66,16 +66,6 @@
       "title": "Morning news brief",
       "link": "https://www.npr.org/2026/03/12/nx-s1-5741662/morning-news-brief",
       "description": "U.S.-Israel strikes continue as Iran effectively closes Strait of Hormuz, Trump ran on lower gas prices, but the Iran war challenges that, probe points to U.S. being at fault for Iran school strike.",
-      "date": "Thu, 12 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "The war in Iran, its effect on the Middle East and the growing global oil crisis",
-      "link": "https://www.npr.org/2026/03/12/nx-s1-5744842/the-war-in-iran-its-effect-on-the-middle-east-and-the-growing-global-oil-crisis",
-      "description": "The latest on the Iran war and the growing oil crisis across the Middle East from Dubai, Iraq, Lebanon and Israel.",
       "date": "Thu, 12 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -233,9 +223,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Iran-linked Iraq group says French interests in region are targets",
+      "title": "🔴 Middle East war live: Israel launches fresh round of strikes on Tehran",
       "link": "https://www.france24.com/en/middle-east/20260313-middle-east-war-live-iraq-iran-lebanon-israel-gulf",
-      "description": "A pro-Iranian group in Iraq warned Friday that French interests \"in Iraq and the region\" would be \"under targeting fire\" after the arrival of a French aircraft carrier. The statement on the Telegram page of the Ashab Alkahf group came as French President Emmanuel Macron announced...",
+      "description": "",
+      "date": "Fri, 13 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Zelensky in Paris to discuss increasing pressure on Russia as US peace talks stall",
+      "link": "https://www.france24.com/en/europe/20260313-zelensky-in-paris-to-discuss-increasing-pressure-on-russia-as-us-peace-talks-stall",
+      "description": "Ukrainian President Volodymyr Zelensky will meet French President Emmanuel Macron in Paris on Friday to discuss ways to increase pressure on Russia to end its war in Ukraine. The meeting comes as US-brokered peace talks between Russia and Ukraine have stalled and the US said on M...",
+      "date": "Fri, 13 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Macron says officer killed in Iraq as pro-Iran group vows to target French interests",
+      "link": "https://www.france24.com/en/middle-east/20260313-macron-says-officer-killed-in-iraq-as-pro-iran-group-vows-to-target-french-interests",
+      "description": "A French officer was killed in a drone attack in Iraq, President Emmanuel Macron said on Friday, amid the ongoing conflict in the Middle East. Earlier the Iran-backed Iraqi group, Ashab Alkahf, warned that French interests in the region were now targets after the arrival of a Fre...",
       "date": "Fri, 13 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -343,14 +353,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war: Dubai targeted by fresh Iranian drone strikes",
-      "link": "https://www.france24.com/en/video/20260312-middle-east-war-dubai-targeted-by-fresh-iranian-drone-strikes",
-      "description": "#Dubai was among the targets of fresh Iranian drone strikes early on March 12, alongside Kuwait's airport. This comes after #Iran denounced a #UN Security Council resolution that demanded strikes on the #Gulf countries stop. Eleven civilians have died since the start of Iranian a...",
-      "date": "Thu, 12 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Force majeure: What is it and why have some Gulf countries invoked it?",
+      "link": "https://www.aljazeera.com/news/2026/3/13/force-majeure-what-is-it-and-why-have-some-gulf-countries-invoked-it?traffic_source=rss",
+      "description": "Several Gulf nations have declared force majeure on oil and gas shipment since the US-Israel’s war on Iran was launched.",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war: What is happening on day 14 of US-Israel attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/13/iran-war-what-is-happening-on-day-14-of-us-israel-attacks?traffic_source=rss",
+      "description": "Israel strikes Tehran as Iran retaliates across the Gulf; Hormuz disruption pushes oil prices higher and tensions rise.",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How Israel-US war on Iran puts $50bn in Indian remittances at risk",
+      "link": "https://www.aljazeera.com/news/2026/3/13/how-israel-us-war-on-iran-puts-50bn-in-indian-remittances-at-risk?traffic_source=rss",
+      "description": "The US-Israel war on Iran has caused gas shortages, while nine million Indian expats in the Gulf face uncertainty.",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
@@ -393,7 +423,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
+      "title": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss",
       "description": "Israeli strikes kill dozens more in Lebanon, including 5 children among nine people killed in attack on village of Arki.",
       "date": "Fri, 13 Mar 2026",
@@ -453,154 +483,124 @@
       "bias": "Medium"
     },
     {
-      "title": "How will the war on Iran impact the US economy?",
-      "link": "https://www.aljazeera.com/economy/2026/3/12/how-will-the-war-on-iran-impact-the-us-economy?traffic_source=rss",
-      "description": "Outcomes depend on how quickly oil tankers can return to the Strait of Hormuz, experts said.",
-      "date": "Thu, 12 Mar 2026",
-      "source": "Al Jazeera",
+      "title": "Breakdown of diplomacy further complicates Iran nuclear issue, Pakistan warns Security Council",
+      "link": "https://www.dawn.com/news/1981621/breakdown-of-diplomacy-further-complicates-iran-nuclear-issue-pakistan-warns-security-council",
+      "description": "Pakistan told the UN Security Council on Thursday that the breakdown of diplomacy in the Middle East has further complicated the Iranian nuclear issue, as Secretary-General António Guterres warned that the escalating crisis poses a “grave threat to international peace and securit...",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Does President Trump have an exit strategy for the war with Iran?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/12/does-president-trump-have-an-exit-strategy-for-the-war-with-iran?traffic_source=rss",
-      "description": "United States officials are issuing contradictory statements on the war&#039;s timeline and objectives.",
-      "date": "Thu, 12 Mar 2026",
-      "source": "Al Jazeera",
+      "title": "Assailant dead after ramming vehicle into Michigan synagogue",
+      "link": "https://www.dawn.com/news/1981645/assailant-dead-after-ramming-vehicle-into-michigan-synagogue",
+      "description": "A 41-year-old man was killed on Thursday after ramming his pickup truck into a synagogue on the outskirts of Detroit, Michigan, causing a blaze and triggering a huge police response. US media reported the assailant had recently lost family members in an Israeli strike in Lebanon,...",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war",
-      "link": "https://www.aljazeera.com/news/2026/3/12/iran-vows-to-make-trump-pay-for-grave-miscalculation-if-us-escalates-war?traffic_source=rss",
-      "description": "Ali Larijani responds to US threat to hit Iran&#039;s power infrastructure, saying the &#039;whole region will go dark&#039;.",
-      "date": "Thu, 12 Mar 2026",
-      "source": "Al Jazeera",
+      "title": "Oil market becomes hostage to Iran war",
+      "link": "https://www.dawn.com/news/1981548/oil-market-becomes-hostage-to-iran-war",
+      "description": "TEHRAN: Rescue workers gather as residents collect their belongings from the rubble of a residential building, damaged by US-Israeli strikes.—AFP • IMO to weigh Hormuz threats at extraordinary session as US Navy ‘not ready to escort ships’• Iran denies mining strait, offers passa...",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "How oil is at the center of the US-Israel war with Iran",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/12/aje-onl-irn_tuesdayupdates_av_v2-100326?traffic_source=rss",
-      "description": "As oil prices rise, the US, Israel and Iran seem ready to keep fighting no matter the costs.",
-      "date": "Thu, 12 Mar 2026",
-      "source": "Al Jazeera",
+      "title": "Strike on Beirut kills 12 after Israel’s ‘land grab’ threat",
+      "link": "https://www.dawn.com/news/1981537/strike-on-beirut-kills-12-after-israels-land-grab-threat",
+      "description": "SMOKE rises after Israeli air strikes target buildings in Beirut’s central Bachoura neighbourhood, close to the headquarters of the Lebanese government.—Reuters • 28 hurt in seafront attack targeting civilians, displaced families; death toll in Lebanon near 700• Hezbollah retalia...",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Question of lifting anti-Russian sanctions raised during Japan’s ruling party meeting",
-      "link": "https://tass.com/world/2100975",
-      "description": "Muneo Suzuki noted that Japan could use its geographical advantage to replace oil and gas supplies from the Middle East",
+      "title": "Rahul sees ‘Epstein link’ in Modi’s capitulation",
+      "link": "https://www.dawn.com/news/1981532/rahul-sees-epstein-link-in-modis-capitulation",
+      "description": "NEW DELHI: India has been blowing hot and cold at Iran over the oil flow disruption through the Hormuz and its targeting of US assets in Gulf states, but it is also talking to Tehran to allow its oil to be shipped, reports said on Thursday. The apparent capitulation of Prime Mini...",
       "date": "Fri, 13 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Gunman dead after attack on Michigan synagogue",
+      "link": "https://www.dawn.com/news/1981410/gunman-dead-after-attack-on-michigan-synagogue",
+      "description": "An unidentified shooter was killed on Thursday after exchanging gunfire with security in an attack on a synagogue on the outskirts of Detroit, Michigan, police said. Police said the gunman was dead following the attack on the Temple Israel synagogue in West Bloomfield. Law enforc...",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US refuelling aircraft crashes in western Iraq: US military",
+      "link": "https://www.dawn.com/news/1981530/us-refuelling-aircraft-crashes-in-western-iraq-us-military",
+      "description": "An American KC-135 aerial refuelling aircraft crashed in western Iraq while a second plane involved in the incident landed safely, the US military said on Thursday. In a statement, US Central Command said it was carrying out rescue efforts after the US KC-135 refueling aircraft w...",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "In first remarks, Iran’s new supreme leader vows to avenge martyrs, keep Strait of Hormuz closed",
+      "link": "https://www.dawn.com/news/1981360/in-first-remarks-irans-new-supreme-leader-vows-to-avenge-martyrs-keep-strait-of-hormuz-closed",
+      "description": "Iran will ​avenge the blood of its martyrs, keep the Strait of Hormuz closed and attack US bases, new Supreme Leader Ayatollah Mojtaba ‌Khamenei said on Thursday in a statement read out on state television, his first remarks since succeeding his father following his assassination...",
+      "date": "Thu, 12 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan backs Bahrain, Russia draft resolutions at UNSC, urges de-escalation",
+      "link": "https://www.dawn.com/news/1981241/pakistan-backs-bahrain-russia-draft-resolutions-at-unsc-urges-de-escalation",
+      "description": "WASHINGTON: Pakistan has outlined the rationale behind its votes on two competing draft resolutions at the United Nations Security Council, stating that both were aimed at curbing regional escalation and promoting an immediate return to dialogue. On March 11, the Security Council...",
+      "date": "Thu, 12 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
+      "link": "https://tass.com/world/1968185",
+      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "US sees no evidence of Russia helping Iran — envoy to NATO",
-      "link": "https://tass.com/world/2100969",
-      "description": "Matthew Whitaker mentioned an earlier conversation where \"the Russians\" told Special Presidential Envoy Steve Witkoff they were not \"participating with the Iranians\"",
-      "date": "Fri, 13 Mar 2026",
+      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
+      "link": "https://tass.com/world/1968163",
+      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israel, US strike eastern Tehran — agency",
-      "link": "https://tass.com/world/2100963",
-      "description": "No reports about damage or casualties are available at this point",
-      "date": "Fri, 13 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
+      "title": "DPRK slams U.S. for orchestrating efforts to tighten financial sanctions against Pyongyang",
+      "link": "http://news.xinhuanet.com/english/2017-03/30/c_136171059.htm",
+      "description": "The Democratic People's Republic of Korea (DPRK) has slammed the United States for orchestrating efforts to tighten financial sanctions against Pyongyang.",
+      "date": "2017-03-30",
+      "source": "Xinhua",
+      "region": "cn",
       "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "European Council to discuss Iran, Ukraine on March 19 — Costa",
-      "link": "https://tass.com/world/2100945",
-      "description": "The situation in Lebanon, the Gaza Strip and the West Bank is also on the agenda",
-      "date": "Fri, 13 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iraqi tankers can cross Strait of Hormuz — Iran’s ambassador to Baghdad",
-      "link": "https://tass.com/world/2100941",
-      "description": "Two tankers were attacked in the Iraqi waters a day before the statement",
-      "date": "Fri, 13 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US distorts facts claiming that Tehran enriched uranium to 60% — envoy to UN",
-      "link": "https://tass.com/world/2100939",
-      "description": "Amir-Saeid Iravani says Washington \"ignores the real root of the situation\"",
-      "date": "Fri, 13 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian General Staff says US refueling aircraft was downed over western Iraq",
-      "link": "https://tass.com/world/2100937",
-      "description": "The Central Command of the US armed forces said that the plane had been lost not due to hostile fire or friendly fire",
-      "date": "Fri, 13 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US lifts sanctions on Russian oil loaded on vessels before March 12 — Treasury Department",
-      "link": "https://tass.com/world/2100931",
-      "description": "The license allows transactions with Russian fuel before April 11",
-      "date": "Fri, 13 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Central Iranian city of Arak bombed — TV",
-      "link": "https://tass.com/world/2100927",
-      "description": "No information on damage or casualties is available so far",
-      "date": "Fri, 13 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran warns against attacks on its energy infrastructure",
-      "link": "https://tass.com/world/2100887",
-      "description": "A representative of Khatam al-Anbiya, the central headquarters of the Iranian army, says that otherwise Iran would destroy all oil and gas infrastructure of interest to the US in the region",
-      "date": "Fri, 13 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "During talks, Iran proposed formally sealing its refusal from nuclear ambitions — minister",
-      "link": "https://tass.com/world/2100913",
-      "description": "Abbas Araghchi says Washington turned down the proposal",
-      "date": "Fri, 13 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
+      "bias": "High"
     }
   ]
 }
