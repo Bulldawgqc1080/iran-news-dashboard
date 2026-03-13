@@ -1,0 +1,42 @@
+{
+  "lastUpdated": "2026-03-13T12:20:00Z",
+  "operation": {
+    "name": "Operation Epic Fury",
+    "start": "2026-02-28T00:00:00Z"
+  },
+  "cost": {
+    "baselineUsd": 11300000000,
+    "baselineWindowDays": 6,
+    "ongoingPerDayUsd": 1000000000,
+    "estimatedTotalUsd": 18644375613,
+    "method": "baseline_plus_daily_burn"
+  },
+  "casualties": {
+    "us": {
+      "killed": 7,
+      "wounded": 140,
+      "asOf": "2026-03-13T11:50:00Z"
+    },
+    "iranMilitary": {
+      "killedMin": 2094,
+      "killedMax": 2300,
+      "asOf": "2026-03-13T10:40:00Z"
+    },
+    "iranCivilians": {
+      "killedMin": 1255,
+      "woundedMin": 12000,
+      "asOf": "2026-03-13T10:40:00Z"
+    }
+  },
+  "energy": {
+    "usGasNationalAvgUsd": 3.58,
+    "usGasChangeSinceStartUsd": 0.62,
+    "brentUsdPerBbl": 99.06,
+    "brentChangePct24h": 0.1,
+    "asOf": "2026-03-13T12:15:00Z"
+  },
+  "ui": {
+    "showRanges": true,
+    "currency": "USD"
+  }
+}
