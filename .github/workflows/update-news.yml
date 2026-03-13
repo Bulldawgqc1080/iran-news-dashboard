@@ -35,5 +35,6 @@ jobs:
             echo "No new stories — skipping commit"
           else
             git commit -m "Auto-update news feed [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-            git push
+                        git pull --rebase origin main
+                        git push
           fi
