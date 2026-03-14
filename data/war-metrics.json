@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T18:24:26.819Z",
+  "lastUpdated": "2026-03-14T18:31:46.798Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,20 +9,21 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 20066977072
+    "estimatedTotalUsd": 20072069421
   },
   "casualties": {
     "us": {
       "killed": {
-        "value": 4,
-        "asOf": "2026-03-13T09:45:14.000Z",
+        "value": 6,
+        "asOf": "2026-03-13T14:24:56.000Z",
         "sourceId": "dod-centcom-rss",
         "confidence": "high"
       },
       "wounded": {
+        "value": 140,
+        "asOf": "2026-03-14T18:24:26.819Z",
         "sourceId": "dod-centcom-rss",
-        "confidence": "medium",
-        "asOf": "2026-03-14T18:24:26.819Z"
+        "confidence": "medium"
       },
       "asOf": "2026-03-13T12:00:00Z"
     },
@@ -72,7 +73,7 @@
     "asOf": "2026-03-13T12:15:00Z"
   },
   "quality": {
-    "generatedAt": "2026-03-14T18:24:26.819Z",
+    "generatedAt": "2026-03-14T18:31:46.798Z",
     "staleThresholdHours": 48,
     "casualties": {
       "usStale": false,
