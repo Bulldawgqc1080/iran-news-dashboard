@@ -135,7 +135,7 @@ const text = `${title} ${desc}`.replace(/\s+/g, " ").toLowerCase();
 if (!/(u\.s\.|us |service member|crew member|centcom)/i.test(text)) continue;
 
 // patterns like: "All six crew members ... confirmed deceased"
-const p1 = text.match(/all\s+([a-z0-9]+)\s+(?:crew|service)\s+members?.{0,60}(confirmed\s+deceased|killed)/i);
+const p1 = text.match(/all\s+([a-z0-9]+)\s+(?:crew|service)\s+members?.{0,180}(?:are\s+)?(?:now\s+)?(?:confirmed\s+deceased|killed)/i);
 // patterns like: "Four confirmed deceased"
 const p2 = text.match(/([a-z0-9]+)\s+confirmed\s+deceased/i);
 // patterns like: "7 killed"
