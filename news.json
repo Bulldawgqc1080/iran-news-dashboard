@@ -1,7 +1,17 @@
 {
-  "updated": "2026-03-14 14:59 UTC",
+  "updated": "2026-03-14 15:52 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled",
+      "link": "https://www.npr.org/2026/03/14/nx-s1-5747959/russian-strike-kyiv-region",
+      "description": "The strikes comes after the United States paused ceasefire talks between Russia and Ukraine due to the war with Iran.",
+      "date": "Sat, 14 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "How the conflict in Iran is affecting global markets",
       "link": "https://www.npr.org/2026/03/14/nx-s1-5744647/how-the-conflict-in-iran-is-affecting-global-markets",
@@ -46,16 +56,6 @@
       "title": "CNN correspondent shares his takeaways from his recent visit to Iran",
       "link": "https://www.npr.org/2026/03/13/nx-s1-5745892/cnn-correspondent-shares-his-takeaways-from-his-recent-visit-to-iran",
       "description": "NPR's Steve Inskeep asks CNN's Fred Pleitgen for his takeaways from his recent reporting trip to Iran.",
-      "date": "Fri, 13 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. military bombs Iran's main oil export hub, as Mideast war toll mounts",
-      "link": "https://www.npr.org/2026/03/13/g-s1-113563/us-iran-war",
-      "description": "President Trump said on Friday the U.S. military had \"totally obliterated every MILITARY target in Iran's crown jewel, Kharg Island.\" This, as all six crew members on a refueling plane that went down in western Iraq were confirmed dead.",
       "date": "Fri, 13 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -223,7 +223,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Irak: US embassy complex in Baghdad hit by a drone strike",
+      "title": "Iraq: US embassy complex in Baghdad hit by a drone strike",
       "link": "https://www.france24.com/en/irak-us-embassy-complex-in-baghdad-hit-by-a-drone-strike",
       "description": "Explosions rocked cities across the Middle East on Saturday as the US embassy in Baghdad was hit by a drone strike and Tehran warned Emiratis to stay away from ports as it targets the world's energy supply lines. Details by Caroline Baum.",
       "date": "Sat, 14 Mar 2026",
@@ -313,7 +313,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: US hits more than 90 targets on Kharg Island, Iran vows to retaliate",
+      "title": "Middle East war live: Iran vows to retaliate after US hits more than 90 targets on Kharg Island",
       "link": "https://www.france24.com/en/middle-east/20260314-middle-east-war-live-iran-threatens-retaliation-as-trump-says-us-obliterated-targets-on-kharg-island",
       "description": "US forces struck more than 90 Iranian military targets in a major attack on Kharg Island, a vital oil hub, while \"preserving the oil infrastructure\", US Central Command said on Saturday as the war entered its third week. Iran said there were no casualties and has threatened to ta...",
       "date": "Sat, 14 Mar 2026",
@@ -361,6 +361,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran says Strait of Hormuz will not be reopened to US ships",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss",
+      "description": "A member of Iran’s Expediency Council says the Strait of Hormuz will remain closed to US ships.",
+      "date": "Sat, 14 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Why is Iran’s Kharg Island important?",
@@ -435,27 +445,7 @@
     {
       "title": "Iran continues intensified attacks across Gulf in US-Israeli war fallout",
       "link": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
-      "description": "Strikes target multiple countries, including UAE, Saudi Arabia and Qatar, with interceptions reported.",
-      "date": "Sat, 14 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US attacks military sites on Iran’s Kharg island, home to vast oil facility",
-      "link": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss",
-      "description": "Tehran threatens to reduce US-linked oil facilities to &#039;pile of ashes&#039; if oil structures on the island are attacked.",
-      "date": "Sat, 14 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
-      "link": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss",
-      "description": "US hits Iran’s Kharg island as it warns oil sites may be next if Tehran disrupts shipping through the Strait of Hormuz.",
+      "description": "Fire breaks out at UAE&#039;s major Fujairah oil hub, as Iran vows retaliation for US attack on Kharg Island.",
       "date": "Sat, 14 Mar 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -596,6 +586,16 @@
       "title": "Trump says to end operation against Iran when intuition tells him to",
       "link": "https://tass.com/world/2101475",
       "description": "The US leader also said that prices for oil and other commodities would begin to decline immediately after the end of the operation",
+      "date": "Fri, 13 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran uses solid-fuel ballistic missiles to attack Israel — IRGC",
+      "link": "https://tass.com/world/2101467",
+      "description": "Among the targets were \"places of the deployment of American soldiers in the region\"",
       "date": "Fri, 13 Mar 2026",
       "source": "TASS",
       "region": "ru",
