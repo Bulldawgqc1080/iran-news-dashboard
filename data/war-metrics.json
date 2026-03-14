@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T15:01:30.827Z",
+  "lastUpdated": "2026-03-14T15:55:30.592Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,7 +9,7 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 19926051238
+    "estimatedTotalUsd": 19963548530
   },
   "casualties": {
     "us": {
