@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T17:55:42.727Z",
+  "lastUpdated": "2026-03-14T18:03:11.924Z",
   "sources": [
     {
       "id": "dod-centcom",
@@ -13,6 +13,13 @@
       "label": "UN OCHA situation reports",
       "url": "https://www.unocha.org/publications",
       "category": "civilian_casualties",
+      "priority": "primary"
+    },
+    {
+      "id": "unhcr",
+      "label": "UNHCR operational updates",
+      "url": "https://www.unhcr.org/operational-data-and-statistics",
+      "category": "displacement_wounded_context",
       "priority": "primary"
     },
     {
