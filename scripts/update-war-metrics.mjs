@@ -185,7 +185,7 @@ method: "baseline_plus_daily_burn"
 },
 casualties: {
 us: {
-killed: { value: 7, asOf: "2026-03-13T12:00:00Z", sourceId: "dod-centcom", confidence: "high" },
+killed: { value: 13, asOf: "2026-03-13T12:00:00Z", sourceId: "dod-centcom", confidence: "high" },
 wounded: { value: 140, asOf: "2026-03-13T12:00:00Z", sourceId: "dod-centcom", confidence: "high" }
 },
 iranMilitary: {
