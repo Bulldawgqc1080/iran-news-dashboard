@@ -220,6 +220,12 @@ const operation = mergeDeep(defaults.operation, existing.operation || {});
 const cost = mergeDeep(defaults.cost, existing.cost || {});
 let casualties = mergeDeep(defaults.casualties, existing.casualties || {});
 
+// enforce floor so total never drops below baseline
+casualties.us.killed.value = Math.max(
+Number(defaults.casualties.us.killed.value || 0),
+Number(casualties?.us?.killed?.value || 0)
+);
+  
 let energy = existing.energy || {};
 const lastGoodEnergy = existing.energy || {};
 
