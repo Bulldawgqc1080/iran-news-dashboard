@@ -154,11 +154,24 @@ font-family:var(--font-mono,monospace);
       c.textContent = fmtMoney0(total);
       $("#ww-method").textContent = `Model: ${fmtMoney0(m.cost?.baselineUsd)} first ${m.cost?.baselineWindowDays || 0} days + ${fmtMoney0(m.cost?.ongoingPerDayUsd)}/day ongoing`;
 
-      $("#ww-us-k").textContent = fmtInt(m.casualties?.us?.killed);
-      $("#ww-us-w").textContent = fmtInt(m.casualties?.us?.wounded);
-      $("#ww-im-k").textContent = range(m.casualties?.iranMilitary?.killedMin, m.casualties?.iranMilitary?.killedMax);
-      $("#ww-ic-k").textContent = range(m.casualties?.iranCivilians?.killedMin, m.casualties?.iranCivilians?.killedMax);
-      $("#ww-ic-w").textContent = range(m.casualties?.iranCivilians?.woundedMin, m.casualties?.iranCivilians?.woundedMax);
+      const usKilled = m.casualties?.us?.killed?.value;
+      const usWounded = m.casualties?.us?.wounded?.value;
+
+      $("#ww-us-k").textContent = Number.isFinite(usKilled) ? fmtInt(usKilled) : "—";
+      $("#ww-us-w").textContent = Number.isFinite(usWounded) ? fmtInt(usWounded) : "—";
+      
+      $("#ww-im-k").textContent = range(
+      m.casualties?.iranMilitary?.killed?.minConfirmed,
+      m.casualties?.iranMilitary?.killed?.maxReported
+      );
+      $("#ww-ic-k").textContent = range(
+      m.casualties?.iranCivilians?.killed?.minConfirmed,
+      m.casualties?.iranCivilians?.killed?.maxReported
+      );
+      $("#ww-ic-w").textContent = range(
+      m.casualties?.iranCivilians?.wounded?.minConfirmed,
+      m.casualties?.iranCivilians?.wounded?.maxReported
+      );
       const gas = m.energy?.usGasNationalAvgUsd;
       const gd = m.energy?.usGasChangeSinceStartUsd;
       const brent = m.energy?.brentUsdPerBbl;
