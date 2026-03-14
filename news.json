@@ -1,7 +1,17 @@
 {
-  "updated": "2026-03-14 05:02 UTC",
+  "updated": "2026-03-14 07:50 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "These are the casualties and cost of the war in Iran 2 weeks into the conflict",
+      "link": "https://www.npr.org/2026/03/14/nx-s1-5746623/iran-war-cost-deaths",
+      "description": "The war in Iran has already cost the U.S. billions of dollars. Here's the impact by the numbers.",
+      "date": "Sat, 14 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Ukrainian President Zelenskyy concerned as U.S. suspends Russia sanctions",
       "link": "https://www.npr.org/2026/03/13/nx-s1-5746678/ukrainian-president-zelenskyy-concerned-as-u-s-suspends-russia-sanctions",
@@ -46,16 +56,6 @@
       "title": "Despite Trump's frustration, Spain's Pedro Sánchez doubles down on opposing the war",
       "link": "https://www.npr.org/2026/03/12/nx-s1-5743426/despite-trumps-frustration-spains-pedro-sanchez-doubles-down-on-opposing-the-war",
       "description": "President Trump has been voicing his frustration with the Spanish government's opposition to the war in Iran. But far from backing down, Spain's prime minister is happy to walk into the spotlight.",
-      "date": "Thu, 12 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Khameni's killing raises old questions about U.S. assassinating foreign leaders",
-      "link": "https://www.npr.org/2026/03/12/nx-s1-5734362/khamenis-killing-raises-old-questions-about-u-s-assassinating-foreign-leaders",
-      "description": "The killing of Iran's Ayatollah Ali Khamenei raises questions about whether the U.S. as a democracy should be in the business of assassinating foreign leaders.",
       "date": "Thu, 12 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -213,6 +213,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: Iran threatens retaliation as Trump says US 'obliterated' targets on Kharg island",
+      "link": "https://www.france24.com/en/middle-east/20260314-middle-east-war-live-iran-threatens-retaliation-as-trump-says-us-obliterated-targets-on-kharg-island",
+      "description": "Iran on Saturday threatened to launch attacks on US oil infrastructure after President Donald Trump claimed that the US had \"obliterated\" military targets on Iran's Kharg Island and warned that oil infrastructure there could be targeted next. The small island off Iran's south coa...",
+      "date": "Sat, 14 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Explosion shakes Tehran amid state-organised rally after Israeli warning",
       "link": "https://www.france24.com/en/middle-east/20260313-explosion-shakes-tehran-amid-state-organised-rally-after-israeli-warning",
       "description": "A blast rocked a major pro-Palestinian rally in Tehran on Friday after Israel warned it could target the area, as the nearly two-week war between Israel and Iran escalated across the Middle East. Washington ordered roughly 2,500 additional Marines to the region, bolstering its mi...",
@@ -343,14 +353,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US media coverage of the war in Iran: Fact, fiction and propaganda",
-      "link": "https://www.france24.com/en/tv-shows/scoop/20260313-us-media-coverage-of-the-war-in-iran-fact-fiction-and-propaganda",
-      "description": "Polls in the United States suggest the war in Iran is unusually unpopular compared with past US military conflicts. There has been propaganda, video-game footage and facts spun into fiction, but also excellent reporting and crucial analysis of the innocent lives lost. This week, ...",
-      "date": "Fri, 13 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "US attacks military sites on Iran’s Kharg island, home to vast oil facility",
+      "link": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss",
+      "description": "Tehran threatens to reduce US-linked oil facilities to &#039;pile of ashes&#039; if oil structures on the island are attacked.",
+      "date": "Sat, 14 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss",
+      "description": "US hits Iran’s Kharg island as it warns oil sites may be next if Tehran disrupts shipping through the Strait of Hormuz.",
+      "date": "Sat, 14 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Yemeni ports face shipping fee hike amid Iran conflict",
+      "link": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss",
+      "description": "Yemen’s government rejects new shipping surcharges, as fears grow of humanitarian crisis.",
+      "date": "Sat, 14 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump posts bombing video after saying US hit Kharg Island",
@@ -453,49 +483,29 @@
       "bias": "Medium"
     },
     {
-      "title": "Success uncertain, but Israelis continue to back ‘heroic’ war with Iran",
-      "link": "https://www.aljazeera.com/news/2026/3/13/success-uncertain-but-israelis-continue-to-back-heroic-war-with-iran?traffic_source=rss",
-      "description": "Israeli public overwhelmingly supports war with Iran, rallying behind Netanyahu despite political divisions.",
-      "date": "Fri, 13 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
-      "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss",
-      "description": "Volodymyr Zelenskyy says move &#039;does not help peace&#039; as Europe reels from soaring energy prices linked to Iran war.",
-      "date": "Fri, 13 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Ukraine finds new role as protector of US, Gulf allies amid Iran war",
-      "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-finds-new-role-as-protector-of-the-us-and-its-allies-in-gulf-war?traffic_source=rss",
-      "description": "Having abandoned Ukraine, the US has sought Kyiv&#039;s support in defence from Iranian drones.",
-      "date": "Fri, 13 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Thousands march worldwide in solidarity with Palestine, Iran on al-Quds Day",
-      "link": "https://www.aljazeera.com/gallery/2026/3/13/thousands-march-worldwide-in-solidarity-with-palestine-iran-on-al-quds-day?traffic_source=rss",
-      "description": "Despite war, al-Quds Day marches in Tehran saw thousands protest, voicing anger against Israel and the US.",
-      "date": "Fri, 13 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "War displaces up to 3.2m Iranians internally: UNHCR",
       "link": "https://www.dawn.com/news/1981867/war-displaces-up-to-32m-iranians-internally-unhcr",
       "description": "ISLAMABAD: The United Nations refugee agency has said that between 600,000 and one million Iranian households have been temporarily displaced inside Iran as a result of US-Israeli war against the country. The UNHCR’s preliminary assessments represent displacement of up to 3.2 mil...",
+      "date": "Sat, 14 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "China urges Pakistan, Afghanistan to resolve tensions via talks, not force",
+      "link": "https://www.dawn.com/news/1981979/china-urges-pakistan-afghanistan-to-resolve-tensions-via-talks-not-force",
+      "description": "Chinese Foreign Minister Wang Yi told his Afghan counterpart Amir Khan Muttaqi in a phone call that disputes between Afghanistan and Pakistan should be resolved through dialogue and consultation, not force, the foreign ministry said in a statement published on Friday. Wang urged ...",
+      "date": "Sat, 14 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "South Korea says North fires around 10 ballistic missiles",
+      "link": "https://www.dawn.com/news/1981975/south-korea-says-north-fires-around-10-ballistic-missiles",
+      "description": "North Korea fired about 10 unidentified ballistic missiles toward the sea of Japan Saturday, Seoul’s Joint Chiefs of Staff (JCS) said, days after Pyongyang warned of “terrible consequences” over South Korea-US military drills. Pyongyang recently dashed hopes of a diplomatic thaw ...",
       "date": "Sat, 14 Mar 2026",
       "source": "Dawn",
       "region": "me",
@@ -553,40 +563,30 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
-      "link": "https://tass.com/pressreview/1969589",
-      "description": "Top stories from the Russian press on Friday, June 6th",
-      "date": "Fri, 06 Jun 2025",
+      "title": "Oil market becomes hostage to Iran war",
+      "link": "https://www.dawn.com/news/1981548/oil-market-becomes-hostage-to-iran-war",
+      "description": "TEHRAN: Rescue workers gather as residents collect their belongings from the rubble of a residential building, damaged by US-Israeli strikes.—AFP • IMO to weigh Hormuz threats at extraordinary session as US Navy ‘not ready to escort ships’• Iran denies mining strait, offers passa...",
+      "date": "Fri, 13 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
+      "link": "https://tass.com/world/1968185",
+      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
-      "link": "https://tass.com/world/1969663",
-      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
-      "date": "Fri, 06 Jun 2025",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
-      "link": "https://tass.com/world/1969613",
-      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
-      "date": "Fri, 06 Jun 2025",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
-      "link": "https://tass.com/world/1969533",
-      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
-      "date": "Thu, 05 Jun 2025",
+      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
+      "link": "https://tass.com/world/1968163",
+      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
