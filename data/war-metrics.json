@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T17:03:49.917Z",
+  "lastUpdated": "2026-03-14T17:55:25.008Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,23 +9,53 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 20010994410
+    "estimatedTotalUsd": 20000000000
   },
   "casualties": {
     "us": {
-      "killed": 7,
-      "wounded": 140,
-      "asOf": "2026-03-13T12:00:00Z"
+      "killed": {
+        "value": 7,
+        "asOf": "2026-03-14T17:55:25.009Z",
+        "sourceId": "dod-centcom",
+        "confidence": "high"
+      },
+      "wounded": {
+        "value": 140,
+        "asOf": "2026-03-14T17:55:25.009Z",
+        "sourceId": "dod-centcom",
+        "confidence": "high"
+      }
     },
     "iranMilitary": {
-      "killedMin": 2094,
-      "killedMax": 2300,
-      "asOf": "2026-03-13T12:00:00Z"
+      "killed": {
+        "minConfirmed": 2094,
+        "maxReported": 2300,
+        "asOf": "2026-03-14T17:55:25.009Z",
+        "sourceIds": [
+          "acled"
+        ],
+        "confidence": "medium"
+      }
     },
     "iranCivilians": {
-      "killedMin": 1255,
-      "woundedMin": 12000,
-      "asOf": "2026-03-13T12:00:00Z"
+      "killed": {
+        "minConfirmed": 1255,
+        "maxReported": 1800,
+        "asOf": "2026-03-14T17:55:25.009Z",
+        "sourceIds": [
+          "ocha"
+        ],
+        "confidence": "medium"
+      },
+      "wounded": {
+        "minConfirmed": 12000,
+        "maxReported": 16500,
+        "asOf": "2026-03-14T17:55:25.009Z",
+        "sourceIds": [
+          "unhcr"
+        ],
+        "confidence": "medium"
+      }
     }
   },
   "energy": {
@@ -33,7 +63,19 @@
     "usGasChangeSinceStartUsd": 0.62,
     "brentUsdPerBbl": 99.06,
     "brentChangePct24h": 0.1,
-    "asOf": "2026-03-13T12:15:00Z"
+    "asOf": "2026-03-14T17:55:25.009Z"
+  },
+  "quality": {
+    "generatedAt": "2026-03-14T17:55:25.009Z",
+    "staleThresholdHours": 48,
+    "casualties": {
+      "usStale": false,
+      "iranMilitaryStale": false,
+      "iranCiviliansStale": false
+    },
+    "energy": {
+      "stale": false
+    }
   },
   "ui": {
     "showRanges": true,
