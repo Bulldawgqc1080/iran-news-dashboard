@@ -94,6 +94,83 @@ asOf: nowIso()
 };
 }
 
+function wordToNum(w) {
+const m = {
+zero: 0, one: 1, two: 2, three: 3, four: 4, five: 5,
+six: 6, seven: 7, eight: 8, nine: 9, ten: 10,
+eleven: 11, twelve: 12
+};
+return m[String(w || "").toLowerCase()];
+}
+
+function toNum(x) {
+if (x == null) return null;
+const n = Number(x);
+if (Number.isFinite(n)) return n;
+const w = wordToNum(x);
+return Number.isFinite(w) ? w : null;
+}
+
+async function getCentcomUsCasualtyPatch(existingCasualties) {
+const rssUrl = "https://www.centcom.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=2&Site=808&isdashboardselected=0&max=20";
+const res = await fetch(rssUrl, { headers: { "user-agent": "clearview-updater" } });
+if (!res.ok) throw new Error(`CENTCOM RSS ${res.status}`);
+const xml = await res.text();
+
+const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(m => m[1]);
+
+let bestKilled = null;
+let bestDate = null;
+
+for (const item of items) {
+const title = (item.match(/<title>([\s\S]*?)<\/title>/i)?.[1] || "").replace(/<!\[CDATA\[|\]\]>/g, "");
+const desc = (item.match(/<description>([\s\S]*?)<\/description>/i)?.[1] || "")
+.replace(/<!\[CDATA\[|\]\]>/g, "")
+.replace(/<[^>]+>/g, " ");
+const pubDate = (item.match(/<pubDate>([\s\S]*?)<\/pubDate>/i)?.[1] || "").trim();
+
+const text = `${title} ${desc}`.replace(/\s+/g, " ").toLowerCase();
+
+// keep only likely US personnel casualty statements
+if (!/(u\.s\.|us |service member|crew member|centcom)/i.test(text)) continue;
+
+// patterns like: "All six crew members ... confirmed deceased"
+const p1 = text.match(/all\s+([a-z0-9]+)\s+(?:crew|service)\s+members?.{0,60}(confirmed\s+deceased|killed)/i);
+// patterns like: "Four confirmed deceased"
+const p2 = text.match(/([a-z0-9]+)\s+confirmed\s+deceased/i);
+// patterns like: "7 killed"
+const p3 = text.match(/\b([0-9]+)\s+(?:u\.s\.\s+)?(?:service\s+members?|troops?|personnel|crew)\s+killed\b/i);
+
+const cands = [p1?.[1], p2?.[1], p3?.[1]].map(toNum).filter(Number.isFinite);
+if (!cands.length) continue;
+
+const localMax = Math.max(...cands);
+if (bestKilled == null || localMax > bestKilled) {
+bestKilled = localMax;
+bestDate = pubDate ? new Date(pubDate).toISOString() : nowIso();
+}
+}
+
+if (!Number.isFinite(bestKilled)) throw new Error("No US killed figure found in CENTCOM RSS");
+
+return {
+us: {
+killed: {
+value: bestKilled,
+asOf: bestDate || nowIso(),
+sourceId: "dod-centcom-rss",
+confidence: "high"
+},
+wounded: {
+...(existingCasualties?.us?.wounded || {}),
+sourceId: "dod-centcom-rss",
+confidence: "medium",
+asOf: existingCasualties?.us?.wounded?.asOf || nowIso()
+}
+}
+};
+}
+
 async function main() {
 const existing = await readJson(METRICS_PATH, {});
 const overrides = await readJson(OVERRIDES_PATH, {});
@@ -141,7 +218,7 @@ confidence: "medium"
 
 const operation = mergeDeep(defaults.operation, existing.operation || {});
 const cost = mergeDeep(defaults.cost, existing.cost || {});
-const casualties = mergeDeep(defaults.casualties, existing.casualties || {});
+let casualties = mergeDeep(defaults.casualties, existing.casualties || {});
 
 let energy = existing.energy || {};
 const lastGoodEnergy = existing.energy || {};
@@ -160,7 +237,14 @@ console.warn("brent fetch failed:", e.message);
 energy = { ...energy, ...lastGoodEnergy };
 }
 
-let metrics = {
+try {
+const usPatch = await getCentcomUsCasualtyPatch(casualties);
+casualties = mergeDeep(casualties, usPatch);
+} catch (e) {
+console.warn("CENTCOM casualty fetch failed:", e.message);
+}  
+
+  let metrics = {
 lastUpdated: nowIso(),
 operation,
 cost: {
