@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14 20:55 UTC",
+  "updated": "2026-03-14 21:51 UTC",
   "total": 60,
   "stories": [
     {
@@ -46,16 +46,6 @@
       "title": "Ukrainian President Zelenskyy concerned as U.S. suspends Russia sanctions",
       "link": "https://www.npr.org/2026/03/13/nx-s1-5746678/ukrainian-president-zelenskyy-concerned-as-u-s-suspends-russia-sanctions",
       "description": "Ukrainian President Volodymyr Zelenskyy meets French President Emmanuel Macron in Paris to increase pressure on Russia, as the U.S. suspends oil sanctions.",
-      "date": "Fri, 13 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "CNN correspondent shares his takeaways from his recent visit to Iran",
-      "link": "https://www.npr.org/2026/03/13/nx-s1-5745892/cnn-correspondent-shares-his-takeaways-from-his-recent-visit-to-iran",
-      "description": "NPR's Steve Inskeep asks CNN's Fred Pleitgen for his takeaways from his recent reporting trip to Iran.",
       "date": "Fri, 13 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -213,6 +203,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iranian strikes, Hezbollah rockets make regular life in Israel ‘simply impossible’",
+      "link": "https://www.france24.com/en/iranian-strikes-hezbollah-rockets-make-regular-life-in-israel-simply-impossible",
+      "description": "Attacks on northern Israel have been “constant” and “relentless”, says FRANCE 24’s Noga Tarnopolsky, reporting from Jerusalem. Iranian missiles combined with Hezbollah rocket attacks are making regular life in Israel “simply impossible”, she explains, noting that most residents o...",
+      "date": "Sat, 14 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Literature in time of crisis: world-renowned writer Azar Nafisi speaks to France 24",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260314-literature-in-time-of-crisis-world-renowned-writer-azar-nafisi-speaks-to-france-24",
       "description": "France 24’s Gavin Lee speaks with Azar Nafisi, Iranian-American writer, whose best-selling book \"Reading Lolita in Tehran\" remained on the New York Times bestseller list for over one hundred weeks. They discuss the role of literature and its subversive power in a time of war.",
@@ -353,14 +353,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump urges France, UK, China to help open Strait of Hormuz as Iran war enters third week",
-      "link": "https://www.france24.com/en/middle-east/20260314-trump-urges-france-uk-china-to-help-open-strait-of-hormuz-as-iran-war-enters-third-week",
-      "description": "Two weeks after the US and Israel attacked Iran, prompting Tehran to block the Strait of Hormuz, US President Donald Trump on Saturday urged France, Britain, China, Japan and South Korea to help secure the shipping lane through which 20% of global oil and gas travels. Iranian str...",
+      "title": "US-Israeli strike kills 15 at Isfahan factory, Iranian media says",
+      "link": "https://www.aljazeera.com/news/2026/3/14/us-israeli-strike-kills-15-at-isfahan-factory-iranian-media-says?traffic_source=rss",
+      "description": "Iranian media report the deaths in central Iran as Tehran launches new missile salvoes at Israeli targets.",
       "date": "Sat, 14 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Thousands in Madrid protest ‘forgotten’ Gaza, warn Iran war may spiral into",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/thousands-in-madrid-protest-forgotten-gaza-warn-iran-war-may-spiral-into?traffic_source=rss",
+      "description": "Thousands rallied in central Madrid calling for an end to the war involving the United States, Israel and Iran.",
+      "date": "Sat, 14 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Hundreds protest against US-Israeli strikes on Iran in Seoul",
@@ -374,7 +384,7 @@
     },
     {
       "title": "Two more Iranian female footballers pull Australia asylum bids: State media",
-      "link": "https://www.aljazeera.com/news/2026/3/14/two-more-iranian-women-footballers-pull-australia-asylum-bids-state-media?traffic_source=rss",
+      "link": "https://www.aljazeera.com/sports/2026/3/14/two-more-iranian-women-footballers-pull-australia-asylum-bids-state-media?traffic_source=rss",
       "description": "Seven members of the Iranian football delegation sought asylum, with four now known to have withdrawn applications.",
       "date": "Sat, 14 Mar 2026",
       "source": "Al Jazeera",
@@ -493,114 +503,104 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
-      "link": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss",
-      "description": "Drone strikes have hit the paramilitary&#039;s heavily armed checkpoints this week, Islamic Revolutionary Guard Corps said.",
+      "title": "Trump claims ‘many countries’ will send warships to keep Strait of Hormuz open",
+      "link": "https://www.dawn.com/news/1982096/trump-claims-many-countries-will-send-warships-to-keep-strait-of-hormuz-open",
+      "description": "US President Donald Trump said on Saturday that many countries would send warships to keep the Strait of Hormuz open, but did not provide details on which countries would do so. “Many countries, especially those who are affected by Iran’s attempted closure of the Hormuz Strait, w...",
       "date": "Sat, 14 Mar 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran says Strait of Hormuz will not be reopened to US ships",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss",
-      "description": "A member of Iran’s Expediency Council says the Strait of Hormuz will remain closed to US ships.",
+      "title": "China urges Pakistan, Afghanistan to resolve tensions via talks, not force",
+      "link": "https://www.dawn.com/news/1981979/china-urges-pakistan-afghanistan-to-resolve-tensions-via-talks-not-force",
+      "description": "Chinese Foreign Minister Wang Yi told his Afghan counterpart Amir Khan Muttaqi in a phone call that disputes between Afghanistan and Pakistan should be resolved through dialogue and consultation, not force, the foreign ministry said in a statement published on Friday. Wang urged ...",
       "date": "Sat, 14 Mar 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran dismisses Ukraine’s drone support to US as 'a joke' — diplomat",
-      "link": "https://tass.com/world/2101671",
-      "description": "Earlier, Vladimir Zelensky announced sending drone teams to the Middle East, namely Qatar, the UAE, and Saudi Arabia",
+      "title": "Trump, Xi prepare to meet amid Iran war, uncertain goals",
+      "link": "https://www.dawn.com/news/1981994/trump-xi-prepare-to-meet-amid-iran-war-uncertain-goals",
+      "description": "Just over two weeks before President Donald Trump is due to meet his counterpart Xi Jinping in Beijing, Chinese uncertainty over the US leader’s goals and the impact of the Iran war hangs over the highly anticipated state visit. Trump’s trip, his first to China in his second term...",
       "date": "Sat, 14 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "South Korea says North fired around 10 ballistic missiles",
+      "link": "https://www.dawn.com/news/1981975/south-korea-says-north-fired-around-10-ballistic-missiles",
+      "description": "North Korea fired about 10 unidentified ballistic missiles toward the Sea of Japan Saturday, Seoul’s Joint Chiefs of Staff (JCS) said, days after Pyongyang warned of “terrible consequences” over South Korea-US military drills. Pyongyang recently dashed hopes of a diplomatic thaw ...",
+      "date": "Sat, 14 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "War displaces up to 3.2m Iranians internally: UNHCR",
+      "link": "https://www.dawn.com/news/1981867/war-displaces-up-to-32m-iranians-internally-unhcr",
+      "description": "ISLAMABAD: The United Nations refugee agency has said that between 600,000 and one million Iranian households have been temporarily displaced inside Iran as a result of US-Israeli war against the country. The UNHCR’s preliminary assessments represent displacement of up to 3.2 mil...",
+      "date": "Sat, 14 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
+      "link": "https://tass.com/pressreview/1969589",
+      "description": "Top stories from the Russian press on Friday, June 6th",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Tehran, Washington were able to make good progress prior to attacks — Iran’s top diplomat",
-      "link": "https://tass.com/world/2101653",
-      "description": "Washington seems to have misinterpreted the stance of the Islamic Republic, Iranian Foreign Minister Abbas Araghchi said",
-      "date": "Sat, 14 Mar 2026",
+      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+      "link": "https://tass.com/world/1969663",
+      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters",
-      "link": "https://tass.com/world/2101651",
-      "description": "In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation",
-      "date": "Sat, 14 Mar 2026",
+      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
+      "link": "https://tass.com/world/1969613",
+      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF",
-      "link": "https://tass.com/world/2101639",
-      "description": "The Israeli Air Force focused \"on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran,\" the Israeli military said",
-      "date": "Sat, 14 Mar 2026",
+      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
+      "link": "https://tass.com/world/1969533",
+      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
+      "date": "Thu, 05 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "EU moves to prolong its Russia blacklist until mid-September",
-      "link": "https://tass.com/economy/2101637",
-      "description": "According to the document, \"In the context of the sanctions' review, the Council also decided not to renew the listings of two individuals and to remove five deceased persons from the list\"",
-      "date": "Sat, 14 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
+      "title": "DPRK slams U.S. for orchestrating efforts to tighten financial sanctions against Pyongyang",
+      "link": "http://news.xinhuanet.com/english/2017-03/30/c_136171059.htm",
+      "description": "The Democratic People's Republic of Korea (DPRK) has slammed the United States for orchestrating efforts to tighten financial sanctions against Pyongyang.",
+      "date": "2017-03-30",
+      "source": "Xinhua",
+      "region": "cn",
       "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran announces new wave of missile strikes on Israel — public broadcaster",
-      "link": "https://tass.com/world/2101609",
-      "description": "Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel",
-      "date": "Sat, 14 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC",
-      "link": "https://tass.com/world/2101607",
-      "description": "Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported",
-      "date": "Sat, 14 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island",
-      "link": "https://tass.com/world/2101603",
-      "description": "But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said",
-      "date": "Sat, 14 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli army reports destruction of Iranian Space Agency research center",
-      "link": "https://tass.com/world/2101597",
-      "description": "In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated",
-      "date": "Sat, 14 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
+      "bias": "High"
     }
   ]
 }
