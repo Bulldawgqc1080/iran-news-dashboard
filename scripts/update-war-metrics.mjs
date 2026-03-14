@@ -119,7 +119,7 @@ const xml = await res.text();
 
 const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(m => m[1]);
 
-let bestKilled = null;
+let bestKilled = Number(existingCasualties?.us?.killed?.value || 0);
 let bestDate = null;
 
 for (const item of items) {
