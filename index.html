@@ -590,6 +590,26 @@
       background: rgba(100,160,255,0.12); color: #6fa8ff;
       border-color: rgba(100,160,255,0.35);
     }
+    .tier-ConflictActor .dossier-tier-badge {
+      background: rgba(255,100,60,0.12); color: #ff6e3c;
+      border-color: rgba(255,100,60,0.35);
+    }
+
+    /* Conflict Actor risk — deep orange treatment */
+    .risk-CA { border-left: 3px solid #ff6e3c !important; }
+    .risk-CA::before { background: linear-gradient(90deg, #cc3300, #ff6e3c) !important; }
+    .risk-CA.open {
+      box-shadow: 0 0 0 1px rgba(255,110,60,0.2), 0 4px 28px rgba(255,110,60,0.08) !important;
+      background: #100a06 !important;
+    }
+    .risk-CA .dossier-risk-badge {
+      background: rgba(255,110,60,0.10);
+      border-color: rgba(255,110,60,0.4) !important;
+      color: #ff6e3c;
+      letter-spacing: 1.5px;
+    }
+    .risk-CA .dossier-name { color: #ff6e3c; }
+    .risk-CA:hover { border-color: rgba(255,110,60,0.5) !important; }
 
     /* Foreign Head of State risk — deep blue/white treatment */
     .risk-FHS { border-left: 3px solid #6fa8ff !important; }
@@ -1602,6 +1622,7 @@
           <button class="dossier-filter-btn"         data-dtier="Government"      onclick="dossierSetTier(this)">Government</button>
           <button class="dossier-filter-btn"         data-dtier="Apex"            onclick="dossierSetTier(this)" style="border-color:rgba(255,210,0,0.4);color:#ffd200;">⭐ Apex</button>
           <button class="dossier-filter-btn"         data-dtier="Foreign HOS"     onclick="dossierSetTier(this)" style="border-color:rgba(100,160,255,0.4);color:#6fa8ff;">🌐 Foreign HOS</button>
+          <button class="dossier-filter-btn"         data-dtier="Conflict Actor"  onclick="dossierSetTier(this)" style="border-color:rgba(255,110,60,0.4);color:#ff6e3c;">⚔️ Conflict Actor</button>
         </div>
         <span id="dossier-record-count"></span>
       </div>
@@ -2754,6 +2775,78 @@
         { label:"Crisis Group", url:"https://www.crisisgroup.org/middle-east-north-africa/east-mediterranean-mena/israelpalestine", type:"wire" },
       ],
     },
+    "Hamas Leadership": {
+      citizenshipDetail: [
+        { label:"State Dept FTO", url:"https://www.state.gov/foreign-terrorist-organizations/",                               type:"gov" },
+        { label:"UN OHCHR",     url:"https://www.ohchr.org/",                                                                 type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/world/middle-east/",                                             type:"wire" },
+      ],
+      foreignTies: [
+        { label:"UN OCHA",      url:"https://www.ochaopt.org/",                                                               type:"gov" },
+        { label:"Amnesty",      url:"https://www.amnesty.org/",                                                               type:"wire" },
+        { label:"HRW",          url:"https://www.hrw.org/",                                                                   type:"wire" },
+        { label:"Reuters",      url:"https://www.reuters.com/world/middle-east/",                                             type:"wire" },
+      ],
+      pacActivity: [
+        { label:"ICRC",         url:"https://www.icrc.org/",                                                                  type:"gov" },
+        { label:"UN SC Records",url:"https://www.un.org/securitycouncil/",                                                    type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/world/middle-east/",                                             type:"wire" },
+      ],
+      govLinks: [
+        { label:"State Dept FTO", url:"https://www.state.gov/foreign-terrorist-organizations/",                               type:"gov" },
+        { label:"UN SC Records",url:"https://www.un.org/securitycouncil/",                                                    type:"gov" },
+        { label:"ICRC",         url:"https://www.icrc.org/",                                                                  type:"gov" },
+        { label:"UN OHCHR",     url:"https://www.ohchr.org/",                                                                 type:"gov" },
+      ],
+    },
+    "Iranian IRGC Leadership": {
+      citizenshipDetail: [
+        { label:"State Dept FTO", url:"https://www.state.gov/foreign-terrorist-organizations/",                               type:"gov" },
+        { label:"US Treasury",  url:"https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/iran-sanctions", type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/world/middle-east/",                                             type:"wire" },
+      ],
+      foreignTies: [
+        { label:"DoD Reports",  url:"https://www.defense.gov/",                                                               type:"gov" },
+        { label:"UN SC Reports",url:"https://www.un.org/securitycouncil/",                                                    type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/world/middle-east/",                                             type:"wire" },
+        { label:"EU Sanctions", url:"https://www.consilium.europa.eu/en/policies/sanctions/",                                 type:"gov" },
+      ],
+      pacActivity: [
+        { label:"US Treasury",  url:"https://home.treasury.gov/",                                                             type:"gov" },
+        { label:"EU Sanctions", url:"https://www.consilium.europa.eu/en/policies/sanctions/",                                 type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/world/middle-east/",                                             type:"wire" },
+      ],
+      govLinks: [
+        { label:"State Dept FTO", url:"https://www.state.gov/foreign-terrorist-organizations/",                               type:"gov" },
+        { label:"US Treasury",  url:"https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/iran-sanctions", type:"gov" },
+        { label:"DoD",          url:"https://www.defense.gov/",                                                               type:"gov" },
+        { label:"UN SC",        url:"https://www.un.org/securitycouncil/",                                                    type:"gov" },
+      ],
+    },
+    "U.S. National Security Apparatus": {
+      citizenshipDetail: [
+        { label:"DoD",          url:"https://www.defense.gov/News/Releases/",                                                 type:"gov" },
+        { label:"State Dept",   url:"https://www.state.gov/press-releases/",                                                  type:"gov" },
+        { label:"CENTCOM",      url:"https://www.centcom.mil/MEDIA/PRESS-RELEASES/",                                          type:"gov" },
+      ],
+      foreignTies: [
+        { label:"CENTCOM",      url:"https://www.centcom.mil/MEDIA/PRESS-RELEASES/",                                          type:"gov" },
+        { label:"DoD",          url:"https://www.defense.gov/",                                                               type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/world/us/",                                                      type:"wire" },
+      ],
+      pacActivity: [
+        { label:"UN SC Votes",  url:"https://www.un.org/securitycouncil/",                                                    type:"gov" },
+        { label:"US Mission UN",url:"https://usun.usmission.gov/",                                                            type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/world/",                                                         type:"wire" },
+      ],
+      govLinks: [
+        { label:"DoD Releases", url:"https://www.defense.gov/News/Releases/",                                                 type:"gov" },
+        { label:"State Dept",   url:"https://www.state.gov/press-releases/",                                                  type:"gov" },
+        { label:"CENTCOM",      url:"https://www.centcom.mil/MEDIA/PRESS-RELEASES/",                                          type:"gov" },
+        { label:"UN SC Votes",  url:"https://www.un.org/securitycouncil/",                                                    type:"gov" },
+        { label:"US Mission UN",url:"https://usun.usmission.gov/",                                                            type:"gov" },
+      ],
+    },
   };
 
   function dossierSrcChips(name, section) {
@@ -2785,6 +2878,34 @@
       pacActivity:"Netanyahu has no direct U.S. PAC activity — he is a foreign head of government. However his government's influence on U.S. policy operates through multiple channels: AIPAC (American Israel Public Affairs Committee) is among the most powerful lobbying organizations in Washington and aligns with Israeli government positions. Netanyahu has addressed Congress multiple times — most recently in July 2024 during an active Gaza war, drawing the largest congressional standing ovation in recent memory. His relationship with Trump is direct and personal — Trump recognized Israeli sovereignty over the Golan Heights in 2019, moved the U.S. Embassy to Jerusalem, and brokered the Abraham Accords (via Kushner) normalizing Gulf-Israel relations. Netanyahu's coalition depends on far-right partners (Ben-Gvir, Smotrich) whose positions on settlement expansion and military operations directly affect U.S. diplomatic and military commitments.",
       govLinks:"Prime Minister of Israel — commands the IDF and Israeli intelligence services (Mossad, Shin Bet, Unit 8200). All Israeli defense contracts with U.S. tech companies (Palantir, Google, Amazon, Microsoft) flow through or are influenced by his government. Currently subject to ICC arrest warrant (Nov 2024) — creating a live international law conflict that affects U.S. allies who are ICC members. ICJ genocide case (South Africa v. Israel) proceedings ongoing at The Hague. UN Security Council Resolution 2334 (2016) declared Israeli settlements have 'no legal validity' — passed when Obama administration abstained rather than veto. The Oct 7 Hamas attack and subsequent Gaza military operations have made Netanyahu's government the most consequential foreign policy variable for every U.S. defense and tech company in this dossier.",
       flag:"🇮🇱🇺🇸",risk:"FHS",connections:["Donald J. Trump","Jared Kushner","Alex Karp","Palmer Luckey","Peter Thiel","Marco Rubio","Pete Hegseth","Tulsi Gabbard"]
+    },
+    // ── CONFLICT ACTORS ──
+    {
+      name:"Hamas Leadership",role:"Gaza-Based Armed Organization  |  Oct. 7 Attack Architects  |  Designated FTO",org:"Hamas · Al-Qassam Brigades · Political Bureau",tier:"Conflict Actor",
+      citizenship:"Palestinian (Gaza/Diaspora) — leadership fragmented across Gaza, Qatar, Turkey",
+      citizenshipDetail:"Hamas leadership is fragmented across multiple jurisdictions. Yahya Sinwar (killed Oct. 2024 by IDF) led the Gaza military wing and was the principal architect of the Oct. 7 attacks. Mohammed Deif (IDF claims killed Jul. 2024, unconfirmed for extended period) was military commander of the Al-Qassam Brigades. Political Bureau leadership has operated from Qatar (Ismail Haniyeh, assassinated Tehran Jul. 2024) and Turkey. Hamas is designated a Foreign Terrorist Organization (FTO) by the United States, European Union, and other allies. It is not a state actor — it is a non-state armed organization that has governed the Gaza Strip since 2007 following its electoral victory and subsequent takeover.",
+      foreignTies:"Hamas receives funding, weapons, and training support from Iran (IRGC/Quds Force) — a documented state-sponsor relationship. Qatar has hosted Hamas Political Bureau leadership and provided humanitarian aid to Gaza that Hamas has been accused of diverting. Turkey has allowed Hamas political presence. The Oct. 7 attacks involved intelligence and operational support chains that are subjects of ongoing Israeli and international investigations. Hamas's rocket arsenal and tunnel infrastructure were built with Iranian-supplied materials and know-how. The hostage crisis — 251 people taken on Oct. 7, some still held — has been a central obstacle in ceasefire negotiations mediated by Qatar, Egypt, and the US.",
+      pacActivity:"Hamas has no U.S. PAC activity — it is a designated Foreign Terrorist Organization. Any U.S. financial support to Hamas is illegal under 18 U.S.C. § 2339B (material support to terrorism). All financial flows are tracked by U.S. Treasury OFAC. Hamas's political funding channels run through Qatar, Iran, and diaspora networks outside U.S. jurisdiction. The ICRC has documented Hamas's obligations under International Humanitarian Law regarding treatment of hostages and civilian protections — Hamas's compliance record is disputed.",
+      govLinks:"Designated FTO by U.S. State Department. All Hamas-linked financial transactions are sanctionable under U.S. law (Treasury OFAC). UN Security Council has passed resolutions calling for hostage release and civilian protection. Hamas is the de facto governing authority in Gaza — controlling civilian infrastructure while simultaneously operating military operations. ICJ case (South Africa v. Israel) does not name Hamas but the court's proceedings reference Hamas's Oct. 7 actions as context. ICRC has attempted to access hostages held in Gaza — access has been restricted.",
+      flag:"🇵🇸",risk:"CA",connections:["Benjamin Netanyahu","Iranian IRGC Leadership","U.S. National Security Apparatus"]
+    },
+    {
+      name:"Iranian IRGC Leadership",role:"Islamic Revolutionary Guard Corps  |  Quds Force  |  Regional Proxy Network Commander",org:"IRGC · Quds Force · Iran",tier:"Conflict Actor",
+      citizenship:"Iranian",
+      citizenshipDetail:"The Islamic Revolutionary Guard Corps (IRGC) is a branch of Iran's armed forces, distinct from the regular Iranian military, reporting directly to the Supreme Leader (currently Ali Khamenei). The Quds Force is the IRGC's external operations unit — responsible for supporting proxy forces across the region. The IRGC was designated a Foreign Terrorist Organization by the United States in 2019 — the first time the U.S. designated a government military branch as an FTO. Key figures include IRGC Commander Hossein Salami. Qasem Soleimani, the legendary Quds Force commander, was killed in a U.S. drone strike in Baghdad (January 2020). His successor Esmail Ghaani currently commands the Quds Force.",
+      foreignTies:"IRGC/Quds Force provides funding, weapons, training, and operational coordination to a network of regional proxy forces: Hezbollah (Lebanon), Hamas (Gaza), Palestinian Islamic Jihad (Gaza), Houthi movement (Yemen/Ansar Allah), and various Iraqi Shia militia groups (PMF/Kataib Hezbollah). This 'Axis of Resistance' network is the primary regional escalation vector in the current conflict. IRGC has directly supplied Houthis with ballistic missiles and drones used in attacks on Red Sea shipping — disrupting global trade routes. Iran launched its first direct military strike on Israel (April 2024) — 300+ drones and missiles, largely intercepted. IRGC's cyber operations unit has conducted attacks on U.S. and Israeli infrastructure. U.S. Treasury has sanctioned hundreds of IRGC-linked individuals and entities.",
+      pacActivity:"IRGC has no U.S. PAC activity — designated FTO. All IRGC financial transactions are sanctionable under U.S. law. EU has imposed extensive sanctions on IRGC leadership and entities. The IRGC's budget and operations are funded by the Iranian state, Iranian oil revenues, and illicit networks including sanctions evasion through front companies. U.S. Treasury OFAC sanctions database documents hundreds of IRGC-linked designations. The IRGC's ballistic missile program and drone proliferation have triggered multiple rounds of multilateral sanctions.",
+      govLinks:"Designated FTO by U.S. State Department (2019). Sanctioned by Treasury OFAC, EU, UK, and allied governments. DoD has conducted multiple strikes against IRGC-linked targets in Iraq, Syria, and Yemen in response to attacks on U.S. forces. CENTCOM regularly issues statements documenting IRGC-linked activities. UN Security Council expert panel reports document weapons transfers through the IRGC network to regional proxies. The IRGC's nuclear program oversight role makes it central to all U.S.-Iran nuclear negotiations — the IRGC controls Iran's missile program which is the primary delivery system for any potential nuclear weapon.",
+      flag:"🇮🇷",risk:"CA",connections:["Hamas Leadership","Benjamin Netanyahu","U.S. National Security Apparatus","Marco Rubio","Pete Hegseth","Tulsi Gabbard"]
+    },
+    {
+      name:"U.S. National Security Apparatus",role:"DoD · State Dept · CENTCOM · DNI · NSC — Collective War Policy Actor",org:"Pentagon · State Dept · CENTCOM · ODNI · NSC",tier:"Conflict Actor",
+      citizenship:"US (institutional)",
+      citizenshipDetail:"This entry represents the U.S. national security apparatus as a collective institutional actor in the conflict — not any single individual. Key institutional nodes: Department of Defense (Hegseth), State Department (Rubio), CENTCOM (regional military command), Office of the Director of National Intelligence (Gabbard), National Security Council (White House). Each of these individual decision-makers is documented separately in this dossier. This entry tracks the collective institutional posture and its conflict-system effects.",
+      foreignTies:"The United States has provided Israel with approximately $18B+ in emergency military aid since Oct. 7 2023 — including 2,000-lb bombs, artillery shells, Iron Dome interceptors, and intelligence sharing. This makes the U.S. a material participant in the conflict under international law frameworks. U.S. carrier strike groups (USS Gerald R. Ford, USS Dwight D. Eisenhower, others) were deployed to the Eastern Mediterranean immediately after Oct. 7 — the largest U.S. naval deployment to the region in decades. U.S. forces shot down IRGC-linked drones and missiles during Iran's April 2024 direct attack on Israel. U.S. has conducted strikes on Houthi targets in Yemen (Operation Prosperity Guardian). CENTCOM regularly announces strikes on IRGC-linked targets in Iraq and Syria.",
+      pacActivity:"U.S. vetoed multiple UN Security Council ceasefire resolutions — the most significant diplomatic shielding action in the conflict. December 2023 veto blocked a resolution calling for immediate ceasefire. February 2024 veto. The U.S. eventually allowed UNSC Resolution 2728 to pass in March 2024 (calling for ceasefire during Ramadan) by abstaining rather than vetoing — a notable shift. U.S. Mission to the UN statements and Security Council voting records document the full diplomatic posture. Senate and House appropriations committees approved emergency military aid packages over significant domestic opposition.",
+      govLinks:"DoD has transferred $18B+ in military assistance to Israel since Oct. 7. CENTCOM operational footprint in the region has expanded significantly — new base activations, increased air defense deployments, maritime security operations. State Department leads ceasefire negotiations alongside Qatar and Egypt as mediators. DNI/ODNI oversees intelligence sharing with Israeli counterparts (Mossad, Shin Bet). NSC coordinates the full interagency response. Every individual in the Government tier of this dossier (Hegseth, Rubio, Gabbard, Sacks, Kratsios) is a node in this institutional apparatus.",
+      flag:"🇺🇸",risk:"CA",connections:["Pete Hegseth","Marco Rubio","Tulsi Gabbard","Benjamin Netanyahu","Hamas Leadership","Iranian IRGC Leadership","Donald J. Trump"]
     },
     {
       name:"Mark Zuckerberg",role:"Co-founder & CEO — Meta Platforms (Facebook · Instagram · WhatsApp · Threads)",org:"Meta Platforms",tier:"Industry",
