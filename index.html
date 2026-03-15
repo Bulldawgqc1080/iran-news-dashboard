@@ -597,7 +597,34 @@
     .dossier-info-value { font-size: 11px; color: var(--subtext); line-height: 1.4; }
 
     .dossier-expand-hint {
-      font-size: 10px; color: var(--dim); margin-top: 8px; font-family: var(--font-mono); letter-spacing: 0.5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      margin-top: 12px;
+      padding: 8px 14px;
+      background: var(--surface2);
+      border: 1px solid var(--border2);
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--subtext);
+      font-family: var(--font-mono);
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: all 0.15s;
+      user-select: none;
+    }
+    .dossier-card:hover .dossier-expand-hint {
+      background: var(--surface3);
+      border-color: var(--fact);
+      color: var(--fact);
+    }
+    .dossier-expand-hint::before {
+      content: '▶';
+      font-size: 9px;
+      transition: transform 0.2s;
     }
 
     /* Expanded detail sections */
@@ -605,7 +632,14 @@
       border-top: 1px solid var(--border); padding-top: 14px; margin-top: 12px; display: none;
     }
     .dossier-card.open .dossier-details { display: block; }
-    .dossier-card.open .dossier-expand-hint { display: none; }
+    .dossier-card.open .dossier-expand-hint {
+      background: rgba(26,115,232,0.08);
+      border-color: rgba(26,115,232,0.3);
+      color: var(--fact);
+    }
+    .dossier-card.open .dossier-expand-hint::before {
+      content: '▼';
+    }
 
     .dossier-detail-section { margin-bottom: 13px; }
     .dossier-detail-label {
@@ -2072,7 +2106,7 @@
           <div class="dossier-info-value">${p.org}</div>
         </div>
       </div>
-      <div class="dossier-expand-hint">▶ EXPAND DOSSIER</div>
+      <div class="dossier-expand-hint">View Full Dossier</div>
       <div class="dossier-details">
         <div class="dossier-detail-section">
           <div class="dossier-detail-label">🪪 Citizenship / Origin</div>
