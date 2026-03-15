@@ -1929,6 +1929,7 @@
   // ── DOSSIER NAME MATCHER for news auto-tagging ────────────
   // Maps keywords/aliases → dossier card IDs
   const DOSSIER_NAME_MAP = [
+    { keys:['obama','barack obama','jcpoa'],           name:'Barack Obama' },
     { keys:['trump','donald trump'],                    name:'Donald J. Trump' },
     { keys:['musk','elon musk','spacex','tesla','doge','xai','grok'], name:'Elon Musk' },
     { keys:['thiel','peter thiel','palantir'],          name:'Peter Thiel' },
@@ -3026,6 +3027,31 @@
         { label:"US Mission UN",url:"https://usun.usmission.gov/",                                                            type:"gov" },
       ],
     },
+    "Barack Obama": {
+      citizenshipDetail: [
+        { label:"WH Presidents", url:"https://www.whitehouse.gov/about-the-white-house/presidents/barack-obama/",             type:"gov" },
+        { label:"Obama WH Archive",url:"https://obamawhitehouse.archives.gov/",                                               type:"gov" },
+        { label:"Bioguide",     url:"https://bioguide.congress.gov/search/bio/O000167",                                       type:"gov" },
+        { label:"Nobel Prize",  url:"https://www.nobelprize.org/prizes/peace/2009/obama/facts/",                              type:"gov" },
+      ],
+      foreignTies: [
+        { label:"Obama WH Archive",url:"https://obamawhitehouse.archives.gov/",                                               type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Obama+foreign+policy+Iran+JCPOA",             type:"wire" },
+        { label:"IAEA",         url:"https://www.iaea.org/",                                                                  type:"gov" },
+        { label:"UN SC",        url:"https://www.un.org/securitycouncil/",                                                    type:"gov" },
+      ],
+      pacActivity: [
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"Obama Foundation",url:"https://www.obama.org/",                                                              type:"corp" },
+      ],
+      govLinks: [
+        { label:"Obama WH Archive",url:"https://obamawhitehouse.archives.gov/",                                               type:"gov" },
+        { label:"Congress.gov", url:"https://bioguide.congress.gov/search/bio/O000167",                                       type:"gov" },
+        { label:"Nobel Prize",  url:"https://www.nobelprize.org/prizes/peace/2009/obama/facts/",                              type:"gov" },
+        { label:"Britannica",   url:"https://www.britannica.com/biography/Barack-Obama",                                      type:"wire" },
+      ],
+    },
   };
 
   function dossierSrcChips(name, section) {
@@ -3085,6 +3111,16 @@
       pacActivity:"U.S. vetoed multiple UN Security Council ceasefire resolutions — the most significant diplomatic shielding action in the conflict. December 2023 veto blocked a resolution calling for immediate ceasefire. February 2024 veto. The U.S. eventually allowed UNSC Resolution 2728 to pass in March 2024 (calling for ceasefire during Ramadan) by abstaining rather than vetoing — a notable shift. U.S. Mission to the UN statements and Security Council voting records document the full diplomatic posture. Senate and House appropriations committees approved emergency military aid packages over significant domestic opposition.",
       govLinks:"DoD has transferred $18B+ in military assistance to Israel since Oct. 7. CENTCOM operational footprint in the region has expanded significantly — new base activations, increased air defense deployments, maritime security operations. State Department leads ceasefire negotiations alongside Qatar and Egypt as mediators. DNI/ODNI oversees intelligence sharing with Israeli counterparts (Mossad, Shin Bet). NSC coordinates the full interagency response. Every individual in the Government tier of this dossier (Hegseth, Rubio, Gabbard, Sacks, Kratsios) is a node in this institutional apparatus.",
       flag:"🇺🇸",risk:"CA",connections:["Pete Hegseth","Marco Rubio","Tulsi Gabbard","Benjamin Netanyahu","Hamas Leadership","Iranian IRGC Leadership","Donald J. Trump"]
+    },
+    // ── FORMER U.S. PRESIDENTS ──
+    {
+      name:"Barack Obama",role:"44th President of the United States (2009–2017)  |  Fmr. U.S. Senator — Illinois",org:"Obama Foundation · White House (2009–2017)",tier:"Government",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born in Honolulu, Hawaii (1961). Columbia University graduate (1983), Harvard Law School (JD, 1991) — first Black president of the Harvard Law Review. Served as Illinois State Senator (1997–2004) and U.S. Senator from Illinois (2005–2008). 44th President of the United States (January 2009 – January 2017). Awarded the 2009 Nobel Peace Prize. No foreign citizenship documented. Father was Kenyan; mother was from Kansas.",
+      foreignTies: "Obama's foreign policy legacy is directly relevant to every Iran-related entry in this dossier. Negotiated the JCPOA (Joint Comprehensive Plan of Action) nuclear deal with Iran in 2015 — signed by Iran, US, UK, France, Germany, Russia, China. The JCPOA was the primary diplomatic framework for constraining Iran's nuclear program; Trump withdrew from it in 2018. Obama authorized the killing of Osama bin Laden (2011) and oversaw the expansion of drone strike programs across multiple countries. Authorized the Stuxnet cyberattack on Iranian nuclear centrifuges (jointly with Israel). Allowed UN Security Council Resolution 2334 (declaring Israeli settlements illegal) to pass by abstaining rather than vetoing — a significant departure from standard U.S. practice that directly angered Netanyahu.",
+      pacActivity:"Obama for America raised $745M in 2008 and $1.1B in 2012 — both records at the time. FEC filings fully public. Post-presidency: Obama Foundation operates globally with foreign donor exposure. Obama's political influence now operates through endorsements, the Democratic Party network, and media — not direct PAC activity. OpenSecrets documents his full campaign finance history. His 2012 campaign pioneered data-driven micro-targeting that influenced every subsequent campaign including Trump's.",
+      govLinks:"44th President — commanded all U.S. military and intelligence operations 2009–2017. JCPOA architect — the nuclear deal that Trump withdrew from, which directly caused the current Iran escalation cycle documented throughout this dossier. Authorized Stuxnet cyberattack on Iran with Israel. Oversaw the Arab Spring response, Libya intervention, Syria policy, and ISIS campaign. Nobel Peace Prize 2009. UN SC Resolution 2334 abstention (2016) — his most significant late-term Israel policy departure. All executive orders, national security directives, and foreign policy decisions archived at obamawhitehouse.archives.gov.",
+      flag:"🇺🇸",risk:"MEDIUM",connections:["Donald J. Trump","Benjamin Netanyahu","Marco Rubio","Tulsi Gabbard","Iranian IRGC Leadership"]
     },
     {
       name:"Mark Zuckerberg",role:"Co-founder & CEO — Meta Platforms (Facebook · Instagram · WhatsApp · Threads)",org:"Meta Platforms",tier:"Industry",
