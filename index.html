@@ -732,6 +732,33 @@
       background: var(--surface3); border-color: var(--fact); color: #fff;
     }
 
+    /* ── COPY BRIEF BUTTON ── */
+    .dossier-copy-btn {
+      display: flex; align-items: center; justify-content: center; gap: 7px;
+      width: 100%; margin-top: 14px;
+      padding: 9px 14px;
+      background: var(--surface2);
+      border: 1px solid var(--border2);
+      border-radius: var(--radius-sm);
+      font-size: 11px; font-weight: 600;
+      color: var(--subtext);
+      font-family: var(--font-mono);
+      letter-spacing: 0.8px;
+      cursor: pointer;
+      transition: all 0.15s;
+      text-transform: uppercase;
+    }
+    .dossier-copy-btn:hover {
+      background: var(--surface3);
+      border-color: var(--fact);
+      color: var(--fact);
+    }
+    .dossier-copy-btn.copied {
+      background: rgba(46,204,113,0.10);
+      border-color: rgba(46,204,113,0.35);
+      color: #2ecc71;
+    }
+
     /* ── SOURCE CHIPS ── */
     .dossier-source-row {
       display: flex; flex-wrap: wrap; gap: 5px; margin-top: 6px;
@@ -3466,8 +3493,95 @@
           ${dossierSrcChips(p.name, 'govLinks')}
         </div>
         ${conns ? `<div class="dossier-conn-row"><div class="dossier-detail-label">◈ Network Connections</div>${conns}</div>` : ''}
+        <button class="dossier-copy-btn" onclick="dossierCopyBrief(event,'${p.name.replace(/'/g,"\\'")}')">
+          📋 Copy Shareable Brief
+        </button>
       </div>
     </div>`;
+  }
+
+  function dossierCopyBrief(event, name) {
+    event.stopPropagation();
+    const person = DOSSIER_DATA.find(p => p.name === name);
+    if (!person) return;
+
+    // Risk label
+    const riskLabel = {
+      APEX: '⭐ APEX NODE',
+      FHS:  '🌐 FOREIGN HEAD OF STATE',
+      CA:   '⚔️ CONFLICT ACTOR',
+      HIGH: '🔴 HIGH RISK',
+      MEDIUM:'🟠 MEDIUM RISK',
+      LOW:  '🟢 LOW RISK',
+    }[person.risk] || person.risk;
+
+    // Pull first 2 source names from DOSSIER_SOURCES for this person
+    const srcEntry = DOSSIER_SOURCES[name];
+    let srcLine = '';
+    if (srcEntry) {
+      const allSrcs = [
+        ...(srcEntry.foreignTies  || []),
+        ...(srcEntry.govLinks     || []),
+        ...(srcEntry.pacActivity  || []),
+      ];
+      const labels = [...new Set(allSrcs.map(s => s.label))].slice(0, 4);
+      if (labels.length) srcLine = '📎 Sources: ' + labels.map(l => '[' + l + ']').join(' ');
+    }
+
+    // Connections line
+    const connLine = person.connections && person.connections.length
+      ? '🔗 Network: ' + person.connections.slice(0, 5).join(' · ')
+      : '';
+
+    // Truncate long text to ~120 chars
+    const snip = (str, max) => str && str.length > max ? str.slice(0, max).replace(/\s+\S*$/, '') + '…' : str;
+
+    const brief = [
+      `🕵️ ${person.flag}  ${person.name.toUpperCase()}`,
+      `${person.role}`,
+      `${riskLabel}  ·  ${person.tier.toUpperCase()}`,
+      ``,
+      `🌐 ${snip(person.foreignTies, 120)}`,
+      ``,
+      `💰 ${snip(person.pacActivity, 120)}`,
+      ``,
+      `🏛️ ${snip(person.govLinks, 120)}`,
+      connLine ? `` : null,
+      connLine || null,
+      srcLine  ? `` : null,
+      srcLine  || null,
+      ``,
+      `📊 ClearView Influence Network`,
+      `🔗 https://bulldawgqc1080.github.io/iran-news-dashboard/`,
+    ].filter(l => l !== null).join('\n');
+
+    navigator.clipboard.writeText(brief).then(() => {
+      const btn = event.target.closest('.dossier-copy-btn');
+      if (!btn) return;
+      const orig = btn.innerHTML;
+      btn.innerHTML = '✔ Copied to clipboard!';
+      btn.classList.add('copied');
+      setTimeout(() => {
+        btn.innerHTML = orig;
+        btn.classList.remove('copied');
+      }, 2500);
+    }).catch(() => {
+      // Fallback for browsers without clipboard API
+      const ta = document.createElement('textarea');
+      ta.value = brief;
+      ta.style.position = 'fixed'; ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+      const btn = event.target.closest('.dossier-copy-btn');
+      if (btn) {
+        const orig = btn.innerHTML;
+        btn.innerHTML = '✔ Copied!';
+        btn.classList.add('copied');
+        setTimeout(() => { btn.innerHTML = orig; btn.classList.remove('copied'); }, 2500);
+      }
+    });
   }
 
   function dossierRender() {
@@ -3550,7 +3664,10 @@
     if (srcdbLoaded) return;
     srcdbLoaded = true;
 
-    const files = ['influence_source_pack_2026-03-14.json'];
+    const files = [
+      'network_sources_normalized.json',
+      'influence_source_pack_2026-03-14.json'
+    ];
 
     let all = [];
     for (const f of files) {
