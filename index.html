@@ -582,6 +582,26 @@
     .tier-ForeignCap  .dossier-tier-badge { background: rgba(255,190,11,0.10);  color: var(--me); }
     .tier-Cloud       .dossier-tier-badge { background: rgba(6,214,160,0.10);   color: var(--eu); }
     .tier-Government  .dossier-tier-badge { background: rgba(26,115,232,0.10);  color: var(--us); }
+    .tier-Apex        .dossier-tier-badge {
+      background: rgba(255,210,0,0.12); color: #ffd200;
+      border-color: rgba(255,210,0,0.35);
+    }
+
+    /* APEX risk — gold card treatment */
+    .risk-APEX { border-left: 3px solid #ffd200 !important; }
+    .risk-APEX::before { background: linear-gradient(90deg, #ffd200, #ff9500) !important; }
+    .risk-APEX.open {
+      box-shadow: 0 0 0 1px rgba(255,210,0,0.2), 0 4px 28px rgba(255,210,0,0.08) !important;
+      background: #0d0e10 !important;
+    }
+    .risk-APEX .dossier-risk-badge {
+      background: rgba(255,210,0,0.10);
+      border-color: rgba(255,210,0,0.4) !important;
+      color: #ffd200;
+      letter-spacing: 1.5px;
+    }
+    .risk-APEX .dossier-name { color: #ffd200; }
+    .risk-APEX:hover { border-color: rgba(255,210,0,0.5) !important; }
 
     .dossier-info-grid {
       display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-bottom: 0;
@@ -1560,6 +1580,7 @@
           <button class="dossier-filter-btn"         data-dtier="Foreign Capital" onclick="dossierSetTier(this)">Foreign Capital</button>
           <button class="dossier-filter-btn"         data-dtier="Cloud"           onclick="dossierSetTier(this)">Cloud</button>
           <button class="dossier-filter-btn"         data-dtier="Government"      onclick="dossierSetTier(this)">Government</button>
+          <button class="dossier-filter-btn"         data-dtier="Apex"            onclick="dossierSetTier(this)" style="border-color:rgba(255,210,0,0.4);color:#ffd200;">⭐ Apex</button>
         </div>
         <span id="dossier-record-count"></span>
       </div>
@@ -2437,6 +2458,34 @@
         { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
       ],
     },
+    "Donald J. Trump": {
+      citizenshipDetail: [
+        { label:"WH Archives",  url:"https://trumpwhitehouse.archives.gov/",                                                  type:"gov" },
+        { label:"Nat. Archives", url:"https://www.archives.gov/presidential-libraries",                                       type:"gov" },
+        { label:"Trump Org",    url:"https://www.trump.com/",                                                                 type:"corp" },
+        { label:"NY Corp Records",url:"https://apps.dos.ny.gov/publicInquiry/",                                               type:"gov" },
+      ],
+      foreignTies: [
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Trump+Organization+foreign+business",         type:"wire" },
+        { label:"ODNI/FARA",    url:"https://www.justice.gov/nsd-fara",                                                       type:"gov" },
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"Bloomberg",    url:"https://www.bloomberg.com/search?query=Trump+Saudi+UAE+business",                        type:"wire" },
+        { label:"Senate SFRC",  url:"https://www.foreign.senate.gov/",                                                        type:"gov" },
+      ],
+      pacActivity: [
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"MAGA Inc. FEC",url:"https://www.fec.gov/data/committees/",                                                   type:"fec" },
+        { label:"WH Archives",  url:"https://trumpwhitehouse.archives.gov/",                                                  type:"gov" },
+      ],
+      govLinks: [
+        { label:"White House",  url:"https://www.whitehouse.gov/",                                                            type:"gov" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"DoD",          url:"https://www.defense.gov/",                                                               type:"gov" },
+        { label:"OSTP",         url:"https://www.whitehouse.gov/ostp/",                                                       type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Trump+tech+AI+policy",                        type:"wire" },
+      ],
+    },
   };
 
   function dossierSrcChips(name, section) {
@@ -2449,6 +2498,16 @@
   }
 
   const DOSSIER_DATA = [
+    // ── APEX NODE ──
+    {
+      name:"Donald J. Trump",role:"47th President of the United States  |  45th President (2017–2021)",org:"White House · Trump Organization",tier:"Apex",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born in Queens, New York (1946). University of Pennsylvania Wharton School graduate. Served as 45th President (2017–2021) and 47th President (2025–present). Founded The Trump Organization — a private real estate and licensing conglomerate with business dealings across the United States, Middle East, Europe, and Asia. No foreign citizenship documented. Father was a real estate developer; mother was a Scottish immigrant from the Isle of Lewis.",
+      foreignTies:"Trump Organization has active or recent licensing/business dealings in Saudi Arabia, UAE, Qatar, Turkey, India, Indonesia, and the Philippines. LIV Golf (Saudi PIF-backed) partnership and PGA Tour merger discussions created direct financial ties to Saudi sovereign wealth. Jared Kushner (son-in-law) received $2B investment from Saudi PIF's Affinity Fund shortly after leaving the White House — widely scrutinized as a quid pro quo. Qatar gifted a $400M Boeing 747 to be used as Air Force One replacement — currently under congressional and DOJ scrutiny. Trump Media & Technology Group (TMTG/DJT stock) has foreign investor exposure. Trump Tower and branded properties globally involve licensing deals with foreign government-adjacent entities. FARA enforcement — the primary tool for tracking foreign influence — sits under Rubio's State Dept.",
+      pacActivity:"MAGA Inc. is Trump's primary SuperPAC — received $25M from Greg Brockman (OpenAI), $5M from Tools for Humanity (Sam Altman's co-founded company), $1M from Altman personally (inaugural fund), $200M+ from Elon Musk's America PAC. Virtually every company in this dossier donated to Trump's inaugural fund: Meta ($1M), Amazon ($1M), Google ($1M), Microsoft (undisclosed), Oracle ($1M). Trump's 2024 campaign was the most heavily tech-funded in U.S. history. FEC and OpenSecrets document the full donation trail. The feedback loop: companies donate → get favorable regulatory treatment → their executives get agency appointments → those agencies award contracts back to the same donor network.",
+      govLinks:"President of the United States — apex authority over all executive branch agencies. All cabinet members in this dossier (Hegseth, Lutnick, Rubio, Gabbard, Burgum, Wright) report directly to Trump. Appointed Kratsios (OSTP), Sacks (AI/Crypto Czar), Stanley (CDAO), Kliger (Pentagon CDO), Michael (Pentagon R&E). Every DoD AI contract, every export control decision, every FTC/FCC enforcement posture flows from his appointments. Personally announced Stargate ($500B AI infrastructure) at White House with Altman, Ellison, and Son. Personally hosted tech CEO dinners with Musk, Zuckerberg, Bezos, Pichai, Nadella, Huang post-election. Trump's executive orders directly shape the regulatory environment for every AI company in this dossier.",
+      flag:"🇺🇸",risk:"APEX",connections:["Pete Hegseth","JD Vance","Elon Musk","Peter Thiel","Sam Altman","David Sacks","Howard Lutnick","Tulsi Gabbard","Marco Rubio","Chris Wright"]
+    },
     {
       name:"Elon Musk",role:"CEO — Tesla / SpaceX / xAI / X  |  Fmr. DOGE Lead",org:"Tesla · SpaceX · xAI · X",tier:"Industry",
       citizenship:"US · Canada · South Africa (birth)",
