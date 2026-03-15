@@ -2513,6 +2513,34 @@
         { label:"SEC EDGAR",    url:"https://www.sec.gov/edgar/browse/?CIK=1326801",                                          type:"gov" },
       ],
     },
+    "Tim Cook": {
+      citizenshipDetail: [
+        { label:"Apple Leadership",url:"https://www.apple.com/leadership/tim-cook/",                                          type:"corp" },
+        { label:"Apple IR",     url:"https://investor.apple.com/",                                                            type:"corp" },
+        { label:"Tsinghua SEM", url:"https://www.sem.tsinghua.edu.cn/en/AboutSEM/Advisory_Board.htm",                        type:"corp" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Tim%20Cook%20Tsinghua%20advisory%20board",    type:"wire" },
+      ],
+      foreignTies: [
+        { label:"Reuters China", url:"https://www.reuters.com/site-search/?query=Apple+China+manufacturing+supply+chain",     type:"wire" },
+        { label:"BIS",          url:"https://www.bis.gov/",                                                                   type:"gov" },
+        { label:"Bloomberg",    url:"https://www.bloomberg.com/search?query=Tim+Cook+China+Apple",                            type:"wire" },
+        { label:"Tsinghua SEM", url:"https://www.sem.tsinghua.edu.cn/en/AboutSEM/Advisory_Board.htm",                        type:"corp" },
+        { label:"EU DPA",       url:"https://edpb.europa.eu/",                                                                type:"gov" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"Senate LDA",   url:"https://lda.senate.gov/",                                                                type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Apple+lobbying+Tim+Cook+Trump",               type:"wire" },
+      ],
+      govLinks: [
+        { label:"DOJ Antitrust",url:"https://www.justice.gov/atr",                                                            type:"court" },
+        { label:"FTC",          url:"https://www.ftc.gov/enforcement/cases-proceedings",                                      type:"gov" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"Congress.gov", url:"https://www.congress.gov/",                                                              type:"gov" },
+        { label:"SEC EDGAR",    url:"https://www.sec.gov/edgar/search/",                                                      type:"gov" },
+      ],
+    },
   };
 
   function dossierSrcChips(name, section) {
@@ -2543,6 +2571,15 @@
       pacActivity:"Meta donated $1M to Trump's inaugural fund (Jan 2025) — part of the wave of tech company donations alongside Amazon, Google, Oracle. Zuckerberg did a dramatic public political pivot in late 2024: ended Facebook fact-checking program, replaced it with X-style community notes, appeared on Joe Rogan, visited Trump at Mar-a-Lago. Meta's lobbying spend is among the highest of any tech company — Senate LDA filings and OpenSecrets document $20M+ annually. Zuckerberg personally donated to Chan Zuckerberg Initiative (CZI) which has funded election administration infrastructure — drew conservative criticism. FEC tracks individual giving; OpenSecrets tracks Meta's full lobbying/PAC ecosystem.",
       govLinks:"Meta is under active FTC antitrust lawsuit (seeking to break up Instagram and WhatsApp acquisition). DOJ has separate oversight of Meta's data practices. Congressional testimony — Zuckerberg has testified before Senate Judiciary, Commerce, and Intelligence committees. Meta's content moderation decisions on Iran/Russia/China-linked influence operations are a direct IC concern — Gabbard's ODNI monitors foreign influence on U.S. social media platforms. Meta's Llama open-source AI models are a distinct national security question — no export controls exist on open-weight models, meaning adversaries can freely use Meta's frontier AI. Meta's advertising infrastructure processes data on virtually every American — a surveillance-adjacent capability that sits outside traditional defense contractor oversight.",
       flag:"🇺🇸",risk:"HIGH",connections:["Peter Thiel","Marc Andreessen","Donald J. Trump","Andy Jassy","Sundar Pichai","Satya Nadella"]
+    },
+    {
+      name:"Tim Cook",role:"CEO — Apple Inc.",org:"Apple Inc.",tier:"Industry",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born in Mobile, Alabama (1960). Auburn University industrial engineering graduate, Duke University Fuqua School of Business MBA. Joined Apple in 1998 as SVP of Worldwide Operations — the supply chain architect who built Apple's China manufacturing dependency. Became CEO in 2011 following Steve Jobs' death. No foreign citizenship documented. Sits on the advisory board of Tsinghua University's School of Economics and Management (SEM) — China's most elite business school, closely connected to the Chinese Communist Party's leadership pipeline. This advisory role is one of the most direct formal ties between a sitting U.S. tech CEO and a Chinese government-affiliated academic institution.",
+      foreignTies:"Apple manufactures approximately 90% of its products in China — primarily through Foxconn (Hon Hai Precision) and Pegatron — making it the most China-dependent major U.S. tech company in this dossier. Cook sits on Tsinghua University SEM advisory board — an institution with direct CCP government connections. Apple has made significant concessions to Chinese government demands: removed VPN apps from China App Store, stored Chinese user iCloud data on state-owned servers (GCBD/Guizhou), removed Taiwan flag emoji in China. US intelligence privately briefed Cook, Jensen Huang, and Lisa Su in July 2023 on classified assessments of China's plans to invade Taiwan by 2027 — Cook's entire manufacturing base is in the potential conflict zone. Apple has been subject to EU GDPR enforcement and is under active EU Digital Markets Act regulation. Apple's App Store control over global app distribution gives it surveillance-adjacent leverage over what software reaches 1B+ users.",
+      pacActivity:"Apple donated to Trump's inaugural fund (2025) — part of the wave of tech company inaugural donations alongside Meta, Amazon, Google, Oracle. Cook attended Trump's post-election tech CEO dinner at Mar-a-Lago (Nov 2024) alongside Musk, Zuckerberg, Bezos, and others. Apple's lobbying spend is among the largest in tech — Senate LDA and OpenSecrets document $10M+ annually focused on App Store regulation, antitrust, and trade/tariff policy (directly tied to China manufacturing). Cook has cultivated relationships across both Republican and Democratic administrations, making Apple's political posture deliberately bipartisan.",
+      govLinks:"Apple is under active DOJ antitrust lawsuit (smartphone monopoly case filed 2024). EU Digital Markets Act enforcement directly targets Apple's App Store and browser choice requirements. Apple's iCloud infrastructure in China runs on state-owned servers — creating a data sovereignty conflict with U.S. national security interests. Apple Silicon chips (A-series, M-series) are produced by TSMC in Taiwan — same supply chain vulnerability as Nvidia. Congressional testimony — Cook has testified before Senate on privacy, antitrust, and child safety. Export control implications: Apple devices are subject to EAR (Export Administration Regulations) but the China manufacturing dependency creates a structural tension with U.S. export control policy goals.",
+      flag:"🇺🇸",risk:"HIGH",connections:["Donald J. Trump","Jensen Huang","Satya Nadella","Andy Jassy","Sundar Pichai","Mark Zuckerberg","Howard Lutnick"]
     },
     {
       name:"Elon Musk",role:"CEO — Tesla / SpaceX / xAI / X  |  Fmr. DOGE Lead",org:"Tesla · SpaceX · xAI · X",tier:"Industry",
