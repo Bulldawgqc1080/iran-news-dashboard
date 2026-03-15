@@ -586,6 +586,26 @@
       background: rgba(255,210,0,0.12); color: #ffd200;
       border-color: rgba(255,210,0,0.35);
     }
+    .tier-ForeignHOS  .dossier-tier-badge {
+      background: rgba(100,160,255,0.12); color: #6fa8ff;
+      border-color: rgba(100,160,255,0.35);
+    }
+
+    /* Foreign Head of State risk — deep blue/white treatment */
+    .risk-FHS { border-left: 3px solid #6fa8ff !important; }
+    .risk-FHS::before { background: linear-gradient(90deg, #2255cc, #6fa8ff) !important; }
+    .risk-FHS.open {
+      box-shadow: 0 0 0 1px rgba(100,160,255,0.2), 0 4px 28px rgba(100,160,255,0.08) !important;
+      background: #090c14 !important;
+    }
+    .risk-FHS .dossier-risk-badge {
+      background: rgba(100,160,255,0.10);
+      border-color: rgba(100,160,255,0.4) !important;
+      color: #6fa8ff;
+      letter-spacing: 1.5px;
+    }
+    .risk-FHS .dossier-name { color: #6fa8ff; }
+    .risk-FHS:hover { border-color: rgba(100,160,255,0.5) !important; }
 
     /* APEX risk — gold card treatment */
     .risk-APEX { border-left: 3px solid #ffd200 !important; }
@@ -1581,6 +1601,7 @@
           <button class="dossier-filter-btn"         data-dtier="Cloud"           onclick="dossierSetTier(this)">Cloud</button>
           <button class="dossier-filter-btn"         data-dtier="Government"      onclick="dossierSetTier(this)">Government</button>
           <button class="dossier-filter-btn"         data-dtier="Apex"            onclick="dossierSetTier(this)" style="border-color:rgba(255,210,0,0.4);color:#ffd200;">⭐ Apex</button>
+          <button class="dossier-filter-btn"         data-dtier="Foreign HOS"     onclick="dossierSetTier(this)" style="border-color:rgba(100,160,255,0.4);color:#6fa8ff;">🌐 Foreign HOS</button>
         </div>
         <span id="dossier-record-count"></span>
       </div>
@@ -2706,6 +2727,33 @@
         { label:"NYC Archives", url:"https://www.nyc.gov/",                                                                   type:"gov" },
       ],
     },
+    "Benjamin Netanyahu": {
+      citizenshipDetail: [
+        { label:"Knesset",      url:"https://main.knesset.gov.il/en/",                                                        type:"gov" },
+        { label:"Israel MFA",   url:"https://www.gov.il/en/departments/ministry_of_foreign_affairs",                          type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Netanyahu%20biography%20prime%20minister",    type:"wire" },
+      ],
+      foreignTies: [
+        { label:"UN SC Res 2334",url:"https://undocs.org/S/RES/2334(2016)",                                                   type:"gov" },
+        { label:"UN OCHA",      url:"https://www.ochaopt.org/",                                                               type:"gov" },
+        { label:"ICJ Case 192", url:"https://www.icj-cij.org/case/192",                                                      type:"court" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Netanyahu%20settlements%20West%20Bank",       type:"wire" },
+        { label:"Crisis Group", url:"https://www.crisisgroup.org/middle-east-north-africa/east-mediterranean-mena/israelpalestine", type:"wire" },
+      ],
+      pacActivity: [
+        { label:"Reuters — Trial",url:"https://www.reuters.com/site-search/?query=Netanyahu%20trial%20bribery%20fraud%20breach%20of%20trust", type:"wire" },
+        { label:"Times of Israel",url:"https://www.timesofisrael.com/topic/netanyahu-trial/",                                 type:"wire" },
+        { label:"Israel MOJ",   url:"https://www.gov.il/en/departments/ministry_of_justice",                                  type:"gov" },
+        { label:"Knesset",      url:"https://main.knesset.gov.il/en/",                                                        type:"gov" },
+      ],
+      govLinks: [
+        { label:"UN OCHA",      url:"https://www.ochaopt.org/",                                                               type:"gov" },
+        { label:"ICJ Case 192", url:"https://www.icj-cij.org/case/192",                                                      type:"court" },
+        { label:"Reuters — Gaza",url:"https://www.reuters.com/site-search/?query=Gaza%20civilian%20casualties%20Netanyahu",   type:"wire" },
+        { label:"Haaretz",      url:"https://www.haaretz.com/israel-news",                                                    type:"wire" },
+        { label:"Crisis Group", url:"https://www.crisisgroup.org/middle-east-north-africa/east-mediterranean-mena/israelpalestine", type:"wire" },
+      ],
+    },
   };
 
   function dossierSrcChips(name, section) {
@@ -2727,6 +2775,16 @@
       pacActivity:"MAGA Inc. is Trump's primary SuperPAC — received $25M from Greg Brockman (OpenAI), $5M from Tools for Humanity (Sam Altman's co-founded company), $1M from Altman personally (inaugural fund), $200M+ from Elon Musk's America PAC. Virtually every company in this dossier donated to Trump's inaugural fund: Meta ($1M), Amazon ($1M), Google ($1M), Microsoft (undisclosed), Oracle ($1M). Trump's 2024 campaign was the most heavily tech-funded in U.S. history. FEC and OpenSecrets document the full donation trail. The feedback loop: companies donate → get favorable regulatory treatment → their executives get agency appointments → those agencies award contracts back to the same donor network.",
       govLinks:"President of the United States — apex authority over all executive branch agencies. All cabinet members in this dossier (Hegseth, Lutnick, Rubio, Gabbard, Burgum, Wright) report directly to Trump. Appointed Kratsios (OSTP), Sacks (AI/Crypto Czar), Stanley (CDAO), Kliger (Pentagon CDO), Michael (Pentagon R&E). Every DoD AI contract, every export control decision, every FTC/FCC enforcement posture flows from his appointments. Personally announced Stargate ($500B AI infrastructure) at White House with Altman, Ellison, and Son. Personally hosted tech CEO dinners with Musk, Zuckerberg, Bezos, Pichai, Nadella, Huang post-election. Trump's executive orders directly shape the regulatory environment for every AI company in this dossier.",
       flag:"🇺🇸",risk:"APEX",connections:["Pete Hegseth","JD Vance","Elon Musk","Peter Thiel","Sam Altman","David Sacks","Howard Lutnick","Tulsi Gabbard","Marco Rubio","Chris Wright"]
+    },
+    // ── FOREIGN HEAD OF STATE ──
+    {
+      name:"Benjamin Netanyahu",role:"Prime Minister of Israel (multiple terms, current)  |  Leader — Likud Party",org:"State of Israel · Knesset",tier:"Foreign HOS",
+      citizenship:"Israel · US (born in Tel Aviv; held US permanent residency as a young man, renounced)",
+      citizenshipDetail:"Born in Tel Aviv, Israel (1949). Spent significant formative years in the United States — attended Cheltenham High School in Pennsylvania and MIT (BS architecture, MS management). Held US permanent residency status as a young man before returning to Israel and renouncing it. Father Ben-Zion Netanyahu was a historian at Cornell and the family lived in the US for extended periods. Has served more combined years as Israeli Prime Minister than any figure in Israeli history. Currently on trial in Israel for bribery (Case 4000 — Bezeq/Walla), fraud, and breach of trust across three separate cases. The trial has continued through wartime.",
+      foreignTies:"Israel is the single most significant foreign node in this entire dossier network — every major defense-tech company has active Israeli contracts or ties. Palantir held its first 2024 board meeting in Tel Aviv post-Oct 7 as a show of solidarity (Karp). Google's Project Nimbus ($1.2B cloud/AI contract with Israeli Defense Ministry and government) caused 28 employees to be fired for protesting. Amazon AWS holds Israeli government cloud contracts. Microsoft has active Israeli defense relationships. Palmer Luckey describes himself as a 'radical Zionist' and Anduril has Israeli defense-tech ecosystem ties. Peter Thiel is a major pro-Israel voice — Palantir provides intelligence analytics to Israeli defense. Unit 8200 (Israeli military intelligence) alumni are embedded throughout Silicon Valley in AI, cybersecurity, and cloud infrastructure roles. Netanyahu's government is the subject of an ICJ case (South Africa v. Israel, Case 192) alleging violations of the Genocide Convention — proceedings ongoing. ICC arrest warrant issued for Netanyahu (Nov 2024) by the International Criminal Court for alleged war crimes and crimes against humanity in Gaza.",
+      pacActivity:"Netanyahu has no direct U.S. PAC activity — he is a foreign head of government. However his government's influence on U.S. policy operates through multiple channels: AIPAC (American Israel Public Affairs Committee) is among the most powerful lobbying organizations in Washington and aligns with Israeli government positions. Netanyahu has addressed Congress multiple times — most recently in July 2024 during an active Gaza war, drawing the largest congressional standing ovation in recent memory. His relationship with Trump is direct and personal — Trump recognized Israeli sovereignty over the Golan Heights in 2019, moved the U.S. Embassy to Jerusalem, and brokered the Abraham Accords (via Kushner) normalizing Gulf-Israel relations. Netanyahu's coalition depends on far-right partners (Ben-Gvir, Smotrich) whose positions on settlement expansion and military operations directly affect U.S. diplomatic and military commitments.",
+      govLinks:"Prime Minister of Israel — commands the IDF and Israeli intelligence services (Mossad, Shin Bet, Unit 8200). All Israeli defense contracts with U.S. tech companies (Palantir, Google, Amazon, Microsoft) flow through or are influenced by his government. Currently subject to ICC arrest warrant (Nov 2024) — creating a live international law conflict that affects U.S. allies who are ICC members. ICJ genocide case (South Africa v. Israel) proceedings ongoing at The Hague. UN Security Council Resolution 2334 (2016) declared Israeli settlements have 'no legal validity' — passed when Obama administration abstained rather than veto. The Oct 7 Hamas attack and subsequent Gaza military operations have made Netanyahu's government the most consequential foreign policy variable for every U.S. defense and tech company in this dossier.",
+      flag:"🇮🇱🇺🇸",risk:"FHS",connections:["Donald J. Trump","Jared Kushner","Alex Karp","Palmer Luckey","Peter Thiel","Marco Rubio","Pete Hegseth","Tulsi Gabbard"]
     },
     {
       name:"Mark Zuckerberg",role:"Co-founder & CEO — Meta Platforms (Facebook · Instagram · WhatsApp · Threads)",org:"Meta Platforms",tier:"Industry",
