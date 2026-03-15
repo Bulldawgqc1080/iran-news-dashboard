@@ -2486,6 +2486,33 @@
         { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Trump+tech+AI+policy",                        type:"wire" },
       ],
     },
+    "Mark Zuckerberg": {
+      citizenshipDetail: [
+        { label:"Meta Leadership",url:"https://about.meta.com/our-leadership/mark-zuckerberg/",                               type:"corp" },
+        { label:"Meta IR",      url:"https://investor.atmeta.com/",                                                           type:"corp" },
+        { label:"SEC 10-K",     url:"https://www.sec.gov/edgar/browse/?CIK=1326801",                                          type:"gov" },
+        { label:"Meta Governance",url:"https://investor.atmeta.com/governance/default.aspx",                                  type:"corp" },
+      ],
+      foreignTies: [
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Meta+EU+regulation+data",                     type:"wire" },
+        { label:"EU DPA",       url:"https://edpb.europa.eu/",                                                                type:"gov" },
+        { label:"Bloomberg",    url:"https://www.bloomberg.com/search?query=Meta+China+Zuckerberg",                           type:"wire" },
+        { label:"BIS",          url:"https://www.bis.gov/",                                                                   type:"gov" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"Senate LDA",   url:"https://lda.senate.gov/",                                                                type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Zuckerberg+Trump+inauguration+Meta",          type:"wire" },
+      ],
+      govLinks: [
+        { label:"FTC",          url:"https://www.ftc.gov/enforcement/cases-proceedings",                                      type:"gov" },
+        { label:"DOJ Antitrust",url:"https://www.justice.gov/atr",                                                            type:"court" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"Congress.gov", url:"https://www.congress.gov/",                                                              type:"gov" },
+        { label:"SEC EDGAR",    url:"https://www.sec.gov/edgar/browse/?CIK=1326801",                                          type:"gov" },
+      ],
+    },
   };
 
   function dossierSrcChips(name, section) {
@@ -2507,6 +2534,15 @@
       pacActivity:"MAGA Inc. is Trump's primary SuperPAC — received $25M from Greg Brockman (OpenAI), $5M from Tools for Humanity (Sam Altman's co-founded company), $1M from Altman personally (inaugural fund), $200M+ from Elon Musk's America PAC. Virtually every company in this dossier donated to Trump's inaugural fund: Meta ($1M), Amazon ($1M), Google ($1M), Microsoft (undisclosed), Oracle ($1M). Trump's 2024 campaign was the most heavily tech-funded in U.S. history. FEC and OpenSecrets document the full donation trail. The feedback loop: companies donate → get favorable regulatory treatment → their executives get agency appointments → those agencies award contracts back to the same donor network.",
       govLinks:"President of the United States — apex authority over all executive branch agencies. All cabinet members in this dossier (Hegseth, Lutnick, Rubio, Gabbard, Burgum, Wright) report directly to Trump. Appointed Kratsios (OSTP), Sacks (AI/Crypto Czar), Stanley (CDAO), Kliger (Pentagon CDO), Michael (Pentagon R&E). Every DoD AI contract, every export control decision, every FTC/FCC enforcement posture flows from his appointments. Personally announced Stargate ($500B AI infrastructure) at White House with Altman, Ellison, and Son. Personally hosted tech CEO dinners with Musk, Zuckerberg, Bezos, Pichai, Nadella, Huang post-election. Trump's executive orders directly shape the regulatory environment for every AI company in this dossier.",
       flag:"🇺🇸",risk:"APEX",connections:["Pete Hegseth","JD Vance","Elon Musk","Peter Thiel","Sam Altman","David Sacks","Howard Lutnick","Tulsi Gabbard","Marco Rubio","Chris Wright"]
+    },
+    {
+      name:"Mark Zuckerberg",role:"Co-founder & CEO — Meta Platforms (Facebook · Instagram · WhatsApp · Threads)",org:"Meta Platforms",tier:"Industry",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born in White Plains, New York (1984). Harvard dropout — founded Facebook from his dorm room in 2004. Controls Meta through a dual-class share structure — holds Class B shares with 10 votes per share, giving him supermajority voting control (~57% of voting power) despite owning a smaller economic stake. Peter Thiel was Meta's first outside investor ($500K for 10.2% in 2004). Marc Andreessen currently sits on Meta's board. No foreign citizenship documented.",
+      foreignTies:"Meta operates in nearly every country on earth — making it one of the most geopolitically exposed companies in the dossier. EU has fined Meta €1.2B+ for GDPR violations and data transfer issues. Meta's Llama open-weight AI models are freely downloadable with no export controls — available to foreign militaries, intelligence agencies, and adversarial state actors with no restrictions. WhatsApp's 2B+ users span Iran, Russia, China-adjacent markets, and active conflict zones. Meta had early aspirations to enter China (Zuckerberg learned Mandarin, met Xi Jinping). Meta's data practices have been scrutinized by the Senate Intelligence Committee for foreign influence operations run on the platform (Russian IRA in 2016, Iranian influence campaigns). Thiel (NZ/German/US citizen) and Andreessen (a16z/defense-tech investor) sit on or recently sat on Meta's board.",
+      pacActivity:"Meta donated $1M to Trump's inaugural fund (Jan 2025) — part of the wave of tech company donations alongside Amazon, Google, Oracle. Zuckerberg did a dramatic public political pivot in late 2024: ended Facebook fact-checking program, replaced it with X-style community notes, appeared on Joe Rogan, visited Trump at Mar-a-Lago. Meta's lobbying spend is among the highest of any tech company — Senate LDA filings and OpenSecrets document $20M+ annually. Zuckerberg personally donated to Chan Zuckerberg Initiative (CZI) which has funded election administration infrastructure — drew conservative criticism. FEC tracks individual giving; OpenSecrets tracks Meta's full lobbying/PAC ecosystem.",
+      govLinks:"Meta is under active FTC antitrust lawsuit (seeking to break up Instagram and WhatsApp acquisition). DOJ has separate oversight of Meta's data practices. Congressional testimony — Zuckerberg has testified before Senate Judiciary, Commerce, and Intelligence committees. Meta's content moderation decisions on Iran/Russia/China-linked influence operations are a direct IC concern — Gabbard's ODNI monitors foreign influence on U.S. social media platforms. Meta's Llama open-source AI models are a distinct national security question — no export controls exist on open-weight models, meaning adversaries can freely use Meta's frontier AI. Meta's advertising infrastructure processes data on virtually every American — a surveillance-adjacent capability that sits outside traditional defense contractor oversight.",
+      flag:"🇺🇸",risk:"HIGH",connections:["Peter Thiel","Marc Andreessen","Donald J. Trump","Andy Jassy","Sundar Pichai","Satya Nadella"]
     },
     {
       name:"Elon Musk",role:"CEO — Tesla / SpaceX / xAI / X  |  Fmr. DOGE Lead",org:"Tesla · SpaceX · xAI · X",tier:"Industry",
