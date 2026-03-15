@@ -672,6 +672,26 @@
       background: var(--surface3); border-color: var(--fact); color: #fff;
     }
 
+    /* ── SOURCE CHIPS ── */
+    .dossier-source-row {
+      display: flex; flex-wrap: wrap; gap: 5px; margin-top: 6px;
+    }
+    .dossier-src-chip {
+      display: inline-flex; align-items: center; gap: 4px;
+      font-size: 9px; font-weight: 700; letter-spacing: 0.4px;
+      padding: 2px 8px; border-radius: 3px; text-decoration: none;
+      font-family: var(--font-mono); white-space: nowrap;
+      transition: all 0.15s; cursor: pointer;
+      border: 1px solid;
+    }
+    .dossier-src-chip:hover { opacity: 0.8; transform: translateY(-1px); }
+    .src-gov    { background: rgba(26,115,232,0.10); color: var(--fact);    border-color: rgba(26,115,232,0.25); }
+    .src-wire   { background: rgba(6,214,160,0.10);  color: var(--eu);      border-color: rgba(6,214,160,0.25); }
+    .src-fec    { background: rgba(230,126,34,0.10); color: var(--govt);    border-color: rgba(230,126,34,0.25); }
+    .src-court  { background: rgba(142,68,173,0.10); color: var(--framing); border-color: rgba(142,68,173,0.25); }
+    .src-spend  { background: rgba(255,190,11,0.10); color: var(--me);      border-color: rgba(255,190,11,0.25); }
+    .src-corp   { background: rgba(136,136,136,0.10); color: var(--subtext);border-color: rgba(136,136,136,0.25); }
+
     .dossier-footer-note {
       background: var(--surface); border: 1px solid var(--border);
       border-left: 3px solid var(--border2);
@@ -1893,6 +1913,339 @@
   // ══════════════════════════════════════════════════════════
   //   NETWORK / DOSSIER TAB
   // ══════════════════════════════════════════════════════════
+  // ── SOURCE CHIPS DATA ────────────────────────────────────
+  // Types: gov=blue, wire=green, fec=orange, court=purple, spend=yellow, corp=grey
+  const DOSSIER_SOURCES = {
+    "Elon Musk": {
+      foreignTies: [
+        { label:"Reuters",      url:"https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16/", type:"wire" },
+        { label:"NRO Newsroom", url:"https://www.nro.gov/News/News-Articles/",                                                                                              type:"gov" },
+        { label:"CDAO Release", url:"https://www.ai.mil/Latest/News-Press/PR-View/Article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu/", type:"gov" },
+        { label:"CBS News",     url:"https://www.cbsnews.com/news/grok-elon-musk-xai-pentagon-contract/",                                                                   type:"wire" },
+        { label:"DefenseScoop", url:"https://defensescoop.com/2025/07/14/pentagon-ai-contracts-musk-xai-google-openai-anthropic-cdao/",                                     type:"wire" },
+        { label:"CNBC",         url:"https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html",                                  type:"wire" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/outside-spending/",                                                                                        type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/committees/",                                                                                                 type:"fec" },
+        { label:"FEC Indep.",   url:"https://www.fec.gov/data/independent-expenditures/",                                                                                   type:"fec" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=America%20PAC%20sweepstakes",                                                               type:"wire" },
+        { label:"AP News",      url:"https://apnews.com/",                                                                                                                  type:"wire" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                                                                   type:"spend" },
+        { label:"SAM.gov",      url:"https://sam.gov/",                                                                                                                     type:"gov" },
+        { label:"DOJ Newsroom", url:"https://www.justice.gov/news",                                                                                                         type:"gov" },
+        { label:"PACER",        url:"https://pacer.uscourts.gov/",                                                                                                          type:"court" },
+      ],
+    },
+    "Peter Thiel": {
+      foreignTies: [
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Peter%20Thiel%20New%20Zealand%20citizenship", type:"wire" },
+        { label:"NZ DIA",       url:"https://www.dia.govt.nz/",                                                               type:"gov" },
+        { label:"Palantir",     url:"https://www.palantir.com/company/",                                                      type:"corp" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/receipts/individual-contributions/",                            type:"fec" },
+        { label:"Ballotpedia",  url:"https://ballotpedia.org/Peter_Thiel",                                                    type:"wire" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"SEC EDGAR",    url:"https://www.sec.gov/edgar/search/",                                                      type:"gov" },
+        { label:"DoD Contracts",url:"https://www.defense.gov/News/Contracts/",                                                type:"gov" },
+      ],
+    },
+    "Jensen Huang": {
+      foreignTies: [
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Nvidia%20export%20controls%20China",          type:"wire" },
+        { label:"BIS",          url:"https://www.bis.gov/",                                                                   type:"gov" },
+        { label:"Nvidia SEC",   url:"https://www.sec.gov/edgar/search/",                                                      type:"gov" },
+      ],
+      pacActivity: [
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"CDAO",         url:"https://www.ai.mil/Latest/News-Press/",                                                  type:"gov" },
+        { label:"SAM.gov",      url:"https://sam.gov/",                                                                       type:"gov" },
+      ],
+    },
+    "Masayoshi Son": {
+      foreignTies: [
+        { label:"SoftBank IR",  url:"https://group.softbank/en/ir",                                                           type:"corp" },
+        { label:"PIF",          url:"https://www.pif.gov.sa/",                                                                type:"gov" },
+        { label:"Mubadala",     url:"https://www.mubadala.com/",                                                              type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Masayoshi%20Son%20SoftBank%20AI%20investment", type:"wire" },
+      ],
+      pacActivity: [
+        { label:"CFIUS",        url:"https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius", type:"gov" },
+        { label:"SoftBank VF",  url:"https://group.softbank/en/ir/presentations",                                            type:"corp" },
+      ],
+      govLinks: [
+        { label:"CDAO Release", url:"https://www.ai.mil/Latest/News-Press/PR-View/Article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu/", type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=SoftBank%20US%20tech%20investment%20security", type:"wire" },
+      ],
+    },
+    "Sam Altman": {
+      foreignTies: [
+        { label:"OpenAI Blog",  url:"https://openai.com/blog",                                                                type:"corp" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=OpenAI%20Saudi%20investment",                 type:"wire" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"Senate.gov",   url:"https://www.senate.gov/",                                                                type:"gov" },
+      ],
+      govLinks: [
+        { label:"CDAO Release", url:"https://www.ai.mil/Latest/News-Press/PR-View/Article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu/", type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/business/autos-transportation/us-department-defense-awards-contracts-google-xai-2025-07-14/", type:"wire" },
+        { label:"CNBC",         url:"https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html", type:"wire" },
+      ],
+    },
+    "Greg Brockman": {
+      foreignTies: [
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=OpenAI%20Saudi%20Arabia%20investment",        type:"wire" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+      ],
+      govLinks: [
+        { label:"CDAO Release", url:"https://www.ai.mil/Latest/News-Press/PR-View/Article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu/", type:"gov" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"OpenAI Charter",url:"https://openai.com/charter",                                                            type:"corp" },
+      ],
+    },
+    "Alex Karp": {
+      foreignTies: [
+        { label:"Palantir",     url:"https://www.palantir.com/company/",                                                      type:"corp" },
+        { label:"SEC EDGAR",    url:"https://www.sec.gov/edgar/search/",                                                      type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Alex%20Karp%20national%20security",           type:"wire" },
+      ],
+      pacActivity: [
+        { label:"Palantir IR",  url:"https://investors.palantir.com/",                                                        type:"corp" },
+        { label:"Congress.gov", url:"https://www.congress.gov/",                                                              type:"gov" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"DoD Contracts",url:"https://www.defense.gov/News/Contracts/",                                                type:"gov" },
+        { label:"GAO",          url:"https://www.gao.gov/legal/bid-protests/search",                                          type:"gov" },
+      ],
+    },
+    "Marc Andreessen": {
+      foreignTies: [
+        { label:"a16z Portfolio",url:"https://a16z.com/portfolio/",                                                           type:"corp" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=a16z%20defense%20tech",                       type:"wire" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/receipts/individual-contributions/",                            type:"fec" },
+        { label:"FEC Indep.",   url:"https://www.fec.gov/data/independent-expenditures/",                                     type:"fec" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"CDAO",         url:"https://www.ai.mil/Latest/News-Press/",                                                  type:"gov" },
+        { label:"DoD Contracts",url:"https://www.defense.gov/News/Contracts/",                                                type:"gov" },
+      ],
+    },
+    "Larry Ellison": {
+      foreignTies: [
+        { label:"Oracle IR",    url:"https://investor.oracle.com/",                                                           type:"corp" },
+        { label:"FedRAMP",      url:"https://marketplace.fedramp.gov/",                                                       type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Oracle%20government%20cloud",                 type:"wire" },
+      ],
+      pacActivity: [
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"SEC EDGAR",    url:"https://www.sec.gov/edgar/search/",                                                      type:"gov" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"SAM.gov",      url:"https://sam.gov/",                                                                       type:"gov" },
+        { label:"CDAO Release", url:"https://www.ai.mil/Latest/News-Press/PR-View/Article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu/", type:"gov" },
+        { label:"CISA",         url:"https://www.cisa.gov/",                                                                  type:"gov" },
+      ],
+    },
+    "Palmer Luckey": {
+      foreignTies: [
+        { label:"Anduril",      url:"https://www.anduril.com/",                                                               type:"corp" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Palmer%20Luckey%20Anduril",                   type:"wire" },
+        { label:"GAO",          url:"https://www.gao.gov/legal/bid-protests/search",                                          type:"gov" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/receipts/individual-contributions/",                            type:"fec" },
+        { label:"Anduril News", url:"https://www.anduril.com/newsroom/",                                                      type:"corp" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"DoD Contracts",url:"https://www.defense.gov/News/Contracts/",                                                type:"gov" },
+        { label:"DHS",          url:"https://www.dhs.gov/",                                                                   type:"gov" },
+      ],
+    },
+    "Satya Nadella": {
+      foreignTies: [
+        { label:"Azure Gov",    url:"https://azure.microsoft.com/en-us/explore/global-infrastructure/government/",            type:"gov" },
+        { label:"FedRAMP",      url:"https://marketplace.fedramp.gov/",                                                       type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Microsoft%20government%20AI",                 type:"wire" },
+      ],
+      pacActivity: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"SEC EDGAR",    url:"https://www.sec.gov/edgar/search/",                                                      type:"gov" },
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"DoD Releases", url:"https://www.defense.gov/News/Releases/",                                                 type:"gov" },
+        { label:"CDAO",         url:"https://www.ai.mil/Latest/News-Press/",                                                  type:"gov" },
+        { label:"FedRAMP",      url:"https://marketplace.fedramp.gov/",                                                       type:"gov" },
+      ],
+    },
+    "Andy Jassy": {
+      foreignTies: [
+        { label:"AWS GovCloud", url:"https://aws.amazon.com/government-education/",                                           type:"gov" },
+        { label:"FedRAMP",      url:"https://marketplace.fedramp.gov/",                                                       type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=AWS%20government%20contract",                 type:"wire" },
+      ],
+      pacActivity: [
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"DoD Releases", url:"https://www.defense.gov/News/Releases/",                                                 type:"gov" },
+        { label:"CDAO",         url:"https://www.ai.mil/Latest/News-Press/",                                                  type:"gov" },
+        { label:"SAM.gov",      url:"https://sam.gov/",                                                                       type:"gov" },
+      ],
+    },
+    "Sundar Pichai": {
+      foreignTies: [
+        { label:"CDAO Release", url:"https://www.ai.mil/Latest/News-Press/PR-View/Article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu/", type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Google%20DoD%20AI%20contract",                type:"wire" },
+        { label:"FedRAMP",      url:"https://marketplace.fedramp.gov/",                                                       type:"gov" },
+      ],
+      pacActivity: [
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"DOJ Antitrust",url:"https://www.justice.gov/atr",                                                            type:"court" },
+      ],
+      govLinks: [
+        { label:"CDAO Release", url:"https://www.ai.mil/Latest/News-Press/PR-View/Article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu/", type:"gov" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"Congress.gov", url:"https://www.congress.gov/",                                                              type:"gov" },
+      ],
+    },
+    "Michael Kratsios": {
+      foreignTies: [
+        { label:"OSTP",         url:"https://www.whitehouse.gov/ostp/",                                                       type:"gov" },
+        { label:"CSIS",         url:"https://www.csis.org/",                                                                  type:"wire" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Michael%20Kratsios",                          type:"wire" },
+      ],
+      pacActivity: [
+        { label:"Fed Register",  url:"https://www.federalregister.gov/",                                                      type:"gov" },
+        { label:"OMB",          url:"https://www.whitehouse.gov/omb/",                                                        type:"gov" },
+      ],
+      govLinks: [
+        { label:"OSTP",         url:"https://www.whitehouse.gov/ostp/",                                                       type:"gov" },
+        { label:"WH Archives",  url:"https://trumpwhitehouse.archives.gov/",                                                  type:"gov" },
+        { label:"Congress.gov", url:"https://www.congress.gov/",                                                              type:"gov" },
+      ],
+    },
+    "Emil Michael": {
+      foreignTies: [
+        { label:"DoD Bio",      url:"https://www.defense.gov/About/Biographies/",                                             type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Emil%20Michael",                              type:"wire" },
+      ],
+      pacActivity: [
+        { label:"DoD Budget",   url:"https://comptroller.defense.gov/Budget-Materials/",                                      type:"gov" },
+        { label:"Congress.gov", url:"https://www.congress.gov/",                                                              type:"gov" },
+      ],
+      govLinks: [
+        { label:"USD R&E",      url:"https://www.cto.mil/",                                                                   type:"gov" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"GAO",          url:"https://www.gao.gov/",                                                                   type:"gov" },
+        { label:"DoD Contracts",url:"https://www.defense.gov/News/Contracts/",                                                type:"gov" },
+      ],
+    },
+    "Cameron Stanley": {
+      foreignTies: [
+        { label:"CDAO",         url:"https://www.ai.mil/",                                                                    type:"gov" },
+        { label:"DefenseScoop", url:"https://defensescoop.com/",                                                              type:"wire" },
+      ],
+      pacActivity: [
+        { label:"DoD Budget",   url:"https://comptroller.defense.gov/Budget-Materials/",                                      type:"gov" },
+        { label:"DoD Org",      url:"https://www.defense.gov/About/",                                                         type:"gov" },
+      ],
+      govLinks: [
+        { label:"CDAO News",    url:"https://www.ai.mil/Latest/News-Press/",                                                  type:"gov" },
+        { label:"DoD AI Docs",  url:"https://www.ai.mil/Resources/",                                                          type:"gov" },
+        { label:"GAO AI",       url:"https://www.gao.gov/",                                                                   type:"gov" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+      ],
+    },
+    "Gavin Kliger": {
+      foreignTies: [
+        { label:"CDAO",         url:"https://www.ai.mil/",                                                                    type:"gov" },
+        { label:"DefenseScoop", url:"https://defensescoop.com/",                                                              type:"wire" },
+        { label:"DoD Org",      url:"https://www.defense.gov/About/",                                                         type:"gov" },
+      ],
+      pacActivity: [
+        { label:"DoD Budget",   url:"https://comptroller.defense.gov/Budget-Materials/",                                      type:"gov" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"SAM.gov",      url:"https://sam.gov/",                                                                       type:"gov" },
+      ],
+      govLinks: [
+        { label:"DoD Data Strat",url:"https://www.ai.mil/Resources/",                                                         type:"gov" },
+        { label:"GAO",          url:"https://www.gao.gov/",                                                                   type:"gov" },
+        { label:"Congress.gov", url:"https://www.congress.gov/",                                                              type:"gov" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+      ],
+    },
+    "Trae Stephens": {
+      foreignTies: [
+        { label:"Anduril",      url:"https://www.anduril.com/",                                                               type:"corp" },
+        { label:"Founders Fund",url:"https://foundersfund.com/team/",                                                         type:"corp" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Trae%20Stephens%20Anduril",                   type:"wire" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"Crunchbase",   url:"https://www.crunchbase.com/",                                                            type:"corp" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"DoD Contracts",url:"https://www.defense.gov/News/Contracts/",                                                type:"gov" },
+        { label:"GAO",          url:"https://www.gao.gov/legal/bid-protests/search",                                          type:"gov" },
+      ],
+    },
+    "Joe Lonsdale": {
+      foreignTies: [
+        { label:"8VC",          url:"https://8vc.com/companies/",                                                             type:"corp" },
+        { label:"Palantir",     url:"https://www.palantir.com/company/",                                                      type:"corp" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Joe%20Lonsdale",                              type:"wire" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/receipts/individual-contributions/",                            type:"fec" },
+        { label:"FEC Indep.",   url:"https://www.fec.gov/data/independent-expenditures/",                                     type:"fec" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"Congress.gov", url:"https://www.congress.gov/",                                                              type:"gov" },
+        { label:"DoD Contracts",url:"https://www.defense.gov/News/Contracts/",                                                type:"gov" },
+      ],
+    },
+  };
+
+  function dossierSrcChips(name, section) {
+    const person = DOSSIER_SOURCES[name];
+    if (!person || !person[section] || !person[section].length) return '';
+    const chips = person[section].map(s =>
+      `<a class="dossier-src-chip src-${s.type}" href="${s.url}" target="_blank" rel="noopener noreferrer">${s.label} ↗</a>`
+    ).join('');
+    return `<div class="dossier-source-row">${chips}</div>`;
+  }
+
   const DOSSIER_DATA = [
     {
       name:"Elon Musk",role:"CEO — Tesla / SpaceX / xAI / X  |  Fmr. DOGE Lead",org:"Tesla · SpaceX · xAI · X",tier:"Industry",
@@ -2115,14 +2468,17 @@
         <div class="dossier-detail-section">
           <div class="dossier-detail-label">🌐 Foreign Ties</div>
           <div class="dossier-detail-value dossier-foreign-val">${p.foreignTies}</div>
+          ${dossierSrcChips(p.name, 'foreignTies')}
         </div>
         <div class="dossier-detail-section">
           <div class="dossier-detail-label">💰 PAC / Political Spending</div>
           <div class="dossier-detail-value dossier-pac-val">${p.pacActivity}</div>
+          ${dossierSrcChips(p.name, 'pacActivity')}
         </div>
         <div class="dossier-detail-section">
           <div class="dossier-detail-label">🏛️ Government Links</div>
           <div class="dossier-detail-value dossier-gov-val">${p.govLinks}</div>
+          ${dossierSrcChips(p.name, 'govLinks')}
         </div>
         ${conns ? `<div class="dossier-conn-row"><div class="dossier-detail-label">◈ Network Connections</div>${conns}</div>` : ''}
       </div>
