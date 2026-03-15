@@ -2541,6 +2541,33 @@
         { label:"SEC EDGAR",    url:"https://www.sec.gov/edgar/search/",                                                      type:"gov" },
       ],
     },
+    "Jeff Bezos": {
+      citizenshipDetail: [
+        { label:"Amazon Leadership",url:"https://www.aboutamazon.com/about-us/leadership",                                    type:"corp" },
+        { label:"Amazon IR",    url:"https://ir.aboutamazon.com/",                                                            type:"corp" },
+        { label:"WaPo About",   url:"https://www.washingtonpost.com/pr/wp-srv/edit/longterm/about.html",                      type:"corp" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Jeff%20Bezos%20Washington%20Post",            type:"wire" },
+      ],
+      foreignTies: [
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Blue+Origin+defense+contracts",               type:"wire" },
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"Bloomberg",    url:"https://www.bloomberg.com/search?query=Jeff+Bezos+foreign+investment",                   type:"wire" },
+        { label:"DoD Contracts",url:"https://www.defense.gov/News/Contracts/",                                                type:"gov" },
+      ],
+      pacActivity: [
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"Senate LDA",   url:"https://lda.senate.gov/",                                                                type:"gov" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Bezos+Trump+inaugural+Amazon",                type:"wire" },
+      ],
+      govLinks: [
+        { label:"USAspending",  url:"https://www.usaspending.gov/search",                                                     type:"spend" },
+        { label:"DoD Contracts",url:"https://www.defense.gov/News/Contracts/",                                                type:"gov" },
+        { label:"JEDI/JWCC",    url:"https://www.defense.gov/News/Releases/",                                                 type:"gov" },
+        { label:"SEC EDGAR",    url:"https://www.sec.gov/edgar/search/",                                                      type:"gov" },
+        { label:"Congress.gov", url:"https://www.congress.gov/",                                                              type:"gov" },
+      ],
+    },
   };
 
   function dossierSrcChips(name, section) {
@@ -2580,6 +2607,15 @@
       pacActivity:"Apple donated to Trump's inaugural fund (2025) — part of the wave of tech company inaugural donations alongside Meta, Amazon, Google, Oracle. Cook attended Trump's post-election tech CEO dinner at Mar-a-Lago (Nov 2024) alongside Musk, Zuckerberg, Bezos, and others. Apple's lobbying spend is among the largest in tech — Senate LDA and OpenSecrets document $10M+ annually focused on App Store regulation, antitrust, and trade/tariff policy (directly tied to China manufacturing). Cook has cultivated relationships across both Republican and Democratic administrations, making Apple's political posture deliberately bipartisan.",
       govLinks:"Apple is under active DOJ antitrust lawsuit (smartphone monopoly case filed 2024). EU Digital Markets Act enforcement directly targets Apple's App Store and browser choice requirements. Apple's iCloud infrastructure in China runs on state-owned servers — creating a data sovereignty conflict with U.S. national security interests. Apple Silicon chips (A-series, M-series) are produced by TSMC in Taiwan — same supply chain vulnerability as Nvidia. Congressional testimony — Cook has testified before Senate on privacy, antitrust, and child safety. Export control implications: Apple devices are subject to EAR (Export Administration Regulations) but the China manufacturing dependency creates a structural tension with U.S. export control policy goals.",
       flag:"🇺🇸",risk:"HIGH",connections:["Donald J. Trump","Jensen Huang","Satya Nadella","Andy Jassy","Sundar Pichai","Mark Zuckerberg","Howard Lutnick"]
+    },
+    {
+      name:"Jeff Bezos",role:"Founder & Executive Chairman — Amazon  |  Owner — The Washington Post  |  Founder — Blue Origin",org:"Amazon · Blue Origin · Washington Post",tier:"Industry",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born in Albuquerque, New Mexico (1964). Princeton University graduate (electrical engineering and computer science, 1986). Founded Amazon in his Bellevue, Washington garage in 1994. Stepped down as Amazon CEO in July 2021, handing the role to Andy Jassy while remaining Executive Chairman. Owns The Washington Post (purchased 2013 for $250M). Founded Blue Origin (aerospace/defense) in 2000. No foreign citizenship documented. Father Miguel Bezos is a Cuban immigrant — naturalized American citizen.",
+      foreignTies:"Blue Origin competes directly with SpaceX (Musk) for NASA and DoD launch contracts — creating a personal rivalry between two of the wealthiest people in the dossier with overlapping government contract interests. Amazon donated $1M to Trump's inaugural fund (Jan 2025). Bezos attended Trump's post-election tech CEO dinner at Mar-a-Lago (Nov 2024) — a notable shift given Trump's years of public attacks on Amazon and the Washington Post. WaPo ownership gives Bezos direct influence over U.S. political media narrative — Trump referred to it as the 'Amazon Washington Post,' alleging it was used as a lobbying tool. AWS has active government contracts in UK, EU, Gulf states, and allied nations — a global classified cloud footprint. Amazon's $35B India investment (Dec 2025) includes active Indian government partnerships.",
+      pacActivity:"Amazon (as company) donated $1M to Trump inaugural fund (2025). Bezos personally attended Mar-a-Lago tech CEO dinner post-election — a calculated relationship repair after years of Trump-Bezos public hostility. Amazon lobbying spend is among the largest in tech — Senate LDA and OpenSecrets document $20M+ annually, covering antitrust, cloud procurement, labor, and tax policy. Bezos personally sold approximately $8.5B in Amazon stock in Feb 2024 — SEC Form 4 filings publicly document. Washington Post's editorial decisions have direct political influence implications — Bezos intervened to block a Harris endorsement in Oct 2024, a move widely interpreted as a Trump relationship-building signal.",
+      govLinks:"AWS is the dominant U.S. government cloud provider — CIA, NSA, DoD, and most federal agencies run on AWS infrastructure (CIA's C2E contract worth $10B+). Blue Origin holds NASA contracts including Human Landing System development. Amazon lost the original $10B JEDI DoD contract to Microsoft amid alleged Trump political interference — later replaced by JWCC multi-cloud contract where AWS was included. Amazon Bedrock AI models and AWS GovCloud are active federal government products. Bezos's Washington Post ownership creates a media-influence dimension unique in this dossier — editorial decisions about how to cover every person and policy in this network are made under his ownership.",
+      flag:"🇺🇸🇨🇺",risk:"HIGH",connections:["Donald J. Trump","Andy Jassy","Elon Musk","Satya Nadella","Sundar Pichai","Tim Cook","Mark Zuckerberg"]
     },
     {
       name:"Elon Musk",role:"CEO — Tesla / SpaceX / xAI / X  |  Fmr. DOGE Lead",org:"Tesla · SpaceX · xAI · X",tier:"Industry",
