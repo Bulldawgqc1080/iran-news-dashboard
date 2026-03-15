@@ -3539,7 +3539,7 @@
     const brief = [
       `🕵️ ${person.flag}  ${person.name.toUpperCase()}`,
       `${person.role}`,
-      `${riskLabel}  ·  ${person.tier.toUpperCase()}`,
+      `${riskLabel}  ·  ${person.tier === 'Apex' ? 'President' : person.tier === 'Foreign HOS' ? 'Foreign Head of State' : person.tier === 'Conflict Actor' ? 'Conflict Actor' : person.tier.toUpperCase()}`,
       ``,
       `🌐 ${snip(person.foreignTies, 120)}`,
       ``,
