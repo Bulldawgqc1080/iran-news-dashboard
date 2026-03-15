@@ -1,0 +1,770 @@
+[
+  {
+    "actor": "Pete Hegseth",
+    "claim": "Pete Hegseth was a co-host of Fox News' FOX & Friends Weekend.",
+    "source_name": "Fox News profile",
+    "source_url": "https://www.foxnews.com/person/h/pete-hegseth",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Pete Hegseth",
+    "claim": "Pete Hegseth was a co-host of Fox News' FOX & Friends Weekend.",
+    "source_name": "Wikipedia bio",
+    "source_url": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "JD Vance",
+    "claim": "JD Vance has served as a U.S. Senator from Ohio.",
+    "source_name": "Congress.gov profile",
+    "source_url": "https://www.congress.gov/member/j-d-vance/V000137",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "JD Vance",
+    "claim": "JD Vance has served as a U.S. Senator from Ohio.",
+    "source_name": "U.S. Senate directory",
+    "source_url": "https://www.senate.gov/senators/senators-contact.htm",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Howard Lutnick",
+    "claim": "Howard Lutnick is Chairman and CEO of Cantor Fitzgerald.",
+    "source_name": "Cantor leadership",
+    "source_url": "https://www.cantor.com/leadership/howard-w-lutnick/",
+    "side_tag": "finance",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Howard Lutnick",
+    "claim": "Howard Lutnick is Chairman and CEO of Cantor Fitzgerald.",
+    "source_name": "Britannica profile",
+    "source_url": "https://www.britannica.com/biography/Howard-Lutnick",
+    "side_tag": "finance",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Marco Rubio",
+    "claim": "Marco Rubio has served as U.S. Senator from Florida.",
+    "source_name": "Congress.gov profile",
+    "source_url": "https://www.congress.gov/member/marco-rubio/R000595",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Marco Rubio",
+    "claim": "Marco Rubio has served as U.S. Senator from Florida.",
+    "source_name": "U.S. Senate directory",
+    "source_url": "https://www.senate.gov/senators/senators-contact.htm",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Tulsi Gabbard",
+    "claim": "Tulsi Gabbard served as U.S. Representative for Hawaii's 2nd district (2013\u20132021).",
+    "source_name": "Congress.gov profile",
+    "source_url": "https://www.congress.gov/member/tulsi-gabbard/G000571",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Tulsi Gabbard",
+    "claim": "Tulsi Gabbard served as U.S. Representative for Hawaii's 2nd district (2013\u20132021).",
+    "source_name": "Bioguide",
+    "source_url": "https://bioguide.congress.gov/search/bio/G000571",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "David Sacks",
+    "claim": "David Sacks is a co-founder of Craft Ventures.",
+    "source_name": "Craft Ventures team",
+    "source_url": "https://craftventures.com/team/david-sacks/",
+    "side_tag": "tech-capital",
+    "confidence": "documented"
+  },
+  {
+    "actor": "David Sacks",
+    "claim": "David Sacks is a co-founder of Craft Ventures.",
+    "source_name": "Wikipedia bio",
+    "source_url": "https://en.wikipedia.org/wiki/David_O._Sacks",
+    "side_tag": "tech-capital",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Brendan Carr",
+    "claim": "Brendan Carr is an FCC Commissioner.",
+    "source_name": "FCC biography",
+    "source_url": "https://www.fcc.gov/about/leadership/brendan-carr",
+    "side_tag": "regulatory",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Brendan Carr",
+    "claim": "Brendan Carr is an FCC Commissioner.",
+    "source_name": "Congress nomination",
+    "source_url": "https://www.congress.gov/nomination/115th-congress/269",
+    "side_tag": "regulatory",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Andrew Ferguson",
+    "claim": "Andrew N. Ferguson is an FTC Commissioner.",
+    "source_name": "FTC biography",
+    "source_url": "https://www.ftc.gov/about-ftc/commissioners-staff/andrew-n-ferguson",
+    "side_tag": "regulatory",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Andrew Ferguson",
+    "claim": "Andrew N. Ferguson is an FTC Commissioner.",
+    "source_name": "Congress nomination",
+    "source_url": "https://www.congress.gov/nomination/118th-congress/223",
+    "side_tag": "regulatory",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Doug Burgum",
+    "claim": "Doug Burgum served as Governor of North Dakota.",
+    "source_name": "NGA profile",
+    "source_url": "https://www.nga.org/governor/doug-burgum/",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Doug Burgum",
+    "claim": "Doug Burgum served as Governor of North Dakota.",
+    "source_name": "Britannica profile",
+    "source_url": "https://www.britannica.com/biography/Doug-Burgum",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Chris Wright",
+    "claim": "Chris Wright served as Chairman/CEO of Liberty Energy.",
+    "source_name": "Liberty leadership",
+    "source_url": "https://libertyenergy.com/leadership/chris-wright/",
+    "side_tag": "energy",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Chris Wright",
+    "claim": "Chris Wright served as Chairman/CEO of Liberty Energy.",
+    "source_name": "Liberty investors",
+    "source_url": "https://libertyenergy.com/investors/",
+    "side_tag": "energy",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Donald J. Trump",
+    "claim": "Donald Trump served as the 45th U.S. President (2017\u20132021).",
+    "source_name": "Trump White House archive",
+    "source_url": "https://trumpwhitehouse.archives.gov/",
+    "side_tag": "us-presidents",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Donald J. Trump",
+    "claim": "Donald Trump served as the 45th U.S. President (2017\u20132021).",
+    "source_name": "U.S. National Archives",
+    "source_url": "https://www.archives.gov/presidential-libraries",
+    "side_tag": "us-presidents",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Joseph R. Biden Jr.",
+    "claim": "Joe Biden served as the 46th U.S. President.",
+    "source_name": "White House bio",
+    "source_url": "https://www.whitehouse.gov/administration/president-biden/",
+    "side_tag": "us-presidents",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Joseph R. Biden Jr.",
+    "claim": "Joe Biden served as the 46th U.S. President.",
+    "source_name": "Britannica profile",
+    "source_url": "https://www.britannica.com/biography/Joe-Biden",
+    "side_tag": "us-presidents",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Barack Obama",
+    "claim": "Barack Obama served as the 44th U.S. President (2009\u20132017).",
+    "source_name": "Obama White House archive",
+    "source_url": "https://obamawhitehouse.archives.gov/",
+    "side_tag": "us-presidents",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Barack Obama",
+    "claim": "Barack Obama served as the 44th U.S. President (2009\u20132017).",
+    "source_name": "White House presidents",
+    "source_url": "https://www.whitehouse.gov/about-the-white-house/presidents/",
+    "side_tag": "us-presidents",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Hillary Rodham Clinton",
+    "claim": "Hillary Clinton served as U.S. Secretary of State (2009\u20132013).",
+    "source_name": "State Dept history",
+    "source_url": "https://history.state.gov/departmenthistory/people/secretaries-of-state",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Hillary Rodham Clinton",
+    "claim": "Hillary Clinton served as U.S. Secretary of State (2009\u20132013).",
+    "source_name": "State archive",
+    "source_url": "https://2009-2017.state.gov/",
+    "side_tag": "us-political",
+    "confidence": "documented"
+  },
+  {
+    "actor": "George W. Bush",
+    "claim": "George W. Bush served as the 43rd U.S. President (2001\u20132009).",
+    "source_name": "White House page",
+    "source_url": "https://www.whitehouse.gov/about-the-white-house/presidents/george-w-bush/",
+    "side_tag": "us-presidents",
+    "confidence": "documented"
+  },
+  {
+    "actor": "George W. Bush",
+    "claim": "George W. Bush served as the 43rd U.S. President (2001\u20132009).",
+    "source_name": "Bush Center",
+    "source_url": "https://www.bushcenter.org/",
+    "side_tag": "us-presidents",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Mark Zuckerberg",
+    "claim": "Mark Zuckerberg is co-founder and CEO of Meta Platforms.",
+    "source_name": "Meta leadership",
+    "source_url": "https://about.meta.com/our-leadership/mark-zuckerberg/",
+    "side_tag": "tech",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Mark Zuckerberg",
+    "claim": "Mark Zuckerberg is co-founder and CEO of Meta Platforms.",
+    "source_name": "Meta IR",
+    "source_url": "https://investor.atmeta.com/",
+    "side_tag": "tech",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Tim Cook",
+    "claim": "Tim Cook is CEO of Apple Inc.",
+    "source_name": "Apple leadership",
+    "source_url": "https://www.apple.com/leadership/tim-cook/",
+    "side_tag": "tech",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Tim Cook",
+    "claim": "Tim Cook is CEO of Apple Inc.",
+    "source_name": "Apple IR",
+    "source_url": "https://investor.apple.com/",
+    "side_tag": "tech",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Jeff Bezos",
+    "claim": "Jeff Bezos founded Amazon and serves as Executive Chair.",
+    "source_name": "Amazon leadership",
+    "source_url": "https://www.aboutamazon.com/about-us/leadership",
+    "side_tag": "tech",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Jeff Bezos",
+    "claim": "Jeff Bezos founded Amazon and serves as Executive Chair.",
+    "source_name": "Amazon IR",
+    "source_url": "https://ir.aboutamazon.com/",
+    "side_tag": "tech",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Jared Kushner",
+    "claim": "Jared Kushner founded Affinity Partners after leaving the White House.",
+    "source_name": "Affinity Partners",
+    "source_url": "https://affinitypartners.com/",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Jared Kushner",
+    "claim": "Jared Kushner founded Affinity Partners after leaving the White House.",
+    "source_name": "NYT reporting",
+    "source_url": "https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Jared Kushner",
+    "claim": "Saudi PIF invested $2B in Affinity Partners; reporting also covers Affinity/Qatar sovereign wealth engagement.",
+    "source_name": "NYT PIF investment report",
+    "source_url": "https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Jared Kushner",
+    "claim": "Saudi PIF invested $2B in Affinity Partners; reporting also covers Affinity/Qatar sovereign wealth engagement.",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Jared%20Kushner%20Affinity%20Qatar%20Investment%20Authority",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Jared Kushner",
+    "claim": "Kushner served as Senior Advisor in Trump White House with major Middle East diplomacy contacts.",
+    "source_name": "Trump White House bio",
+    "source_url": "https://trumpwhitehouse.archives.gov/people/jared-kushner/",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Jared Kushner",
+    "claim": "Kushner served as Senior Advisor in Trump White House with major Middle East diplomacy contacts.",
+    "source_name": "Mueller Report PDF",
+    "source_url": "https://www.justice.gov/archives/sco/file/1373816/dl",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Tom Barrack",
+    "claim": "Tom Barrack chaired Trump\u2019s 2017 inaugural committee and led Colony Capital (DigitalBridge).",
+    "source_name": "DigitalBridge",
+    "source_url": "https://www.digitalbridge.com/",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Tom Barrack",
+    "claim": "Tom Barrack chaired Trump\u2019s 2017 inaugural committee and led Colony Capital (DigitalBridge).",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Tom%20Barrack%20inaugural%20committee",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Tom Barrack",
+    "claim": "DOJ charged Barrack in 2021 with acting as an unregistered agent for UAE interests.",
+    "source_name": "DOJ indictment press release",
+    "source_url": "https://www.justice.gov/opa/pr/founder-and-former-ceo-los-angeles-based-private-equity-firm-and-two-others-charged",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Tom Barrack",
+    "claim": "DOJ charged Barrack in 2021 with acting as an unregistered agent for UAE interests.",
+    "source_name": "Reuters case coverage",
+    "source_url": "https://www.reuters.com/site-search/?query=Tom%20Barrack%20UAE%20agent",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Tom Barrack",
+    "claim": "Barrack was acquitted in 2022 on foreign-agent related charges.",
+    "source_name": "Reuters verdict story",
+    "source_url": "https://www.reuters.com/world/us/trump-ally-tom-barrack-found-not-guilty-foreign-agent-charges-2022-11-04/",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Tom Barrack",
+    "claim": "Barrack was acquitted in 2022 on foreign-agent related charges.",
+    "source_name": "EDNY office page",
+    "source_url": "https://www.justice.gov/usao-edny",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Steve Witkoff",
+    "claim": "Steve Witkoff is founder/chairman of the Witkoff Group.",
+    "source_name": "Witkoff Group",
+    "source_url": "https://www.witkoff.com/",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Steve Witkoff",
+    "claim": "Steve Witkoff is founder/chairman of the Witkoff Group.",
+    "source_name": "Bloomberg search",
+    "source_url": "https://www.bloomberg.com/search?query=Steve%20Witkoff",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Steve Witkoff",
+    "claim": "Major media have reported Witkoff in high-level diplomacy/foreign-contact channels tied to Trump-world.",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Steve%20Witkoff%20foreign%20contacts",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Steve Witkoff",
+    "claim": "Major media have reported Witkoff in high-level diplomacy/foreign-contact channels tied to Trump-world.",
+    "source_name": "NYT search",
+    "source_url": "https://www.nytimes.com/search?query=Steve%20Witkoff",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Steve Witkoff",
+    "claim": "No known public DOJ press release charging Witkoff under FARA.",
+    "source_name": "DOJ news archive",
+    "source_url": "https://www.justice.gov/news",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Steve Witkoff",
+    "claim": "No known public DOJ press release charging Witkoff under FARA.",
+    "source_name": "FARA database",
+    "source_url": "https://efile.fara.gov/ords/fara/f?p=1381:1",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Michael Flynn",
+    "claim": "Michael Flynn served as National Security Advisor in 2017 and previously led DIA.",
+    "source_name": "Trump White House archive",
+    "source_url": "https://trumpwhitehouse.archives.gov/",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Michael Flynn",
+    "claim": "Michael Flynn served as National Security Advisor in 2017 and previously led DIA.",
+    "source_name": "DIA",
+    "source_url": "https://www.dia.mil/",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Michael Flynn",
+    "claim": "Flynn pleaded guilty to making false statements to the FBI in 2017 (later pardoned).",
+    "source_name": "DOJ case filing",
+    "source_url": "https://www.justice.gov/file/1015121/download",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Michael Flynn",
+    "claim": "Flynn pleaded guilty to making false statements to the FBI in 2017 (later pardoned).",
+    "source_name": "CourtListener docket",
+    "source_url": "https://www.courtlistener.com/docket/6234142/united-states-v-flynn/",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Michael Flynn",
+    "claim": "Flynn\u2019s Turkey-related work drew FARA-related scrutiny.",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Michael%20Flynn%20Turkey%20FARA",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Michael Flynn",
+    "claim": "Flynn\u2019s Turkey-related work drew FARA-related scrutiny.",
+    "source_name": "Senate Judiciary",
+    "source_url": "https://www.judiciary.senate.gov/",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Paul Manafort",
+    "claim": "Paul Manafort served as Trump campaign chairman in 2016.",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Paul%20Manafort%20campaign%20chairman",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Paul Manafort",
+    "claim": "Paul Manafort served as Trump campaign chairman in 2016.",
+    "source_name": "FEC data",
+    "source_url": "https://www.fec.gov/data/",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Paul Manafort",
+    "claim": "Manafort\u2019s lobbying for pro-Russian Ukrainian interests was central in DOJ prosecutions/FARA scrutiny.",
+    "source_name": "DOJ SCO archive",
+    "source_url": "https://www.justice.gov/archives/sco",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Paul Manafort",
+    "claim": "Manafort\u2019s lobbying for pro-Russian Ukrainian interests was central in DOJ prosecutions/FARA scrutiny.",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Paul%20Manafort%20Ukraine%20lobbying%20FARA",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Paul Manafort",
+    "claim": "Manafort was convicted on federal financial crimes and later pardoned by Trump.",
+    "source_name": "DOJ news archive",
+    "source_url": "https://www.justice.gov/news",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Paul Manafort",
+    "claim": "Manafort was convicted on federal financial crimes and later pardoned by Trump.",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Paul%20Manafort%20pardon",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Rudy Giuliani",
+    "claim": "Rudy Giuliani served as Mayor of New York City and later as Donald Trump\u2019s personal attorney.",
+    "source_name": "NYC official site",
+    "source_url": "https://www.nyc.gov/",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Rudy Giuliani",
+    "claim": "Rudy Giuliani served as Mayor of New York City and later as Donald Trump\u2019s personal attorney.",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Rudy%20Giuliani%20Trump%20lawyer",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Rudy Giuliani",
+    "claim": "Giuliani\u2019s Ukraine activities drew federal investigative and FARA-related scrutiny.",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Giuliani%20Ukraine%20investigation%20FARA",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Rudy Giuliani",
+    "claim": "Giuliani\u2019s Ukraine activities drew federal investigative and FARA-related scrutiny.",
+    "source_name": "DOJ news archive",
+    "source_url": "https://www.justice.gov/news",
+    "side_tag": "foreign-influence",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Rudy Giuliani",
+    "claim": "Giuliani has faced major U.S. legal actions tied to election-related conduct.",
+    "source_name": "CourtListener search",
+    "source_url": "https://www.courtlistener.com/?q=Rudy%20Giuliani",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Rudy Giuliani",
+    "claim": "Giuliani has faced major U.S. legal actions tied to election-related conduct.",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Rudy%20Giuliani%20lawsuit%20verdict",
+    "side_tag": "foreign-influence",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Benjamin Netanyahu",
+    "claim": "Netanyahu has served multiple terms as Prime Minister of Israel and is the longest-serving PM in Israeli history.",
+    "source_name": "PM Office bio",
+    "source_url": "https://www.gov.il/en/departments/people/prime_minister",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Benjamin Netanyahu",
+    "claim": "Netanyahu has served multiple terms as Prime Minister of Israel and is the longest-serving PM in Israeli history.",
+    "source_name": "Britannica",
+    "source_url": "https://www.britannica.com/biography/Benjamin-Netanyahu",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Benjamin Netanyahu",
+    "claim": "Netanyahu is on trial in Israel on corruption charges (which he denies).",
+    "source_name": "Reuters search",
+    "source_url": "https://www.reuters.com/site-search/?query=Netanyahu%20trial%20bribery%20fraud%20breach%20of%20trust",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Benjamin Netanyahu",
+    "claim": "Netanyahu is on trial in Israel on corruption charges (which he denies).",
+    "source_name": "Times of Israel trial tracker",
+    "source_url": "https://www.timesofisrael.com/topic/netanyahu-trial/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Benjamin Netanyahu",
+    "claim": "Gaza operations under Netanyahu drew massive civilian-casualty scrutiny and international legal challenges.",
+    "source_name": "UN OCHA oPt",
+    "source_url": "https://www.ochaopt.org/",
+    "side_tag": "middle-east",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Benjamin Netanyahu",
+    "claim": "Gaza operations under Netanyahu drew massive civilian-casualty scrutiny and international legal challenges.",
+    "source_name": "ICJ case 192",
+    "source_url": "https://www.icj-cij.org/case/192",
+    "side_tag": "middle-east",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Hamas Leadership",
+    "claim": "Hamas carried out the Oct. 7, 2023 attacks including mass killings and hostage-taking.",
+    "source_name": "OHCHR",
+    "source_url": "https://www.ohchr.org/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Hamas Leadership",
+    "claim": "Hamas carried out the Oct. 7, 2023 attacks including mass killings and hostage-taking.",
+    "source_name": "Reuters Middle East",
+    "source_url": "https://www.reuters.com/world/middle-east/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Hamas Leadership",
+    "claim": "Hamas is designated as a Foreign Terrorist Organization by the U.S.",
+    "source_name": "U.S. State FTO list",
+    "source_url": "https://www.state.gov/foreign-terrorist-organizations/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Hamas Leadership",
+    "claim": "Hamas is designated as a Foreign Terrorist Organization by the U.S.",
+    "source_name": "Reuters Middle East",
+    "source_url": "https://www.reuters.com/world/middle-east/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Hamas Leadership",
+    "claim": "Hostage policy and urban-war tactics have been central obstacles in ceasefire negotiations.",
+    "source_name": "ICRC",
+    "source_url": "https://www.icrc.org/",
+    "side_tag": "middle-east",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Hamas Leadership",
+    "claim": "Hostage policy and urban-war tactics have been central obstacles in ceasefire negotiations.",
+    "source_name": "UNSC",
+    "source_url": "https://www.un.org/securitycouncil/",
+    "side_tag": "middle-east",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Iranian IRGC Leadership",
+    "claim": "IRGC is designated by the U.S. as a Foreign Terrorist Organization.",
+    "source_name": "U.S. State FTO list",
+    "source_url": "https://www.state.gov/foreign-terrorist-organizations/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Iranian IRGC Leadership",
+    "claim": "IRGC is designated by the U.S. as a Foreign Terrorist Organization.",
+    "source_name": "U.S. Treasury Iran sanctions",
+    "source_url": "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/iran-sanctions",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Iranian IRGC Leadership",
+    "claim": "IRGC-linked support to regional armed groups is treated as a key escalation vector.",
+    "source_name": "DoD",
+    "source_url": "https://www.defense.gov/",
+    "side_tag": "middle-east",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Iranian IRGC Leadership",
+    "claim": "IRGC-linked support to regional armed groups is treated as a key escalation vector.",
+    "source_name": "UNSC",
+    "source_url": "https://www.un.org/securitycouncil/",
+    "side_tag": "middle-east",
+    "confidence": "reported"
+  },
+  {
+    "actor": "Iranian IRGC Leadership",
+    "claim": "IRGC activities have triggered repeated sanctions and military counter-actions.",
+    "source_name": "U.S. Treasury",
+    "source_url": "https://home.treasury.gov/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "Iranian IRGC Leadership",
+    "claim": "IRGC activities have triggered repeated sanctions and military counter-actions.",
+    "source_name": "EU sanctions policy",
+    "source_url": "https://www.consilium.europa.eu/en/policies/sanctions/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "U.S. National Security Leadership",
+    "claim": "The U.S. has provided major military and diplomatic support to Israel during the war.",
+    "source_name": "DoD releases",
+    "source_url": "https://www.defense.gov/News/Releases/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "U.S. National Security Leadership",
+    "claim": "The U.S. has provided major military and diplomatic support to Israel during the war.",
+    "source_name": "State press releases",
+    "source_url": "https://www.state.gov/press-releases/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "U.S. National Security Leadership",
+    "claim": "U.S. force-posture shifts in the region expanded military footprint during the conflict.",
+    "source_name": "CENTCOM releases",
+    "source_url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "U.S. National Security Leadership",
+    "claim": "U.S. force-posture shifts in the region expanded military footprint during the conflict.",
+    "source_name": "DoD",
+    "source_url": "https://www.defense.gov/",
+    "side_tag": "middle-east",
+    "confidence": "documented"
+  },
+  {
+    "actor": "U.S. National Security Leadership",
+    "claim": "U.S. UN Security Council positions significantly affect ceasefire diplomacy trajectories.",
+    "source_name": "UNSC records",
+    "source_url": "https://www.un.org/securitycouncil/",
+    "side_tag": "middle-east",
+    "confidence": "reported"
+  },
+  {
+    "actor": "U.S. National Security Leadership",
+    "claim": "U.S. UN Security Council positions significantly affect ceasefire diplomacy trajectories.",
+    "source_name": "U.S. Mission to UN",
+    "source_url": "https://usun.usmission.gov/",
+    "side_tag": "middle-east",
+    "confidence": "reported"
+  }
+]
