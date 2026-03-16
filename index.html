@@ -582,6 +582,7 @@
     .tier-ForeignCap  .dossier-tier-badge { background: rgba(255,190,11,0.10);  color: var(--me); }
     .tier-Cloud       .dossier-tier-badge { background: rgba(6,214,160,0.10);   color: var(--eu); }
     .tier-Government  .dossier-tier-badge { background: rgba(26,115,232,0.10);  color: var(--us); }
+    .tier-Media       .dossier-tier-badge { background: rgba(255,100,200,0.10); color: #ff64c8; border-color: rgba(255,100,200,0.3); }
     .tier-Apex        .dossier-tier-badge {
       background: rgba(255,210,0,0.12); color: #ffd200;
       border-color: rgba(255,210,0,0.35);
@@ -1648,6 +1649,7 @@
           <button class="dossier-filter-btn"         data-dtier="Foreign Capital" onclick="dossierSetTier(this)">Foreign Capital</button>
           <button class="dossier-filter-btn"         data-dtier="Cloud"           onclick="dossierSetTier(this)">Cloud</button>
           <button class="dossier-filter-btn"         data-dtier="Government"      onclick="dossierSetTier(this)">Government</button>
+          <button class="dossier-filter-btn"         data-dtier="Media"           onclick="dossierSetTier(this)" style="border-color:rgba(255,100,200,0.4);color:#ff64c8;">📺 Media</button>
           <button class="dossier-filter-btn"         data-dtier="Apex"            onclick="dossierSetTier(this)" style="border-color:rgba(255,210,0,0.4);color:#ffd200;">⭐ Apex</button>
           <button class="dossier-filter-btn"         data-dtier="Foreign HOS"     onclick="dossierSetTier(this)" style="border-color:rgba(100,160,255,0.4);color:#6fa8ff;">🌐 Foreign HOS</button>
           <button class="dossier-filter-btn"         data-dtier="Conflict Actor"  onclick="dossierSetTier(this)" style="border-color:rgba(255,110,60,0.4);color:#ff6e3c;">⚔️ Conflict Actor</button>
@@ -1929,6 +1931,9 @@
   // ── DOSSIER NAME MATCHER for news auto-tagging ────────────
   // Maps keywords/aliases → dossier card IDs
   const DOSSIER_NAME_MAP = [
+    { keys:['tucker carlson','tucker','tcn'],                        name:'Tucker Carlson' },
+    { keys:['sean hannity','hannity'],                               name:'Sean Hannity' },
+    { keys:['mark levin','levin','landmark legal','life liberty'],   name:'Mark Levin' },
     { keys:['obama','barack obama','jcpoa'],           name:'Barack Obama' },
     { keys:['trump','donald trump'],                    name:'Donald J. Trump' },
     { keys:['musk','elon musk','spacex','tesla','doge','xai','grok'], name:'Elon Musk' },
@@ -3052,6 +3057,75 @@
         { label:"Britannica",   url:"https://www.britannica.com/biography/Barack-Obama",                                      type:"wire" },
       ],
     },
+    "Mark Levin": {
+      citizenshipDetail: [
+        { label:"Wikipedia",    url:"https://en.wikipedia.org/wiki/Mark_Levin",                                               type:"wire" },
+        { label:"C-SPAN",       url:"https://www.c-span.org/person/mark-r-levin/29572/",                                      type:"gov" },
+        { label:"Landmark Legal",url:"https://www.landmarklegal.org/people",                                                  type:"corp" },
+      ],
+      foreignTies: [
+        { label:"Wikipedia",    url:"https://en.wikipedia.org/wiki/Mark_Levin",                                               type:"wire" },
+        { label:"Reuters",      url:"https://www.reuters.com/site-search/?query=Mark+Levin+Israel+Iran",                      type:"wire" },
+        { label:"Fox News",     url:"https://www.foxnews.com/person/h/mark-levin",                                            type:"wire" },
+      ],
+      pacActivity: [
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"InfluenceWatch",url:"https://www.influencewatch.org/non-profit/landmark-legal-foundation/",                  type:"wire" },
+      ],
+      govLinks: [
+        { label:"DHS Advisory", url:"https://www.dhs.gov/homeland-security-advisory-council",                                 type:"gov" },
+        { label:"Landmark Legal",url:"https://www.landmarklegal.org/",                                                        type:"corp" },
+        { label:"C-SPAN",       url:"https://www.c-span.org/person/mark-r-levin/29572/",                                      type:"gov" },
+        { label:"SourceWatch",  url:"https://www.sourcewatch.org/index.php/Mark_Levin",                                       type:"wire" },
+      ],
+    },
+    "Tucker Carlson": {
+      citizenshipDetail: [
+        { label:"Wikipedia",    url:"https://en.wikipedia.org/wiki/Tucker_Carlson",                                           type:"wire" },
+        { label:"NPR",          url:"https://www.npr.org/2024/02/08/1230024588/tucker-carlson-putin-interview-video",         type:"wire" },
+        { label:"TCN",          url:"https://tuckercarlson.com",                                                              type:"corp" },
+      ],
+      foreignTies: [
+        { label:"NPR/Putin",    url:"https://www.npr.org/2024/02/08/1230024588/tucker-carlson-putin-interview-video",         type:"wire" },
+        { label:"PBS/Russia",   url:"https://www.pbs.org/newshour/world/russia-says-former-fox-news-host-tucker-carlson-has-interviewed-putin", type:"wire" },
+        { label:"Al Jazeera",   url:"https://www.aljazeera.com/news/2024/2/9/decoding-putins-obsessive-ideas-in-the-tucker-carlson-interview", type:"wire" },
+        { label:"Hungarian Con",url:"https://www.hungarianconservative.com/articles/current/viktor-orban-tucker-carlson-interview-2025/", type:"wire" },
+      ],
+      pacActivity: [
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"CNN/Fox firing",url:"https://www.cnn.com/2024/02/06/media/tucker-carlson-russia-putin-interview-reliable-sources/index.html", type:"wire" },
+      ],
+      govLinks: [
+        { label:"Newsweek",     url:"https://www.newsweek.com/tucker-carlson-sean-hannity-maga-trump-iran-israel-2085472",    type:"wire" },
+        { label:"NBC News",     url:"https://www.nbcnews.com/news/world/tucker-carlson-interviewed-russian-president-vladimir-putin-rcna137420", type:"wire" },
+        { label:"CNN",          url:"https://www.cnn.com/2025/06/18/media/fox-news-mark-levin-tucker-carlson-maga-media-israel-iran", type:"wire" },
+      ],
+    },
+    "Sean Hannity": {
+      citizenshipDetail: [
+        { label:"Wikipedia",    url:"https://en.wikipedia.org/wiki/Sean_Hannity",                                             type:"wire" },
+        { label:"Fox News Bio", url:"https://www.foxnews.com/person/h/sean-hannity",                                          type:"wire" },
+        { label:"Fox Press",    url:"https://press.foxnews.com/2025/02/fox-news-channels-sean-hannity-to-present-a-joint-interview-with-president-donald-trump-and-elon-musk-on-tuesday-february-18", type:"wire" },
+      ],
+      foreignTies: [
+        { label:"Fox/Netanyahu",url:"https://www.foxnews.com/category/shows/hannity",                                         type:"wire" },
+        { label:"Daily Beast",  url:"https://www.thedailybeast.com/megyn-kelly-attacks-her-former-fox-news-colleague-sean-hannity-for-supporting-trumps-iran-war/", type:"wire" },
+        { label:"Newsweek",     url:"https://www.newsweek.com/tucker-carlson-sean-hannity-maga-trump-iran-israel-2085472",    type:"wire" },
+      ],
+      pacActivity: [
+        { label:"FEC",          url:"https://www.fec.gov/data/",                                                              type:"fec" },
+        { label:"OpenSecrets",  url:"https://www.opensecrets.org/",                                                           type:"fec" },
+        { label:"Zeteo",        url:"https://zeteo.com/p/how-the-fox-news-cabinet-helped-jumpstart", type:"wire" },
+      ],
+      govLinks: [
+        { label:"State Dept",   url:"https://www.state.gov/releases/office-of-the-spokesperson/2025/12/secretary-of-state-marco-rubio-with-sean-hannity-of-fox-news-hannity", type:"gov" },
+        { label:"Senate Dems",  url:"https://www.democrats.senate.gov/newsroom/trump-transcripts/transcript-sean-hannity-of-fox-news-interviews-donald-trump-in-alaska-81525", type:"gov" },
+        { label:"Zeteo",        url:"https://zeteo.com/p/how-the-fox-news-cabinet-helped-jumpstart", type:"wire" },
+        { label:"CNN/Fox War",  url:"https://www.cnn.com/2025/06/18/media/fox-news-mark-levin-tucker-carlson-maga-media-israel-iran", type:"wire" },
+      ],
+    },
   };
 
   function dossierSrcChips(name, section) {
@@ -3121,6 +3195,34 @@
       pacActivity:"Obama for America raised $745M in 2008 and $1.1B in 2012 — both records at the time. FEC filings fully public. Post-presidency: Obama Foundation operates globally with foreign donor exposure. Obama's political influence now operates through endorsements, the Democratic Party network, and media — not direct PAC activity. OpenSecrets documents his full campaign finance history. His 2012 campaign pioneered data-driven micro-targeting that influenced every subsequent campaign including Trump's.",
       govLinks:"44th President — commanded all U.S. military and intelligence operations 2009–2017. JCPOA architect — the nuclear deal that Trump withdrew from, which directly caused the current Iran escalation cycle documented throughout this dossier. Authorized Stuxnet cyberattack on Iran with Israel. Oversaw the Arab Spring response, Libya intervention, Syria policy, and ISIS campaign. Nobel Peace Prize 2009. UN SC Resolution 2334 abstention (2016) — his most significant late-term Israel policy departure. All executive orders, national security directives, and foreign policy decisions archived at obamawhitehouse.archives.gov.",
       flag:"🇺🇸",risk:"MEDIUM",connections:["Donald J. Trump","Benjamin Netanyahu","Marco Rubio","Tulsi Gabbard","Iranian IRGC Leadership"]
+    },
+    // ── MEDIA INFLUENCE ──
+    {
+      name:"Mark Levin",role:"Host — Life Liberty & Levin (Fox News)  |  The Mark Levin Show (Radio)  |  Chairman — Landmark Legal Foundation  |  Fmr. Chief of Staff to AG Meese",org:"Fox News · Blaze Media · Landmark Legal Foundation",tier:"Media",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born in Philadelphia, Pennsylvania (1957). Temple University graduate, Temple University School of Law (JD). Served in the Reagan administration as Chief of Staff to Attorney General Edwin Meese, Associate Deputy Attorney General of the United States, and Deputy Solicitor at the U.S. Department of the Interior. Represented Meese during the Iran-Contra investigation. Joined Landmark Legal Foundation in 1991, served as president 1997–2018, now Chairman of the Board. Inducted into the National Radio Hall of Fame (2018). Married to Julie Strauss Levin. Suffered a heart attack in 2000, had open heart surgery.",
+      foreignTies:"Levin is one of the most vocally pro-Israel media figures in American conservative media — directly relevant to this dossier's Israel/Gaza coverage. In July 2025 he publicly downplayed famine conditions in Gaza, stating Israel should not be pressured to feed its enemies. During the 2026 Iran conflict he publicly advocated for U.S. preparation for a post-regime Iran, warning that a power vacuum could lead to another extremist government. Known for hawkish foreign policy positions — has hosted Netanyahu-allied figures and Israeli government officials on his Fox show. His Blaze Media platform (formed from Conservative Review merger with Glenn Beck's TheBlaze in 2018) amplifies these positions to millions. No personal foreign citizenship or financial ties documented.",
+      pacActivity:"Originally a 'Never Trump' voice who endorsed Ted Cruz in 2016 — shifted to full Trump support after Trump won the nomination. Became one of Trump's most prominent media defenders during both impeachments and post-2020 election. In April 2025 Trump appointed Levin to the Homeland Security Advisory Council — formalizing the relationship between media influence and government access. FEC shows minimal direct personal PAC giving — his influence operates through media reach, not campaign finance. Landmark Legal Foundation filed a brief supporting challenges to 2020 Pennsylvania election results. InfluenceWatch documents Landmark's political activity history.",
+      govLinks:"April 2025: Trump appointed Levin to the Homeland Security Advisory Council — giving a media figure formal advisory access to DHS policy. Chief of Staff to AG Edwin Meese (Reagan administration) — represented Meese during Iran-Contra. Landmark Legal Foundation has litigated cases to the U.S. Supreme Court, filed IRS targeting complaints, and actively shaped conservative legal strategy for decades. Board of advisors includes Heritage Foundation figures and Hillsdale College president Larry Arnn. Allied with Justice Clarence Thomas and Ginni Thomas through Landmark Legal. His radio show (syndicated nationally, 8M+ weekly listeners) and Fox News show function as direct pipelines from the administration's messaging to the conservative base — a media-to-government feedback loop unique in the dossier.",
+      flag:"🇺🇸",risk:"MEDIUM",connections:["Donald J. Trump","Pete Hegseth","Benjamin Netanyahu","David Sacks","Tulsi Gabbard"]
+    },
+    {
+      name:"Tucker Carlson",role:"Host — Tucker Carlson Network (TCN)  |  Fmr. Host — Tucker Carlson Tonight (Fox News, 2016–2023)",org:"Tucker Carlson Network · X (formerly Twitter)",tier:"Media",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born in San Francisco, California (1969). Trinity College graduate (BA History, 1991). Father Richard Carlson was a diplomat and former director of Voice of America — Tucker grew up partly overseas. Began career at conservative print outlets (The Weekly Standard, Policy Review, CNN's Crossfire). Joined Fox News 2009, launched Tucker Carlson Tonight in 2016 — became Fox's highest-rated primetime host before being fired in April 2023. Fox has never publicly explained the firing, widely linked to Dominion Voting Systems lawsuit discovery. Launched Tucker Carlson Network (TCN) on X in December 2023 — subscription streaming at $6/month. Met Edward Snowden during his February 2024 Moscow trip.",
+      foreignTies:"Tucker Carlson conducted the first Western journalist interview with Vladimir Putin since Russia's full-scale Ukraine invasion — February 6, 2024 in Moscow. The 2+ hour interview was distributed free on X and TCN; Putin dominated with historical monologues. Carlson consulted lawyers beforehand about sanctions risk and potential detention. Russian state media extensively covered his Moscow visit. Carlson has conducted multiple interviews with Hungarian PM Viktor Orbán — Putin's closest EU ally — including at the Dubai World Governments Summit in February 2025, effectively platforming Orbán as a conservative icon to American audiences. Also interviewed Argentina's Javier Milei. Carlson's foreign policy is staunchly isolationist — during the 2025–2026 Iran conflict he called on Trump to 'drop Israel' and let them fight their own wars, directly opposing Hannity and Levin. Called Hannity, Levin, and Rupert Murdoch 'warmongers' by name on X.",
+      pacActivity:"No significant personal PAC activity documented. Post-Fox income comes from TCN subscriptions (~$6/month), X revenue sharing, and speaking fees. Carlson's political influence operates through audience reach — TCN and X give him direct-to-audience distribution bypassing traditional media gatekeepers. His isolationist position on Iran/Israel put him in direct conflict with the Fox News establishment and the pro-Israel donor class that funds conservative media. FEC shows minimal direct campaign contributions. OpenSecrets documents no significant PAC footprint.",
+      govLinks:"No current government role. Father Richard Carlson served as director of Voice of America and U.S. Ambassador to Seychelles under Reagan — giving Tucker early exposure to U.S. foreign policy apparatus. Post-Fox, Carlson's influence on Trump is indirect but documented: when Carlson tweets criticism of a Trump policy, it registers in Trump's orbit. During Iran conflict, Carlson supported Steve Witkoff's diplomatic track over military escalation — aligning with the isolationist wing of MAGA against the Fox/Netanyahu/Hannity-Levin interventionist axis. His absence from Fox is repeatedly noted as a factor in Trump's media environment — Carlson's isolationist counterweight is now only visible on X, not cable, where Trump watches.",
+      flag:"🇺🇸",risk:"HIGH",connections:["Donald J. Trump","Sean Hannity","Mark Levin","Benjamin Netanyahu","Steve Witkoff"]
+    },
+    {
+      name:"Sean Hannity",role:"Host — Hannity (Fox News)  |  The Sean Hannity Show (Radio)  |  Longest-Running Primetime Cable News Host in History",org:"Fox News · Premiere Radio Networks",tier:"Media",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born in New York City (December 30, 1961). No college degree — dropped out of New York University and Adelphi University. Self-made media career: began as a volunteer talk show host at UC Santa Barbara (1989), then WVNN Alabama, WGST Atlanta, WABC New York. Co-hosted Hannity & Colmes on Fox News from the network's 1996 founding. Became solo primetime host in 2009. As of 2025 is the longest-running primetime cable news host in history — nearly 30 years at Fox. #1 in Talkers Magazine Heavy Hundred 2025. Engaged to Fox News colleague Ainsley Earhardt (proposed Christmas Day 2024). Purchased a $5.3M home near Mar-a-Lago in 2021; relocated permanently to Florida in 2024. Forbes estimated his annual income at $36M (2018).",
+      foreignTies:"Hannity has conducted multiple exclusive interviews with Israeli PM Benjamin Netanyahu — including during the 2025–2026 Iran conflict — that functioned as direct platforms for Israeli government messaging to American conservative audiences. During the Iran strikes Hannity interviewed Netanyahu and told him 'I've been friends with him [Trump] for over 30 years' while asking Netanyahu to respond to claims that Israel dragged Trump into war. Hannity began making the case for Iran regime change weeks before Trump ordered strikes — media critics documented this as a direct pipeline from Israeli government talking points to Trump's television viewing. Tucker Carlson named Hannity alongside Rupert Murdoch and Miriam Adelson as 'warmongers' lobbying Trump for U.S. military involvement in Iran.",
+      pacActivity:"No significant personal PAC activity documented. Hannity's political influence operates as the pre-eminent Trump media ally — described by multiple sources as Trump's 'White House shadow chief of staff' and a key member of the informal 'Fox News Cabinet.' February 18, 2025: Hosted the first-ever joint TV interview of Trump and Elon Musk at the White House — a significant media milestone that cemented his access. Has given Trump a platform for exclusive interviews at critical moments: post-Alaska Putin summit (August 15, 2025), multiple Iran war inflection points. The State Department published transcripts of Rubio on Hannity (May 2025, December 2025) — treating his show as a de facto official communications channel.",
+      govLinks:"Hannity functions as an unofficial government communications channel — the State Department, White House, and Pentagon regularly use his show for policy rollout. Published transcripts on official .gov domains include Rubio on Hannity (State Dept, May and December 2025) and Trump-Hannity Alaska interview (Senate Democrats, August 2025). His show is the single most reliable indicator of what talking points the Trump administration wants amplified on any given day. Hannity and Levin dined with Trump at the White House during the Iran conflict escalation period — the Zeteo/CNN reporting on this dinner documents the media-to-policy feedback loop. Fox News Cabinet dynamic: Trump known to watch Hannity live and respond to segments in real time via Truth Social posts.",
+      flag:"🇺🇸",risk:"HIGH",connections:["Donald J. Trump","Mark Levin","Benjamin Netanyahu","Marco Rubio","Elon Musk"]
     },
     {
       name:"Mark Zuckerberg",role:"Co-founder & CEO — Meta Platforms (Facebook · Instagram · WhatsApp · Threads)",org:"Meta Platforms",tier:"Industry",
