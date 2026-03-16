@@ -1,17 +1,18 @@
 {
-  "updated": "2026-03-16 06:00 UTC",
-  "total": 8,
+  "updated": "2026-03-16 10:37 UTC",
+  "total": 6,
   "events": [
     {
       "date": "2026-03-16",
       "dateDisplay": "Mar 16, 2026",
-      "title": "Middle East war live: Trump says 'we're talking' to Iran but it's not 'ready' for deal to end war",
-      "link": "https://www.france24.com/en/middle-east/20260316-middle-east-war-live-us-iran-talks-trump-says-no-deal-yet",
+      "title": "Trump threatens NATO allies over Strait of Hormuz help",
+      "link": "https://www.npr.org/2026/03/16/nx-s1-5749109/trump-threatens-nato-strait-hormuz-iran-war",
       "sources": [
-        "France 24"
+        "France 24",
+        "NPR News"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-03-15",
@@ -60,30 +61,8 @@
     {
       "date": "2026-03-11",
       "dateDisplay": "Mar 11, 2026",
-      "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
-      "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-03-10",
-      "dateDisplay": "Mar 10, 2026",
-      "title": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel",
-      "link": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-03-09",
-      "dateDisplay": "Mar 09, 2026",
-      "title": "Iran's new leader has never been tested. He now faces an existential battle",
-      "link": "https://www.bbc.com/news/articles/cwykdn0yn4wo?at_medium=RSS&at_campaign=rss",
+      "title": "'Kill the regime but not people': BBC speaks to Iranians crossing into Turkey",
+      "link": "https://www.bbc.com/news/videos/clyx5dlnw44o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
