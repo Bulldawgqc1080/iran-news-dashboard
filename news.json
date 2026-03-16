@@ -1,11 +1,21 @@
 {
-  "updated": "2026-03-16 10:37 UTC",
+  "updated": "2026-03-16 14:47 UTC",
   "total": 60,
   "stories": [
     {
+      "title": "Washington Post's David Ignatius says war on Iran won't change the country's regime",
+      "link": "https://www.npr.org/2026/03/16/nx-s1-5745888/washington-posts-david-ignatius-says-war-on-iran-wont-change-the-countrys-regime",
+      "description": "Michel Martin speaks to Washington Post columnist David Ignatius, who writes that the U.S. war on Iran, despite any tactical success, leaves the regime in place for the foreseeable future.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
       "title": "Trump threatens NATO allies over Strait of Hormuz help",
       "link": "https://www.npr.org/2026/03/16/nx-s1-5749109/trump-threatens-nato-strait-hormuz-iran-war",
-      "description": "With the Iran war entering a third week and the price of oil reaching nearly $105 a barrel on Monday, President Trump again urged NATO countries and China to help the U.S. secure the vital Strait of Hormuz.",
+      "description": "With the Iran war in its third week and the price of oil reaching nearly $105 a barrel on Monday, President Trump again urged NATO and China to help secure the vital Strait of Hormuz.",
       "date": "Mon, 16 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -53,14 +63,24 @@
       "bias": "Low"
     },
     {
-      "title": "'We never asked for a ceasefire,' says Iran's foreign minister, as war keeps raging",
-      "link": "https://www.npr.org/2026/03/15/nx-s1-5748472/us-military-six-killed-iran-war",
-      "description": "Israel announced a barrage of new strikes on western Iran on Sunday, while Iran's foreign minister said the country has not asked for a ceasefire as President Trump had claimed.",
-      "date": "Sun, 15 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Iran hits key UAE oil port and Dubai airport",
+      "link": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
+      "description": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Who wants what from the Iran war?",
+      "link": "https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss",
+      "description": "Most people, although not everybody, want this war to end as quickly as possible. But on what terms?",
+      "date": "Mon, 16 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC",
@@ -133,26 +153,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
-      "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
-      "description": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
-      "date": "Fri, 13 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'There's no hiding place on a ship': The sailors stranded near Iran",
-      "link": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
-      "description": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.",
-      "date": "Fri, 13 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
       "link": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
       "description": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.",
@@ -203,11 +203,41 @@
       "bias": "Low-Med"
     },
     {
-      "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
-      "link": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
-      "description": "Israeli leaders are framing the bombing campaign as having transformed the Middle East in their favour as pressure to end the conflict builds.",
+      "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+      "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+      "description": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
       "date": "Fri, 13 Mar 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump presses China, says NATO faces 'very bad' future if allies don't help open Hormuz Strait",
+      "link": "https://www.france24.com/en/video/20260316-trump-presses-china-says-nato-faces-very-bad-future-if-allies-don-t-help-open-hormuz-strait",
+      "description": "US President Donald Trump on Sunday sought to pressure NATO allies and China to help reopen the Strait of Hormuz, the critical oil transport conduit that Iran has effectively closed in retaliation for the US and Israeli war against Tehran. Global oil prices have surged by 40 to 5...",
+      "date": "Mon, 16 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel expands its ground operation in southern Lebanon",
+      "link": "https://www.france24.com/en/israel-expands-its-ground-operation-in-southern-lebanon",
+      "description": "The Israeli army says it has begun limited targeted ground operations against Hezbollah in South Lebanon. It comes three weeks after the US and Israel began carrying out strikes in Iran, a war that has since escalated throughout the Middle East, and beyond. Since the start of the...",
+      "date": "Mon, 16 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UK won't commit soldiers to a war without 'legal basis' amid Trump threats",
+      "link": "https://www.france24.com/en/uk-won-t-commit-soldiers-to-a-war-without-legal-basis-amid-trump-threats",
+      "description": "US President Donald Trump has warned allies to help secure the Strait of Hormuz, and that refusal would mean NATO would face a 'very bad' future. Addressing the war, the British Prime Minister point blank rejected the threat, saying the UK would not commit to a war unless it had ...",
+      "date": "Mon, 16 Mar 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -283,54 +313,94 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Israel launches fresh wave of strikes across Iran",
-      "link": "https://www.france24.com/en/middle-east/20260316-middle-east-war-live-us-iran-talks-trump-says-no-deal-yet",
-      "description": "Israel's military said on Monday it had launched a broad wave of strikes on the Iranian cities of Tehran, Shiraz and Tabriz. AFP reporters in Tehran said the city was pounded by heavy explosions through the night. Follow our liveblog for all the latest updates.",
+      "title": "US says it has destroyed Iran missile capacity: How is Iran still shooting?",
+      "link": "https://www.aljazeera.com/news/2026/3/16/us-says-it-has-destroyed-iran-missile-capacity-how-is-iran-still-shooting?traffic_source=rss",
+      "description": "Despite degraded launch capabilities, Iran has enough missiles to fire strategically, keep region on edge, say experts.",
       "date": "Mon, 16 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Being an artist and a refugee: Amir Amiri and Parisa Karimi Molan speak to France 24",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260315-being-an-artist-and-a-refugee-amir-amiri-and-parisa-karimi-molan-speak-to-france-24",
-      "description": "France 24’s Gavin Lee speaks with Amir Amiri and Parisa Karimi, two Iranian musicians who now live in canada. They discuss the difficulties and hopes of being refugees and artists from a war-torn country.",
-      "date": "Sun, 15 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Qatar calls on Iran to stop Gulf attacks, urges diplomatic solution",
+      "link": "https://www.aljazeera.com/news/2026/3/16/qatar-calls-on-iran-to-stop-gulf-attacks-urges-diplomatic-solution?traffic_source=rss",
+      "description": "Qatar foreign ministry spokesman Majed al-Ansari accuses Iran of targeting civilian areas as he calls for de-escalation.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Turnout low in French mayoral elections seen as key test ahead of 2027 presidential race",
-      "link": "https://www.france24.com/en/france/20260315-turnout-low-french-mayoral-elections-key-test-2027-presidential-race",
-      "description": "French voters cast ballots in municipal elections marred by low turnout on Sunday, in the last major test of the public mood ahead of next year’s all-important presidential election. The run-up to the vote was largely overshadowed by the Iran war and its fallout, notably the impa...",
-      "date": "Sun, 15 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "The US-Israeli strategy against Iran is working. Here is why",
+      "link": "https://www.aljazeera.com/opinions/2026/3/16/the-us-israeli-strategy-against-iran-is-working-here-is-why?traffic_source=rss",
+      "description": "Every aspect of Iran’s ability to project regional power is being successfully degraded.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "From missiles strikes to rocketing oil price: Guy Laron speaks to France 24 to analyse the economic consequences of Iran war",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260315-from-missiles-strikes-to-rocketing-oil-price-guy-laron-speaks-to-france-24-to-analyse-the-economic-consequences-of-iran-war",
-      "description": "France 24’s Gavin Lee speaks with Guy Laron, Senior lecturer in international relations, the Hebrew University of Jerusalem, about the economic consequences of the ongoing war in Iran, from rising oil prices to how the strategic Strait of Hormuz can be used as an economic weapon.",
-      "date": "Sun, 15 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Qatar insists Iran is targeting civilian areas",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/qatar-insists-iran-is-targeting-civilian-areas?traffic_source=rss",
+      "description": "Qatar’s Foreign Ministry spokesperson Majed Al Ansari says Iranian attacks have targeted residential areas.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump administration threatens media outlets over Iran war coverage",
-      "link": "https://www.france24.com/en/trump-administration-threatens-media-outlets-over-iran-war-coverage",
-      "description": "The head of the Federal Communications Commission, which oversees US media outlets, has warned that some broadcasters risk losing their licenses over their news coverage of the Iran war. Brendan Carr – a Trump appointee – wrote in a social media post that broadcasters must operat...",
-      "date": "Sun, 15 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Strait of Hormuz: Which countries’ ships has Iran allowed safe passage to?",
+      "link": "https://www.aljazeera.com/economy/2026/3/16/strait-of-hormuz-which-countriess-ships-has-iran-allowed-safe-passage-to?traffic_source=rss",
+      "description": "Tehran allows a small number of ships from certain countries to pass through waterway.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "South Korean protesters criticise Trump over Hormuz security demand",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/south-korean-protesters-criticise-trump-over-hormuz-security-demand?traffic_source=rss",
+      "description": "Activists in South Korea have staged a protest against Donald Trump’s request for help securing the Strait of Hormuz.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran still playing in World Cup 2026 despite withdrawal rumours, AFC says",
+      "link": "https://www.aljazeera.com/sports/2026/3/16/iran-still-playing-in-world-cup-2026-despite-withdrawal-rumours-afc-says?traffic_source=rss",
+      "description": "Asian Football Confederation says it hasn&#039;t received any notification of Iran pulling out of upcoming World Cup.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "No, MAGA is not divided on the Iran war",
+      "link": "https://www.aljazeera.com/opinions/2026/3/16/no-maga-is-not-divided-on-the-iran-war?traffic_source=rss",
+      "description": "Trump’s supporters remain loyal, even if there are a few loud dissenting voices.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "War on Iran: Can fuel rationing, remote work, short sleeves ease oil woes?",
+      "link": "https://www.aljazeera.com/news/2026/3/16/war-on-iran-can-fuel-rationing-remote-work-short-sleeves-ease-oil-woes?traffic_source=rss",
+      "description": "Rising oil prices amid the US-Israel war on Iran are pushing nations to readjust their energy policies.",
+      "date": "Mon, 16 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "How Israel, the US and Iran deploy covert ops",
@@ -353,109 +423,9 @@
       "bias": "Medium"
     },
     {
-      "title": "The Iran war picture blackout",
-      "link": "https://www.aljazeera.com/video/digital-dilemma/2026/3/16/the-iran-war-picture-blackout?traffic_source=rss",
-      "description": "Al Jazeera’s Linh Nguyen breaks down Planet Labs delaying the publication of its satellite imagery during an active war.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How closing the Strait of Hormuz raises your grocery bill",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/16/how-closing-the-strait-of-hormuz-raises-your-grocery-bill?traffic_source=rss",
-      "description": "Closing the Strait of Hormuz raised oil prices. It also raises the cost of bread.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What is happening on day 17 of US-Israel attacks?",
-      "link": "https://www.aljazeera.com/news/2026/3/16/iran-war-what-is-happening-on-day-17-of-us-israel-attacks?traffic_source=rss",
-      "description": "Dubai contained a fire near its airport and temporarily suspended flights, while Trump claimed Iran wants to negotiate.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Drone attack disrupts Dubai flights as Iran continues Gulf attacks",
-      "link": "https://www.aljazeera.com/news/2026/3/16/drone-strike-disrupts-dubai-flights-as-iran-continues-gulf-attacks?traffic_source=rss",
-      "description": "At least one person killed in Abu Dhabi. Dubai flights disrupted, and fire breaks out in Fujairah after Iranian attacks.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Japan begins release of oil reserves as Iran war sparks energy crisis",
-      "link": "https://www.aljazeera.com/economy/2026/3/16/japan-begins-release-of-oil-reserves-as-iran-war-sparks-energy-crisis?traffic_source=rss",
-      "description": "Tokyo&#039;s move comes as oil prices remain elevated amid the effective closure of the Strait of Hormuz.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Large protest held in London against US-Israeli war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/large-protest-held-in-london-against-us-israeli-war-on-iran?traffic_source=rss",
-      "description": "Thousands of demonstrators took to the streets of London to oppose US-Israeli aggression against Iran, Lebanon and Gaza.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Stars at Oscars 2026 call for end to war in Gaza and Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss",
-      "description": "Actors and filmmakers spoke out at the Oscars 2026 in Los Angeles against the US-Israeli war on Iran and the genocide.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Nobody wants to get involved’ in Strait of Hormuz military operations",
-      "link": "https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss",
-      "description": "Charles Kupchan says the US and allies are reluctant to use military means to safeguard the Strait of Hormuz.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/3/16/oil-prices-keep-rising-as-trump-seeks-coalition-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "description": "Brent crude tops $106 a barrel as markets see no end in sight to the halt of traffic through the critical waterway.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US-Israeli strike pounds city of Hamadan, Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israeli-strike-pounds-city-of-hamadan-iran?traffic_source=rss",
-      "description": "Footage shows huge plumes of smoke from a US-Israeli strike on Hamadan, Iran.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says talks with Cuba ongoing, action possible after Iran",
-      "link": "https://www.dawn.com/news/1982608/trump-says-talks-with-cuba-ongoing-action-possible-after-iran",
-      "description": "US President Donald Trump said on Sunday that the United States could soon reach a deal with Cuba or take other action, signaling that developments in the long-strained relationship may come quickly. “Cuba also wants to make a deal, and I think we will pretty soon either make a d...",
+      "title": "Hamas holds talks with Trump-led board as Iran war strains Gaza plan: sources",
+      "link": "https://www.dawn.com/news/1982681/hamas-holds-talks-with-trump-led-board-as-iran-war-strains-gaza-plan-sources",
+      "description": "The envoys from US President Donald Trump’s “Board of Peace” have met representatives of Hamas in Cairo in an effort to safeguard the Gaza ceasefire, under serious strain since the United States and Israel began bombing Iran, three sources told Reuters. The weekend meeting is the...",
       "date": "Mon, 16 Mar 2026",
       "source": "Dawn",
       "region": "me",
@@ -463,9 +433,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Hundreds turn out for pro-Palestine rally in London",
-      "link": "https://www.dawn.com/news/1982523/hundreds-turn-out-for-pro-palestine-rally-in-london",
-      "description": "Police arrest a protester for not removing a face cover during an annual protest held by a pro-Palestinian group in London on Sunday.—AFP LONDON: Hundreds of people turned out in London on Sunday for a pro-Palestinian march banned by the government after police said it was organi...",
+      "title": "Tehran thanks Islamabad for extending ‘strong solidarity’ with Iranian govt, people facing US-Israeli aggression",
+      "link": "https://www.dawn.com/news/1982648/tehran-thanks-islamabad-for-extending-strong-solidarity-with-iranian-govt-people-facing-us-israeli-aggression",
+      "description": "Iran’s Foreign Minister Abbas Araghchi on Monday thanked the government and people of Pakistan for extending their “strong solidarity and support” with Iran and its people who he said were facing aggression from the United States and Israel. In a post in Urdu on X, Araghchi said:...",
       "date": "Mon, 16 Mar 2026",
       "source": "Dawn",
       "region": "me",
@@ -473,120 +443,150 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pope criticises those who invoke religion to wage war",
-      "link": "https://www.dawn.com/news/1982522/pope-criticises-those-who-invoke-religion-to-wage-war",
-      "description": "ROME: Pope Leo XIV renewed his appeal on Sunday for peace in the Middle East and criticised those who invoke religion to wage war, saying that “God cannot be enlisted by darkness”. “Currently, many of our brothers and sisters in the world are suffering from violent conflicts, cau...",
+      "title": "US wants NATO, Arab nations to do more to open up Strait of Hormuz — White House",
+      "link": "https://tass.com/world/2102343",
+      "description": "White House Spokesperson Karoline Leavitt stressed that it was NATO that needed to step up the most",
       "date": "Mon, 16 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US, Chinese economic chiefs meet to pave way for Trump-Xi summit",
-      "link": "https://www.dawn.com/news/1982498/us-chinese-economic-chiefs-meet-to-pave-way-for-trump-xi-summit",
-      "description": "PARIS: Top US and Chinese economic officials launched a new round of talks in Paris on Sunday to iron out kinks in their trade truce and clear a smooth path for US President Donald Trump’s trip to Beijing to meet with Chinese President Xi Jinping at the end of March. The discussi...",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli forces kill 16 more in Gaza, occupied West Bank",
-      "link": "https://www.dawn.com/news/1982499/israeli-forces-kill-16-more-in-gaza-occupied-west-bank",
-      "description": "Mustafa, who survived a gun attack by Israeli forces, is comforted at the funeral of his family.—AFP CAIRO: In a killing spree, Israeli forces shot dead 16 Palestinians, including two two children and their parents in the occupied West Bank and a man, his pregnant wife and their ...",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran warns other nations to stay away as US looks to expand war",
-      "link": "https://www.dawn.com/news/1982507/iran-warns-other-nations-to-stay-away-as-us-looks-to-expand-war",
-      "description": "PEOPLE clear debris from homes damaged by US-Israel bombing in Tehran.—AFP • Trump asks allies to send ships to protect Hormuz shipping• Tehran turns down any chance of negotiations after US president says he’s not ready for a deal• Araghchi claims ‘ample evidence’ that bases acr...",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "The environment — another casualty of war in Middle East",
-      "link": "https://www.dawn.com/news/1982496/the-environment-another-casualty-of-war-in-middle-east",
-      "description": "• Experts say military hardware’s carbon footprint is staggering; conflicts’ carbon toll rivals yearly emissions of nations• Strikes spread toxins, polluting air, water, soil; toxic flames from burning oil depots and tankers pose direct threats, carry severe climate cost PARIS: F...",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Tehran reminds Modi about need to activate BRICS",
-      "link": "https://www.dawn.com/news/1982242/tehran-reminds-modi-about-need-to-activate-brics",
-      "description": "• Under India’s chairmanship, the expanded bloc has remained silent • Pezeshkian, Araghchi urge Indian counterparts to spearhead a ‘strong and constructive’ intervention • New Delhi caught in a diplomatic bind amid domestic LPG crisis; balances pro-Israel comments with its ‘frien...",
-      "date": "Sun, 15 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "‘I am dead … for coffee’: Israeli PM Netanyahu posts his video amid speculation about his death",
-      "link": "https://www.dawn.com/news/1982385/i-am-dead-for-coffee-israeli-pm-netanyahu-posts-his-video-amid-speculation-about-his-death",
-      "description": "A video posted on Israeli Prime Minister Benjamin Netanyahu’s X account is being seen as his response to the rumours of his death, which were earlier debunked by his office. The video was posted on Sunday evening, in which Netanyahu is seen getting himself a coffee and being aske...",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US assures of ‘reliable’ energy supply to Asia-Pacific",
-      "link": "https://www.dawn.com/news/1982264/us-assures-of-reliable-energy-supply-to-asia-pacific",
-      "description": "TOKYO: The United States can provide “reliable” energy supplies to Asia-Pacific, US Interior Secretary Doug Burgum said on Saturday, as the Middle East war cripples the region’s oil and gas flow. Oil and gas prices have surged since US-Israeli strikes on Iran killed its supreme l...",
-      "date": "Sun, 15 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli bombing claims six lives in Gaza",
-      "link": "https://www.dawn.com/news/1982258/israeli-bombing-claims-six-lives-in-gaza",
-      "description": "Smoke rises as the Israeli army demolishes a Palestinian house in Dura, a town in the Israeli-occupied West Bank.—Reuters GAZA CITY: Israeli strikes killed six people in Gaza Strip on Saturday, according to the territory’s civil defence agency. In a pre-dawn strike, two policemen...",
-      "date": "Sun, 15 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Five killed in Russian air attacks on Ukraine",
-      "link": "https://www.dawn.com/news/1982256/five-killed-in-russian-air-attacks-on-ukraine",
-      "description": "KYIV: Russia hammered Ukraine with missiles and drones on Saturday, killing five people and causing damage across several regions of the country, Ukrainian officials said. The main target was energy infrastructure outside the capital Kyiv, President Volodymyr Zelensky said, addin...",
-      "date": "Sun, 15 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
-      "link": "https://tass.com/world/1968185",
-      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
-      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
-      "link": "https://tass.com/world/1968163",
-      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
-      "date": "Wed, 04 Jun 2025",
+      "title": "Kiev's unwillingness to negotiate, Iran war fallout: Lavrov's statements",
+      "link": "https://tass.com/politics/2102337",
+      "description": "According to the Russian top diplomat, the EU has \"fully\" discredited itself and there is nothing constructive in its position for progress in the negotiations on Ukraine",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran may draw US into war of attrition — Tunisian military expert",
+      "link": "https://tass.com/world/2102335",
+      "description": "According to Tunisian military expert Abdel Hamid Mahfouzi, while the United States and Israel maintain a clear technological edge, Iran possesses a range of strategic advantages that complicate the regional security landscape",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Zelensky drags Ukraine into conflict with Iran — Iranian diplomat",
+      "link": "https://tass.com/world/2102329",
+      "description": "This only means complicity in the conflict and cooperation with the aggressors against Iran, which will entail international responsibility for this state, and the Iranians will never forgive this, Esmail Baghaei stated",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran continues cooperating with Russia despite conflict — diplomat",
+      "link": "https://tass.com/world/2102317",
+      "description": "All the agreements and treaties between Iran and Russia as part of the strategic cooperation and partner relations are still in force, Iranian foreign ministry spokesman Esmail Baghaei stressed",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US allies at a loss as to Washington's endgame in conflict with Iran — Bloomberg",
+      "link": "https://tass.com/world/2102315",
+      "description": "According to the agency’s information, G7 leaders sought clarification from Donald Trump during a recent conference call",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US, Israel may use copycat Iranian arms for false-flag attacks in region — Iranian MFA",
+      "link": "https://tass.com/world/2102305",
+      "description": "Spokesman Esmail Baghaei added that some countries of the region had been in strained relations with Iran for a long time",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US allows Iranian tankers to cross Strait of Hormuz — Treasury secretary",
+      "link": "https://tass.com/world/2102301",
+      "description": "According to Scott Bessent, some Chinese ships are also leaving the Persian Gulf",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Hackers erase 12 petabytes of data in cyberattack on US medical company — Iranian TV",
+      "link": "https://tass.com/world/2102293",
+      "description": "The hackers warned that it was \"just the beginning\"",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US can not stop its Iran war until it gets Hormuz reopened — Axios",
+      "link": "https://tass.com/world/2102287",
+      "description": "As long as the Iranian blockade holds, and Gulf oil is restricted, Washington can not end its military operation even If it wanted to, the officials said",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Resource-hungry US tries to poach Iran's uranium — Lavrov",
+      "link": "https://tass.com/politics/2102283",
+      "description": "The Russian foreign minister added that Washington wants to get practically all hydrocarbon resources",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Five countries refuse to join US coalition in Strait of Hormuz",
+      "link": "https://tass.com/world/2102285",
+      "description": "China and France pointed to the need for a diplomatic settlement of the dispute in the region",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Lack of response to strikes on Iran may prompt attacks on other countries — diplomat",
+      "link": "https://tass.com/world/2102279",
+      "description": "Ali Bahreini said that \"Iran was attacked at the time when it peacefully engaged in negotiations, clearly confirming its commitment to peaceful and diplomatic resolution\"",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "EU has no money to mitigate energy shock caused by conflict in Iran — WSJ",
+      "link": "https://tass.com/world/2102259",
+      "description": "According to the newspaper, the public debt of some European countries, particularly the UK and France, is reaching 60-year highs",
+      "date": "Mon, 16 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Restoring traffic in Strait of Hormuz to take 2-3 years — former Iranian envoy to Russia",
+      "link": "https://tass.com/world/2102253",
+      "description": "According to earlier statements by a spokesman for the Iranian Armed Forces’ Khatam al-Anbiya Central Headquarters, Iran would not allow any oil cargo related to the United States or its allies to pass through the Strait of Hormuz",
+      "date": "Mon, 16 Mar 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
