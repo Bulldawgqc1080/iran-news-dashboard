@@ -1,25 +1,27 @@
 {
-  "updated": "2026-03-16 20:06 UTC",
+  "updated": "2026-03-16 22:06 UTC",
   "total": 6,
   "events": [
     {
       "date": "2026-03-16",
       "dateDisplay": "Mar 16, 2026",
-      "title": "Trump laments US allies' lack of 'enthusiasm' to help secure Strait of Hormuz",
-      "link": "https://www.france24.com/en/americas/20260316-trump-laments-us-allies-lack-of-enthusiasm-to-help-secure-strait-of-hormuz",
+      "title": "EU rejects Trump&apos;s request to help secure the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/03/16/nx-s1-5749194/eu-rejects-trumps-request-to-help-secure-the-strait-of-hormuz",
       "sources": [
-        "France 24"
+        "France 24",
+        "NPR News",
+        "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-03-15",
       "dateDisplay": "Mar 15, 2026",
-      "title": "An Iranian-American writer describes the \"vertigo\" he feels about the war",
-      "link": "https://www.npr.org/2026/03/15/nx-s1-5745073/an-iranian-american-writer-describes-the-vertigo-he-feels-about-the-war",
+      "title": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
+      "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
