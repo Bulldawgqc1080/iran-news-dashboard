@@ -760,6 +760,68 @@
       color: #2ecc71;
     }
 
+    /* ── AIPAC FLOW CHART ── */
+    .aipac-tier-label {
+      font-size: 10px; font-weight: 700; letter-spacing: 1.5px;
+      color: #4ade80; text-transform: uppercase;
+      margin: 24px 0 10px; font-family: var(--font-mono);
+      padding-left: 4px; border-left: 2px solid #4ade80;
+      padding-left: 10px;
+    }
+    .aipac-row {
+      display: flex; flex-wrap: wrap; gap: 12px;
+      margin-bottom: 4px;
+    }
+    .aipac-node {
+      flex: 1; min-width: 180px; max-width: 260px;
+      padding: 12px 14px; border-radius: var(--radius);
+      border: 1px solid var(--border2);
+      background: var(--surface2);
+      cursor: default;
+      transition: border-color 0.15s, transform 0.15s;
+    }
+    .aipac-node[onclick] { cursor: pointer; }
+    .aipac-node[onclick]:hover { transform: translateY(-2px); border-color: #4ade80; }
+    .aipac-node.donor   { border-left: 3px solid #f59e0b; }
+    .aipac-node.aipac   { border-left: 3px solid #60a5fa; }
+    .aipac-node.govt    { border-left: 3px solid var(--us); }
+    .aipac-node.media   { border-left: 3px solid #ff64c8; }
+    .aipac-node.outcome {
+      border-left: 3px solid #ffd200;
+      background: rgba(255,210,0,0.04);
+      text-align: center;
+    }
+    .aipac-node-name {
+      font-size: 13px; font-weight: 700; color: var(--text);
+      font-family: var(--font-mono); margin-bottom: 5px;
+    }
+    .aipac-node-sub {
+      font-size: 11px; color: var(--subtext); line-height: 1.6;
+      font-family: var(--font-body);
+    }
+    .aipac-node-tag {
+      display: inline-block; margin-top: 7px;
+      font-size: 9px; font-weight: 700; letter-spacing: 0.5px;
+      color: var(--dim); font-family: var(--font-mono);
+      text-transform: uppercase;
+    }
+    .aipac-arrow-row {
+      text-align: center; font-size: 12px;
+      color: #4ade80; font-family: var(--font-mono);
+      letter-spacing: 1px; padding: 6px 0;
+      opacity: 0.7;
+    }
+    .aipac-src-chip {
+      display: inline-block; margin: 2px 4px 2px 0;
+      padding: 3px 9px; border-radius: 3px;
+      background: rgba(74,222,128,0.08);
+      border: 1px solid rgba(74,222,128,0.25);
+      color: #4ade80; font-size: 10px;
+      text-decoration: none; font-family: var(--font-mono);
+      transition: background 0.15s;
+    }
+    .aipac-src-chip:hover { background: rgba(74,222,128,0.16); }
+
     /* ── SOURCE CHIPS ── */
     .dossier-source-row {
       display: flex; flex-wrap: wrap; gap: 5px; margin-top: 6px;
@@ -824,6 +886,7 @@
     <button onclick="showTab('deeper',this)">Go Deeper</button>
     <button onclick="showTab('network',this)" id="network-tab-btn">🕵️ Network</button>
     <button onclick="showTab('sourcedb',this)" id="sourcedb-tab-btn">📋 Source DB</button>
+    <button onclick="showTab('aipac',this)" id="aipac-tab-btn" style="color:#4ade80;border-color:rgba(74,222,128,0.4);">💰 AIPAC Flow</button>
   </nav>
   <div class="last-updated">
     <div class="live-dot"></div>
@@ -1730,6 +1793,154 @@
 
     </div>
   </div><!-- /sourcedb -->
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- 💰 AIPAC FLOW TAB                                       -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <div id="tab-aipac" class="tab-section">
+    <div style="padding:20px 24px;max-width:1100px;margin:0 auto;">
+
+      <div class="disclaimer" style="border-left:3px solid #4ade80;background:rgba(74,222,128,0.04);margin-bottom:24px;">
+        <strong style="color:var(--text)">💰 AIPAC Influence Flow — U.S. Iran Policy</strong><br>
+        <span style="color:var(--subtext)">How pro-Israel lobbying money moves through U.S. politics and connects to the decision to strike Iran. All figures from FEC filings, OpenSecrets, and primary sources. This is not an anti-Israel page — it is a documented money-in-politics map.</span>
+      </div>
+
+      <!-- ── FLOW CHART ── -->
+      <div id="aipac-flow-chart" style="font-family:var(--font-mono);">
+
+        <!-- TIER 1: SOURCE DONORS -->
+        <div class="aipac-tier-label">TIER 1 — BILLIONAIRE DONOR CLASS</div>
+        <div class="aipac-row">
+          <div class="aipac-node donor">
+            <div class="aipac-node-name">Miriam Adelson</div>
+            <div class="aipac-node-sub">$120M → Trump 2024<br>Preserve America PAC</div>
+            <div class="aipac-node-tag">Casino/Israel</div>
+          </div>
+          <div class="aipac-node donor">
+            <div class="aipac-node-name">Jan Koum</div>
+            <div class="aipac-node-sub">$5M → UDP (2024)<br>WhatsApp co-founder</div>
+            <div class="aipac-node-tag">Tech/UDP Top Donor</div>
+          </div>
+          <div class="aipac-node donor">
+            <div class="aipac-node-name">Peter Thiel</div>
+            <div class="aipac-node-sub">$15M → JD Vance 2022<br>Palantir–IDF contracts</div>
+            <div class="aipac-node-tag">VC/Defense Tech</div>
+          </div>
+          <div class="aipac-node donor">
+            <div class="aipac-node-name">UDP Donor Network</div>
+            <div class="aipac-node-sub">7-figure donors (multiple)<br>$68.4M raised 2024</div>
+            <div class="aipac-node-tag">Super PAC Funders</div>
+          </div>
+        </div>
+
+        <div class="aipac-arrow-row">↓ &nbsp; money flows to &nbsp; ↓</div>
+
+        <!-- TIER 2: AIPAC ENTITIES -->
+        <div class="aipac-tier-label">TIER 2 — AIPAC POLITICAL ENTITIES</div>
+        <div class="aipac-row">
+          <div class="aipac-node aipac">
+            <div class="aipac-node-name">AIPAC PAC</div>
+            <div class="aipac-node-sub">$53M+ direct donations<br>361 candidates (2024)</div>
+            <div class="aipac-node-tag">Hard Money · FEC Disclosed</div>
+          </div>
+          <div class="aipac-node aipac">
+            <div class="aipac-node-name">United Democracy Project</div>
+            <div class="aipac-node-sub">$68.4M raised · $61M spent<br>Super PAC · No Israel branding</div>
+            <div class="aipac-node-tag">Soft Money · Independent Exp.</div>
+          </div>
+          <div class="aipac-node aipac">
+            <div class="aipac-node-name">AIPAC Lobbying Arm</div>
+            <div class="aipac-node-sub">$3.3M lobbying spend (2024)<br>2 of 11 lobbyists = revolving door</div>
+            <div class="aipac-node-tag">Direct Congressional Access</div>
+          </div>
+        </div>
+
+        <div class="aipac-arrow-row">↓ &nbsp; donations flow to &nbsp; ↓</div>
+
+        <!-- TIER 3: GOVERNMENT RECIPIENTS -->
+        <div class="aipac-tier-label">TIER 3 — GOVERNMENT RECIPIENTS (DOSSIER MEMBERS)</div>
+        <div class="aipac-row">
+          <div class="aipac-node govt" onclick="openDossierCard('Marco Rubio')" title="Click to open dossier">
+            <div class="aipac-node-name">Marco Rubio 🕵️</div>
+            <div class="aipac-node-sub">&gt;$1M career total<br>Adelson protégé · Sec. of State</div>
+            <div class="aipac-node-tag">State Dept · Iran Policy</div>
+          </div>
+          <div class="aipac-node govt" onclick="openDossierCard('JD Vance')" title="Click to open dossier">
+            <div class="aipac-node-name">JD Vance 🕵️</div>
+            <div class="aipac-node-sub">&gt;$167K direct<br>+ $15M via Thiel (Senate 2022)</div>
+            <div class="aipac-node-tag">VP · Tie-breaking confirm votes</div>
+          </div>
+          <div class="aipac-node govt" onclick="openDossierCard('Pete Hegseth')" title="Click to open dossier">
+            <div class="aipac-node-name">Pete Hegseth 🕵️</div>
+            <div class="aipac-node-sub">Christian Zionist<br>"Zionism = Americanism" (2018)</div>
+            <div class="aipac-node-tag">Sec. of Defense · Strike Orders</div>
+          </div>
+          <div class="aipac-node govt">
+            <div class="aipac-node-name">119th Congress</div>
+            <div class="aipac-node-sub">318 AIPAC-backed members elected<br>$45.2M to new Congress members</div>
+            <div class="aipac-node-tag">389 races · Bipartisan</div>
+          </div>
+        </div>
+
+        <div class="aipac-arrow-row">↓ &nbsp; influence flows to &nbsp; ↓</div>
+
+        <!-- TIER 4: MEDIA AMPLIFICATION -->
+        <div class="aipac-tier-label">TIER 4 — MEDIA AMPLIFICATION LAYER</div>
+        <div class="aipac-row">
+          <div class="aipac-node media" onclick="openDossierCard('Sean Hannity')" title="Click to open dossier">
+            <div class="aipac-node-name">Sean Hannity 🕵️</div>
+            <div class="aipac-node-sub">Fox "War Cabinet"<br>Netanyahu exclusive interviews</div>
+            <div class="aipac-node-tag">3.6M viewers · Trump watches live</div>
+          </div>
+          <div class="aipac-node media" onclick="openDossierCard('Mark Levin')" title="Click to open dossier">
+            <div class="aipac-node-name">Mark Levin 🕵️</div>
+            <div class="aipac-node-sub">DHS Advisory Council (Apr 2025)<br>Dined w/ Trump at White House</div>
+            <div class="aipac-node-tag">8M radio listeners</div>
+          </div>
+          <div class="aipac-node media" onclick="openDossierCard('Benjamin Netanyahu')" title="Click to open dossier">
+            <div class="aipac-node-name">Benjamin Netanyahu 🕵️</div>
+            <div class="aipac-node-sub">Exclusive Hannity interviews<br>during strike escalation</div>
+            <div class="aipac-node-tag">Foreign HOS · Direct Trump access</div>
+          </div>
+        </div>
+
+        <div class="aipac-arrow-row">↓ &nbsp; all roads lead to &nbsp; ↓</div>
+
+        <!-- TIER 5: OUTCOME -->
+        <div class="aipac-tier-label">TIER 5 — POLICY OUTCOME</div>
+        <div class="aipac-row" style="justify-content:center;">
+          <div class="aipac-node outcome" onclick="openDossierCard('Donald J. Trump')" title="Click to open dossier" style="max-width:480px;width:100%;">
+            <div class="aipac-node-name" style="font-size:16px;">Donald J. Trump 🕵️ ⭐</div>
+            <div class="aipac-node-sub" style="font-size:12px;margin-top:6px;">
+              U.S. military support for Israeli strikes on Iran nuclear sites<br>
+              "We decimated the nuclear capability" — Trump, Aug 15 2025<br>
+              Hegseth confirmed 51–50 (Vance tie-break) · Rubio at State
+            </div>
+            <div class="aipac-node-tag" style="margin-top:8px;">Operation Epic Fury · U.S.–Israel joint strikes</div>
+          </div>
+        </div>
+
+        <!-- SOURCE BAR -->
+        <div style="margin-top:28px;padding:14px 16px;background:var(--surface);border:1px solid var(--border);border-left:3px solid #4ade80;border-radius:var(--radius);font-size:11px;color:var(--dim);font-family:var(--font-mono);line-height:2;">
+          <strong style="color:var(--subtext);display:block;margin-bottom:6px;">📎 Primary Sources</strong>
+          <a href="https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963" target="_blank" class="aipac-src-chip">OpenSecrets · AIPAC Profile ↗</a>
+          <a href="https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/" target="_blank" class="aipac-src-chip">Sludge · $126.9M FEC Analysis ↗</a>
+          <a href="https://www.factcheck.org/2024/09/united-democracy-project-2/" target="_blank" class="aipac-src-chip">FactCheck · UDP Profile ↗</a>
+          <a href="https://en.wikipedia.org/wiki/List_of_politicians_funded_by_AIPAC" target="_blank" class="aipac-src-chip">Wikipedia · AIPAC Recipients ↗</a>
+          <a href="https://www.trackaipac.com/trump" target="_blank" class="aipac-src-chip">Track AIPAC · Trump Admin ↗</a>
+          <a href="https://www.fec.gov/data/" target="_blank" class="aipac-src-chip">FEC · Raw Filing Data ↗</a>
+          <a href="https://zeteo.com/p/how-the-fox-news-cabinet-helped-jumpstart" target="_blank" class="aipac-src-chip">Zeteo · Fox News Cabinet ↗</a>
+          <a href="https://www.democrats.senate.gov/newsroom/trump-transcripts/transcript-sean-hannity-of-fox-news-interviews-donald-trump-in-alaska-81525" target="_blank" class="aipac-src-chip">Senate Dems · Trump–Hannity Alaska Transcript ↗</a>
+        </div>
+
+        <!-- DISCLAIMER -->
+        <div style="margin-top:14px;padding:12px 16px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);font-size:10px;color:var(--dim);font-family:var(--font-mono);line-height:1.8;">
+          <strong style="color:var(--subtext)">Methodology note:</strong> All dollar figures from FEC filings via OpenSecrets and ReadSludge. "Dossier members" (🕵️) are clickable — opens their full Network tab card. This chart maps documented financial relationships and public statements. It does not assert illegal activity. Foreign policy decisions involve multiple competing interests; this map shows one documented axis of influence.
+        </div>
+
+      </div>
+    </div>
+  </div><!-- /aipac -->
 
 
 <footer>
