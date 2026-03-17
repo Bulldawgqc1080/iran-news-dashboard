@@ -1,16 +1,27 @@
 {
-  "updated": "2026-03-16 23:55 UTC",
-  "total": 6,
+  "updated": "2026-03-17 05:13 UTC",
+  "total": 7,
   "events": [
+    {
+      "date": "2026-03-17",
+      "dateDisplay": "Mar 17, 2026",
+      "title": "Live: UAE intercepts Iranian fire as Israel strikes Tehran and Lebanon",
+      "link": "https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-03-16",
       "dateDisplay": "Mar 16, 2026",
       "title": "EU rejects Trump&apos;s request to help secure the Strait of Hormuz",
       "link": "https://www.npr.org/2026/03/16/nx-s1-5749194/eu-rejects-trumps-request-to-help-secure-the-strait-of-hormuz",
       "sources": [
+        "France 24",
         "Al Jazeera",
-        "NPR News",
-        "France 24"
+        "NPR News"
       ],
       "sourceCount": 3,
       "type": "fact"

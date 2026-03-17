@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16 23:55 UTC",
+  "updated": "2026-03-17 05:13 UTC",
   "total": 60,
   "stories": [
     {
@@ -46,16 +46,6 @@
       "title": "Iran blocks vital oil route as Israel expands its ground operations in Lebanon",
       "link": "https://www.npr.org/2026/03/16/nx-s1-5746805/iran-blocks-vital-oil-route-as-israel-expands-its-ground-operations-in-lebanon",
       "description": "As the war in Iran enters its third week, there's no end in sight. Iran has blocked the Strait of Hormuz, a vital oil route, as Trump urges allies to act and Israel expands its ground operations.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Iran expert on what the country's leaders think about the war with the US and Israel",
-      "link": "https://www.npr.org/2026/03/16/nx-s1-5746773/iran-expert-on-what-the-countrys-leaders-think-about-the-war-with-the-us-and-israel",
-      "description": "NPR's Michel Martin asks Iran expert Karim Sadjadpour how leaders in Tehran are thinking about the war with the U.S. and Israel.",
       "date": "Mon, 16 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -213,6 +203,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Live: UAE intercepts Iranian fire as Israel strikes Tehran and Lebanon",
+      "link": "https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon",
+      "description": "Explosions were heard over Dubai early on Tuesday as the United Arab Emirates’ military intercepted incoming Iranian missiles and drones, briefly forcing the country to close its airspace. The escalation came as Israel launched a new wave of strikes on Tehran and Hezbollah target...",
+      "date": "Tue, 17 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Oil eases amid signs Iran is allowing some tankers pass through Strait of Hormuz",
       "link": "https://www.france24.com/en/tv-shows/business/20260316-oil-eases-amid-signs-iran-is-allowing-some-tankers-pass-through-strait-of-hormuz",
       "description": "Global oil prices fell sharply on Monday after a Pakistan-bound oil tanker passed through the Strait of Hormuz with its transponder on. The decline came even as countries have so far rebuffed Donald Trump's request to send warships to escort vessels through the waterway. Meanwhil...",
@@ -353,19 +353,69 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Kurds can play a significant role in a breakthrough in Iran,' Iranian Kurdish leader says",
-      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260316-kurds-can-play-a-significant-role-in-a-breakthrough-in-iran-iranian-kurdish-leader-says",
-      "description": "In an interview with FRANCE 24, Abdullah Mohtadi, secretary-general of the Iranian Kurdish opposition Komala party, said Kurds \"can play a very significant role in making a breakthrough\" in Iran. He pointed to \"serious signs of weakness\" among security forces in Kurdish regions o...",
-      "date": "Mon, 16 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "South African fruit exports face delays as Iran war disrupts shipping",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/south-african-fruit-exports-face-delays-as-iran-war-disrupts-shipping?traffic_source=rss",
+      "description": "South Africa&#039;s fruit exporters face mounting losses and disruption as the US-Israel war on Iran enters its fourth week.",
+      "date": "Tue, 17 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Hotel in Iraqi capital Baghdad struck as attacks on US embassy intercepted",
+      "title": "Top Democrat in US House slams Trump’s ‘reckless war of choice’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/top-democrat-in-us-house-slams-trumps-reckless-war-of?traffic_source=rss",
+      "description": "Democratic leader Hakeem Jeffries criticised Donald Trump for what he called a \"reckless war on choice\" on Iran\".",
+      "date": "Tue, 17 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel policy looms large over US elections in Illinois amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/17/israel-policy-looms-large-over-us-elections-in-illinois-amid-iran-war?traffic_source=rss",
+      "description": "Pro-Israel groups pour millions into Democratic primaries in Chicago area as support for US ally hits a historic low.",
+      "date": "Tue, 17 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran says wars are not won on social media",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/iran-says-wars-are-not-won-on-social-media?traffic_source=rss",
+      "description": "A spokesperson for Iran&#039;s Central Headquarters said wars are decided on the battlefield, not social media.",
+      "date": "Tue, 17 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Attempts to open Strait of Hormuz by force would be ‘almost suicidal’",
+      "link": "https://www.aljazeera.com/video/quotable/2026/3/17/attempts-to-open-strait-of-hormuz-by-force-would-be-almost-suicidal?traffic_source=rss",
+      "description": "Andreas Krieg says that US plans to deploy 2,500 marines to the Gulf is unlikely to reopen the Strait of Hormuz.",
+      "date": "Tue, 17 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss",
+      "description": "US President Donald Trump criticises allies&#039; reluctance to commit forces to open the key waterway for Gulf oil exports.",
+      "date": "Tue, 17 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Four killed in Iraq’s Baghdad as US forces, Iran-backed groups trade fire",
       "link": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
-      "description": "No group has claimed responsibility for the attacks, which took place amid the escalating Israel-US war on Iran.",
+      "description": "Attack on a house in Baghdad&#039;s Jadriyah kills four as witnesses report smoke and fire in the vicinity of the US embassy.",
       "date": "Mon, 16 Mar 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -423,74 +473,64 @@
       "bias": "Medium"
     },
     {
-      "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
-      "description": "Rescuers have pulled civilians from the rubble after a new wave of US-Israeli strikes targeted Tehran.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "US forces conduct over 6,500 combat sorties in operation against Iran — CENTCOM",
+      "link": "https://tass.com/world/2102637",
+      "description": "Strikes against more than 7,000 targets were made",
+      "date": "Tue, 17 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "US responsible for deadly attack on Iranian school: Amnesty International",
-      "link": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss",
-      "description": "Rights group says Tomahawk missile likely used in Minab school strike that killed at least 170 people, mostly children.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "US intelligence says Iranian leadership retains power, unity — WP",
+      "link": "https://tass.com/world/2102633",
+      "description": "According to the sources of the newspaper, no signs of a soon change of power in Iran are seen",
+      "date": "Tue, 17 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "US, Israel now know ‘what kind of nation they are dealing with’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss",
-      "description": "Iran’s Foreign Minister Abbas Araghchi says his country has shown it is ready to take the war “as far as necessary\".",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Mojtaba Khamenei is well and may soon deliver new address",
+      "link": "https://tass.com/world/2102631",
+      "description": "Foreign Ministry Spokesman Esmaeil Baghaei announced the speech, adding \"The Iranian people are determined to defend their homeland\"",
+      "date": "Tue, 17 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "How badly has the Iran war hit the global economy? The tell-tale signs",
-      "link": "https://www.aljazeera.com/news/2026/3/16/the-tell-tale-signs-how-bad-has-the-iran-war-hit-the-global-economy?traffic_source=rss",
-      "description": "Oil and gas price hikes due to the war have rattled the global economy.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "US leader says China visit may be delayed by about one month",
+      "link": "https://tass.com/world/2102615",
+      "description": "Donald Trump says a corresponding request was sent due to the military operation against Iran",
+      "date": "Tue, 17 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Is Russia benefitting from the Iran war?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/is-russia-benefitting-from-the-iran-war?traffic_source=rss",
-      "description": "The US is allowing the purchase of Russian oil that’s stranded at sea after the war on Iran led to higher energy prices.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Witkoff to brief US senators on progress of operation against Iran on March 17",
+      "link": "https://tass.com/world/2102613",
+      "description": "US lawmakers want information on Washington’s plans regarding Iran",
+      "date": "Tue, 17 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran officials tout ‘Trump-burning’ celebration amid battle of narratives",
-      "link": "https://www.aljazeera.com/news/2026/3/16/iran-officials-tout-trump-burning-celebration-amid-battle-of-narratives?traffic_source=rss",
-      "description": "Iranian state media calls for turning fire festival into a symbolic protest by burning figures of Trump and Netanyahu.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "European leaders reject military involvement in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/3/16/eu-leaders-reject-military-involvement-in-strait-of-hormuz-amid-war-on-iran?traffic_source=rss",
-      "description": "Pushback comes as US President Donald Trump says NATO allies should help secure key waterway amid soaring oil prices.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "At least five powerful explosions rock Iran’s southern port city of Bandar Abbas",
+      "link": "https://tass.com/world/2102581",
+      "description": "There is no information on whether the port infrastructure was the target of the strike",
+      "date": "Tue, 17 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran destroys hangars with US fighter jets at bases in UAE, Bahrain — IRGC",
@@ -556,46 +596,6 @@
       "title": "Killing of Ayatollah Khamenei did not split Iranian society— Iranian ambassador",
       "link": "https://tass.com/world/2102515",
       "description": "The US and Israel aimed to weaken Iranian people, to instill fear, Ali Mojtaba Rouzbehani said",
-      "date": "Mon, 16 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US, Israeli aggression shows failure of international law — Iranian ambassador",
-      "link": "https://tass.com/world/2102505",
-      "description": "Ali Mojtaba Rouzbehani emphasized that even international institutions were unable to act against these aggressors",
-      "date": "Mon, 16 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Deputy PM urges faster progress on Russia-Namibia nuclear deal",
-      "link": "https://tass.com/economy/2102479",
-      "description": "Yury Trutnev noted that Russian nuclear corporation Rosatom possesses cutting-edge technologies, is a world leader in research reactors",
-      "date": "Mon, 16 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Zelensky fails to achieve goals dictated to him from abroad in Ukraine conflict — Iran",
-      "link": "https://tass.com/world/2102453",
-      "description": "Esmaeil Baghaei said from the very beginning that Iran did not play any role and did not interfere in the conflict in Ukraine",
-      "date": "Mon, 16 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran's offensive tactics could force US to end war — Lebanese general",
-      "link": "https://tass.com/world/2102429",
-      "description": "Hassan Jouni emphasized that the decision to escalate or de-escalate the exchange of strikes now rests with Tehran, not Washington",
       "date": "Mon, 16 Mar 2026",
       "source": "TASS",
       "region": "ru",
