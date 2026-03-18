@@ -1,15 +1,26 @@
 {
-  "updated": "2026-03-17 23:05 UTC",
-  "total": 7,
+  "updated": "2026-03-18 05:20 UTC",
+  "total": 8,
   "events": [
+    {
+      "date": "2026-03-18",
+      "dateDisplay": "Mar 18, 2026",
+      "title": "Starmer tells Zelensky focus must remain on Ukraine despite war in Iran",
+      "link": "https://www.france24.com/en/europe/20260318-starmer-tells-zelensky-focus-must-remain-on-ukraine-despite-war-in-iran",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-03-17",
       "dateDisplay": "Mar 17, 2026",
       "title": "Trump lashes out at NATO after countries decline to help in Iran",
       "link": "https://www.npr.org/2026/03/17/nx-s1-5750596/trump-lashes-out-at-nato-after-countries-decline-to-help-in-iran",
       "sources": [
-        "France 24",
-        "NPR News"
+        "NPR News",
+        "France 24"
       ],
       "sourceCount": 2,
       "type": "govt"

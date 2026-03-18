@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17 23:05 UTC",
+  "updated": "2026-03-18 05:20 UTC",
   "total": 60,
   "stories": [
     {
@@ -53,9 +53,9 @@
       "bias": "Low"
     },
     {
-      "title": "A Trump official quits over the Iran war, as Israel says it killed 2 Iranian commanders",
+      "title": "A Trump official quits over the Iran war and Israel kills 2 top Iranian commanders",
       "link": "https://www.npr.org/2026/03/17/nx-s1-5750253/israel-kills-two-top-iranian-commanders",
-      "description": "Israel says it killed Ali Larijani and Gholamreza Soleimani. Iran has yet to confirm but it would be the highest-profile killings since the targeting of Iran's Ayatollah Ali Khamenei.",
+      "description": "U.S. counterterrorism official Joe Kent became the first senior Trump administration member to resign over the Iran war. Israel killed two top Iranian officials, dealing another blow to the regime.",
       "date": "Tue, 17 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -66,16 +66,6 @@
       "title": "Israel's Lebanon incursion raises pressure on West over Iran-backed Hezbollah",
       "link": "https://www.npr.org/2026/03/17/nx-s1-5749304/israels-lebanon-incursion-raises-pressure-on-west-over-iran-backed-hezbollah",
       "description": "Western countries fear Israel's ground offensive in Lebanon aims to force them to act on disarming Iran-backed militant group Hezbollah, increasing tensions and urgency for a diplomatic solution.",
-      "date": "Tue, 17 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Historian shares how Russia benefits from the US being at war with Iran",
-      "link": "https://www.npr.org/2026/03/17/nx-s1-5749412/historian-shares-how-russia-benefits-from-the-us-being-at-war-with-iran",
-      "description": "NPR's A Martinez speaks with historian Sergey Radchenko about how Russia benefits from the U.S. being at war with Iran.",
       "date": "Tue, 17 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -233,6 +223,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Starmer tells Zelensky focus must remain on Ukraine despite war in Iran",
+      "link": "https://www.france24.com/en/europe/20260318-starmer-tells-zelensky-focus-must-remain-on-ukraine-despite-war-in-iran",
+      "description": "British Prime Minister Keir Starmer told Ukrainian President Volodymyr Zelensky that international attention must remain on Ukraine's fight against Russia despite the US-Israeli war with Iran. The two leaders met in London and signed a new defence partnership focused on counterin...",
+      "date": "Wed, 18 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Live: Israel strikes central Beirut as Iran attack leaves two dead near Tel Aviv",
+      "link": "https://www.france24.com/en/middle-east/20260318-live-israel-strikes-central-beirut-as-iran-attack-leaves-two-dead-near-tel-aviv",
+      "description": "An Israeli strike on central Beirut – which came without warning – has left at least six dead and 24 injured. Meanwhile shrapnel from an Iranian missile launch killed two people in a Tel Aviv suburb, hours after Iran confirmed its security chief had been killed in an air strike. ...",
+      "date": "Wed, 18 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran using cluster munitions in retaliatory strikes on Israel",
       "link": "https://www.france24.com/en/iran-using-cluster-munitions-in-retaliatory-strikes-on-israel",
       "description": "Iran is continuing its retaliatory strikes against Israel, with some damage to homes in central Israel this Tuesday. Israel says Tehran is using cluster munitions, which explode mid-air and indiscriminately scatter bomblets across a wide area. FRANCE 24's Carys Garland reports.",
@@ -363,9 +373,129 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
-      "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss",
-      "description": "US president strikes defiant tone as allies reject joining coalition, does not name countries he says &#039;on their way&#039;.",
+      "title": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages",
+      "link": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss",
+      "description": "US President Donald Trump delays his trip to Beijing while also seeking China&#039;s help to reopen the Strait of Hormuz.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Araghchi: Iran’s system holds despite targeted leaders",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss",
+      "description": "Iran’s foreign minister is pushing back after the killings of top officials.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "‘This is America’s war’: Iran’s Foreign Minister Araghchi",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss",
+      "description": "Iran’s foreign minister blames the US for regional escalation and says Washington is responsible for all consequences.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Killing of Larijani will not destabilise Iranian political system: Minister",
+      "link": "https://www.aljazeera.com/news/2026/3/18/killing-of-larijani-will-not-destabilise-iranian-political-system-minister?traffic_source=rss",
+      "description": "Iranian Foreign Minister Araghchi says US-Israeli assassinations will not topple Tehran&#039;s &#039;strong political structure&#039;.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Drone attacks hit near US embassy in Baghdad",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/drone-attacks-hit-near-us-embassy-in-baghdad?traffic_source=rss",
+      "description": "Fires have broken out in Baghdad’s Green Zone after a drone swarm, purportedly launched by Iran-aligned groups.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Experts discuss ‘Israeli strategy’ in killing of senior Iran official Ali L",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss",
+      "description": "Ross Harrison joins a panel on what the US and Israel are seeking with their killing of senior Iranian leaders.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "‘We’ll be doing something with Cuba very soon’, Trump says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/well-be-doing-something-with-cuba-very-soon-trump-says?traffic_source=rss",
+      "description": "While waging war on Iran, the US president and his secretary of state are demanding a leadership change in Cuba.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran allowing more ships through Strait of Hormuz, data suggest",
+      "link": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss",
+      "description": "Number of ships transiting Strait of Hormuz has nearly doubled in recent days, maritime intelligence company says.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Ukraine sends 201 military experts to counter Iranian drones in the Gulf",
+      "link": "https://www.aljazeera.com/news/2026/3/18/over-200-ukrainian-military-experts-in-gulf-region-to-counter-irans-drones?traffic_source=rss",
+      "description": "Ukraine President Zelenskyy says Moscow, Tehran &#039;brothers in hatred&#039;; claims Iran&#039;s drones &#039;contain Russian components&#039;.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Who is Joe Kent, and why did he resign as Trump’s counterterrorism chief?",
+      "link": "https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss",
+      "description": "Kent is the highest-level official to leave Trump administration over the US president&#039;s decision to wage war on Iran.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Larijani’s warning to US, Israel before his killing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/larijanis-warning-to-us-israel-before-his-killing?traffic_source=rss",
+      "description": "Ali Larijani, the late secretary of Iran’s SNSC, warned the US and Israeli that killing leaders would strengthen Iran.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Tehran mourns Larijani, Soleimani; 2 killed in Israel",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/18/iran-war-live-tehran-mourns-larijani-soleimani-two-killed-in-israel?traffic_source=rss",
+      "description": "Iran launches attacks on Israel, killing two, as Bahrain, Qatar, UAE, and Saudi Arabia intercept more missiles, drones.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel killed Larijani hoping to ‘torpedo’ chance of US-Iran talks",
+      "link": "https://www.aljazeera.com/video/quotable/2026/3/17/israel-killed-larijani-hoping-to-torpedo-chance-of-us-iran-talks?traffic_source=rss",
+      "description": "Marwan Bishara says Israel’s assassination of Larijani is calculated to prolong the war and bring about regime change.",
       "date": "Tue, 17 Mar 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -373,9 +503,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Who was Ali Larijani, Iran’s powerful insider?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/who-was-ali-larijani-irans-powerful-insider?traffic_source=rss",
-      "description": "Iran has confirmed that security chief Ali Larijani has been killed.",
+      "title": "Ireland’s Micheal Martin and Trump in awkward St Patrick’s Day exchange",
+      "link": "https://www.aljazeera.com/news/2026/3/17/irelands-micheal-martin-and-trump-in-awkward-st-patricks-day-exchange?traffic_source=rss",
+      "description": "Ireland, which took strong stance on Gaza genocide, is similarly robust on Iran, but Martin is criticised for passivity.",
       "date": "Tue, 17 Mar 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -383,74 +513,24 @@
       "bias": "Medium"
     },
     {
-      "title": "FIFA rejects Iran’s request to move World Cup matches from US to Mexico",
-      "link": "https://www.aljazeera.com/sports/2026/3/17/fifa-rejects-irans-request-to-move-world-cup-matches-from-us-to-mexico?traffic_source=rss",
-      "description": "The 2026 World Cup matches will be played as per schedule announced last year, the football organisation says.",
-      "date": "Tue, 17 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "US intends to further ease sanctions on Venezuelan oil — Bloomberg",
+      "link": "https://tass.com/world/2103187",
+      "description": "Additional steps could be announced this week",
+      "date": "Wed, 18 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Could the Iran war keep Netanyahu in power for longer?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/17/could-the-iran-war-keep-netanyahu-in-power-for-longer?traffic_source=rss",
-      "description": "Huge support in Israel for joint US bombing campaign in Iran.",
-      "date": "Tue, 17 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iraq’s capital Baghdad rocked by powerful blasts near US embassy",
-      "link": "https://www.aljazeera.com/news/2026/3/17/iraqi-capital-baghdad-rocked-by-powerful-blasts-near-us-embassy?traffic_source=rss",
-      "description": "The attacks are part of an escalating cycle of violence between US forces and Iraqi groups aligned with Tehran.",
-      "date": "Tue, 17 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says it’s a ‘good thing’ counterterrorism director resigned over Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/trump-says-its-a-good-thing-counterterrorism-director-resigned-over-iran?traffic_source=rss",
-      "description": "US President Trump reacted to the resignation of the US National Counterterrorism Centre’s director, Joe Kent.",
-      "date": "Tue, 17 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention",
-      "link": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss",
-      "description": "As leaders of Ukraine and UK meet, Turkiye&#039;s top diplomat reiterates his country&#039;s offer to host Russia-Ukraine talks.",
-      "date": "Tue, 17 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Video: Man rescued from under rubble after attack in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-man-rescued-from-under-rubble-after-attack-in-iran?traffic_source=rss",
-      "description": "A man was rescued from under the rubble of a destroyed building in Iran following an Israeli strike.",
-      "date": "Tue, 17 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why Iranians are taking to Tehran’s streets during war",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/17/aje-onl-irn_fromwithin_av_v3-170326?traffic_source=rss",
-      "description": "As bombs fall and millions are displaced, protests grow in Iran. Could this war be strengthening Iran’s resolve?",
-      "date": "Tue, 17 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Strait of Hormuz to only be opened after conflict ends — Iranian authorities",
+      "link": "https://tass.com/world/2103171",
+      "description": "A high-ranking representative of the Iranian authorities clarified that a possible diplomatic solution to end the war must include compensation for Iran and cessation of attacks on resistance forces in neighboring countries",
+      "date": "Wed, 18 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iranian president vows to avenge death of Larijani",
@@ -516,86 +596,6 @@
       "title": "Lavrov, Fidan discuss Iran war, energy projects — Russian Foreign Ministry",
       "link": "https://tass.com/politics/2103085",
       "description": "Special attention was drawn to the absolute importance of ensuring comprehensive pipeline safety",
-      "date": "Tue, 17 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "German subsidiary of Russian pharma company announces bankruptcy due to sanctions",
-      "link": "https://tass.com/economy/2103081",
-      "description": "According to the report, the main cause of the bankruptcy were European sanctions against Russia and Russian tit-for-tar measures, which adversely affected the business",
-      "date": "Tue, 17 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US allies reluctant to get involved in operation against Iran — Trump",
-      "link": "https://tass.com/world/2103077",
-      "description": "The United States does not need the help of anyone, the US president noted",
-      "date": "Tue, 17 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says Europe unwilling to help US with Iran after American support regarding Ukraine",
-      "link": "https://tass.com/world/2103075",
-      "description": "The US president met with Irish Prime Minister Micheal Martin at the White House",
-      "date": "Tue, 17 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian soldiers write messages on missiles telling US to get out of Middle East",
-      "link": "https://tass.com/world/2103069",
-      "description": "Iranian soldiers write on misseles that they will continue strikes until the last American soldier leaves the Middle East",
-      "date": "Tue, 17 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "France to never participate in operations to reopen Strait of Hormuz — President Macron",
-      "link": "https://tass.com/world/2103061",
-      "description": "Paris will not do this under any circumstances, Emmanuel Macron said",
-      "date": "Tue, 17 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Pentagon says Iran's space program \"destructed\"",
-      "link": "https://tass.com/world/2103035",
-      "description": "Iran now appears to have no way of developing an intercontinental ballistic missile (ICBM) capable of reaching the United States, head of the Northern Command of the US Armed Forces, General Gregory Guillot said",
-      "date": "Tue, 17 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Slovak PM Fico predicts worsening global oil market situation amid Iran conflict",
-      "link": "https://tass.com/economy/2103033",
-      "description": "There is every indication that this conflict will continue for a long time, Robert Fico noted",
-      "date": "Tue, 17 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Kenya may face fertilizer shortage due to conflict in the Middle East — radio station",
-      "link": "https://tass.com/economy/2102997",
-      "description": "About 26% of all imported fertilizers are coming to Kenya via the Strait of Hormuz, the radio station said",
       "date": "Tue, 17 Mar 2026",
       "source": "TASS",
       "region": "ru",
