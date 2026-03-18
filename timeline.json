@@ -1,29 +1,29 @@
 {
-  "updated": "2026-03-18 08:03 UTC",
+  "updated": "2026-03-18 11:34 UTC",
   "total": 8,
   "events": [
     {
       "date": "2026-03-18",
       "dateDisplay": "Mar 18, 2026",
-      "title": "Starmer says 'focus must remain on Ukraine' despite war in Iran after talks with Zelensky",
-      "link": "https://www.france24.com/en/europe/20260318-starmer-tells-zelensky-focus-must-remain-on-ukraine-despite-war-in-iran",
+      "title": "Iran retaliates after Israel kills 2 top Iranian officials",
+      "link": "https://www.npr.org/2026/03/18/nx-s1-5751694/iran-retaliates-israel-kills-two-top-iranian-officials",
       "sources": [
-        "France 24"
+        "France 24",
+        "NPR News"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-03-17",
       "dateDisplay": "Mar 17, 2026",
-      "title": "Trump lashes out at NATO after countries decline to help in Iran",
-      "link": "https://www.npr.org/2026/03/17/nx-s1-5750596/trump-lashes-out-at-nato-after-countries-decline-to-help-in-iran",
+      "title": "Surge in US gas prices deepens political peril for Trump over Iran",
+      "link": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News",
-        "France 24"
+        "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-03-16",
