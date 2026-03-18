@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T19:32:23.319Z",
+  "lastUpdated": "2026-03-18T20:00:00.000Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,79 +9,105 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 24114158785
+    "estimatedTotalUsd": 29000000000
   },
   "casualties": {
     "us": {
       "killed": {
         "value": 13,
-        "asOf": "2026-03-18T19:32:23.319Z",
-        "sourceId": "dod-centcom-rss",
+        "asOf": "2026-03-17T00:00:00.000Z",
+        "sourceId": "dod-centcom",
         "confidence": "high"
       },
       "wounded": {
-        "value": 140,
-        "asOf": "2026-03-14T18:24:26.819Z",
-        "sourceId": "dod-centcom-rss",
-        "confidence": "medium"
+        "value": 200,
+        "asOf": "2026-03-17T00:00:00.000Z",
+        "sourceId": "dod-centcom",
+        "confidence": "high",
+        "note": "Vast majority have returned to duty per CENTCOM"
       },
-      "asOf": "2026-03-13T12:00:00Z"
+      "asOf": "2026-03-17T00:00:00.000Z"
     },
     "iranMilitary": {
       "killed": {
         "minConfirmed": 2094,
         "maxReported": 2300,
-        "asOf": "2026-03-14T17:55:42.727Z",
-        "sourceIds": [
-          "acled"
-        ],
+        "asOf": "2026-03-18T00:00:00.000Z",
+        "sourceIds": ["acled"],
         "confidence": "medium"
       },
-      "killedMin": 2094,
-      "killedMax": 2300,
-      "asOf": "2026-03-13T12:00:00Z"
+      "asOf": "2026-03-18T00:00:00.000Z"
     },
     "iranCivilians": {
       "killed": {
-        "minConfirmed": 1255,
+        "minConfirmed": 1444,
         "maxReported": 1800,
-        "asOf": "2026-03-14T17:55:42.727Z",
-        "sourceIds": [
-          "ocha"
-        ],
-        "confidence": "medium"
+        "asOf": "2026-03-18T00:00:00.000Z",
+        "sourceIds": ["al-jazeera-tracker", "iran-health-ministry"],
+        "confidence": "medium",
+        "note": "Iran Health Ministry confirmed 1,444+. Independent verification inside Iran is limited."
       },
       "wounded": {
-        "minConfirmed": 12000,
-        "maxReported": 16500,
-        "asOf": "2026-03-14T17:55:42.727Z",
-        "sourceIds": [
-          "unhcr"
-        ],
+        "minConfirmed": 18551,
+        "maxReported": 20000,
+        "asOf": "2026-03-18T00:00:00.000Z",
+        "sourceIds": ["al-jazeera-tracker"],
         "confidence": "medium"
       },
-      "killedMin": 1255,
-      "woundedMin": 12000,
-      "asOf": "2026-03-13T12:00:00Z"
+      "asOf": "2026-03-18T00:00:00.000Z"
+    },
+    "lebanon": {
+      "killed": {
+        "minConfirmed": 880,
+        "maxReported": 900,
+        "asOf": "2026-03-18T00:00:00.000Z",
+        "sourceIds": ["lebanon-health-ministry"],
+        "confidence": "medium",
+        "note": "Includes 98 children per Lebanon Health Ministry"
+      },
+      "asOf": "2026-03-18T00:00:00.000Z"
+    },
+    "israel": {
+      "killed": {
+        "value": 17,
+        "asOf": "2026-03-18T00:00:00.000Z",
+        "sourceIds": ["idf"],
+        "confidence": "high"
+      },
+      "wounded": {
+        "value": 3727,
+        "asOf": "2026-03-18T00:00:00.000Z",
+        "sourceIds": ["idf"],
+        "confidence": "high"
+      },
+      "asOf": "2026-03-18T00:00:00.000Z"
     }
   },
   "energy": {
-    "usGasNationalAvgUsd": 3.58,
+    "usGasNationalAvgUsd": 3.79,
     "usGasChangeSinceStartUsd": 0.62,
-    "brentUsdPerBbl": 99.06,
-    "brentChangePct24h": 0.1,
-    "asOf": "2026-03-13T12:15:00Z"
+    "brentUsdPerBbl": 103.19,
+    "brentChangePct24h": -0.17,
+    "asOf": "2026-03-18T20:00:00.000Z",
+    "note": "Brent from oilcrudeprice.com 15:03 NY time. Gas from AAA national average Mar 18."
+  },
+  "strikesConfirmed": {
+    "centcomTargetsStruck": 7000,
+    "asOf": "2026-03-16T00:00:00.000Z",
+    "sourceId": "centcom"
   },
   "quality": {
-    "generatedAt": "2026-03-18T19:32:23.319Z",
+    "generatedAt": "2026-03-18T20:00:00.000Z",
     "staleThresholdHours": 48,
     "casualties": {
       "usStale": false,
-      "iranMilitaryStale": true,
-      "iranCiviliansStale": true
+      "iranMilitaryStale": false,
+      "iranCiviliansStale": false,
+      "lebanonStale": false,
+      "israelStale": false
     },
     "energy": {
-      "stale": true
+      "stale": false
     }
   },
   "ui": {
