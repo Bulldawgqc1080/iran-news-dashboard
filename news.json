@@ -1,7 +1,17 @@
 {
-  "updated": "2026-03-18 19:29 UTC",
+  "updated": "2026-03-18 21:51 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Iran war hinders the flow of U.N. aid through the Gulf to communities in need",
+      "link": "https://www.npr.org/2026/03/18/nx-s1-5750504/iran-war-hinders-the-flow-of-u-n-aid-through-the-gulf-to-communities-in-need",
+      "description": "It's not just oil tankers stranded near the Strait of Hormuz. U.N. aid shipments are also hindered by the war in Iran.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "With strikes above and crackdowns on the ground, Iranians describe life under siege",
       "link": "https://www.npr.org/2026/03/18/nx-s1-5750816/with-strikes-above-and-crackdowns-on-the-ground-iranians-describe-life-under-siege",
@@ -23,9 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "Iran confirms the death of its intelligence chief, 3rd top official killed in 24 hours",
+      "title": "War can't entirely eliminate Iran's nuclear program, the U.N. atomic energy chief says",
       "link": "https://www.npr.org/2026/03/18/nx-s1-5751694/iran-retaliates-israel-kills-two-top-iranian-officials",
-      "description": "Israel killed Iran's intelligence minister, Esmail Khatib, in an overnight strike — the third high-ranking official killed in about 24 hours.",
+      "description": "International Atomic Energy Agency head Rafael Grossi said Iran's nuclear program is heavily damaged, \"but the material will still be there and the enrichment capacities will be there.\"",
       "date": "Wed, 18 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -63,16 +73,6 @@
       "bias": "Low"
     },
     {
-      "title": "War with Iran strands about 20,000 seafarers in the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/03/18/nx-s1-5749334/war-with-iran-strands-about-20-000-seafarers-in-the-strait-of-hormuz",
-      "description": "NPR's Michel Martin speaks with Jacqueline Smith of the International Transport Workers' Federation about the roughly 20,000 seafarers stuck in the Strait of Hormuz in the midst of the Iran war.",
-      "date": "Wed, 18 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
       "link": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
       "description": "An elderly couple was killed after a bomb flew into their apartment in central Israel and exploded.",
@@ -96,16 +96,6 @@
       "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
       "link": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
       "description": "Israel said it had killed Khatib, whose death was confirmed by Iranian President Masoud Pezeshkian on Wednesday.",
-      "date": "Wed, 18 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel strikes and destroys building in heart of Beirut",
-      "link": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
-      "description": "There are no known casualties so far from the strike near downtown, as Israel said it targeted a building affiliated with Hezbollah.",
       "date": "Wed, 18 Mar 2026",
       "source": "BBC",
       "region": "eu",
@@ -223,6 +213,76 @@
       "bias": "Low-Med"
     },
     {
+      "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
+      "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+      "description": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terrorist infrastructure\".",
+      "date": "Sat, 14 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel kills Iran’s intel chief as both sides ratchet up attacks on energy facilities",
+      "link": "https://www.france24.com/en/middle-east/20260318-israel-kills-iran-s-intel-chief-as-both-sides-ratchet-up-attacks-on-energy-facilities",
+      "description": "Iran suffered major blows on Wednesday with the killing of its intelligence minister, Esmail Khatib, in an Israeli strike and an attack on the South Pars natural gas field, one of the world's largest gas resources and a pillar of the country's energy supplies. Tehran vowed retali...",
+      "date": "Wed, 18 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US seeks to curb soaring petrol prices",
+      "link": "https://www.france24.com/en/us-seeks-to-curb-soaring-petrol-prices",
+      "description": "The Trump administration is taking steps to curb rising energy costs, as it continues to wage war in the Middle East. The US is easing sanctions on Venezuela, and suspending a century-old shipping law, in an effort to get more oil supplies into the global market. Oil prices conti...",
+      "date": "Wed, 18 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Acute risk' that Iraq could become once again victim of internal conflict as Iran war progresses",
+      "link": "https://www.france24.com/en/acute-risk-that-iraq-could-become-once-again-victim-of-internal-conflict-as-iran-war-progresses",
+      "description": "Speaking with FRANCE 24's Yinka Oyetade, Zaid Al-Ali, Visiting Fellow at Princeton University and Former UN Advisor in Iraq, explains that until the war in Iran broke out, Iraq had been able to \"straddle between US-aligned interests and Iranian-aligned interests\" but there's an \"...",
+      "date": "Wed, 18 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran did not try to rebuild enrichment after June 2025 attack, US intel chief says",
+      "link": "https://www.france24.com/en/iran-did-not-try-to-rebuild-enrichment-after-june-2025-attack-us-intel-chief-says",
+      "description": "Iran made no effort to rebuild uranium enrichment after its capabilities were destroyed in a June 2025 US-Israeli attack, US intelligence chief Tulsi Gabbard testified Wednesday, contradicting President Donald Trump's justifications for his ongoing war. FRANCE 24's Fraser Jackson...",
+      "date": "Wed, 18 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Both sides in Iran war ratchet up attacks on energy facilities, as oil prices surge",
+      "link": "https://www.france24.com/en/both-sides-in-iran-war-ratchet-up-attacks-on-energy-facilities-as-oil-prices-surge",
+      "description": "Saudi Arabia intercepted and destroyed four ballistic missiles that were launched ​toward Riyadh on Wednesday, the Defence Ministry said, just ahead of a meeting of regional and Islamic foreign ministers in the Saudi capital. FRANCE 24's Hoda Abdel-Hamid reports from Doha.",
+      "date": "Wed, 18 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump's dire strait: No strategy, no endgame, no allied support?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260318-trump-s-dire-strait-no-strategy-no-endgame-no-allied-support",
+      "description": "Today in the Middle East, Day 19 of the war, there have been extensive air strikes, drone attacks and missiles launched. And fall-out is spreading far beyond the so called theatre of war. And the funeral of Ali Larijani, Iran's de facto leader, key advisor to the Ayatollah, the h...",
+      "date": "Wed, 18 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "'Not a one-person regime': Why Iran's Islamic Republic is so hard to topple",
       "link": "https://www.france24.com/en/middle-east/20260318-iran-regime-change-khamenei-decapitation-strategy-islamic-republic",
       "description": "Since the killing of Iran's Supreme Leader Ayatollah Ali Khamenei on February 28, US and Israeli strikes have decimated the regime's top ranks, from the commander of the Revolutionary Guards, to the country's security and intelligence chiefs. But even as the heads of the Iranian ...",
@@ -313,64 +373,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "REPLAY: NATO chief Mark Rutte holds press conference",
-      "link": "https://www.france24.com/en/video/20260318-replay-nato-chief-mark-rutte-holds-press-conference",
-      "description": "NATO chief Mark Rutte said Wednesday that the military alliance's members were discussing the \"best way\" to open the Strait of Hormuz, through which a large chunk of the world's oil supply normally passes. \"I have been in contact with many allies. We all agree, of course, that st...",
+      "title": "Iranians burn Trump, Netanyahu effigies at warship victim rally",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranians-burn-trump-netanyahu-effigies-at-warship-victim-rally?traffic_source=rss",
+      "description": "Iranians in Tehran burned effigies of Israeli PM Netanyahu and US President Trump.",
       "date": "Wed, 18 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Zelensky on European tour to urge allies not to forget Ukraine",
-      "link": "https://www.france24.com/en/video/20260318-zelensky-on-european-tour-to-urge-allies-not-to-forget-ukraine",
-      "description": "Ukrainian President Volodymyr Zelensky on Wednesday was making his visit to Spain after a stop in London on Tuesday seen as part of an effort by Kyiv to keep the war against Russia a priority for European capitals, even as they grapple with fall-out from the US-Israeli war agains...",
+      "title": "US Fed keeps interest rates steady amid economic, geopolitical uncertainty",
+      "link": "https://www.aljazeera.com/economy/2026/3/18/us-fed-keeps-interest-rates-steady-amid-economic-geopolitical-uncertainty?traffic_source=rss",
+      "description": "The US Federal Reserve keeps rates steady at 3.5–3.75 percent amidst a cooling labour market and Iran pressures.",
       "date": "Wed, 18 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Syrian refugees flee Israeli offensive in Lebanon, returning to a Syria in ruins",
-      "link": "https://www.france24.com/en/tv-shows/focus/20260318-syrian-refugees-flee-israeli-offensive-in-lebanon-returning-to-a-syria-in-ruins",
-      "description": "At the Joussieh border crossing near the Syrian city of Homs, thousands of Syrian refugees are fleeing the devastating war in Lebanon between Israel and Hezbollah. Driven out by Israeli air strikes after years of exile in Lebanon, families and children wait for hours before retur...",
+      "title": "Oil prices surge after Israeli strike on Iran’s South Pars gasfield",
+      "link": "https://www.aljazeera.com/news/2026/3/18/oil-prices-surge-after-israeli-strike-on-iran-gasfield-irans-threats?traffic_source=rss",
+      "description": "There are fears that a period of elevated oil and gas prices could trigger a damaging wave of global inflation.",
       "date": "Wed, 18 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "'Sex and the City' in Paris: Candace Bushnell on her upcoming one-woman show",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260318-sex-and-the-city-in-paris-candace-bushnell-on-her-upcoming-one-woman-show",
-      "description": "In this edition of Entre Nous we're pleased to speak to Candace Bushnell, creator of \"Sex and the City\", the book that was the basis for the hit HBO show about four New York friends – Carrie, Miranda, Charlotte and Samantha – living and dating in the Big Apple. Candace has a one-...",
+      "title": "Top US spy accused of omitting Iran intel that contradicts Trump",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/top-us-spy-accused-of-omitting-iran-intel-that-contradicts-trump?traffic_source=rss",
+      "description": "Top US spy was accused of altering testimony on Iran, omitting details that contradict Trump’s threat claims.",
       "date": "Wed, 18 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "What to know about the resignation of Joe Kent, counterterrorism chief and Trump loyalist",
-      "link": "https://www.france24.com/en/americas/20260318-top-us-security-official-and-trump-loyalist-joe-kent-quits-over-iran-war",
-      "description": "The head of the US's National Counterterrorism Center, Joe Kent, resigned from his post on Tuesday in opposition to the Trump administration's war on Iran. The former staunch Trump supporter said he could not support the war as \"Iran posed no imminent threat\" to the US.",
+      "title": "Israel attacks Iran’s major gas field in new escalation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-attacks-irans-major-gas-field-in-new-escalation?traffic_source=rss",
+      "description": "Israel has struck facilities belonging to the world&#039;s largest natural gas field in Iran, marking a sharp escalation.",
       "date": "Wed, 18 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Scientists discover entire ecosystem hidden under ice of Antarctica",
-      "link": "https://www.france24.com/en/tv-shows/down-to-earth/20260318-scientists-discover-entire-ecosystem-hidden-under-ice-of-antarctica",
-      "description": "An Antarctic mission is shining a light into the depths of the waters of the South Pole. Conservation group Under the Pole have been conducting marine research and raising awareness for almost 20 years. They've recently made some stunning discoveries by diving deep under the ice....",
-      "date": "Wed, 18 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US intel chief Gabbard says Iran was not rebuilding enrichment prior to war",
@@ -385,7 +435,7 @@
     {
       "title": "Qatar says Iran missile attack sparks fire, causes damage at gas facility",
       "link": "https://www.aljazeera.com/news/2026/3/18/qatar-says-iran-missile-attack-sparks-fire-causes-damage-at-gas-facility?traffic_source=rss",
-      "description": "Qatar&#039;s Foreign Ministry strongly condemns attack that caused \"extensive damage\" at the Ras Laffan complex.",
+      "description": "Qatar&#039;s Foreign Ministry strongly condemns attack that caused &#039;extensive damage&#039; at the Ras Laffan complex.",
       "date": "Wed, 18 Mar 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -473,46 +523,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel says it killed Iranian intelligence chief Khatib",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-says-it-killed-iranian-intelligence-chief-khatib?traffic_source=rss",
-      "description": "Israel’s Defence Minister Israel Katz said an overnight strike killed Iran’s Intelligence Minister Esmail Khatib.",
-      "date": "Wed, 18 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran announces arrests, says US and Israel suffering ‘defeats’",
-      "link": "https://www.aljazeera.com/news/2026/3/18/iran-announces-arrests-says-us-and-israel-suffering?traffic_source=rss",
-      "description": "Hundreds have been arrested as Iran cracks down on &#039;traitors&#039; following killing of Larijani, Soleimani.",
-      "date": "Wed, 18 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran holds funerals for officials Larijani and Soleimani",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iran-holds-funerals-for-officials-larijani-and-soleimani?traffic_source=rss",
-      "description": "Iranians have attended funeral processions for senior security officials Ali Larijani and Gholamreza Soleimani.",
-      "date": "Wed, 18 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why did Trump’s counterterrorism chief resign over Iran war?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/why-did-trumps-counterterrorism-chief-resign-over-iran-war?traffic_source=rss",
-      "description": "US counterterrorism chief Joe Kent has resigned over Washington’s war on Iran, saying he cannot support the conflict.",
-      "date": "Wed, 18 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "‘Free France’: Macron reveals name of Europe’s largest warship",
       "link": "https://www.dawn.com/news/1983472/free-france-macron-reveals-name-of-europes-largest-warship",
       "description": "President Emmanuel Macron on Wednesday announced that France’s next nuclear-powered aircraft carrier will be called “France Libre” (Free France), as the country looks to reinforce its status as a major maritime power. Once completed, the warship, which is set to replace the count...",
@@ -543,50 +553,40 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran vows revenge for killing of security chief Ali Larijani by Israel",
-      "link": "https://www.dawn.com/news/1983341/iran-vows-revenge-for-killing-of-security-chief-ali-larijani-by-israel",
-      "description": "Iran vowed on Wednesday a “decisive” retaliation for the death of its security chief Ali Larijani, firing off a wave of missiles at Israel which said it killed him in an air strike. A barrage of Iranian missiles killed two people near Israel’s commercial hub Tel Aviv, while Gulf ...",
-      "date": "Wed, 18 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "PIA suspends flights to UAE’s Fujairah for 2 days in view of ‘security situation’",
-      "link": "https://www.dawn.com/news/1983374/pia-suspends-flights-to-uaes-fujairah-for-2-days-in-view-of-security-situation",
-      "description": "The Pakistan International Airlines (PIA) on Wednesday morning suspended its flights to Fujairah in the United Arab Emirates (UAE) for the next 48 hours in view of the “security situation” as the Middle East war persists. In a statement, the carrier’s spokesperson said that for t...",
-      "date": "Wed, 18 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Dar arrives in Riyadh for meeting of regional FMs",
-      "link": "https://www.dawn.com/news/1983393/dar-arrives-in-riyadh-for-meeting-of-regional-fms",
-      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar arrived in Riyadh on Wednesday for a meeting with the foreign ministers of regional countries, where he will advocate for a “swift end” to the conflict in the Middle East, according to the Foreign Office (FO). The conflict bega...",
-      "date": "Wed, 18 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
-      "link": "https://tass.com/world/1968185",
-      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
-      "date": "Wed, 04 Jun 2025",
+      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
+      "link": "https://tass.com/pressreview/1969589",
+      "description": "Top stories from the Russian press on Friday, June 6th",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
-      "link": "https://tass.com/world/1968163",
-      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
-      "date": "Wed, 04 Jun 2025",
+      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+      "link": "https://tass.com/world/1969663",
+      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+      "date": "Fri, 06 Jun 2025",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
+      "link": "https://tass.com/world/1969613",
+      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
+      "date": "Fri, 06 Jun 2025",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
+      "link": "https://tass.com/world/1969533",
+      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
+      "date": "Thu, 05 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
