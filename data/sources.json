@@ -1,46 +1,11 @@
 {
-  "lastUpdated": "2026-03-18T20:00:00.000Z",
+  "lastUpdated": "2026-03-18T21:53:40.450Z",
   "sources": [
     {
       "id": "dod-centcom",
       "label": "DoD / CENTCOM official releases",
       "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/",
       "category": "us_casualties",
-      "priority": "primary"
-    },
-    {
-      "id": "al-jazeera-tracker",
-      "label": "Al Jazeera live casualty tracker",
-      "url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker",
-      "category": "all_casualties",
-      "priority": "primary"
-    },
-    {
-      "id": "iran-health-ministry",
-      "label": "Iran Health Ministry (via Reuters / AP)",
-      "url": "https://www.reuters.com/world/middle-east/",
-      "category": "iran_civilian_casualties",
-      "priority": "primary"
-    },
-    {
-      "id": "time-us-casualties",
-      "label": "TIME — U.S. service members killed",
-      "url": "https://time.com/article/2026/03/10/us-service-members-killed-iran-war-casualties/",
-      "category": "us_casualties",
-      "priority": "primary"
-    },
-    {
-      "id": "lebanon-health-ministry",
-      "label": "Lebanon Health Ministry (via NPR)",
-      "url": "https://www.npr.org/2026/03/14/nx-s1-5746623/iran-war-cost-deaths",
-      "category": "lebanon_casualties",
-      "priority": "primary"
-    },
-    {
-      "id": "acled",
-      "label": "ACLED — Armed Conflict Location & Event Data",
-      "url": "https://acleddata.com/",
-      "category": "iran_military_casualties",
       "priority": "primary"
     },
     {
@@ -51,23 +16,23 @@
       "priority": "primary"
     },
     {
-      "id": "warcosts",
-      "label": "WarCosts.org — cost & casualty analysis",
-      "url": "https://www.warcosts.org/conflicts/iran-2026",
-      "category": "cost",
-      "priority": "secondary"
+      "id": "unhcr",
+      "label": "UNHCR operational updates",
+      "url": "https://www.unhcr.org/operational-data-and-statistics",
+      "category": "displacement_wounded_context",
+      "priority": "primary"
     },
     {
       "id": "fred-gasregw",
-      "label": "AAA / EIA national gas price",
-      "url": "https://gasprices.aaa.com/",
+      "label": "FRED GASREGW",
+      "url": "https://fred.stlouisfed.org/series/GASREGW",
       "category": "gas_price",
       "priority": "primary"
     },
     {
-      "id": "brent-price",
-      "label": "Brent crude — oilcrudeprice.com",
-      "url": "https://www.oilcrudeprice.com/brent-oil-price-chart/",
+      "id": "yahoo-brent",
+      "label": "Yahoo Finance Brent (BZ=F)",
+      "url": "https://finance.yahoo.com/quote/BZ=F/",
       "category": "oil",
       "priority": "primary"
     }
