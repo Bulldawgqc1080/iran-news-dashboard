@@ -1,7 +1,17 @@
 {
-  "updated": "2026-03-19 12:02 UTC",
+  "updated": "2026-03-19 15:39 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Fear, defiance, and anger: Iranians describe life under bombardment",
+      "link": "https://www.npr.org/2026/03/19/g-s1-114144/iran-voices-war",
+      "description": "In messages to NPR, Tehran residents describe largely deserted streets roamed by paramilitary officials and vigilantes. They say security forces are banning gatherings for Nowruz, the Persian new year, this week.",
+      "date": "Thu, 19 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Israel and Iran attack gas facilities. And, Cesar Chavez accused of sexual abuse, rape",
       "link": "https://www.npr.org/2026/03/19/g-s1-114413/up-first-newsletter-iran-israel-qatar-war-trump-cesar-chavez-faa-safety-policies",
@@ -75,18 +85,8 @@
     {
       "title": "Israel and Iran attack gas facilities in a major escalation that rattles markets",
       "link": "https://www.npr.org/2026/03/19/nx-s1-5753520/iran-israel-gas-field-attacks",
-      "description": "President Trump said that Israel acted alone when it struck the South Pars gas field in Iran. Trump threatened Iran to halt its attacks on Qatar's facilities, or face a \"blow up\" of their South Pars field.",
+      "description": "President Trump said that Israel acted alone when it struck the South Pars gas field in Iran. Trump threatened Iran to halt its attacks on Qatar's facilities or face a \"blow up\" at South Pars.",
       "date": "Thu, 19 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Iran war hinders the flow of U.N. aid through the Gulf to communities in need",
-      "link": "https://www.npr.org/2026/03/18/nx-s1-5750504/iran-war-hinders-the-flow-of-u-n-aid-through-the-gulf-to-communities-in-need",
-      "description": "It's not just oil tankers stranded near the Strait of Hormuz. U.N. aid shipments are also hindered by the war in Iran.",
-      "date": "Wed, 18 Mar 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -96,6 +96,16 @@
       "title": "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again",
       "link": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss",
       "description": "The attacks led to a spike of more than 25% in gas prices in Europe on Thursday.",
+      "date": "Thu, 19 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Three Palestinian women killed in beauty salon during Iranian missile attack",
+      "link": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
+      "description": "Others were injured when the salon in the southern West Bank was hit, while a Thai worker was killed by falling shrapnel in Israel.",
       "date": "Thu, 19 Mar 2026",
       "source": "BBC",
       "region": "eu",
@@ -233,11 +243,61 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
-      "link": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
-      "description": "The echoes between the conflicts are certainly there but there are also profound differences.",
-      "date": "Fri, 13 Mar 2026",
-      "source": "BBC",
+      "title": "Middle East war escalates after attack on key Iranian gas field",
+      "link": "https://www.france24.com/en/video/20260319-middle-east-war-escalates-after-attack-on-key-iranian-gas-field",
+      "description": "#Israel hit Iranian's pat of the South Pars #gas field, the world's largest offshore reservoir #Tehran shares with #Doha. In retaliation for the strikes, #Iran ramped up its attacks on Gulf countries' energy infrastructures, sending #oil prices soaring.",
+      "date": "Thu, 19 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Steven Everts: For Europeans, war on Iran 'a diversion' and 'giant gift to Putin'",
+      "link": "https://www.france24.com/en/steven-everts-for-europeans-war-on-iran-a-diversion-and-giant-gift-to-putin",
+      "description": "Genie Godula is pleased to welcome Steven Everts, Director of European Union Institute for Security Studies (EUISS). According to Mr. Everts, the current conflict is an unnecessary war defined by cycles of retaliation that risk expanding beyond their original scope, with serious ...",
+      "date": "Thu, 19 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "REPLAY: Pentagon press conference on war in Middle East",
+      "link": "https://www.france24.com/en/video/20260319-replay-pentagon-press-conference-on-war-in-middle-east",
+      "description": "US Defense Secretary Pete Hegseth said Thursday there is no \"time frame\" for ending the US-Israeli war against Iran, which was launched three weeks ago. \"We wouldn't want to set a definitive time frame,\" Hegseth told a news conference, adding that \"we're very much on track\" and t...",
+      "date": "Thu, 19 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Energy prices soar, Iran and US trade threats after Qatar gas hit",
+      "link": "https://www.france24.com/en/video/20260319-energy-prices-soar-iran-and-us-trade-threats-after-qatar-gas-hit",
+      "description": "Oil and gas prices soared Thursday after Iran hit the world's largest liquefied natural gas (LNG) facility in Qatar and threatened to destroy the region's energy infrastructure. Donald Trump, whose country started the war alongside Israel with their attack on Iran on February 28,...",
+      "date": "Thu, 19 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war exposes Gulf economies' food, water vulnerability",
+      "link": "https://www.france24.com/en/tv-shows/people-profit/20260319-iran-war-exposes-gulf-economies-food-water-vulnerability",
+      "description": "The spiralling conflict in Iran has highlighted the potential vulnerability of Gulf states when it comes to food and water security. Countries like Bahrain and Qatar depend heavily on desalinated water, and strikes on desalination plants have sparked concern about water supplies....",
+      "date": "Thu, 19 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Millions of children out of school: Yemen's education system on its knees",
+      "link": "https://www.france24.com/en/tv-shows/focus/20260319-millions-of-children-out-of-school-yemen-s-education-system-on-its-knees",
+      "description": "Since 2015 and the outbreak of war between the Houthis, who control the north of Yemen, and the internationally recognised government in the south, the country's education system has been steadily collapsing. According to UNICEF, nearly 4 million Yemeni children are currently out...",
+      "date": "Thu, 19 Mar 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -323,34 +383,94 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Will the Jalisco cartel's new US-born leader complicate Trump's war on drugs?",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260319-will-the-jalisco-cartel-s-new-us-born-leader-complicate-trump-s-war-on-drugs",
-      "description": "PRESS REVIEW – Thursday, March 19: We look at why Russian oil is the big winner from the US and Israel's war in Iran. Also, the New York Times reveals sexual assault and rape allegations against the late US civil rights leader Cesar Chavez. In Mexico, the new leader of the Jalisc...",
+      "title": "Child among survivors pulled from rubble of US-Israeli attack in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/child-among-survivors-pulled-from-rubble-of-us-israeli-attack-in-iran?traffic_source=rss",
+      "description": "Video from Iran’s Red Crescent showed a child among survivors pulled from the wreckage of a US-Israeli air attack.",
       "date": "Thu, 19 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Ayman Mhanna: 'Lebanon has become the theatre for a war between Israel and Iran'",
-      "link": "https://www.france24.com/en/ayman-mhanna-lebanon-has-become-the-theatre-for-a-war-between-israel-and-iran",
-      "description": "Nadia Massih is pleased to welcome Ayman Mhanna, Executive Director of the Beirut-based Samir Kassir Foundation. The war between Iran and Israel is unfolding in Lebanese territory. While Lebanon demonstrates notable competence in distributing humanitarian aid, coordinating with i...",
+      "title": "China’s silence on Iran reveals its true priorities",
+      "link": "https://www.aljazeera.com/opinions/2026/3/19/chinas-silence-on-iran-reveals-its-true-priorities?traffic_source=rss",
+      "description": "Beijing&#039;s muted response shows that when core interests are at stake, even close partners are expendable.",
       "date": "Thu, 19 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Middle East War live: Oil and gas prices soar as Iran intensifies strikes on Gulf energy plants",
-      "link": "https://www.france24.com/en/middle-east/20260319-live-trump-threatens-to-blow-up-major-iran-gas-field-if-strikes-on-gulf-energy-sites-continue",
-      "description": "Oil and gas prices surged on Thursday after Iran intensified its attacks on the energy infrastructure of its Gulf Arab neighbours, raising further concerns over supply. Both Saudi Arabia and Kuwait reported drone strikes on oil refineries as Qatar said firefighters had put out a ...",
+      "title": "Why are Iran’s South Pars gasfield, Qatar’s Ras Laffan, so significant?",
+      "link": "https://www.aljazeera.com/economy/2026/3/19/why-are-irans-south-pars-gasfield-qatars-ras-laffan-so-significant?traffic_source=rss",
+      "description": "Israel&#039;s strike on South Pars and Iran&#039;s attack on Ras Laffan escalate energy crisis, deepen regional tensions.",
       "date": "Thu, 19 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Video: Why Iran’s attack on Qatar’s gas fields matters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/video-why-irans-attack-on-qatars-gas-fields-matters?traffic_source=rss",
+      "description": "Gas prices have spiked after Israel’s attack on Iran’s main gas field prompted Iran to attack Qatari gas facilities.",
+      "date": "Thu, 19 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "The US–Israel war with Iran will not end with a clear victor",
+      "link": "https://www.aljazeera.com/opinions/2026/3/19/the-us-israel-war-with-iran-will-not-end-with-a-clear?traffic_source=rss",
+      "description": "An arrangement that allows each side to claim it achieved its core goals is the most likely path out.",
+      "date": "Thu, 19 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s dilemma in war and peace",
+      "link": "https://www.aljazeera.com/opinions/2026/3/19/irans-dilemma-in-war-and-peace?traffic_source=rss",
+      "description": "Iran’s regional ambitions are increasingly constrained by military limits, economic pressure, and internal fragility.",
+      "date": "Thu, 19 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Could Iran war trigger the next global food shock?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/19/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss",
+      "description": "From factories to supermarket shelves, the Iran war is disrupting global supply chains.",
+      "date": "Thu, 19 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Conflict shifts to ‘energy war’ as Iran targets Gulf oil and gas",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/conflict-shifts-to-energy-war-as-iran-targets-gulf-oil-and-gas?traffic_source=rss",
+      "description": "Following Israel’s South Pars strike, Iran has targeted Gulf energy sites to pressure an end to the conflict.",
+      "date": "Thu, 19 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What did Arab and Muslim ministers discuss in Riyadh meeting on Iran?",
+      "link": "https://www.aljazeera.com/news/2026/3/19/what-did-arab-and-muslim-ministers-discuss-in-riyadh-meeting-on-iran?traffic_source=rss",
+      "description": "Foreign ministers formulate a unified response to Iranian strikes, asserting their right to self-defence.",
+      "date": "Thu, 19 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Are Iran’s athletes political pawns?",
@@ -413,194 +533,74 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war: What’s the Jones Act, and why has Trump suspended it for 60 days?",
-      "link": "https://www.aljazeera.com/economy/2026/3/19/iran-war-whats-the-jones-act-and-why-has-trump-suspended-it-for-60-days?traffic_source=rss",
-      "description": "The move allows foreign-flagged vessels to transport goods between US ports for the next 60 days.",
+      "title": "Ministerial meeting calls on Iran to ‘immediately and unconditionally’ halt attacks in Gulf",
+      "link": "https://www.dawn.com/news/1983661/ministerial-meeting-calls-on-iran-to-immediately-and-unconditionally-halt-attacks-in-gulf",
+      "description": "A ministerial meeting, hosted by Saudi Arabia, called on Iran to “immediately and unconditionally” halt attacks against Gulf countries in the ongoing conflict in the Middle East, the Saudi Arabian Foreign Ministry said on Thursday. The conflict began with US-Israeli strikes on Ir...",
       "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "US weighs sending thousands of troops to region as Iran war rages: Report",
-      "link": "https://www.aljazeera.com/news/2026/3/19/us-weighs-sending-thousands-of-troops-to-region-as-iran-war-rages-report?traffic_source=rss",
-      "description": "The deployments could help provide Trump with additional options but would further entrench US in a foreign war.",
+      "title": "‘Baseless characterisation’: FO rejects remarks by Israel’s ambassador to India",
+      "link": "https://www.dawn.com/news/1983748/baseless-characterisation-fo-rejects-remarks-by-israels-ambassador-to-india",
+      "description": "The Foreign Office (FO) on Thursday issued a statement rejecting the comments made by Israel’s ambassador to India, calling them a “baseless characterisation”. The FO statement referred to a video clip of the Israeli ambassador circulating on social media and said: “We firmly rej...",
       "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "War enters new phase as Israel attack on Iran gasfield sparks Gulf response",
-      "link": "https://www.aljazeera.com/news/2026/3/19/wrap-iran-ratchets-up-pressure-on-gulf-states?traffic_source=rss",
-      "description": "Saudis have warned of &#039;military actions, if necessary&#039;, but Gulf states in &#039;diplomatic bind&#039; as they mull response.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump attempts to distance US from Israeli strikes on key Iranian gasfield",
-      "link": "https://www.aljazeera.com/news/2026/3/19/trump-attempts-to-distance-us-from-israeli-strikes-on-key-iranian-gasfield?traffic_source=rss",
-      "description": "Questions raised over US knowledge of Israeli plans to attack key Iranian gasfield as energy sites become targets.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What is happening on day 20 of US-Israel attacks?",
-      "link": "https://www.aljazeera.com/news/2026/3/19/iran-war-what-is-happening-on-day-20-of-us-israel-attacks?traffic_source=rss",
-      "description": "The Iran war enters day 20 as Israeli and Iranian attacks hit energy infrastructure across region.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran executes three convicted of killing police in recent pre-war unrest",
-      "link": "https://www.aljazeera.com/news/2026/3/19/iran-executes-three-convicted-of-killing-police-in-recent-pre-war-unrest?traffic_source=rss",
-      "description": "Those executed were allegedly involved in the killing of two law enforcement personnel.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Attacks on GCC show ‘IRGC don’t think, they just push a button’",
-      "link": "https://www.aljazeera.com/video/quotable/2026/3/19/attacks-on-gcc-show-irgc-dont-think-they-just-push-a-button?traffic_source=rss",
-      "description": "Khaled Batarfi, a Saudi political analyst, says Iran’s attacks on the GCC are irrational and create anger.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Asia’s stock markets dive after attacks on energy facilities in Qatar, Iran",
-      "link": "https://www.aljazeera.com/economy/2026/3/19/asias-stock-markets-dive-after-attacks-on-energy-facilities-in-qatar-iran?traffic_source=rss",
-      "description": "Stocks tumble as attacks by Israel, Iran on critical energy infrastructure exacerbate fears for global energy supplies.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Tehran rescue workers pull survivors from rubble",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/tehran-rescue-workers-pull-survivors-from-rubble?traffic_source=rss",
-      "description": "Video released by Iran&#039;s Red Crescent shows emergency services rescuing survivors of US-Israeli strikes on Tehran.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Russia to continue to supply energy to its partners despite sanctions — energy ministry",
-      "link": "https://tass.com/economy/2104079",
-      "description": "Sanctions are an unconstructive and illegal tool that only harms consumers and the global market as a whole, Pavel Sorokin said",
-      "date": "Thu, 19 Mar 2026",
+      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
+      "link": "https://tass.com/pressreview/1969589",
+      "description": "Top stories from the Russian press on Friday, June 6th",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Rosatom plans evacuation of employees from Bushehr NPP as soon as situation permits — CEO",
-      "link": "https://tass.com/economy/2104051",
-      "description": "\"A route has been developed through Armenia,\" Alexey Likhachev said",
-      "date": "Thu, 19 Mar 2026",
+      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+      "link": "https://tass.com/world/1969663",
+      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "National leaders must do everything possible to prevent attacks on Bushehr NPP — Rosatom",
-      "link": "https://tass.com/politics/2104045",
-      "description": "\"If an incident occurs, it will be at least regional in scope and will affect a large number of countries in the Middle East,\" Rosatom CEO Alexey Likhachev warned",
-      "date": "Thu, 19 Mar 2026",
+      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
+      "link": "https://tass.com/world/1969613",
+      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Iran to keep responding to attacks on its energy facilities — TV",
-      "link": "https://tass.com/world/2104015",
-      "description": "The army also warned that if the attacks are repeated, the response would be much tougher",
-      "date": "Thu, 19 Mar 2026",
+      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
+      "link": "https://tass.com/world/1969533",
+      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
+      "date": "Thu, 05 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Press review: Canada-EU monitor Russian tankers as Gaza talks resume amid Iran conflict",
-      "link": "https://tass.com/pressreview/2103857",
-      "description": "Top stories from the Russian press on Thursday, March 19th",
-      "date": "Thu, 19 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
+      "title": "DPRK slams U.S. for orchestrating efforts to tighten financial sanctions against Pyongyang",
+      "link": "http://news.xinhuanet.com/english/2017-03/30/c_136171059.htm",
+      "description": "The Democratic People's Republic of Korea (DPRK) has slammed the United States for orchestrating efforts to tighten financial sanctions against Pyongyang.",
+      "date": "2017-03-30",
+      "source": "Xinhua",
+      "region": "cn",
       "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Oil at $113 and strikes on energy facilities: Middle East conflict",
-      "link": "https://tass.com/world/2103915",
-      "description": "The American and British military are jointly exploring the issue of resuming shipping in the Strait of Hormuz, CBS reported, citing sources",
-      "date": "Thu, 19 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US wants to require ships in Strait of Hormuz to purchase its insurance — FT",
-      "link": "https://tass.com/economy/2103913",
-      "description": "Experts admit that significant uncertainty remains about whether US President Donald Trump’s promised naval protection is realistic",
-      "date": "Thu, 19 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran wants UAE compensation for US strikes from Emirati soil — UN envoy",
-      "link": "https://tass.com/world/2103899",
-      "description": "\"The unlawful actions of the United Arab Emirates in the international arena have led to responsibility under international law and require restitution for damage,\" Iran’s permanent representative to the United Nations Amir-Saeid Iravani stated",
-      "date": "Thu, 19 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran preparing for a long war as it wants assurances from US, Israel — FT",
-      "link": "https://tass.com/world/2103887",
-      "description": "Tehran seeks to make sure its foes pay a sufficient price so that they think twice before resuming strikes, sources said",
-      "date": "Thu, 19 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Dmitriev calls strike on Iran’s South Pars gas field tipping point",
-      "link": "https://tass.com/politics/2103883",
-      "description": "According to US President Donald Trump, only a small portion of the field’s facilities were damaged",
-      "date": "Thu, 19 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
+      "bias": "High"
     }
   ]
 }
