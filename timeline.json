@@ -1,25 +1,26 @@
 {
-  "updated": "2026-03-20 10:02 UTC",
+  "updated": "2026-03-20 11:57 UTC",
   "total": 8,
   "events": [
     {
       "date": "2026-03-20",
       "dateDisplay": "Mar 20, 2026",
-      "title": "Palestinians bury four women killed in Iranian missile attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinians-bury-four-women-killed-in-iranian-missile-attack?traffic_source=rss",
+      "title": "Iran hits Kuwaiti oil refinery as attacks on oil infrastructure continue",
+      "link": "https://www.france24.com/en/video/20260320-iran-hits-kuwaiti-oil-refinery-as-attacks-on-oil-infrastructure-continue",
       "sources": [
-        "Al Jazeera"
+        "Al Jazeera",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-03-19",
       "dateDisplay": "Mar 19, 2026",
-      "title": "Netanyahu seeks to appease Trump with latest Iran remarks to the press",
-      "link": "https://www.france24.com/en/netanyahu-seeks-to-appease-trump-with-latest-iran-remarks-to-the-press",
+      "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+      "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
