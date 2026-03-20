@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20 05:07 UTC",
+  "updated": "2026-03-20 07:58 UTC",
   "total": 60,
   "stories": [
     {
@@ -63,20 +63,20 @@
       "bias": "Low"
     },
     {
-      "title": "Japan's PM to visit Trump as president continues pleas for help with Strait of Hormuz",
-      "link": "https://www.npr.org/2026/03/19/nx-s1-5749411/japans-pm-to-visit-trump-as-president-continues-pleas-for-help-with-strait-of-hormuz",
-      "description": "As Japan's Prime Minister Sanae Takaichi prepares for her first White House visit, President Donald Trump calls for Japan and other allies to send warships to the Strait of Hormuz.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
       "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
       "description": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
       "date": "Thu, 19 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iranians prepare for Persian new year under shadow of war",
+      "link": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss",
+      "description": "Iranians speak to the BBC about preparing for the Nowruz new year festival during the war.",
+      "date": "Fri, 20 Mar 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -163,26 +163,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel says 'limited' ground operations under way in Lebanon",
-      "link": "https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&at_campaign=rss",
-      "description": "Troops are targeting \"Hezbollah strongholds\" in south Lebanon, where strikes reportedly killed nine people on Monday.",
-      "date": "Tue, 17 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "How might the UK support shipping in the Strait of Hormuz?",
-      "link": "https://www.bbc.com/news/videos/cvgj29dgrxwo?at_medium=RSS&at_campaign=rss",
-      "description": "Ben Chu from BBC Verify has been looking at what role the Royal Navy could play in the Strait of Hormuz.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "What Iranians are being told about the war",
       "link": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
       "description": "Iranian state media's coverage of the war includes inflations of enemy casualties and digital manipulation intended to glorify Iran.",
@@ -223,9 +203,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Israel strikes Tehran on Persian New Year as war rattles energy markets",
+      "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
+      "link": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
+      "description": "Israeli leaders are framing the bombing campaign as having transformed the Middle East in their favour as pressure to end the conflict builds.",
+      "date": "Fri, 13 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Iran drone sparks fires at Kuwait refinery as Israel strikes Tehran on Nowruz",
       "link": "https://www.france24.com/en/middle-east/20260320-middle-east-war-live-israel-strikes-tehran-persian-new-year-energy-markets",
-      "description": "srael pounded Tehran with airstrikes Friday as Iranians marked Nowruz, or the Persian New Year, in the midst of a war that has sent shock waves through the global economy and risked drawing Iran’s Arab neighbors directly into the conflict. Follow our live blog for the latest deve...",
+      "description": "An Iranian drone attack hit Kuwait’s Mina al-Ahmadi oil refinery on Friday, causing several fires but no casualties, state media said, adding that the attack had “shut down” some refinery units. The attack came as Israel pounded Tehran with air strikes as Iranians marked Nowruz a...",
       "date": "Fri, 20 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -333,24 +323,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Six nations say ready to boost 'efforts to ensure safe passage' in Hormuz",
-      "link": "https://www.france24.com/en/video/20260319-six-nations-say-ready-to-boost-efforts-to-ensure-safe-passage-in-hormuz",
-      "description": "Six Western allies, including Britain, France, Germany and Japan, said in a joint statement Thursday they were ready \"to contribute to appropriate efforts to ensure safe passage through the Strait of Hormuz\". The statement came as around 20,000 seafarers remained stuck on approxi...",
-      "date": "Thu, 19 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war: What is happening on day 21 of US-Israel attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/20/iran-war-what-is-happening-on-day-21-of-us-israel-attacks?traffic_source=rss",
+      "description": "Tehran has warned of zero restraint if energy facilities are attacked again, while Netanyahu points to ground operation.",
+      "date": "Fri, 20 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "'Not our war': Palestinians mourn first dead after Iran missile fire",
-      "link": "https://www.france24.com/en/video/20260319-not-our-war-palestinians-mourn-first-dead-after-iran-missile-fire",
-      "description": "The blast struck without warning in the Palestinian town of Beit Awa, sending a hail of missile fragments through a beauty salon and killing four women inside. In the Israeli-occupied West Bank, the first Palestinian deaths in the Middle East war have sharpened a sense of helples...",
-      "date": "Thu, 19 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran women’s football team feted in Tehran after asylum battle at Asian Cup",
+      "link": "https://www.aljazeera.com/sports/2026/3/20/iran-womens-football-team-feted-in-tehran-after-asylum-battle-at-asian-cup?traffic_source=rss",
+      "description": "Iran’s national football team returned to their war-torn nation after several of the players sought asylum in Australia.",
+      "date": "Fri, 20 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian football players celebrated in Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iranian-football-players-celebrated-in-tehran?traffic_source=rss",
+      "description": "Iran’s national women’s football team has been given a hero’s welcome home, weeks after they were thrust into a crisis.",
+      "date": "Fri, 20 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran footballer Azmoun kicked off national team for disloyalty, say reports",
+      "link": "https://www.aljazeera.com/sports/2026/3/20/iran-footballer-azmoun-kicked-off-national-team-for-disloyalty-say-reports?traffic_source=rss",
+      "description": "Reports say Sardar Azmoun, who plays for UAE club Shabab Al-Ahli, was expelled for Instagram post with Dubai&#039;s ‌ruler.",
+      "date": "Fri, 20 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Unpacking Netanyahu’s latest claims about the war on Iran",
@@ -433,64 +443,44 @@
       "bias": "Medium"
     },
     {
-      "title": "How will Israel’s decades-long assassination policy continue?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/19/how-will-israels-decades-long-assassination-policy-continue?traffic_source=rss",
-      "description": "Senior Iranian figures have been targeted and killed since the start of the US-Israeli war on Iran.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "US bombs Iranian mine-laying vessels to disrupt Strait of Hormuz blockade",
+      "link": "https://tass.com/world/2104495",
+      "description": "Aircraft, including A-10 attack jets, are used to target mine-laying ships",
+      "date": "Fri, 20 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "US F-35 aircraft makes emergency landing after a combat mission over Iran",
-      "link": "https://www.aljazeera.com/news/2026/3/19/us-f-35-aircraft-makes-emergency-landing-after-a-combat-mission-over-iran?traffic_source=rss",
-      "description": "The F-35 fighter jet landed safely and the pilot is in stable condition, CENTCOM spokesman Captain Tim Hawkins said.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Iran attacks central Israel, explosion heard near Tel Aviv",
+      "link": "https://tass.com/world/2104471",
+      "description": "The alerts followed a military warning about new missile strikes from Iran",
+      "date": "Fri, 20 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Trump compares Iran strikes to Pearl Harbor as he meets Japan’s PM",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/trump-compares-iran-strikes-to-pearl-harbor-as-he-meets-japans-pm?traffic_source=rss",
-      "description": "Donald Trump stunned Japan’s Prime Minister Sanae Takaichi when he compared strikes on Iran to Pearl Harbor.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "End of Middle East conflict hinges on US political will — UN chief",
+      "link": "https://tass.com/world/2104461",
+      "description": "Antonio Guterres added that Iran has a strategy, which is to resist for as much time as possible and to cause as much harm as possible",
+      "date": "Fri, 20 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "US approves $16.5bn arms deal to Gulf states amid rising Iran tensions",
-      "link": "https://www.aljazeera.com/economy/2026/3/19/us-approves-16-5bn-arms-deal-to-gulf-states-amid-rising-iran-tensions?traffic_source=rss",
-      "description": "The proposed deal includes the sale of drones, missiles and radars for Gulf allies, including UAE, Kuwait and Jordan.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why the US Homeland Security shutdown is raising fears of airport delays",
-      "link": "https://www.aljazeera.com/economy/2026/3/19/why-the-us-homeland-security-shutdown-is-raising-fears-of-airport-delays?traffic_source=rss",
-      "description": "Hundreds of TSA workers have resigned over unpaid wages, as Congress weighs funding the Department of Homeland Security.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iranians shop for Persian New Year essentials despite war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iranians-shop-for-persian-new-year-essentials-despite-war?traffic_source=rss",
-      "description": "Iranians are shopping for essentials to celebrate the beginning of the Persian New Year, Nowruz, despite the war.",
-      "date": "Thu, 19 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "US-Iran deal still possible — ex-head of US counterterrorism center",
+      "link": "https://tass.com/world/2104459",
+      "description": "According to Joe Kent, statements by the US administration regarding the possibility of exempting Iranian oil from sanctions may indicate Washington’s willingness to end the conflict",
+      "date": "Fri, 20 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iranian forces hit US Al Dhafra base in UAE — state broadcaster",
@@ -601,6 +591,16 @@
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
+    },
+    {
+      "title": "DPRK slams U.S. for orchestrating efforts to tighten financial sanctions against Pyongyang",
+      "link": "http://news.xinhuanet.com/english/2017-03/30/c_136171059.htm",
+      "description": "The Democratic People's Republic of Korea (DPRK) has slammed the United States for orchestrating efforts to tighten financial sanctions against Pyongyang.",
+      "date": "2017-03-30",
+      "source": "Xinhua",
+      "region": "cn",
+      "color": "#cc4444",
+      "bias": "High"
     }
   ]
 }
