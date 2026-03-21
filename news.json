@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21 04:53 UTC",
+  "updated": "2026-03-21 07:10 UTC",
   "total": 60,
   "stories": [
     {
@@ -45,7 +45,7 @@
     {
       "title": "Trump says he mulls 'winding down' the Iran war, even as more Marines head to Mideast",
       "link": "https://www.npr.org/2026/03/20/nx-s1-5754550/israel-strikes-tehran-iran-attacks-gulf",
-      "description": "The USS Boxer group of three ships, carrying thousands of Marines from the 11the Marine Expeditionary Unit, has left California and will reach the Persian Gulf in about three weeks, NPR has confirmed.",
+      "description": "The USS Boxer, carrying thousands of Marines, has left California and will reach the Persian Gulf in about three weeks. This, as the energy crisis pushes the Trump administration to lift sanctions on Iranian oil stranded at sea.",
       "date": "Fri, 20 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -213,6 +213,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Streamlining the kill chain: how AI is changing modern warfare",
+      "link": "https://www.france24.com/en/middle-east/20260321-streamlining-the-kill-chain-how-ai-is-changing-modern-warfare-iran",
+      "description": "The US-Israeli war with Iran has put AI use in defence systems in the spotlight like never before. AI's exact role in the military, its accuracy and possible repercussions are slowly beginning to emerge – but the extent of its use and role in the war so far still largely remain a...",
+      "date": "Sat, 21 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Trump mulls 'winding down' Iran war as US sends thousands more marines",
+      "link": "https://www.france24.com/en/middle-east/20260321-middle-east-war-live-trump-mulls-winding-down-iran-war-as-us-sends-thousands-more-marines",
+      "description": "US President Donald Trump suggested Friday he was considering “winding down” military operations against Iran even as US media reported Washington was sending three more amphibious assault ships and roughly 2,500 additional marines to the region. Israel continued to hit Tehran an...",
+      "date": "Sat, 21 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran strikes gulf oil, gas sites as war jolts energy markets, what cost for South Africa ?",
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260320-iran-strikes-gulf-oil-gas-sites-as-war-jolts-energy-markets-what-cost-for-south-africa",
       "description": "As tensions continue in the Middle East, the economic fallout is being felt far beyond the region. In South Africa, officials are warning that the ongoing conflict between the United States, Israel and Iran could come at a steep cost. Our South African correspondent speaks to pol...",
@@ -296,16 +316,6 @@
       "title": "Japan's PM walks tightrope in high-stakes Washington visit",
       "link": "https://www.france24.com/en/tv-shows/access-asia/20260320-japan-s-pm-walks-tightrope-in-high-stakes-washington-visit",
       "description": "Japanese Prime Minister Sanae Takaichi travelled to Washington hoping to strengthen ties with the United States. The visit turned into a delicate balancing act amid US President Donald Trump's growing pressure on allies to help the US in the Iran war. Yuka Royer discusses the vis...",
-      "date": "Fri, 20 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'Not our war': Palestinians caught in the crossfire of Middle East war",
-      "link": "https://www.france24.com/en/video/20260320-not-our-war-palestinians-caught-in-the-crossfire-of-middle-east-war",
-      "description": "Four women were killed in the occupied #WestBank following missile fire from #Iran - the first Palestinian victims of the Middle East #war since it started on February 28. For Palestinians, it is yet another conflict they find themselves caught up in, with little protection.",
       "date": "Fri, 20 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -453,14 +463,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran’s Khamenei says enemy ‘defeated’ in written Nowruz message",
-      "link": "https://www.aljazeera.com/news/2026/3/20/irans-khamenei-says-enemy-defeated-in-written-nowruz-message?traffic_source=rss",
-      "description": "Iran’s supreme leader, president send conciliatory message to countries in the region as they mark the new year.",
-      "date": "Fri, 20 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Central Israel comes under new missile fire from Iran, explosions heard in Tel Aviv area",
+      "link": "https://tass.com/world/2105093",
+      "description": "An air alert was declared in many areas of the center of the country, with sirens sounding, including in Tel Aviv and its suburbs, a TASS correspondent reported",
+      "date": "Sat, 21 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Ship disguised as broken vessel passed through Strait of Hormuz — agency",
+      "link": "https://tass.com/world/2105089",
+      "description": "According to its information, the Jamal first appeared on radar on March 13 in the Gulf of Oman, with its previous location remaining unknown",
+      "date": "Sat, 21 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UN could help resolve shipping issue in Strait of Hormuz — Secretary-General",
+      "link": "https://tass.com/world/2105081",
+      "description": "The Islamic Revolutionary Guard Corps announced a retaliatory operation, targeting sites in Israel. US military bases in Bahrain, Jordan, Kuwait, Qatar, Saudi Arabia and the UAE were also hit",
+      "date": "Sat, 21 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran ready to allow Japanese ships to pass through Strait of Hormuz — foreign minister",
@@ -567,36 +597,6 @@
       "link": "https://tass.com/world/2105021",
       "description": "Abbas Araghchi says the leaders of Muslim states \"should clearly express their rejection of aggression not just in word, but in action\"",
       "date": "Sat, 21 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Over 230 US service members wounded since start of Iran conflict — media",
-      "link": "https://tass.com/world/2105013",
-      "description": "According to a US official cited by ABC News, most of them sustained traumatic brain injuries",
-      "date": "Fri, 20 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel conducts two waves of attacks on military targets in Iran",
-      "link": "https://tass.com/world/2104995",
-      "description": "Among the targets were \"several factories and sites used by the Iranian regime to produce weapons intended to harm the State of Israel and other countries\" and sites holding components for long-range ballistic missiles",
-      "date": "Fri, 20 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Hezbollah fires ten missile at Karmiel in northern Israel",
-      "link": "https://tass.com/world/2104987",
-      "description": "Another Hezbollah target was an Israeli army camp in the settlement of Rosh Pinna in Upper Galilee",
-      "date": "Fri, 20 Mar 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
