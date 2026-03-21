@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21 13:54 UTC",
+  "updated": "2026-03-21 14:55 UTC",
   "total": 60,
   "stories": [
     {
@@ -14,8 +14,8 @@
     },
     {
       "title": "Iran's cultural heritage sites are being damaged by American and Israeli strikes",
-      "link": "https://www.npr.org/2026/03/20/nx-s1-5748554/irans-cultural-heritage-sites-are-being-damaged-by-american-and-israeli-strikes",
-      "description": "The cost of the joint U.S.-Israeli strikes on Iran are mounting in terms of civilian deaths and damage to Iran's most famous cultural heritage sites.",
+      "link": "https://www.npr.org/2026/03/19/nx-s1-5748554/iran-cultural-heritage-damage-war-isfahan",
+      "description": "The costs of the joint U.S. and Israeli strikes on Iran are mounting in terms of civilian deaths and damage to some of Iran's most famous and beloved cultural heritage sites.",
       "date": "Fri, 20 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -46,16 +46,6 @@
       "title": "Global oil and energy prices are reeling as the war in the Middle East escalates",
       "link": "https://www.npr.org/2026/03/20/nx-s1-5753773/global-oil-and-energy-prices-are-reeling-as-the-war-in-the-middle-east-escalates",
       "description": "Israel and Iran continue to exchange airstrikes with a focus on energy infrastructure. President Trump says Israel acted alone in striking a key gas field and better not do it again.",
-      "date": "Fri, 20 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump says he mulls 'winding down' the Iran war, even as more Marines head to Mideast",
-      "link": "https://www.npr.org/2026/03/20/nx-s1-5754550/israel-strikes-tehran-iran-attacks-gulf",
-      "description": "The USS Boxer, carrying thousands of Marines, has left California and will reach the Persian Gulf in about three weeks. This, as the energy crisis pushes the Trump administration to lift sanctions on Iranian oil stranded at sea.",
       "date": "Fri, 20 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -213,9 +203,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Washington sends conflictings signales as war rages on in the Middle East",
+      "title": "Washington sends conflicting signals as war rages on in the Middle East",
       "link": "https://www.france24.com/en/washington-sends-conflictings-signales-as-war-rages-on-in-the-middle-east",
-      "description": "Ali Vaez, Director of Iran Project & Senior Advisor at the International Crisis Group, is our guest.",
+      "description": "As the Iran conflict enters its fourth week, strikes on nuclear sites and a reported attack on a US-UK base signal further escalation. With no clear exit in sight, fears are mounting of wider instability and humanitarian fallout. “The attack on Diego Garcia is an escalation… it’s...",
       "date": "Sat, 21 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -291,6 +281,26 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian woman’s video of US-Israel attack ends as bomb hits",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss",
+      "description": "The fate is an Iranian woman caught in a US-Israeli bomb attack is unknown, after video emerged of her filming it.",
+      "date": "Sat, 21 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss",
+      "description": "US president&#039;s reference to Japan&#039;s 1941 attack has shaken Japanese as PM Takaichi&#039;s silence gets mixed reaction.",
+      "date": "Sat, 21 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran says US and Israel attacked Natanz nuclear facility",
@@ -393,16 +403,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran’s Supreme Leader Khamenei says enemy ‘defeated’ in message",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss",
-      "description": "Supreme Leader Mojtaba Khamenei has released a message for the Persian New Year.",
-      "date": "Fri, 20 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Trump says considering ‘winding down’ Iran war but rules out ceasefire",
       "link": "https://www.dawn.com/news/1984191/trump-says-considering-winding-down-iran-war-but-rules-out-ceasefire",
       "description": "President Donald Trump said Friday that the United States was considering “winding down” military operations against Iran but was not seeking a ceasefire with the Islamic Republic. Iran’s new Supreme Leader Mojtaba Khamenei meanwhile, claimed in a message to mark the first day of...",
@@ -441,6 +441,16 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Israel carries out strikes on missile production facilities in Tehran — army statement",
+      "link": "https://tass.com/world/2105147",
+      "description": "According to the IDF, dozens of targets were hit, including a central compound of Iran’s Islamic Revolutionary Guard Corps",
+      "date": "Sat, 21 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Consequences of US-Israeli aggression against Iran to last for long time — Lavrov",
@@ -576,16 +586,6 @@
       "title": "Capitalization of global airlines loses $53 bln due to situation around Iran — FT",
       "link": "https://tass.com/economy/2105063",
       "description": "The article says that investors expect the share price decrease to continue",
-      "date": "Sat, 21 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to secure access to global markets for 140 mln barrels of Iranian oil",
-      "link": "https://tass.com/world/2105059",
-      "description": "Treasury Secretary Scott Bessent says that the general license will help to relieve the temporary pressures on markets caused by Iran",
       "date": "Sat, 21 Mar 2026",
       "source": "TASS",
       "region": "ru",
