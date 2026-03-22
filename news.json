@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22 05:11 UTC",
+  "updated": "2026-03-22 07:51 UTC",
   "total": 60,
   "stories": [
     {
@@ -53,10 +53,10 @@
       "bias": "Low"
     },
     {
-      "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
       "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-      "description": "The chief of the International Atomic Energy Agency called for \"maximum military restraint\" following the strikes.",
-      "date": "Sat, 21 Mar 2026",
+      "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+      "date": "Sun, 22 Mar 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -67,6 +67,16 @@
       "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
       "description": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
       "date": "Sun, 22 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Why there's no sign of the conflict in the Middle East 'winding down'",
+      "link": "https://www.bbc.com/news/videos/cwywlv9ked0o?at_medium=RSS&at_campaign=rss",
+      "description": "Iran's foreign minister said that it doesn't appear that the US is prepared to halt its aggression after President Trump said the US was considering \"winding down\" its war.",
+      "date": "Sat, 21 Mar 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -193,11 +203,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "What Iranians are being told about the war",
-      "link": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
-      "description": "Iranian state media's coverage of the war includes inflations of enemy casualties and digital manipulation intended to glorify Iran.",
-      "date": "Mon, 16 Mar 2026",
-      "source": "BBC",
+      "title": "Live: Trump threatens to strike Iran’s power plants if Strait of Hormuz does not open within 48 hours",
+      "link": "https://www.france24.com/en/middle-east/20260322-live-trump-threatens-to-strike-iran-s-power-plants-if-strait-of-hormuz-does-not-open-within-48-hours",
+      "description": "President Donald Trump issued Iran with a 48-hour deadline Saturday to re-open the Strait of Hormuz, after which he warned the US will “obliterate” Iranian power plants. Meanwhile, blasts could be heard from Jerusalem on Sunday, after the Israeli military warned of incoming missi...",
+      "date": "Sun, 22 Mar 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -293,6 +303,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/trump-threatens-to-obliterate-iran-power-plants-unless-hormuz-strait-open?traffic_source=rss",
+      "description": "Donald Trump has threatened to &#039;obliterate&#039; Iran’s power plants if Tehran fails to open the Strait of Hormuz.",
+      "date": "Sun, 22 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "What we know about Iran’s latest attacks on Israel",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss",
       "description": "Israel’s air defence system failed to stop at least two Iranian missile strikes on southern Israel.",
@@ -313,7 +333,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
+      "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran’s power plants",
       "link": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss",
       "description": "Iran responds to Trump&#039;s threat by saying all US energy infrastructure in the region will be targeted if it is attacked.",
       "date": "Sun, 22 Mar 2026",
@@ -413,34 +433,14 @@
       "bias": "Medium"
     },
     {
-      "title": "UK says Iran missile attack on Diego Garcia failed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss",
-      "description": "The UK says Iran launched ballistic missiles at the joint US-UK Diego Garcia base in the Indian Ocean.",
-      "date": "Sat, 21 Mar 2026",
-      "source": "Al Jazeera",
+      "title": "Trump threatens Iran with power plant strikes over Hormuz oil blockade",
+      "link": "https://www.dawn.com/news/1984285/trump-threatens-iran-with-power-plant-strikes-over-hormuz-oil-blockade",
+      "description": "US President Donald Trump on Saturday threatened to “obliterate” Iran’s power plants if Tehran does not fully reopen the Strait of Hormuz within 48 hours, a significant escalation barely a day after he talked about “winding down” the war. “If Iran doesn’t fully open, without thre...",
+      "date": "Sun, 22 Mar 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iranian woman’s video of US-Israel attack ends as bomb hits",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss",
-      "description": "The fate of an Iranian woman caught in a US-Israeli bomb attack is unknown, after video emerged of her filming it.",
-      "date": "Sat, 21 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
-      "link": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss",
-      "description": "US president&#039;s reference to Japan&#039;s 1941 attack has shaken Japanese as PM Takaichi&#039;s silence gets mixed reaction.",
-      "date": "Sat, 21 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran warns of retaliatory strikes against US infrastructural facilities in Middle East",
