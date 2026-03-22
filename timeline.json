@@ -1,17 +1,29 @@
 {
-  "updated": "2026-03-21 23:49 UTC",
-  "total": 9,
+  "updated": "2026-03-22 05:11 UTC",
+  "total": 10,
   "events": [
     {
-      "date": "2026-03-21",
-      "dateDisplay": "Mar 21, 2026",
-      "title": "Iranian missile struck town housing nuclear facility: Iran war shows 'no signs of abating'",
-      "link": "https://www.france24.com/en/iranian-missile-struck-town-housing-nuclear-facility-iran-war-shows-no-sign-of-abating",
+      "date": "2026-03-22",
+      "dateDisplay": "Mar 22, 2026",
+      "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
+      "link": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss",
       "sources": [
-        "France 24"
+        "Al Jazeera"
       ],
       "sourceCount": 1,
       "type": "framing"
+    },
+    {
+      "date": "2026-03-21",
+      "dateDisplay": "Mar 21, 2026",
+      "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "France 24",
+        "BBC"
+      ],
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-03-20",

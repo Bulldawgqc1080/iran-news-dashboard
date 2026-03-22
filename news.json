@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21 23:49 UTC",
+  "updated": "2026-03-22 05:11 UTC",
   "total": 60,
   "stories": [
     {
@@ -53,10 +53,20 @@
       "bias": "Low"
     },
     {
-      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-      "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-      "description": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
-      "date": "Fri, 20 Mar 2026",
+      "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "description": "The chief of the International Atomic Energy Agency called for \"maximum military restraint\" following the strikes.",
+      "date": "Sat, 21 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump at a crossroads as US weighs tough options in Iran",
+      "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+      "description": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+      "date": "Sun, 22 Mar 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -67,6 +77,16 @@
       "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
       "description": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
       "date": "Sat, 21 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+      "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+      "description": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+      "date": "Fri, 20 Mar 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -183,26 +203,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "description": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
-      "date": "Sat, 21 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "How Iranians are evading internet blocks to contact family abroad",
-      "link": "https://www.bbc.com/news/articles/ckgl58y5943o?at_medium=RSS&at_campaign=rss",
-      "description": "Iranians are finding tech-savvy ways to get through the regime's restrictions on phone and internet connections.",
-      "date": "Sun, 15 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Iran strikes Israeli nuclear town in retaliation for Natanz attack amid escalating conflict",
       "link": "https://www.france24.com/en/middle-east/20260321-iran-strikes-israeli-nuclear-town-in-retaliation-for-natanz-attack-amid-escalating-conflict",
       "description": "An Iranian missile struck the Israeli town of Dimona, home to a nuclear facility, injuring dozens in what Tehran said was retaliation for strikes on its Natanz nuclear site. The attack comes amid escalating regional tensions, including two failed Iranian missile strikes on the US...",
@@ -293,6 +293,46 @@
       "bias": "Low-Med"
     },
     {
+      "title": "What we know about Iran’s latest attacks on Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss",
+      "description": "Israel’s air defence system failed to stop at least two Iranian missile strikes on southern Israel.",
+      "date": "Sun, 22 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Will the Houthis join Iran in war against Israel and the US?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us?traffic_source=rss",
+      "description": "The Yemeni armed group says all options are on the table.",
+      "date": "Sun, 22 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
+      "link": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss",
+      "description": "Iran responds to Trump&#039;s threat by saying all US energy infrastructure in the region will be targeted if it is attacked.",
+      "date": "Sun, 22 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Trump threatens to attack power plants over Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait?traffic_source=rss",
+      "description": "Donald Trump threatens to &#039;obliterate&#039; Iran&#039;s power plants if it fails to open the Strait of Hormuz within 48 hours.",
+      "date": "Sun, 22 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Saudi Arabia expels Iran military attache, four embassy staff",
       "link": "https://www.aljazeera.com/news/2026/3/21/saudi-arabia-expels-iran-military-attache-and-four-team-members?traffic_source=rss",
       "description": "Move follows attack on Red Sea port of Yanbu, Saudi Arabia&#039;s main oil export outlet, after Iran blocked Hormuz Strait.",
@@ -303,9 +343,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran strikes towns near Israel’s nuclear site in escalating tit-for-tat",
+      "title": "Iran strikes towns near Israel’s nuclear site, wounds over 100",
       "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss",
-      "description": "Iran targets Dimona and Arad, injuring nearly 100, in retaliation for an attack on its Natanz nuclear site.",
+      "description": "Iran targets Dimona and Arad, injuring more than 100 people, in retaliation for an attack on its Natanz nuclear site.",
       "date": "Sat, 21 Mar 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -403,44 +443,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran says US and Israel attacked Natanz nuclear facility",
-      "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-us-and-israel-attacked-natanz-nuclear-facility?traffic_source=rss",
-      "description": "No leakage of radioactive materials reported in the area in central Iran, Tehran&#039;s atomic energy organisation says.",
-      "date": "Sat, 21 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "War spirals as information control tightens",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/21/war-spirals-as-information-control-tightens?traffic_source=rss",
-      "description": "From Washington to Tehran to Tel Aviv, the fight to control the narrative seems as critical as the war itself.",
-      "date": "Sat, 21 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says considering ‘winding down’ Iran war but rules out ceasefire",
-      "link": "https://www.dawn.com/news/1984191/trump-says-considering-winding-down-iran-war-but-rules-out-ceasefire",
-      "description": "President Donald Trump said Friday that the United States was considering “winding down” military operations against Iran but was not seeking a ceasefire with the Islamic Republic. Iran’s new Supreme Leader Mojtaba Khamenei meanwhile, claimed in a message to mark the first day of...",
-      "date": "Sat, 21 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Dubai property sector shows early signs of weakness",
-      "link": "https://www.dawn.com/news/1984201/dubai-property-sector-shows-early-signs-of-weakness",
-      "description": "Dubai’s property market is beginning to show early signs of weakening nearly three weeks into ​the US-Israeli war on Iran, with data from analysts showing tanking transaction volumes and some real estate agents pointing to price reductions. The war, and ‌Tehran’s strikes against ...",
+      "title": "Iran warns of retaliatory strikes against US infrastructural facilities in Middle East",
+      "link": "https://tass.com/world/2105249",
+      "description": "The relevant statement was made by the General Staff of the Iranian armed forces",
       "date": "Sun, 22 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Standoff with Israel enters new phase after attack against Dimona",
@@ -576,16 +586,6 @@
       "title": "Putin congratulates heads of CIS countries, Iranian leaders on Islamic holiday of Nowruz",
       "link": "https://tass.com/politics/2105101",
       "description": "International Nowruz Day, established by the United Nations in 2010, is celebrated on March 21, marking the vernal equinox and the beginning of the new year for Iranian and Turkic peoples",
-      "date": "Sat, 21 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran confirms attack on Diego Garcia island with ballistic missiles",
-      "link": "https://tass.com/world/2105097",
-      "description": "According to its information, this launch demonstrates a \"significant step\" in the confrontation with the United States",
       "date": "Sat, 21 Mar 2026",
       "source": "TASS",
       "region": "ru",
