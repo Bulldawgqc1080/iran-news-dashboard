@@ -1,7 +1,27 @@
 {
-  "updated": "2026-03-23 08:37 UTC",
+  "updated": "2026-03-23 11:33 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Iran threatens strikes on Gulf power plants following Trump's Strait of Hormuz ultimatum",
+      "link": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
+      "description": "Iran warned it could start striking power plants across the Gulf region, after President Trump threatened to hit Iran's energy infrastructure unless Tehran opens the Strait of Hormuz when his 48 hour ultimatum expires on Monday.",
+      "date": "Mon, 23 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Ukrainians are growing more pessimistic about the prospects for peace, survey says",
+      "link": "https://www.npr.org/2026/03/23/nx-s1-5754745/ukrainians-are-growing-more-pessimistic-about-the-prospects-for-peace-survey-says",
+      "description": "As the Iran war delays peace talks for Ukraine -- and global supplies of air defense missiles -- there are signs that fewer Ukrainians are willing to endure Russia's war for as long as necessary.",
+      "date": "Mon, 23 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Israel's war strategy involves high-level assassinations. But will it win the war?",
       "link": "https://www.npr.org/2026/03/22/nx-s1-5753836/israels-war-strategy-involves-high-level-assassinations-but-will-it-win-the-war",
@@ -193,9 +213,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Live: Iran faces Trump's Hormuz ultimatum as IEA warns of worst global energy crisis in decades",
+      "title": "Global economy under 'major' threat as Middle East war carries on",
+      "link": "https://www.france24.com/en/global-economy-under-major-threat-as-middle-east-war-carries-on",
+      "description": "The International Energy Agency warned that the US-Israeli war on Iran could trigger the worst energy crisis the world has ever seen. The warning comes after Iran on the weekend vowed to escalate its attacks on energy infrastructure across the Gulf region, following President Tru...",
+      "date": "Mon, 23 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel strikes key bridge in south Lebanon, stoking fears of ground invasion",
+      "link": "https://www.france24.com/en/israel-strikes-key-bridge-in-south-lebanon-stoking-fears-of-ground-invasion",
+      "description": "Israeli forces destroyed bridges they said were used by Hezbollah to cross the key Litani river, north of the border. The attack has sparked concern that a large-scale Israeli ground invasion could be in the works, with the Lebanese president calling the bombing 'collective punis...",
+      "date": "Mon, 23 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel vows retaliation after most destructive Iranian attack since war started",
+      "link": "https://www.france24.com/en/israel-vows-retaliation-after-most-destructive-iranian-attack-since-war-started",
+      "description": "Israel's Benjamin Netanyahu says Israel along with the United States will respond with \"great force\" after Iran's overnight strikes on two cities in southern Israel, near a highly sensitive Israeli nuclear facility. More than 160 people were injured, in an attack that shows Israe...",
+      "date": "Mon, 23 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Iran threatens to deploy 'naval mines' in Gulf if US, Israel attack its coasts",
       "link": "https://www.france24.com/en/middle-east/20260323-live-iran-trump-strike-iea-worst-energy-crisis",
-      "description": "Iran on Monday faces a deadline set by US President Donald Trump to open up the crucial Strait of Hormuz or face a major US assault on power plants, as Israel warned of weeks more of war. The International Energy Agency said the crisis is more severe than the 1970s oil shocks com...",
+      "description": "Iran on Monday threatened to deploy naval mines across the Gulf if the United States or Israel attacked its coasts or islands, warning key shipping routes could be targeted. The announcement comes as Tehran on Monday faces a deadline set by US President Donald Trump to open up th...",
       "date": "Mon, 23 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -213,44 +263,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Strait of Hormuz: Trump’s ultimatum to Iran",
-      "link": "https://www.france24.com/en/strait-of-hormuz-trump-s-ultimatum-to-iran",
-      "description": "Donald #Trump issued an ultimatum to #Iran on March 22: 48 hours to reopen the Strait of #Hormuz or the #US will strike Iranian oil facilities. Tehran has responded, warning it would retaliate.",
-      "date": "Sun, 22 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Has Iran brought down an ‘unkillable’ US F-35 jet?",
+      "link": "https://www.aljazeera.com/news/2026/3/23/has-iran-brought-down-an-unkillable-us-f-35-jet?traffic_source=rss",
+      "description": "The supersonic fighter jet is designed to avoid detection by radar and other technologies.",
+      "date": "Mon, 23 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "A former senior advisor to the Saudi government assesses the likelihood of a Gulf-style NATO",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260322-a-former-senior-advisor-to-the-saudi-government-assesses-the-likelihood-of-a-gulf-style-nato",
-      "description": "Gulf states are caught between a rock and a hard place, right now as the consider how to respond to the Iran's regime, dealing with a volley of attacks on critical infrastrure, and threats that continue.",
-      "date": "Sun, 22 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Trump postpones military strikes on Iranian power plants",
+      "link": "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-strikes-on-iranian-power-plants?traffic_source=rss",
+      "description": "This is a breaking news story.",
+      "date": "Mon, 23 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump threat to hit Iran power plants could violate Geneva Conventions",
-      "link": "https://www.france24.com/en/trump-threat-to-hit-iran-power-plants-could-violate-geneva-conventions",
-      "description": "US President Donald Trump threatened overnight to “obliterate” Iran’s power plants if Tehran does not fully reopen the Strait of Hormuz within 48 hours, barely a day after suggesting he was “winding down” the war. Striking Iran’s energy sites, including the Bushehr nuclear power ...",
-      "date": "Sun, 22 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iraq pulled into Iran war as US targets Iran-aligned groups",
+      "link": "https://www.aljazeera.com/news/2026/3/23/iraq-pulled-into-iran-war-as-us-targets-iran-aligned-groups?traffic_source=rss",
+      "description": "Iraq is increasingly caught between the US and Iran as the regional war escalates, deepening economic woes.",
+      "date": "Mon, 23 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Nabatieh under fire: Life inside a war zone in southern Lebanon",
-      "link": "https://www.france24.com/en/nabatieh-under-fire-life-inside-a-war-zone-in-southern-lebanon",
-      "description": "In the southern Lebanese city of Nabatieh, paramedics and residents are living under near-constant air strikes, as Israel targets areas it says are linked to Hezbollah. With much of the population displaced, those who remain face daily danger, limited supplies, and relentless unc...",
-      "date": "Sun, 22 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Threats over Iran war bare Trump efforts to transform free speech: Experts",
+      "link": "https://www.aljazeera.com/news/2026/3/23/threats-over-iran-war-bare-trump-efforts-to-transform-free-speech-experts?traffic_source=rss",
+      "description": "Threat to punish broadcasters for coverage not in &#039;public interest&#039; comes amid wider roll-backs, analysts say.",
+      "date": "Mon, 23 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "IRGC spokesman tells US President Donald Trump ‘You’re fired!’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/irgc-spokesman-tells-us-president-donald-trump-youre?traffic_source=rss",
+      "description": "Spokesman for the IRGC took jabs at US president Trump, mimicking his catchphrases and language.",
+      "date": "Mon, 23 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "‘Unprecedented’: Israel, US carry out extensive strikes across Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran?traffic_source=rss",
+      "description": "Tehran is hit by &#039;a wide-scale wave of strikes&#039; as US President Donald Trump&#039;s 48-hour ultimatum is set to expire.",
+      "date": "Mon, 23 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "China ‘is playing the long game’ in Iran war by staying neutral",
@@ -323,9 +393,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Tehran vows to ‘completely close’ Hormuz if power plants hit",
+      "title": "Iran war live: Tehran threatens to mine Gulf if coast, islands attacked",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/23/iran-war-live-tehran-vows-to-completely-close-hormuz-if-power-plants-hit?traffic_source=rss",
-      "description": "US-Israel attacks on Iran continue as Israeli forces blow up the Qasimiyah Bridge in south Lebanon.",
+      "description": "Rhetoric ratchets up in US-Israeli war on Iran as Israeli forces blow up Qasimiyah Bridge in southern Lebanon.",
       "date": "Mon, 23 Mar 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -343,14 +413,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Who’s left running Iran?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/whos-left-running-iran?traffic_source=rss",
-      "description": "Much of the top leadership has been eliminated, but the country is still fighting.",
-      "date": "Sun, 22 Mar 2026",
-      "source": "Al Jazeera",
+      "title": "Mideast war threatens energy crisis worse than 1970s oil shocks, warns IEA chief",
+      "link": "https://www.dawn.com/news/1984594/mideast-war-threatens-energy-crisis-worse-than-1970s-oil-shocks-warns-iea-chief",
+      "description": "The world faces an energy crisis worse than both 1970s oil shocks combined if the Middle East war drags on, the head of the International Energy Agency warned on Monday, as Israel launched fresh strikes on Tehran and threatened weeks more fighting. As the war grinds into its four...",
+      "date": "Mon, 23 Mar 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "London Jewish community ambulances set ablaze in antisemitic attack: UK PM Starmer",
+      "link": "https://www.dawn.com/news/1984589/london-jewish-community-ambulances-set-ablaze-in-antisemitic-attack-uk-pm-starmer",
+      "description": "Four ambulances belonging to a Jewish community organisation in north London were set ablaze overnight in what British Prime Minister Keir Starmer called “a deeply shocking antisemitic arson attack”. The London Fire Brigade, which sent six fire engines and 40 firefighters to the ...",
+      "date": "Mon, 23 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "As INR hits record low, Modi optimistic about economic fundamentals, reserves",
+      "link": "https://www.dawn.com/news/1984553/as-inr-hits-record-low-modi-optimistic-about-economic-fundamentals-reserves",
+      "description": "MUMBAI: The fundamentals of the Indian economy are strong and the country has adequate availability of petroleum, fertilisers and coal to weather trade and energy disruptions caused by the US-Israel war on Iran, Indian Prime Minister Narendra Modi told parliament’s lower house on...",
+      "date": "Mon, 23 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Tehran refuses to back down as Hormuz remains global pain point",
@@ -443,150 +533,60 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Situation in Strait of Hormuz to normalize when conflict over Iran ends — Russian MFA",
-      "link": "https://tass.com/politics/2105543",
-      "description": "Russian Deputy Foreign Minister Andrey Rudenko said Everything that is happening in the Strait of Hormuz is a direct consequence of this illegal campaign",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran accuses US of hiding true death toll from aggression against republic",
-      "link": "https://tass.com/world/2105517",
-      "description": "According to the spokesman for the Iranian Khatam-al Anbiya headquarters, Washington is staging a media circus",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "More US troops dissatisfied with prospects of war with Iran — HuffPost",
-      "link": "https://tass.com/world/2105475",
-      "description": "Military personnel, in particular, believe that a poorly planned operation exposes them to unnecessary danger without any visible strategic benefit",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US has no good options regarding Iran — The Economist",
-      "link": "https://tass.com/world/2105469",
-      "description": "To almost everyone else it is clear that America entered this war with a \"flawed strategy,\" the article said",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian authorities announce arrest of group cooperating with Israel",
-      "link": "https://tass.com/world/2105467",
-      "description": "The police also said that the identification and arrest of agents and traitors is ongoing",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "One person killed in attack on Radio Center in Bandar Abbas, southern Iran",
-      "link": "https://tass.com/world/2105443",
-      "description": "Another person was injured, Iranian state television reported",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran to respond asymmetrically to threats against energy infrastructure",
-      "link": "https://tass.com/world/2105441",
-      "description": "On Saturday, US President Donald Trump said that the United States would destroy a number of Iran’s power plants if the Strait of Hormuz is not fully opened for shipping within 48 hours",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "UAE fighter jets intercept cruise missiles launched by Iran — Defense Ministry",
-      "link": "https://tass.com/world/2105427",
-      "description": "The UAE Defense Ministry has not yet provided information on the effectiveness of repelling the Iranian attack",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Missile launched from Iran toward Israel may have landed in Lebanon — Ynet",
-      "link": "https://tass.com/world/2105417",
-      "description": "According to the news portal, such an incident has been recorded for the first time since the start of Israel’s operation against Iran",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli airbase on Mount Meron attacked by Hezbollah",
-      "link": "https://tass.com/world/2105409",
-      "description": "The base on Mount Meron in Upper Galilee has been attacked by kamikaze drones at least four times",
-      "date": "Mon, 23 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Top Iranian diplomat demands US, Israel compensate for damage to Iranian nuclear sites",
-      "link": "https://tass.com/world/2105397",
-      "description": "Abbas Araghchi slammed the US and Israeli bombardments of Iranian nuclear facilities as an \"act of aggression\"",
+      "title": "Democrats push for public debate as US-Israel war on Iran escalates",
+      "link": "https://www.dawn.com/news/1984296/democrats-push-for-public-debate-as-us-israel-war-on-iran-escalates",
+      "description": "WASHINGTON: Iranian missile strikes on southern Israel and toward a key US-UK military base in the Indian Ocean have escalated the conflict into its fourth week, prompting US Democrats to call for transparency and oversight. The developments are bound to intensify their push in C...",
       "date": "Sun, 22 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Sri Lanka raises fuel prices by 25pc as US-Israel war on Iran bites",
+      "link": "https://www.dawn.com/news/1984295/sri-lanka-raises-fuel-prices-by-25pc-as-us-israel-war-on-iran-bites",
+      "description": "Sri Lanka raised fuel prices by 25 per cent on Sunday, the second increase in two weeks, as the country prepared for more impact from the war in the Middle East. Regular petrol was increased to 398 rupees ($1.30) per litre, up from 317 rupees, while diesel, the fuel commonly used...",
+      "date": "Sun, 22 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Doha confirms 4 Qataris, 3 Turks killed in helicopter crash",
+      "link": "https://www.dawn.com/news/1984283/doha-confirms-4-qataris-3-turks-killed-in-helicopter-crash",
+      "description": "Qatar on Sunday confirmed four of its military personnel and three Turkish nationals, including one serviceman, were killed on board a helicopter that crashed in Qatar’s territorial waters. The Gulf state’s interior ministry said in a statement rescue operations had been complete...",
+      "date": "Sun, 22 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: Trump says postponing Iran power plant strikes for five days after 'very good' talks",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-strait-of-hormuz-donald-trump-iran-israel-west-asia-live-updates-march-23-2026/article70774180.ece",
+      "description": "Trump says negotiations with Iran to continue this week.",
+      "date": "Mon, 23 Mar 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
+      "link": "https://tass.com/world/1968185",
+      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israeli top brass approves plan of ground operations in Lebanon — IDF",
-      "link": "https://tass.com/world/2105395",
-      "description": "The operation against the Hezbollah terrorist organization has only begun, Eyal Zamir said",
-      "date": "Sun, 22 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US military denies downing of F-15 fighter jet by Iran",
-      "link": "https://tass.com/world/2105387",
-      "description": "The Iranian army said earlier in the day that an F-15 fighter jet had been attacked and shot down near Hormuz Island off Iran’s southern coast",
-      "date": "Sun, 22 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "AfD leaders calls for ending conflict in Ukraine through diplomacy",
-      "link": "https://tass.com/world/2105383",
-      "description": "According to the AfD leader, a realistic variant of a peace agreement should include security guarantees for both parties, as well as the lifting of sanctions, and the establishment of an international fund to restore territories affected by the conflict",
-      "date": "Sun, 22 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Strait of Hormuz closed only for those who violate Iran’s borders — president",
-      "link": "https://tass.com/world/2105381",
-      "description": "The illusion of erasing Iran from the map shows desperation against the will of a history-making nation, Iranian President Masoud Pezeshkian said",
-      "date": "Sun, 22 Mar 2026",
+      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
+      "link": "https://tass.com/world/1968163",
+      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
