@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T19:39:05.236Z",
+  "lastUpdated": "2026-03-23T20:00:00.000Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,116 +9,47 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 30118810602
+    "estimatedTotalUsd": 36000000000
   },
   "casualties": {
     "us": {
-      "killed": {
-        "value": 14,
-        "asOf": "2026-03-24T19:39:05.236Z",
-        "sourceId": "dod-centcom-rss",
-        "confidence": "high",
-        "note": "14 confirmed per Wikipedia list of U.S. soldiers killed, Mar 23 2026"
-      },
-      "wounded": {
-        "value": 200,
-        "asOf": "2026-03-17T00:00:00.000Z",
-        "sourceId": "dod-centcom-rss",
-        "confidence": "medium"
-      },
+      "killed": { "value": 14, "asOf": "2026-03-23T00:00:00.000Z", "sourceId": "dod-centcom", "confidence": "high", "note": "14 confirmed per Wikipedia list of U.S. soldiers killed, Mar 23 2026" },
+      "wounded": { "value": 200, "asOf": "2026-03-17T00:00:00.000Z", "sourceId": "dod-centcom", "confidence": "high" },
       "asOf": "2026-03-23T00:00:00.000Z"
     },
     "iranMilitary": {
-      "killed": {
-        "minConfirmed": 2094,
-        "maxReported": 2300,
-        "asOf": "2026-03-23T00:00:00.000Z",
-        "sourceIds": [
-          "acled"
-        ],
-        "confidence": "medium"
-      },
+      "killed": { "minConfirmed": 2094, "maxReported": 2300, "asOf": "2026-03-23T00:00:00.000Z", "sourceIds": ["acled"], "confidence": "medium" },
       "asOf": "2026-03-23T00:00:00.000Z"
     },
     "iranCivilians": {
-      "killed": {
-        "minConfirmed": 1500,
-        "maxReported": 1900,
-        "asOf": "2026-03-23T09:00:00.000Z",
-        "sourceIds": [
-          "al-jazeera-tracker",
-          "iran-health-ministry",
-          "hrana"
-        ],
-        "confidence": "medium",
-        "note": "Al Jazeera 1,500+ Mar 23. HRANA 1,407 civilians incl. 214 children. Iran Health Ministry higher."
-      },
-      "wounded": {
-        "minConfirmed": 18551,
-        "maxReported": 20000,
-        "asOf": "2026-03-23T00:00:00.000Z",
-        "sourceIds": [
-          "al-jazeera-tracker"
-        ],
-        "confidence": "medium"
-      },
+      "killed": { "minConfirmed": 1500, "maxReported": 1900, "asOf": "2026-03-23T09:00:00.000Z", "sourceIds": ["al-jazeera-tracker","iran-health-ministry","hrana"], "confidence": "medium", "note": "Al Jazeera 1,500+ Mar 23. HRANA 1,407 civilians incl. 214 children. Iran Health Ministry higher." },
+      "wounded": { "minConfirmed": 18551, "maxReported": 20000, "asOf": "2026-03-23T00:00:00.000Z", "sourceIds": ["al-jazeera-tracker"], "confidence": "medium" },
       "asOf": "2026-03-23T00:00:00.000Z"
     },
     "lebanon": {
-      "killed": {
-        "minConfirmed": 880,
-        "maxReported": 950,
-        "asOf": "2026-03-23T00:00:00.000Z",
-        "sourceIds": [
-          "lebanon-health-ministry"
-        ],
-        "confidence": "medium"
-      },
+      "killed": { "minConfirmed": 880, "maxReported": 950, "asOf": "2026-03-23T00:00:00.000Z", "sourceIds": ["lebanon-health-ministry"], "confidence": "medium" },
       "asOf": "2026-03-23T00:00:00.000Z"
     },
     "israel": {
-      "killed": {
-        "value": 18,
-        "asOf": "2026-03-23T00:00:00.000Z",
-        "sourceIds": [
-          "idf",
-          "al-jazeera-tracker"
-        ],
-        "confidence": "high"
-      },
-      "wounded": {
-        "value": 3730,
-        "asOf": "2026-03-23T00:00:00.000Z",
-        "sourceIds": [
-          "idf"
-        ],
-        "confidence": "high"
-      },
+      "killed": { "value": 18, "asOf": "2026-03-23T00:00:00.000Z", "sourceIds": ["idf","al-jazeera-tracker"], "confidence": "high" },
+      "wounded": { "value": 3730, "asOf": "2026-03-23T00:00:00.000Z", "sourceIds": ["idf"], "confidence": "high" },
       "asOf": "2026-03-23T00:00:00.000Z"
     }
   },
   "energy": {
     "usGasNationalAvgUsd": 3.94,
     "usGasChangeSinceStartUsd": 0.99,
-    "brentUsdPerBbl": 107.2,
+    "brentUsdPerBbl": 107.20,
     "brentChangePct24h": -0.96,
     "asOf": "2026-03-23T19:38:00.000Z",
     "note": "Brent oilcrudeprice.com 14:38 NY — extreme volatility today, dropped 13%+ intraday on Trump Iran talks claim then recovered. Gas AAA national average Mar 23."
   },
+  "strikesConfirmed": { "centcomTargetsStruck": 7000, "asOf": "2026-03-16T00:00:00.000Z", "sourceId": "centcom" },
   "quality": {
-    "generatedAt": "2026-03-24T19:39:05.236Z",
+    "generatedAt": "2026-03-23T20:00:00.000Z",
     "staleThresholdHours": 48,
-    "casualties": {
-      "usStale": false,
-      "iranMilitaryStale": false,
-      "iranCiviliansStale": false
-    },
-    "energy": {
-      "stale": false
-    }
+    "casualties": { "usStale": false, "iranMilitaryStale": false, "iranCiviliansStale": false, "lebanonStale": false, "israelStale": false },
+    "energy": { "stale": false }
   },
-  "ui": {
-    "showRanges": true,
-    "currency": "USD"
-  }
+  "ui": { "showRanges": true, "currency": "USD" }
 }
