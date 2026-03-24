@@ -866,7 +866,7 @@
     <div class="logo-icon">CV</div>
     <div>
       <div class="logo-text">ClearView</div>
-      <div class="logo-sub">Iran Conflict</div>
+      <div class="logo-sub" id="war-day-count">Iran Conflict · Day <span id="day-counter">—</span></div>
     </div>
   </div>
 
@@ -890,7 +890,7 @@
   </nav>
   <div class="last-updated">
     <div class="live-dot"></div>
-    Auto-updated hourly
+    Source-Transparent
   </div>
 </header>
 
@@ -919,9 +919,20 @@
 
 <main>
 
-  <!-- ══════════ DISCLAIMER ══════════ -->
-  <div class="disclaimer">
-    <strong>How to use this dashboard:</strong> Every item is labeled as a <span style="color:var(--fact)">Verified Fact</span>, an <span style="color:var(--govt)">Official Statement</span>, or <span style="color:var(--framing)">Media Framing</span>. Live news cards now include an AI-scored tone indicator — <span style="color:var(--hawkish)">Hawkish</span> (aggressive/military language), <span style="color:var(--neutral)">Neutral</span> (factual reporting), or <span style="color:var(--dovish)">Dovish</span> (diplomatic/de-escalatory language). <strong>No source is fully unbiased.</strong> Always read primary documents.
+  <!-- ══════════ VALUE PROP ══════════ -->
+  <div class="disclaimer" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;">
+    <div style="font-size:13px;">
+      <span style="color:var(--fact);font-weight:700;">✔ Verified Fact</span>
+      <span style="color:var(--dim);margin:0 8px;">·</span>
+      <span style="color:var(--govt);font-weight:700;">⚠ Official Statement</span>
+      <span style="color:var(--dim);margin:0 8px;">·</span>
+      <span style="color:var(--framing);font-weight:700;">◈ Media Framing</span>
+      <span style="color:var(--dim);margin:0 8px;">·</span>
+      <span style="color:var(--hawkish);font-weight:700;font-size:10px;font-family:var(--font-mono);">HAWKISH</span>
+      <span style="color:var(--neutral);font-weight:700;font-size:10px;font-family:var(--font-mono);margin-left:6px;">NEUTRAL</span>
+      <span style="color:var(--dovish);font-weight:700;font-size:10px;font-family:var(--font-mono);margin-left:6px;">DOVISH</span>
+    </div>
+    <div style="font-size:12px;color:var(--subtext);font-family:var(--font-mono);">Every claim labeled. Every source shown. <span style="color:var(--text)">No agenda.</span></div>
   </div>
 
   <!-- ══════════════════════════════ -->
@@ -932,6 +943,32 @@
     <section>
       <div class="section-title">Live Cost & Human Impact</div>
       <div id="war-widget"></div>
+    </section>
+
+    <!-- ══════════ LAST 24 HOURS STRIP ══════════ -->
+    <section>
+      <div class="section-title">What Changed in the Last 24 Hours</div>
+      <div id="last-24h-strip" style="background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--fact);border-radius:var(--radius);padding:14px 18px;display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
+        <div style="display:flex;flex-direction:column;gap:10px;font-size:13px;flex:1;min-width:280px;">
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="color:var(--hawkish);font-weight:700;font-family:var(--font-mono);font-size:10px;padding:2px 6px;background:rgba(255,77,77,0.1);border-radius:3px;white-space:nowrap;margin-top:1px;">NEW</span>
+            <span style="color:var(--subtext);line-height:1.6;">Trump postponed U.S. strikes on Iranian power plants for 5 days, claiming "productive conversations" with Iran. Iran denied any talks. Oil dropped 13% then partially recovered — most volatile day since war began.</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="color:var(--hawkish);font-weight:700;font-family:var(--font-mono);font-size:10px;padding:2px 6px;background:rgba(255,77,77,0.1);border-radius:3px;white-space:nowrap;margin-top:1px;">NEW</span>
+            <span style="color:var(--subtext);line-height:1.6;">Netanyahu said Israel "acted alone" on the South Pars gas field strike — Trump had asked them to stop. First confirmed public split between Trump and Israel on operational decisions.</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="color:var(--govt);font-weight:700;font-family:var(--font-mono);font-size:10px;padding:2px 6px;background:rgba(230,126,34,0.1);border-radius:3px;white-space:nowrap;margin-top:1px;">UPDATE</span>
+            <span style="color:var(--subtext);line-height:1.6;">U.S. killed now 14 (up from 13). Iran civilian killed now 1,500+ (Al Jazeera tracker). Gas $3.94/gal — up $0.99 since Feb 28. Brent $107.20 after extreme intraday volatility.</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="color:var(--fact);font-weight:700;font-family:var(--font-mono);font-size:10px;padding:2px 6px;background:rgba(26,115,232,0.1);border-radius:3px;white-space:nowrap;margin-top:1px;">CONTEXT</span>
+            <span style="color:var(--subtext);line-height:1.6;">Today is Day 24. Leonid Radvinsky, alleged largest single AIPAC donor post-Oct 7, died today at 43 from cancer. OnlyFans owner — denied $11M pledge documented in leaked AIPAC records.</span>
+          </div>
+        </div>
+        <div style="font-size:10px;color:var(--dim);font-family:var(--font-mono);white-space:nowrap;align-self:flex-end;">Updated manually · Mar 24, 2026</div>
+      </div>
     </section>
 
     <section>
@@ -2054,7 +2091,7 @@
 
 
 <footer>
-  ClearView Iran Conflict Dashboard &nbsp;·&nbsp; Auto-updated hourly via GitHub Actions &nbsp;·&nbsp; Always follow source links and read primary documents &nbsp;·&nbsp; No source is fully unbiased — including this one.
+  ClearView Iran Conflict Dashboard &nbsp;·&nbsp; Auto-updated hourly via GitHub Actions &nbsp;·&nbsp; Always follow source links and read primary documents &nbsp;·&nbsp; No source is fully source-transparent — including this one.
 </footer>
 
 <script src="./war-widget.js"></script>
@@ -4346,6 +4383,15 @@
   }
 
   document.getElementById('sourcedb-tab-btn').addEventListener('click', loadSourceDB);
+
+  // Day counter — days since Feb 28, 2026
+  (function() {
+    const warStart = new Date('2026-02-28T00:00:00Z');
+    const now = new Date();
+    const days = Math.floor((now - warStart) / (1000 * 60 * 60 * 24)) + 1;
+    const el = document.getElementById('day-counter');
+    if (el) el.textContent = days;
+  })();
 </script>
 
 </body>
