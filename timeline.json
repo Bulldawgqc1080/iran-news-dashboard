@@ -1,18 +1,28 @@
 {
-  "updated": "2026-03-23 23:58 UTC",
-  "total": 9,
+  "updated": "2026-03-24 05:15 UTC",
+  "total": 10,
   "events": [
+    {
+      "date": "2026-03-24",
+      "dateDisplay": "Mar 24, 2026",
+      "title": "Middle East war live: Trump says US, Iran are talking as Tehran fires new missile strikes on Israel",
+      "link": "https://www.france24.com/en/middle-east/20260324-middle-east-war-live-trump-us-iran-talks-tehran-fires-missiles-israel",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-03-23",
       "dateDisplay": "Mar 23, 2026",
-      "title": "Trump says the U.S. is in talks with Iran to end the war, which Iran denies",
-      "link": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
+      "title": "President Trump and Iranian officials have conflicting stories about ongoing talks",
+      "link": "https://www.npr.org/2026/03/23/nx-s1-5757380/president-trump-and-iranian-officials-have-conflicting-stories-about-ongoing-talks",
       "sources": [
-        "Al Jazeera",
         "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-03-22",
