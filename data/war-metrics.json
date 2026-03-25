@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T23:04:51.601Z",
+  "lastUpdated": "2026-03-25T00:00:50.222Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,13 +9,13 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 30261708345
+    "estimatedTotalUsd": 30300581273
   },
   "casualties": {
     "us": {
       "killed": {
         "value": 14,
-        "asOf": "2026-03-24T23:04:51.601Z",
+        "asOf": "2026-03-25T00:00:50.221Z",
         "sourceId": "dod-centcom-rss",
         "confidence": "high",
         "note": "14 confirmed per Wikipedia list of U.S. soldiers killed, Mar 23 2026"
@@ -106,11 +106,11 @@
     "note": "Brent oilcrudeprice.com 14:38 NY — extreme volatility today, dropped 13%+ intraday on Trump Iran talks claim then recovered. Gas AAA national average Mar 23."
   },
   "quality": {
-    "generatedAt": "2026-03-24T23:04:51.601Z",
+    "generatedAt": "2026-03-25T00:00:50.222Z",
     "staleThresholdHours": 48,
     "casualties": {
       "usStale": false,
-      "iranMilitaryStale": false,
+      "iranMilitaryStale": true,
       "iranCiviliansStale": false
     },
     "energy": {
