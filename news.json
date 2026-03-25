@@ -1,7 +1,17 @@
 {
-  "updated": "2026-03-25 05:16 UTC",
+  "updated": "2026-03-25 08:05 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Rubio plans travel to France to sell Iran war to skeptical G7 allies",
+      "link": "https://www.npr.org/2026/03/25/g-s1-115053/rubio-plans-travel-to-france-to-sell-iran-war-to-skeptical-g7-allies",
+      "description": "Secretary of State Marco Rubio will travel to France this week to try to sell America's skeptical Group of Seven allies on the Iran war that has sent global fuel prices soaring.",
+      "date": "Wed, 25 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The Israeli military wants several more weeks to fight Iran war, officials say",
       "link": "https://www.npr.org/2026/03/24/nx-s1-5759317/israel-iran-war",
@@ -215,7 +225,7 @@
     {
       "title": "Middle East live: Israeli strikes on South Lebanon leave nine dead",
       "link": "https://www.france24.com/en/middle-east/20260325-middle-east-live-israeli-strikes-on-south-lebanon-leave-nine-dead",
-      "description": "In Lebanon, Israeli strikes killed at least six people in a town and a Palestinian refugee camp in the southern Sidon area, and three more in another town. This comes as Donald Trump expresses optimism at ending the war, after sending a 15-point ceasefire plan to Iran. Follow our...",
+      "description": "In Lebanon, Israeli strikes killed at least six people in a town and a Palestinian refugee camp in the southern Sidon area, and three more in another town. This comes as US President Donald Trump expresses optimism at ending the war, after sending a 15-point ceasefire plan to Ira...",
       "date": "Wed, 25 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -223,9 +233,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US proposes 15-point plan as Iran opens Hormuz to 'non-hostile' oil vessels",
+      "title": "US proposes 15-point plan as Iran opens Strait of Hormuz to 'non-hostile' oil vessels",
       "link": "https://www.france24.com/en/middle-east/20260325-us-proposes-15-point-plan-as-iran-opens-hormuz-to-non-hostile-oil-vessels",
-      "description": "Donald Trump said Tuesday he had sent a peace plan to Iran, expressing cautious optimism about ending nearly a month of war even as fresh violence underscored the fragility of the moment. In a potential sign of de-escalation, Tehran announced it would allow “non-hostile” vessels ...",
+      "description": "US President Donald Trump said Tuesday he had sent a peace plan to Iran, expressing cautious optimism about ending nearly a month of war. In a potential sign of de-escalation, Tehran announced it would allow “non-hostile” vessels to pass through the strategically vital Strait of ...",
       "date": "Wed, 25 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -313,14 +323,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Is Iran's parliamentary speaker Ghalibaf negotiating with the US?",
-      "link": "https://www.france24.com/en/middle-east/20260324-iran-s-parliamentary-speaker-ghalibaf-floated-as-possible-us-interlocutor",
-      "description": "US President Donald Trump claimed on Monday that the United States had been negotiating with an unnamed Iranian leader whom he described as a \"top person\". Media reports have since speculated that the Iranian interlocutor could be 64-year-old pilot and parliament speaker Mohammad...",
-      "date": "Tue, 24 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran’s new security boss Mohammad Zolghadr: Why his appointment matters",
+      "link": "https://www.aljazeera.com/news/2026/3/25/irans-new-security-boss-mohammad-zolghadr-why-his-appointment-matters?traffic_source=rss",
+      "description": "Zolghadr, an ex-IRGC commander, will manage Iran&#039;s security amid external US-Israeli pressures and internal unrest.",
+      "date": "Wed, 25 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US-Israel war on Iran: What’s happening on day 26 of attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/25/us-israel-war-on-iran-whats-happening-on-day-26-of-attacks?traffic_source=rss",
+      "description": "Iran, Israel, the Gulf faced new missiles and drones. The US has signalled military escalation and openness to a deal.",
+      "date": "Wed, 25 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Amid US-Israeli attacks, people in Iran struggle to survive ailing economy",
+      "link": "https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy?traffic_source=rss",
+      "description": "Some are left without an income, others are temporarily displaced, and no one knows when the internet will return .",
+      "date": "Wed, 25 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "As Iran war rocks global economy, Global South bears brunt of fallout",
+      "link": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss",
+      "description": "Developing economies in Asia, Africa and the Middle East are most exposed to surging energy costs.",
+      "date": "Wed, 25 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Parsi: No deal ‘’without both sides giving something to the other’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/parsi-no-deal-without-both-sides-giving-something-to-the?traffic_source=rss",
+      "description": "Trita Parsi argues that Iran is unlikely to agree to end the war without sanctions relief.",
+      "date": "Wed, 25 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "New Zealand footballers willing to play Iran World Cup match outside US",
+      "link": "https://www.aljazeera.com/sports/2026/3/25/new-zealand-footballers-willing-to-play-iran-world-cup-match-outside-us?traffic_source=rss",
+      "description": "The teams are set to play on June 15 in Los Angeles, but Iran has threatened to boycott its matches due to the war.",
+      "date": "Wed, 25 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "What we know about the US’s 15-point plan Iran proposal",
@@ -353,9 +413,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump again says talks under way; 12 killed in south Tehran",
+      "title": "Iran war live: Iranian military dismisses Trump’s claim of negotiations",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss",
-      "description": "US-Israeli strikes on Iran continue despite claim of talks, with at least 12 killed, 28 wounded in one attack on Tehran.",
+      "description": "US-Israeli strikes on Iran continue despite claims of talks, with at least 12 killed, 28 wounded in an attack in Tehran.",
       "date": "Wed, 25 Mar 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -383,210 +443,150 @@
       "bias": "Medium"
     },
     {
-      "title": "Arms manufacturer thrives amid US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/arms-manufacturer-thrives-amid-us-israel-war-on-iran?traffic_source=rss",
-      "description": "Elbit Systems has seen rapid growth as wars intensify across Iran, Palestine, and Lebanon.",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Building collapses after Iranian missile strike on Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/building-collapses-after-iranian-missile-strike-on-israel?traffic_source=rss",
-      "description": "A building has collapsed in Bnei Brak, near Tel Aviv, after Israeli authorities said it was hit by an Iranian missile.",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump claims US has achieved ‘regime change’, ‘received present’ from Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/trump-claims-us-has-achieved-regime-change-received-present-from-iran?traffic_source=rss",
-      "description": "US President Donald Trump has told reporters in the Oval Office that the US has achieved regime change in Iran.",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iraq to summon US, Iran envoys over deadly attacks: PM’s office",
-      "link": "https://www.aljazeera.com/news/2026/3/24/iraq-to-summon-us-iranian-envoys-over-deadly-attacks-pms-office?traffic_source=rss",
-      "description": "Iraqi government says it plans to deliver &#039;formal notes of protest&#039; amid recent strikes tied to US-Israeli war on Iran.",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iranian missiles cause injuries and major damage across Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/iranian-missiles-cause-injuries-and-major-damage-across-israel?traffic_source=rss",
-      "description": "Iran released a video showing the launch of missiles as a new wave targeted areas across Israel.",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Has Iran brought down an ‘unkillable’ US F-35 jet?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/has-iran-brought-down-an-unkillable-us-f-35-jet-3?traffic_source=rss",
-      "description": "Iran says it struck a US F-35 and released footage of the incident.",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump sends peace plan as Iran opens Strait of Hormuz to ‘non-hostile’ oil vessels",
-      "link": "https://www.dawn.com/news/1985150/trump-sends-peace-plan-as-iran-opens-strait-of-hormuz-to-non-hostile-oil-vessels",
-      "description": "US President Donald Trump sent a peace plan to Iran as he voiced optimism Tuesday at ending nearly a month of warfare, with Tehran announcing that it will let “non-hostile” oil vessels go through the crucial Strait of Hormuz. The tentative signs of a diplomatic solution came desp...",
+      "title": "Israel’s army strikes two missile production sites in Tehran",
+      "link": "https://tass.com/world/2106643",
+      "description": "According to the IDF, the two Iranian plants operated under the command of Iran’s Ministry of Defense",
       "date": "Wed, 25 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan joins UNSC in denouncing illegal Israeli settlements",
-      "link": "https://www.dawn.com/news/1985066/pakistan-joins-unsc-in-denouncing-illegal-israeli-settlements",
-      "description": "WASHINGTON: Pakistan on Tuesday joined seven other members of the UN Security Council in reiterating firm opposition to the annexation of any part of the Occupied Palestinian Territory and the forcible displacement of the Palestinian people. All seven nations warned that such act...",
-      "date": "Wed, 25 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "AJK PM condemns sentencing of Kashmiri leader Asiya Andrabi, her associates by Indian court",
-      "link": "https://www.dawn.com/news/1984938/ajk-pm-condemns-sentencing-of-kashmiri-leader-asiya-andrabi-her-associates-by-indian-court",
-      "description": "MUZAFFARABAD: Azad Jammu and Kashmir (AJK) Prime Minister Raja Faisal Mumtaz Rathore on Tuesday strongly condemned the sentencing of three women activists by an Indian court, terming the verdict a manifestation of “political coercion” aimed at silencing dissent in India-occupied ...",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US-Israel war on Iran may increase food prices worldwide: UN",
-      "link": "https://www.dawn.com/news/1985059/us-israel-war-on-iran-may-increase-food-prices-worldwide-un",
-      "description": "ISLAMABAD: The United Nations Food and Agriculture Organisation (FAO) has said that the prolonged disruption to trade through the Strait of Hormuz triggered by US/Israeli attack on Iran could create cascading impacts across energy markets, fertiliser supply chains and global agri...",
-      "date": "Wed, 25 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Freak storms to hit war-ravaged Middle East",
-      "link": "https://www.dawn.com/news/1985065/freak-storms-to-hit-war-ravaged-middle-east",
-      "description": "A TORNADO Alley-style storm system is about to hit the Middle East — a virtually unheard of atmospheric setup for the region, the Washington Post reported, as areas in the Gulf region received heavy rains. Parts of the Arabian Peninsula and Persian Gulf could be slammed by strong...",
-      "date": "Wed, 25 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US mulls sending elite airborne troops to Middle East",
-      "link": "https://www.dawn.com/news/1985070/us-mulls-sending-elite-airborne-troops-to-middle-east",
-      "description": "• Energy infrastructure attacked as Israel claims ‘large wave of strikes’ on Isfahan, other areas• Iran says projectile hit its Bushehr nuclear power plant• Tel Aviv, Ben Gurion airport struck by drones• 498 schools, 281 medical facilities among over 82,000 civilian structures ta...",
-      "date": "Wed, 25 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "North Korea’s Kim vows ‘irreversible’ nuclear status, warns Seoul of ‘merciless’ response",
-      "link": "https://www.dawn.com/news/1984888/north-koreas-kim-vows-irreversible-nuclear-status-warns-seoul-of-merciless-response",
-      "description": "North Korea will never give up nuclear weapons, leader Kim Jong Un said, indicating that it will soon designate South Korea the “most hostile state”, according to a state media report on Tuesday. Kim also told the country’s legislature in a policy address on Monday that the Unite...",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Islamabad offers to host US-Iran climbdown effort",
-      "link": "https://www.dawn.com/news/1985071/islamabad-offers-to-host-us-iran-climbdown-effort",
-      "description": "• Insiders say Washington asked Pakistan to host negotiations; groundwork laid in weeks of ‘hectic diplomacy’• Witkoff expected to lead engagement; no indication yet of who Iran may send• Trump claims engagement on ‘15 points’• Tehran implies existence of backchannel; spox says m...",
-      "date": "Wed, 25 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Australia, European Union agree sweeping new trade pact 8 years in the works",
-      "link": "https://www.dawn.com/news/1984878/australia-european-union-agree-sweeping-new-trade-pact-8-years-in-the-works",
-      "description": "The European Union (EU) and Australia struck a long-awaited free-trade deal on Tuesday, while also agreeing to boost defence cooperation and access to crucial rare-earth minerals in the face of global uncertainty over trade. EU chief Ursula von der Leyen’s visit to Australia come...",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US journalists sue to protect Voice of America from political control",
-      "link": "https://www.dawn.com/news/1984807/us-journalists-sue-to-protect-voice-of-america-from-political-control",
-      "description": "WASHINGTON: Journalists at the US government-funded broadcaster Voice of America (VOA) have filed a lawsuit accusing the Trump administration of undermining the outlet’s independence and turning it into a tool for political messaging. The complaint, filed on Monday in the US Dist...",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "War Diary Day 25: Pause holds but conflict’s underlying dynamics point to widening of scope",
-      "link": "https://www.dawn.com/news/1984968/war-diary-day-25-pause-holds-but-conflicts-underlying-dynamics-point-to-widening-of-scope",
-      "description": "On the 25th day of the US-Israeli war on Iran, the conflict’s underlying dynamics pointed to a continued widening of scope, with President Donald Trump’s five-day pause on strikes against Iranian energy infrastructure offering only limited respite and doing little to alter the br...",
-      "date": "Tue, 24 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
-      "link": "https://tass.com/pressreview/1969589",
-      "description": "Top stories from the Russian press on Friday, June 6th",
-      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
-      "link": "https://tass.com/world/1969663",
-      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
-      "date": "Fri, 06 Jun 2025",
+      "title": "No plans to scale down Iran operation during talks, White House says",
+      "link": "https://tass.com/world/2106641",
+      "description": "Acording to the report, the US had sent Iran a 15-point plan to end the war",
+      "date": "Wed, 25 Mar 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
-      "link": "https://tass.com/world/1969613",
-      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
-      "date": "Fri, 06 Jun 2025",
+      "title": "Britain expected quick US victory in Iran — Russian ambassador Kelin",
+      "link": "https://tass.com/politics/2106595",
+      "description": "The official said that in spite of the irritation of US President Donald Trump over London's reluctance to participate in unblocking the Strait of Hormuz, the depth of the transatlantic differences shall not be exagerated",
+      "date": "Wed, 25 Mar 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
-      "link": "https://tass.com/world/1969533",
-      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
-      "date": "Thu, 05 Jun 2025",
+      "title": "Iran suspects trick in US offer for talks — Axios",
+      "link": "https://tass.com/world/2106583",
+      "description": "Sources cited by the news portal say that the deployment of major troop reinforcements by the US has strengthened the suspicions in Tehran",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "At least 12 people killed in attack on Iranian city near Tehran",
+      "link": "https://tass.com/world/2106575",
+      "description": "28 people were injured during the attack",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran calls for creation of regional military alliance without United States",
+      "link": "https://tass.com/world/2106567",
+      "description": "Iran’s General Staff says that the countries of the region \"will never need a state located thousands of kilometers away to guarantee their security\"",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "About 290 US troops wounded since beginning of operation against Iran — CNN",
+      "link": "https://tass.com/world/2106563",
+      "description": "According to a source in the Central Command, of the affected soldiers, 255 returned to service",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran says Strait of Hormuz closed only to ships of hostile countries",
+      "link": "https://tass.com/world/2106545",
+      "description": "The Islamic republic noted that the full restoration of security and sustainable stability in the strait depends on the cessation of hostilities by the US and Israel",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Britain works with partners to open Strait of Hormuz — Starmer",
+      "link": "https://tass.com/world/2106535",
+      "description": "The UK prime minister expressed \"unwavering support\" for Saudi Arabia",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US hands 15-point proposal to end war over to Iran — NYT",
+      "link": "https://tass.com/world/2106527",
+      "description": "According to sources cited by the newspaper, the plan affects the missile and nuclear programs of the Islamic republic",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran’s foreign minister appreciates German president's statement on US-Israeli attacks",
+      "link": "https://tass.com/world/2106525",
+      "description": "Abbas Araghchi says Frank-Walter Steinmeier \"should be given credit\" for condemning the violations against Iranians",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "No talks between Iran and Washington during US aggression — Iran’s ambassador to Russia",
+      "link": "https://tass.com/world/2106519",
+      "description": "Kazem Jalali says there were no negotiations between representatives of the countries for more than 20 days, the entire duration of the conflict",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump threatens Iran with destruction of $10 billion power plant",
+      "link": "https://tass.com/world/2106517",
+      "description": "There are no obstacles for the US to strike targets in Iran, the president says",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israel strikes Iran’s largest explosives production facility in Isfahan",
+      "link": "https://tass.com/world/2106509",
+      "description": "Besides, the Israeli Air Force attacked \"dozens\" of Iranian facilities during the day, including ballistic missile launching sites, weapons production sites, and air defense systems",
+      "date": "Wed, 25 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran agrees not to enrich uranium — US leader",
+      "link": "https://tass.com/world/2106505",
+      "description": "Donald Trump added that the Islamic republic \"can’t have certain things\"",
+      "date": "Tue, 24 Mar 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
