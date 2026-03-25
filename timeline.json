@@ -1,17 +1,18 @@
 {
-  "updated": "2026-03-25 15:49 UTC",
-  "total": 10,
+  "updated": "2026-03-25 18:38 UTC",
+  "total": 11,
   "events": [
     {
       "date": "2026-03-25",
       "dateDisplay": "Mar 25, 2026",
-      "title": "US demands of 15-point peace plan likely 'unacceptable' for Iran",
-      "link": "https://www.france24.com/en/us-demands-of-15-point-peace-plan-likely-unacceptable-for-iran",
+      "title": "Iran rejects US 15-point peace plan, state media report",
+      "link": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24"
+        "France 24",
+        "BBC"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-03-24",
@@ -62,6 +63,17 @@
       "dateDisplay": "Mar 20, 2026",
       "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
       "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-03-18",
+      "dateDisplay": "Mar 18, 2026",
+      "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+      "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
