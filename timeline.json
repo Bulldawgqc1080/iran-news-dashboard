@@ -1,15 +1,26 @@
 {
-  "updated": "2026-03-26 00:03 UTC",
-  "total": 11,
+  "updated": "2026-03-26 06:01 UTC",
+  "total": 12,
   "events": [
+    {
+      "date": "2026-03-26",
+      "dateDisplay": "Mar 26, 2026",
+      "title": "Live: Israel carries out fresh wave of strikes across Iran",
+      "link": "https://www.france24.com/en/middle-east/20260326-live-israel-carries-out-fresh-wave-of-strikes-across-iran",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-03-25",
       "dateDisplay": "Mar 25, 2026",
       "title": "Iran's foreign minister says there are no negotiations with US",
       "link": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
-        "BBC"
+        "BBC",
+        "Al Jazeera"
       ],
       "sourceCount": 2,
       "type": "govt"
@@ -17,10 +28,10 @@
     {
       "date": "2026-03-24",
       "dateDisplay": "Mar 24, 2026",
-      "title": "The Israeli military wants several more weeks to fight Iran war, officials say",
-      "link": "https://www.npr.org/2026/03/24/nx-s1-5759317/israel-iran-war",
+      "title": "Small window open for US-Iran talks, but swift end to war still unlikely",
+      "link": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
