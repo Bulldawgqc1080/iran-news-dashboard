@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27 20:04 UTC",
+  "updated": "2026-03-27 22:00 UTC",
   "total": 60,
   "stories": [
     {
@@ -13,9 +13,9 @@
       "bias": "Low"
     },
     {
-      "title": "Marco Rubio heads to Europe to try to garner support for the Iran war",
+      "title": "A month of war has destroyed a third of Iran's missiles, per U.S. intelligence",
       "link": "https://www.npr.org/2026/03/27/nx-s1-5763475/iran-war-talks-rubio-markets-g7",
-      "description": "Representatives from G7 countries gather in France, where U.S. Secretary of State Marco Rubio is expected to try to shore up support from reticent allies for the Trump administration's war on Iran.",
+      "description": "The Trump administration says it's ahead of schedule in destroying Iran's weapons, but NPR has learned that a U.S. intelligence assessment says about a third of Iran's missiles have been destroyed.",
       "date": "Fri, 27 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -56,16 +56,6 @@
       "title": "The U.S. and Iran can't even agree on whether they're talking",
       "link": "https://www.npr.org/2026/03/26/nx-s1-5761378/the-u-s-and-iran-cant-even-agree-on-whether-theyre-talking",
       "description": "President Trump says Iran is \"begging\" for a deal. Iran says it has no intention of negotiating. NPR's Mary Louise Kelly talks with NPR's Tom Bowman and Aya Batrawy about prospects for an off-ramp.",
-      "date": "Thu, 26 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "The Olympic committee bans trans athletes from women's events, raising many questions",
-      "link": "https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing",
-      "description": "The International Olympic Committee will require all athletes who want to participate in women's events to undergo genetic testing. The policy takes effect for the 2028 Summer Games in Los Angeles.",
       "date": "Thu, 26 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -223,6 +213,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Rubio says Iran war to last weeks, no US ground troops needed",
+      "link": "https://www.france24.com/en/europe/20260327-rubio-says-iran-war-to-last-weeks-no-us-ground-troops-needed",
+      "description": "US Secretary of State Marco Rubio said Friday that Washington expects its military operation against Iran to wrap up within weeks without the need for ground troops. This comes as G7 nations adopted a declaration on Iran calling for an immediate halt to attacks against civilian p...",
+      "date": "Fri, 27 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Egypt imposes business curfew to counter soaring fuel costs",
+      "link": "https://www.france24.com/en/egypt-imposes-business-curfew-to-counter-soaring-fuel-costs",
+      "description": "In tonight's edition, Egypt orders shops, restaurants and shopping malls to shut their doors from 9:00 pm Saturday as it hopes to cushion the blow of energy prices that have more than doubled because of the Iran war. Also, rising jihadist violence in the Sahel is hitting tourism ...",
+      "date": "Fri, 27 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "War in Lebanon 'was imposed upon us', PM Nawaf Salam says",
       "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260327-war-in-lebanon-was-imposed-upon-us-pm-nawaf-salam-says",
       "description": "In an interview with FRANCE 24 in Beirut, Lebanese Prime Minister Nawaf Salam discussed the Israeli offensive in Lebanon, amid the ongoing war in the Middle East. \"This war was imposed upon us,\" the Lebanese leader said, adding that Lebanon \"could have avoided it\" had Hezbollah n...",
@@ -313,14 +323,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Exclusive images: Nightly pro-govt rallies spread in Iran",
-      "link": "https://www.france24.com/en/video/20260327-exclusive-images-nightly-pro-govt-rallies-spread-in-iran",
-      "description": "Since the war between the US, Israel and Iran began on February 28th, an increasing number of Iranians have been gathering in Tehran's main squares, but also in areas across the country, to express their support of the regime. With exclusive images, some of these Iranians tell us...",
+      "title": "Guns in the streets as US, Israel intensify month-long attacks across Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/27/guns-in-the-streets-as-us-israel-intensify-month-long-attacks-across?traffic_source=rss",
+      "description": "A senior IRGC official in Tehran told state television that children over 12 can join armed patrols and checkpoints.",
       "date": "Fri, 27 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Grieving Iranian mother tells UN about children before school attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/grieving-iranian-mother-tells-un-about-children-before-school-attack?traffic_source=rss",
+      "description": "An Iranian mother told the UN Human Right’s Council about the last time she saw her children alive.",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel launches strikes on nuclear sites as Iran warns of retaliation",
+      "link": "https://www.aljazeera.com/news/2026/3/27/israel-launches-strikes-on-iran-nuclear-sites-as-war-enters-fifth-week?traffic_source=rss",
+      "description": "Uranium facility, steel plants and heavy water complex among targets hit as IRGC warns of escalation.",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How important are the Gulf economies to the world?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/27/how-important-are-the-gulf-economies-to-the-world?traffic_source=rss",
+      "description": "Impact of US-Israeli war on Iran poses serious risks beyond energy sector.",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel attacks major industrial and nuclear sites in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israel-attacks-major-industrial-and-nuclear-sites-in-iran?traffic_source=rss",
+      "description": "Smoke was seen rising from Iran’s Arak heavy-water plant following Israeli air strikes on key infrastructure.",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Drone reveals extent of Iranian missile damage in Israeli city of Arad",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/drone-reveals-extent-of-iranian-missile-damage-in-israeli-city-of-arad?traffic_source=rss",
+      "description": "Drone footage has revealed the extent of damage in Arad days after an Iranian missile attack.",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Smoke rises over Beirut suburbs after massive Israeli airstrike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/smoke-rises-over-beirut-suburbs-after-massive-israeli-airstrike?traffic_source=rss",
+      "description": "Smoke rose over the skyline of Beirut following airstrikes as Israel continued to escalate its war on Hezbollah.",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Rubio: US expects Iran war to end in ‘weeks, not months’",
@@ -403,204 +473,134 @@
       "bias": "Medium"
     },
     {
-      "title": "‘Raising 10 red flags’: Is Israel’s army exhausted?",
-      "link": "https://www.aljazeera.com/features/2026/3/27/raising-10-red-flags-is-israels-army-exhausted?traffic_source=rss",
-      "description": "After years of regional forever wars, Israel&#039;s chief of staff warns the army is on the brink of collapse.",
+      "title": "Iran-linked hackers breach FBI Director Kash Patel’s personal email, publish excerpts online",
+      "link": "https://www.dawn.com/news/1985963/iran-linked-hackers-breach-fbi-director-kash-patels-personal-email-publish-excerpts-online",
+      "description": "Iran-linked hackers on Friday claimed they had accessed FBI Director Kash Patel’s personal email inbox, publishing photographs of the director and other documents to the internet. On their website, the hacker group Handala Hack Team said Patel “will now find his name among the li...",
       "date": "Fri, 27 Mar 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz?",
-      "link": "https://www.aljazeera.com/economy/2026/3/27/saudi-uae-iraq-can-three-pipelines-help-oil-escape-strait-of-hormuz?traffic_source=rss",
-      "description": "Countries in the Middle East have ramped up oil exports via pipeline to bridge the Strait of Hormuz gap.",
+      "title": "China blasts ‘false’ news after report says chipmaker supplying Iran",
+      "link": "https://www.dawn.com/news/1985894/china-blasts-false-news-after-report-says-chipmaker-supplying-iran",
+      "description": "China’s foreign ministry accused the media of publishing “false information” on Friday following a report that said the country’s top semiconductor firm has sent chipmaking tools to Iran. The report, which cited information from two unidentified senior officials in US President D...",
       "date": "Fri, 27 Mar 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Qatari PM and US officials discuss strategic ties amid Iran war",
-      "link": "https://www.aljazeera.com/news/2026/3/27/qatari-pm-and-us-officials-discuss-strategic-ties-amid-iran-war?traffic_source=rss",
-      "description": "The meeting reviewed the &#039;close strategic cooperation&#039; between Doha and Washington, Qatar&#039;s foreign ministry said.",
-      "date": "Fri, 27 Mar 2026",
-      "source": "Al Jazeera",
+      "title": "US can only confirm about a third of Iran’s missile arsenal destroyed, sources say",
+      "link": "https://www.dawn.com/news/1986084/us-can-only-confirm-about-a-third-of-irans-missile-arsenal-destroyed-sources-say",
+      "description": "The United States can only determine with certainty that it has destroyed about a third of Iran’s vast missile arsenal as the US and Israeli war on the country ​nears its one-month mark, according to five people familiar with the US intelligence. The status of around another thir...",
+      "date": "Sat, 28 Mar 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran expert says US ground invasion could cause a global economic meltdown",
-      "link": "https://www.aljazeera.com/video/quotable/2026/3/27/iran-expert-says-us-ground-invasion-could-cause-a-global-economic-meltdown?traffic_source=rss",
-      "description": "Ali Vaez says the US and Iran have reached a stalemate where further escalation would likely lead to catastrophe.",
-      "date": "Fri, 27 Mar 2026",
-      "source": "Al Jazeera",
+      "title": "Rubio says war on Iran to last ‘weeks not months’, no US ground troops needed",
+      "link": "https://www.dawn.com/news/1985991/rubio-says-war-on-iran-to-last-weeks-not-months-no-us-ground-troops-needed",
+      "description": "The war in the Gulf is still expected to last weeks, not months, and Washington can meet all its objectives without using ground troops, US Secretary of State Marco Rubio said on Friday. Rubio told reporters after meeting G7 counterparts in France that Washington was “on or ahead...",
+      "date": "Sat, 28 Mar 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Ukraine announces ‘mutually beneficial’ defence deal with Saudi Arabia",
-      "link": "https://www.aljazeera.com/news/2026/3/27/ukraine-announces-defense-pact-with-saudi-arabia?traffic_source=rss",
-      "description": "Kyiv, which has built expertise on how to counter drones, seals pact amid Iran war.",
+      "title": "China says US-Iran talks would help restore Hormuz transit, supports Pakistan as mediator",
+      "link": "https://www.dawn.com/news/1985906/china-says-us-iran-talks-would-help-restore-hormuz-transit-supports-pakistan-as-mediator",
+      "description": "Initiating peace talks in the war on Iran “is no easy task,” but it would be “conducive to restoring normal navigation through the Strait of Hormuz,” Chinese Foreign Minister Wang Yi said during a call with Deputy Prime Minister and Foreign Minister Ishaq Dar on Friday. The two “...",
       "date": "Fri, 27 Mar 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "US tells allies ground op in Iran not imminent — Bloomberg",
-      "link": "https://tass.com/world/2108247",
-      "description": "Sources cited by the news agency admit that US President Donald Trump could change his mind and order a ground invasion",
+      "title": "Sony to hike PlayStation 5 prices again as memory chip costs surge",
+      "link": "https://www.dawn.com/news/1985920/sony-to-hike-playstation-5-prices-again-as-memory-chip-costs-surge",
+      "description": "Sony Group is raising global prices of its PlayStation 5 consoles, including a $100 increase in the US, marking its second hike in less than a year as the Japanese firm grapples with rising costs of key components such as memory chips. The tech industry’s race to build out artifi...",
       "date": "Fri, 27 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Ukraine, Saudi Arabia sign air defence deal: senior officials",
+      "link": "https://www.dawn.com/news/1985880/ukraine-saudi-arabia-sign-air-defence-deal-senior-officials",
+      "description": "Ukraine and Saudi Arabia have signed an air defence agreement during President Volodymyr Zelensky’s visit to the kingdom, which is facing Iranian drone attacks, two senior officials told AFP on Friday. Kyiv has sought to leverage its expertise in downing Russian drones to help Gu...",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Very important neutral party’: Pakistan can play greater diplomatic role, says US lawmaker",
+      "link": "https://www.dawn.com/news/1985823/very-important-neutral-party-pakistan-can-play-greater-diplomatic-role-says-us-lawmaker",
+      "description": "WASHINGTON: As tensions surrounding Iran once again test regional diplomacy, Pakistan is emerging in Washington’s policy conversations as a potential intermediary — a shift that signals a broader reassessment of its strategic utility beyond the traditional security framework. At ...",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "North Korea, Belarus sign ‘friendship’ treaty during Lukashenko visit",
+      "link": "https://www.dawn.com/news/1985838/north-korea-belarus-sign-friendship-treaty-during-lukashenko-visit",
+      "description": "North Korea and Belarus’s strongmen leaders signed a “friendship and cooperation” treaty after Kim Jong Un gave a lavish welcome to President Alexander Lukashenko on his maiden visit. Besides supporting Russia’s war against Ukraine — around 2,000 North Korean soldiers are thought...",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Torrential rain lashes large parts of Abu Dhabi, Dubai in UAE",
+      "link": "https://www.dawn.com/news/1985871/torrential-rain-lashes-large-parts-of-abu-dhabi-dubai-in-uae",
+      "description": "Heavy rainfall has lashed large parts of the United Arab Emirates (UAE), from Dubai to Abu Dhabi, as well as northern emirates, Gulf News reported on Friday. As per the UAE’s National Centre of Meteorology (NCM), “unstable conditions driven by a low-pressure system have brought r...",
+      "date": "Fri, 27 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
+      "link": "https://tass.com/world/1968185",
+      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "At least 13 people killed, over 50 injured in US-Israeli attacks on Iran’s Kermanshah",
-      "link": "https://tass.com/world/2108233",
-      "description": "The attacks targeted residential quarters in the city of Kermanshah and a neighborhood in the province’s eastern part",
-      "date": "Fri, 27 Mar 2026",
+      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
+      "link": "https://tass.com/world/1968163",
+      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Russia doing nothing that might impede US operation against Iran — Rubio",
-      "link": "https://tass.com/world/2108229",
-      "description": "Russian Foreign Minister Sergey Lavrov said earlier that Russia had provided no intelligence to Iran in its confrontations with the United States and Israel",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
+      "title": "DPRK slams U.S. for orchestrating efforts to tighten financial sanctions against Pyongyang",
+      "link": "http://news.xinhuanet.com/english/2017-03/30/c_136171059.htm",
+      "description": "The Democratic People's Republic of Korea (DPRK) has slammed the United States for orchestrating efforts to tighten financial sanctions against Pyongyang.",
+      "date": "2017-03-30",
+      "source": "Xinhua",
+      "region": "cn",
       "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel attacks heavy water plant in Iran’s Arak — IDF",
-      "link": "https://tass.com/world/2108219",
-      "description": "Heavy water is a material used to operate nuclear reactors",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Hezbollah aims to kill as many Israeli troops as possible — expert",
-      "link": "https://tass.com/world/2108197",
-      "description": "As Hezbollah is well-versed in the terrain, it has the upper hand in carrying out ambush attacks, Lebanese General Hassan Juni noted",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran has not started new round of talks with US — ambassador to Zimbabwe",
-      "link": "https://tass.com/world/2108187",
-      "description": "According to Amir Hossein Hosseini, Iran will bring this war to an end at a time of its own choosing, and only when the conditions it has set are fully met",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Lithuania cannot lift sanctions on Belarusian fertilizers unilaterally — lawmaker",
-      "link": "https://tass.com/world/2108185",
-      "description": "Remigijus Motuzas said the position to renew sanctions against Minsk is decisive",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "German officials lose zero sleep over Trump's criticism of them — spokesman",
-      "link": "https://tass.com/world/2108181",
-      "description": "Some German politicians said earlier that Germany will stay away from the conflict in Iran",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Vance may become 'top US negotiator' in talks with Iran — Axios",
-      "link": "https://tass.com/world/2108163",
-      "description": "According to the news portal, \"Vance was highly skeptical of Israel’s rosy prewar assessment of how the war would unfold, and currently expects the war to continue for another few weeks\"",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Over 300 American soldiers wounded during operation against Iran — TV",
-      "link": "https://tass.com/world/2108161",
-      "description": "According to the report, ten servicemen have received severe wounds",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US attacks Iran on its own, now demands support from everyone — French defense ministry",
-      "link": "https://tass.com/world/2108159",
-      "description": "According to Catherine Vautrin, France is taking a \"defensive\" position, seeking a diplomatic solution, particularly regarding the Strait of Hormuz",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "EU governments believe US ground op in Iran 'all but inevitable' — Bloomberg",
-      "link": "https://tass.com/world/2108151",
-      "description": "The agency cited an unnamed Iranian official as saying that Tehran believes there is a high probability of a US operation to seize Kharg Island",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran expects EAEU countries to condemn US, Israeli aggression — ambassador to Kazakhstan",
-      "link": "https://tass.com/world/2108123",
-      "description": "Ali Akbar Jokar stated that such open aggression not only violates all legal and international laws, including the UN Charter, but also threatens Iran’s national sovereignty and territorial integrity",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Hezbollah tunnel shaft found near church in southern Lebanon — IDF",
-      "link": "https://tass.com/world/2108115",
-      "description": "The army added that hundreds of weapons were found at a school in Al-Khiyam",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US aircraft drop anti-tank mines near Shiraz, Iran — WP",
-      "link": "https://tass.com/world/2108107",
-      "description": "Experts believe these mines are intended to hinder mobile launchers from accessing the site",
-      "date": "Fri, 27 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
+      "bias": "High"
     }
   ]
 }
