@@ -1,18 +1,28 @@
 {
-  "updated": "2026-03-27 00:00 UTC",
-  "total": 11,
+  "updated": "2026-03-27 06:01 UTC",
+  "total": 12,
   "events": [
+    {
+      "date": "2026-03-27",
+      "dateDisplay": "Mar 27, 2026",
+      "title": "Middle East live: Iran launches strikes on Israel and Gulf sites",
+      "link": "https://www.france24.com/en/middle-east/20260327-middle-east-live-iran-launches-strikes-on-israel-and-gulf-sites",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-03-26",
       "dateDisplay": "Mar 26, 2026",
-      "title": "Trump insists Iran is \u2018begging to make a deal\u2019 after Tehran dismisses ceasefire plan",
-      "link": "https://www.france24.com/en/trump-insists-iran-is-begging-to-make-a-deal-after-tehran-dismisses-ceasefire-plan",
+      "title": "Iran&apos;s war propaganda includes memes directed at Trump",
+      "link": "https://www.npr.org/2026/03/26/nx-s1-5760944/irans-war-propaganda-includes-memes-directed-at-trump",
       "sources": [
-        "France 24",
-        "Al Jazeera"
+        "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-03-25",
