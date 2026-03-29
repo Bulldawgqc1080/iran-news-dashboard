@@ -1,17 +1,18 @@
 {
-  "updated": "2026-03-29 19:47 UTC",
+  "updated": "2026-03-29 21:02 UTC",
   "total": 6,
   "events": [
     {
       "date": "2026-03-29",
       "dateDisplay": "Mar 29, 2026",
-      "title": "Houthis open new front against Israel, is Red Sea shipping at risk?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/houthis-open-new-front-against-israel-is-red-sea-shipping-at-risk?traffic_source=rss",
+      "title": "Iran warns U.S. against ground invasion, as Pakistan holds diplomatic talks",
+      "link": "https://www.npr.org/2026/03/29/nx-s1-5765344/pakistan-diplomatic-discussions-iran-war",
       "sources": [
-        "Al Jazeera"
+        "NPR News",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-03-28",
@@ -19,8 +20,8 @@
       "title": "Over a dozen U.S. soldiers injured in attack on Saudi base as Iran-backed Houthis enter war",
       "link": "https://www.npr.org/2026/03/28/nx-s1-5764720/iran-war-one-month",
       "sources": [
-        "BBC",
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
