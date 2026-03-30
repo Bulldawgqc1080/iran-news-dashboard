@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T21:28:00Z",
+  "lastUpdated": "2026-03-30T21:45:34.533Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,15 +9,15 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 22957312072
+    "estimatedTotalUsd": 36206649688
   },
   "casualties": {
     "us": {
       "killed": {
-        "value": 8,
-        "asOf": "2026-03-08T00:00:00Z",
-        
-        "confidence": "medium"
+        "value": 13,
+        "asOf": "2026-03-30T21:45:34.533Z",
+        "sourceId": "dod-centcom-rss",
+        "confidence": "high"
       },
       "wounded": {
         "value": 140,
@@ -70,13 +70,15 @@
     "usGasChangeSinceStartUsd": 0.62,
     "brentUsdPerBbl": 99.06,
     "brentChangePct24h": 0.1,
-    "asOf": "2026-03-13T12:15:00Z"
+    "asOf": "2026-03-13T12:15:00Z",
+    "gasSeriesDate": "2026-03-23",
+    "gasBaselineDate": "2026-03-02"
   },
   "quality": {
-    "generatedAt": "2026-03-30T21:28:00Z",
+    "generatedAt": "2026-03-30T21:45:34.533Z",
     "staleThresholdHours": 48,
     "casualties": {
-      "usStale": true,
+      "usStale": false,
       "iranMilitaryStale": true,
       "iranCiviliansStale": true
     },

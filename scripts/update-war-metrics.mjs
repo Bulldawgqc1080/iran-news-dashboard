@@ -65,31 +65,60 @@ return res.json();
 }
 
 async function getBrentPatch() {
-const url = "https://query1.finance.yahoo.com/v7/finance/quote?symbols=BZ=F";
-const json = await fetchJson(url);
-const q = json?.quoteResponse?.result?.[0];
-if (!q) throw new Error("No Brent quote");
-return {
-brentUsdPerBbl: Number(q.regularMarketPrice),
-brentChangePct24h: Number(q.regularMarketChangePercent),
-asOf: nowIso()
-};
+try {
+  const url = "https://query1.finance.yahoo.com/v7/finance/quote?symbols=BZ=F";
+  const json = await fetchJson(url);
+  const q = json?.quoteResponse?.result?.[0];
+  if (!q) throw new Error("No Brent quote");
+  return {
+    brentUsdPerBbl: Number(q.regularMarketPrice),
+    brentChangePct24h: Number(q.regularMarketChangePercent),
+    brentSource: "yahoo-brent",
+    asOf: nowIso()
+  };
+} catch {
+  const res = await fetch("https://api.oilpriceapi.com/v1/prices/latest?by_code=BRENT_CRUDE_USD", {
+    headers: { "user-agent": "clearview-updater" }
+  });
+  if (!res.ok) throw new Error(`Brent fallback ${res.status}`);
+  const json = await res.json();
+  const price = Number(json?.data?.price ?? json?.price);
+  const changePct = Number(json?.data?.percent_change_24h ?? json?.data?.change_percent ?? json?.percent_change_24h);
+  if (!Number.isFinite(price)) throw new Error("No Brent fallback quote");
+  return {
+    brentUsdPerBbl: price,
+    brentChangePct24h: Number.isFinite(changePct) ? changePct : null,
+    brentSource: "oilpriceapi-brent",
+    asOf: nowIso()
+  };
+}
 }
 
-async function getGasPatch() {
+async function getGasPatch(startIso) {
 const res = await fetch("https://fred.stlouisfed.org/graph/fredgraph.csv?id=GASREGW");
 if (!res.ok) throw new Error(`FRED ${res.status}`);
 const text = await res.text();
-const rows = text.trim().split("\n").slice(1).filter(Boolean);
-const last = rows[rows.length - 1]?.split(",");
-const prev = rows[rows.length - 2]?.split(",");
-const val = Number(last?.[1]);
-const prevVal = Number(prev?.[1]);
+const rows = text.trim().split("\n").slice(1).filter(Boolean)
+.map(line => {
+  const [date, value] = line.split(",");
+  return { date, value: Number(value) };
+})
+.filter(r => Number.isFinite(r.value));
+
+const last = rows[rows.length - 1];
+if (!last) throw new Error("No gas rows");
+
+const startTs = new Date(startIso).getTime();
+let baseline = rows[0];
+if (Number.isFinite(startTs)) {
+  baseline = rows.find(r => new Date(r.date).getTime() >= startTs) || rows[rows.length - 1];
+}
 
 return {
-usGasNationalAvgUsd: val,
-usGasChangeSinceStartUsd: Number.isFinite(prevVal) ? +(val - prevVal).toFixed(2) : 0,
-gasSeriesDate: last?.[0],
+usGasNationalAvgUsd: last.value,
+usGasChangeSinceStartUsd: +(last.value - baseline.value).toFixed(2),
+gasSeriesDate: last.date,
+gasBaselineDate: baseline.date,
 asOf: nowIso()
 };
 }
@@ -225,12 +254,23 @@ casualties.us.killed.value = Math.max(
 Number(defaults.casualties.us.killed.value || 0),
 Number(casualties?.us?.killed?.value || 0)
 );
+
+// Keep contested/non-primary casualty data clearly marked and avoid implying freshness.
+if (casualties?.iranMilitary?.killed) {
+  casualties.iranMilitary.killed.confidence = casualties.iranMilitary.killed.confidence || "low";
+}
+if (casualties?.iranCivilians?.killed) {
+  casualties.iranCivilians.killed.confidence = casualties.iranCivilians.killed.confidence || "low";
+}
+if (casualties?.iranCivilians?.wounded) {
+  casualties.iranCivilians.wounded.confidence = casualties.iranCivilians.wounded.confidence || "low";
+}
   
 let energy = existing.energy || {};
 const lastGoodEnergy = existing.energy || {};
 
 try {
-energy = { ...energy, ...(await getGasPatch()) };
+energy = { ...energy, ...(await getGasPatch(operation.start)) };
 } catch (e) {
 console.warn("gas fetch failed:", e.message);
 energy = { ...energy, ...lastGoodEnergy };
