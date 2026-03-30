@@ -88,6 +88,8 @@ font-family:var(--font-mono,monospace);
 }
 .ww-val{font-size:1rem;font-weight:700}
 .ww-muted{font-size:.78rem;color:var(--subtext,#8892b0);margin-top:4px}
+.ww-note{font-size:.72rem;color:var(--subtext,#8892b0);margin-top:6px;line-height:1.4}
+.ww-stale{color:#ffbe0b}
 .ww-sources{
 margin-top:12px;
 font-size:.82rem;
@@ -122,8 +124,8 @@ font-family:var(--font-mono,monospace);
       <div class="ww-cost" id="ww-cost">$0</div>
       <div class="ww-sub" id="ww-method"></div>
       <div class="ww-grid">
-        <div class="ww-card"><div class="ww-label">U.S. Service Members</div><div class="ww-val">Killed: <span id="ww-us-k">—</span></div><div class="ww-val">Wounded: <span id="ww-us-w">—</span></div></div>
-        <div class="ww-card"><div class="ww-label">Iran / Others</div><div class="ww-val">Military killed: <span id="ww-im-k">—</span></div><div class="ww-val">Civilian killed: <span id="ww-ic-k">—</span></div><div class="ww-val">Civilian wounded: <span id="ww-ic-w">—</span></div></div>
+        <div class="ww-card"><div class="ww-label">U.S. Service Members</div><div class="ww-val">Reported killed: <span id="ww-us-k">—</span></div><div class="ww-val">Reported wounded: <span id="ww-us-w">—</span></div><div class="ww-note" id="ww-us-note">—</div></div>
+        <div class="ww-card"><div class="ww-label">Iran / Others</div><div class="ww-val">Reported military killed: <span id="ww-im-k">—</span></div><div class="ww-val">Reported civilian killed: <span id="ww-ic-k">—</span></div><div class="ww-val">Reported civilian wounded: <span id="ww-ic-w">—</span></div><div class="ww-note" id="ww-iran-note">—</div></div>
         <div class="ww-card"><div class="ww-label">U.S. Gas</div><div class="ww-val" id="ww-gas">—</div><div class="ww-muted" id="ww-gasd">—</div></div>
         <div class="ww-card"><div class="ww-label">Brent</div><div class="ww-val" id="ww-brent">—</div><div class="ww-muted" id="ww-brentd">—</div></div>
       </div>
@@ -156,10 +158,14 @@ font-family:var(--font-mono,monospace);
 
       const usKilled = m.casualties?.us?.killed?.value;
       const usWounded = m.casualties?.us?.wounded?.value;
+      const usStale = !!m.quality?.casualties?.usStale;
+      const iranMilStale = !!m.quality?.casualties?.iranMilitaryStale;
+      const iranCivStale = !!m.quality?.casualties?.iranCiviliansStale;
 
       $("#ww-us-k").textContent = Number.isFinite(usKilled) ? fmtInt(usKilled) : "—";
       $("#ww-us-w").textContent = Number.isFinite(usWounded) ? fmtInt(usWounded) : "—";
-      
+      $("#ww-us-note").innerHTML = `Source: CENTCOM RSS${usStale ? ' <span class="ww-stale">• stale</span>' : ''}`;
+
       $("#ww-im-k").textContent = range(
       m.casualties?.iranMilitary?.killed?.minConfirmed,
       m.casualties?.iranMilitary?.killed?.maxReported
@@ -172,6 +178,7 @@ font-family:var(--font-mono,monospace);
       m.casualties?.iranCivilians?.wounded?.minConfirmed,
       m.casualties?.iranCivilians?.wounded?.maxReported
       );
+      $("#ww-iran-note").innerHTML = `Ranges are reported estimates, not confirmed totals${(iranMilStale || iranCivStale) ? ' <span class="ww-stale">• stale</span>' : ''}`;
       const gas = m.energy?.usGasNationalAvgUsd;
       const gd = m.energy?.usGasChangeSinceStartUsd;
       const brent = m.energy?.brentUsdPerBbl;
