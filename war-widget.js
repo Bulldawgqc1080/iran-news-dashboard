@@ -126,8 +126,8 @@ font-family:var(--font-mono,monospace);
       <div class="ww-grid">
         <div class="ww-card"><div class="ww-label">U.S. Service Members</div><div class="ww-val">Reported killed: <span id="ww-us-k">—</span></div><div class="ww-val">Reported wounded: <span id="ww-us-w">—</span></div><div class="ww-note" id="ww-us-note">—</div></div>
         <div class="ww-card"><div class="ww-label">Iran / Others</div><div class="ww-val">Reported military killed: <span id="ww-im-k">—</span></div><div class="ww-val">Reported civilian killed: <span id="ww-ic-k">—</span></div><div class="ww-val">Reported civilian wounded: <span id="ww-ic-w">—</span></div><div class="ww-note" id="ww-iran-note">—</div></div>
-        <div class="ww-card"><div class="ww-label">U.S. Gas</div><div class="ww-val" id="ww-gas">—</div><div class="ww-muted" id="ww-gasd">—</div></div>
-        <div class="ww-card"><div class="ww-label">Brent</div><div class="ww-val" id="ww-brent">—</div><div class="ww-muted" id="ww-brentd">—</div></div>
+        <div class="ww-card"><div class="ww-label">U.S. Gas</div><div class="ww-val" id="ww-gas">—</div><div class="ww-muted" id="ww-gasd">—</div><div class="ww-note" id="ww-gas-note">—</div></div>
+        <div class="ww-card"><div class="ww-label">Brent</div><div class="ww-val" id="ww-brent">—</div><div class="ww-muted" id="ww-brentd">—</div><div class="ww-note" id="ww-brent-note">—</div></div>
       </div>
       <div class="ww-sources"><strong>Sources</strong><ul id="ww-sources"></ul></div>
     </section>
@@ -183,6 +183,11 @@ font-family:var(--font-mono,monospace);
       const gd = m.energy?.usGasChangeSinceStartUsd;
       const brent = m.energy?.brentUsdPerBbl;
       const bd = m.energy?.brentChangePct24h;
+      const energyStale = !!m.quality?.energy?.stale;
+      const gasSource = m.energy?.gasSource || 'unknown';
+      const gasSeriesDate = m.energy?.gasSeriesDate || null;
+      const brentSource = m.energy?.brentSource || 'unknown';
+      const energyAsOf = m.energy?.asOf || null;
 
       const gasTrendClass = Number.isFinite(gd) ? (gd > 0 ? "ww-trend-up" : gd < 0 ? "ww-trend-down" : "ww-trend-flat") : "";
       const gasArrow = Number.isFinite(gd) ? (gd > 0 ? "▲" : gd < 0 ? "▼" : "→") : "";
@@ -190,6 +195,7 @@ font-family:var(--font-mono,monospace);
       $("#ww-gasd").innerHTML = Number.isFinite(gd)
       ? `<span class="${gasTrendClass}">${gasArrow}</span> Since start: ${gd >= 0 ? "+" : ""}${fmtMoney2(gd)}`
       : "—";
+      $("#ww-gas-note").innerHTML = `Source: ${gasSource}${gasSeriesDate ? ` · series date ${gasSeriesDate}` : ''}${energyStale ? ' <span class="ww-stale">• stale</span>' : ''}`;
       
       const brentTrendClass = Number.isFinite(bd) ? (bd > 0 ? "ww-trend-up" : bd < 0 ? "ww-trend-down" : "ww-trend-flat") : "";
       const brentArrow = Number.isFinite(bd) ? (bd > 0 ? "▲" : bd < 0 ? "▼" : "→") : "";
@@ -197,6 +203,7 @@ font-family:var(--font-mono,monospace);
       $("#ww-brentd").innerHTML = Number.isFinite(bd)
       ? `<span class="${brentTrendClass}">${brentArrow}</span> 24h: ${bd >= 0 ? "+" : ""}${Number(bd).toFixed(1)}%`
       : "—";
+      $("#ww-brent-note").innerHTML = `Source: ${brentSource} · pulled ${energyAsOf ? new Date(energyAsOf).toLocaleString(CONFIG.locale) : 'unknown'}${brentSource === 'oilprice-brent' ? ' · secondary/delayed' : ''}${energyStale ? ' <span class="ww-stale">• stale</span>' : ''}`;
       
       const ul = $("#ww-sources");
       ul.innerHTML = "";
