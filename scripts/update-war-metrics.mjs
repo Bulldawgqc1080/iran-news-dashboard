@@ -208,7 +208,7 @@ async function main() {
       },
       iranMilitary: {
         killed: {
-          minConfirmed: 2094,
+          minReported: 2094,
           maxReported: 2300,
           asOf: "2026-03-13T12:00:00Z",
           sourceIds: ["acled", "reuters"],
@@ -217,14 +217,14 @@ async function main() {
       },
       iranCivilians: {
         killed: {
-          minConfirmed: 1255,
+          minReported: 1255,
           maxReported: 1800,
           asOf: "2026-03-13T12:00:00Z",
           sourceIds: ["ocha", "icrc", "msf"],
           confidence: "medium"
         },
         wounded: {
-          minConfirmed: 12000,
+          minReported: 12000,
           maxReported: 16500,
           asOf: "2026-03-13T12:00:00Z",
           sourceIds: ["ocha", "unhcr"],
@@ -265,6 +265,19 @@ async function main() {
     casualties = mergeDeep(casualties, usPatch);
   } catch (e) {
     console.warn("CENTCOM casualty fetch failed:", e.message);
+  }
+
+
+  // Normalize legacy casualty fields so UI and data use "reported" semantics.
+  for (const path of [
+    ["iranMilitary", "killed"],
+    ["iranCivilians", "killed"],
+    ["iranCivilians", "wounded"]
+  ]) {
+    const obj = casualties?.[path[0]]?.[path[1]];
+    if (!obj) continue;
+    if (obj.minReported == null && obj.minConfirmed != null) obj.minReported = obj.minConfirmed;
+    delete obj.minConfirmed;
   }
 
   let metrics = {

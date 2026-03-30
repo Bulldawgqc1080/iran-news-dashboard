@@ -167,15 +167,15 @@ font-family:var(--font-mono,monospace);
       $("#ww-us-note").innerHTML = `Source: CENTCOM RSS${usStale ? ' <span class="ww-stale">• stale</span>' : ''}`;
 
       $("#ww-im-k").textContent = range(
-      m.casualties?.iranMilitary?.killed?.minConfirmed,
+      m.casualties?.iranMilitary?.killed?.minReported,
       m.casualties?.iranMilitary?.killed?.maxReported
       );
       $("#ww-ic-k").textContent = range(
-      m.casualties?.iranCivilians?.killed?.minConfirmed,
+      m.casualties?.iranCivilians?.killed?.minReported,
       m.casualties?.iranCivilians?.killed?.maxReported
       );
       $("#ww-ic-w").textContent = range(
-      m.casualties?.iranCivilians?.wounded?.minConfirmed,
+      m.casualties?.iranCivilians?.wounded?.minReported,
       m.casualties?.iranCivilians?.wounded?.maxReported
       );
       $("#ww-iran-note").innerHTML = `Ranges are reported estimates, not confirmed totals${(iranMilStale || iranCivStale) ? ' <span class="ww-stale">• stale</span>' : ''}`;
