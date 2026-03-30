@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T21:29:05.944Z",
+  "lastUpdated": "2026-03-30T21:49:42.993Z",
   "sources": [
     {
       "id": "dod-centcom",
@@ -30,11 +30,11 @@
       "priority": "primary"
     },
     {
-      "id": "yahoo-brent",
-      "label": "Yahoo Finance Brent (BZ=F)",
-      "url": "https://finance.yahoo.com/quote/BZ=F/",
+      "id": "oilprice-brent",
+      "label": "OilPrice Brent Crude",
+      "url": "https://oilprice.com/oil-price-charts/45",
       "category": "oil",
-      "priority": "primary"
+      "priority": "secondary"
     }
   ]
 }
