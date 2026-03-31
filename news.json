@@ -1,7 +1,17 @@
 {
-  "updated": "2026-03-31 21:28 UTC",
+  "updated": "2026-03-31 22:24 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Iranians debate whether the war is worth it",
+      "link": "https://www.npr.org/2026/03/31/nx-s1-5759351/iranians-debate-whether-the-war-is-worth-it",
+      "description": "As the war in Iran enters its second month, many Iranians are urging the U.S and Israel to keep striking their country.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "6 books named finalists for the 2026 International Booker Prize",
       "link": "https://www.npr.org/2026/03/31/nx-s1-5766171/2026-international-booker-prize-shortlist",
@@ -33,20 +43,10 @@
       "bias": "Low"
     },
     {
-      "title": "Former national security adviser discusses the ongoing talks between the U.S. and Iran",
-      "link": "https://www.npr.org/2026/03/30/nx-s1-5763780/former-national-security-advisor-discusses-the-ongoing-talks-between-the-us-and-iran",
-      "description": "NPR's Michel Martin asks Biden administration national security adviser Jake Sullivan for his reaction to the latest developments in the war in Iran.",
-      "date": "Mon, 30 Mar 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Iran's strike wounded over a dozen U.S. personnel and hit valuable jets in Saudi Arabia",
-      "link": "https://www.npr.org/2026/03/30/nx-s1-5765967/trump-iran-israel-lebanon-kharg-island-oil",
-      "description": "NPR has confirmed that at least two U.S. E-3 Sentry aircraft were damaged and more than a dozen U.S. service members were injured in an Iranian missile and drone attack in Saudi Arabia on Friday.",
-      "date": "Mon, 30 Mar 2026",
+      "title": "A U.S. journalist is kidnapped in Iraq after threats from Iran-backed groups",
+      "link": "https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai-trump-oil-europe",
+      "description": "The Al-Monitor news site identified the kidnapped journalist as Shelly Kittleson. The State Department says she had been warned of threats and it's working with the FBI to get her freed.",
+      "date": "Tue, 31 Mar 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -203,6 +203,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "EU faces 'largest oil supply disruption in history', energy expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260331-eu-faces-largest-oil-supply-disruption-in-history-energy-expert-says",
+      "description": "Speaking with FRANCE 24's Sharon Gaffney, Francesco Sassi, Assistant Professor at the University of Oslo and energy geopolitics expert, says that the Iran war has provoked \"the largest oil supply disruption in history\" adding that \"what is really concerning is that national gover...",
+      "date": "Tue, 31 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US fuel prices surge past $4 a gallon",
+      "link": "https://www.france24.com/en/tv-shows/business/20260331-us-fuel-prices-surge-past-4-a-gallon",
+      "description": "The average price of regular gasoline in the United States topped $4 dollars a gallon for the first time since 2022, as the Iran war continues to disrupt global energy supply. This as inflation in the Eurozone rose past the ECB's target to 2.5% in March. Meanwhile, Egyptian shops...",
+      "date": "Tue, 31 Mar 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US journalist kidnapped in Baghdad by suspected Iranian-backed armed group",
       "link": "https://www.france24.com/en/middle-east/20260331-us-journalist-kidnapped-in-baghdad-by-suspected-iranian-backed-armed-group",
       "description": "A woman US journalist who was kidnapped in Iraq's capital city by a suspected Iranian-backed Iraqi armed group, US officials said on Tuesday. Advocacy groups identified the missing woman as Shelly Kittleson, a freelance journalist based in Rome who has covered several wars in the...",
@@ -283,24 +303,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran desalination plant in the Strait of Hormuz out of service following strikes",
-      "link": "https://www.france24.com/en/iran-desalination-plant-in-the-strait-of-hormuz-out-of-service-following-strikes",
-      "description": "One of the desalination plants on Iran's Qeshm Island has been out ​of ‌service since being ⁠hit by an air strike earlier ‌in the month, an official from ⁠the Health Ministry told Iranian media on March 30. This follows strikes on the cities of Tehran and Isfahan by the US as it ...",
+      "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iran-ambassador-refuses-to-leave-lebanon-despite-expulsion-order?traffic_source=rss",
+      "description": "Lebanon has ordered Iran’s ambassador to leave the country, but he has refused to go.",
       "date": "Tue, 31 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "How Trump’s dream of seizing enriched uranium from Iran could end in catastrophe",
-      "link": "https://www.france24.com/en/middle-east/20260331-how-trump-s-dream-of-seizing-enriched-uranium-from-iran-could-end-in-catastrophe",
-      "description": "US President Donald Trump is reportedly considering a military mission to seize Iranian uranium that has been enriched to 60 percent. But while some might view such a plan as offering a quick win, others warn that it could be \"one of the most risky and difficult operations the US...",
-      "date": "Tue, 31 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "How Pakistan positioned itself at the center of global crisis management",
@@ -356,46 +366,6 @@
       "title": "One month of war on Iran cost Arab countries up to $194bn: UNDP",
       "link": "https://www.aljazeera.com/news/2026/3/31/one-month-of-war-in-middle-east-cost-arab-states-up-to-194bn-undp?traffic_source=rss",
       "description": "Even if conflict is &#039;short but intense&#039;, countries like Sudan, Yemen, Lebanon will see major increases in poverty rates.",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why Iran believes it can outlast the US",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/31/aje-onl-tt_irn_whatcouldendthewar_av_v2-310326?traffic_source=rss",
-      "description": "Iran is preparing for deeper US escalation while insisting it’s winning. Can this war end before it widens?",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Qatar says ‘ready to help’ with US-Iran negotiations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/qatar-says-ready-to-help-with-us-iran-negotiations?traffic_source=rss",
-      "description": "Qatari Foreign Ministry spokesperson Majed al-Ansari says Qatar is “ready to help” with US-Iran negotiations.",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump attacks NATO allies as pressure mounts over Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/trump-attacks-nato-allies-as-pressure-mounts-over-strait-of-hormuz?traffic_source=rss",
-      "description": "Al Jazeera’s Alan Fisher explains what Trump’s latest criticism of US allies means.",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Qatar says Iran’s attacks on neighbours crossed ‘many red lines’",
-      "link": "https://www.aljazeera.com/news/2026/3/31/qatar-warns-iranian-attacks-on-region-causing-catastrophic-effects?traffic_source=rss",
-      "description": "Iranian attacks on Qatar are having a &#039;catastrophic effect on the relationship between the two countries&#039;, Doha says.",
       "date": "Tue, 31 Mar 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -473,120 +443,150 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Dar hints at US, Iran talks as quad pushes peace off-ramp",
-      "link": "https://www.dawn.com/news/1986641/dar-hints-at-us-iran-talks-as-quad-pushes-peace-off-ramp",
-      "description": "• Saudi Arabia, Turkiye and Egypt back efforts to create conditions for Washington-Tehran structured negotiations• FMs explore ways for permanent end to hostilities, insist war is ‘not in favour of anyone’• Deputy PM to leave for Beijing to meet Chinese foreign minister tomorrow ...",
-      "date": "Mon, 30 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Netanyahu restores access after Latin Patriarch blocked from Holy Sepulchre in Jerusalem",
-      "link": "https://www.dawn.com/news/1986790/netanyahu-restores-access-after-latin-patriarch-blocked-from-holy-sepulchre-in-jerusalem",
-      "description": "Israel said the Latin Patriarch of Jerusalem would regain access to Christianity’s holiest site after the decision to block him from entering the Holy Sepulchre on Palm Sunday triggered international condemnation. Israeli police prevented Cardinal Pierbattista Pizzaballa from ent...",
-      "date": "Mon, 30 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russian tanker nears Cuba, defying US oil blockade",
-      "link": "https://www.dawn.com/news/1986614/russian-tanker-nears-cuba-defying-us-oil-blockade",
-      "description": "HAVANA: A Russian oil tanker under US sanctions is scheduled to arrive in Cuba on Monday, challenging a de facto American fuel blockade of the energy-starved island, shipping data shows. The Anatoly Kolodkin, which is carrying 730,000 barrels of crude, was north of Haiti on Sunda...",
-      "date": "Mon, 30 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Australia to halve fuel tax to keep prices within reach of citizens amid Iran war",
-      "link": "https://www.dawn.com/news/1986754/australia-to-halve-fuel-tax-to-keep-prices-within-reach-of-citizens-amid-iran-war",
-      "description": "Australia will halve a fuel tax to help motorists experiencing soaring petrol prices due to war in the Middle East, Prime Minister Anthony Albanese said Monday. Albanese announced the step after meeting with the leaders of Australia’s states and territories on Monday, agreeing a ...",
-      "date": "Mon, 30 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Industry in crosshairs amid no let-up in Iran war",
-      "link": "https://www.dawn.com/news/1986636/industry-in-crosshairs-amid-no-let-up-in-iran-war",
-      "description": "BLACK smoke billows from a site in the Neot Hovav industrial zone near Be’er Sheva in Israel after Iranian missiles struck the facility.—X/@iribnews_irib • Tehran strikes aluminium producers in UAE and Bahrain, chemical plant in Israel; Neot Hovav industrial zone fire declared ‘h...",
-      "date": "Mon, 30 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Global food waste crisis undermines climate and security, says UNEP official",
-      "link": "https://www.dawn.com/news/1986621/global-food-waste-crisis-undermines-climate-and-security-says-unep-official",
-      "description": "ISLAMABAD: The world wastes food on a staggering scale, as every year over one billion tonnes of edible food — nearly one-fifth of all food available to consumers — is thrown away, impacting both people and the environment, undermining food security and climate resilience, and co...",
-      "date": "Mon, 30 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "War Diary Day 31: Economic shockwaves deepen in absence of diplomatic off-ramps to Iran war",
-      "link": "https://www.dawn.com/news/1986900/war-diary-day-31-economic-shockwaves-deepen-in-absence-of-diplomatic-off-ramps-to-iran-war",
-      "description": "On the 31st day of the US-Israeli war on Iran, the economic dimension of the war continued to become more pronounced as the conflict remained locked in a high-intensity, multi-domain phase, with exchanges continuing across Iran, Israel, and the wider region. Inside Iran, US and I...",
-      "date": "Mon, 30 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel police prevent Jerusalem’s Latin Patriarch from entering Holy Sepulchre on Palm Sunday",
-      "link": "https://www.dawn.com/news/1986571/israel-police-prevent-jerusalems-latin-patriarch-from-entering-holy-sepulchre-on-palm-sunday",
-      "description": "Israeli police prevented the Latin Patriarch of Jerusalem, Cardinal Pierbattista Pizzaballa, from entering the Church of the Holy Sepulchre to celebrate Palm Sunday mass, the Latin Patriarchate of Jerusalem said. “This morning, the Israeli Police prevented the Latin Patriarch of ...",
-      "date": "Sun, 29 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war LIVE updates: Iran Guards say will target U.S. tech firms if more leaders killed",
-      "link": "https://www.thehindu.com/news/international/us-israel-iran-war-updates-live-march-31-2026/article70805560.ece",
-      "description": "Pentagon chief Pete Hegseth claimed that talks on ending the war on Iran are making progress; China and Pakistan on March 31, put forward a five-point peace proposal to end the West Asia war, including a call for safe passage of ships through the Strait of Hormuz",
+      "title": "Netanyahu says Iran spent nearly $1 trillion on military programs",
+      "link": "https://tass.com/world/2109851",
+      "description": "The Israeli prime minister reiterated that Tehran planned to destroy Israel, \"take over the Middle East, and threaten the entire world\"",
       "date": "Wed, 01 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran Guards say will target U.S. tech firms if more leaders killed",
-      "link": "https://www.thehindu.com/news/international/iran-guards-say-will-target-us-tech-firms-if-more-leaders-killed/article70808810.ece",
-      "description": "\"We advise the employees of these institutions to immediately leave their workplaces to preserve their lives,\" says Iran’s Revolutionary Guards",
-      "date": "Wed, 01 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
-      "link": "https://tass.com/world/1968185",
-      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
-      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
-      "link": "https://tass.com/world/1968163",
-      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
-      "date": "Wed, 04 Jun 2025",
+      "title": "War with Iran ‘coming to an end,’ Trump says",
+      "link": "https://tass.com/world/2109849",
+      "description": "The US president added: \"We’re doing great\"",
+      "date": "Wed, 01 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US sends third aircraft carrier strike group to Middle East — newspaper",
+      "link": "https://tass.com/world/2109833",
+      "description": "The redeployment is taking place as US President Donald Trump is mulling further military options against Iran",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Hezbollah launches over 50 projectiles, drones at northern Israel",
+      "link": "https://tass.com/world/2109831",
+      "description": "According to the movement, the targets were attacked with \"a barrage of advanced missiles and a swarm of attack drones\"",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "IRGC says about 200 US troops killed, wounded in attack on airbase in Saudi Arabia",
+      "link": "https://tass.com/world/2109823",
+      "description": "According to the Islamic Revolutionary Guard Corps, the majority of those killed and wounded are fighter pilots",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US not even considering operation to seize Iran’s nuclear materials — Trump",
+      "link": "https://tass.com/world/2109819",
+      "description": "Previously, the US government had not ruled out attempting to seize these materials",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranian Interior Minister Momeni thanks Russia, other allies for humanitarian aid",
+      "link": "https://tass.com/world/2109813",
+      "description": "Eskandar Momeni called these actions a manifestation of solidarity and cooperation between friendly countries",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran seeks complete end to Middle East war rather than ceasefire — top diplomat",
+      "link": "https://tass.com/world/2109809",
+      "description": "Abbas Araghchi added that Iran’s conditions include guarantees that aggression will not recur",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Attacks damage WHO office in Tehran, leaving no casualties — WHO chief",
+      "link": "https://tass.com/world/2109791",
+      "description": "Tedros Adhanom Ghebreyesus noted that such attacks \"cannot be tolerated and must be avoided at all costs\"",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US Secretary of State asks G7 to participate in international mission in Strait of Hormuz",
+      "link": "https://tass.com/world/2109781",
+      "description": "According to the source, Marco Rubio still indicated that the US does not need G7 assistance in opening the strait",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranian filmmaker Majidi suggests that MFA demand US extradite Pahlavi",
+      "link": "https://tass.com/world/2109775",
+      "description": "Majid Majidi is considered one of the most authoritative and well-known filmmakers in Iran",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UK announces shortlist for International Booker Prize",
+      "link": "https://tass.com/society/2109759",
+      "description": "The books are Shida Bazar’s 'The Nights Are Quiet in Tehran' and Daniel Kehlmann’s 'The Director'",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US, Israeli strikes damage over 39,500 civilian facilities in Tehran, says official",
+      "link": "https://tass.com/world/2109729",
+      "description": "Fatemeh Mohajerani said that 105,325 civilian sites were attacked, including 83,351 residential buildings and 21,059 commercial properties",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israel, US carry out strikes on 24 pharmaceutical industry facilities — Iranian minister",
+      "link": "https://tass.com/world/2109727",
+      "description": "The official said that medical equipment production and supply chains have been seriously damaged",
+      "date": "Tue, 31 Mar 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russian citizens wishing to return home via Azerbaijan leave Iran — envoy",
+      "link": "https://tass.com/politics/2109719",
+      "description": "Alexey Dedov noted that foreign nationals need a special code to cross Azerbaijan’s border",
+      "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
