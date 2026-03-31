@@ -1,7 +1,17 @@
 {
-  "updated": "2026-03-31 12:05 UTC",
+  "updated": "2026-03-31 16:35 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "6 books named finalists for the 2026 International Booker Prize",
+      "link": "https://www.npr.org/2026/03/31/nx-s1-5766171/2026-international-booker-prize-shortlist",
+      "description": "The shortlisted titles include novels and novellas from authors and translators spanning four continents, with stories that range from Japanese-controlled 1930s Taiwan to the streets of Tehran in 1979.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "DHS resumes asylum decisions. And, Iran's strike injures over 12 U.S. personnel",
       "link": "https://www.npr.org/2026/03/31/g-s1-115928/up-first-newsletter-dubai-iran-middle-east-trump-tsa-dhs-asylum",
@@ -23,10 +33,20 @@
       "bias": "Low"
     },
     {
-      "title": "Iran hits oil tanker off Dubai as fighting continues on all fronts",
-      "link": "https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai",
+      "title": "Trump tells Europe 'Go get your own oil,' Iran hits oil tanker off Dubai",
+      "link": "https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai-trump-oil-europe",
       "description": "Iran attacked and set on fire a massive Kuwaiti oil tanker off Dubai overnight, as Gulf states increasingly suffer the fallout from the war.",
       "date": "Tue, 31 Mar 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Former national security adviser discusses the ongoing talks between the U.S. and Iran",
+      "link": "https://www.npr.org/2026/03/30/nx-s1-5763780/former-national-security-advisor-discusses-the-ongoing-talks-between-the-us-and-iran",
+      "description": "NPR's Michel Martin asks Biden administration national security adviser Jake Sullivan for his reaction to the latest developments in the war in Iran.",
+      "date": "Mon, 30 Mar 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -43,6 +63,26 @@
       "bias": "Low"
     },
     {
+      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+      "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+      "description": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran using children in security roles in war, reports and witnesses say",
+      "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+      "description": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "How the US could try to seize Iran's Kharg Island",
       "link": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
       "description": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
@@ -56,16 +96,6 @@
       "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
       "link": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli PM says Cardinal Pierbattista Pizzaballa had been asked not to enter the church over concerns about Iranian strikes.",
-      "date": "Mon, 30 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-      "link": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
       "date": "Mon, 30 Mar 2026",
       "source": "BBC",
       "region": "eu",
@@ -106,16 +136,6 @@
       "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
       "link": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
       "description": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
-      "date": "Fri, 27 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Ukraine signs deal with Saudi Arabia offering drone expertise",
-      "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
-      "description": "Volodymyr Zelensky says the Gulf kingdom faces the same type of attacks from Iran that Kyiv has been resisting.",
       "date": "Fri, 27 Mar 2026",
       "source": "BBC",
       "region": "eu",
@@ -166,7 +186,7 @@
       "title": "Why did US and Israel attack Iran and how long could the war last?",
       "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
       "description": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
-      "date": "Mon, 30 Mar 2026",
+      "date": "Tue, 31 Mar 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -193,9 +213,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Macron arrives in Japan on visit dominated by economic consequences of Iran war",
-      "link": "https://www.france24.com/en/asia-pacific/20260331-macron-arrives-in-japan-on-visit-dominated-by-economic-consequences-of-iran-war",
-      "description": "French President Emmanuel Macron on Tuesday arrived in Japan for a visit expected to be dominated by the economic fallout of the Middle East war. France and Japan have said they stand ready to take \"all necessary measures\" to ensure the stability of global energy markets.",
+      "title": "#Iran: Massive explosion in Isfahan",
+      "link": "https://www.france24.com/en/video/20260331-iran-massive-explosion-in-isfahan",
+      "description": "Images posted on social media on March 31 have captured a huge #explosion in the Iranian city of #Isfahan. A local security official said strikes had targeted military locations in the city, according to Iran’s Fars agency. Isfahan is home to a #nuclear enrichment site.",
       "date": "Tue, 31 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -203,9 +223,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Dumb judges': Trump heckles Supreme Court ahead of pivotal birthright case",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260331-dumb-judges-trump-heckles-supreme-court-ahead-of-pivotal-birthright-case",
-      "description": "PRESS REVIEW – Tuesday, March 31: Donald Trump fumes at the Supreme Court as its judges prepare to hear arguments in a constitutional case over his 2025 executive order on birthright citizenship. Also, the Financial Times alleges that Pete Hegseth sought to make investments in de...",
+      "title": "Israel to occupy swaths of south Lebanon and destroy houses near border",
+      "link": "https://www.france24.com/en/israel-to-occupy-swaths-of-south-lebanon-and-destroy-houses-near-border",
+      "description": "Israel's defence minister has vowed his army will block residents from returning to southern Lebanon after the war and will be destroying all homes in villages along the border, in which he implied would be a Gaza-like scale of destruction as seen in Rafah and Beit Hanoun. More t...",
       "date": "Tue, 31 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -213,9 +233,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "As US, Israel and Iran continue fighting, question is how to end 'a war of attrition'",
-      "link": "https://www.france24.com/en/as-us-israel-and-iran-continue-fighting-question-is-how-to-end-a-war-of-attrition",
-      "description": "US President Donald Trump threatened to destroy Iran's Kharg Island and power grid, were it not to agree to a deal the US sent to Iranian leaders to end the war. This was later followed by fresh strikes from the US and Israel, which Iran responded to by targeting Gulf nations. FR...",
+      "title": "King Charles III to make state visit to the US in April despite calls to cancel over Iran war",
+      "link": "https://www.france24.com/en/americas/20260331-king-charles-iii-to-make-state-visit-to-the-us-in-april-despite-calls-to-cancel-over-iran-war",
+      "description": "The UK's King Charles III will visit the US and Bermuda in April, Buckingham Palace announced on Tuesday, as critics called for the trip to be cancelled due to concerns over the US's ongoing war with Iran.",
       "date": "Tue, 31 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -223,9 +243,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Crude prices whipsaw on mixed signals from Iran war",
-      "link": "https://www.france24.com/en/tv-shows/business/20260331-crude-prices-whipsaw-on-mixed-signals-from-iran-war",
-      "description": "Oil prices searched for direction on Tuesday amid conflicting events related to the Iran war. While US President Donald Trump's threats that the US would obliterate Iranian energy infrastructure if the Strait of Hormuz remained closed led to an increase in prices, a later report ...",
+      "title": "Iran desalination plant in the Strait of Hormuz out of service following strikes",
+      "link": "https://www.france24.com/en/iran-desalination-plant-in-the-strait-of-hormuz-out-of-service-following-strikes",
+      "description": "One of the desalination plants on Iran's Qeshm Island has been out ​of ‌service since being ⁠hit by an air strike earlier ‌in the month, an official from ⁠the Health Ministry told Iranian media on March 30. This follows strikes on the cities of Tehran and Isfahan by the US as it ...",
       "date": "Tue, 31 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -233,9 +253,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Spain closes airspace to US planes involved in attacks on Iran",
-      "link": "https://www.france24.com/en/video/20260331-spain-closes-airspace-to-us-planes-involved-in-attacks-on-iran",
-      "description": "Spain's airspace is now closed to U.S. planes involved in attacks on Iran, a step beyond its previous denial of use of jointly-operated military bases. Prime Minister Pedro Sanchez has become one of the most vocal critics of the US and Israeli attacks in Iran, describing them as ...",
+      "title": "How Trump’s dream of seizing enriched uranium from Iran could end in catastrophe",
+      "link": "https://www.france24.com/en/middle-east/20260331-how-trump-s-dream-of-seizing-enriched-uranium-from-iran-could-end-in-catastrophe",
+      "description": "US President Donald Trump is reportedly considering a military mission to seize Iranian uranium that has been enriched to 60 percent. But while some might view such a plan as offering a quick win, others warn that it could be \"one of the most risky and difficult operations the US...",
       "date": "Tue, 31 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -243,9 +263,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Vital desalination plant in the Gulf become war targets",
-      "link": "https://www.france24.com/en/vital-desalination-plant-in-the-gulf-become-war-targets",
-      "description": "US president Donald Trump has threatened to destroy Iran's desalination plants if talks to end the war do not advance. Desalination plants across the Gulf region have become target during the one-month old war being vital civilian infrastructure targeted as vulnerabilities by Ira...",
+      "title": "With Iran, US 'trying to put the best face on a mission they did not anticipate'",
+      "link": "https://www.france24.com/en/with-iran-us-trying-to-put-the-best-face-on-a-mission-they-did-not-anticipate",
+      "description": "Pentagon chief Pete Hegseth said on March 31 that talks on ending the Iran war are making progress - despite the conflict giving no sign of stopping, and US troops building up in the region. FRANCE 24's Douglas Herbert looks at the takeaways from the press conference, which seeme...",
       "date": "Tue, 31 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -253,9 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Three UN peacekeepers in Lebanon killed in 24 hours",
-      "link": "https://www.france24.com/en/three-un-peacekeepers-in-lebanon-killed-in-24-hours",
-      "description": "In Lebanon, two Indonesian peacekeepers were killed in the south of the country on March 30 in an explosion. The UN agency tasked with policing the region said \"an explosion of unknown origin destroyed their vehicle.\" It comes just a day after another Indonesian peacekeeper was k...",
+      "title": "'Cultural heritage belongs to all of humanity': Iranian archaeologist Sepideh Maziar",
+      "link": "https://www.france24.com/en/tv-shows/perspective/20260331-cultural-heritage-belongs-to-all-of-humanity-iranian-archaeologist-sepideh-maziar",
+      "description": "A leading Iranian archaeologist has told FRANCE 24 that the destruction of Iranian archeological sites is destroying part of human history. Sepideh Maziar is a senior researcher and lecturer at Goethe University Frankfurt and a founding member of the Society for Iranian Archaeolo...",
       "date": "Tue, 31 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -263,9 +283,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Multiple explosions, airstrikes knock out power in Tehran",
-      "link": "https://www.france24.com/en/multiple-explosions-airstrikes-knock-out-power-in-tehran",
-      "description": "Multiple explosions rocked Tehran on Tuesday, with news agencies reporting power outages in parts of the Iranian capital. Reporting from Tehran, FRANCE 24’s Reza Sayah says residents have been hearing “airstrikes, followed by the unnerving sound of thundering explosions,\" he says...",
+      "title": "Replay: Pete Hegseth gives press conference on Iran war",
+      "link": "https://www.france24.com/en/replay-pete-hegseth-gives-press-conference-on-iran-war",
+      "description": "Rewatch as US State Secretary Pete Hegseth and Chairman of Joint Chiefs of Staff Dan Caine address the war in Iran, as Washington presses Tehran to accept a deal to end the war.",
       "date": "Tue, 31 Mar 2026",
       "source": "France 24",
       "region": "eu",
@@ -273,24 +293,94 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Nadim Houry warns: Israel is no longer just fighting Hezbollah, 'it’s waging war on Lebanon'",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20260331-nadim-houry-warns-israel-is-no-longer-just-fighting-hezbollah-it-s-waging-war-on-lebanon",
-      "description": "Jennie Shin is pleased to welcome Nadim Houry. According to Houry, the current conflict in Lebanon reflects not only an immediate military escalation but a deeper structural impasse shaped by decades of unresolved tensions. What we are witnessing is not simply a confrontation bet...",
+      "title": "Trump attacks NATO allies as pressure mounts over Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/trump-attacks-nato-allies-as-pressure-mounts-over-strait-of-hormuz?traffic_source=rss",
+      "description": "Al Jazeera’s Alan Fisher explains what Trump’s latest criticism of US allies means.",
       "date": "Tue, 31 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Middle East war live: US defense chiefs give update on war in the Middle East",
-      "link": "https://www.france24.com/en/middle-east/20260331-middle-east-war-live-iran-defiant-as-trump-makes-new-threat-against-its-oil-hub-strait-of-hormuz-usa",
-      "description": "US Secretary of Defense Pete Hegseth and Chairman of the Joint Chiefs of Staff Dan Caine were to give an update Tuesday on operations against Iran as the conflict continued to engulf the region. US launched strikes near one of Iran’s main nuclear sites while Tehran set ablaze a K...",
+      "title": "Qatar says Iran’s attacks on neighbours crossed ‘many red lines’",
+      "link": "https://www.aljazeera.com/news/2026/3/31/qatar-warns-iranian-attacks-on-region-causing-catastrophic-effects?traffic_source=rss",
+      "description": "Iranian attacks on Qatar are having a &#039;catastrophic effect on the relationship between the two countries&#039;, Doha says.",
       "date": "Tue, 31 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran will play World Cup games in US despite war, FIFA’s Infantino says",
+      "link": "https://www.aljazeera.com/sports/2026/3/31/iran-will-play-world-cup-games-in-us-despite-war-fifas-infantino-says?traffic_source=rss",
+      "description": "The chief of global football&#039;s governing body says US-Israeli war on Iran will not affect scheduling of 2026 World Cup.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Where to invest during Iran war? Ask – or don’t – Mohammad Bagher Ghalibaf",
+      "link": "https://www.aljazeera.com/news/2026/3/31/where-to-invest-during-iran-war-ask-or-dont-mohammad-bagher-ghalibaf?traffic_source=rss",
+      "description": "Iran’s parliamentary speaker is using X to shape market sentiment, blending war messaging with financial signalling.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "War on Iran: US’s history of making other nations pay for conflicts",
+      "link": "https://www.aljazeera.com/news/2026/3/31/war-on-iran-uss-history-of-making-other-nations-pay-for-conflicts?traffic_source=rss",
+      "description": "White House says Trump could ask Arab nations to bear the cost of the Iran war.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Cancer drug facility, religious site hit in Israeli-US strikes on Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/31/cancer-drug-facility-religious-site-hit-in-israeli-us-strikes-on-iran?traffic_source=rss",
+      "description": "The Iranian government said the company&#039;s drug production line has been damaged, as no diplomatic solution is in sight.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Will China join Pakistan-led efforts to mediate US-Iran peace?",
+      "link": "https://www.aljazeera.com/news/2026/3/31/will-china-join-pakistan-led-efforts-to-mediate-us-iran-peace?traffic_source=rss",
+      "description": "Pakistan&#039;s Deputy PM Ishaq Dar visits China after Islamabad talks to broker negotiations between the US and Iran.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US defence secretary says next few days in Iran war will be ‘decisive’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/us-defence-secretary-says-next-few-days-in-iran-war-will-be?traffic_source=rss",
+      "description": "US Defence Secretary Pete Hegseth warned the coming days of the war with Iran will be ‘decisive.&#039;",
+      "date": "Tue, 31 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian rescuers save two civilians from rubble after US-Israeli strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iranian-rescuers-save-two-civilians-from-rubble-after-us-israeli-strikes?traffic_source=rss",
+      "description": "Footage shows Iranian Red Crescent Society rescuers and firemen saving two civilians from underneath the rubble.",
+      "date": "Tue, 31 Mar 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "‘AI helped pick the first thousand targets in Iran’",
@@ -313,79 +403,19 @@
       "bias": "Medium"
     },
     {
-      "title": "‘Iranians don’t consider Trump’s 15-point plan as beginning of diplomacy’",
-      "link": "https://www.aljazeera.com/video/quotable/2026/3/31/iranians-dont-consider-trumps-15-point-plan-as-beginning-of-a-diplomatic?traffic_source=rss",
-      "description": "‘Iranians don’t consider Trump’s 15-point plan as beginning of a diplomatic track’",
+      "title": "King Charles to pay state visit to US as UK seeks to mollify Trump",
+      "link": "https://www.dawn.com/news/1987209/king-charles-to-pay-state-visit-to-us-as-uk-seeks-to-mollify-trump",
+      "description": "King Charles will make a state visit to the United States in late April, Buckingham Palace said on Tuesday, a high-profile trip that the British government hopes will help to repair relations with President Donald Trump, damaged by the war on Iran. Charles and his wife Queen Cami...",
       "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran war wipes $120bn off Dubai, Abu Dhabi stock markets",
-      "link": "https://www.aljazeera.com/economy/2026/3/31/iran-war-wipes-120bn-off-dubai-abu-dhabi-stock-markets?traffic_source=rss",
-      "description": "The UAE&#039;s financial markets have been some of the hardest hit by the fallout of the US-Israel war on Iran.",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What is happening on day 32 of US-Israel attacks?",
-      "link": "https://www.aljazeera.com/news/2026/3/31/iran-war-what-is-happening-on-day-32-of-us-israel-attacks?traffic_source=rss",
-      "description": "In an exclusive interview with Al Jazeera, Secretary of State Rubio said US war objectives would be achieved in &#039;weeks&#039;.",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel says four soldiers killed as army pushes deeper into south Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/3/31/israel-says-four-soldiers-killed-as-army-pushes-deeper-into-south-lebanon?traffic_source=rss",
-      "description": "Hezbollah attempts to make Lebanon ground invasion &#039;costly&#039; for Israeli army as it continues its advance.",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Three scenarios for the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/opinions/2026/3/31/three-scenarios-for-the-strait-of-hormuz?traffic_source=rss",
-      "description": "Two military scenarios and one diplomatic one emerge, with Pakistan playing a crucial mediatory role.",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "South Korean president promises maximum response to energy crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/south-korean-president-promises-maximum-response-to-energy-crisis?traffic_source=rss",
-      "description": "South Korean president Myung vowed to respond to the energy crisis caused by Iran war to the fullest extent possible.",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Drone attack sparks fire on Kuwaiti tanker in UAE amid Iran’s Gulf attacks",
-      "link": "https://www.aljazeera.com/news/2026/3/31/drone-attack-sparks-fire-on-kuwaiti-tanker-in-uae-amid-irans-gulf-attacks?traffic_source=rss",
-      "description": "Dubai authorities say blaze contained with no oil leakage or injuries reported, as attacks are reported across the Gulf.",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "China to ‘strengthen’ cooperation with Pakistan on Iran as Dar visits Beijing",
-      "link": "https://www.dawn.com/news/1987106/china-to-strengthen-cooperation-with-pakistan-on-iran-as-dar-visits-beijing",
-      "description": "China on Tuesday said it would strengthen cooperation with Pakistan on Iran as Deputy Prime Minister and Foreign Minister Ishaq Dar arrived in Beijing on a brief visit for detailed discussions on the ongoing conflict. At the invitation of China’s FM Wang Yi, Dar is undertaking a ...",
+      "title": "Pakistan, China issue 5-point initiative for restoring peace in Middle East",
+      "link": "https://www.dawn.com/news/1987106/pakistan-china-issue-5-point-initiative-for-restoring-peace-in-middle-east",
+      "description": "Pakistan and China on Tuesday issued a five-point initiative for restoring peace and stability in the Gulf and the Middle East amid the US-Israeli war on Iran, in which they called on the immediate cessation of hostilities and starting peace talks as soon as possible. The develop...",
       "date": "Tue, 31 Mar 2026",
       "source": "Dawn",
       "region": "me",
@@ -413,39 +443,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pak-China talks in Beijing to ‘refine’ framework for possible US-Iran dialogue",
-      "link": "https://www.dawn.com/news/1987057/pak-china-talks-in-beijing-to-refine-framework-for-possible-us-iran-dialogue",
-      "description": "https://www.dawn.com/news/1986999",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel passes law making death penalty default sentence for Palestinians convicted of lethal attacks",
-      "link": "https://www.dawn.com/news/1986920/israel-passes-law-making-death-penalty-default-sentence-for-palestinians-convicted-of-lethal-attacks",
-      "description": "Israel’s parliament approved a bill on Monday that would allow the execution of Palestinians convicted on terror charges for deadly attacks, a move that has been criticised as discriminatory and immediately drew a court challenge. Sixty-two lawmakers, including Prime Minister Ben...",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "‘All roads lead to higher prices and slower growth’: IMF says Iran war is dimming outlook for many economies",
-      "link": "https://www.dawn.com/news/1986884/all-roads-lead-to-higher-prices-and-slower-growth-imf-says-iran-war-is-dimming-outlook-for-many-economies",
-      "description": "The war in the Middle East has caused serious disruption to the economies of frontline countries, and is dimming the outlook for many economies that had just started to recover from previous crises, the International Monetary Fund (IMF) warned on Monday. In a blog published by th...",
-      "date": "Mon, 30 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Old world order coming apart, ceasefire in Iran: Lavrov’s statements",
-      "link": "https://tass.com/politics/2109517",
-      "description": "Russia’s top diplomat stressed that Moscow calls for an immediate end to US and Israeli aggression against Iran, described the use of military force against civilians and civilian infrastructure as unacceptable",
+      "title": "US, Israeli strikes damage over 39,500 civilian facilities in Tehran, says official",
+      "link": "https://tass.com/world/2109729",
+      "description": "Fatemeh Mohajerani said that 105,325 civilian sites were attacked, including 83,351 residential buildings and 21,059 commercial properties",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -453,9 +453,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Three thousand vessels blocked in Strait of Hormuz, transportation costs rise by 200%",
-      "link": "https://tass.com/world/2109513",
-      "description": "Transport companies are forced to restructure routes by combining sea segments with overland routes across the Arabian Peninsula",
+      "title": "Israel, US carry out strikes on 24 pharmaceutical industry facilities — Iranian minister",
+      "link": "https://tass.com/world/2109727",
+      "description": "The official said that medical equipment production and supply chains have been seriously damaged",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -463,9 +463,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Malaysian ships to be exempt from fee for sailing through Hormuz — minister",
-      "link": "https://tass.com/economy/2109505",
-      "description": "Malaysia is a friendly country and maintains good diplomatic relations with the government of Iran, Anthony Loke Siew Fook said",
+      "title": "Russian citizens wishing to return home via Azerbaijan leave Iran — envoy",
+      "link": "https://tass.com/politics/2109719",
+      "description": "Alexey Dedov noted that foreign nationals need a special code to cross Azerbaijan’s border",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -473,9 +473,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US intends to create global energy crisis with attacks on Iran — expert",
-      "link": "https://tass.com/politics/2109483",
-      "description": "Dmitry Kuzyakin noted that earlier media reports indicated that the Pentagon had begun preparations for the operation dubbed \"Final Blow\"",
+      "title": "Iran’s Revolutionary Guards threaten to attack US tech firms in Mideast",
+      "link": "https://tass.com/world/2109717",
+      "description": "According to the statement, the US companies in the sphere of information technology and artificial intelligence are a key element in working out and tracking targets for the attacks",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -483,9 +483,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Over 200 Iranian people accused of cooperating with US, Israel",
-      "link": "https://tass.com/world/2109469",
-      "description": "On February 28, the United States and Israel launched a military operation against Iran, striking major cities, including Tehran",
+      "title": "Russia ready to facilitate resolution of Middle East conflict — ambassador to Iran",
+      "link": "https://tass.com/politics/2109713",
+      "description": "Alexey Dedov said that Moscow advocates an immediate cessation of hostilities by the parties to the conflict and the adoption of comprehensive measures to ensure the safety of civilians and civilian infrastructure in all Middle Eastern countries",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -493,9 +493,9 @@
       "bias": "Very High"
     },
     {
-      "title": "IRGC deputy commander blames US for blocking global access to Strait of Hormuz",
-      "link": "https://tass.com/world/2109431",
-      "description": "General Ali Fadavi said that Washington miscalculated and set goals that were supposed to be achieved within three to five days, but it failed to achieve any of them",
+      "title": "Russian embassy in Tehran operating as usual, undamaged — ambassador",
+      "link": "https://tass.com/politics/2109711",
+      "description": "However, Alexey Dedov added that the Russian Consulate General in Isfahan was damaged",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -503,9 +503,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US believes Iran’s new supreme leader is alive but seriously injured — Trump",
-      "link": "https://tass.com/world/2109359",
-      "description": "Nobody has heard from him, the US president said",
+      "title": "Russian envoy describes strikes on Iranian nuke plant as 'playing with fire'",
+      "link": "https://tass.com/politics/2109703",
+      "description": "Alexey Dedov pointed out that three such incidents had taken place",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -513,9 +513,9 @@
       "bias": "Very High"
     },
     {
-      "title": "G7 countries powerless in Iran crisis — newspaper",
-      "link": "https://tass.com/world/2109353",
-      "description": "The publication notes that on Monday, the heads of finance and energy ministries and central banks of Canada, France, Germany, Italy, Japan, the United States, and the United Kingdom held an \"unprecedented joint meeting\" to coordinate their response",
+      "title": "Mojtaba Khamenei currently in Iran — Russian ambassador to Tehran",
+      "link": "https://tass.com/politics/2109699",
+      "description": "Alexey Dedov reported that he has not yet talked with the new Supreme Leader of Iran",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -523,9 +523,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US proposes placing Strait of Hormuz under international control — newspaper",
-      "link": "https://tass.com/world/2109335",
-      "description": "According to the report, US Secretary of State Marco Rubio presented the initiative at a meeting of G7 foreign ministers",
+      "title": "Russian ambassador says which countries work hard for resolving Iranian crisis",
+      "link": "https://tass.com/politics/2109697",
+      "description": "Alexey Dedov stressed that Russia welcomes the efforts of third countries to end destructive military actions",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -533,9 +533,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran to foil enemy attempts to pass through Strait of Hormuz — IRGC",
-      "link": "https://tass.com/world/2109333",
-      "description": "Any slightest movements by enemies will be suppressed with missiles and drones",
+      "title": "Very few Russian tourists remain in Iran — Russian ambassador",
+      "link": "https://tass.com/politics/2109689",
+      "description": "Alexey Dedov did not rule out the presence of independent travelers who entered Iran outside organized groups",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -543,9 +543,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iranian military urges US to abandon plans to control Strait of Hormuz",
-      "link": "https://tass.com/world/2109321",
-      "description": "This strategic mistake by the American and Zionist enemies of Islamic Iran has humiliated them and set them on a path to destruction, Ibrahim Zolfaghari, representative of the Iranian Khatam al-Anbiya Central Headquarters, said",
+      "title": "US uses three times more Tomahawks during Iran war than it did in Desert Storm — expert",
+      "link": "https://tass.com/politics/2109681",
+      "description": "As Nikolay Gaponenko believes, firing over 850 Tomahawk cruise missiles indicates that the conflict has reached a level comparable to major regional wars of the past",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -553,9 +553,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Internet access down for over 740 hours in Iran — NetBlocks",
-      "link": "https://tass.com/world/2109313",
-      "description": "A chart shows that network connectivity remains at around 1% of normal levels",
+      "title": "Oil supplies to Europe, Asia fell by 40% due to Iranian crisis — Russian Security Council",
+      "link": "https://tass.com/economy/2109659",
+      "description": "According to Deputy Secretary of the Russian Security Council Alexander Venediktov, the consequences of the crisis in the Middle East have already been felt in virtually every country in the world",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -563,9 +563,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US Navy aircraft carriers withdraw 1,000 km from Iranian shores — IRGC Deputy Commander",
-      "link": "https://tass.com/world/2109303",
-      "description": "The most vulnerable point for the US is its ships, Major General Ali Fadavi stressed",
+      "title": "Iran urges Caspian nations to take clear stance on Israeli attacks on coastal areas",
+      "link": "https://tass.com/world/2109651",
+      "description": "The Iranian Foreign Ministry issued the statement following Foreign Minister Abbas Araghchi’s phone call with his Azerbaijani counterpart Jeyhun Bayramov",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -573,9 +573,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran significantly cuts discount on its oil amid conflict — Oil Minister",
-      "link": "https://tass.com/economy/2109291",
-      "description": "According to Mohsen Paknejad, the necessary measures have been taken to ensure fuel security, and citizens can rest assured",
+      "title": "US, Israel cannot decide what rules exist in the world — Spanish defense minister",
+      "link": "https://tass.com/world/2109647",
+      "description": "Margarita Robles clarified that Madrid’s stance regarding the US-Israeli military action in Iran \"does not signify a rupture in the transatlantic relationship\"",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
@@ -583,9 +583,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran holds funeral ceremony for naval commander Tangsiri — TV",
-      "link": "https://tass.com/world/2109275",
-      "description": "Around a thousand people carrying Iranian flags and portraits of Tangsiri gathered for the ceremony",
+      "title": "FIFA chief Infantino vows to ensure 'best possible conditions' for Iran at World Cup",
+      "link": "https://tass.com/sports/2109649",
+      "description": "The 2026 FIFA World Cup will be co-hosted by Canada, Mexico and the United States between June 11 and July 19",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
