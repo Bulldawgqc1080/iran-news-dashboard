@@ -1256,6 +1256,7 @@
       <div class="grid-2">
         <div class="card fact">
           <span class="card-type fact" style="margin-bottom:10px">What's broadly reported</span>
+          <div style="margin-bottom:8px;"><span class="ownership-tag public">KNOWN</span></div>
           <h3>What we can actually say so far</h3>
           <div style="display:flex;flex-direction:column;gap:10px;font-size:13px;color:var(--subtext);line-height:1.75;margin-top:10px;">
             <p>• <strong style="color:var(--text)">Joe Kent resigned over the war</strong>, and major outlets including Reuters and AP reported that he said Iran posed <em>no imminent threat</em>.</p>
@@ -1272,6 +1273,7 @@
 
         <div class="card govt">
           <span class="card-type govt" style="margin-bottom:10px">Open questions</span>
+          <div style="margin-bottom:8px;"><span class="ownership-tag state">UNCLEAR</span></div>
           <h3>What remains unclear</h3>
           <div style="display:flex;flex-direction:column;gap:10px;font-size:13px;color:var(--subtext);line-height:1.75;margin-top:10px;">
             <p>• Which <strong style="color:var(--text)">U.S. intelligence body</strong> produced the core triggering assessment?</p>
@@ -1286,8 +1288,9 @@
           </div>
         </div>
 
-        <div class="card framing span-2">
+        <div class="card framing span-2" id="tl-decision">
           <span class="card-type framing" style="margin-bottom:10px">Working hypothesis</span>
+          <div style="margin-bottom:8px;"><span class="ownership-tag public" style="background:rgba(142,68,173,0.12);color:var(--framing);">HYPOTHESIS</span></div>
           <h3>Leader-centric war decision, narrow intelligence loop?</h3>
           <div style="font-size:13px;color:var(--subtext);line-height:1.8;display:flex;flex-direction:column;gap:10px;">
             <p>The strongest defensible hypothesis right now is not that every detail is known, but that the war may have emerged from a <strong style="color:var(--text)">narrow executive decision loop</strong> rather than a clearly visible full-spectrum U.S. interagency process.</p>
@@ -1302,6 +1305,7 @@
 
         <div class="card span-2" style="border-color:rgba(58,134,255,0.25)">
           <div class="card-type fact" style="margin-bottom:10px">Decision chain visual</div>
+          <div style="margin-bottom:8px;"><span class="ownership-tag public">KNOWN + UNCLEAR</span></div>
           <h3 style="margin-bottom:14px">Competing paths into war</h3>
           <div class="aipac-row" style="margin-bottom:8px;">
             <div class="aipac-node" style="border-left:3px solid #6fa8ff;">
@@ -1344,7 +1348,7 @@
       </div>
     </section>
 
-    <section>
+    <section id="tl-oversight">
       <div class="section-title">Oversight, Process & Shifting Justifications</div>
       <div class="grid-2">
         <div class="card govt">
@@ -1374,8 +1378,9 @@
           </div>
         </div>
 
-        <div class="card span-2" style="border-color:rgba(255,190,11,0.25)">
+        <div class="card span-2" id="tl-justify" style="border-color:rgba(255,190,11,0.25)">
           <div class="card-type govt" style="margin-bottom:10px">Shifting justifications tracker</div>
+          <div style="margin-bottom:8px;"><span class="ownership-tag state">INTERPRETIVE PATTERN</span></div>
           <h3 style="margin-bottom:14px">How the public rationale appears to move</h3>
           <div class="timeline" style="padding-left:24px;">
             <div class="tl-item govt" style="margin-bottom:16px;">
@@ -1409,8 +1414,9 @@
           </div>
         </div>
 
-        <div class="card span-2" style="border-color:rgba(142,68,173,0.25)">
+        <div class="card span-2" id="tl-intel" style="border-color:rgba(142,68,173,0.25)">
           <div class="card-type framing" style="margin-bottom:10px">Intelligence-source map</div>
+          <div style="margin-bottom:8px;"><span class="ownership-tag public" style="background:rgba(142,68,173,0.12);color:var(--framing);">HYPOTHESIS MAP</span></div>
           <h3 style="margin-bottom:14px">Possible pathways into the trigger case</h3>
           <div class="aipac-row" style="margin-bottom:8px;">
             <div class="aipac-node" style="border-left:3px solid #6fa8ff;">
@@ -1449,7 +1455,7 @@
       </div>
     </section>
 
-    <section>
+    <section id="tl-main">
       <div class="section-title">Key Events Timeline</div>
       <div class="grid-2">
         <div class="card" style="padding:20px 24px">
@@ -1467,7 +1473,7 @@
           </div>
 
           <div style="height:1px;background:var(--border);margin:4px 0 20px"></div>
-          <div style="font-size:10px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:var(--dim);margin-bottom:16px;font-family:var(--font-mono)">Historical Context</div>
+          <div id="tl-context" style="font-size:10px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:var(--dim);margin-bottom:16px;font-family:var(--font-mono)">Historical Context</div>
 
           <div class="timeline">
 
