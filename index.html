@@ -921,6 +921,7 @@
 
   <!-- ══════════ VALUE PROP ══════════ -->
   <div class="disclaimer" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;">
+ <div style="width:100%;font-size:11px;color:var(--dim);font-family:var(--font-mono);margin-bottom:2px;">Overview = fast read · Timeline = war origins / process · Network = people / influence map</div>
     <div style="font-size:13px;">
       <span style="color:var(--fact);font-weight:700;">✔ Verified Fact</span>
       <span style="color:var(--dim);margin:0 8px;">·</span>
@@ -2138,6 +2139,8 @@
         </div>
       </div>
 
+      <div style="font-size:10px;font-weight:700;letter-spacing:1.4px;color:var(--dim);text-transform:uppercase;margin:10px 0 10px;font-family:var(--font-mono);border-left:2px solid var(--border2);padding-left:10px;">Dossier Cards</div>
+
       <div id="dossier-grid"></div>
 
       <div style="margin-top:12px;padding:10px 14px;background:rgba(26,115,232,0.04);border:1px solid rgba(26,115,232,0.16);border-left:3px solid var(--fact);border-radius:var(--radius);font-size:10px;color:var(--dim);font-family:var(--font-mono);line-height:1.8;">
@@ -2228,7 +2231,9 @@
         <span style="color:var(--subtext)">How pro-Israel lobbying money moves through U.S. politics and connects to the decision to strike Iran. All figures from FEC filings, OpenSecrets, and primary sources. This is not an anti-Israel page — it is a documented money-in-politics map.</span>
       </div>
 
-      <!-- ── FLOW CHART ── -->
+      <div style="font-size:10px;font-weight:700;letter-spacing:1.4px;color:#4ade80;text-transform:uppercase;margin:0 0 12px;font-family:var(--font-mono);border-left:2px solid #4ade80;padding-left:10px;">Influence Flow Map</div>
+
+ <!-- ── FLOW CHART ── -->
       <div id="aipac-flow-chart" style="font-family:var(--font-mono);">
 
         <!-- TIER 1: SOURCE DONORS -->
@@ -4571,7 +4576,8 @@
           <span class="dossier-tier-badge">${p.tier.toUpperCase()}</span>
         </div>
       </div>
-      <div class="dossier-info-grid">
+      <div style="margin:8px 0 12px;font-size:12px;color:var(--text);line-height:1.6;"><strong style="color:var(--fact);font-family:var(--font-mono);font-size:10px;letter-spacing:0.8px;text-transform:uppercase;display:block;margin-bottom:4px;">Why this person matters</strong>${(p.role || '').split('|')[0].trim()} sits in the network because of the way their office, access, or influence shapes this power structure.</div>
+ <div class="dossier-info-grid">
         <div class="dossier-info-box">
           <div class="dossier-info-label">Citizenship</div>
           <div class="dossier-info-value">${p.citizenship}</div>
