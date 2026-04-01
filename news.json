@@ -1,11 +1,21 @@
 {
-  "updated": "2026-04-01 04:39 UTC",
+  "updated": "2026-04-01 06:20 UTC",
   "total": 60,
   "stories": [
     {
+      "title": "Food assistance slashed for hundreds of thousands of Rohingya refugees trapped in Bangladesh camps",
+      "link": "https://www.npr.org/2026/04/01/nx-s1-5769798/food-assistance-slashed-rohingya-refugees-bangladesh-camps",
+      "description": "Hundreds of thousands of Rohingya refugees struggling to survive in Bangladesh's overcrowded camps will see their food assistance slashed starting on Wednesday, raising alarm throughout the increasingly desperate community.",
+      "date": "Wed, 01 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
       "title": "Iranians debate whether the war is worth it",
       "link": "https://www.npr.org/2026/03/31/nx-s1-5759351/iranians-debate-whether-the-war-is-worth-it",
-      "description": "As the war in Iran enters its second month, many Iranians are urging the U.S and Israel to keep striking their country.",
+      "description": "As the war in Iran enters its second month, and President Trump signals an end to the war, many Iranians are urging the U.S and Israel to keep striking their country.",
       "date": "Tue, 31 Mar 2026",
       "source": "NPR News",
       "region": "us",
@@ -293,16 +303,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel to occupy swaths of south Lebanon and destroy houses near border",
-      "link": "https://www.france24.com/en/israel-to-occupy-swaths-of-south-lebanon-and-destroy-houses-near-border",
-      "description": "Israel's defence minister has vowed his army will block residents from returning to southern Lebanon after the war and will be destroying all homes in villages along the border, in which he implied would be a Gaza-like scale of destruction as seen in Rafah and Beit Hanoun. More t...",
-      "date": "Tue, 31 Mar 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Al-Sharaa says Syria to stay out of war on Iran unless attacked",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/al-sharaa-says-syria-to-stay-out-of-war-on-iran-unless-attacked?traffic_source=rss",
       "description": "&#039;14 years of war is enough for Syria&#039;: Ahmed al-Sharaa says Syria will remain outside the US-Israeli war on Iran.",
@@ -393,6 +393,16 @@
       "bias": "Medium"
     },
     {
+      "title": "China’s FM Wang Yi appreciates Pakistan’s active diplomatic efforts in promoting Middle East peace: FO",
+      "link": "https://www.dawn.com/news/1987454/chinas-fm-wang-yi-appreciates-pakistans-active-diplomatic-efforts-in-promoting-middle-east-peace-fo",
+      "description": "China’s Foreign Minister Wang Yi has conveyed Beijing’s appreciation for Pakistan’s “active diplomatic role” and efforts towards ending the Middle East conflict, the Foreign Office (FO) said on Wednesday. Wang made the remarks during his meeting with Deputy Prime Minister and For...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Buy jet fuel from US or get your own, Trump rails against allies",
       "link": "https://www.dawn.com/news/1987353/buy-jet-fuel-from-us-or-get-your-own-trump-rails-against-allies",
       "description": "• Hegseth claims next few days to be ‘decisive’, says conflict to intensify if deal not made• Pezeshkian says Iran wants to end war but not without guarantees; Araghchi confirms messages exchanged with US, denies talks• Iranian missiles injure nine in Tel Aviv; US companies in re...",
@@ -433,14 +443,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan, China issue 5-point initiative for restoring peace in Middle East",
-      "link": "https://www.dawn.com/news/1987106/pakistan-china-issue-5-point-initiative-for-restoring-peace-in-middle-east",
-      "description": "Pakistan and China on Tuesday issued a five-point initiative for restoring peace and stability in the Gulf and the Middle East amid the US-Israeli war on Iran, in which they called on the immediate cessation of hostilities and starting peace talks as soon as possible. The develop...",
-      "date": "Tue, 31 Mar 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Central Israel comes under new fire from Iran, explosions heard in Tel Aviv",
+      "link": "https://tass.com/world/2109951",
+      "description": "Earlier, the Israeli army warned the population that it had detected a new missile launch from Iranian territory",
+      "date": "Wed, 01 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranian citizens banned from entering United Arab Emirates — airline",
+      "link": "https://tass.com/economy/2109955",
+      "description": "The company does not disclose the reason for the decision",
+      "date": "Wed, 01 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Europe stiffens opposition to US demands on Iran — Politico",
+      "link": "https://tass.com/world/2109943",
+      "description": "According to political science professor Sven Biscop, Europe’s tougher stance reflects its view that the Iran war is a \"strategic folly\" and the US strategy becoming \"less and less clear\"",
+      "date": "Wed, 01 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UAE preparing to help US open Strait of Hormuz — WSJ",
+      "link": "https://tass.com/world/2109939",
+      "description": "An official told the newspaper that Abu Dhabi was exploring how it would participate in the conflict",
+      "date": "Wed, 01 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US to re-examine NATO’s value after war with Iran — Rubio",
@@ -546,46 +586,6 @@
       "title": "Hezbollah launches over 50 projectiles, drones at northern Israel",
       "link": "https://tass.com/world/2109831",
       "description": "According to the movement, the targets were attacked with \"a barrage of advanced missiles and a swarm of attack drones\"",
-      "date": "Tue, 31 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IRGC says about 200 US troops killed, wounded in attack on airbase in Saudi Arabia",
-      "link": "https://tass.com/world/2109823",
-      "description": "According to the Islamic Revolutionary Guard Corps, the majority of those killed and wounded are fighter pilots",
-      "date": "Tue, 31 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US not even considering operation to seize Iran’s nuclear materials — Trump",
-      "link": "https://tass.com/world/2109819",
-      "description": "Previously, the US government had not ruled out attempting to seize these materials",
-      "date": "Tue, 31 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian Interior Minister Momeni thanks Russia, other allies for humanitarian aid",
-      "link": "https://tass.com/world/2109813",
-      "description": "Eskandar Momeni called these actions a manifestation of solidarity and cooperation between friendly countries",
-      "date": "Tue, 31 Mar 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran seeks complete end to Middle East war rather than ceasefire — top diplomat",
-      "link": "https://tass.com/world/2109809",
-      "description": "Abbas Araghchi added that Iran’s conditions include guarantees that aggression will not recur",
       "date": "Tue, 31 Mar 2026",
       "source": "TASS",
       "region": "ru",
