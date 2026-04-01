@@ -866,7 +866,7 @@
     <div class="logo-icon">CV</div>
     <div>
       <div class="logo-text">ClearView</div>
-      <div class="logo-sub">Iran Conflict</div>
+      <div class="logo-sub" id="war-day-count">Iran Conflict · Day <span id="day-counter">—</span></div>
     </div>
   </div>
 
@@ -890,7 +890,7 @@
   </nav>
   <div class="last-updated">
     <div class="live-dot"></div>
-    Auto-updated hourly
+    Source-Transparent
   </div>
 </header>
 
@@ -919,9 +919,21 @@
 
 <main>
 
-  <!-- ══════════ DISCLAIMER ══════════ -->
-  <div class="disclaimer">
-    <strong>How to use this dashboard:</strong> Every item is labeled as a <span style="color:var(--fact)">Verified Fact</span>, an <span style="color:var(--govt)">Official Statement</span>, or <span style="color:var(--framing)">Media Framing</span>. Live news cards now include an AI-scored tone indicator — <span style="color:var(--hawkish)">Hawkish</span> (aggressive/military language), <span style="color:var(--neutral)">Neutral</span> (factual reporting), or <span style="color:var(--dovish)">Dovish</span> (diplomatic/de-escalatory language). <strong>No source is fully unbiased.</strong> Always read primary documents.
+  <!-- ══════════ VALUE PROP ══════════ -->
+  <div class="disclaimer" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;">
+ <div style="width:100%;font-size:11px;color:var(--dim);font-family:var(--font-mono);margin-bottom:2px;">Overview = fast read · Timeline = war origins / process · Network = people / influence map</div>
+    <div style="font-size:13px;">
+      <span style="color:var(--fact);font-weight:700;">✔ Verified Fact</span>
+      <span style="color:var(--dim);margin:0 8px;">·</span>
+      <span style="color:var(--govt);font-weight:700;">⚠ Official Statement</span>
+      <span style="color:var(--dim);margin:0 8px;">·</span>
+      <span style="color:var(--framing);font-weight:700;">◈ Media Framing</span>
+      <span style="color:var(--dim);margin:0 8px;">·</span>
+      <span style="color:var(--hawkish);font-weight:700;font-size:10px;font-family:var(--font-mono);">HAWKISH</span>
+      <span style="color:var(--neutral);font-weight:700;font-size:10px;font-family:var(--font-mono);margin-left:6px;">NEUTRAL</span>
+      <span style="color:var(--dovish);font-weight:700;font-size:10px;font-family:var(--font-mono);margin-left:6px;">DOVISH</span>
+    </div>
+    <div style="font-size:12px;color:var(--subtext);font-family:var(--font-mono);">Every claim labeled. Every source shown. <span style="color:var(--text)">Compare narratives yourself.</span></div>
   </div>
 
   <!-- ══════════════════════════════ -->
@@ -934,6 +946,59 @@
       <div id="war-widget"></div>
     </section>
 
+    <!-- ══════════ LAST 24 HOURS STRIP ══════════ -->
+    <section>
+      <div class="section-title">What Changed in the Last 24 Hours</div>
+      <div id="last-24h-strip" style="background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--fact);border-radius:var(--radius);padding:14px 18px;display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
+        <div style="display:flex;flex-direction:column;gap:10px;font-size:13px;flex:1;min-width:280px;">
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="color:var(--hawkish);font-weight:700;font-family:var(--font-mono);font-size:10px;padding:2px 6px;background:rgba(255,77,77,0.1);border-radius:3px;white-space:nowrap;margin-top:2px;">NEW</span>
+            <span style="color:var(--subtext);line-height:1.6;"><strong style="color:var(--text);">Trump delays power plant strikes 5 days</strong><br>Claimed "productive conversations" with Iran. Iran denied any talks. Oil whipsawed 13% — most volatile day since war began.</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="color:var(--hawkish);font-weight:700;font-family:var(--font-mono);font-size:10px;padding:2px 6px;background:rgba(255,77,77,0.1);border-radius:3px;white-space:nowrap;margin-top:2px;">NEW</span>
+            <span style="color:var(--subtext);line-height:1.6;"><strong style="color:var(--text);">Public Trump–Netanyahu split confirmed</strong><br>Netanyahu said Israel acted alone on South Pars gas field — Trump had asked them to stop. First documented operational split.</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="color:var(--govt);font-weight:700;font-family:var(--font-mono);font-size:10px;padding:2px 6px;background:rgba(230,126,34,0.1);border-radius:3px;white-space:nowrap;margin-top:2px;">UPDATE</span>
+            <span style="color:var(--subtext);line-height:1.6;"><strong style="color:var(--text);">Reported casualties and market metrics updated</strong><br>U.S. reported killed: 13 · Iran civilian deaths reported: 1,255–1,800 · Gas: $3.96/gal (+$0.95 since start) · Brent: $114.66/bbl</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="color:var(--fact);font-weight:700;font-family:var(--font-mono);font-size:10px;padding:2px 6px;background:rgba(26,115,232,0.1);border-radius:3px;white-space:nowrap;margin-top:2px;">CONTEXT</span>
+            <span style="color:var(--subtext);line-height:1.6;"><strong style="color:var(--text);">Leonid Radvinsky died today, age 43</strong><br>OnlyFans owner and alleged largest single AIPAC donor post-Oct 7 ($11M, denied). Documented in leaked internal AIPAC records.</span>
+          </div>
+        </div>
+        <div style="font-size:10px;color:var(--dim);font-family:var(--font-mono);white-space:nowrap;align-self:flex-end;">Manual strip refreshed · Mar 30, 2026</div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-title">What Matters Right Now</div>
+      <div class="grid-2">
+        <div class="card govt">
+          <span class="card-type govt" style="margin-bottom:10px">Top unanswered questions</span>
+          <h3>What still doesn't make sense</h3>
+          <div style="display:flex;flex-direction:column;gap:9px;font-size:13px;color:var(--subtext);line-height:1.75;">
+            <p>• What intelligence body produced the actual trigger case?</p>
+            <p>• Did NCTC have little or no role in validating the war trigger?</p>
+            <p>• Was Israeli intelligence or Israeli strategic threat framing the dominant upstream input?</p>
+            <p>• Why did the public rationale drift toward Hormuz after the strikes?</p>
+            <p>• How much real congressional or interagency oversight happened before action?</p>
+          </div>
+        </div>
+        <div class="card framing">
+          <span class="card-type framing" style="margin-bottom:10px">Methodology</span>
+          <h3>How to read this dashboard fast</h3>
+          <div style="display:flex;flex-direction:column;gap:9px;font-size:13px;color:var(--subtext);line-height:1.75;">
+            <p>• <strong style="color:var(--text)">Known</strong> = broadly reported or directly evidenced in sources used here.</p>
+            <p>• <strong style="color:var(--text)">Unclear</strong> = missing validation chain, conflicting sourcing, or absent oversight trail.</p>
+            <p>• <strong style="color:var(--text)">Hypothesis</strong> = best-fit analytical explanation, not settled proof.</p>
+            <p>• <strong style="color:var(--text)">Connections</strong> = meaningful adjacency in power, influence, messaging, coalition, or operations — not necessarily direct command.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section>
       <div class="section-title">Verified Facts — What We Know</div>
       <div class="filter-row">
@@ -944,15 +1009,30 @@
       </div>
       <div class="grid-3" id="cards-container">
 
+        <!-- ── CURRENT WAR FACTS (updated March 2026) ── -->
+
         <div class="card fact" data-type="fact">
           <div class="card-header">
             <span class="card-type fact">✔ Verified Fact</span>
-            <span class="bias-score neutral">◈ Neutral</span>
+            <span class="bias-score hawkish">▲ Hawkish</span>
           </div>
-          <h3>U.S. Military Strikes on Iranian-Backed Sites</h3>
-          <p>The U.S. military has acknowledged conducting airstrikes on Iranian-linked militia positions in the region, citing self-defense under Article II. Strike details have been confirmed by CENTCOM press releases.</p>
+          <h3>U.S. &amp; Israel Launch Direct War on Iran — Feb 28, 2026</h3>
+          <p>The U.S. and Israel launched joint airstrikes on Iran on February 28, 2026 ("Operation Epic Fury"), targeting nuclear facilities, missile sites, air defenses, and leadership compounds. This is a direct, declared war — not a proxy conflict. Trump submitted a War Powers Resolution notification to Congress on March 2.</p>
           <div class="card-meta">
-            <span>CENTCOM official briefings</span>
+            <span>CENTCOM, White House, CBS News</span>
+            <span style="color:var(--fact)">Confirmed</span>
+          </div>
+        </div>
+
+        <div class="card fact" data-type="fact">
+          <div class="card-header">
+            <span class="card-type fact">✔ Verified Fact</span>
+            <span class="bias-score hawkish">▲ Hawkish</span>
+          </div>
+          <h3>Supreme Leader Khamenei Killed in Opening Strikes</h3>
+          <p>Iranian state media and multiple international sources confirmed that Supreme Leader Ali Khamenei was killed in a U.S.-Israeli strike on his compound in Tehran on February 28, 2026. This represents a deliberate leadership decapitation — an unprecedented escalation beyond prior U.S. red lines.</p>
+          <div class="card-meta">
+            <span>Iranian state media, Reuters, Wikipedia</span>
             <span style="color:var(--fact)">Confirmed</span>
           </div>
         </div>
@@ -962,11 +1042,11 @@
             <span class="card-type fact">✔ Verified Fact</span>
             <span class="bias-score neutral">◈ Neutral</span>
           </div>
-          <h3>Iran Denies Direct Military Involvement</h3>
-          <p>Iranian government officials have publicly denied that the Iranian military is directly engaged in hostilities, stating their military has not issued orders for direct combat operations. This denial is documented across multiple press conferences.</p>
+          <h3>Iran's Death Toll: 1,444+ Killed, 18,500+ Injured</h3>
+          <p>Iran's Health Ministry reports at least 1,444 people killed and 18,551 injured inside Iran since February 28. This includes 55 healthcare workers wounded and 11 killed. Independent verification is difficult due to restricted media access inside Iran. CENTCOM has struck more than 7,000 targets.</p>
           <div class="card-meta">
-            <span>Iranian state press + UN transcripts</span>
-            <span style="color:var(--fact)">Confirmed Statement</span>
+            <span>Iran Health Ministry, Al Jazeera tracker — Mar 18, 2026</span>
+            <span style="color:var(--fact)">Ongoing — figures rising</span>
           </div>
         </div>
 
@@ -975,10 +1055,49 @@
             <span class="card-type fact">✔ Verified Fact</span>
             <span class="bias-score neutral">◈ Neutral</span>
           </div>
-          <h3>Civilian Displacement Has Been Documented</h3>
-          <p>UNHCR and independent humanitarian organizations have documented civilian displacement in conflict zones. Exact numbers vary, but displacement is confirmed and ongoing.</p>
+          <h3>13 U.S. Service Members Confirmed Killed</h3>
+          <p>The Pentagon has confirmed 13 U.S. military deaths as of March 17, 2026 — 7 killed by enemy fire, 6 killed when a KC-135 refueling aircraft went down over western Iraq (non-hostile). Approximately 200 more U.S. service members have been wounded; the vast majority have returned to duty.</p>
           <div class="card-meta">
-            <span>UNHCR, MSF, Red Cross</span>
+            <span>Pentagon, CENTCOM, TIME — Mar 17, 2026</span>
+            <span style="color:var(--fact)">Confirmed</span>
+          </div>
+        </div>
+
+        <div class="card fact" data-type="fact">
+          <div class="card-header">
+            <span class="card-type fact">✔ Verified Fact</span>
+            <span class="bias-score hawkish">▲ Hawkish</span>
+          </div>
+          <h3>Lebanon: 880+ Killed in Israeli Strikes</h3>
+          <p>Lebanon's health ministry reports at least 880 people killed in Israeli strikes since the conflict expanded, including 98 children. Two Lebanese university professors were killed in a strike near a public university campus, condemned by the Lebanese president as a violation of international law.</p>
+          <div class="card-meta">
+            <span>Lebanon Health Ministry, NPR, TIME</span>
+            <span style="color:var(--fact)">Confirmed</span>
+          </div>
+        </div>
+
+        <div class="card fact" data-type="fact">
+          <div class="card-header">
+            <span class="card-type fact">✔ Verified Fact</span>
+            <span class="bias-score hawkish">▲ Hawkish</span>
+          </div>
+          <h3>Kharg Island — Iran's Main Oil Export Hub — Struck</h3>
+          <p>President Trump confirmed the U.S. military struck Kharg Island, home to Iran's primary oil export terminal. Trump stated it was "totally obliterated." Kharg handles the majority of Iran's hard currency earnings. The strike has significant implications for global oil markets and Iran's economic survival.</p>
+          <div class="card-meta">
+            <span>White House, NPR — Mar 13, 2026</span>
+            <span style="color:var(--fact)">Confirmed</span>
+          </div>
+        </div>
+
+        <div class="card fact" data-type="fact">
+          <div class="card-header">
+            <span class="card-type fact">✔ Verified Fact</span>
+            <span class="bias-score neutral">◈ Neutral</span>
+          </div>
+          <h3>Iran Has Directly Struck Israel, U.S. Bases &amp; Gulf States</h3>
+          <p>Iran has conducted direct missile and drone strikes on Israel, U.S. military bases across the Middle East, and Gulf state infrastructure. At least 17 Israelis killed, 3,700+ wounded. Bahrain, Iraq, Kuwait, Jordan, and UAE have all sustained casualties. Iran's IRGC claims strikes on 27 U.S. bases.</p>
+          <div class="card-meta">
+            <span>IDF, CENTCOM, Al Jazeera tracker</span>
             <span style="color:var(--fact)">Confirmed</span>
           </div>
         </div>
@@ -988,11 +1107,11 @@
             <span class="card-type govt">⚠ Official Statement</span>
             <span class="bias-score hawkish">▲ Hawkish</span>
           </div>
-          <h3>U.S. Claims Iranian Weapons Supplied to Regional Militias</h3>
-          <p>The U.S. Department of Defense has stated that Iran is supplying weapons and financing to proxy forces. This claim is officially asserted but independent verification of supply chains is incomplete.</p>
+          <h3>U.S. Claims All Strikes Are Against Military Targets Only</h3>
+          <p>The Pentagon and CENTCOM maintain all strikes are precision-targeted at military infrastructure. Amnesty International disputes this, presenting satellite imagery and eyewitness accounts showing a U.S. Tomahawk missile struck an elementary school in Minab on February 28, killing over 100 civilians including children.</p>
           <div class="card-meta">
-            <span>Pentagon briefings</span>
-            <span style="color:var(--govt)">Unverified Claim</span>
+            <span>CENTCOM vs. Amnesty International — contested</span>
+            <span style="color:var(--govt)">Disputed</span>
           </div>
         </div>
 
@@ -1001,10 +1120,10 @@
             <span class="card-type govt">⚠ Official Statement</span>
             <span class="bias-score hawkish">▲ Hawkish</span>
           </div>
-          <h3>Iran Claims U.S. Actions Constitute "Acts of Aggression"</h3>
-          <p>Iran's Supreme National Security Council has formally characterized U.S. military actions as violations of international law and acts of aggression. This is Iran's official position, not an independent legal determination.</p>
+          <h3>Trump: Campaign Could Last 4–5 Weeks</h3>
+          <p>President Trump stated on March 3 the military projected a 4–5 week operation, while adding the U.S. has "the capability to go far longer." Rubio stated the preemptive strikes were necessary because the U.S. assessed Iran had pre-positioned forces to attack American troops the moment any Israeli action began.</p>
           <div class="card-meta">
-            <span>SNSC / Iranian state media</span>
+            <span>White House, CBS News — Mar 3, 2026</span>
             <span style="color:var(--govt)">Official Position</span>
           </div>
         </div>
@@ -1012,51 +1131,51 @@
         <div class="card framing" data-type="frame">
           <div class="card-header">
             <span class="card-type framing">◈ Media Framing</span>
+            <span class="bias-score hawkish">▲ Hawkish</span>
+          </div>
+          <h3>"Precision Strike" vs. "War Crime" — The School Strike Framing Gap</h3>
+          <p>U.S. media largely repeated Pentagon language describing the Minab school strike as targeting an adjacent IRGC compound. International and human rights media led with the children killed. Amnesty International concluded the attack likely violated international humanitarian law. The Pentagon says an investigation is ongoing.</p>
+          <div class="card-meta">
+            <span>Amnesty International, CENTCOM, comparative media analysis</span>
+            <span style="color:var(--framing)">Framing Divergence</span>
+          </div>
+        </div>
+
+        <div class="card framing" data-type="frame">
+          <div class="card-header">
+            <span class="card-type framing">◈ Media Framing</span>
             <span class="bias-score neutral">◈ Neutral</span>
           </div>
-          <h3>"War on Terror" vs. "Resistance" — Two Competing Narratives</h3>
-          <p>Western media frequently frames Iran-linked activity as terrorism. Iranian and some regional media frame the same activity as resistance against foreign occupation. Neither framing is a neutral description — both are narrative choices.</p>
+          <h3>Death Toll Dispute: 1,300 vs. 7,000 vs. 32,000</h3>
+          <p>Iran's government reported 3,117 killed in January 2026 protests alone. The U.S.-based Human Rights Activists News Agency estimated 7,000. Non-government Iranian health officials said 32,000. In the current war, Iran's Health Ministry reports 1,444+ — but independent verification inside Iran is nearly impossible. Every figure comes from a party with an interest in the number.</p>
           <div class="card-meta">
-            <span>Cross-source analysis</span>
-            <span style="color:var(--framing)">Editorial Frame</span>
+            <span>Wikipedia, HRANA, Iran Health Ministry — cross-source</span>
+            <span style="color:var(--framing)">All Figures Contested</span>
           </div>
         </div>
 
         <div class="card framing" data-type="frame">
           <div class="card-header">
             <span class="card-type framing">◈ Media Framing</span>
-            <span class="bias-score hawkish">▲ Hawkish</span>
+            <span class="bias-score neutral">◈ Neutral</span>
           </div>
-          <h3>U.S. Media Emphasizes Iranian Threat, De-emphasizes Civilian Casualties</h3>
-          <p>Analysis of major U.S. network coverage shows disproportionate coverage of military gains and threat posture, with significantly less coverage dedicated to civilian casualties and humanitarian impact compared to European outlets.</p>
+          <h3>U.S. Media Continues to Underreport Iranian Civilian Casualties</h3>
+          <p>The structural pattern documented before the war has intensified: U.S. network coverage leads with military objectives achieved and U.S. casualties, while European and Middle Eastern outlets lead with Iranian civilian deaths, the school strike, and humanitarian conditions. The same war looks very different depending on where you read it.</p>
           <div class="card-meta">
-            <span>Media coverage analysis</span>
-            <span style="color:var(--framing)">Pattern Observed</span>
-          </div>
-        </div>
-
-        <div class="card framing" data-type="frame">
-          <div class="card-header">
-            <span class="card-type framing">◈ Media Framing</span>
-            <span class="bias-score hawkish">▲ Hawkish</span>
-          </div>
-          <h3>Iranian State Media Omits Internal Dissent Coverage</h3>
-          <p>Iranian state outlets (IRIB, Press TV) consistently omit coverage of domestic protests, economic hardship, and internal dissent related to the conflict — presenting a unified national narrative.</p>
-          <div class="card-meta">
-            <span>IRIB, Press TV monitoring</span>
-            <span style="color:var(--framing)">Omission Pattern</span>
+            <span>Comparative coverage analysis — ongoing</span>
+            <span style="color:var(--framing)">Pattern Continues</span>
           </div>
         </div>
 
         <div class="card fact" data-type="fact">
           <div class="card-header">
             <span class="card-type fact">✔ Verified Fact</span>
-            <span class="bias-score neutral">◈ Neutral</span>
+            <span class="bias-score hawkish">▲ Hawkish</span>
           </div>
-          <h3>UN Security Council Sessions Have Been Held</h3>
-          <p>Multiple emergency UNSC sessions have been convened regarding the Iran conflict. Resolution attempts have stalled due to vetoes. Meeting transcripts are publicly available through the UN archives.</p>
+          <h3>Trump's Own Counterterrorism Director Resigned Over the War</h3>
+          <p>Joe Kent, Director of the National Counterterrorism Center and Trump loyalist, resigned March 17, 2026 — the highest-ranking administration official to quit over the Iran war. His resignation letter stated: "Iran posed no imminent threat to our nation, and it is clear that we started this war due to pressure from Israel and its powerful American lobby." Trump responded by calling him "weak on security." Senate Intel Vice Chair Mark Warner said Kent was correct that no imminent threat existed.</p>
           <div class="card-meta">
-            <span>UN.org public records</span>
+            <span>CNN, CBS News, Axios, CNBC — Mar 17, 2026</span>
             <span style="color:var(--fact)">Confirmed</span>
           </div>
         </div>
@@ -1161,6 +1280,210 @@
   <!-- ══════════════════════════════ -->
   <div id="tab-timeline" class="tab-section">
     <section>
+      <div class="section-title">How This War Started</div>
+      <div class="grid-2">
+        <div class="card fact">
+          <span class="card-type fact" style="margin-bottom:10px">What's broadly reported</span>
+          <div style="margin-bottom:8px;"><span class="ownership-tag public">KNOWN</span></div>
+          <h3>What we can actually say so far</h3>
+          <div style="display:flex;flex-direction:column;gap:10px;font-size:13px;color:var(--subtext);line-height:1.75;margin-top:10px;">
+            <p>• <strong style="color:var(--text)">Joe Kent resigned over the war</strong>, and major outlets including Reuters and AP reported that he said Iran posed <em>no imminent threat</em>.</p>
+            <p>• <strong style="color:var(--text)">The War Powers notice appears to have followed the initial strikes</strong>, which suggests executive action came first and congressional notification came after.</p>
+            <p>• <strong style="color:var(--text)">Public rationale appears to have shifted over time</strong> — from immediate threat framing toward shipping, Hormuz, deterrence, and broader strategic language.</p>
+            <p>• <strong style="color:var(--text)">That shift matters</strong>: when the stated reason keeps moving, it raises questions about how strong and coherent the original trigger case really was.</p>
+          </div>
+          <div class="dossier-source-row" style="margin-top:10px;">
+            <a class="dossier-src-chip src-wire" href="https://www.reuters.com/world/middle-east/us-national-counterterrorism-center-director-resigns-over-war-iran-2026-03-17/" target="_blank" rel="noopener noreferrer">Reuters ↗</a>
+            <a class="dossier-src-chip src-wire" href="https://apnews.com/article/trump-iran-war-kent-resignation-e2e17a76d79617a68370f076c0291208" target="_blank" rel="noopener noreferrer">AP ↗</a>
+            <a class="dossier-src-chip src-wire" href="https://www.npr.org/2026/03/17/nx-s1-5750426/joe-kent-counterterrorism-official-resigns-trump" target="_blank" rel="noopener noreferrer">NPR ↗</a>
+          </div>
+        </div>
+
+        <div class="card govt">
+          <span class="card-type govt" style="margin-bottom:10px">Open questions</span>
+          <div style="margin-bottom:8px;"><span class="ownership-tag state">UNCLEAR</span></div>
+          <h3>What remains unclear</h3>
+          <div style="display:flex;flex-direction:column;gap:10px;font-size:13px;color:var(--subtext);line-height:1.75;margin-top:10px;">
+            <p>• Which <strong style="color:var(--text)">U.S. intelligence body</strong> produced the core triggering assessment?</p>
+            <p>• Did the <strong style="color:var(--text)">National Counterterrorism Center</strong> play any meaningful role in the decision chain, or was it largely bypassed?</p>
+            <p>• Was <strong style="color:var(--text)">Israeli intelligence or Israeli threat framing</strong> the dominant upstream input into the war trigger?</p>
+            <p>• How much genuine <strong style="color:var(--text)">interagency challenge, legal review, and congressional oversight</strong> happened before the first strikes?</p>
+          </div>
+          <div class="dossier-source-row" style="margin-top:10px;">
+            <a class="dossier-src-chip src-gov" href="https://www.lawfaremedia.org/article/white-house-submits-iran-war-powers-report-to-congress" target="_blank" rel="noopener noreferrer">Lawfare ↗</a>
+            <a class="dossier-src-chip src-wire" href="https://www.reuters.com/world/us/trumps-republicans-defend-iran-strikes-democrats-push-war-powers-vote-2026-03-03/" target="_blank" rel="noopener noreferrer">Reuters ↗</a>
+            <a class="dossier-src-chip src-wire" href="https://www.npr.org/2026/03/02/g-s1-112092/iran-war-powers-congress-trump" target="_blank" rel="noopener noreferrer">NPR ↗</a>
+          </div>
+        </div>
+
+        <div class="card framing span-2" id="tl-decision">
+          <span class="card-type framing" style="margin-bottom:10px">Working hypothesis</span>
+          <div style="margin-bottom:8px;"><span class="ownership-tag public" style="background:rgba(142,68,173,0.12);color:var(--framing);">HYPOTHESIS</span></div>
+          <h3>Leader-centric war decision, narrow intelligence loop?</h3>
+          <div style="font-size:13px;color:var(--subtext);line-height:1.8;display:flex;flex-direction:column;gap:10px;">
+            <p>The strongest defensible hypothesis right now is not that every detail is known, but that the war may have emerged from a <strong style="color:var(--text)">narrow executive decision loop</strong> rather than a clearly visible full-spectrum U.S. interagency process.</p>
+            <p>That would fit three signals already on the board: <strong style="color:var(--text)">after-the-fact War Powers notification</strong>, <strong style="color:var(--text)">Joe Kent's public dissent on imminence</strong>, and <strong style="color:var(--text)">shifting public justification</strong> afterward.</p>
+            <p>It is reasonable to ask whether <strong style="color:var(--text)">Israeli intelligence or Israeli strategic threat framing</strong> played a central role in the trigger case — but that remains an <strong style="color:var(--text)">open question</strong>, not a verified conclusion.</p>
+          </div>
+          <div class="card-meta">
+            <span>Reuters, AP, NPR, war-powers reporting, public statements</span>
+            <span style="color:var(--framing)">Use as investigation frame — not settled fact</span>
+          </div>
+        </div>
+
+        <div class="card span-2" style="border-color:rgba(58,134,255,0.25)">
+          <div class="card-type fact" style="margin-bottom:10px">Decision chain visual</div>
+          <div style="margin-bottom:8px;"><span class="ownership-tag public">KNOWN + UNCLEAR</span></div>
+          <h3 style="margin-bottom:14px">Competing paths into war</h3>
+          <div class="aipac-row" style="margin-bottom:8px;">
+            <div class="aipac-node" style="border-left:3px solid #6fa8ff;">
+              <div class="aipac-node-name">Israeli threat framing?</div>
+              <div class="aipac-node-sub">Target packages, urgency claims, strategic pressure, allied warning signals</div>
+              <div class="aipac-node-tag">Open question</div>
+            </div>
+            <div class="aipac-node" style="border-left:3px solid #60a5fa;">
+              <div class="aipac-node-name">Narrow U.S. intel channel?</div>
+              <div class="aipac-node-sub">Unclear which agencies validated the trigger case or how broad review actually was</div>
+              <div class="aipac-node-tag">Review unclear</div>
+            </div>
+            <div class="aipac-node" style="border-left:3px solid #ffbe0b;">
+              <div class="aipac-node-name">Trump inner circle</div>
+              <div class="aipac-node-sub">Centralized executive choice with limited visible challenge before strikes</div>
+              <div class="aipac-node-tag">Decision core</div>
+            </div>
+          </div>
+          <div class="aipac-arrow-row">↓ &nbsp; strikes first / notification later &nbsp; ↓</div>
+          <div class="aipac-row" style="margin-bottom:8px;">
+            <div class="aipac-node outcome" style="max-width:none;flex:1;">
+              <div class="aipac-node-name">Feb. 28 strikes → Mar. 2 War Powers notice</div>
+              <div class="aipac-node-sub">Action appears to precede visible congressional process</div>
+              <div class="aipac-node-tag">Executive-first pattern</div>
+            </div>
+          </div>
+          <div class="aipac-arrow-row">↓ &nbsp; public rationale expands afterward &nbsp; ↓</div>
+          <div class="aipac-row">
+            <div class="aipac-node media" style="max-width:none;flex:1;">
+              <div class="aipac-node-name">Post-hoc justification spread</div>
+              <div class="aipac-node-sub">Imminent threat → deterrence → Hormuz / shipping → broader strategic narrative</div>
+              <div class="aipac-node-tag">Narrative drift</div>
+            </div>
+          </div>
+          <div class="dossier-source-row" style="margin-top:12px;">
+            <a class="dossier-src-chip src-wire" href="https://www.reuters.com/world/middle-east/trump-calls-allies-help-secure-strait-hormuz-iran-vows-step-up-retaliation-2026-03-15/" target="_blank" rel="noopener noreferrer">Reuters / Hormuz ↗</a>
+            <a class="dossier-src-chip src-wire" href="https://apnews.com/article/trump-iran-threat-power-plants-strait-hormuz-79ae8eb369c65a7fc7b06f3d0492c997" target="_blank" rel="noopener noreferrer">AP / rationale shift ↗</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="tl-oversight">
+      <div class="section-title">Oversight, Process & Shifting Justifications</div>
+      <div class="grid-2">
+        <div class="card govt">
+          <span class="card-type govt" style="margin-bottom:10px">Process failure?</span>
+          <h3>Why this does not look like a normal war decision</h3>
+          <div style="display:flex;flex-direction:column;gap:10px;font-size:13px;color:var(--subtext);line-height:1.75;margin-top:10px;">
+            <p>• <strong style="color:var(--text)">Congress appears to have been notified after the strikes</strong>, not meaningfully consulted before them.</p>
+            <p>• <strong style="color:var(--text)">There is little visible evidence of broad interagency challenge</strong> in public reporting — no clearly documented full-spectrum review trail has emerged.</p>
+            <p>• <strong style="color:var(--text)">Executive centralization appears unusually high</strong>, with the public story feeling leader-driven rather than committee-driven.</p>
+            <p>• <strong style="color:var(--text)">Joe Kent's resignation matters here</strong>: it is a rare internal dissent signal suggesting at least some of the intelligence case was disputed inside government.</p>
+          </div>
+          <div class="dossier-source-row" style="margin-top:10px;">
+            <a class="dossier-src-chip src-gov" href="https://www.lawfaremedia.org/article/white-house-submits-iran-war-powers-report-to-congress" target="_blank" rel="noopener noreferrer">Lawfare ↗</a>
+            <a class="dossier-src-chip src-wire" href="https://www.reuters.com/world/us/trumps-republicans-defend-iran-strikes-democrats-push-war-powers-vote-2026-03-03/" target="_blank" rel="noopener noreferrer">Reuters ↗</a>
+            <a class="dossier-src-chip src-wire" href="https://www.npr.org/2026/03/02/g-s1-112092/iran-war-powers-congress-trump" target="_blank" rel="noopener noreferrer">NPR ↗</a>
+          </div>
+        </div>
+
+        <div class="card framing">
+          <span class="card-type framing" style="margin-bottom:10px">Institutional question</span>
+          <h3>Who should have mattered — and who may not have?</h3>
+          <div style="display:flex;flex-direction:column;gap:10px;font-size:13px;color:var(--subtext);line-height:1.75;margin-top:10px;">
+            <p>• <strong style="color:var(--text)">Congressional intelligence and armed-services oversight</strong> should ordinarily matter more in a war trigger this large.</p>
+            <p>• <strong style="color:var(--text)">NCTC, ODNI, CENTCOM, CIA, NSA, and NSC process</strong> would normally leave clearer signs of a review chain.</p>
+            <p>• <strong style="color:var(--text)">What is missing may be as important as what is visible</strong>: the absence of a publicly legible review architecture raises its own questions.</p>
+            <p>• This leaves open the possibility that <strong style="color:var(--text)">a narrower executive-plus-allied loop</strong> carried disproportionate weight.</p>
+          </div>
+        </div>
+
+        <div class="card span-2" id="tl-justify" style="border-color:rgba(255,190,11,0.25)">
+          <div class="card-type govt" style="margin-bottom:10px">Shifting justifications tracker</div>
+          <div style="margin-bottom:8px;"><span class="ownership-tag state">INTERPRETIVE PATTERN</span></div>
+          <h3 style="margin-bottom:14px">How the public rationale appears to move</h3>
+          <div class="timeline" style="padding-left:24px;">
+            <div class="tl-item govt" style="margin-bottom:16px;">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Phase 1</div>
+              <div class="tl-title">Immediate threat / imminence</div>
+              <div class="tl-body">Early public justification emphasized the need to act against an urgent Iranian threat and prevent imminent harm to U.S. forces or allied interests.</div>
+            </div>
+            <div class="tl-item govt" style="margin-bottom:16px;">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Phase 2</div>
+              <div class="tl-title">Deterrence / force degradation</div>
+              <div class="tl-body">The rationale then broadens into degrading Iran's capabilities, restoring deterrence, and demonstrating escalation dominance.</div>
+            </div>
+            <div class="tl-item govt" style="margin-bottom:16px;">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Phase 3</div>
+              <div class="tl-title">Hormuz / shipping / global order</div>
+              <div class="tl-body">Later public language increasingly emphasizes opening or securing the Strait of Hormuz and protecting international shipping — a frame that feels broader and more post-hoc than the original trigger claim.</div>
+            </div>
+            <div class="tl-item framing" style="margin-bottom:0;">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Interpretive question</div>
+              <div class="tl-title">Does a moving rationale signal a weak original case?</div>
+              <div class="tl-body">A drifting public justification does not prove deception by itself — but it is often a sign that the original trigger case was either weak, narrow, politically inconvenient, or not persuasive enough to stand on its own.</div>
+            </div>
+          </div>
+          <div class="dossier-source-row" style="margin-top:12px;">
+            <a class="dossier-src-chip src-wire" href="https://www.reuters.com/world/middle-east/trump-calls-allies-help-secure-strait-hormuz-iran-vows-step-up-retaliation-2026-03-15/" target="_blank" rel="noopener noreferrer">Reuters / Hormuz ↗</a>
+            <a class="dossier-src-chip src-wire" href="https://apnews.com/article/trump-iran-threat-power-plants-strait-hormuz-79ae8eb369c65a7fc7b06f3d0492c997" target="_blank" rel="noopener noreferrer">AP / rationale shift ↗</a>
+          </div>
+        </div>
+
+        <div class="card span-2" id="tl-intel" style="border-color:rgba(142,68,173,0.25)">
+          <div class="card-type framing" style="margin-bottom:10px">Intelligence-source map</div>
+          <div style="margin-bottom:8px;"><span class="ownership-tag public" style="background:rgba(142,68,173,0.12);color:var(--framing);">HYPOTHESIS MAP</span></div>
+          <h3 style="margin-bottom:14px">Possible pathways into the trigger case</h3>
+          <div class="aipac-row" style="margin-bottom:8px;">
+            <div class="aipac-node" style="border-left:3px solid #6fa8ff;">
+              <div class="aipac-node-name">Israeli intelligence / threat framing</div>
+              <div class="aipac-node-sub">Possible upstream source of urgency, target logic, and strategic pressure</div>
+              <div class="aipac-node-tag">Plausible but not verified as primary</div>
+            </div>
+            <div class="aipac-node" style="border-left:3px solid #3a86ff;">
+              <div class="aipac-node-name">CENTCOM / military assessment</div>
+              <div class="aipac-node-sub">Force-protection and regional operational threat reporting</div>
+              <div class="aipac-node-tag">Expected lane</div>
+            </div>
+            <div class="aipac-node" style="border-left:3px solid #60a5fa;">
+              <div class="aipac-node-name">ODNI / NCTC / broader IC review</div>
+              <div class="aipac-node-sub">Would normally help validate or challenge the trigger case</div>
+              <div class="aipac-node-tag">Role unclear</div>
+            </div>
+          </div>
+          <div class="aipac-arrow-row">↓ &nbsp; whatever survived challenge reached &nbsp; ↓</div>
+          <div class="aipac-row" style="margin-bottom:8px;">
+            <div class="aipac-node outcome" style="max-width:none;flex:1;">
+              <div class="aipac-node-name">Trump decision core</div>
+              <div class="aipac-node-sub">Small-circle executive choice appears to be the decisive public pattern</div>
+              <div class="aipac-node-tag">Central bottleneck</div>
+            </div>
+          </div>
+          <div class="aipac-arrow-row">↓ &nbsp; then publicly sold as &nbsp; ↓</div>
+          <div class="aipac-row">
+            <div class="aipac-node media" style="max-width:none;flex:1;">
+              <div class="aipac-node-name">Threat → deterrence → Hormuz → order</div>
+              <div class="aipac-node-sub">A sequence of public-facing frames rather than one stable justification line</div>
+              <div class="aipac-node-tag">Narrative spread</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="tl-main">
       <div class="section-title">Key Events Timeline</div>
       <div class="grid-2">
         <div class="card" style="padding:20px 24px">
@@ -1178,7 +1501,7 @@
           </div>
 
           <div style="height:1px;background:var(--border);margin:4px 0 20px"></div>
-          <div style="font-size:10px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:var(--dim);margin-bottom:16px;font-family:var(--font-mono)">Historical Context</div>
+          <div id="tl-context" style="font-size:10px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:var(--dim);margin-bottom:16px;font-family:var(--font-mono)">Historical Context</div>
 
           <div class="timeline">
 
@@ -1233,9 +1556,41 @@
             <div class="tl-item fact">
               <div class="tl-dot"></div>
               <div class="tl-date">2024–2025</div>
-              <div class="tl-title">Regional Escalation Continues</div>
-              <div class="tl-body">Hezbollah, Houthi, and Iran-backed Iraqi militia activity escalates across the region. U.S. deploys additional carrier groups. Diplomatic back-channels reportedly ongoing.</div>
-              <div class="tl-source eu-src">Source: CENTCOM, Reuters, BBC</div>
+              <div class="tl-title">Regional Escalation &amp; Twelve-Day War</div>
+              <div class="tl-body">Hezbollah, Houthi, and Iran-backed militia activity escalates. In June 2025, Israel and the U.S. launch the "Twelve-Day War" — airstrikes targeting Iran's nuclear facilities. 1,190+ killed in Iran per HRANA. A ceasefire holds briefly. Iran accelerates uranium enrichment and withdraws from the NPT in January 2026.</div>
+              <div class="tl-source eu-src">Source: CENTCOM, Reuters, BBC, Wikipedia</div>
+            </div>
+
+            <div class="tl-item fact">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Jan 2026</div>
+              <div class="tl-title">Mass Protests in Iran — Thousands Killed by IRGC</div>
+              <div class="tl-body">Massive nationwide anti-government protests erupt in Iran — the largest since the 1979 revolution. The IRGC kills thousands of demonstrators. Death toll estimates range from 3,117 (Iranian government) to 32,000 (non-government Iranian health officials). Trump threatens military intervention and pledges "help is on the way" to protesters.</div>
+              <div class="tl-source us-src">Source: HRANA, Wikipedia, White House</div>
+            </div>
+
+            <div class="tl-item govt">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Feb 13 – 27, 2026</div>
+              <div class="tl-title">Trump Declares Regime Change Goal — War Buildup</div>
+              <div class="tl-body">Trump openly calls for regime change, saying it would be "the best thing that could happen to the Iranian people." The U.S. undertakes its largest Middle East military buildup since 2003. Iran and the U.S. hold indirect nuclear negotiations. Iran refuses to stand down. By Feb 27, a U.S. "armada" is positioned in the region.</div>
+              <div class="tl-source us-src">Source: White House, Wikipedia</div>
+            </div>
+
+            <div class="tl-item fact" style="border-left: 2px solid var(--hawkish); padding-left: 8px;">
+              <div class="tl-dot" style="background: var(--hawkish); box-shadow: 0 0 0 1px var(--hawkish);"></div>
+              <div class="tl-date" style="color: var(--hawkish);">Feb 28, 2026 — WAR BEGINS</div>
+              <div class="tl-title">Operation Epic Fury — U.S. &amp; Israel Launch Direct War on Iran</div>
+              <div class="tl-body">The U.S. and Israel launch surprise joint airstrikes across Iran, killing Supreme Leader Khamenei and numerous officials. Targets include nuclear sites, missile batteries, air defenses, and leadership compounds. On the same day, a U.S. airstrike strikes the Minab Girls' School — Amnesty International concludes 100+ civilians including children were killed. Iran immediately retaliates with missile and drone strikes on Israel, U.S. bases, and Gulf states.</div>
+              <div class="tl-source us-src">Source: CENTCOM, Amnesty International, Reuters, Wikipedia</div>
+            </div>
+
+            <div class="tl-item fact">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Mar 1–13, 2026</div>
+              <div class="tl-title">War Expands — Kharg Island Struck, Casualties Mount</div>
+              <div class="tl-body">U.S. strikes 7,000+ targets inside Iran. Iran's oil export hub at Kharg Island is struck and "obliterated" per Trump. Iran strikes 27 U.S. bases across the region. Lebanon drawn in — 880+ killed in Israeli strikes. 13 U.S. service members confirmed killed. Iran's Health Ministry reports 1,444+ killed, 18,500+ injured inside Iran. UNSC sessions held; resolution blocked by veto.</div>
+              <div class="tl-source eu-src">Source: CENTCOM, NPR, Al Jazeera, TIME — as of Mar 18, 2026</div>
             </div>
 
           </div>
@@ -1250,7 +1605,9 @@
               <p><strong style="color:var(--text)">1979:</strong> Islamic Revolution. U.S. embassy hostage crisis. Iran and U.S. sever diplomatic relations entirely.</p>
               <p><strong style="color:var(--text)">1980–88:</strong> Iran-Iraq War. U.S. provides intelligence and weapons to Saddam Hussein's Iraq, which uses chemical weapons against Iranians.</p>
               <p><strong style="color:var(--text)">2003:</strong> U.S. invasion of Iraq removes Iran's main regional rival and creates power vacuum that Iran fills. Context often omitted in U.S. media.</p>
-              <p><strong style="color:var(--text)">Present:</strong> Iran maintains influence through proxies in Iraq, Syria, Lebanon (Hezbollah), Yemen (Houthis), and Palestinian territories.</p>
+              <p><strong style="color:var(--text)">June 2025:</strong> The "Twelve-Day War" — Israel and the U.S. strike Iran's nuclear facilities. Iran withdraws from the NPT. A brief ceasefire holds.</p>
+              <p><strong style="color:var(--text)">Jan 2026:</strong> Massive anti-government protests in Iran. IRGC kills thousands. Trump threatens intervention.</p>
+              <p><strong style="color:var(--hawkish)">Feb 28, 2026 — Present:</strong> The U.S. and Israel launch Operation Epic Fury — direct war on Iran. Khamenei killed. 1,444+ Iranians killed, 13 U.S. service members dead. War ongoing as of March 2026.</p>
             </div>
           </div>
 
@@ -1720,9 +2077,105 @@
         <span id="dossier-record-count"></span>
       </div>
 
+      <div style="margin:18px 0 24px;">
+        <div style="font-size:10px;font-weight:700;letter-spacing:1.4px;color:#6fa8ff;text-transform:uppercase;margin-bottom:10px;font-family:var(--font-mono);border-left:2px solid #6fa8ff;padding-left:10px;">Netanyahu Command Structure</div>
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;">
+          <div style="display:flex;justify-content:center;margin-bottom:12px;">
+            <div class="aipac-node" onclick="openDossierCard('Benjamin Netanyahu')" title="Click to open dossier" style="max-width:420px;width:100%;border-left:3px solid #6fa8ff;background:rgba(100,160,255,0.06);">
+              <div class="aipac-node-name" style="color:#6fa8ff;">Benjamin Netanyahu 🕵️</div>
+              <div class="aipac-node-sub">Prime Minister of Israel<br>Coalition manager · war policy apex · direct Trump access</div>
+              <div class="aipac-node-tag">Foreign HOS · command node</div>
+            </div>
+          </div>
+
+          <div class="aipac-arrow-row">↓ &nbsp; core war / security layer &nbsp; ↓</div>
+          <div class="aipac-row">
+            <div class="aipac-node govt" onclick="openDossierCard('Ron Dermer')" title="Click to open dossier">
+              <div class="aipac-node-name">Ron Dermer</div>
+              <div class="aipac-node-sub">Strategic Affairs minister<br>Washington channel · closest political operator</div>
+              <div class="aipac-node-tag">U.S. bridge · inner circle</div>
+            </div>
+            <div class="aipac-node govt" onclick="openDossierCard('Israel Katz')" title="Click to open dossier">
+              <div class="aipac-node-name">Israel Katz</div>
+              <div class="aipac-node-sub">Senior cabinet power center<br>Foreign / defense influence lane</div>
+              <div class="aipac-node-tag">Cabinet heavyweight</div>
+            </div>
+            <div class="aipac-node govt" onclick="openDossierCard('Tzachi Hanegbi')" title="Click to open dossier">
+              <div class="aipac-node-name">Tzachi Hanegbi</div>
+              <div class="aipac-node-sub">National Security Council role<br>Strategic coordination / cabinet channel</div>
+              <div class="aipac-node-tag">NSC coordination</div>
+            </div>
+          </div>
+
+          <div class="aipac-arrow-row">↓ &nbsp; coalition survival bloc &nbsp; ↓</div>
+          <div class="aipac-row">
+            <div class="aipac-node" onclick="openDossierCard('Bezalel Smotrich')" title="Click to open dossier" style="border-left:3px solid #f59e0b;background:rgba(245,158,11,0.05);">
+              <div class="aipac-node-name" style="color:#f59e0b;">Bezalel Smotrich</div>
+              <div class="aipac-node-sub">Finance minister · settlement hardliner<br>Coalition leverage over war politics</div>
+              <div class="aipac-node-tag">Far-right coalition pillar</div>
+            </div>
+            <div class="aipac-node" onclick="openDossierCard('Itamar Ben-Gvir')" title="Click to open dossier" style="border-left:3px solid #f59e0b;background:rgba(245,158,11,0.05);">
+              <div class="aipac-node-name" style="color:#f59e0b;">Itamar Ben-Gvir</div>
+              <div class="aipac-node-sub">National Security minister<br>Internal pressure from nationalist flank</div>
+              <div class="aipac-node-tag">Far-right coalition pillar</div>
+            </div>
+            <div class="aipac-node" onclick="openDossierCard('Yariv Levin')" title="Click to open dossier">
+              <div class="aipac-node-name">Yariv Levin</div>
+              <div class="aipac-node-sub">Justice / coalition architecture<br>Institutional survival + domestic control</div>
+              <div class="aipac-node-tag">Coalition system manager</div>
+            </div>
+          </div>
+
+          <div class="aipac-arrow-row">↓ &nbsp; military / intelligence execution &nbsp; ↓</div>
+          <div class="aipac-row">
+            <div class="aipac-node" onclick="openDossierCard('IDF General Staff')" title="Click to open dossier">
+              <div class="aipac-node-name">IDF General Staff</div>
+              <div class="aipac-node-sub">Operational execution of war plans<br>Air campaign · escalation management</div>
+              <div class="aipac-node-tag">Military command</div>
+            </div>
+            <div class="aipac-node" onclick="openDossierCard('Mossad')" title="Click to open dossier">
+              <div class="aipac-node-name">Mossad</div>
+              <div class="aipac-node-sub">External intelligence / covert action<br>Foreign liaison and target development</div>
+              <div class="aipac-node-tag">External intel</div>
+            </div>
+            <div class="aipac-node" onclick="openDossierCard('Shin Bet')" title="Click to open dossier">
+              <div class="aipac-node-name">Shin Bet</div>
+              <div class="aipac-node-sub">Internal security / domestic intelligence<br>Counterterror and internal stability</div>
+              <div class="aipac-node-tag">Internal security</div>
+            </div>
+          </div>
+
+          <div class="aipac-arrow-row">↓ &nbsp; U.S. political / media reinforcement &nbsp; ↓</div>
+          <div class="aipac-row">
+            <div class="aipac-node media" onclick="openDossierCard('Donald J. Trump')" title="Click to open dossier">
+              <div class="aipac-node-name">Donald J. Trump 🕵️</div>
+              <div class="aipac-node-sub">Direct White House access<br>Strike authorization / U.S. backing</div>
+              <div class="aipac-node-tag">U.S. executive node</div>
+            </div>
+            <div class="aipac-node media" onclick="openDossierCard('Sean Hannity')" title="Click to open dossier">
+              <div class="aipac-node-name">Sean Hannity 🕵️</div>
+              <div class="aipac-node-sub">Fox amplification lane<br>Direct-to-Trump media channel</div>
+              <div class="aipac-node-tag">Media amplifier</div>
+            </div>
+            <div class="aipac-node media" onclick="openDossierCard('Mark Levin')" title="Click to open dossier">
+              <div class="aipac-node-name">Mark Levin 🕵️</div>
+              <div class="aipac-node-sub">Hardline legal / media pressure<br>Interventionist rhetorical reinforcement</div>
+              <div class="aipac-node-tag">Media-pressure node</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="font-size:10px;font-weight:700;letter-spacing:1.4px;color:var(--dim);text-transform:uppercase;margin:10px 0 10px;font-family:var(--font-mono);border-left:2px solid var(--border2);padding-left:10px;">Dossier Cards</div>
+
       <div id="dossier-grid"></div>
 
-      <div class="dossier-footer-note">
+      <div style="margin-top:12px;padding:10px 14px;background:rgba(26,115,232,0.04);border:1px solid rgba(26,115,232,0.16);border-left:3px solid var(--fact);border-radius:var(--radius);font-size:10px;color:var(--dim);font-family:var(--font-mono);line-height:1.8;">
+<strong style="color:var(--subtext)">Connection note:</strong>
+"Connections" indicate meaningful power, influence, operational, coalition, or messaging adjacency in the network map — not necessarily direct command, personal coordination, or proof that one node controls another.
+</div>
+
+<div class="dossier-footer-note">
         <strong style="color:var(--subtext)">Methodology:</strong>
         "Foreign ties" = foreign citizenship, board memberships, government contracts, or financial relationships with foreign sovereign entities — NOT allegations of wrongdoing or illegal conduct.
         "Risk" ratings reflect the number of overlapping influence vectors (citizenship + PAC + gov links) — NOT legal or security assessments.
@@ -1805,12 +2258,19 @@
         <span style="color:var(--subtext)">How pro-Israel lobbying money moves through U.S. politics and connects to the decision to strike Iran. All figures from FEC filings, OpenSecrets, and primary sources. This is not an anti-Israel page — it is a documented money-in-politics map.</span>
       </div>
 
-      <!-- ── FLOW CHART ── -->
+      <div style="font-size:10px;font-weight:700;letter-spacing:1.4px;color:#4ade80;text-transform:uppercase;margin:0 0 12px;font-family:var(--font-mono);border-left:2px solid #4ade80;padding-left:10px;">Influence Flow Map</div>
+
+ <!-- ── FLOW CHART ── -->
       <div id="aipac-flow-chart" style="font-family:var(--font-mono);">
 
         <!-- TIER 1: SOURCE DONORS -->
         <div class="aipac-tier-label">TIER 1 — BILLIONAIRE DONOR CLASS</div>
         <div class="aipac-row">
+          <div class="aipac-node donor" onclick="openDossierCard('Leonid Radvinsky')" title="Click to open dossier" style="border-left-color:#888;opacity:0.75;">
+            <div class="aipac-node-name">Leonid Radvinsky 🕵️ ✝</div>
+            <div class="aipac-node-sub">$11M pledge (denied) → AIPAC 2023<br>OnlyFans owner · d. Mar 23, 2026</div>
+            <div class="aipac-node-tag">Largest Single Post-Oct7 Pledge</div>
+          </div>
           <div class="aipac-node donor">
             <div class="aipac-node-name">Miriam Adelson</div>
             <div class="aipac-node-sub">$120M → Trump 2024<br>Preserve America PAC</div>
@@ -1875,6 +2335,11 @@
             <div class="aipac-node-sub">Christian Zionist<br>"Zionism = Americanism" (2018)</div>
             <div class="aipac-node-tag">Sec. of Defense · Strike Orders</div>
           </div>
+          <div class="aipac-node govt" onclick="openDossierCard('Lindsey Graham')" title="Click to open dossier">
+            <div class="aipac-node-name">Lindsey Graham 🕵️</div>
+            <div class="aipac-node-sub">$2.1M+ defense contractor $<br>Decades of Iran hawk advocacy</div>
+            <div class="aipac-node-tag">Senate Armed Services · War Champion</div>
+          </div>
           <div class="aipac-node govt">
             <div class="aipac-node-name">119th Congress</div>
             <div class="aipac-node-sub">318 AIPAC-backed members elected<br>$45.2M to new Congress members</div>
@@ -1901,6 +2366,18 @@
             <div class="aipac-node-name">Benjamin Netanyahu 🕵️</div>
             <div class="aipac-node-sub">Exclusive Hannity interviews<br>during strike escalation</div>
             <div class="aipac-node-tag">Foreign HOS · Direct Trump access</div>
+          </div>
+        </div>
+
+        <div class="aipac-arrow-row">↓ &nbsp; narrative enforcement &nbsp; ↓</div>
+
+        <!-- TIER 4.5: INSTITUTIONAL NARRATIVE ENFORCEMENT -->
+        <div class="aipac-tier-label" style="color:#f59e0b;border-color:#f59e0b;">TIER 4.5 — INSTITUTIONAL NARRATIVE ENFORCEMENT</div>
+        <div class="aipac-row">
+          <div class="aipac-node" onclick="openDossierCard('Jonathan Greenblatt')" title="Click to open dossier" style="border-left:3px solid #f59e0b;background:rgba(245,158,11,0.04);">
+            <div class="aipac-node-name" style="color:#f59e0b;">Jonathan Greenblatt 🕵️</div>
+            <div class="aipac-node-sub">ADL CEO · Calls war critics "antisemitic"<br>Named Sen. Van Hollen + Rep. Khanna from stage</div>
+            <div class="aipac-node-tag">Antisemitism charge as political weapon</div>
           </div>
         </div>
 
@@ -1944,7 +2421,7 @@
 
 
 <footer>
-  ClearView Iran Conflict Dashboard &nbsp;·&nbsp; Auto-updated hourly via GitHub Actions &nbsp;·&nbsp; Always follow source links and read primary documents &nbsp;·&nbsp; No source is fully unbiased — including this one.
+  ClearView Iran Conflict Dashboard &nbsp;·&nbsp; Auto-updated hourly via GitHub Actions &nbsp;·&nbsp; Always follow source links and read primary documents &nbsp;·&nbsp; No source is fully source-transparent — including this one.
 </footer>
 
 <script src="./war-widget.js"></script>
@@ -2143,6 +2620,17 @@
   // Maps keywords/aliases → dossier card IDs
   const DOSSIER_NAME_MAP = [
     { keys:['tucker carlson','tucker','tcn'],                        name:'Tucker Carlson' },
+    { keys:['laura loomer','loomer','loomered','loomer unleashed'],  name:'Laura Loomer' },
+    { keys:['megyn kelly','kelly show','mk media'],                  name:'Megyn Kelly' },
+    { keys:['randy fine','hebrew hammer','fine florida'],            name:'Randy Fine' },
+    { keys:['lindsey graham','graham senate','senator graham'],      name:'Lindsey Graham' },
+    { keys:['susie wiles','wiles chief of staff','susan wiles'],     name:'Susie Wiles' },
+    { keys:['stephen miller','miller deputy','america first legal'], name:'Stephen Miller' },
+    { keys:['joe kent','kent nctc','counterterrorism director'],     name:'Joe Kent' },
+    { keys:['erika kirk','turning point usa','tpusa ceo'],           name:'Erika Kirk' },
+    { keys:['leonid radvinsky','radvinsky','onlyfans owner'],        name:'Leonid Radvinsky' },
+    { keys:['jonathan greenblatt','greenblatt','adl ceo'],           name:'Jonathan Greenblatt' },
+    { keys:['markwayne mullin','mullin dhs','mullin oklahoma'],      name:'Markwayne Mullin' },
     { keys:['sean hannity','hannity'],                               name:'Sean Hannity' },
     { keys:['mark levin','levin','landmark legal','life liberty'],   name:'Mark Levin' },
     { keys:['obama','barack obama','jcpoa'],           name:'Barack Obama' },
@@ -3337,6 +3825,127 @@
         { label:"CNN/Fox War",  url:"https://www.cnn.com/2025/06/18/media/fox-news-mark-levin-tucker-carlson-maga-media-israel-iran", type:"wire" },
       ],
     },
+
+    "Ron Dermer": {
+      foreignTies: [
+        { label:"Reuters", url:"https://www.reuters.com/world/middle-east/", type:"wire" },
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+        { label:"AP", url:"https://apnews.com/", type:"wire" },
+      ],
+      pacActivity: [
+        { label:"AIPAC profile", url:"https://www.aipac.org/", type:"wire" },
+        { label:"OpenSecrets", url:"https://www.opensecrets.org/", type:"fec" },
+      ],
+      govLinks: [
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+        { label:"Knesset", url:"https://main.knesset.gov.il/en/", type:"gov" },
+      ],
+    },
+    "Israel Katz": {
+      foreignTies: [
+        { label:"Reuters", url:"https://www.reuters.com/world/middle-east/", type:"wire" },
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+      ],
+      pacActivity: [
+        { label:"Knesset", url:"https://main.knesset.gov.il/en/", type:"gov" },
+      ],
+      govLinks: [
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+        { label:"Likud", url:"https://www.likud.org.il/", type:"corp" },
+      ],
+    },
+    "Tzachi Hanegbi": {
+      foreignTies: [
+        { label:"Reuters", url:"https://www.reuters.com/world/middle-east/", type:"wire" },
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+      ],
+      pacActivity: [
+        { label:"Knesset", url:"https://main.knesset.gov.il/en/", type:"gov" },
+      ],
+      govLinks: [
+        { label:"Israeli NSC", url:"https://www.gov.il/en/departments/national-security-council/govil-landing-page", type:"gov" },
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+      ],
+    },
+    "Bezalel Smotrich": {
+      foreignTies: [
+        { label:"Reuters", url:"https://www.reuters.com/world/middle-east/", type:"wire" },
+        { label:"AP", url:"https://apnews.com/", type:"wire" },
+      ],
+      pacActivity: [
+        { label:"Knesset", url:"https://main.knesset.gov.il/en/", type:"gov" },
+        { label:"Religious Zionism", url:"https://www.knesset.gov.il/faction/eng/FactionPage_eng.asp?PG=248", type:"gov" },
+      ],
+      govLinks: [
+        { label:"Israeli Finance", url:"https://www.gov.il/en/departments/ministry_of_finance/govil-landing-page", type:"gov" },
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+      ],
+    },
+    "Itamar Ben-Gvir": {
+      foreignTies: [
+        { label:"Reuters", url:"https://www.reuters.com/world/middle-east/", type:"wire" },
+        { label:"AP", url:"https://apnews.com/", type:"wire" },
+      ],
+      pacActivity: [
+        { label:"Knesset", url:"https://main.knesset.gov.il/en/", type:"gov" },
+        { label:"Otzma Yehudit", url:"https://www.knesset.gov.il/faction/eng/FactionPage_eng.asp?PG=249", type:"gov" },
+      ],
+      govLinks: [
+        { label:"NatSec Ministry", url:"https://www.gov.il/en/departments/ministry_of_national_security/govil-landing-page", type:"gov" },
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+      ],
+    },
+    "Yariv Levin": {
+      foreignTies: [
+        { label:"Reuters", url:"https://www.reuters.com/world/middle-east/", type:"wire" },
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+      ],
+      pacActivity: [
+        { label:"Knesset", url:"https://main.knesset.gov.il/en/", type:"gov" },
+        { label:"Likud", url:"https://www.likud.org.il/", type:"corp" },
+      ],
+      govLinks: [
+        { label:"Justice Ministry", url:"https://www.gov.il/en/departments/ministry_of_justice/govil-landing-page", type:"gov" },
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+      ],
+    },
+    "Mossad": {
+      foreignTies: [
+        { label:"Britannica", url:"https://www.britannica.com/topic/Mossad", type:"wire" },
+        { label:"Reuters", url:"https://www.reuters.com/world/middle-east/", type:"wire" },
+      ],
+      pacActivity: [
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+      ],
+      govLinks: [
+        { label:"PM Office", url:"https://www.gov.il/en/departments/prime_ministers_office/govil-landing-page", type:"gov" },
+      ],
+    },
+    "Shin Bet": {
+      foreignTies: [
+        { label:"Britannica", url:"https://www.britannica.com/topic/Shin-Bet", type:"wire" },
+        { label:"Reuters", url:"https://www.reuters.com/world/middle-east/", type:"wire" },
+      ],
+      pacActivity: [
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+      ],
+      govLinks: [
+        { label:"PM Office", url:"https://www.gov.il/en/departments/prime_ministers_office/govil-landing-page", type:"gov" },
+      ],
+    },
+    "IDF General Staff": {
+      foreignTies: [
+        { label:"IDF", url:"https://www.idf.il/en/", type:"gov" },
+        { label:"Reuters", url:"https://www.reuters.com/world/middle-east/", type:"wire" },
+      ],
+      pacActivity: [
+        { label:"IDF", url:"https://www.idf.il/en/", type:"gov" },
+      ],
+      govLinks: [
+        { label:"Israeli Gov", url:"https://www.gov.il/en", type:"gov" },
+        { label:"Defense Ministry", url:"https://www.gov.il/en/departments/ministry_of_defense/govil-landing-page", type:"gov" },
+      ],
+    },
   };
 
   function dossierSrcChips(name, section) {
@@ -3369,6 +3978,88 @@
       govLinks:"Prime Minister of Israel — commands the IDF and Israeli intelligence services (Mossad, Shin Bet, Unit 8200). All Israeli defense contracts with U.S. tech companies (Palantir, Google, Amazon, Microsoft) flow through or are influenced by his government. Currently subject to ICC arrest warrant (Nov 2024) — creating a live international law conflict that affects U.S. allies who are ICC members. ICJ genocide case (South Africa v. Israel) proceedings ongoing at The Hague. UN Security Council Resolution 2334 (2016) declared Israeli settlements have 'no legal validity' — passed when Obama administration abstained rather than veto. The Oct 7 Hamas attack and subsequent Gaza military operations have made Netanyahu's government the most consequential foreign policy variable for every U.S. defense and tech company in this dossier.",
       flag:"🇮🇱🇺🇸",risk:"FHS",connections:["Donald J. Trump","Jared Kushner","Alex Karp","Palmer Luckey","Peter Thiel","Marco Rubio","Pete Hegseth","Tulsi Gabbard"]
     },
+    {
+      name:"Ron Dermer",role:"Minister of Strategic Affairs | Netanyahu confidant | Former Israeli Ambassador to the U.S.",org:"State of Israel · Strategic Affairs",tier:"Government",
+      citizenship:"Israel · US (born in Miami, later Israeli citizen)",
+      citizenshipDetail:"Born in Miami Beach in 1971 and later emigrated to Israel, Ron Dermer became one of Benjamin Netanyahu's closest long-term political advisers. He served as Israeli ambassador to the United States and is widely seen as one of Netanyahu's most important Washington-facing operators rather than just a conventional diplomat.",
+      foreignTies:"Dermer is a direct Israel–U.S. political bridge figure. His career centers on translating Israeli strategic priorities into American political language, especially for Republican administrations, pro-Israel advocacy networks, and donor ecosystems. He is one of the clearest channels through which Netanyahu's priorities are carried into Washington.",
+      pacActivity:"No direct U.S. PAC role in the candidate sense, but substantial influence through elite political access, donor relationships, and strategic messaging. His leverage is relationship power more than disclosed campaign finance power.",
+      govLinks:"As Minister of Strategic Affairs and a core Netanyahu confidant, Dermer is a first-tier node for war policy signaling, U.S. coordination, and high-level political messaging. In this command map he functions as Netanyahu's key American-facing strategic lieutenant.",
+      flag:"🇮🇱🇺🇸",risk:"HIGH",connections:["Benjamin Netanyahu","Donald J. Trump","Marco Rubio","Sean Hannity","Mark Levin"]
+    },
+    {
+      name:"Israel Katz",role:"Senior Israeli cabinet figure | Foreign / defense power center | Likud heavyweight",org:"State of Israel · Cabinet",tier:"Government",
+      citizenship:"Israel",
+      citizenshipDetail:"Longtime Likud power figure, Israel Katz has held multiple senior ministries and remains one of the most durable cabinet heavyweights in Netanyahu's orbit. His importance is less about one job title than his status as an entrenched operator inside governing Likud power structures.",
+      foreignTies:"Katz sits at the junction of cabinet policy, external signaling, and coalition politics. He matters in this map as a senior state actor helping translate Netanyahu-aligned strategy into ministerial posture and cabinet execution.",
+      pacActivity:"No U.S. PAC role. His significance is institutional and coalition-based rather than donor-based in the American sense.",
+      govLinks:"Katz belongs in the first tier because he is part of the governing class that stabilizes and operationalizes prime-ministerial strategy. He is a major cabinet support beam inside Netanyahu's power architecture.",
+      flag:"🇮🇱",risk:"MEDIUM",connections:["Benjamin Netanyahu","Ron Dermer","Tzachi Hanegbi","Bezalel Smotrich","Donald J. Trump"]
+    },
+    {
+      name:"Tzachi Hanegbi",role:"National Security Council channel | Senior Netanyahu ally | Strategic coordination figure",org:"State of Israel · National Security Council",tier:"Government",
+      citizenship:"Israel",
+      citizenshipDetail:"Veteran Likud politician and long-time Netanyahu ally. Hanegbi's value in this command structure is as a strategic coordination figure who sits closer to security process and state machinery than to mass political branding.",
+      foreignTies:"Hanegbi's relevance is tied to national-security coordination, cabinet-security process, and the institutional bridge between political leadership and the broader security state. He is a process-power figure more than a media-power figure.",
+      pacActivity:"No U.S. PAC role. His influence comes from senior ruling-party alignment, security-policy access, and institutional continuity under Netanyahu-led governments.",
+      govLinks:"Placed in the first tier because he represents the security-coordination layer beneath Netanyahu, where cabinet politics, intelligence considerations, and strategic messaging begin to converge.",
+      flag:"🇮🇱",risk:"MEDIUM",connections:["Benjamin Netanyahu","Ron Dermer","Israel Katz","Mossad","Shin Bet","Donald J. Trump"]
+    },
+    {
+      name:"Bezalel Smotrich",role:"Finance Minister | Far-right coalition pillar | Settlement hardliner",org:"State of Israel · Religious Zionism",tier:"Government",
+      citizenship:"Israel",
+      citizenshipDetail:"Far-right Israeli politician and leader of the Religious Zionism current. One of the most important coalition partners sustaining Netanyahu's governing majority. His power comes from both office and his ability to threaten coalition stability from the nationalist-religious flank.",
+      foreignTies:"Smotrich is a key internal pressure source inside Netanyahu's coalition. His ideological commitments on settlements, Palestinian policy, and coercive state action make him a major driver of maximalist pressure from within the government itself.",
+      pacActivity:"No U.S. PAC role. His influence is coalition leverage: the ability to condition support, threaten parliamentary instability, and shift the ideological center of gravity of the government.",
+      govLinks:"As finance minister and coalition hardliner, Smotrich sits in the first tier because he affects both state resources and Netanyahu's political survivability. He is one of the clearest examples of internal coalition pressure shaping strategy.",
+      flag:"🇮🇱",risk:"HIGH",connections:["Benjamin Netanyahu","Itamar Ben-Gvir","Yariv Levin","Israel Katz","Donald J. Trump"]
+    },
+    {
+      name:"Itamar Ben-Gvir",role:"National Security Minister | Far-right coalition enforcer | Internal pressure node",org:"State of Israel · Otzma Yehudit",tier:"Government",
+      citizenship:"Israel",
+      citizenshipDetail:"Far-right Israeli politician and leader of Otzma Yehudit. One of the most combustible figures in Netanyahu's coalition, with power rooted in ideological intensity, coalition leverage, and an internal-security hardline political identity.",
+      foreignTies:"Ben-Gvir matters less as a diplomatic actor than as an internal radicalization pressure source. His role in this map is to show how de-escalation can become politically costly inside Netanyahu's own coalition.",
+      pacActivity:"No U.S. PAC role. His leverage is parliamentary and ideological, built on his ability to mobilize the far-right base and threaten coalition consequences when the government appears insufficiently aggressive.",
+      govLinks:"As National Security Minister, Ben-Gvir belongs in the first tier because he fuses internal coercive politics with coalition pressure. In this command structure he is an internal force multiplier for hardline policy.",
+      flag:"🇮🇱",risk:"HIGH",connections:["Benjamin Netanyahu","Bezalel Smotrich","Yariv Levin","Shin Bet","Donald J. Trump"]
+    },
+    {
+      name:"Yariv Levin",role:"Justice Minister | Coalition architect | Institutional power broker",org:"State of Israel · Cabinet",tier:"Government",
+      citizenship:"Israel",
+      citizenshipDetail:"Senior Likud politician and one of the most important institutional power brokers in Netanyahu's governing world. Internationally known for the judicial overhaul fight, but in this map his deeper importance is as a regime-maintenance and coalition-architecture figure.",
+      foreignTies:"Levin is not mainly a foreign-facing figure; he is a domestic institutional-control figure. That matters because internal legal and institutional stability directly affects how long hardline policy can be sustained.",
+      pacActivity:"No U.S. PAC role. His political significance comes from coalition management, legal restructuring, and the ability to shape the internal rules under which Netanyahu's government survives and acts.",
+      govLinks:"Levin belongs in the first tier because he helps keep Netanyahu in power domestically. In a command structure he is less a battlefield node than a regime-sustaining node — but that makes him critical to the system.",
+      flag:"🇮🇱",risk:"MEDIUM",connections:["Benjamin Netanyahu","Bezalel Smotrich","Itamar Ben-Gvir","Ron Dermer"]
+    },
+
+    {
+      name:"IDF General Staff",role:"Israeli military high command | Operational execution layer",org:"Israel Defense Forces",tier:"Government",
+      citizenship:"Israel (institutional)",
+      citizenshipDetail:"Institutional node representing the senior operational command layer of the Israel Defense Forces. Used here instead of a single named chief so the dashboard stays stable even when personnel change.",
+      foreignTies:"The IDF General Staff sits at the center of operational execution, force posture, escalation management, and military planning. It is deeply integrated into Israel's U.S.-linked security ecosystem through joint coordination, weapons support, and intelligence-sharing relationships.",
+      pacActivity:"No PAC role. This is a state military institution rather than an electoral or donor node. Its relevance is operational, not campaign-finance based.",
+      govLinks:"In the Netanyahu command map, the IDF General Staff is the military execution layer beneath political leadership — the place where cabinet intent becomes air, land, intelligence, and force-planning action.",
+      flag:"🇮🇱",risk:"MEDIUM",connections:["Benjamin Netanyahu","Tzachi Hanegbi","Mossad","Shin Bet","Donald J. Trump"]
+    },
+    {
+      name:"Mossad",role:"External intelligence service | Covert action and foreign liaison node",org:"State of Israel · Mossad",tier:"Government",
+      citizenship:"Israel (institutional)",
+      citizenshipDetail:"Institutional node representing Israel's external intelligence service. Included as an institution rather than a single named chief to keep the dashboard durable over time.",
+      foreignTies:"Mossad is the outward-facing intelligence arm tied to foreign liaison, target development, covert action, and strategic intelligence relationships. In your map it is a crucial bridge between Israeli political leadership and cross-border action.",
+      pacActivity:"No PAC role. This is a state intelligence institution, not an electoral actor.",
+      govLinks:"In the Netanyahu structure, Mossad belongs in the second tier as the foreign-intelligence and covert-action execution layer. It helps explain how strategic intent moves outward beyond cabinet politics.",
+      flag:"🇮🇱",risk:"MEDIUM",connections:["Benjamin Netanyahu","Ron Dermer","Tzachi Hanegbi","IDF General Staff","Donald J. Trump"]
+    },
+    {
+      name:"Shin Bet",role:"Internal security and domestic intelligence service",org:"State of Israel · Shin Bet",tier:"Government",
+      citizenship:"Israel (institutional)",
+      citizenshipDetail:"Institutional node representing Israel's internal security and domestic intelligence service. Included institutionally rather than as a single officeholder for stability.",
+      foreignTies:"Shin Bet matters in this command structure as the domestic security, counterterror, and internal-control arm of the Israeli security state. It is the inward-facing complement to Mossad's outward-facing role.",
+      pacActivity:"No PAC role. It is a state internal-security institution, not an electoral or donor node.",
+      govLinks:"In this map, Shin Bet sits beneath the political layer as part of the coercive and internal-control architecture that supports security governance, internal intelligence, and counterterror operations.",
+      flag:"🇮🇱",risk:"MEDIUM",connections:["Benjamin Netanyahu","Itamar Ben-Gvir","Tzachi Hanegbi","IDF General Staff"]
+    },
     // ── CONFLICT ACTORS ──
     {
       name:"Hamas Leadership",role:"Gaza-Based Armed Organization  |  Oct. 7 Attack Architects  |  Designated FTO",org:"Hamas · Al-Qassam Brigades · Political Bureau",tier:"Conflict Actor",
@@ -3382,7 +4073,7 @@
     {
       name:"Iranian IRGC Leadership",role:"Islamic Revolutionary Guard Corps  |  Quds Force  |  Regional Proxy Network Commander",org:"IRGC · Quds Force · Iran",tier:"Conflict Actor",
       citizenship:"Iranian",
-      citizenshipDetail:"The Islamic Revolutionary Guard Corps (IRGC) is a branch of Iran's armed forces, distinct from the regular Iranian military, reporting directly to the Supreme Leader (currently Ali Khamenei). The Quds Force is the IRGC's external operations unit — responsible for supporting proxy forces across the region. The IRGC was designated a Foreign Terrorist Organization by the United States in 2019 — the first time the U.S. designated a government military branch as an FTO. Key figures include IRGC Commander Hossein Salami. Qasem Soleimani, the legendary Quds Force commander, was killed in a U.S. drone strike in Baghdad (January 2020). His successor Esmail Ghaani currently commands the Quds Force.",
+      citizenshipDetail:"The Islamic Revolutionary Guard Corps (IRGC) is a branch of Iran's armed forces, distinct from the regular Iranian military, reporting directly to the Supreme Leader. Supreme Leader Ali Khamenei was killed in U.S.-Israeli strikes on his Tehran compound on February 28, 2026. His son Mojtaba Khamenei, 56, was named Iran's third Supreme Leader by the Assembly of Experts on March 8, 2026 — the first father-to-son succession in the Islamic Republic's history. Mojtaba has close ties to the IRGC and is viewed as more hardline than his father. As of mid-March 2026, he has made no public appearance since his appointment; Trump has questioned whether he is alive. The Quds Force is the IRGC's external operations unit — responsible for supporting proxy forces across the region. The IRGC was designated a Foreign Terrorist Organization by the United States in 2019 — the first time the U.S. designated a government military branch as an FTO. Key figures include IRGC Commander Hossein Salami. Qasem Soleimani, the legendary Quds Force commander, was killed in a U.S. drone strike in Baghdad (January 2020). His successor Esmail Ghaani commanded the Quds Force until the February 2026 strikes.",
       foreignTies:"IRGC/Quds Force provides funding, weapons, training, and operational coordination to a network of regional proxy forces: Hezbollah (Lebanon), Hamas (Gaza), Palestinian Islamic Jihad (Gaza), Houthi movement (Yemen/Ansar Allah), and various Iraqi Shia militia groups (PMF/Kataib Hezbollah). This 'Axis of Resistance' network is the primary regional escalation vector in the current conflict. IRGC has directly supplied Houthis with ballistic missiles and drones used in attacks on Red Sea shipping — disrupting global trade routes. Iran launched its first direct military strike on Israel (April 2024) — 300+ drones and missiles, largely intercepted. IRGC's cyber operations unit has conducted attacks on U.S. and Israeli infrastructure. U.S. Treasury has sanctioned hundreds of IRGC-linked individuals and entities.",
       pacActivity:"IRGC has no U.S. PAC activity — designated FTO. All IRGC financial transactions are sanctionable under U.S. law. EU has imposed extensive sanctions on IRGC leadership and entities. The IRGC's budget and operations are funded by the Iranian state, Iranian oil revenues, and illicit networks including sanctions evasion through front companies. U.S. Treasury OFAC sanctions database documents hundreds of IRGC-linked designations. The IRGC's ballistic missile program and drone proliferation have triggered multiple rounds of multilateral sanctions.",
       govLinks:"Designated FTO by U.S. State Department (2019). Sanctioned by Treasury OFAC, EU, UK, and allied governments. DoD has conducted multiple strikes against IRGC-linked targets in Iraq, Syria, and Yemen in response to attacks on U.S. forces. CENTCOM regularly issues statements documenting IRGC-linked activities. UN Security Council expert panel reports document weapons transfers through the IRGC network to regional proxies. The IRGC's nuclear program oversight role makes it central to all U.S.-Iran nuclear negotiations — the IRGC controls Iran's missile program which is the primary delivery system for any potential nuclear weapon.",
@@ -3778,6 +4469,108 @@
       pacActivity:"Major Republican donor and fossil fuel industry figure. FEC filings show substantial conservative giving history. C-SPAN appearances document his public policy positions. As Liberty Energy CEO he was a prominent voice in U.S. energy policy debates, arguing against rapid fossil fuel phase-out.",
       govLinks:"Secretary of Energy — controls DOE budget ($50B+/year), nuclear energy licensing (Oklo, NuScale, and other advanced reactors that AI data centers need for power), grid infrastructure policy, and national labs (Oak Ridge, Argonne, NREL). Oklo board connection to Sam Altman creates direct OpenAI/Stargate policy link. Nuclear licensing decisions will determine whether Stargate data centers get the power they need to operate.",
       flag:"🇺🇸",risk:"HIGH",connections:["Sam Altman","Doug Burgum","Masayoshi Son","Larry Ellison"]
+    },
+
+    // ── NEW ENTRIES ──────────────────────────────────────────────
+
+    {
+      name:"Megyn Kelly",role:"Host — The Megyn Kelly Show (SiriusXM / YouTube)  |  Founder — MK Media  |  Fmr. Fox News & NBC News Anchor",org:"SiriusXM · YouTube · MK Media",tier:"Media",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born November 18, 1970, Champaign, Illinois. Graduated Albany Law School 1995. Worked as a corporate attorney at Jones Day for nine years before pivoting to journalism. Joined Fox News 2004 — hosted America Live and The Kelly File. Left Fox 2017 for NBC News, where she anchored Megyn Kelly Today until 2018 when her show was cancelled following on-air comments defending blackface Halloween costumes. Launched The Megyn Kelly Show as an independent podcast/SiriusXM show. As of November 2025, the YouTube channel has over 4 million subscribers — surpassing NBC News viewership in July 2023. Named Time 100 Most Influential 2014 and 2025. Registered independent voter since 2008. Voted for Trump in 2020 and 2024.",
+      foreignTies:"No foreign ties documented. Her relevance to the Iran conflict is as a prominent dissenting voice from the right — creating counterpressure on Trump's media environment. Her public feud with Mark Levin over the war has drawn direct presidential intervention.",
+      pacActivity:"No PAC activity documented. Independent media operator — revenue comes from SiriusXM contract, YouTube ad revenue, and MK Media network. Her political influence is audience-driven, not donor-driven. No FEC footprint. Founded MK Media in 2025, a podcast network of independent conservative creators.",
+      govLinks:"No government role. Her Iran-war relevance is documented dissent: on March 2, 2026, Kelly publicly broke with Trump, stating on-air that 'no one should have to die for a foreign country' and that U.S. service members 'died for Israel, not America.' Trump responded the same day in a phone interview with The Inner Circle Substack, saying Kelly is 'not MAGA' and should 'study her history book.' This triggered a highly public feud with Mark Levin, who called her an 'Israel firster' critic; Kelly responded calling him 'Micropenis Mark.' Trump defended Levin. Kelly's anti-intervention position aligns her with Tucker Carlson, Joe Rogan, and Marjorie Taylor Greene — the isolationist MAGA wing. She is documented as one of the most significant right-wing critics of Operation Epic Fury.",
+      flag:"🇺🇸",risk:"MEDIUM",connections:["Donald J. Trump","Mark Levin","Tucker Carlson","Sean Hannity"]
+    },
+
+    {
+      name:"Randy Fine",role:"U.S. Representative — Florida's 6th Congressional District  |  House Foreign Affairs Committee Member  |  Fmr. Florida State Representative",org:"U.S. House of Representatives · House Foreign Affairs Committee",tier:"Government",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born in Florida. Jewish. Former casino gaming executive — worked in the gaming industry before entering politics. Elected to Florida State House 2016, serving until 2025. Elected to U.S. House April 2, 2025, representing Florida's 6th Congressional District in a special election. Self-styled 'Hebrew Hammer' — his chosen public identity as a pro-Israel hardliner. Appointed to the House Foreign Affairs Committee February 2026 — the committee responsible for oversight of foreign aid, war powers, and international affairs. No foreign citizenship documented.",
+      foreignTies:"No foreign citizenship documented. AIPAC and allied pro-Israel groups (RJC, NORPAC) have contributed $402,553+ to Fine's campaigns per FEC filings and TrackAIPAC data. Fine boasted on X that AIPAC 'had me for free' — a community note clarified the $126,000+ contribution. AIPAC temporarily appeared to drop him from their endorsed candidate database in July 2025 after his 'starve away' tweet; AIPAC disputed the characterization. Fine collaborated with the Center for Security Policy — designated a hate group by the SPLC for anti-Muslim views — to write Florida legislation restricting CAIR activity.",
+      pacActivity:"$402,553+ from AIPAC, RJC, NORPAC per FEC/TrackAIPAC. AIPAC spent $126,000+ directly on his 2025 special election campaign. Fine publicly proclaimed AIPAC 'had me for free' before a community note corrected the claim. Currently AIPAC-endorsed for 2026 reelection campaign per Times of Israel.",
+      govLinks:"House Foreign Affairs Committee — direct oversight of Iran war policy, foreign aid authorization, and war powers. Posted 'bombs away' on X when Operation Epic Fury launched February 28, 2026, praising Trump as someone who 'doesn't mess around.' February 2025: Tweeted that Palestinian civilians should 'starve away' until hostages were released — condemned by the American Jewish Committee, MTG, and multiple Republican colleagues; multiple Democrats called for resignation or censure. February 2026: Tweeted 'If they force us to choose, the choice between dogs and Muslims is not a difficult one' — condemned by Jake Tapper (CNN), Hakeem Jeffries, Gavin Newsom ('Resign now, you racist slob'), Josh Malina, and Amos Hochstein. March 2026: Wrote 'We need more Islamophobia, not less.' Has called for mass deportation of Muslim Americans and denaturalization of Muslim U.S. citizens. Supports Muslim immigration ban.",
+      flag:"🇺🇸",risk:"HIGH",connections:["Donald J. Trump","Marco Rubio","Pete Hegseth","Benjamin Netanyahu"]
+    },
+
+    {
+      name:"Lindsey Graham",role:"U.S. Senator — South Carolina (R)  |  Senate Armed Services Committee  |  Senate Judiciary Committee  |  Senate Appropriations Committee",org:"U.S. Senate · Senate Armed Services Committee",tier:"Government",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born July 9, 1955, Central, South Carolina. University of South Carolina BA (1977) and law degree (1981). U.S. Air Force JAG officer 1982–1988, Air Force Reserve until 2015 (Colonel). U.S. House 1995–2003, U.S. Senate 2003–present. One of the longest-serving hawkish voices in Congress — backed virtually every U.S. military intervention in the past three decades including the 2003 Iraq War, Afghanistan surge, Libya, Syria, and now Iran. Running for reelection 2026 — filed paperwork March 16, 2026, explicitly tying his campaign to Operation Epic Fury.",
+      foreignTies:"$2.1M+ from defense corporations since 2018 per documented FEC filings — companies including Boeing and defense PACs whose revenues increase with military conflict. Significant AIPAC and Republican Jewish Coalition funding documented across his career. Worked as a consultant for Netanyahu's reelection campaign (reported by Foreign Policy, March 2026). Has been one of the most vocal U.S. advocates for Israeli military priorities for over two decades. Graham openly suggested on Fox News that the Iran war would allow the U.S. to gain access to Iran and Venezuela's oil reserves — 'Venezuela and Iran have 31 percent of the world's oil reserves. We're going to have a partnership with 31 percent of the known reserves.'",
+      pacActivity:"$2.1M+ from defense corporations since 2018 (FEC documented). $117M+ total campaign fundraising 2019–2024 including substantial PAC and large-donor contributions. Significant AIPAC and RJC contributions documented across career. 2026 reelection campaign explicitly framed around Iran war support — positioning himself as the senator who delivered the war he advocated for decades.",
+      govLinks:"Senate Armed Services Committee — direct oversight of military operations, defense budgets, and war powers. Judiciary and Appropriations committee memberships give him broad leverage. Was the loudest congressional voice calling for Iran strikes for decades. Senate floor speech after Operation Epic Fury launched: 'God bless President Donald J. Trump!' Called the strikes 'the most significant thing that's happened in the Mid-East in a thousand years' to reporters. Told Fox News the U.S. would 'make a tonne of money' from Iranian oil once the regime falls. Currently pushing Trump to escalate further and threatening to condition U.S. aid to Saudi Arabia unless Riyadh joins the war. Reuters reporting March 2026 cites Graham as one of the hawks pushing for sustained offensive against Iran in internal White House debates — opposing Wiles and Vance's de-escalation track.",
+      flag:"🇺🇸",risk:"HIGH",connections:["Donald J. Trump","Marco Rubio","Pete Hegseth","Benjamin Netanyahu","Sean Hannity"]
+    },
+
+    {
+      name:"Susie Wiles",role:"White House Chief of Staff (32nd)  |  First Woman to Hold the Position  |  Fmr. Trump Campaign Co-Chair  |  Fmr. Political Consultant & Lobbyist",org:"White House · Chief of Staff Office",tier:"Government",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born May 14, 1957, Lake City, Florida. Daughter of NFL player and TV sportscaster Pat Summerall. University of Maryland graduate 1978. Career spans four decades as a Republican political operative and lobbyist in Florida. Key roles: Reagan 1980 campaign scheduling, Jacksonville mayor chief of staff 1997–2000, Rick Scott's 2010 Florida gubernatorial campaign manager, Ron DeSantis's 2018 gubernatorial campaign manager, Trump's 2024 presidential co-campaign manager. Led Ballard Partners lobbying firm in Washington after Trump's first term. Named first female White House Chief of Staff January 2025. Diagnosed with early-stage breast cancer March 2026 — Trump announced publicly, she is continuing to work through treatment at the White House.",
+      foreignTies:"Wiles worked as a political consultant on Benjamin Netanyahu's 2020 Israeli reelection campaign — documented by Foreign Policy (March 17, 2026). This is the most direct pre-administration foreign government tie documented for any current White House senior official outside of Cabinet members. No other foreign ties documented.",
+      pacActivity:"No personal PAC activity. As Trump's campaign manager/co-chair, Wiles oversaw the management of hundreds of millions in campaign spending. As a lobbyist at Ballard Partners, her clients included corporate and foreign interests (lobbyist disclosure filings are public record). Her political influence now operates through the Chief of Staff role — gatekeeper to the president.",
+      govLinks:"Chief of Staff — the most operationally powerful non-elected position in the executive branch. Controls the president's schedule, information flow, staffing decisions, and policy agenda. Documented as the primary internal brake on Iran war escalation: Reuters and Mirror reporting (March 2026) cite Wiles and Deputy Chief James Blair as urging Trump to define 'victory' narrowly, limit engagement, and signal the operation is 'nearly finished' — citing gas prices and midterm political risk. Directly opposed to Hegseth/Graham hawk faction. Blocked Laura Loomer from West Wing access on multiple occasions before Trump overrode her. Gave a notably candid Vanity Fair interview December 2025, describing Trump as having 'an alcoholic's personality' — Trump publicly stood by her afterward.",
+      flag:"🇺🇸",risk:"MEDIUM",connections:["Donald J. Trump","JD Vance","Marco Rubio","Pete Hegseth","Benjamin Netanyahu"]
+    },
+
+    {
+      name:"Stephen Miller",role:"White House Deputy Chief of Staff for Policy  |  Homeland Security Adviser  |  Fmr. Senior Adviser & Director of Speechwriting (Trump 1st term)",org:"White House · Homeland Security Council",tier:"Government",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born August 23, 1985, Santa Monica, California. Jewish, raised in a politically liberal family. Duke University political science graduate 2007. Became conservative after reading NRA literature in high school — began appearing on conservative radio as a teenager. Worked as press secretary for Rep. Michele Bachmann and Rep. John Shadegg, then joined Sen. Jeff Sessions' staff 2009 focusing on immigration. Named Trump's senior adviser and speechwriting director 2017–2021 — co-authored the 'American carnage' inaugural address. Founded America First Legal Foundation 2021 to litigate against Biden policies. Named Deputy Chief of Staff for Policy and Homeland Security Adviser January 20, 2025 — neither position requires Senate confirmation. Married to Katie Waldman (former Pence press secretary) 2020; three children.",
+      foreignTies:"No foreign citizenship documented. Miller's politics have been described as white nationalist and far-right by multiple journalists and academics — he has denied close association with white nationalist figures while maintaining correspondence that leaked to the Southern Poverty Law Center. His anti-Muslim immigration policy directly intersects with the Iran war: Miller used the conflict to intensify domestic crackdowns on Iranian-Americans and Muslim Americans in government, mirroring Loomer's parallel civilian operation.",
+      pacActivity:"No personal PAC activity. Founded America First Legal Foundation 2021 — a 501(c)(3) legal organization that litigates against immigration, DEI, and progressive policies. The Foundation's donors are not fully public. Miller's influence operates through executive power and proximity to the president, not through campaign finance.",
+      govLinks:"Deputy Chief of Staff for Policy — portfolio spans immigration, homeland security, law enforcement, foreign policy, trade, and education. Called 'the prime minister' by Steve Bannon; NPR/Atlantic described him as 'arguably the most consequential figure in the second Trump administration.' Runs daily 10am interagency policy calls including Saturdays — attended by senior DHS, DOJ, and NSC leadership. Set the 3,000 arrests/day deportation quota. Micromanages DHS Secretary and calls Noem multiple times daily. Pressured DOJ officials on FBI dismissals. Architect of Muslim ban (Trump 1st term), family separation policy, and entire 2025–2026 mass deportation operation. On November 1, 2024 — two days before the election — posted on X that 'warmongering neocons love sending your kids to die for wars they would never fight themselves' and 'Trump = Peace.' This position was directly contradicted when he became a senior architect of the administration that launched Operation Epic Fury. YouGov January 2026: only 17% of respondents had a positive impression of Miller. The New Republic named him 2025 'Scoundrel of the Year.'",
+      flag:"🇺🇸",risk:"HIGH",connections:["Donald J. Trump","Susie Wiles","Pete Hegseth","Tulsi Gabbard","Marco Rubio"]
+    },
+
+    {
+      name:"Joe Kent",role:"Fmr. Director — National Counterterrorism Center  |  Retired U.S. Army Special Forces (Green Beret)  |  Fmr. CIA Paramilitary Officer  |  Resigned Mar 17, 2026",org:"Fmr. NCTC · Office of the DNI",tier:"Government",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Retired U.S. Army Special Forces — 20-year career, 11 combat deployments. Retired as a Lieutenant Colonel. Subsequently worked as a CIA paramilitary officer. Gold Star spouse: his wife Shannon Kent, a Navy cryptologist, was killed in a suicide bombing in Syria in January 2019. Twice ran unsuccessfully for Congress as a Trump-aligned Republican in Washington's 3rd district (2022, 2024). Controversial past associations: had to repeatedly disavow connections to Nazi sympathizer Greyson Arnold and Holocaust denier Nick Fuentes during his 2022 campaign. Has endorsed conspiracy theories including claiming COVID vaccines were 'experimental gene therapy' and that Anthony Fauci should face murder charges. Called January 6 rioters 'political prisoners.' Nominated to lead the National Counterterrorism Center February 2025, confirmed July 2025. Resigned March 17, 2026 — highest-ranking Trump administration official to resign over the Iran war.",
+      foreignTies:"No foreign ties documented. His NCTC role gave him direct access to the most sensitive U.S. counterterrorism intelligence. During his tenure as Gabbard's chief of staff, emails emerged showing Kent pressured senior intelligence analysts to amend their assessment of Venezuelan gang Tren de Aragua to align with Trump administration policy — a documented example of political interference in intelligence analysis. This pattern makes his public statement that 'Iran posed no imminent threat' highly significant: he is an insider with access to the actual intelligence who publicly contradicted the administration's stated justification for the war.",
+      pacActivity:"No PAC activity documented. Two failed congressional campaigns financed through small-dollar MAGA donor base. His political influence operated through proximity to Tulsi Gabbard and the NCTC director role — not through financial leverage.",
+      govLinks:"Director, National Counterterrorism Center — principal counterterrorism adviser to the president, overseeing U.S. government intelligence on terrorist threats and maintaining the database of all known and suspected terrorists. Reported to Tulsi Gabbard as DNI. Resigned March 17, 2026 via public letter on X — the highest-profile resignation from the Trump administration over the Iran war. Key quotes from resignation letter: 'I cannot in good conscience support the ongoing war in Iran. Iran posed no imminent threat to our nation, and it is clear that we started this war due to pressure from Israel and its powerful American lobby.' Trump responded: 'I always thought he was weak on security, very weak on security.' Senate Intel Vice Chair Mark Warner (D) said: 'On this point, he is right: there was no credible evidence of an imminent threat from Iran.' On the Tucker Carlson show March 18, 2026, Kent revealed that Charlie Kirk personally told him in summer 2025 to 'stop us from getting into a war with Iran' — adding another documented data point that Kirk himself opposed the conflict that his wife's organization has not spoken against since his death.",
+      flag:"🇺🇸",risk:"MEDIUM",connections:["Donald J. Trump","Tulsi Gabbard","Tucker Carlson","Erika Kirk"]
+    },
+
+    {
+      name:"Erika Kirk",role:"CEO & Chairwoman — Turning Point USA  |  Member — U.S. Air Force Academy Board of Visitors  |  Fmr. Miss Arizona USA 2012",org:"Turning Point USA · U.S. Air Force Academy Board of Visitors",tier:"Government",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born November 20, 1988, née Frantzve. Won Miss Arizona USA 2012, competed in Miss USA 2012. Founded Everyday Heroes Like You (nonprofit) and BIBLEin365 (ministry project). Hosts podcast Midweek Rise Up. Worked as a real estate agent at Corcoran Group in New York. CEO of Proclaim Streetwear (Proclaim365). Met Charlie Kirk in New York City in 2019, engaged December 2020, married May 8, 2021 in Scottsdale — TPUSA funded the wedding reception. Two children: daughter (2022), son (2024). Named CEO and Chairwoman of Turning Point USA by the board on September 18, 2025 — eight days after Charlie's assassination. The board stated Charlie had 'made known this is what he wanted in the event of his death.' No prior experience running a political organization of this scale.",
+      foreignTies:"No foreign ties documented. TPUSA under Erika's leadership has maintained pro-Israel institutional alignment and has not publicly adopted Charlie's documented anti-Iran-war position despite Charlie telling Joe Kent personally in summer 2025 to 'stop us from getting into a war with Iran.' The organization's silence on the war while Charlie's known position was anti-interventionist has drawn criticism from former TPUSA chapter leaders.",
+      pacActivity:"TPUSA is a 501(c)(4) organization — donor list not fully public. Under Charlie Kirk it grew into one of the largest conservative youth organizations in the U.S. with 2,000+ campus chapters. Major donors included conservative foundations and high-net-worth Republican donors. Erika inherited this funding infrastructure. TPUSA funded Kirk's wedding reception at the Fairmont Scottsdale Princess. Trump has been a consistent institutional backer — honoring Erika at his State of the Union address and appointing her to federal boards.",
+      govLinks:"Trump appointed Erika to the U.S. Air Force Academy Board of Visitors in March 2026 — quietly, with no public announcement. She has zero military experience. The board oversees morale, discipline, curriculum, and fiscal affairs at the Academy. Charlie Kirk had previously been appointed to the same board in March 2025 and was killed before serving. Trump honored Erika prominently at his State of the Union address. Under her leadership TPUSA is expanding into high schools nationwide. The University of Arkansas TPUSA chapter disaffiliated March 18, 2026, citing discomfort with how the organization has invoked Charlie's name and positions he can no longer speak to. Chapter president wrote: 'Charlie Kirk cannot speak for himself anymore, and we do not recognize the way others have attempted to speak for him.' Candace Owens has released a multi-part documentary series targeting Erika Kirk titled 'Bride of Charlie,' including a video titled 'Did Erika Kirk Know Jeffrey Epstein?' with 1.9M views — all unverified conspiracy content. Erika's response to Owens' conspiracy claims: 'Stop. That's it. That's all I have to say. Stop.'",
+      flag:"🇺🇸",risk:"MEDIUM",connections:["Donald J. Trump","Joe Kent","Tucker Carlson","Sean Hannity"]
+    },
+
+    {
+      name:"Leonid Radvinsky",role:"Fmr. Owner — OnlyFans (Fenix International Ltd.)  |  Alleged AIPAC Donor ($11M, denied)  |  d. March 23, 2026",org:"Fmr. OnlyFans · Fenix International",tier:"ForeignCap",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born 1982 in Odessa, Ukraine into a Jewish family. Emigrated to the United States as a child. Ran websites in early career advertising access to hacked passwords to adult content sites. Purchased a 75% majority stake in OnlyFans parent company Fenix International Ltd. in 2018. Grew the platform into a dominant adult content subscription service — OnlyFans reported $1.4 billion in revenue in 2024, with users spending $7.2 billion on the platform. Radvinsky paid himself $1.8 billion in dividends between 2021 and early 2025. Net worth $4.7 billion at time of death per Forbes. Died March 23, 2026 at age 43 following a prolonged battle with cancer — illness had not been publicly disclosed.",
+      foreignTies:"Ukrainian-born, naturalized U.S. citizen. Internal AIPAC documents obtained by The Lever (2024) showed an $11 million pledge listed under 'Mr. Anonymous Anonymous' and his wife Katie Chudnovsky — the largest single contribution in AIPAC's post-October 7 $90M fundraising haul. Personal contact information in the documents identified 'Mr. Anonymous Anonymous' as Radvinsky. The Lever documented a wire transfer from Chudnovsky to AIPAC. Radvinsky denied the donation: 'I didn't donate or pledge $11M... this applies to me / my foundation / my family.' When The Lever showed him documentation of the wire transfer, he stopped responding. If the pledge is accurate, it represents the largest single documented post-October 7 AIPAC contribution — exceeding every other donor on the internal list.",
+      pacActivity:"Denied $11M AIPAC pledge despite appearing on internal documents and wire transfer records obtained by The Lever and reported by Rolling Stone and The Forward (February 2024). No FEC-disclosed campaign contributions documented. The use of 'Mr. Anonymous Anonymous' as a listing identity in AIPAC's own internal documents is a documented example of deliberate donor concealment within AIPAC's fundraising infrastructure.",
+      govLinks:"No government role. His relevance is entirely through alleged AIPAC donation documented in leaked internal records. If accurate, the $11M pledge from a Ukrainian-born billionaire whose wealth derives from adult content subscriptions — funneled through his wife's name and listed under an anonymous alias in AIPAC's own internal documents — represents one of the most striking examples of the opacity of pro-Israel lobbying money documented in this conflict. Radvinsky died March 23, 2026 — the same day this entry was added to the dossier.",
+      flag:"🇺🇸🇺🇦",risk:"MEDIUM",connections:["Benjamin Netanyahu"]
+    },
+
+    {
+      name:"Jonathan Greenblatt",role:"CEO & National Director — Anti-Defamation League (ADL)  |  Fmr. Special Assistant to President Obama  |  Fmr. Director, White House Office of Social Innovation",org:"Anti-Defamation League · ADL Center on Extremism",tier:"Media",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born November 21, 1970 in Trumbull, Connecticut. Jewish. Tufts University BA 1992. Worked on Bill Clinton's 1992 presidential campaign. Served in Clinton White House and Commerce Department. Founded social enterprises Ethos Water and GOOD Worldwide. Appointed Special Assistant to President Obama and Director of the White House Office of Social Innovation 2011–2014. Named CEO of the Anti-Defamation League in 2014. Named Time 100 Most Influential 2025. His wife Marjan Keypour Greenblatt is an Iranian Jewish political refugee and founder of the Alliance for Rights of All Minorities (ARAM).",
+      foreignTies:"No foreign citizenship. His institutional role intersects with Israeli foreign policy: under his leadership ADL has backed Operation Epic Fury, framed criticism of Israeli influence on the war as antisemitic, and partnered closely with Israeli government communications priorities. ADL's Center on Extremism issued a report stating that suggesting Israel influenced Trump's decision to go to war was an 'antisemitic conspiracy theory.' The Intercept reported in 2025 that Greenblatt had 'shored up the ADL's role as little more than a fierce pro-Israel lobbying organization.' Wikipedia editors downgraded ADL to a 'generally unreliable' source on Israel-related topics citing Greenblatt's public statements.",
+      pacActivity:"The ADL is a 501(c)(3) — not a PAC. Its institutional influence operates through media presence, congressional testimony, university relationships, and the threat of being labeled antisemitic. Under Greenblatt the ADL shut down its No Place for Hate civil rights program, laid off 22 staff in June 2025 with cuts framed as retreat from civil rights work, and removed 'Protect Civil Rights' from its website in October 2025. ADL described the removal as 'deferred maintenance.' ADL board member Stephen Ludwig resigned, quoting Greenblatt's own book on authoritarianism back at him.",
+      govLinks:"Greenblatt called it 'unreasonable' on CNBC (March 18, 2026) to suggest Trump was manipulated by Israel into the Iran war. At ADL's Never Is Now conference March 17, 2026, he called out Senator Chris Van Hollen by name for criticizing AIPAC as 'un-American' and called Rep. Ro Khanna's use of the word 'neoconservatives' an antisemitic dog whistle. The pattern: any politician who questions Israeli influence on U.S. war policy is publicly accused of antisemitism by name from the ADL's national stage. Drop Site News reporter Ryan Grim: 'Has anyone been worse at his actual job than Jonathan Greenblatt? If he wants to be an advocate for Likud in DC, he should just do that.' Sixty Muslim, Arab, and allied organizations have called for Greenblatt's firing. New York Times columnist Bret Stephens — with Greenblatt in the audience — said he would 'dismantle' the ADL. The Brennan Center has called the Iran war 'flatly unconstitutional' — the ADL has thrown its full institutional weight behind it.",
+      flag:"🇺🇸",risk:"HIGH",connections:["Benjamin Netanyahu","Sean Hannity","Mark Levin","Donald J. Trump"]
+    },
+
+    {
+      name:"Markwayne Mullin",role:"Secretary of Homeland Security (2nd, confirmed Mar 24, 2026)  |  Fmr. U.S. Senator — Oklahoma  |  Fmr. U.S. Representative — Oklahoma's 2nd District (2013–2023)  |  Business Owner · Rancher · MMA Fighter",org:"U.S. Department of Homeland Security · DHS",tier:"Government",
+      citizenship:"US",
+      citizenshipDetail:"American citizen. Born July 26, 1977, Tulsa, Oklahoma. Youngest of seven children. Enrolled member of the Cherokee Nation — the first Tribal citizen to serve in the U.S. Senate in nearly two decades, and the second Cherokee Nation citizen ever to serve in the chamber. Raised in Westville, Oklahoma on a family ranch. Attended Stilwell High School, where he wrestled. Won a wrestling scholarship to Missouri Valley College in 1996. Married high school sweetheart Christie Renee Rowan in 1997; they have six children including three adopted. Left college in 1998 when his father fell ill to take over Mullin Plumbing, which had six employees at the time. Grew it into the largest service company in the region and founded multiple additional businesses including Mullin Environmental, Mullin Services, and Mullin Properties. Owned eight businesses by 2013. Sold all businesses to Dallas private equity firm CenterOak Partners in December 2021. Received an Associate in Applied Science from Oklahoma State University Institute of Technology in 2010 — completing his degree 12 years after leaving college. Professional MMA fighter 2006–2007, record 5-0. Inducted into National Wrestling Hall of Fame 2016. Elected to U.S. House 2012, served five terms. Elected to U.S. Senate November 2022 special election replacing Jim Inhofe. Confirmed as Secretary of Homeland Security March 24, 2026, by a vote of 54-45 — the only Republican to vote against him was Rand Paul.",
+      foreignTies:"No foreign citizenship documented. His Iran war relevance is as a primary administration spokesperson defending Operation Epic Fury on television — with notable documented inaccuracies. On Fox News March 2, 2026 he claimed war 'smells bad' and he knew what war smelled, tasted, and felt like — despite no military service on his public record. PolitiFact documented he is not a veteran. On a Clay Travis/Buck Sexton podcast the following day, Mullin clarified: 'I never wore the uniform or the flag.... I did special assignments outside of DOD.' He claimed these were classified missions dating to 2015–2016, described as 'Survival, Evasion, Resistance, and Escape training' — simultaneously called 'kind of fun' and 'absolutely awful.' Nancy Pelosi, who was Democratic Leader and Gang of Eight member at the relevant time, stated publicly: 'I have never heard of any intelligence circumstances like those described by Senator Mullin ever occurring for a House Member. The pieces don't fit together.' $245,000+ in pro-Israel contributions since beginning Senate career. AIPAC was his single largest donor in his 2022 election cycle at $89,000. Oil and gas industry is his career-long largest sector at $1.3M+ since 2011 — Devon Energy is his top individual corporate contributor.",
+      pacActivity:"Oil and gas industry: $1.3M+ total since 2011 — Devon Energy (Oklahoma independent energy company) is top contributor at $104,950. AIPAC: $89,000 in 2022 Senate election cycle — his single largest donor that cycle. Total pro-Israel contributions since Senate career began: $245,000+. PAC contributions made up 24.6% of his 2022 fundraising; large individual donations 46.7%; self-financing 18.4%. Boots PAC (his leadership PAC) raised $1.29M in the 2024 cycle and distributed $193,000 to Republican House and Senate candidates — 100% to Republicans. Active stock trading documented during Senate tenure including purchases of UnitedHealth Group — a company whose business is directly affected by legislation Mullin votes on.",
+      govLinks:"Secretary of Homeland Security — confirmed March 24, 2026 (54-45). Heads DHS with 250,000+ employees including ICE, CBP, TSA, FEMA, Secret Service, Coast Guard, and Cybersecurity and Infrastructure Security Agency (CISA). Replaces Kristi Noem, who was fired amid controversy over ICE agents fatally shooting two U.S. citizens (Renee Good and Alex Pretti) in Minneapolis in January 2026. Takes over DHS mid-government-shutdown — department has been partially shut down since February 14, 2026. Tom Homan (border czar) told Fox he speaks with Mullin 'several times a day.' Iran war context: served on Senate Armed Services Committee during conflict, was one of the administration's most visible TV spokespeople defending the war. Notable public statements: said Trump 'ended eight wars' when asked 'didn't he start this one?'; said 'this isn't a war' after calling it a war moments earlier; claimed he could smell and taste war without military service. Confirmation hearing highlights: Rand Paul called him 'a man with anger issues'; Paul played video of Mullin challenging Teamsters President Sean O'Brien to a physical fight in a 2023 Senate hearing ('Stand your butt up'); Paul said he understood why Paul's neighbor attacked him (fracturing 6 ribs and causing lung damage in 2017), calling Paul a 'freaking snake'; had 'no regrets' about the near-brawl with O'Brien. Sole Republican 'no' vote: Rand Paul. Two Democrats who voted for him: John Fetterman and Martin Heinrich — Heinrich cited wanting a DHS secretary 'who doesn't take their orders from Stephen Miller.'",
+      flag:"🇺🇸",risk:"HIGH",connections:["Donald J. Trump","Stephen Miller","Pete Hegseth","Marco Rubio","Tulsi Gabbard"]
     }
   ];
 
@@ -3810,7 +4603,8 @@
           <span class="dossier-tier-badge">${p.tier.toUpperCase()}</span>
         </div>
       </div>
-      <div class="dossier-info-grid">
+      <div style="margin:8px 0 12px;font-size:12px;color:var(--text);line-height:1.6;"><strong style="color:var(--fact);font-family:var(--font-mono);font-size:10px;letter-spacing:0.8px;text-transform:uppercase;display:block;margin-bottom:4px;">Why this person matters</strong>${(p.role || '').split('|')[0].trim()} sits in the network because of the way their office, access, or influence shapes this power structure.</div>
+ <div class="dossier-info-grid">
         <div class="dossier-info-box">
           <div class="dossier-info-label">Citizenship</div>
           <div class="dossier-info-value">${p.citizenship}</div>
@@ -4134,6 +4928,15 @@
   }
 
   document.getElementById('sourcedb-tab-btn').addEventListener('click', loadSourceDB);
+
+  // Day counter — days since Feb 28, 2026
+  (function() {
+    const warStart = new Date('2026-02-28T00:00:00Z');
+    const now = new Date();
+    const days = Math.floor((now - warStart) / (1000 * 60 * 60 * 24)) + 1;
+    const el = document.getElementById('day-counter');
+    if (el) el.textContent = days;
+  })();
 </script>
 
 </body>
