@@ -28,5 +28,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/war-metrics.json data/sources.json
-          git diff --cached --quiet || git commit -m "chore: hourly war metrics update"
+          if git diff --cached --quiet; then
+            echo "No metric changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: hourly war metrics update"
           git push
