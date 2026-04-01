@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01 21:32 UTC",
+  "updated": "2026-04-01 22:26 UTC",
   "total": 60,
   "stories": [
     {
@@ -198,6 +198,16 @@
       "description": "The price of a wide range of goods - from food, to smartphones, to medicines - could be affected by the US-Israel war with Iran.",
       "date": "Fri, 27 Mar 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump to deliver 'important update' on Iran war in televised speech",
+      "link": "https://www.france24.com/en/americas/20260401-trump-to-deliver-important-update-on-iran-war-in-televised-speech",
+      "description": "Donald Trump will give an “important update” on the Iran war in a prime-time televised address to the American nation on Wednesday evening, which is expected to reiterate the president's timeline for rolling back US military operations in the region.",
+      "date": "Wed, 01 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -483,110 +493,100 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iranian supreme leader’s advisor seriously injured in shelling — TV",
-      "link": "https://tass.com/world/2110547",
-      "description": "According to sources cited by the channel, the official is in critical condition",
+      "title": "Iran-Israel war LIVE: Trump claims Iran President has asked for a ceasefire; Tehran calls it 'false, baseless'",
+      "link": "https://www.thehindu.com/news/international/us-israel-iran-war-updates-live-april-1-2026/article70809746.ece",
+      "description": "Mr. Trump said, in a post on Truth Social, that the U.S. will consider the ceasefire once the Strait of Hormuz is \"open, free, and clear\" and the bombings will continue until then",
       "date": "Thu, 02 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says Iran president requests ceasfire, Tehran says 'false'",
+      "link": "https://www.thehindu.com/news/international/trump-says-iran-president-requests-ceasfire-tehran-says-false/article70812864.ece",
+      "description": "Pezeshkian had said Iran had the \"necessary will\" for a ceasefire, but only if its foes guaranteed that hostilities would not return",
+      "date": "Wed, 01 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli strike on Beirut kills senior Hezbollah commander",
+      "link": "https://www.thehindu.com/news/international/israeli-strike-on-beirut-kills-senior-hezbollah-commander/article70812850.ece",
+      "description": "Several large blasts were heard across the city on April 1, 2026, and a column of smoke was seen rising from Jnah, which is home to apartment buildings, cafes and shops",
+      "date": "Wed, 01 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "As American bombs fall on Iran, South American countries brace for impact",
+      "link": "https://www.thehindu.com/news/international/as-american-bombs-fall-on-iran-south-american-countries-brace-for-impact/article70811734.ece",
+      "description": "The kidnapping of Venezuelan President Nicolas Maduro still hangs over Latin America as countries fear getting sucked into Trump’s so-called war on narco-terrorism",
+      "date": "Wed, 01 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump is at a strategic dead end on Iran; the war will reshape Gulf’s security architecture: Johns Hopkins professor Vali Nasr",
+      "link": "https://www.thehindu.com/news/international/trump-is-at-a-strategic-dead-end-on-iran-the-war-will-reshape-gulfs-security-architecture-vali-nasr/article70811259.ece",
+      "description": "In an interview with The Hindu, Vali Nasr said Iran might be open for a deal on its nuclear programme but not on its missiles or its control over the Strait of Hormuz",
+      "date": "Wed, 01 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Watch: Trump says Iranian leader has ‘asked for ceasefire’",
+      "link": "https://www.thehindu.com/videos/watch-trump-says-iranian-leader-has-asked-for-ceasefire/article70812799.ece",
+      "description": "Iran’s new leader has asked the United States for a ceasefire, U.S. President Donald Trump said in a Truth Social post on Wednesday (April 1). Iran’s foreign ministry spokesperson ‌said Trump’s statement about a ‌ceasefire ⁠request was false and ⁠baseless.",
+      "date": "Wed, 01 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.K. can lead Strait’s opening, Starmer says, as transatlantic ties fray",
+      "link": "https://www.thehindu.com/news/international/uk-can-lead-straits-opening-starmer-says-as-transatlantic-ties-fray/article70811234.ece",
+      "description": "This is not our war and we will not be drawn into the conflict that is not in our national interest, Starmer said, reiterating U.K.’s position of staying out of the U.S.-Israel war on Iran",
+      "date": "Wed, 01 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says Iran war could end in ‘two weeks, maybe three’, to address the nation",
+      "link": "https://www.thehindu.com/news/international/trump-says-iran-war-could-end-in-two-weeks-maybe-three-to-address-us/article70810044.ece",
+      "description": "The White House announced meanwhile that Donald Trump would give an address to the nation at 9:00 pm EST Wednesday (6.30 a.m. IST Thursday) \"to provide an important update on Iran.\"",
+      "date": "Wed, 01 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
+      "link": "https://tass.com/world/1968185",
+      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Iran’s actions are measured response, not start of war or aggression — Pezeshkian",
-      "link": "https://tass.com/world/2110537",
-      "description": "The president says that in its modern history, Iran \"has never initiated a war\"",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump threatens to stop arms supplies to Ukraine — FT",
-      "link": "https://tass.com/world/2110521",
-      "description": "Sources told the newspaper that in response, several countries issued a joint statement on March 19, pledging to support efforts to ensure the safe passage of ships through the Strait of Hormuz",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Airport in central Iranian city of Kashan comes under attack — authorities",
-      "link": "https://tass.com/world/2110455",
-      "description": "The strikes targeted several cities across the Isfahan Province",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Security in Strait of Hormuz depends directly on stability in Iran, envoy says",
-      "link": "https://tass.com/world/2110439",
-      "description": "Ali Mojtaba Rouzbahani noted that a deep rift has emerged on the international level between \"the ruling circles of interventionist countries and the global public opinion\"",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US, Iran discuss ceasefire on condition of opening Hormuz Strait — media",
-      "link": "https://tass.com/world/2110419",
-      "description": "The sources noted that the prospects for a deal remain unclear",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Placing Strait of Hormuz under third party control won't work — Russian MFA",
-      "link": "https://tass.com/politics/2110359",
-      "description": "Russian Foreign Ministry Spokeswoman Maria Zakharova stressed that the move would violate international maritime law",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US aggression shows need for reassessing balance of power in region — Iranian ambassador",
-      "link": "https://tass.com/world/2110351",
-      "description": "Ali Mojtaba Roozbahani condemned the aggression as crossing moral and humanitarian boundaries",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Tehran would welcome Russian mediation in conflict with US — Iranian ambassador",
-      "link": "https://tass.com/world/2110347",
-      "description": "First, Kazem Jalali emphasized, the purpose of negotiations needs to be determined, and only then can a mediator be appointed",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to be 'out of Iran pretty quickly', Trump says",
-      "link": "https://tass.com/world/2110333",
-      "description": "Donald Trump claimed that the US and Israel had been able to stop the development of Iran’s nuclear program",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian Supreme Leader Mojtaba Khamenei in good health — MFA",
-      "link": "https://tass.com/world/2110313",
-      "description": "It’s not surprising amid military operations that it may be a while before he makes a public appearance, Esmaeil Baghaei said",
-      "date": "Wed, 01 Apr 2026",
+      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
+      "link": "https://tass.com/world/1968163",
+      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
