@@ -87,7 +87,7 @@ async function getBrentPatch() {
   };
 }
 
-async function getGasPatch(startIso) {
+async function getFredGasPatch(startIso) {
   const res = await fetch("https://fred.stlouisfed.org/graph/fredgraph.csv?id=GASREGW");
   if (!res.ok) throw new Error(`FRED ${res.status}`);
   const text = await res.text();
@@ -113,8 +113,52 @@ async function getGasPatch(startIso) {
     gasSeriesDate: last.date,
     gasBaselineDate: baseline.date,
     gasSource: "fred-gasregw",
+    gasSourceLabel: "FRED weekly national average",
+    gasMethod: "weekly_series",
     asOf: nowIso()
   };
+}
+
+async function getAaaGasPatch(existingEnergy = {}) {
+  const res = await fetch("https://gasprices.aaa.com/", {
+    headers: { "user-agent": "Mozilla/5.0 clearview-updater" }
+  });
+  if (!res.ok) throw new Error(`AAA gas ${res.status}`);
+  const html = await res.text();
+
+  const m = html.match(/Today['’]s AAA National Average\s*\$([0-9]+(?:\.[0-9]+)?)/i)
+    || html.match(/National Average\s*<\/p>[\s\S]{0,120}?\$([0-9]+(?:\.[0-9]+)?)/i)
+    || html.match(/<th>Regular<\/th>[\s\S]{0,120}?<td>\$([0-9]+(?:\.[0-9]+)?)<\/td>/i);
+  if (!m) throw new Error("No AAA national average found in page");
+
+  const price = Number(m[1]);
+  if (!Number.isFinite(price)) throw new Error("Invalid AAA gas price");
+
+  const baseline = Number(existingEnergy?.usGasBaselineUsd);
+  const baselineValue = Number.isFinite(baseline)
+    ? baseline
+    : Number(existingEnergy?.usGasNationalAvgUsd || price);
+
+  return {
+    usGasNationalAvgUsd: price,
+    usGasBaselineUsd: baselineValue,
+    usGasChangeSinceStartUsd: +(price - baselineValue).toFixed(2),
+    gasSeriesDate: new Date().toISOString().slice(0, 10),
+    gasBaselineDate: existingEnergy?.gasBaselineDate || null,
+    gasSource: "aaa-national-average",
+    gasSourceLabel: "AAA national average",
+    gasMethod: "daily_snapshot",
+    asOf: nowIso()
+  };
+}
+
+async function getGasPatch(startIso, existingEnergy = {}) {
+  try {
+    return await getAaaGasPatch(existingEnergy);
+  } catch (e) {
+    console.warn("AAA gas fetch failed:", e.message);
+    return await getFredGasPatch(startIso);
+  }
 }
 
 function wordToNum(w) {
@@ -247,7 +291,7 @@ async function main() {
   const lastGoodEnergy = existing.energy || {};
 
   try {
-    energy = { ...energy, ...(await getGasPatch(operation.start)) };
+    energy = { ...energy, ...(await getGasPatch(operation.start, existing.energy || {})) };
   } catch (e) {
     console.warn("gas fetch failed:", e.message);
     energy = { ...energy, ...lastGoodEnergy };
@@ -329,11 +373,18 @@ async function main() {
         priority: "primary"
       },
       {
+        id: "aaa-national-average",
+        label: "AAA National Average Gas Prices",
+        url: "https://gasprices.aaa.com/",
+        category: "gas_price",
+        priority: "primary"
+      },
+      {
         id: "fred-gasregw",
         label: "FRED GASREGW",
         url: "https://fred.stlouisfed.org/series/GASREGW",
-        category: "gas_price",
-        priority: "primary"
+        category: "gas_price_fallback",
+        priority: "secondary"
       },
       {
         id: "oilprice-brent",
