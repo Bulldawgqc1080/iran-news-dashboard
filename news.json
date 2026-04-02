@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-02 06:05 UTC",
+  "updated": "2026-04-02 07:58 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "U.S. lifts sanctions on Venezuela's acting President Delcy Rodríguez",
+      "link": "https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez",
+      "description": "The newly announced sanctions relief is the latest U.S. recognition of Rodríguez as a legitimate authority in Venezuela ever since the U.S. military captured her predecessor, Nicolás Maduro.",
+      "date": "Thu, 02 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Who is held accountable if a war crime is committed in Iran?",
       "link": "https://www.npr.org/2026/04/01/nx-s1-5766235/who-is-held-accountable-if-a-war-crime-is-committed-in-iran",
@@ -43,14 +53,54 @@
       "bias": "Low"
     },
     {
-      "title": "Israel strikes Lebanon as Trump is set to deliver a speech on the Iran war",
-      "link": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump",
-      "description": "As Israel expands its invasion of Lebanon, the White House says President Trump will provide \"an important update\" to the nation on the Iran war.",
+      "title": "Trump says Iran war objectives 'nearing completion' in address to nation",
+      "link": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump's first televised address of the conflict with Iran did little to quell uneasy markets.",
+      "date": "Thu, 02 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
+      "link": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
+      "description": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
+      "date": "Thu, 02 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel's perpetual war with Iran may be hard to win with military might alone",
+      "link": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss",
+      "description": "The war with Iran has not yet resolved any of Israel's regional conflicts in the way its prime minister suggested it would.",
       "date": "Wed, 01 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+      "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+      "description": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
+      "date": "Wed, 01 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "China is trying to play peacemaker in the Iran war - will it work?",
+      "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+      "description": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+      "date": "Wed, 01 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
@@ -93,30 +143,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How the US could try to seize Iran's Kharg Island",
-      "link": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
-      "date": "Mon, 30 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
       "link": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli PM says Cardinal Pierbattista Pizzaballa had been asked not to enter the church over concerns about Iranian strikes.",
       "date": "Mon, 30 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Potential Houthi threat to Red Sea shipping could further damage global economy",
-      "link": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed group could bring a second crucial waterway to a standstill, writes Sebastian Usher.",
-      "date": "Sat, 28 Mar 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -143,16 +173,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-      "link": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "description": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
-      "date": "Fri, 27 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
       "link": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
       "description": "Seizing the stockpile would be one of the \"most complicated special operations in history\", a former defence official tells the BBC.",
@@ -163,49 +183,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Gaza peace doubts deepen as attention shifts to Iran",
-      "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-      "description": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
-      "date": "Sat, 28 Mar 2026",
+      "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
+      "link": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
+      "description": "Pakistan's role as intermediary in this conflict took many by surprise. But perhaps it shouldn't have.",
+      "date": "Tue, 31 Mar 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
-      "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
-      "description": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
-      "date": "Fri, 27 Mar 2026",
+      "title": "How the US could try to seize Iran's Kharg Island",
+      "link": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
+      "description": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
+      "date": "Mon, 30 Mar 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
-      "link": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
-      "description": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
-      "date": "Fri, 27 Mar 2026",
-      "source": "BBC",
+      "title": "Three minors among four charged over foiled attack at Bank of America Paris branch",
+      "link": "https://www.france24.com/en/france/20260402-three-minors-among-four-charged-over-foiled-attack-bank-of-america-paris-branch",
+      "description": "French authorities have charged four people, including three minors, over an apparent bid to ignite a homemade explosive device outside the Paris headquarters of Bank of America. Anti-terror prosecutors said the incident could be linked to a little-known Islamist group with possi...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "How the Hormuz closure could affect food, medicines and smartphones",
-      "link": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
-      "description": "The price of a wide range of goods - from food, to smartphones, to medicines - could be affected by the US-Israel war with Iran.",
-      "date": "Fri, 27 Mar 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East live: Israeli air defences intercept multiple Iranian missile waves",
+      "title": "Middle East live: Iran vows 'crushing' attacks after Trump dims hopes of swift end to war",
       "link": "https://www.france24.com/en/middle-east/20260402-middle-east-live-israeli-air-defences-intercept-multiple-iranian-missile-waves",
-      "description": "Israeli air defences intercepted three waves of Iranian missile fire early Thursday, with several people lightly wounded in the Tel Aviv area. The attacks, coming hours after a US presidential address, triggered widespread sirens and raised fears of further escalation in the inte...",
+      "description": "Iran's military on Thursday threatened \"more destructive\" attacks on the US and Israel, firing missiles at Tel Aviv after US President Donald Trump vowed to bomb the Islamic republic \"back to the Stone Ages\" in a televised address that dimmed hopes of a swift end to the war in th...",
       "date": "Thu, 02 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -263,9 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "When the oil runs dry: What next for globalization as Asia bears brunt of Iran war?",
+      "title": "When the oil runs dry: What next for globalisation as Asia bears brunt of Iran war?",
       "link": "https://www.france24.com/en/tv-shows/the-debate/20260401-when-the-oil-runs-dry-what-next-for-globalization-as-asia-bears-brunt-of-iran-war",
-      "description": "Are we staring at globalization's biggest turning point since the end of the Cold War? With Asia feeling the pain of Donald Trump's war against Iran, with steadfast US allies like the Philippines forced to declare an energy emergency, there's the immediate chain reaction for the ...",
+      "description": "Are we staring at globalisation's biggest turning point since the end of the Cold War? With Asia feeling the pain of US President Donald Trump's war against Iran and steadfast US allies like the Philippines forced to declare an energy emergency, there's the immediate chain reacti...",
       "date": "Wed, 01 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -283,14 +293,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Bedouins in Israel’s Negev desert face bomb shelter shortage",
-      "link": "https://www.france24.com/en/tv-shows/the-observers/20260401-bedouins-israel-negev-desert-shortage-bomb-shelters",
-      "description": "As Iranian and Hezbollah air strikes on Israel continue, tens of thousands of Bedouins living in the country’s southern Negev desert have no access to shelters. While some NGOs are attempting to install mobile shelters, they are primarily calling on the government to take action,...",
-      "date": "Wed, 01 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Mourners vow resistance as Iran marks Islamic Republic’s 47th anniversary",
+      "link": "https://www.aljazeera.com/gallery/2026/4/2/mourners-vow-resistance-as-iran-marks-islamic-republics-47th-anniversary?traffic_source=rss",
+      "description": "Thousands gathered in Tehran to honour a commander, vowing resistance amid heightened tension with US and Israel.",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump’s primetime speech on Iran war: Key takeaways",
@@ -413,8 +423,8 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Democrats demand ceasefire as Trump defends costly war on Iran",
-      "link": "https://www.dawn.com/news/1987773/democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran",
+      "title": "‘Vile, horrifying, evil’: Democrats demand ceasefire as Trump defends costly war on Iran",
+      "link": "https://www.dawn.com/news/1987773/vile-horrifying-evil-democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran",
       "description": "WASHINGTON: Democrats sharply criticised United States President Donald Trump following his national address on the ongoing war in Iran, framing the conflict as deadly, costly, and lacking clear objectives. In a 19-minute prime-time address from the White House, Trump described t...",
       "date": "Thu, 02 Apr 2026",
       "source": "Dawn",
@@ -433,8 +443,8 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says conflict nearing end, threatens wider attacks on Iran",
-      "link": "https://www.dawn.com/news/1987698/trump-says-conflict-nearing-end-threatens-wider-attacks-on-iran",
+      "title": "‘Back to Stone Age’: Trump says conflict nearing end, threatens wider attacks on Iran",
+      "link": "https://www.dawn.com/news/1987698/back-to-stone-age-trump-says-conflict-nearing-end-threatens-wider-attacks-on-iran",
       "description": "WASHINGTON: President Donald Trump signalled that the ongoing US-Israeli military campaign against Iran could conclude within weeks, even as he warned of intensified strikes and issued sweeping claims about the scale of damage inflicted on Tehran. In a 19-minute prime-time addres...",
       "date": "Thu, 02 Apr 2026",
       "source": "Dawn",
@@ -443,150 +453,140 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Dmitriev calls on UK, EU officials to acknowledge their mistakes, switch to Russian oil",
-      "link": "https://tass.com/politics/2110629",
-      "description": "The head of the Russian Direct Investment Fund commented on an address to the nation by US President Donald Trump, containing a remark that Washington does not need the Strait of Hormuz",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Strait of Hormuz will open after conclusion of conflict with Iran",
-      "link": "https://tass.com/world/2110611",
-      "description": "The US president says that after the opening of the strait \"gas prices will rapidly come back down\"",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "If Iran rejects deal with US, its oil infrastructure will be destroyed — Trump",
-      "link": "https://tass.com/world/2110609",
-      "description": "According to the president, the US is trying to reach an agreement with Iran’s new leadership",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Other countries must address shipping issue in Strait of Hormuz — Trump",
-      "link": "https://tass.com/world/2110607",
-      "description": "The president emphasized that the US did not rely on shipments through the strait",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to step up strikes against Iran in next two to three weeks — Trump",
-      "link": "https://tass.com/world/2110605",
-      "description": "The US leader reiterated that \"all of America's military objectives\" in the operation would be reached soon",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US close to achieving its key objectives in operation against Iran — Trump",
-      "link": "https://tass.com/world/2110603",
-      "description": "The president says that the US armed forces \"have been extraordinary\"",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US, Iran continue contacts — Trump",
-      "link": "https://tass.com/world/2110601",
-      "description": "The president emphasized that Iran was no longer a threat to the US",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US destroyed Iran's Navy, Air Force — Trump",
-      "link": "https://tass.com/world/2110599",
-      "description": "The US president says Tehran’s missile capabilities will soon be cut to a minimum",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US has four options regarding Iran, all fraught with risks — magazine",
-      "link": "https://tass.com/world/2110573",
-      "description": "The analysts cited by The Atlantic say that Tehran sees its position as relatively strong thanks to its control over the Strait of Hormuz",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Military presents Trump with plan to seize Iran’s enriched uranium stockpiles — newspaper",
-      "link": "https://tass.com/world/2110565",
-      "description": "According to sources cited by the newspaper, the plan could require the airlift of \"hundreds or thousands of troops and heavy equipment\"",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian diplomat slams Washington's demands on Tehran as ‘irrational’",
-      "link": "https://tass.com/world/2110555",
-      "description": "Foreign Ministry Spokesman Esmaeil Baghaei says that the republic does not participate in direct negotiations with the US",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian supreme leader’s advisor seriously injured in shelling — TV",
-      "link": "https://tass.com/world/2110547",
-      "description": "According to sources cited by the channel, the official is in critical condition",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran’s actions are measured response, not start of war or aggression — Pezeshkian",
-      "link": "https://tass.com/world/2110537",
-      "description": "The president says that in its modern history, Iran \"has never initiated a war\"",
+      "title": "Occupied West Bank on strike against Israeli death penalty law",
+      "link": "https://www.dawn.com/news/1987529/occupied-west-bank-on-strike-against-israeli-death-penalty-law",
+      "description": "Palestinian shops and public institutions were closed across the occupied West Bank on Wednesday in protest of an Israeli law passed earlier this week permitting the execution of Palestinians convicted of deadly terror attacks. In the Palestinian territory’s main cities of Hebron...",
       "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump to address nation at 9pm EST, outline Iran war endgame as Washington debates next phase",
+      "link": "https://www.dawn.com/news/1987457/trump-to-address-nation-at-9pm-est-outline-iran-war-endgame-as-washington-debates-next-phase",
+      "description": "WASHINGTON: US President Donald Trump is set to address his nation at 9pm EST on Wednesday (6:00am on Thursday in Pakistan) to provide what the White House has described as “an important update on Iran,” fuelling speculation that he may declare an end to the five-week conflict — ...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Spanish police open probe into anti-Muslim chants at friendly match with Egypt",
+      "link": "https://www.dawn.com/news/1987504/spanish-police-open-probe-into-anti-muslim-chants-at-friendly-match-with-egypt",
+      "description": "Police in Spain said on Wednesday that they were investigating “Islamophobic and xenophobic” chants heard during the Spain-Egypt international football match in Barcelona. Egypt’s national anthem was jeered ahead of the 0-0 draw in Barcelona on Tuesday in a pre-World Cup friendly...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "China’s FM Wang Yi appreciates Pakistan’s active diplomatic efforts in promoting Middle East peace: FO",
+      "link": "https://www.dawn.com/news/1987454/chinas-fm-wang-yi-appreciates-pakistans-active-diplomatic-efforts-in-promoting-middle-east-peace-fo",
+      "description": "China’s Foreign Minister Wang Yi has conveyed Beijing’s appreciation for Pakistan’s “active diplomatic role” and efforts towards ending the Middle East conflict, the Foreign Office (FO) said on Wednesday. Wang made the remarks during his meeting with Deputy Prime Minister and For...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Buy jet fuel from US or get your own, Trump rails against allies",
+      "link": "https://www.dawn.com/news/1987353/buy-jet-fuel-from-us-or-get-your-own-trump-rails-against-allies",
+      "description": "• Hegseth claims next few days to be ‘decisive’, says conflict to intensify if deal not made• Pezeshkian says Iran wants to end war but not without guarantees; Araghchi confirms messages exchanged with US, denies talks• Iranian missiles injure nine in Tel Aviv; US companies in re...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Read the full text of Iranian President Masoud Pezeshkian’s letter to the American public",
+      "link": "https://www.dawn.com/news/1987606/read-the-full-text-of-iranian-president-masoud-pezeshkians-letter-to-the-american-public",
+      "description": "Iran President Masoud Pezeshkian has released an open letter, addressing the American people, calling on them to question the motives of the ongoing US-Israeli war on Iran. Below is the full text of his letter. “In the name of God, the Compassionate, the Merciful “To the people o...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Arab states lost $186bn in first month of war, UN official says",
+      "link": "https://www.dawn.com/news/1987322/arab-states-lost-186bn-in-first-month-of-war-un-official-says",
+      "description": "AMMAN/SINGAPORE: The war sparked by the joint US-Israeli attack on Iran and which has spread across the Middle East has cost Arab countries $186 billion, a top UN official said on Tuesday, as he called for an immediate halt to the fighting. “We hope the fighting will stop tomorro...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pentagon denies Hegseth’s broker wanted to invest in arms before war",
+      "link": "https://www.dawn.com/news/1987334/pentagon-denies-hegseths-broker-wanted-to-invest-in-arms-before-war",
+      "description": "WASHINGTON: The United States Department of Defence has called for the withdrawal of a newspaper report alleging that a broker linked to Defence Secretary Pete Hegseth sought to make a significant investment in weapons companies ahead of the war with Iran, Al Jazeera reported. Pe...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "King Charles to pay state visit to US as UK seeks to mollify Trump",
+      "link": "https://www.dawn.com/news/1987209/king-charles-to-pay-state-visit-to-us-as-uk-seeks-to-mollify-trump",
+      "description": "King Charles will make a state visit to the United States in late April, Buckingham Palace said on Tuesday, a high-profile trip that the British government hopes will help to repair relations with President Donald Trump, damaged by the war on Iran. Charles and his wife Queen Cami...",
+      "date": "Tue, 31 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan, China issue 5-point initiative for restoring peace in Middle East",
+      "link": "https://www.dawn.com/news/1987106/pakistan-china-issue-5-point-initiative-for-restoring-peace-in-middle-east",
+      "description": "Pakistan and China on Tuesday issued a five-point initiative for restoring peace and stability in the Gulf and the Middle East amid the US-Israeli war on Iran, in which they called on the immediate cessation of hostilities and starting peace talks as soon as possible. The develop...",
+      "date": "Tue, 31 Mar 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: Israel reports Iranian missile attacks after Trump’s speech",
+      "link": "https://www.thehindu.com/news/international/donald-trump-addresses-nation-on-iran-israel-war-live-updates-world-news/article70813995.ece",
+      "description": "Iran’s military vows ‘crushing’ attacks against U.S. and Israel after the U.S. President’s threats",
+      "date": "Thu, 02 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "What Trump’s speech says about his war on Iran | Analysis",
+      "link": "https://www.thehindu.com/news/international/trump-iran-speech-analysis-war-israel-us-conflict-west-asia-strait-of-hormuz/article70814587.ece",
+      "description": "The speech was largely a reassertion of the claims he has been making over the past few weeks and also underscores his limited options in the ongoing war with Iran",
+      "date": "Thu, 02 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
+      "link": "https://tass.com/world/1968185",
+      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Trump threatens to stop arms supplies to Ukraine — FT",
-      "link": "https://tass.com/world/2110521",
-      "description": "Sources told the newspaper that in response, several countries issued a joint statement on March 19, pledging to support efforts to ensure the safe passage of ships through the Strait of Hormuz",
-      "date": "Wed, 01 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Airport in central Iranian city of Kashan comes under attack — authorities",
-      "link": "https://tass.com/world/2110455",
-      "description": "The strikes targeted several cities across the Isfahan Province",
-      "date": "Wed, 01 Apr 2026",
+      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
+      "link": "https://tass.com/world/1968163",
+      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
