@@ -1,17 +1,18 @@
 {
-  "updated": "2026-04-02 04:19 UTC",
+  "updated": "2026-04-02 06:05 UTC",
   "total": 8,
   "events": [
     {
       "date": "2026-04-02",
       "dateDisplay": "Apr 02, 2026",
-      "title": "Middle East live: Israeli air defences intercept multiple Iranian missile waves",
-      "link": "https://www.france24.com/en/middle-east/20260402-middle-east-live-israeli-air-defences-intercept-multiple-iranian-missile-waves",
+      "title": "Trump pledges to 'finish the job' in Iran in national address but offers no exit plan",
+      "link": "https://www.france24.com/en/americas/20260402-trump-addresses-nation-on-iran-war",
       "sources": [
-        "France 24"
+        "France 24",
+        "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-04-01",
@@ -19,8 +20,8 @@
       "title": "Israel strikes Lebanon as Trump is set to deliver a speech on the Iran war",
       "link": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump",
       "sources": [
-        "France 24",
-        "NPR News"
+        "NPR News",
+        "France 24"
       ],
       "sourceCount": 2,
       "type": "govt"
