@@ -1,41 +1,11 @@
 {
-  "updated": "2026-04-02 08:55 UTC",
+  "updated": "2026-04-02 09:50 UTC",
   "total": 60,
   "stories": [
     {
-      "title": "Israel invades southern Lebanon to go after Iran-allied Hezbollah militants",
-      "link": "https://www.npr.org/2026/04/02/nx-s1-5770161/israel-invades-southern-lebanon-to-go-after-iran-allied-hezbollah-militants",
-      "description": "Israel has invaded Lebanon in pursuit of Iran-backed Hezbollah fighters in southern Lebanon. Israel has said it will push up to the Litani River.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Pakistan is playing mediator in the Iran war. It's a role the country is used to",
+      "title": "Pakistan is playing intermediary in the Iran war, a role it has played before",
       "link": "https://www.npr.org/2026/04/02/nx-s1-5767066/pakistan-is-playing-mediator-in-the-iran-war-its-a-role-the-country-is-used-to",
       "description": "Pakistan has emerged as a key mediator in the U.S-Israel war with Iran. This role isn't new for Pakistan.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Iranian officials react to President Trump's speech on Iran war",
-      "link": "https://www.npr.org/2026/04/02/nx-s1-5770563/iranian-officials-react-to-president-trumps-speech-on-iran-war",
-      "description": "During his prime-time address, President Trump again threatened Iran's power plants if a deal isn't reached soon. How officials in Iran are reacting to Trump's threats.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Troops and their families evacuated to the US after attacks on Middle East bases",
-      "link": "https://www.npr.org/2026/04/02/nx-s1-5768139/troops-and-their-families-evacuated-to-the-us-after-attacks-on-middle-east-bases",
-      "description": "Troops and their families have been pushed back to the United States after their bases in the Middle East were threatened by Iranian counterattacks. Community groups are scrambling to react.",
       "date": "Thu, 02 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -73,9 +43,19 @@
       "bias": "Low"
     },
     {
+      "title": "Trump makes his case for war with Iran, saying the conflict is 'nearing completion'",
+      "link": "https://www.npr.org/2026/04/01/nx-s1-5770093/trump-address-iran-war",
+      "description": "Trump used a prime-time address to outline his objectives for the war and discuss the military's progress to date. He also repeated an earlier claim that fighting could end in two to three weeks.",
+      "date": "Wed, 01 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
       "title": "Trump says Iran war objectives 'nearing completion' in address to nation",
       "link": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump's first televised address of the conflict with Iran did little to quell uneasy markets.",
+      "description": "The US president's first televised address of the conflict with Iran did little to quell uneasy markets.",
       "date": "Thu, 02 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -223,6 +203,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran vows 'more destructive' attacks after Trump threats",
+      "link": "https://www.france24.com/en/video/20260402-iran-vows-more-destructive-attacks-after-trump-threats",
+      "description": "Iran on Thursday threatened \"crushing\" attacks on the US and Israel, firing missiles at Tel Aviv after US President Donald Trump vowed to bomb the Islamic republic \"back to the Stone Ages\". The war, which erupted more than a month ago with US-Israeli strikes on Iran, has spread t...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran sets up 'tollbooth' in Strait of Hormuz for ships seeking safe passage",
+      "link": "https://www.france24.com/en/tv-shows/business/20260402-iran-sets-up-tollbooth-in-strait-of-hormuz-for-ships-seeking-safe-passage",
+      "description": "Oil prices rose and stocks fell on Wednesday following US President Donald Trump’s speech in which he warned he would hit Iran “extremely hard” over the next two to three weeks. Meanwhile, Iran has reportedly begun collecting tolls from ships seeking safe passage through the Horm...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Dumbest alliance break-up in history’: Trump threatens to leave NATO",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260402-dumbest-alliance-break-up-in-history-trump-threatens-to-leave-nato",
+      "description": "PRESS REVIEW – Thursday, April 2: Donald Trump hails what he calls the successes of the war in Iran in a televised address. Earlier, he once again threatened to pull the United States out of NATO – a move the Wall Street Journal has described as the “dumbest” in history. Also, Gi...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Three minors among four charged over foiled attack at Bank of America Paris branch",
       "link": "https://www.france24.com/en/france/20260402-three-minors-among-four-charged-over-foiled-attack-bank-of-america-paris-branch",
       "description": "French authorities have charged four people, including three minors, over an apparent bid to ignite a homemade explosive device outside the Paris headquarters of Bank of America. Anti-terror prosecutors said the incident could be linked to a little-known Islamist group with possi...",
@@ -235,7 +245,7 @@
     {
       "title": "Middle East live: Iran vows 'crushing' attacks after Trump dims hopes of swift end to war",
       "link": "https://www.france24.com/en/middle-east/20260402-middle-east-live-israeli-air-defences-intercept-multiple-iranian-missile-waves",
-      "description": "Iran's military on Thursday threatened \"more destructive\" attacks on the US and Israel, firing missiles at Tel Aviv after US President Donald Trump vowed to bomb the Islamic republic \"back to the Stone Ages\" in a televised address that dimmed hopes of a swift end to the war in th...",
+      "description": "Iran's military on Thursday threatened \"more destructive\" attacks on the US and Israel, firing missiles at Tel Aviv after US President Donald Trump vowed to bomb the Islamic republic \"back to the Stone Ages\". Trump's remarks in a televised address Wednesday dimmed hopes of a swif...",
       "date": "Thu, 02 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -393,40 +403,10 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
+      "title": "Live: Trump threatens to hit Iran hard; Tehran pledges to ‘fight back’",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
-      "description": "Iran denies seeking a truce and keeps up counterattacks, as US-Israeli raids cause deaths and damage across the country.",
+      "description": "Trump says the US is close to completing its core objectives, but Tehran says it won&#039;t tolerate &#039;vicious cycle of war&#039;.",
       "date": "Thu, 02 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
-      "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
-      "description": "US has exerted growing influence over the Venezuelan government after abducting former President Nicolas Maduro.",
-      "date": "Wed, 01 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
-      "description": "Astronauts have boarded NASA’s Orion capsule as they prepare for the first crewed lunar mission in more than 50 years.",
-      "date": "Wed, 01 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Smoke and embers seen over Iran’s Isfahan after strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss",
-      "description": "Video captured a massive column of smoke and burning embers towering over Isfahan, Iran following a US-Israeli strike.",
-      "date": "Wed, 01 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -441,6 +421,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Nasa launches 4 astronauts on world’s first crewed lunar mission in half a century",
+      "link": "https://www.dawn.com/news/1987778/nasa-launches-4-astronauts-on-worlds-first-crewed-lunar-mission-in-half-a-century",
+      "description": "Four astronauts blasted off from Florida on Wednesday on Nasa’s Artemis II mission, a high-stakes voyage around the moon that marks the United States’ boldest step yet toward returning humans to the lunar surface later this decade in a race with China. Nasa’s Space Launch System ...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Vile, horrifying, evil’: Democrats demand ceasefire as Trump defends costly war on Iran",
+      "link": "https://www.dawn.com/news/1987773/vile-horrifying-evil-democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran",
+      "description": "WASHINGTON: Democrats sharply criticised United States President Donald Trump following his national address on the ongoing war in Iran, framing the conflict as deadly, costly, and lacking clear objectives. In a 19-minute prime-time address from the White House, Trump described t...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran refuses cycle of talks with US followed by conflict — Foreign Ministry",
+      "link": "https://tass.com/world/2110737",
+      "description": "\"This is a catastrophe not only for Iran but for the entire region and beyond,\" Esmaeil Baghaei pointed out",
+      "date": "Thu, 02 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran warns no survivors among invaders in case of ground operation",
+      "link": "https://tass.com/world/2110715",
+      "description": "Earlier, US President Donald Trump said he did not rule out that US armed forces could attempt to seize Iran’s Kharg Island",
+      "date": "Thu, 02 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Israeli army reports hitting IRGC ground forces base near Tehran",
@@ -566,26 +586,6 @@
       "title": "US, Iran continue contacts — Trump",
       "link": "https://tass.com/world/2110601",
       "description": "The president emphasized that Iran was no longer a threat to the US",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US destroyed Iran's Navy, Air Force — Trump",
-      "link": "https://tass.com/world/2110599",
-      "description": "The US president says Tehran’s missile capabilities will soon be cut to a minimum",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US has four options regarding Iran, all fraught with risks — magazine",
-      "link": "https://tass.com/world/2110573",
-      "description": "The analysts cited by The Atlantic say that Tehran sees its position as relatively strong thanks to its control over the Strait of Hormuz",
       "date": "Thu, 02 Apr 2026",
       "source": "TASS",
       "region": "ru",
