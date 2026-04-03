@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03 11:30 UTC",
+  "updated": "2026-04-03 12:37 UTC",
   "total": 60,
   "stories": [
     {
@@ -56,16 +56,6 @@
       "title": "Hegseth ousts the Army chief of staff as the Iran war rages through Week 5",
       "link": "https://www.npr.org/2026/04/02/nx-s1-5771160/iran-war-trump-speech",
       "description": "U.S. Defense Secretary Pete Hegseth asked Army Chief of Staff Randy George to step down and retire, a U.S. official confirmed to NPR.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Pakistan is playing intermediary in the Iran war, a role it has played before",
-      "link": "https://www.npr.org/2026/04/02/nx-s1-5767066/pakistan-is-playing-mediator-in-the-iran-war-its-a-role-the-country-is-used-to",
-      "description": "Pakistan has emerged as a key intermediary in the U.S-Israel war with Iran. It played this role before, during a high-stakes moment in diplomatic history.",
       "date": "Thu, 02 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -223,6 +213,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran Guards recruit children to ‘defend the homeland’, placing them in line of fire",
+      "link": "https://www.france24.com/en/middle-east/20260403-iran-guards-recruit-children-defend-homeland-irgc-basij",
+      "description": "Iran's Revolutionary Guards Corps has launched a campaign aimed at recruiting children as young as 12 for the “defence of the homeland”. More than a month into the war triggered by the US and Israel, rights groups highlight the life-threatening risks for Iranian children and stre...",
+      "date": "Fri, 03 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US-Israeli strikes destroy Iranian highway bridge",
       "link": "https://www.france24.com/en/video/20260403-us-israeli-strikes-destroy-iranian-highway-bridge",
       "description": "It is the tallest bridge in the Middle East, according to Iranian media. The B1 bridge only 35km of Tehran was destroyed in two US-Israeli strikes on April 2. Trump threatened energy plants could be next if Iran didn't agree to a deal to end the conflict.",
@@ -253,7 +253,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Istaeli army says will strike two bridges in east Lebanon",
+      "title": "Middle East war live: Israeli army says will strike two bridges in east Lebanon",
       "link": "https://www.france24.com/en/middle-east/20260403-middle-east-live-un-security-council-to-vote-on-force-to-protect-hormuz-access",
       "description": "The Israeli army on Friday said it would strike two bridges in east Lebanon. In Iran, Foreign Minister Abbas Araghchi warned against any \"provocative action\" ahead of an expected UN Security Council vote on the use of force to reopen the Strait of Hormuz. Follow our liveblog for ...",
       "date": "Fri, 03 Apr 2026",
@@ -275,7 +275,7 @@
     {
       "title": "Iran condemns US-Israeli ‘moral collapse’ after attacks on civilian sites",
       "link": "https://www.aljazeera.com/news/2026/4/3/iran-condemns-us-israeli-moral-collapse-after-attacks-on-civilian-sites?traffic_source=rss",
-      "description": "Strikes damage or destroy Iran’s tallest bridge and a century-old medical research centre fighting diseases.",
+      "description": "Strikes damage or destroy one of Iran’s tallest bridges and a century-old medical research centre fighting diseases.",
       "date": "Fri, 03 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -295,7 +295,7 @@
     {
       "title": "Iran war: What is happening on day 35 of US-Israeli attacks?",
       "link": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
-      "description": "The US and Israel have hit a century-old medical research centre and a bridge near Tehran.",
+      "description": "US and Israel hit century-old medical research centre and a bridge near Tehran.",
       "date": "Fri, 03 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -313,7 +313,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Water plant hit in Kuwait as Tehran attacks the Gulf, Israel",
+      "title": "Iran war live: Water plant hit in Kuwait; Tehran attacks the Gulf, Israel",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
       "description": "Water plant hit in Kuwait as Iran warns to expand attacks if Trump follows through on threats to escalate strikes.",
       "date": "Fri, 03 Apr 2026",
@@ -453,24 +453,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "‘Vile, horrifying, evil’: Democrats demand ceasefire as Trump defends costly war on Iran",
-      "link": "https://www.dawn.com/news/1987773/vile-horrifying-evil-democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran",
-      "description": "WASHINGTON: Democrats sharply criticised United States President Donald Trump following his national address on the ongoing war in Iran, framing the conflict as deadly, costly, and lacking clear objectives. In a 19-minute prime-time address from the White House, Trump described t...",
-      "date": "Thu, 02 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iran strikes US landing craft in Kuwait, radar station in Bahrain — army",
+      "link": "https://tass.com/world/2111483",
+      "description": "According to the military, in a subsequent phase of the attack, the Iranian Armed Forces struck the Israeli Ramat David Air Base, home to squadrons of Israeli F-16 fighter jets",
+      "date": "Fri, 03 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Indonesia calls for probe into UN peacekeepers’ killing",
-      "link": "https://www.dawn.com/news/1987672/indonesia-calls-for-probe-into-un-peacekeepers-killing",
-      "description": "YOGYAKARTA/BEIRUT: Indo­n­esia has called on the United Nations to investigate the deaths of three of its peacekeepers following Israeli strikes in southern Lebanon, a foreign ministry official said on Wednesday as relatives at home mourned their deaths. The ministry’s UN represe...",
-      "date": "Thu, 02 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "It will be difficult for US to destroy Iran's remaining missile stockpiles — Politico",
+      "link": "https://tass.com/world/2111479",
+      "description": "According to the source, the effectiveness of US strikes is gradually declining, creating a politically delicate situation for President Donald Trump",
+      "date": "Fri, 03 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "French company’s container ship passes through Hormuz first time since February",
+      "link": "https://tass.com/economy/2111441",
+      "description": "Kribi container ship flying the Maltese flag started to move towards the Iranian coast along the strait on Thursday afternoon",
+      "date": "Fri, 03 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran threatens to throw US military back to period before Stone Age — TV",
@@ -576,16 +586,6 @@
       "title": "Doomsday Clock chief slams US-Israeli operation against Iran as 'absolutely idiotic'",
       "link": "https://tass.com/world/2111301",
       "description": "John Mecklin believes that the US and Israel are unlikely to achieve the goal of destroying Iran’s nuclear capabilities",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Doomsday Clock chief points to risk of nuclear weapons use in Iran conflict",
-      "link": "https://tass.com/world/2111269",
-      "description": "According to John Mecklin, editor-in-chief of the Bulletin of the Atomic Scientists, there is currently a \"low probability\" that the US or Israel could use nuclear weapons on Iran",
       "date": "Fri, 03 Apr 2026",
       "source": "TASS",
       "region": "ru",
