@@ -1,7 +1,27 @@
 {
-  "updated": "2026-04-03 08:42 UTC",
+  "updated": "2026-04-03 09:43 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Evacuation of U.S. troops from Mideast base sends community groups scrambling to help",
+      "link": "https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops",
+      "description": "Troops and their families have been pushed back to the United States after their bases in the Middle East were threatened by Iranian counterattacks. Community groups are scrambling to react.",
+      "date": "Fri, 03 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Strait of Hormuz closure deflates global helium supply",
+      "link": "https://www.npr.org/2026/04/03/nx-s1-5762568/strait-of-hormuz-closure-deflates-global-helium-supply",
+      "description": "The blockade in the Strait of Hormuz is affecting not only oil, but the global helium supply.",
+      "date": "Fri, 03 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.K. convenes 40 nations to discuss Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/02/nx-s1-5771446/u-k-convenes-40-nations-to-discuss-strait-of-hormuz",
@@ -47,26 +67,6 @@
       "link": "https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez",
       "description": "The newly announced sanctions relief is the latest U.S. recognition of Rodríguez as a legitimate authority in Venezuela ever since the U.S. military captured her predecessor, Nicolás Maduro.",
       "date": "Thu, 02 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Who is held accountable if a war crime is committed in Iran?",
-      "link": "https://www.npr.org/2026/04/01/nx-s1-5766235/who-is-held-accountable-if-a-war-crime-is-committed-in-iran",
-      "description": "NPR's Scott Detrow speaks with international law expert Gabor Rona about attacks on civilian infrastructure in the Iran conflict and how they may constitute war crimes.",
-      "date": "Wed, 01 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "A Turkish border town known for its cats - in times of peace",
-      "link": "https://www.npr.org/2026/04/01/nx-s1-5766197/a-turkish-border-town-known-for-its-cats-in-times-of-peace",
-      "description": "The border town of Van in Turkey is known for being a hub for Iranian travelers - and its cats.",
-      "date": "Wed, 01 Apr 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -223,6 +223,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "UN Security Council to vote on authorizing force to protect Hormuz",
+      "link": "https://www.france24.com/en/video/20260403-un-security-council-to-vote-on-authorizing-force-to-protect-hormuz",
+      "description": "The UN Security Council will vote Friday on a draft resolution brought by Bahrain to authorize the use of \"defensive\" force to protect shipping in the Strait of Hormuz from Iranian attacks. Iran has placed a stranglehold on the key shipping lane -- threatening fuel supplies and r...",
+      "date": "Fri, 03 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "‘Disturbing trend’ of US-Israeli strikes hitting non-military targets in Iran",
       "link": "https://www.france24.com/en/disturbing-trend-of-us-israeli-strikes-hitting-non-military-targets-in-iran",
       "description": "Reporting from Tehran early Friday, FRANCE 24’s Reza Sayah says there’s been a “disturbing trend” in recent days of US-Israeli strikes hitting non-military targets across Iran. A strike on Iran’s tallest bridge last night killed eight people and wounded 90 others, said Sayah. The...",
@@ -253,9 +263,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Burkina army, jihadists killed more than 1,800 civilians since 2023",
+      "title": "Burkina Faso: More than 1,800 civilians killed by army and jihadists since 2023",
       "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
-      "description": "In tonight's edition, Human Rights Watch says Burkina Faso’s government forces and jihadists together killed more than 1800 civilians between 2023 and 2025. Also, a collapsed, unfinished school in Accra kills four people and injures nearly 30, raising concerns over unsafe classro...",
+      "description": "In tonight’s edition: Human Rights Watch reports that Burkina Faso’s government forces and jihadist groups together killed more than 1,800 civilians between 2023 and 2025. In Accra, a collapsed and unfinished school has left four people dead and nearly 30 injured, raising concern...",
       "date": "Thu, 02 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -265,7 +275,7 @@
     {
       "title": "Fact-checking Trump's address on the war in Iran",
       "link": "https://www.france24.com/en/fact-checking-trump-s-address-on-the-iran-war",
-      "description": "In his 19-minute address to the nation from the White House on Wednesday, President Donald Trump defended his war in Iran, which is now entering his second month, presenting the operation as a success that he said was “nearing completion.” But the President also stretched the tru...",
+      "description": "In a 19-minute address to the nation from the White House on Wednesday, President Donald Trump defended his war in Iran, now entering its second month, presenting the operation as a success “nearing completion.” But the President also stretched the truth on several points, includ...",
       "date": "Thu, 02 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -285,27 +295,7 @@
     {
       "title": "Europe, NATO under pressure over Iran war: 'Trump strong with the weak and weak with the strong'",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260402-europe-nato-under-pressure-over-iran-war-trump-strong-with-the-weak-and-weak-with-the-strong",
-      "description": "François Picard is pleased to welcome Hélène Conway-Mouret, French Senator, Vice Chair of the Foreign Affairs Committee. According to Conway-Mouret, Donald Trump’s Iran war strategy is creating incredible volatility for European security, transatlantic relations, and even domesti...",
-      "date": "Thu, 02 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel's Lebanon endgame: 'Dismantle Hezbollah entirely as a political and social movement'",
-      "link": "https://www.france24.com/en/tv-shows/middle-east-matters/20260402-israel-s-lebanon-endgame-dismantle-hezbollah-entirely-as-a-political-and-social-movement",
-      "description": "Nadia Massih is pleased to welcome Yezid Sayigh, a senior fellow at the Malcolm H. Kerr Carnegie Middle East Center in Beirut. He sees Israel’s military actions in southern Lebanon within a broader political and strategic framework that extends beyond immediate battlefield object...",
-      "date": "Thu, 02 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US and Israel 'again bombing what were clearly non-military sites' in Iran",
-      "link": "https://www.france24.com/en/us-and-israel-again-bombing-what-were-clearly-non-military-sites-in-iran",
-      "description": "Reporting from Tehran for FRANCE 24, Reza Sayah says that \"today again US and Israeli forces bombed what were clearly non-military sites in broad daylight and later in the day US president Donald Trump seemed to boast about it\"",
+      "description": "François Picard welcomes Hélène Conway-Mouret, French Senator and Vice-Chair of the Foreign Affairs Committee. She warns that Donald Trump’s Iran strategy is fuelling instability across Europe, straining transatlantic relations, and stirring political tensions in the United State...",
       "date": "Thu, 02 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -403,16 +393,6 @@
       "bias": "Medium"
     },
     {
-      "title": "As war drags on, US reiterates Trump open to diplomacy with Iran",
-      "link": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss",
-      "description": "US State Department accuses Iran of attacking civilian sites as Trump shares footage of destruction of Iranian bridge.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Pentagon shake-up as Hegseth ousts army chief amid Iran conflict",
       "link": "https://www.dawn.com/news/1988063/pentagon-shake-up-as-hegseth-ousts-army-chief-amid-iran-conflict",
       "description": "WASHINGTON: US Defence Secretary Pete Hegseth has abruptly forced Army Chief of Staff General Randy George into immediate retirement amid the ongoing war with Iran, multiple US media outlets reported on Friday. The outlets described the move as one of the most consequential Penta...",
@@ -443,150 +423,170 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Doomsday Clock chief points to risk of nuclear weapons use in Iran conflict",
-      "link": "https://tass.com/world/2111269",
-      "description": "According to John Mecklin, editor-in-chief of the Bulletin of the Atomic Scientists, there is currently a \"low probability\" that the US or Israel could use nuclear weapons on Iran",
+      "title": "Macron opposes operation to ‘liberate’ Strait, calls it ‘unrealistic’",
+      "link": "https://www.dawn.com/news/1987933/macron-opposes-operation-to-liberate-strait-calls-it-unrealistic",
+      "description": "SEOUL: French President Emmanuel Macron said on Thursday that a military operation to liberate the Strait of Hormuz is “unrealistic”, while lamenting Donald Trump’s differing daily statements on the Iran war and Nato. “There are those who advocate for the liberation of the Strait...",
       "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran reports shooting down US F-35 fighter jet",
-      "link": "https://tass.com/world/2111233",
-      "description": "The Iranian military specified that the likelihood that the crew had managed to eject was low",
+      "title": "Luxury stores take hit in Dubai as Iran war drags on",
+      "link": "https://www.dawn.com/news/1987956/luxury-stores-take-hit-in-dubai-as-iran-war-drags-on",
+      "description": "DUBAI: Rows of luxury boutiques line an upmarket Dubai mall, yet a month into the Middle East war their sales staff sit idly, phones in hand, watching for the rare customer. Salespeople in immaculate suits say they have been told not to speak to reporters, but one briefly describ...",
       "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Oil refinery in Kuwait on fire after Iranian drone attack",
-      "link": "https://tass.com/world/2111229",
-      "description": "According to available information, there were no casualties",
+      "title": "Lebanese PM decries Israel’s ‘far-reaching’ occupation goals",
+      "link": "https://www.dawn.com/news/1987955/lebanese-pm-decries-israels-far-reaching-occupation-goals",
+      "description": "• Salam calls Lebanon ‘a victim of war’; condemns Tel Aviv’s ‘dangerous talk’ of buffer zones• 18 European nations demand Israel halt its military campaign, respect Lebanon’s sovereignty BEIRUT: Lebanese Prime Minister Nawaf Salam declared on Thursday there was no end in sight to...",
       "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "More bridges, power stations to be destroyed in Iran — US President Trump",
-      "link": "https://tass.com/world/2111223",
-      "description": "Donald Trump stressed that Iran has should go for a deal with the United States",
+      "title": "Middle East conflict spiralling into wider regional war, warns UN chief",
+      "link": "https://www.dawn.com/news/1987954/middle-east-conflict-spiralling-into-wider-regional-war-warns-un-chief",
+      "description": "WASHINGTON: UN Secretary General Antó­nio Guterres warned on Thursday that the Middle East crisis was spiralling into a wider regional war, urging the United States and Israel to halt hostilities and calling on Iran to stop attacks on its neighbours. Addressing reporters at UN He...",
       "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Russian Foreign Minister Lavrov to meet Egyptian counterpart Abdelatty",
-      "link": "https://tass.com/politics/2111221",
-      "description": "The main issue on the ministers' agenda is expected to focus on the escalation of the Iranian conflict",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Explosions reported in Iran’s southern city of Bushehr — TV",
-      "link": "https://tass.com/world/2111217",
-      "description": "According to TV channel, missile launch systems were shelled",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Europe’s largest airliner opts to cancel 10% of its flights due to lack of fuel",
-      "link": "https://tass.com/world/2111213",
-      "description": "Chief Executive of Ryanair Michael O’Leary blamed the announced air traffic disruptions on the United States that jointly with Israel had launched a military operation against Iran",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US-Israeli strikes on civilian facilities will not force Iranians to surrender — Araghchi",
-      "link": "https://tass.com/world/2111197",
-      "description": "Iranian Foreign Minister Abbas Araghchi emphasized that \"every bridge and building will be built back stronger\"",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Yemen’s Houthis claim missile attack on targets in Tel Aviv",
-      "link": "https://tass.com/world/2111195",
-      "description": "The movement’s military spokesman Yahya Saree also indicated the Houthis \"will act according to further developments, based on escalation or de-escalation by the enemy\"",
+      "title": "UN experts call for investigation into killing of 3 Lebanese journalists in Israeli strike",
+      "link": "https://www.dawn.com/news/1987870/un-experts-call-for-investigation-into-killing-of-3-lebanese-journalists-in-israeli-strike",
+      "description": "UN experts have called for an international investigation into the killing of three Lebanese journalists in an Israeli strike, saying Israel had not provided “credible evidence” of their supposed links to armed groups. The three journalists, including Al Manar correspondent Ali S...",
       "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UK to host 35-state moot on reopening of Hormuz Strait",
+      "link": "https://www.dawn.com/news/1987674/uk-to-host-35-state-moot-on-reopening-of-hormuz-strait",
+      "description": "LONDON: Britain will this week hold a meeting of about 35 countries to discuss how to reopen the strategic Strait of Hormuz which has been crippled by the Middle East war, Prime Minister Keir Starmer announced on Wednesday. British Foreign Secretary Yvette Cooper will host the di...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Graveyard raid in India uncovers hidden cooking gas canisters amid shortage",
+      "link": "https://www.dawn.com/news/1987840/graveyard-raid-in-india-uncovers-hidden-cooking-gas-canisters-amid-shortage",
+      "description": "Indian police this week seized 414 cooking‑gas canisters hidden in a graveyard in Hyderabad city and arrested those involved in trying to ​sell them on the black market amid shortages due to the ‌US-Israeli war on Iran, a government official said on Thursday. Authorities have ste...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Nasa launches 4 astronauts on world’s first crewed lunar mission in half a century",
+      "link": "https://www.dawn.com/news/1987778/nasa-launches-4-astronauts-on-worlds-first-crewed-lunar-mission-in-half-a-century",
+      "description": "Four astronauts blasted off from Florida on Wednesday on Nasa’s Artemis II mission, a high-stakes voyage around the moon that marks the United States’ boldest step yet toward returning humans to the lunar surface later this decade in a race with China. Nasa’s Space Launch System ...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Vile, horrifying, evil’: Democrats demand ceasefire as Trump defends costly war on Iran",
+      "link": "https://www.dawn.com/news/1987773/vile-horrifying-evil-democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran",
+      "description": "WASHINGTON: Democrats sharply criticised United States President Donald Trump following his national address on the ongoing war in Iran, framing the conflict as deadly, costly, and lacking clear objectives. In a 19-minute prime-time address from the White House, Trump described t...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Indonesia calls for probe into UN peacekeepers’ killing",
+      "link": "https://www.dawn.com/news/1987672/indonesia-calls-for-probe-into-un-peacekeepers-killing",
+      "description": "YOGYAKARTA/BEIRUT: Indo­n­esia has called on the United Nations to investigate the deaths of three of its peacekeepers following Israeli strikes in southern Lebanon, a foreign ministry official said on Wednesday as relatives at home mourned their deaths. The ministry’s UN represe...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Back to Stone Age’: Trump says conflict nearing end, threatens wider attacks on Iran",
+      "link": "https://www.dawn.com/news/1987698/back-to-stone-age-trump-says-conflict-nearing-end-threatens-wider-attacks-on-iran",
+      "description": "WASHINGTON: President Donald Trump signalled that the ongoing US-Israeli military campaign against Iran could conclude within weeks, even as he warned of intensified strikes and issued sweeping claims about the scale of damage inflicted on Tehran. In a 19-minute prime-time addres...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Occupied West Bank on strike against Israeli death penalty law",
+      "link": "https://www.dawn.com/news/1987529/occupied-west-bank-on-strike-against-israeli-death-penalty-law",
+      "description": "Palestinian shops and public institutions were closed across the occupied West Bank on Wednesday in protest of an Israeli law passed earlier this week permitting the execution of Palestinians convicted of deadly terror attacks. In the Palestinian territory’s main cities of Hebron...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "French, South Korean leaders say they'll work together on Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/french-south-korean-leaders-say-theyll-work-together-on-strait-of-hormuz/article70819110.ece",
+      "description": "Their summit in Seoul came as U.S. President Donald Trump slammed allies for not supporting the U.S. and Israeli war against Iran",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: Iran warns against provocative action ahead of UN vote on Hormuz force",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-3-2026-west-asia-crisis-conflict/article70818422.ece",
+      "description": "Trump has stepped up his rhetoric in recent days as negotiations conducted via intermediaries with new leaders in Iran show limited signs of progress and pessimism at home about the war grows",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran warns UN Security Council against ‘provocative action’ on Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-warns-un-security-council-against-provocative-action-on-hormuz/article70818943.ece",
+      "description": "Iranian Foreign Minister Abbas Araghchi was speaking ahead of a scheduled Security Council vote on a draft resolution mandating a force to protect shipping through the Strait of Hormuz Friday (April 3, 2026).",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
+      "link": "https://tass.com/world/1968185",
+      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Death toll from strike on bridge in Iran rises to eight — authorities",
-      "link": "https://tass.com/world/2111193",
-      "description": "95 people were injured",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Strait of Hormuz to be closed to US, Israel for long time — Iranian General Staff",
-      "link": "https://tass.com/world/2111191",
-      "description": "A representative of the Iranian armed forces Abolfazl Shekarchi stressed that \"under no pretext will they approach it\"",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran targets Oracle data center in Dubai — IRGC",
-      "link": "https://tass.com/world/2111181",
-      "description": "Earlier on Thursday, Iran’s elite army unit claimed to have carried out strikes on a cloud computing center of US tech firm Amazon in Bahrain",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran can't have unilateral control over Hormuz - Arab League secretary general",
-      "link": "https://tass.com/world/2111171",
-      "description": "In the opinion of Ahmed Aboul Gheit, \"the draft document on freedom of navigation in the Strait of Hormuz proposed by the Gulf Cooperation Council should be supported\"",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Top diplomats of Russia, Iran discuss situation in Middle East over phone — Russian MFA",
-      "link": "https://tass.com/world/2111161",
-      "description": "Sergey Lavrov and Abbas Araghchi also exchanged opinions on the course of debate at the UN Security Council regarding ways to ensure the safe passage of vessels in the Strait of Hormuz",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran destroys US bases in Middle East, says Houthi leader",
-      "link": "https://tass.com/world/2111157",
-      "description": "Abdul Malik al-Houthi is convinced that the Iranian operations were accompanied by \"heavy losses among officers and soldiers\" of the armies of the United States and Israel",
-      "date": "Thu, 02 Apr 2026",
+      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
+      "link": "https://tass.com/world/1968163",
+      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
