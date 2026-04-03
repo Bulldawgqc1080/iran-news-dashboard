@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-03 12:37 UTC",
+  "updated": "2026-04-03 13:55 UTC",
   "total": 60,
   "stories": [
     {
       "title": "Iran hits Gulf refineries as Trump warns U.S. will attack Iranian bridges, power plants",
       "link": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants",
-      "description": "Iranian officials said one of the longest bridges linking Tehran to the city of Karaj was destroyed overnight, while Iranian missiles and drones hit Israel, Saudi Arabia, the United Arab Emirates and Kuwait's largest oil refinery, setting some units on fire.",
+      "description": "Iran said one of the longest bridges linking Tehran to the city of Karaj was destroyed overnight, while Iranian missiles and drones hit Israel, Saudi Arabia, the United Arab Emirates and Kuwait.",
       "date": "Fri, 03 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -46,16 +46,6 @@
       "title": "Trump makes case for Iran war. And, SCOTUS leans toward upholding birthright citizenship",
       "link": "https://www.npr.org/2026/04/02/g-s1-116162/up-first-newsletter-iran-war-trump-birthright-citizenship-va-program",
       "description": "President Trump addressed the nation last night, making his case for war with Iran. And, the Supreme Court majority seemed inclined to rule against the Trump administration on birthright citizenship.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Hegseth ousts the Army chief of staff as the Iran war rages through Week 5",
-      "link": "https://www.npr.org/2026/04/02/nx-s1-5771160/iran-war-trump-speech",
-      "description": "U.S. Defense Secretary Pete Hegseth asked Army Chief of Staff Randy George to step down and retire, a U.S. official confirmed to NPR.",
       "date": "Thu, 02 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -213,6 +203,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Strikes hit Lebanon as Israel vows to occupy swathe of south after war",
+      "link": "https://www.france24.com/en/video/20260403-strikes-hit-lebanon-as-israel-vows-to-occupy-swathe-of-south-after-war",
+      "description": "Lebanon said Israeli strikes hit near Beirut's main airport road on Tuesday, as the UN Security Council held an urgent meeting after three peacekeepers were killed in the south. Israeli Defence Minister Israel Katz said his country's military would occupy a swathe of southern Leb...",
+      "date": "Fri, 03 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "8 killed, 95 wounded in US-Israeli attacks on Iran bridge",
+      "link": "https://www.france24.com/en/video/20260403-8-killed-95-wounded-in-us-israeli-attacks-on-iran-bridge",
+      "description": "At least eight civilians were killed and 95 others wounded in US and Israeli attacks on a bridge in Iran's northern Alborz province on Thursday, the official news agency IRNA reported. According to the report, the B1 bridge, located in the provincial capital Karaj, is one of the ...",
+      "date": "Fri, 03 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran`s Islamic Revolutionary Guard Corps says it struck US F-35 jet",
+      "link": "https://www.france24.com/en/video/20260403-iran-s-islamic-revolutionary-guard-corps-says-it-struck-us-f-35-jet",
+      "description": "Iran’s Islamic Revolutionary Guard Corps (IRGC) claimed Thursday that it struck a US F-35 stealth fighter jet over central Iran. FRANCE 24's Reza Sayah reports from Tehran, Iran.",
+      "date": "Fri, 03 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran Guards recruit children to ‘defend the homeland’, placing them in line of fire",
       "link": "https://www.france24.com/en/middle-east/20260403-iran-guards-recruit-children-defend-homeland-irgc-basij",
       "description": "Iran's Revolutionary Guards Corps has launched a campaign aimed at recruiting children as young as 12 for the “defence of the homeland”. More than a month into the war triggered by the US and Israel, rights groups highlight the life-threatening risks for Iranian children and stre...",
@@ -243,24 +263,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "‘Disturbing trend’ of US-Israeli strikes hitting non-military targets in Iran",
-      "link": "https://www.france24.com/en/disturbing-trend-of-us-israeli-strikes-hitting-non-military-targets-in-iran",
-      "description": "Reporting from Tehran early Friday, FRANCE 24’s Reza Sayah says there’s been a “disturbing trend” in recent days of US-Israeli strikes hitting non-military targets across Iran. A strike on Iran’s tallest bridge last night killed eight people and wounded 90 others, said Sayah. The...",
+      "title": "How the US and Israel are waging war on Iran’s medicines, vaccines",
+      "link": "https://www.aljazeera.com/news/2026/4/3/how-the-us-and-israel-are-waging-war-on-irans-medicines-vaccines?traffic_source=rss",
+      "description": "The Pasteur Institute of Iran is one of several healthcare facilities in the country to be targeted.",
       "date": "Fri, 03 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East war live: Israeli army says will strike two bridges in east Lebanon",
-      "link": "https://www.france24.com/en/middle-east/20260403-middle-east-live-un-security-council-to-vote-on-force-to-protect-hormuz-access",
-      "description": "The Israeli army on Friday said it would strike two bridges in east Lebanon. In Iran, Foreign Minister Abbas Araghchi warned against any \"provocative action\" ahead of an expected UN Security Council vote on the use of force to reopen the Strait of Hormuz. Follow our liveblog for ...",
-      "date": "Fri, 03 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’",
@@ -326,16 +336,6 @@
       "title": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
       "link": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
       "description": "Pakistan braces for gas shortage crisis as LNG supplies collapse amid escalating regional conflict.",
-      "date": "Fri, 03 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
-      "description": "Iranian officials say the country’s largest bridge will be “built back stronger,” but America’s standing won&#039;t recover.",
       "date": "Fri, 03 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -443,9 +443,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Nasa launches 4 astronauts on world’s first crewed lunar mission in half a century",
-      "link": "https://www.dawn.com/news/1987778/nasa-launches-4-astronauts-on-worlds-first-crewed-lunar-mission-in-half-a-century",
-      "description": "Four astronauts blasted off from Florida on Wednesday on Nasa’s Artemis II mission, a high-stakes voyage around the moon that marks the United States’ boldest step yet toward returning humans to the lunar surface later this decade in a race with China. Nasa’s Space Launch System ...",
+      "title": "‘Vile, horrifying, evil’: Democrats demand ceasefire as Trump defends costly war on Iran",
+      "link": "https://www.dawn.com/news/1987773/vile-horrifying-evil-democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran",
+      "description": "WASHINGTON: Democrats sharply criticised United States President Donald Trump following his national address on the ongoing war in Iran, framing the conflict as deadly, costly, and lacking clear objectives. In a 19-minute prime-time address from the White House, Trump described t...",
       "date": "Thu, 02 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -453,140 +453,140 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran strikes US landing craft in Kuwait, radar station in Bahrain — army",
-      "link": "https://tass.com/world/2111483",
-      "description": "According to the military, in a subsequent phase of the attack, the Iranian Armed Forces struck the Israeli Ramat David Air Base, home to squadrons of Israeli F-16 fighter jets",
+      "title": "Indonesia calls for probe into UN peacekeepers’ killing",
+      "link": "https://www.dawn.com/news/1987672/indonesia-calls-for-probe-into-un-peacekeepers-killing",
+      "description": "YOGYAKARTA/BEIRUT: Indo­n­esia has called on the United Nations to investigate the deaths of three of its peacekeepers following Israeli strikes in southern Lebanon, a foreign ministry official said on Wednesday as relatives at home mourned their deaths. The ministry’s UN represe...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Back to Stone Age’: Trump says conflict nearing end, threatens wider attacks on Iran",
+      "link": "https://www.dawn.com/news/1987698/back-to-stone-age-trump-says-conflict-nearing-end-threatens-wider-attacks-on-iran",
+      "description": "WASHINGTON: President Donald Trump signalled that the ongoing US-Israeli military campaign against Iran could conclude within weeks, even as he warned of intensified strikes and issued sweeping claims about the scale of damage inflicted on Tehran. In a 19-minute prime-time addres...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Occupied West Bank on strike against Israeli death penalty law",
+      "link": "https://www.dawn.com/news/1987529/occupied-west-bank-on-strike-against-israeli-death-penalty-law",
+      "description": "Palestinian shops and public institutions were closed across the occupied West Bank on Wednesday in protest of an Israeli law passed earlier this week permitting the execution of Palestinians convicted of deadly terror attacks. In the Palestinian territory’s main cities of Hebron...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump to address nation at 9pm EST, outline Iran war endgame as Washington debates next phase",
+      "link": "https://www.dawn.com/news/1987457/trump-to-address-nation-at-9pm-est-outline-iran-war-endgame-as-washington-debates-next-phase",
+      "description": "WASHINGTON: US President Donald Trump is set to address his nation at 9pm EST on Wednesday (6:00am on Thursday in Pakistan) to provide what the White House has described as “an important update on Iran,” fuelling speculation that he may declare an end to the five-week conflict — ...",
+      "date": "Wed, 01 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says U.S. can take Strait of Hormuz with more time",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-can-take-strait-of-hormuz-with-more-time/article70819945.ece",
+      "description": "Nearly five weeks after it started with a ​joint U.S.-Israeli aerial assault, ‌the war in Iran continues to spread chaos across the region and roil financial markets, raising ‌the pressure on Mr. Trump to find ​a quick resolution to the conflict.",
       "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: Netanyahu claims 70% of Iran's steel production capacity destroyed",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-3-2026-west-asia-crisis-conflict/article70818422.ece",
+      "description": "This is a tremendous achievement that deprives the Revolutionary Guards of both financial resources and the ability to produce many weapons, says Benjamin Netanyahu in a video statement.",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan raises petrol prices amid U.S.-Iran war",
+      "link": "https://www.thehindu.com/news/international/pakistan-raises-petrol-prices-amid-us-iran-war/article70819384.ece",
+      "description": "To control the consumption of petrol and diesel, government made a 55% increases in the fuel prices in Pakistan",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "French, South Korean leaders say they'll work together on Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/french-south-korean-leaders-say-theyll-work-together-on-strait-of-hormuz/article70819110.ece",
+      "description": "Their summit in Seoul came as U.S. President Donald Trump slammed allies for not supporting the U.S. and Israeli war against Iran",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran warns UN Security Council against ‘provocative action’ on Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-warns-un-security-council-against-provocative-action-on-hormuz/article70818943.ece",
+      "description": "Iranian Foreign Minister Abbas Araghchi was speaking ahead of a scheduled Security Council vote on a draft resolution mandating a force to protect shipping through the Strait of Hormuz Friday (April 3, 2026).",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UN Security Council delays vote on authorising force to protect shipping in the Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/un-to-vote-on-using-all-defensive-means-to-secure-navigation-in-strait-of-hormuz/article70817410.ece",
+      "description": "A sixth and final draft, seen by AFP, greenlights member states -- either unilaterally or as “voluntary multinational naval partnerships” -- to use “all defensive means necessary and commensurate with the circumstances.”",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
+      "link": "https://tass.com/pressreview/1969589",
+      "description": "Top stories from the Russian press on Friday, June 6th",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "It will be difficult for US to destroy Iran's remaining missile stockpiles — Politico",
-      "link": "https://tass.com/world/2111479",
-      "description": "According to the source, the effectiveness of US strikes is gradually declining, creating a politically delicate situation for President Donald Trump",
-      "date": "Fri, 03 Apr 2026",
+      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+      "link": "https://tass.com/world/1969663",
+      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "French company’s container ship passes through Hormuz first time since February",
-      "link": "https://tass.com/economy/2111441",
-      "description": "Kribi container ship flying the Maltese flag started to move towards the Iranian coast along the strait on Thursday afternoon",
-      "date": "Fri, 03 Apr 2026",
+      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
+      "link": "https://tass.com/world/1969613",
+      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Iran threatens to throw US military back to period before Stone Age — TV",
-      "link": "https://tass.com/world/2111437",
-      "description": "According to the report, the Iranian troops \"after many years of intensive training are fully ready\" to defend their country",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran accuses Israel of attacking desalination plants in Kuwait",
-      "link": "https://tass.com/world/2111435",
-      "description": "The statement strongly condemned what it described as an inhumane act",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran’s will power stronger than United States’, says Japanese expert",
-      "link": "https://tass.com/world/2111433",
-      "description": "Iran is demonstrating political will and it has no reason to agree to make peace with the United States through a compromise, Ryoji Tateyama pointed out",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Ukraine continues to receive weapons from US despite Iran operation — Sikorski",
-      "link": "https://tass.com/world/2111431",
-      "description": "The Polish foreign minister noted that the situation could change",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran's internet shutdown continues for more than 800 hours — NetBlocks",
-      "link": "https://tass.com/economy/2111403",
-      "description": "The general public remain cut off from the world without vital updates and without a voice",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran guarantees safety of Indian vessels in Strait of Hormuz — embassy",
-      "link": "https://tass.com/world/2111399",
-      "description": "According to media reports, Iran earlier sent a proposal to Oman on joint monitoring of the situation in the Strait of Hormuz in order to ensure safe navigation",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Japan should lift sanctions before sending delegation to Russia — lawmaker",
-      "link": "https://tass.com/world/2111393",
-      "description": "\"There is no specific plan to send an economic delegation,\" Muneo Suzuki said",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Press review: Trump puts NATO at risk as Houthis threaten to block Bab el-Mandeb",
-      "link": "https://tass.com/pressreview/2111251",
-      "description": "Top stories from the Russian press on Friday, April 3rd",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran warns of heavier strikes on US targets if attacks on civilian sites continue",
-      "link": "https://tass.com/world/2111317",
-      "description": "On Thursday, Donald Trump demanded that Iran’s authorities accept a deal in the near future and threatened to destroy civilian infrastructure in the Islamic Republic",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel claims to have eliminated 1,000 Hezbollah members in Lebanon over past month",
-      "link": "https://tass.com/world/2111305",
-      "description": "The Israeli army has struck more than 3,500 targets",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Doomsday Clock chief slams US-Israeli operation against Iran as 'absolutely idiotic'",
-      "link": "https://tass.com/world/2111301",
-      "description": "John Mecklin believes that the US and Israel are unlikely to achieve the goal of destroying Iran’s nuclear capabilities",
-      "date": "Fri, 03 Apr 2026",
+      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
+      "link": "https://tass.com/world/1969533",
+      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
+      "date": "Thu, 05 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
