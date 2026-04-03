@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-03 17:24 UTC",
+  "updated": "2026-04-03 18:33 UTC",
   "total": 60,
   "stories": [
     {
       "title": "A U.S. jet goes down over Iran, a U.S. official confirms",
       "link": "https://www.npr.org/2026/04/03/nx-s1-5773108/american-jet-shot-down-iran",
-      "description": "A U.S. official confirmed the Iranian state media report and added that a search is underway by U.S. forces.",
+      "description": "A U.S. official said that one crew member had been rescued and U.S. forces continue to search for the second crew member.",
       "date": "Fri, 03 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -43,7 +43,7 @@
       "bias": "Low"
     },
     {
-      "title": "Crew member rescued after US fighter jet downed over Iran, US media reports",
+      "title": "Crew member rescued after US fighter jet downed over Iran, US media report",
       "link": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
       "description": "Iranian media reports a reward is being offered for finding a US crewmember thought to still be missing.",
       "date": "Fri, 03 Apr 2026",
@@ -273,6 +273,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US unemployment rate drops despite economic uncertainty and Iran war",
+      "link": "https://www.aljazeera.com/news/2026/4/3/us-unemployment-rate-drops-despite-economic-uncertainty-and-iran-war?traffic_source=rss",
+      "description": "White House says March jobs report &#039;blew out expectations&#039; with gains made in the healthcare and construction sectors.",
+      "date": "Fri, 03 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What we know about the US fighter jet shot down in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/what-we-know-about-the-us-fighter-jet-shot-down-in-iran?traffic_source=rss",
+      "description": "The White House has confirmed Donald Trump has been briefed on the shooting down of a US fighter jet in Iran.",
+      "date": "Fri, 03 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "French-owned container ship transits Hormuz Strait in first since Iran war",
       "link": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
       "description": "CMA CGM&#039;s vessel becomes the first French-owned ship to traverse Hormuz since the US–Israel war on Iran began.",
@@ -363,6 +383,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US fighter jet shot down over Iran, search under way for crew member, US officials say",
+      "link": "https://www.dawn.com/news/1988290/us-fighter-jet-shot-down-over-iran-search-under-way-for-crew-member-us-officials-say",
+      "description": "A US fighter jet has been shot down over Iran and search-and-rescue efforts have so far recovered one of two crew members who ejected, a US official told Reuters, in the first known incident of its kind in the nearly five-week-old war. The Pentagon and US Central Command did not ...",
+      "date": "Fri, 03 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Pentagon shake-up as Hegseth ousts army chief amid Iran conflict",
       "link": "https://www.dawn.com/news/1988063/pentagon-shake-up-as-hegseth-ousts-army-chief-amid-iran-conflict",
       "description": "WASHINGTON: US Defence Secretary Pete Hegseth has abruptly forced Army Chief of Staff General Randy George into immediate retirement amid the ongoing war with Iran, multiple US media outlets reported on Friday. The outlets described the move as one of the most consequential Penta...",
@@ -443,150 +473,120 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Restoration of EGA aluminum smelter in UAE after Iranian attack may take up to 12 months",
-      "link": "https://tass.com/economy/2111683",
-      "description": "The Al Taweelah complex, which includes a smelter, power plant, and alumina production and processing plants, was completely evacuated, and operations were urgently halted",
+      "title": "UK to host 35-state moot on reopening of Hormuz Strait",
+      "link": "https://www.dawn.com/news/1987674/uk-to-host-35-state-moot-on-reopening-of-hormuz-strait",
+      "description": "LONDON: Britain will this week hold a meeting of about 35 countries to discuss how to reopen the strategic Strait of Hormuz which has been crippled by the Middle East war, Prime Minister Keir Starmer announced on Wednesday. British Foreign Secretary Yvette Cooper will host the di...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Graveyard raid in India uncovers hidden cooking gas canisters amid shortage",
+      "link": "https://www.dawn.com/news/1987840/graveyard-raid-in-india-uncovers-hidden-cooking-gas-canisters-amid-shortage",
+      "description": "Indian police this week seized 414 cooking‑gas canisters hidden in a graveyard in Hyderabad city and arrested those involved in trying to ​sell them on the black market amid shortages due to the ‌US-Israeli war on Iran, a government official said on Thursday. Authorities have ste...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Vile, horrifying, evil’: Democrats demand ceasefire as Trump defends costly war on Iran",
+      "link": "https://www.dawn.com/news/1987773/vile-horrifying-evil-democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran",
+      "description": "WASHINGTON: Democrats sharply criticised United States President Donald Trump following his national address on the ongoing war in Iran, framing the conflict as deadly, costly, and lacking clear objectives. In a 19-minute prime-time address from the White House, Trump described t...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Indonesia calls for probe into UN peacekeepers’ killing",
+      "link": "https://www.dawn.com/news/1987672/indonesia-calls-for-probe-into-un-peacekeepers-killing",
+      "description": "YOGYAKARTA/BEIRUT: Indo­n­esia has called on the United Nations to investigate the deaths of three of its peacekeepers following Israeli strikes in southern Lebanon, a foreign ministry official said on Wednesday as relatives at home mourned their deaths. The ministry’s UN represe...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Back to Stone Age’: Trump says conflict nearing end, threatens wider attacks on Iran",
+      "link": "https://www.dawn.com/news/1987698/back-to-stone-age-trump-says-conflict-nearing-end-threatens-wider-attacks-on-iran",
+      "description": "WASHINGTON: President Donald Trump signalled that the ongoing US-Israeli military campaign against Iran could conclude within weeks, even as he warned of intensified strikes and issued sweeping claims about the scale of damage inflicted on Tehran. In a 19-minute prime-time addres...",
+      "date": "Thu, 02 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: White House requests giant $1.5 trillion defence budget amid Iran war",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-3-2026-west-asia-crisis-conflict/article70818422.ece",
+      "description": "The total year-on-year increase in Pentagon spending would be the largest since World War II, U.S. media reported, although presidential budgets are wish lists that have to be approved by Congress, rather than binding orders.",
       "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "One crew member rescued from downed U.S. fighter jet over Iran: U.S. media reports",
+      "link": "https://www.thehindu.com/news/international/us-fighter-jet-shot-down-over-iran-tehran-urges-civilians-to-hunt-for-crew/article70820656.ece",
+      "description": "Unidentified sources quoted by U.S. media reported that one of the two crew on the plane had already been rescued by U.S. special forces but that the search was ongoing for the second crew member.",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "White House requests giant $1.5 trillion defence budget amid Iran war",
+      "link": "https://www.thehindu.com/news/international/white-house-budget-defence-trump-iran-war/article70820129.ece",
+      "description": "Trump requests a ‌10% cut in ‌non-defence and discretionary ‌spending ⁠for the ⁠2027 fiscal year and an ​increase to ‌defence spending by $500 billion, according to ‌a White ​House budget document",
+      "date": "Fri, 03 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
+      "link": "https://tass.com/pressreview/1969589",
+      "description": "Top stories from the Russian press on Friday, June 6th",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "US fighter jet downed over Iran likely conducted strikes on ground targets — media",
-      "link": "https://tass.com/world/2111681",
-      "description": "According to CBS News national security analyst Aaron MacLean, the pilots of the downed fighter had sidearms",
-      "date": "Fri, 03 Apr 2026",
+      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+      "link": "https://tass.com/world/1969663",
+      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "IN BRIEF: Attacks on TurkStream, Middle East: what Putin, Erdogan spoke about over phone",
-      "link": "https://tass.com/politics/2111669",
-      "description": "The presidents noted that the escalation surrounding Iran is leading to \"serious negative consequences on both a regional and global scale",
-      "date": "Fri, 03 Apr 2026",
+      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
+      "link": "https://tass.com/world/1969613",
+      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Upper house speaker slams US-Israeli operation against Iran as geopolitical mistake",
-      "link": "https://tass.com/politics/2111667",
-      "description": "Valentina Matviyenko emphasized that this intervention has destabilized the Middle East, triggering an energy crisis, yet it ultimately changes nothing",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Some Middle Eastern countries may be helping US, Israeli aggression — Iranian diplomat",
-      "link": "https://tass.com/world/2111661",
-      "description": "According to Esmaeil Baghaei, a downed UAV is neither American nor Israeli",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US Air Force fighter jet downed in Iran was F-15E — media",
-      "link": "https://tass.com/world/2111649",
-      "description": "This information was confirmed to CBS News by sources among US officials",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IN BRIEF: Downed F-35 in Iran, failure of the US rescue operation",
-      "link": "https://tass.com/world/2111637",
-      "description": "Axios reported that US forces are actively seeking to recover the two pilots of the downed aircraft",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Tanker with Iranian oil change course, heading to China — PTI",
-      "link": "https://tass.com/economy/2111635",
-      "description": "The change in the destination of Pin Shun appears to be payment-related, Sumit Ritolia, Lead Research Analyst at Kpler, noted",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "WHO chief confirms more than 20 attacks on medical facilities in Iran over month",
-      "link": "https://tass.com/society/2111629",
-      "description": "According to Tedros Adhanom Ghebreyesus, many attacks were recorded in Tehran",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Ukraine to supply naval drones to unnamed Persian Gulf country — Zelensky",
-      "link": "https://tass.com/world/2111615",
-      "description": "According to Vladimir Zelensky, the agreement term is 10 years, but the specific company supplying the drones may change",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Currencies in over half of African nations weaken sharply amid Iran conflict",
-      "link": "https://tass.com/economy/2111609",
-      "description": "The situation is further complicated by disruptions in energy supplies from the Persian Gulf and key agricultural commodities such as ammonia and urea during the critical March-May planting season",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "UNSC draft resolution on Strait of Hormuz cannot be approved — Russian foreign minister",
-      "link": "https://tass.com/politics/2111595",
-      "description": "It does not contribute to a peaceful resolution of the conflict, Sergey Lavrov said",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US puts Cuba on backburner amid operation in Iran — Politico",
-      "link": "https://tass.com/world/2111585",
-      "description": "Steps against Cuba also risk further upsetting already tenuous relations with Russia, the publication notes",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli PM says 70% of Iran’s steel production capacity destroyed",
-      "link": "https://tass.com/world/2111575",
-      "description": "This is a tremendous achievement that deprives the IRGC of both funding sources and the ability to produce large quantities of weapons, Benjamin Netanyahu said",
-      "date": "Fri, 03 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump confident US to be able to reopen Hormuz soon",
-      "link": "https://tass.com/world/2111573",
-      "description": "Iran earlier closed the Strait of Hormuz to ships associated with the United States, Israel and the countries that supported aggression against the Islamic Republic",
-      "date": "Fri, 03 Apr 2026",
+      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
+      "link": "https://tass.com/world/1969533",
+      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
+      "date": "Thu, 05 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
