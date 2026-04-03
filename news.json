@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03 04:20 UTC",
+  "updated": "2026-04-03 06:05 UTC",
   "total": 60,
   "stories": [
     {
@@ -66,16 +66,6 @@
       "title": "A Turkish border town known for its cats - in times of peace",
       "link": "https://www.npr.org/2026/04/01/nx-s1-5766197/a-turkish-border-town-known-for-its-cats-in-times-of-peace",
       "description": "The border town of Van in Turkey is known for being a hub for Iranian travelers - and its cats.",
-      "date": "Wed, 01 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Is the U.S. Navy ready to clear sea mines in the Persian Gulf?",
-      "link": "https://www.npr.org/2026/04/01/nx-s1-5766222/mines-persian-gulf-strait-navy-lcs",
-      "description": "Despite the danger of sea mines, experts say that mine clearing has received minimal attention and funding from the U.S. Navy — and it's often overshadowed by more high-profile weapons systems.",
       "date": "Wed, 01 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -233,9 +223,19 @@
       "bias": "Low-Med"
     },
     {
+      "title": "‘Disturbing trend’ of US-Israeli strikes hitting non-military targets in Iran",
+      "link": "https://www.france24.com/en/disturbing-trend-of-us-israeli-strikes-hitting-non-military-targets-in-iran",
+      "description": "Reporting from Tehran early Friday, FRANCE 24’s Reza Sayah says there’s been a “disturbing trend” in recent days of US-Israeli strikes hitting non-military targets across Iran. A strike on Iran’s tallest bridge last night killed eight people and wounded 90 others, said Sayah. The...",
+      "date": "Fri, 03 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East live: UN Security Council to vote on force to protect Hormuz access",
       "link": "https://www.france24.com/en/middle-east/20260403-middle-east-live-un-security-council-to-vote-on-force-to-protect-hormuz-access",
-      "description": "The UN Security Council is set to vote Friday on a draft resolution allowing “defensive” force to protect shipping in the Strait of Hormuz, as Iran’s actions disrupt a vital global trade route. Backed by the United States, the measure comes amid rising tensions and concerns over ...",
+      "description": "The UN Security Council is set to vote Friday on a draft resolution allowing a “defensive” force to protect shipping in the Strait of Hormuz, as Iran’s actions disrupt a vital global trade route. Backed by the United States, the measure comes amid rising tensions and concerns ove...",
       "date": "Fri, 03 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -321,6 +321,26 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+      "description": "Trump steps up threats after US strike on Iran&#039;s largest bridge, as Tehran launches attacks across the region.",
+      "date": "Fri, 03 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
+      "link": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
+      "description": "Pakistan braces for gas shortage crisis as LNG supplies collapse amid escalating regional conflict.",
+      "date": "Fri, 03 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
@@ -413,34 +433,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Children’s hospital in Tehran keeps hopes and smiles alive during war",
-      "link": "https://www.aljazeera.com/news/2026/4/2/childrens-hospital-in-tehran-keeps-hopes-and-smiles-alive-during-war?traffic_source=rss",
-      "description": "Staff at the Children’s Medical Center organise activities to offer a joyful experience to children in hospital.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Videos capture projectile falling in central Israel after Iran strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/videos-capture-projectile-falling-in-central-israel-after-iran-strike?traffic_source=rss",
-      "description": "Videos show the moment a projectile strikes central Israel, with a loud explosion heard on impact.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US blows up key Iranian bridge, steel plants",
-      "link": "https://www.dawn.com/news/1987961/us-blows-up-key-iranian-bridge-steel-plants",
-      "description": "• Trump says more will follow after earlier threatening to bomb Iran back to ‘Stone Ages’, claims war nearly over• Tehran vows ‘crushing’ attacks on US after Trump threats• Iran launches missiles towards Israel; fire near Mashhad airport after projectile hits fuel tank• Dozens of...",
+      "title": "Pentagon shake-up as Hegseth ousts army chief amid Iran conflict",
+      "link": "https://www.dawn.com/news/1988063/pentagon-shake-up-as-hegseth-ousts-army-chief-amid-iran-conflict",
+      "description": "WASHINGTON: US Defence Secretary Pete Hegseth has abruptly forced Army Chief of Staff General Randy George into immediate retirement amid the ongoing war with Iran, multiple US media outlets reported on Friday. The outlets described the move as one of the most consequential Penta...",
       "date": "Fri, 03 Apr 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Oil refinery in Kuwait on fire after Iranian drone attack",
+      "link": "https://tass.com/world/2111229",
+      "description": "According to available information, there were no casualties",
+      "date": "Fri, 03 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "More bridges, power stations to be destroyed in Iran — US President Trump",
+      "link": "https://tass.com/world/2111223",
+      "description": "Donald Trump stressed that Iran has should go for a deal with the United States",
+      "date": "Fri, 03 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Russian Foreign Minister Lavrov to meet Egyptian counterpart Abdelatty",
@@ -566,26 +586,6 @@
       "title": "Pakistan says ready to host US-Iran talks",
       "link": "https://tass.com/world/2111145",
       "description": "A five-point initiative proposed earlier by China and Pakistan to restore peace and stability in the Middle East has been met with approval in the region and beyond",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Argentina declares charge d'affaires of Iran persona non grata — Foreign Ministry",
-      "link": "https://tass.com/world/2111101",
-      "description": "According to the ministry, the decision was made in response to a statement by the Iranian Foreign Ministry, in which Tehran condemned Buenos Aires for its decision to recognize the Islamic Revolutionary Guard Corps as a terrorist organization",
-      "date": "Thu, 02 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran’s IRGC claims attack on Amazon’s computing center in Bahrain",
-      "link": "https://tass.com/world/2111099",
-      "description": "Iran’s Islamic Revolutionary Guard Corps emphasized that this is only a first warning, and if the aggression continues, \"the next companies, which have already been mentioned, will be punished much more severely\"",
       "date": "Thu, 02 Apr 2026",
       "source": "TASS",
       "region": "ru",
