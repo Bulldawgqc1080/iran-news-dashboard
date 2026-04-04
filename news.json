@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04 14:26 UTC",
+  "updated": "2026-04-04 15:21 UTC",
   "total": 60,
   "stories": [
     {
@@ -203,6 +203,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "'Iran open to negotiations': Diplomacy shows signs of progress, 'damage to global economy continues'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260404-iran-open-to-negotiations-diplomacy-shows-signs-of-progress-damage-to-global-economy-continues",
+      "description": "Gavin Lee is pleased to welcome Dr Christian Bueger is a Research Fellow at UNIDIR, and the Academy of International Affairs NRW, and Professor of International Relations at the University of Copenhagen. He offers an analysis of the evolving crisis in the Strait of Hormuz, emphas...",
+      "date": "Sat, 04 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Impact of Iran war in Pakistan: Fuel prices rise by over 50%",
       "link": "https://www.france24.com/en/impact-of-iran-war-in-pakistan-fuel-prices-rise-by-over-50",
       "description": "Shahzaib Wahlah, correspondent in Islamabad Pakistan, has more.",
@@ -235,7 +245,7 @@
     {
       "title": "European drivers choke on rising diesel prices due to Iran conflict",
       "link": "https://www.france24.com/en/europe/20260404-european-drivers-choke-on-rising-diesel-prices-due-to-iran-conflict",
-      "description": "European drivers face a record fuel inflation as the price of diesel fuel has rocketed by more than 30 percent since the start of the Middle East war, highlighting the continent's dependence on imported energy and the lingering prominence of diesel on the car market.",
+      "description": "European drivers face a record fuel inflation as diesel prices have spiralled by more than 30 percent since the start of the Iran war, highlighting the continent's dependence on imported energy and the lingering prominence of diesel on the car market.",
       "date": "Sat, 04 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -283,14 +293,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Trump says Iran has 48 hours left to make deal or US will unleash 'Hell'",
-      "link": "https://www.france24.com/en/middle-east/20260404-live-several-blasts-heard-coming-from-northern-tehran",
-      "description": "US President Donald Trump said on social media Iran has 48 hours left to make deal or the US would unleash 'Hell'. His renewed threat comes as Iranian and US forces race to recover the missing crew member from an American warplane shot down by Iran. Follow our liveblog for the la...",
+      "title": "Vehicles burn in Israel after being hit with Iranian projectile debris",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicles-burn-in-israel-after-being-hit-with-iranian-projectile-debris?traffic_source=rss",
+      "description": "Video shows vehicles on fire in central Israel after debris from an intercepted Iranian projectile struck Ramat Gan.",
       "date": "Sat, 04 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
@@ -356,16 +366,6 @@
       "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
       "description": "Survivors of an Israeli-US attack on Iran’s biggest road bridge have spoken of their terror as missiles hit it.",
-      "date": "Fri, 03 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
-      "link": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
-      "description": "WHO chief Tedros Adhanom Ghebreyesus says &#039;multiple attacks&#039; on Iranian healthcare facilities have been reported.",
       "date": "Fri, 03 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -441,6 +441,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Slovak PM calls for lifting sanctions on Russian gas and oil imports",
+      "link": "https://tass.com/world/2111915",
+      "description": "Oil supplies to Slovakia and Hungary via the Druzhba pipeline through Ukraine were halted on January 27",
+      "date": "Sat, 04 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says Iran has 48 hours to make deal or open strait",
+      "link": "https://tass.com/world/2111913",
+      "description": "Time is running out: 48 hours remain before all hell rains down on them, US President said",
+      "date": "Sat, 04 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Number of injured in Iran’s attacks on UAE rises to 217, including Russian citizens",
+      "link": "https://tass.com/emergencies/2111911",
+      "description": "The previous day, 203 injured were reported, and there were no Russian citizens among them",
+      "date": "Sat, 04 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russia strongly condemns new shelling of Bushehr NPP — Foreign Ministry",
+      "link": "https://tass.com/economy/2111909",
+      "description": "Rosatom CEO Alexey Likhachev said earlier that the global community reacted with concern to the strike near the Bushehr NPP",
+      "date": "Sat, 04 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Situation around Bushehr NPP approaching critical line — Russian MFA",
@@ -546,46 +586,6 @@
       "title": "Strikes on NPPs, surrounding areas unacceptable — IAEA on Bushehr NPP attack",
       "link": "https://tass.com/world/2111835",
       "description": "The IAEA added that it had no information about any increase in radiation levels following the incident",
-      "date": "Sat, 04 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Another strike hits area near Bushehr Nuclear Power Plant in Iran",
-      "link": "https://tass.com/world/2111831",
-      "description": "One of the facility’s security guards was killed, Iran’s AEOI said",
-      "date": "Sat, 04 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US, Israel strike petrochemical facilities in southwestern Iran",
-      "link": "https://tass.com/world/2111821",
-      "description": "As a result of the air attack by the American and Israeli enemy on Mahshahr, the Fajr-1, Fajr-2, Redzhal, and Amir Kabir petrochemical companies were hit, the deputy governor of Khuzestan Province reported",
-      "date": "Sat, 04 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel reports carrying out new strikes on air defense systems, missile sites in Iran",
-      "link": "https://tass.com/world/2111815",
-      "description": "The military added that a facility storing ballistic missiles was also hit, along with several enterprises linked to the development and production of weapons",
-      "date": "Sat, 04 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran downs over 160 US, Israeli drones since start of conflict — commander",
-      "link": "https://tass.com/world/2111809",
-      "description": "Among them are US MQ-9 and Israeli Hermes and Lucas drones, Alireza Elhami stated",
       "date": "Sat, 04 Apr 2026",
       "source": "TASS",
       "region": "ru",
