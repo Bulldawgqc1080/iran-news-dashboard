@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05 09:29 UTC",
+  "updated": "2026-04-05 10:23 UTC",
   "total": 10,
   "events": [
     {
@@ -8,10 +8,11 @@
       "title": "Trump says U.S. military has rescued airman shot down over Iran",
       "link": "https://www.npr.org/2026/04/05/nx-s1-5774368/u-s-military-rescue-airman-iran",
       "sources": [
-        "NPR News"
+        "NPR News",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-04-04",
@@ -27,10 +28,10 @@
     {
       "date": "2026-04-03",
       "dateDisplay": "Apr 03, 2026",
-      "title": "Iranians are leaving the country just to get internet",
-      "link": "https://www.npr.org/2026/04/03/nx-s1-5753859/iranians-are-leaving-the-country-just-to-get-internet",
+      "title": "French-owned ship passes through Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
