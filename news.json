@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-05 21:21 UTC",
+  "updated": "2026-04-05 22:20 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "US airman rescued after his fighter jet was shot down in Iran",
+      "link": "https://www.npr.org/2026/04/05/nx-s1-5774485/us-airman-rescued-after-his-fighter-jet-was-shot-down-in-iran",
+      "description": "NPR's Tom Bowman reports on the race to rescue a U.S. airman after his fighter jet was shot down.",
+      "date": "Sun, 05 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump unleashes curse-filled social media rant at Iran after U.S. rescues colonel",
       "link": "https://www.npr.org/2026/04/05/nx-s1-5774368/iran-war-updates",
@@ -33,19 +43,9 @@
       "bias": "Low"
     },
     {
-      "title": "Trump's criticism of NATO raises questions of whether — or how — the U.S. could leave",
-      "link": "https://www.npr.org/2026/04/03/nx-s1-5771619/trumps-criticism-of-nato-raises-questions-of-whether-or-how-the-u-s-could-leave",
-      "description": "President Trump has complained that some NATO states aren't letting him use bases in the war against Iran. His criticism has left many wondering if the U.S. may try to withdraw from the alliance.",
-      "date": "Fri, 03 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "What we know about downed F-15 jet and US airmen's rescue",
-      "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "description": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+      "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
+      "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
       "date": "Sun, 05 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -53,10 +53,30 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Search for missing airman presents serious test for US",
-      "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
-      "description": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
-      "date": "Sat, 04 Apr 2026",
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "date": "Sun, 05 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+      "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+      "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+      "date": "Sun, 05 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
+      "link": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on.",
+      "date": "Sun, 05 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -167,26 +187,6 @@
       "link": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
       "description": "Yvette Cooper said coordinated diplomatic and economic measures are required to reopen the shipping lane.",
       "date": "Thu, 02 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says Iran war objectives 'nearing completion' in address to nation",
-      "link": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president's first televised address of the conflict with Iran did little to quell uneasy markets.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "When will the Iran war end? Tracing the Trump administration's timelines",
-      "link": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
-      "description": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
-      "date": "Fri, 03 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -443,6 +443,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Passage via Strait of Hormuz will never be the same, especially for US and Israel — IRGC",
+      "link": "https://tass.com/world/2112155",
+      "description": "The military say that the IRGC Navy is completing the correspondent operational preparations",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "UK Navy reports critical situation in Persian Gulf region",
       "link": "https://tass.com/world/2112153",
       "description": "27 attacks on ships and port infrastructure have been reported since March 1, and the number of ships passing through the Strait of Hormuz daily has dropped from 138 to eight",
@@ -576,16 +586,6 @@
       "title": "At least three people killed in missile attack in southwest Iran",
       "link": "https://tass.com/world/2111971",
       "description": "The governor of the Kohgiluyeh and Boyer-Ahmad Province says that the exact number of dead and injured people can be significantly higher",
-      "date": "Sun, 05 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Explosions rock Isfahan in Central Iran — TV",
-      "link": "https://tass.com/world/2111967",
-      "description": "According to Al Hadath, the strikes are delivered by US and Israeli forces",
       "date": "Sun, 05 Apr 2026",
       "source": "TASS",
       "region": "ru",
