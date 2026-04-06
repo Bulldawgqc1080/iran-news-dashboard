@@ -15,14 +15,14 @@
     "us": {
       "killed": {
         "value": 13,
-        "asOf": "2026-04-01T23:01:11.387Z",
-        "sourceId": "dod-centcom-rss",
-        "confidence": "high"
+        "asOf": "2026-03-13T12:00:00Z",
+        "sourceId": "dod-centcom",
+        "confidence": "medium"
       },
       "wounded": {
-        "value": 140,
-        "asOf": "2026-03-14T18:24:26.819Z",
-        "sourceId": "dod-centcom-rss",
+        "value": 5,
+        "asOf": "2026-03-01T14:30:00Z",
+        "sourceId": "dod-centcom",
         "confidence": "medium"
       },
       "asOf": "2026-03-13T12:00:00Z"
@@ -43,26 +43,26 @@
     },
     "iranCivilians": {
       "killed": {
-        "minReported": 1255,
-        "maxReported": 1800,
-        "asOf": "2026-03-14T17:55:42.727Z",
+        "minReported": 2100,
+        "maxReported": 2200,
+        "asOf": "2026-04-03T00:00:00Z",
         "sourceIds": [
           "ocha"
         ],
         "confidence": "medium"
       },
       "wounded": {
-        "minReported": 12000,
-        "maxReported": 16500,
-        "asOf": "2026-03-14T17:55:42.727Z",
+        "minReported": 27900,
+        "maxReported": 32000,
+        "asOf": "2026-04-03T00:00:00Z",
         "sourceIds": [
-          "unhcr"
+          "ocha"
         ],
         "confidence": "medium"
       },
-      "killedMin": 1255,
-      "woundedMin": 12000,
-      "asOf": "2026-03-13T12:00:00Z"
+      "killedMin": 2100,
+      "woundedMin": 27900,
+      "asOf": "2026-04-03T00:00:00Z"
     }
   },
   "energy": {

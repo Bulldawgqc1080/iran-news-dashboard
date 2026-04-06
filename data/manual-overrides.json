@@ -1,1 +1,24 @@
-{}
+{
+  "casualties": {
+    "iranCivilians": {
+      "killed": {
+        "minReported": 2100,
+        "maxReported": 2200,
+        "asOf": "2026-04-03T00:00:00Z",
+        "sourceIds": [
+          "ocha"
+        ],
+        "confidence": "medium"
+      },
+      "wounded": {
+        "minReported": 27900,
+        "maxReported": 32000,
+        "asOf": "2026-04-03T00:00:00Z",
+        "sourceIds": [
+          "ocha"
+        ],
+        "confidence": "medium"
+      }
+    }
+  }
+}
