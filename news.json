@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06 06:24 UTC",
+  "updated": "2026-04-06 08:17 UTC",
   "total": 60,
   "stories": [
     {
@@ -183,9 +183,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: More than 25 killed in new US-Israeli strikes on Iran",
+      "title": "'Hit by both sides': US war on Iran threatens Iraq's 'careful strategy of multi-alignment'",
+      "link": "https://www.france24.com/en/hit-by-both-sides-us-war-on-iran-threatens-iraq-s-careful-strategy-of-multi-alignment",
+      "description": "Catherine Viette is pleased to welcome Dr Renad Mansour, Deputy Director for the Middle East and North Africa Programme and Director of the Iraq Initiative at Chatham House. For years, Iraq has pursued a strategy of multi-alignment, explains Dr. Mansour, carefully maintaining rel...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Iran Revolutionary Guards’ intelligence chief Khademi killed in strikes",
       "link": "https://www.france24.com/en/middle-east/20260406-middle-east-war-live-iran-vows-harsh-response-after-usa-trump-threatens-civilian-targets",
-      "description": "More than 25 people, including at least six children, were killed overnight into Monday as the United States and Israel carried out a new wave of air strikes on Iran, local and state media reported. A residential area in Tehran was among the many targets. Follow our liveblog for ...",
+      "description": "The head of ‌the Revolutionary Guards’ intelligence ‌organisation, Majid Khademi, was on Monday killed in US-Israeli air strikes. Khademi “was martyred in the criminal terrorist attack by the American-Zionist enemy ... at dawn today\", the Guards announced in a post on their Teleg...",
       "date": "Mon, 06 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -261,6 +271,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war: What is happening on day 38 of US-Israeli attacks?",
+      "link": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
+      "description": "Tensions continue after Trump&#039;s threat on Truth Social for Iran to reopen the Strait of Hormuz.",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "A new regional order for the Strait of Hormuz",
@@ -363,16 +383,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Iranian missile strikes industrial area in southern Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss",
-      "description": "Video captured the moment an Iranian missile hit the Ramat Hovav industrial area in southern Israel.",
-      "date": "Sun, 05 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Strait of Hormuz stays sticking point as ceasefire remains elusive",
       "link": "https://www.dawn.com/news/1988918/strait-of-hormuz-stays-sticking-point-as-ceasefire-remains-elusive",
       "description": "• Trump warns power plants, bridges to be attacked on Tuesday, hopeful for Hormuz deal; Iran wants world to ‘act now’ to prevent ‘war crime’ • Iranian official says Hormuz strait will be opened only after payment of war damages • China, Russia call for ceasefire; Lavrov tells Was...",
@@ -443,150 +453,140 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Tehran says Islamabad talks depend on terms and conditions of any negotiations",
-      "link": "https://www.dawn.com/news/1988741/tehran-says-islamabad-talks-depend-on-terms-and-conditions-of-any-negotiations",
-      "description": "https://www.dawn.com/news/1988683",
-      "date": "Sun, 05 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "‘This is all embarrassing and juvenile’: Trump draws criticism for fiery, expletive-laden message on Iran",
-      "link": "https://www.dawn.com/news/1988867/this-is-all-embarrassing-and-juvenile-trump-draws-criticism-for-fiery-expletive-laden-message-on-iran",
-      "description": "US President Donald Trump did not take a break from his polarising rhetoric on Easter Sunday, delivering an expletive-laden attack on Iran that sparked criticism on Capitol Hill and beyond. In his message, he warned Iran that “you’ll be living in hell” if the Strait of Hormuz was...",
+      "title": "Iran condemns attack on its heavy water facility as assault on science",
+      "link": "https://tass.com/world/2112231",
+      "description": "Despite enemy strikes, \"neither scientific progress nor the desire to serve peace and health globally will stop\" in Iran, the Atomic Energy Organization of Iran stated",
       "date": "Mon, 06 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump asks Tehran to ‘make a deal or open up’ Hormuz; warns he would ‘rain down hell’ on Iran",
-      "link": "https://www.dawn.com/news/1988738/trump-asks-tehran-to-make-a-deal-or-open-up-hormuz-warns-he-would-rain-down-hell-on-iran",
-      "description": "https://www.dawn.com/news/1988682/trump-warns-of-hell-as-iran-fights-back",
-      "date": "Sun, 05 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli strikes hit hospital, homes in south Lebanon",
-      "link": "https://www.dawn.com/news/1988669/israeli-strikes-hit-hospital-homes-in-south-lebanon",
-      "description": "• UN official says Israeli forces destroy 17 surveillance cameras linked agency’s office in Naqura• Indonesia receives bodies of three peacekeepers slain by Israel BEIRUT: Israel’s military renewed its strikes on the southern Lebanese city of Tyre on Saturday, severely damaging b...",
-      "date": "Sun, 05 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "European drivers choke on rising diesel prices",
-      "link": "https://www.dawn.com/news/1988670/european-drivers-choke-on-rising-diesel-prices",
-      "description": "PARIS: The price of diesel fuel has rocketed by more than 30 per cent across Europe since the start of the Middle East war highlighting the continent’s dependence on imported energy and the lingering prominence of diesel on the car market. The Easter holiday weekend across Europe...",
-      "date": "Sun, 05 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US arrests relatives of top Iranian commander assassinated in 2020 strike on Baghdad",
-      "link": "https://www.dawn.com/news/1988582/us-arrests-relatives-of-top-iranian-commander-assassinated-in-2020-strike-on-baghdad",
-      "description": "Two family members of Iranian general Qassem Soleimani, who was assassinated in 2020, have been arrested in the United States after their residency permits were rescinded, the State Department said on Saturday. “Last night, the niece and grandniece of deceased Iranian Revolutiona...",
-      "date": "Sat, 04 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Virginia Giuffre’s family urges King Charles to meet Epstein survivors during US visit",
-      "link": "https://www.dawn.com/news/1988577/virginia-giuffres-family-urges-king-charles-to-meet-epstein-survivors-during-us-visit",
-      "description": "The family of Jeffrey Epstein accuser Virginia Giuffre on Saturday urged Britain’s King Charles to meet with survivors during his state visit to the United States later this month, saying the trip coincides with the anniversary of her death. In a statement shared with Reuters, Sk...",
-      "date": "Sat, 04 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran, US race to find crew member of crashed American fighter jet",
-      "link": "https://www.dawn.com/news/1988487/iran-us-race-to-find-crew-member-of-crashed-american-fighter-jet",
-      "description": "Iran’s forces were hunting on Saturday for a missing United States pilot from one of two warplanes downed over Iran and the Gulf, officials from both sides said, while two airmen were rescued. The incidents show the risks still facing US and Israeli aircraft over Iran as the war ...",
-      "date": "Sat, 04 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war LIVE: Iran ramps up attacks after Trump warning; Israeli strike kills 25 in Iran",
-      "link": "https://www.thehindu.com/news/international/us-israel-iran-war-trump-strait-of-hormuz-live-updates-april-6-2026/article70828678.ece",
-      "description": "Israel, Kuwait and the United Arab Emirates reported a barrage of missile and drone strikes early on Monday, April 6; Iranian presidential spokesperson, Seyyed Mohammad Mehdi Tabatabaei, said on social media that the Strait of Hormuz can reopen only if some transit revenues compe...",
-      "date": "Mon, 06 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli rescuers search for missing in building strike by Iranian missile, two dead",
-      "link": "https://www.thehindu.com/news/international/iran-missile-strike-on-israel-haifa-monday-april-6/article70829094.ece",
-      "description": "Israel's emergency service, Magen David Adom, said four people were wounded in the strike, including a 10-month-old baby who suffered a head injury.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Why did Iran war not affect China’s energy security so far?",
-      "link": "https://www.thehindu.com/news/international/why-did-iran-war-not-affect-chinas-energy-security-so-far/article70827707.ece",
-      "description": "How has China diversified its energy sources and consumption patterns to strengthen energy security?",
-      "date": "Mon, 06 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
-      "link": "https://tass.com/pressreview/1969589",
-      "description": "Top stories from the Russian press on Friday, June 6th",
-      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
-      "link": "https://tass.com/world/1969663",
-      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
-      "date": "Fri, 06 Jun 2025",
+      "title": "SCO advocates for political, diplomatic settlement around Iran — secretary-general",
+      "link": "https://tass.com/world/2112213",
+      "description": "Nurlan Yermekbayev noted that the SCO issued a political statement expressing serious concern about the ongoing events",
+      "date": "Mon, 06 Apr 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
-      "link": "https://tass.com/world/1969613",
-      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
-      "date": "Fri, 06 Jun 2025",
+      "title": "US, Israel prepare to carry out massive strikes on Iranian energy facilities — media",
+      "link": "https://tass.com/world/2112205",
+      "description": "Donald Trump earlier threatened to target energy and civilian infrastructure in Iran unless Tehran reopened the Strait of Hormuz by April 6",
+      "date": "Mon, 06 Apr 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
-      "link": "https://tass.com/world/1969533",
-      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
-      "date": "Thu, 05 Jun 2025",
+      "title": "Six children killed in overnight strikes on Tehran — authorities",
+      "link": "https://tass.com/world/2112197",
+      "description": "The media also reported that a residential building in southeastern Tehran had been destroyed by a strike",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump doesn't rule out sending US troops to Iran — The Hill",
+      "link": "https://tass.com/world/2112185",
+      "description": "The US could consider striking any infrastructure facilities in Iran if there is no deal, the president noted",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US has already spent over $42 bln on military operation in Iran — portal",
+      "link": "https://tass.com/world/2112179",
+      "description": "The portal's calculations are based on an estimate stated during a Pentagon briefing for the US Congress on March 10",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Passage via Strait of Hormuz will never be the same, especially for US and Israel — IRGC",
+      "link": "https://tass.com/world/2112155",
+      "description": "The military say that the IRGC Navy is completing the correspondent operational preparations",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UK Navy reports critical situation in Persian Gulf region",
+      "link": "https://tass.com/world/2112153",
+      "description": "27 attacks on ships and port infrastructure have been reported since March 1, and the number of ships passing through the Strait of Hormuz daily has dropped from 138 to eight",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UK Defense Ministry denies reports of its destroyer being hit off Lebanese coast",
+      "link": "https://tass.com/world/2112149",
+      "description": "Israel’s Channel 14 earlier cited assessments that a missile fired by Hezbollah was able to damage the ship",
+      "date": "Sun, 05 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Hezbollah mistakenly fires at UK vessels — Israeli TV",
+      "link": "https://tass.com/world/2112137",
+      "description": "Israel’s Channel 14 pointed out that preliminary Israeli assessments indicate the missile may have damaged the ship",
+      "date": "Sun, 05 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Tehran to strike enemy infrastructure similar to that attacked in Iran — top diplomat",
+      "link": "https://tass.com/world/2112135",
+      "description": "Foreign Ministry Spokesman Esmaeil Baghaei said that Iran will attack US infrastructure in the Persian Gulf region",
+      "date": "Sun, 05 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Top Russian, Chinese diplomats call for de-escalation of situation in Persian Gulf — MFA",
+      "link": "https://tass.com/politics/2112131",
+      "description": "According to the statement, in the context of Middle East issues, Russian Foreign Minister Sergey Lavrov and his Chinese counterpart Wang Yi discussed ways to strengthen Russian-Chinese cooperation in various international forums, especially at the UN",
+      "date": "Sun, 05 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russia, Iran emphasize need to stop reckless attacks on Bushehr NPP — Foreign Ministry",
+      "link": "https://tass.com/politics/2112129",
+      "description": "The ministry noted that the conversation \"emphasized the inadmissibility of creating threats to the lives and health\" of the plant’s personnel and \"the risks of a radioactive disaster for the entire region\"",
+      "date": "Sun, 05 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran announces new wave of attacks on Israeli, US military targets in region",
+      "link": "https://tass.com/military-operation/2112123",
+      "description": "According to its information, the strikes targeted a gathering of US servicemen in the UAE, an Israeli vessel in the port of Jebel Ali in the UAE, and a US military base in Kuwait",
+      "date": "Sun, 05 Apr 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
