@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-06 09:58 UTC",
+  "updated": "2026-04-06 10:56 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Iran pushes back against Trump's deadline",
+      "link": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
+      "description": "Iran's top officials pushed back against President Trump's deadline to open the Strait of Hormuz, striking a defiant tone as the warring sides traded missile attacks.",
+      "date": "Mon, 06 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "US airman rescued after his fighter jet was shot down in Iran",
       "link": "https://www.npr.org/2026/04/05/nx-s1-5774485/us-airman-rescued-after-his-fighter-jet-was-shot-down-in-iran",
@@ -273,26 +283,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "War in the Middle East: the US rescues missing airman from Iran",
-      "link": "https://www.france24.com/en/war-in-the-middle-east-the-us-rescues-missing-airman-from-iran",
-      "description": "Jim Townsend, Former US Deputy Assistant Secretary of Defense fir European and NATO Policy, is our guest.",
-      "date": "Sun, 05 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US war on Iran: Trump pressures allies in war effort but offers 'no role in strategy'",
-      "link": "https://www.france24.com/en/video/20260405-us-war-on-iran-trump-pressures-allies-in-war-effort-but-offers-no-role-in-strategy-1",
-      "description": "Kethevane Gorjestani is pleased to welcome Ian Lesser, Author and Senior Director for Foreign and Security Policy at the German Marshall Fund (GMF). According to Mr. Lesser, the current crisis in the Middle East has sparked a systemic shock to the global order. What we are witnes...",
-      "date": "Sun, 05 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Yemen’s civilians fear fallout after Houthis enter Iran war",
       "link": "https://www.aljazeera.com/news/2026/4/6/yemens-civilians-fear-fallout-after-houthis-enter-iran-war?traffic_source=rss",
       "description": "Fears of air strikes and rising prices dominate everyday life in Sanaa as Yemen becomes embroiled in regional conflict.",
@@ -353,9 +343,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa",
+      "title": "Iran war live: Tehran says response to ceasefire proposals formulated",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss",
-      "description": "Iranian officials dismiss Trump&#039;s ultimatum, condemn latest threats as &#039;incitement to war crimes&#039;.",
+      "description": "Iran says no direct talks during escalating US-Israeli attacks as Trump&#039;s Hormuz deadline looms.",
       "date": "Mon, 06 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -366,26 +356,6 @@
       "title": "Has the humanitarian crisis in Gaza been ignored?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
       "description": "Conditions in Gaza worsen amid the United States-Israel war on Iran.",
-      "date": "Sun, 05 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump threatens Iran in expletive-filled social media post",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/trump-threatens-iran-in-expletive-filled-social-media-post?traffic_source=rss",
-      "description": "Donald Trump unleashed a vulgar online tirade against Iran’s leaders as his deadline for reopening the Strait of Hormuz.",
-      "date": "Sun, 05 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel continues deadly attacks on Gaza while striking Iran, Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israel-continues-deadly-attacks-on-gaza-while-striking-iran-lebanon?traffic_source=rss",
-      "description": "Israel has kept up its attacks on Gaza while striking Iran and Lebanon, killing at least four Palestinians on Sunday.",
       "date": "Sun, 05 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -451,6 +421,66 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US president weighs broader cabinet shake-up",
+      "link": "https://www.dawn.com/news/1988668/us-president-weighs-broader-cabinet-shake-up",
+      "description": "WASHINGTON: US President Donald Trump is considering a bro­ader cabinet shake-up in the wake of Attorney General Pam Bondi’s removal this week, as he grows increasingly frustrated with the political fallout from the war with Iran, five people familiar with internal White House di...",
+      "date": "Sun, 05 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Tehran says Islamabad talks depend on terms and conditions of any negotiations",
+      "link": "https://www.dawn.com/news/1988741/tehran-says-islamabad-talks-depend-on-terms-and-conditions-of-any-negotiations",
+      "description": "https://www.dawn.com/news/1988683",
+      "date": "Sun, 05 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘This is all embarrassing and juvenile’: Trump draws criticism for fiery, expletive-laden message on Iran",
+      "link": "https://www.dawn.com/news/1988867/this-is-all-embarrassing-and-juvenile-trump-draws-criticism-for-fiery-expletive-laden-message-on-iran",
+      "description": "US President Donald Trump did not take a break from his polarising rhetoric on Easter Sunday, delivering an expletive-laden attack on Iran that sparked criticism on Capitol Hill and beyond. In his message, he warned Iran that “you’ll be living in hell” if the Strait of Hormuz was...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump asks Tehran to ‘make a deal or open up’ Hormuz; warns he would ‘rain down hell’ on Iran",
+      "link": "https://www.dawn.com/news/1988738/trump-asks-tehran-to-make-a-deal-or-open-up-hormuz-warns-he-would-rain-down-hell-on-iran",
+      "description": "https://www.dawn.com/news/1988682/trump-warns-of-hell-as-iran-fights-back",
+      "date": "Sun, 05 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran's nuclear agency head describes strikes on Bushehr NPP as war crime",
+      "link": "https://tass.com/world/2112303",
+      "description": "Mohammad Eslami also criticized the lack of action by the IAEA and Rafael Grossi in response to the attacks, noting that simple expressions of \"deep concern\" without clear condemnation are insufficient and only spur further strikes",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Press review: US, Iran threats escalate as Britain disrupts Ukraine peace efforts",
+      "link": "https://tass.com/pressreview/2112217",
+      "description": "Top stories from the Russian press on Monday, April 6th",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran conflict depletes Patriot, THAAD interceptor stocks — newspaper",
@@ -557,36 +587,6 @@
       "link": "https://tass.com/world/2112179",
       "description": "The portal's calculations are based on an estimate stated during a Pentagon briefing for the US Congress on March 10",
       "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Passage via Strait of Hormuz will never be the same, especially for US and Israel — IRGC",
-      "link": "https://tass.com/world/2112155",
-      "description": "The military say that the IRGC Navy is completing the correspondent operational preparations",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "UK Navy reports critical situation in Persian Gulf region",
-      "link": "https://tass.com/world/2112153",
-      "description": "27 attacks on ships and port infrastructure have been reported since March 1, and the number of ships passing through the Strait of Hormuz daily has dropped from 138 to eight",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "UK Defense Ministry denies reports of its destroyer being hit off Lebanese coast",
-      "link": "https://tass.com/world/2112149",
-      "description": "Israel’s Channel 14 earlier cited assessments that a missile fired by Hezbollah was able to damage the ship",
-      "date": "Sun, 05 Apr 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
