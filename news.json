@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06 19:44 UTC",
+  "updated": "2026-04-06 20:27 UTC",
   "total": 60,
   "stories": [
     {
@@ -23,9 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "Iran pushes back against Trump's deadline to open the Strait of Hormuz",
+      "title": "Iran rejects a U.S. ceasefire plan as Trump again threatens to bomb its infrastructure",
       "link": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
-      "description": "Iran's top officials pushed back against a ceasefire plan and President Trump's deadline to open the Strait of Hormuz, striking a defiant tone as the warring sides traded missile attacks.",
+      "description": "Iran's top officials pushed back against a U.S. ceasefire plan and President Trump's deadline to open the Strait of Hormuz, striking a defiant tone as the warring sides traded missile attacks.",
       "date": "Mon, 06 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -203,6 +203,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Dozens killed in Easter attacks in Nigeria",
+      "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
+      "description": "In tonight's edition, dozens of people have been killed in multiple attacks in Nigeria on Easter weekend. Also, disruption to shipping routes linked to the Iran war has left about eight million kilograms of tea stuck in warehouses in Kenya. And in the DRC, tens of thousands of ju...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump says Iran could be 'taken out' on Tuesday",
       "link": "https://www.france24.com/en/trump-says-iran-could-be-taken-out-on-tuesday",
       "description": "U.S. President ​Donald Trump on Monday told reporters that Iran could be taken out in one night, \"and that night might be tomorrow night,\" warning Tehran it had to make a deal by Tuesday night or face wider bombing raids. FRANCE 24's Reza Sayah reports from Tehran.",
@@ -213,8 +223,8 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump ramps up threats to devastate Iran as he touts rescue mission",
-      "link": "https://www.france24.com/en/live-news/20260406-trump-says-iran-ceasefire-proposal-very-significant-step",
+      "title": "Trump steps up Iran threats, highlights successful rescue mission",
+      "link": "https://www.france24.com/en/americas/20260406-trump-steps-up-iran-threats-highlights-successful-rescue-mission",
       "description": "US President Donald Trump said Monday he would lay waste to every bridge and power plant in Iran if it fails to bend to his demands, as he touted the high-risk operation that rescued two downed airmen.",
       "date": "Mon, 06 Apr 2026",
       "source": "France 24",
@@ -283,14 +293,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US president Donald Trump warns Tehran to reopen Hormuz or face \"hell\"",
-      "link": "https://www.france24.com/en/us-president-donald-trump-warns-tehran-to-reopen-hormuz-or-face-hell",
-      "description": "Iran and the United States received a draft proposal late Sunday calling for a 45-day ceasefire and the reopening of the Strait of Hormuz.",
+      "title": "Trump claims Iranians begging US to keep bombing Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss",
+      "description": "Donald Trump claimed the US has “numerous intercepts” of Iranians pleading for a continuation of bombing.",
       "date": "Mon, 06 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Video: Trump threatens to jail reporter over Iran airman rescue leak",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss",
+      "description": "Trump demanded the journalist who reported on the rescue of the US airman in Iran reveal their source.",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Rescuers search for survivors after strikes hit homes in Iran",
@@ -423,28 +443,8 @@
       "bias": "Medium"
     },
     {
-      "title": "Has Trump confirmed Iran’s claim that protesters were US-armed?",
-      "link": "https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed?traffic_source=rss",
-      "description": "US president says Washington armed Kurdish Iranian opposition groups during the January demonstrations.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
-      "link": "https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade?traffic_source=rss",
-      "description": "If the chokepoint were shut, along with the Strait of Hormuz, a quarter of the world&#039;s energy supply would be blocked.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says Vance, Witkoff, Kushner talking with intermediaries in Pakistan; could ‘take down Iran tomorrow’",
-      "link": "https://www.dawn.com/news/1989227/trump-says-vance-witkoff-kushner-talking-with-intermediaries-in-pakistan-could-take-down-iran-tomorrow",
+      "title": "Trump says Vance, Witkoff, Kushner talking with intermediaries in Pakistan; Iran could be ‘taken out tomorrow’",
+      "link": "https://www.dawn.com/news/1989227/trump-says-vance-witkoff-kushner-talking-with-intermediaries-in-pakistan-iran-could-be-taken-out-tomorrow",
       "description": "US President Donald Trump asserted on Monday that Iran could be taken out in one night, “and that night might be tomorrow night”, even as he said shortly afterwards that US officials, including Vice President JD Vance, was talking to intermediaries in Pakistan. His statements fro...",
       "date": "Tue, 07 Apr 2026",
       "source": "Dawn",
@@ -463,130 +463,130 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump calls opening of Hormuz Strait 'very big priority'",
-      "link": "https://tass.com/economy/2112643",
-      "description": "The US president also suggested that if Washington takes control of the Strait of Hormuz, it may well charge a toll for passage through it",
+      "title": "US Democratic lawmakers visit Cuba, call on Trump to ‘bring the rhetoric down’",
+      "link": "https://www.dawn.com/news/1989141/us-democratic-lawmakers-visit-cuba-call-on-trump-to-bring-the-rhetoric-down",
+      "description": "Two Democrats from the US House of Representatives visited Cuba last week, the first such delegation to go to the island this year since US President Donald Trump imposed a de facto oil blockade in a bid to bring Cuba’s communist-run government to its knees. Congressional represe...",
       "date": "Mon, 06 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Peace process ongoing’: FO neither confirms nor denies reports of Pakistan proposing framework to end Iran war",
+      "link": "https://www.dawn.com/news/1989118/peace-process-ongoing-fo-neither-confirms-nor-denies-reports-of-pakistan-proposing-framework-to-end-iran-war",
+      "description": "The Foreign Office said on Monday that the peace process is “ongoing” but declined to confirm or deny reports that Pakistan has proposed a framework to end the US-Israel war on Iran, according to state broadcaster Pakistan TV. “There have been several reports of a 45-day ceasefir...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Strait of Hormuz stays sticking point as ceasefire remains elusive",
+      "link": "https://www.dawn.com/news/1988918/strait-of-hormuz-stays-sticking-point-as-ceasefire-remains-elusive",
+      "description": "• Trump warns power plants, bridges to be attacked on Tuesday, hopeful for Hormuz deal; Iran wants world to ‘act now’ to prevent ‘war crime’ • Iranian official says Hormuz strait will be opened only after payment of war damages • China, Russia call for ceasefire; Lavrov tells Was...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "PM Shehbaz ‘deeply’ concerned after 3 Pakistani nationals injured in UAE amid Iran conflict",
+      "link": "https://www.dawn.com/news/1989058/pm-shehbaz-deeply-concerned-after-3-pakistani-nationals-injured-in-uae-amid-iran-conflict",
+      "description": "Prime Minister Shehbaz Sharif on Monday expressed concern over an incident at the Khor Fakkan port in the United Arab Emirates, where a missile interception injured three Pakistani nationals. Gulf countries, including the UAE, have come under attack in Iran’s retaliatory campaign...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "11 killed in Israeli airstrikes in Lebanon",
+      "link": "https://www.dawn.com/news/1988895/11-killed-in-israeli-airstrikes-in-lebanon",
+      "description": "JERUSALEM: An Israeli airstrike on Kfarhata, a village in south Lebanon, killed seven people on Sunday, including a 4-year-old child, Lebanon’s health ministry said in a statement. Another Israeli attack on the Jnah neighbourhood in Beirut killed four people and injured 39 others...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "AI at war: 5 things to know about Project Maven",
+      "link": "https://www.dawn.com/news/1988898/ai-at-war-5-things-to-know-about-project-maven",
+      "description": "WASHINGTON: A Pentagon AI programme called Project Maven is at the centre of the US strikes against Iran and potentially one of the most consequential transformations of modern warfare. What is it? Project Maven is the Pentagon’s flagship artificial intelligence programme, launch...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US forces rescue 2 airmen downed in Iran; Trump says crew member injured but ‘safe’",
+      "link": "https://www.dawn.com/news/1988789/us-forces-rescue-2-airmen-downed-in-iran-trump-says-crew-member-injured-but-safe",
+      "description": "United States President Donald Trump said on Sunday that US forces had safely recovered a second airman downed in Iran, calling it “one of the most daring search and rescue operations in US history”. The announcement came as Iran launched missiles and drones at Israel and Kuwait ...",
+      "date": "Sun, 05 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "EU urged to drop sanctions on import of Russian oil and gas",
+      "link": "https://www.dawn.com/news/1988652/eu-urged-to-drop-sanctions-on-import-of-russian-oil-and-gas",
+      "description": "WARSAW: The European Union should end sanctions on Russian oil and gas imports, take steps to restore Druzhba oil pipeline flows and end the war in Ukraine to tackle the energy crisis stemming from the war in Iran, Slovak Prime Minister Robert Fico said on Saturday. Fico said in ...",
+      "date": "Sun, 05 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US president weighs broader cabinet shake-up",
+      "link": "https://www.dawn.com/news/1988668/us-president-weighs-broader-cabinet-shake-up",
+      "description": "WASHINGTON: US President Donald Trump is considering a bro­ader cabinet shake-up in the wake of Attorney General Pam Bondi’s removal this week, as he grows increasingly frustrated with the political fallout from the war with Iran, five people familiar with internal White House di...",
+      "date": "Sun, 05 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Tehran says Islamabad talks depend on terms and conditions of any negotiations",
+      "link": "https://www.dawn.com/news/1988741/tehran-says-islamabad-talks-depend-on-terms-and-conditions-of-any-negotiations",
+      "description": "https://www.dawn.com/news/1988683",
+      "date": "Sun, 05 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘This is all embarrassing and juvenile’: Trump draws criticism for fiery, expletive-laden message on Iran",
+      "link": "https://www.dawn.com/news/1988867/this-is-all-embarrassing-and-juvenile-trump-draws-criticism-for-fiery-expletive-laden-message-on-iran",
+      "description": "US President Donald Trump did not take a break from his polarising rhetoric on Easter Sunday, delivering an expletive-laden attack on Iran that sparked criticism on Capitol Hill and beyond. In his message, he warned Iran that “you’ll be living in hell” if the Strait of Hormuz was...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
+      "link": "https://tass.com/world/1968185",
+      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Trump hopes he doesn't have to destroy more of Iran's infrastructure",
-      "link": "https://tass.com/world/2112647",
-      "description": "The US president that he believed Iran was negotiating in good faith",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says he would prefer to seize Iran’s oil, but Americans want US forces home",
-      "link": "https://tass.com/world/2112635",
-      "description": "The US president added that the American people would like to see America win",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump threatens to destroy all Iran’s bridges, power plants",
-      "link": "https://tass.com/world/2112623",
-      "description": "The Islamic Republic will have nothing, the US leader noted",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US leader says he does not consider destruction of civilian facilities in Iran criminal",
-      "link": "https://tass.com/world/2112609",
-      "description": "Allowing a sick country with demented leadership to have a nuclear weapon is a war crime, Donald Trump said",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US could leave Iran 'right now,' there are many options — US leader",
-      "link": "https://tass.com/world/2112585",
-      "description": "Iran cannot have a nuclear weapon, Donald Trump emphasized",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US, Israel lost 11 aircraft while searching for F-15 pilots in Iran — MWM",
-      "link": "https://tass.com/world/2112569",
-      "description": "As MWM notes, this scale of losses demonstrates the significant risks associated with operating aircraft over Iranian territory",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel attacks several airports in Tehran — IDF",
-      "link": "https://tass.com/world/2112521",
-      "description": "\"Dozens of Israeli Air Force fighter jets struck numerous aerial assets, including aircraft and helicopters, as well as additional military infrastructure at three airports across Tehran: Bahram Airport, Mehrabad Airport, and Azmayesh Airport,\" the Israel Defense Forces said",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Forty-five day truce just one of many ideas US, Iran discussing — White House",
-      "link": "https://tass.com/world/2112543",
-      "description": "According to the official, the truce has not been approved by US President Donald Trump",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Central Israel comes under missile attack from Iran, explosions heard in Tel Aviv",
-      "link": "https://tass.com/world/2112465",
-      "description": "hortly before that, the Israel Defense Forces said that it had identified missile launches from Iran",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian army ready to fight as long as leaders deem necessary — agency",
-      "link": "https://tass.com/world/2112459",
-      "description": "The way of conducting military operations is structured in such a way that it is possible to wage war in the long term, army representative Mohammad Akraminia said, as quoted by Fars",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Zaporozhye plant staff ready to share best practices with Iran's Bushehr plant",
-      "link": "https://tass.com/society/2112447",
-      "description": "Communications Director Yevgenia Yashina said it is good to know how to ensure reactor safety in a situation where there's no power, how to manage the plant in the face of external threats, protecting cooling systems",
-      "date": "Mon, 06 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "All countries to pay toll for passing through Strait of Hormuz — agency",
-      "link": "https://tass.com/world/2112433",
-      "description": "According to the report, the new rules would strictly apply to all non-hostile countries, including friendly ones, as part of Iran’s strategy to partially offset damage from enemy aggression by collecting a security toll in the Strait of Hormuz",
-      "date": "Mon, 06 Apr 2026",
+      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
+      "link": "https://tass.com/world/1968163",
+      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
