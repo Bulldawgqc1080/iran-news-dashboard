@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06 01:21 UTC",
+  "updated": "2026-04-06 04:35 UTC",
   "total": 60,
   "stories": [
     {
@@ -26,16 +26,6 @@
       "title": "U.S. searches for airman shot down in Iran, while Trump posts ultimatum",
       "link": "https://www.npr.org/2026/04/04/nx-s1-5773100/u-s-searches-for-airman-shot-down-in-iran-while-trump-posts-ultimatum",
       "description": "At the start of the sixth week of war, U.S. forces search for a missing airman and President Trump reiterates his ultimatum for Iran to open the Straight of Hormuz.",
-      "date": "Sat, 04 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Iran war enters its 6th week as military searches for downed jet crew member",
-      "link": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates",
-      "description": "The war in Iran enters its 6th week as the search continues for the missing U.S. service member who bailed out of a fighter jet shot down over Iran on Friday.",
       "date": "Sat, 04 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -193,6 +183,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: Iran vows 'devastating' response after Trump threatens civilian targets",
+      "link": "https://www.france24.com/en/middle-east/20260406-middle-east-war-live-iran-vows-harsh-response-after-usa-trump-threatens-civilian-targets",
+      "description": "Iran’s central military command said Monday that any attacks on civilian targets would trigger a “much more devastating” response. The statement followed a warning from US President Donald Trump, who threatened to target Iran’s civilian infrastructure if Tehran does not agree to ...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel launches new strikes on Lebanon, forces closure of Syria border crossing",
       "link": "https://www.france24.com/en/middle-east/20260405-israel-launches-new-strikes-on-lebanon-forces-closure-of-syria-border-crossing",
       "description": "Israeli airstrikes on Beirut and southern Lebanon on Sunday killed at least 11 people, including a family of six, and wounded dozens more. The attacks also prompted Syria to temporarily close its main border crossing with Lebanon, as Israel's conflict with Hezbollah intensifies.",
@@ -273,17 +273,17 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US aviator missing after Iran shot down fighter jet has been rescued",
-      "link": "https://www.france24.com/en/us-aviator-missing-after-iran-shot-down-fighter-jet-has-been-rescued",
-      "description": "David Smith, Guardian's Washington bureau chief, is our guest.",
-      "date": "Sun, 05 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
+      "link": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss",
+      "description": "Diesel prices have more than doubled in the Southeast Asian nation amid Iran&#039;s blockade of the Strait of Hormuz.",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran war live: Tehran rejects Trump’s Tuesday deadline on Strait of Hormuz",
+      "title": "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss",
       "description": "Iranian officials dismiss Trump&#039;s ultimatum, condemn latest threats as &#039;incitement to war crimes&#039;.",
       "date": "Mon, 06 Apr 2026",
@@ -383,14 +383,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran?traffic_source=rss",
-      "description": "US political scientist John Mearsheimer argues Israel, not Iran, is the Middle East country that is ‘highly aggressive’.",
-      "date": "Sun, 05 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "Strait of Hormuz stays sticking point as ceasefire remains elusive",
+      "link": "https://www.dawn.com/news/1988918/strait-of-hormuz-stays-sticking-point-as-ceasefire-remains-elusive",
+      "description": "• Trump warns power plants, bridges to be attacked on Tuesday, hopeful for Hormuz deal; Iran wants world to ‘act now’ to prevent ‘war crime’ • Iranian official says Hormuz strait will be opened only after payment of war damages • China, Russia call for ceasefire; Lavrov tells Was...",
+      "date": "Mon, 06 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "US forces rescue 2 airmen downed in Iran; Trump says crew member injured but ‘safe’",
@@ -443,14 +443,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump asks Tehran to ‘make a deal or open up’ Hormuz; warns he would ‘rain down hell’ on Iran",
-      "link": "https://www.dawn.com/news/1988738/trump-asks-tehran-to-make-a-deal-or-open-up-hormuz-warns-he-would-rain-down-hell-on-iran",
-      "description": "https://www.dawn.com/news/1988682/trump-warns-of-hell-as-iran-fights-back",
-      "date": "Sun, 05 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Trump doesn't rule out sending US troops to Iran — The Hill",
+      "link": "https://tass.com/world/2112185",
+      "description": "The US could consider striking any infrastructure facilities in Iran if there is no deal, the president noted",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US has already spent over $42 bln on military operation in Iran — portal",
+      "link": "https://tass.com/world/2112179",
+      "description": "The portal's calculations are based on an estimate stated during a Pentagon briefing for the US Congress on March 10",
+      "date": "Mon, 06 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Passage via Strait of Hormuz will never be the same, especially for US and Israel — IRGC",
@@ -576,16 +586,6 @@
       "title": "Trump confirms rescue of second crewmember of fighter jet in Iran",
       "link": "https://tass.com/world/2112009",
       "description": "According to the US president, the serviceman was injured",
-      "date": "Sun, 05 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Two power plants in Kuwait damaged in Iranian attack — energy ministry",
-      "link": "https://tass.com/world/2111993",
-      "description": "According to the ministry, desalination units have also sustained damage",
       "date": "Sun, 05 Apr 2026",
       "source": "TASS",
       "region": "ru",
