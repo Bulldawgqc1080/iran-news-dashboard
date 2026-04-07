@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-07 20:35 UTC",
+  "updated": "2026-04-07 21:34 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Congressional Democrats raise alarm over Trump's comments on Iran",
+      "link": "https://www.npr.org/2026/04/07/g-s1-116722/congressional-democrats-raise-alarm-over-trumps-comments-on-iran",
+      "description": "Dozens of Congressional Democrats raised alarm Tuesday over President Trump's rhetoric about Iran. Most Republican lawmakers have been silent.",
+      "date": "Tue, 07 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump's deadline for an Iran deal looms. And, Artemis II crew begins the journey home",
       "link": "https://www.npr.org/2026/04/07/g-s1-116637/up-first-newsletter-iran-strait-of-hormuz-artemis-two-over-the-counter-abortion-medication",
@@ -53,30 +63,20 @@
       "bias": "Low"
     },
     {
-      "title": "Trump threatens Iran's power plants, bridges. And, Artemis II readies for lunar flyby",
-      "link": "https://www.npr.org/2026/04/06/g-s1-116535/up-first-newsletter-trump-strait-of-hormuz-artemis-two-lunar-flyby-savannah-nancy-guthrie-ada",
-      "description": "Trump threatened to bomb Iran's power plants and bridges unless it opens the Strait of Hormuz. And, NASA's Artemis II crew prepares to make its closest approach to the moon.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says",
+      "link": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+      "description": "Kataib Hezbollah says the release comes on condition that she leave Iraq immediately.",
+      "date": "Tue, 07 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran rejects a U.S. ceasefire plan as Trump again threatens to bomb its infrastructure",
-      "link": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
-      "description": "Iran's top officials pushed back against a U.S. ceasefire plan and President Trump's deadline to open the Strait of Hormuz, striking a defiant tone as the warring sides traded missile attacks.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Little sign of breakthrough as Trump's Iran deadline nears",
-      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
-      "date": "Mon, 06 Apr 2026",
+      "title": "French couple leave Iran after more than three years in jail",
+      "link": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
+      "description": "Cecile Kohler and Jacques Paris are on their way home after being allowed to leave the country, the French president says.",
+      "date": "Tue, 07 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -86,16 +86,6 @@
       "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
       "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
       "description": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
-      "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
-      "description": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
       "date": "Mon, 06 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -163,6 +153,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Little sign of breakthrough as Trump's Iran deadline nears",
+      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+      "date": "Mon, 06 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
+      "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
+      "description": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
+      "date": "Mon, 06 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
       "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
       "description": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
@@ -197,26 +207,6 @@
       "link": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
       "description": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
       "date": "Fri, 03 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Ros Atkins on…the cost of the Iran war",
-      "link": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
-      "date": "Thu, 02 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
-      "link": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "description": "There were some glaring omissions in the US president's primetime address, writes the BBC's Gary O'Donoghue.",
-      "date": "Thu, 02 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -333,6 +323,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iranians brace for possible devastation as Trump’s deadline looms",
+      "link": "https://www.aljazeera.com/news/2026/4/7/iranians-brace-for-possible-devastation-as-trumps-deadline-looms?traffic_source=rss",
+      "description": "Anxiety grips Iran with looming threats of US-led strikes targeting civilian sites, in violation of international law.",
+      "date": "Tue, 07 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How is the US-Israel war on Iran affecting Russian-Iranian relations?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/7/how-is-the-us-israel-war-on-iran-affecting-russian-iranian-relations?traffic_source=rss",
+      "description": "Moscow has been benefitting from the higher oil prices while its ally is under attack.",
+      "date": "Tue, 07 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Russia and China block UN resolution on Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/4/7/russia-and-china-block-un-resolution-on-strait-of-hormuz?traffic_source=rss",
+      "description": "A total 11 out of 15 members supported resolution, which was already watered down to evade vetoes.",
+      "date": "Tue, 07 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Pope Leo slams Trump’s threat that Iran’s ‘civilisation will die’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/pope-leo-slams-trumps-threat-that-irans-civilisation-will?traffic_source=rss",
       "description": "Pope Leo condemned Trump’s threats that Iran’s “civilisation will die”, calling the remarks “unacceptable\".",
@@ -403,64 +423,44 @@
       "bias": "Medium"
     },
     {
-      "title": "Top university says US-Israel attack targeted Iran’s progress, AI learning",
-      "link": "https://www.aljazeera.com/news/2026/4/7/top-university-says-us-israel-attack-targeted-irans-progress-ai-learning?traffic_source=rss",
-      "description": "Iran condemns systematic attacks on civilian sites, including academic hubs, as war devastates critical infrastructure.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "China, Russia veto UN resolution to reopen Strait of Hormuz",
+      "link": "https://www.dawn.com/news/1989533/china-russia-veto-un-resolution-to-reopen-strait-of-hormuz",
+      "description": "WASHINGTON: Russia and China on Tuesday vetoed a draft resolution at the United Nations Security Council for reopening the Strait of Hormuz, while Pakistan abstained. The draft resolution prepared by Bahrain, which underwent six revisions during negotiations to bridge differences...",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
-      "link": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms?traffic_source=rss",
-      "description": "Trump&#039;s threat to kill &#039;whole civilization&#039; and comments from VP have raised fears.",
+      "title": "Efforts to facilitate talks between US and Iran ongoing, Pakistani sources say",
+      "link": "https://www.dawn.com/news/1989511/efforts-to-facilitate-talks-between-us-and-iran-ongoing-pakistani-sources-say",
+      "description": "Efforts to facilitate talks between the US and Iran are still ongoing, two Pakistani sources with knowledge of the discussions told Reuters on Tuesday, as US strikes on Iran intensified and US President Donald Trump’s deadline to unleash “hell” neared. One of the sources, a senio...",
       "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/netanyahu-israel-shifting-balance-of-power-with-iran-strikes?traffic_source=rss",
-      "description": "Israeli Prime Minister Benjamin Netanyahu says Israel is intensifying strikes on Iran.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Iran launches Wave 99 of its operation targeting US, Israel — IRGC",
+      "link": "https://tass.com/world/2113309",
+      "description": "The military of the Islamic republic struck a number of targets in the UAE and Kuwait",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Fire erupts near industrial site in Saudi Arabia after Iranian strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/fire-erupts-near-industrial-site-in-saudi-arabia-after-iranian-strikes?traffic_source=rss",
-      "description": "A suspected Iranian missile attack sparked a huge fire near an industrial complex in Saudi Arabia.",
+      "title": "Shiite radicals release US journalist Kittleson abducted in Iraq",
+      "link": "https://tass.com/world/2113293",
+      "description": "Kataib Hezbollah demanded that the journalist leave the country immediately",
       "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Can Africa tackle the oil shock from the Iran war?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss",
-      "description": "African nations are scrambling to secure oil and gas as the Iran war disrupts supplies from the Middle East.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump threatens Iran: ‘A whole civilisation will die tonight’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-threatens-iran-a-whole-civilisation-will-die?traffic_source=rss",
-      "description": "Donald Trump warned that “a whole civilisation will die tonight” if Iran does not open the Strait of Hormuz.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Bahraini UNSC resolution jeopardized prospects for talks with Iran — Russian diplomat",
@@ -593,14 +593,14 @@
       "bias": "Very High"
     },
     {
-      "title": "Military command hands Trump new options for strikes on Iran — newspaper",
-      "link": "https://tass.com/world/2113149",
-      "description": "According to the report, the US military is actively preparing to enter a new phase of its operation against Iran",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
+      "title": "DPRK slams U.S. for orchestrating efforts to tighten financial sanctions against Pyongyang",
+      "link": "http://news.xinhuanet.com/english/2017-03/30/c_136171059.htm",
+      "description": "The Democratic People's Republic of Korea (DPRK) has slammed the United States for orchestrating efforts to tighten financial sanctions against Pyongyang.",
+      "date": "2017-03-30",
+      "source": "Xinhua",
+      "region": "cn",
       "color": "#cc4444",
-      "bias": "Very High"
+      "bias": "High"
     }
   ]
 }
