@@ -1,18 +1,19 @@
 {
-  "updated": "2026-04-08 06:15 UTC",
+  "updated": "2026-04-08 08:05 UTC",
   "total": 8,
   "events": [
     {
       "date": "2026-04-08",
       "dateDisplay": "Apr 08, 2026",
-      "title": "Middle East live: Netanyahu says US-Iran ceasefire does not include Lebanon",
-      "link": "https://www.france24.com/en/middle-east/20260408-trump-revokes-strike-threats-as-us-iran-ceasefire-takes-shape",
+      "title": "U.S. and Iran agree to 2-week ceasefire",
+      "link": "https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates",
       "sources": [
-        "France 24",
+        "NPR News",
+        "BBC",
         "Al Jazeera"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-04-07",
@@ -29,10 +30,10 @@
     {
       "date": "2026-04-06",
       "dateDisplay": "Apr 06, 2026",
-      "title": "Trump provides details behind the dramatic rescue of an American airman trapped in Iran",
-      "link": "https://www.npr.org/2026/04/06/nx-s1-5775736/trump-provides-details-behind-the-dramatic-rescue-of-an-american-airman-trapped-in-iran",
+      "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
+      "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
