@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-07 23:28 UTC",
+  "updated": "2026-04-08 01:19 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Trump has backed down from his threat to wipe out Iran's civilization",
+      "link": "https://www.npr.org/2026/04/07/nx-s1-5776560/trump-has-backed-down-from-his-threat-to-wipe-out-irans-civilization",
+      "description": "President Trump has backed down from his threat to wipe out Iran's civilization and bomb its power plants by Tuesday night. Online, he said he agreed to suspend the bombing of Iran for two weeks.",
+      "date": "Tue, 07 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Congressional Democrats raise alarm over Trump's comments on Iran",
       "link": "https://www.npr.org/2026/04/07/g-s1-116722/congressional-democrats-raise-alarm-over-trumps-comments-on-iran",
@@ -25,7 +35,7 @@
     {
       "title": "Trump backs down from imminent threat to annihilate Iran, announcing 2-week ceasefire",
       "link": "https://www.npr.org/2026/04/07/nx-s1-5776377/iran-war-updates",
-      "description": "President Trump stepped back from his imminent threat of wide-scale destruction of Iran's civilian and military infrastructure, saying leaders arrived at a \"double sided\" ceasefire agreement.",
+      "description": "After the U.S. and Iran arrived at a ceasefire agreement, President Trump suspended his threat of wide-scale destruction of Iran's civilian and military infrastructure.",
       "date": "Tue, 07 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -46,16 +56,6 @@
       "title": "Trump provides details behind the dramatic rescue of an American airman trapped in Iran",
       "link": "https://www.npr.org/2026/04/06/nx-s1-5775736/trump-provides-details-behind-the-dramatic-rescue-of-an-american-airman-trapped-in-iran",
       "description": "President Trump revealed many of the dramatic details on how the U.S. military scrambled to rescue two members of fighter jet that was shot down deep inside Iran.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump reiterates threats to bomb Iran's power plants and bridges",
-      "link": "https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference",
-      "description": "The president has had mixed messages about how and when the U.S.-Israel-led war in Iran will end.",
       "date": "Mon, 06 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -213,6 +213,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump agrees to suspend attack on Iran for two weeks",
+      "link": "https://www.france24.com/en/live-news/20260407-trump-agrees-to-suspend-attack-on-iran-for-two-weeks",
+      "description": "",
+      "date": "Tue, 07 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran positively reviewing Pakistan’s request for a two-week ceasefire, source says",
       "link": "https://www.france24.com/en/iran-positively-reviewing-pakistan-s-request-for-a-two-week-ceasefire-source-says",
       "description": "U.S. President Donald Trump is aware ​of ‌Pakistan's ⁠proposal for a ‌two-week extension to a ⁠deadline he imposed on Iran, ​and a ‌response will come, White House press ‌secretary Karoline Leavitt ​said on Tuesday. \"The President has been ​made aware ​of the ​proposal, and a res...",
@@ -313,19 +323,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "War in the Middle East: Will deal be struck before Trump's deadline?",
-      "link": "https://www.france24.com/en/video/20260407-war-in-the-middle-east-will-deal-be-struck-before-trump-s-deadline",
-      "description": "US President Donald Trump warned \"a whole civilization will die\" in Iran if the country does not heed his midnight cutoff to open the Strait of Hormuz, while Vice President JD Vance said the United States has \"tools in our toolkit that we so far haven't decided to use\" against Ir...",
-      "date": "Tue, 07 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran says talks with US will begin in Pakistan’s Islamabad on Friday",
+      "link": "https://www.aljazeera.com/news/2026/4/8/iran-says-talks-with-us-will-begin-in-pakistans-islamabad-on-friday?traffic_source=rss",
+      "description": "Tehran says the negotiations will be based on its 10-point proposal, which calls for control over Strait of Hormuz.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump suspends Iran bombing for two weeks following dire threats",
+      "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss",
+      "description": "Iran’s Foreign Minister Abbas Araghchi says ‘if attacks against Iran are halted,’ then Iran agrees to a US ceasefire.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "White House confirms two-week suspension of strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss",
+      "description": "The White House has confirmed the US has agreed to suspend all bombing and military attacks on Iran for two weeks.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss",
+      "description": "US President Donald Trump says he has agreed to extend his threatened deadline to attack Iran by two weeks.",
+      "date": "Tue, 07 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
       "link": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss",
-      "description": "The US president nevertheless warned that the suspension was dependent on Iran reopening the Strait of Hormuz.",
+      "description": "Iran has said that safe passage through Hormuz will be possible through coordination with its armed forces.",
       "date": "Tue, 07 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -423,24 +463,44 @@
       "bias": "Medium"
     },
     {
-      "title": "‘No end in sight’ if Trump acts on threat to destroy Iran infrastructure",
-      "link": "https://www.aljazeera.com/news/2026/4/7/no-end-in-sight-if-trump-acts-on-threat-to-destroy-iran-infrastructure?traffic_source=rss",
-      "description": "Escalation by Donald Trump is likely to be met with more Iranian attacks, further destabilising region, experts say.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Trump announces two-week bilateral ceasefire with Iran",
+      "link": "https://tass.com/world/2113327",
+      "description": "The US has \"already met and exceeded all Military objectives\" and is \"very far\" advanced toward a long-term peace deal, the president says",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iranians form human chains across bridges, at power plants",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranians-form-human-chains-across-bridges-at-power-plants?traffic_source=rss",
-      "description": "Iranians formed human chains across bridges and in front of power plants across the country.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Israeli military reports another missile launch from Iran",
+      "link": "https://tass.com/world/2113375",
+      "description": "This is the second missile launch after the announcement of a US-Iranian ceasefire",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Vance, Witkoff, Kushner expected at US-Iran talks in Pakistan — CNN",
+      "link": "https://tass.com/world/2113371",
+      "description": "Pakistan agreed to mediate the negotiations at the invitation of Prime Minister Shehbaz Sharif",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "IDF says started to intercept another Iranian missile launch",
+      "link": "https://tass.com/world/2113353",
+      "description": "The statement was published after an announcement of a ceasefire with Iran was made public",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US in intense talks on Iran — US leader",
@@ -541,66 +601,6 @@
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
-    },
-    {
-      "title": "Oil production dip in Middle East estimated at 7.5 mln barrels per day — EIA",
-      "link": "https://tass.com/economy/2113253",
-      "description": "\"Oil flows through the Strait of Hormuz continue to be limited causing oil storage to fill quickly in countries that rely on the waterway for exports,\" the US Energy Information Administration said",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran breaks off direct contacts with US after Trump threatened its destruction — WSJ",
-      "link": "https://tass.com/world/2113251",
-      "description": "One source claims that Tehran took the step in a sign of defiance to Washington's position",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US-Israeli operation against Iran violates UN charter — China’s representative",
-      "link": "https://tass.com/world/2113249",
-      "description": "The sovereignty, security and the territorial integrity of the Gulf States must be fully respected, Fu Cong said",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Ex-chief of US counterterrorism center warns US against attempts to destroy Iran",
-      "link": "https://tass.com/world/2113243",
-      "description": "There is still time to avert disaster if US President Donald Trump finds the courage to pursue serious negotiations rather than reckless rage and destruction, Joe Kent said",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Rubio hopes to receive new information about possibility of US-Iran deal",
-      "link": "https://tass.com/world/2113221",
-      "description": "The head of the US foreign policy department noted that, as a result of the conflict with Iran, \"the whole world’s been impacted\" with economic consequences",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "DPRK slams U.S. for orchestrating efforts to tighten financial sanctions against Pyongyang",
-      "link": "http://news.xinhuanet.com/english/2017-03/30/c_136171059.htm",
-      "description": "The Democratic People's Republic of Korea (DPRK) has slammed the United States for orchestrating efforts to tighten financial sanctions against Pyongyang.",
-      "date": "2017-03-30",
-      "source": "Xinhua",
-      "region": "cn",
-      "color": "#cc4444",
-      "bias": "High"
     }
   ]
 }
