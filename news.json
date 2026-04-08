@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08 16:07 UTC",
+  "updated": "2026-04-08 17:58 UTC",
   "total": 60,
   "stories": [
     {
@@ -33,7 +33,7 @@
       "bias": "Low"
     },
     {
-      "title": "The U.S. and Iran agree to a 2-week ceasefire but some attacks continue",
+      "title": "A fragile U.S.-Iran ceasefire shows cracks as attacks continue across the region",
       "link": "https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates",
       "description": "Iran and the U.S. and Israel said they would suspend strikes but countries in the region continued to report attacks and Israel said it would not stop its assault in Lebanon.",
       "date": "Wed, 08 Apr 2026",
@@ -81,6 +81,26 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Why ceasefire deal with US has unsettled Iran's hardliners",
+      "link": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
+      "description": "The two-week truce opens up the prospect of direct talks with the US but has angered Iran's hardliners, writes BBC News Persian’s Kasra Naji.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran Strait of Hormuz warning adds to shipping uncertainty",
+      "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "description": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
@@ -163,40 +183,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How rescue of US airman in remote part of Iran unfolded",
-      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-      "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
       "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
       "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
       "date": "Mon, 06 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-      "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "description": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
-      "date": "Sat, 04 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "French-owned ship passes through Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-      "description": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
-      "date": "Fri, 03 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -213,9 +203,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
-      "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
-      "description": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
       "date": "Mon, 06 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -228,6 +218,26 @@
       "description": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
       "date": "Fri, 03 Apr 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+      "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "description": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+      "date": "Thu, 02 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel pounds Lebanon with heaviest air strikes of the war",
+      "link": "https://www.france24.com/en/video/20260408-israel-pounds-lebanon-with-heaviest-air-strikes-of-the-war",
+      "description": "Israel carried out its heaviest strikes on Lebanon since the ​conflict with Hezbollah broke out last month, even as the Iran-aligned group paused attacks on northern Israel and Israeli troops in Lebanon under a two-week US-Iran ceasefire.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -343,6 +353,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "‘Why my child?’: Yemen’s Taiz mourns sniper’s killing of teen",
+      "link": "https://www.aljazeera.com/news/2026/4/8/why-my-child-yemens-taiz-mourns-snipers-killing-of-teen?traffic_source=rss",
+      "description": "Yemeni child killed by suspected Houthi sniper while heading to school in Taiz sparks grief and outrage among locals.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump claims victory in Iran — but is this really a win?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/trump-claims-victory-in-iran-but-is-this-really-a?traffic_source=rss",
+      "description": "Before a single term has been negotiated, Trump is claiming total victory over Iran, but is this really a win?",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanon PM welcomes US-Iran ceasefire as Israeli strikes hit Beirut",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/lebanon-pm-welcomes-us-iran-ceasefire-as-israeli-strikes-hit-beirut?traffic_source=rss",
+      "description": "Lebanon&#039;s PM Nawaf Salam expressed optimism in de-escalation hours after Tehran and Washington struck a ceasefire deal.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "How Pakistan managed to get the US and Iran to a ceasefire",
       "link": "https://www.aljazeera.com/features/2026/4/8/how-pakistan-managed-to-get-the-us-and-iran-to-a-ceasefire?traffic_source=rss",
       "description": "Backchannel talks led by Pakistan result in temporary ceasefire after weeks of fighting.",
@@ -423,7 +463,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Israeli attacks across Lebanon kill dozens hours after Iran-US ceasefire",
+      "title": "Israeli attacks across Lebanon kill at least 254 after Iran-US ceasefire",
       "link": "https://www.aljazeera.com/news/2026/4/8/hundreds-of-casualties-across-lebanon-after-israel-says-it-hit-100-sites?traffic_source=rss",
       "description": "Israel’s army says it carries out the largest coordinated strike across Lebanon since its renewed war on the country.",
       "date": "Wed, 08 Apr 2026",
@@ -456,36 +496,6 @@
       "title": "‘Stone Age’ to ‘Golden Age’: How the final hours before the truce unfolded",
       "link": "https://www.aljazeera.com/news/2026/4/8/stone-age-to-golden-age-how-the-final-hours-before-the-truce-unfolded?traffic_source=rss",
       "description": "Frantic diplomacy collides with &#039;genocidal&#039; threats in lead-up to announcement of two-week ceasefire between US, Iran.",
-      "date": "Wed, 08 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Defeat from the jaws of victory: Israel reacts to Trump’s Iran ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/4/8/defeat-from-the-jaws-of-victory-israel-reacts-to-trumps-iran-ceasefire?traffic_source=rss",
-      "description": "Israel&#039;s confrontation with its regional nemesis leaves Iran both standing and strategically stronger, analysts say.",
-      "date": "Wed, 08 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "World Athletics postpones Doha Diamond League amid US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/sports/2026/4/8/world-athletics-postpones-doha-diamond-league-amid-us-israel-war-on-iran?traffic_source=rss",
-      "description": "The multi-discipline event scheduled for May 8 will now be held on June 19 should conditions allow, organisers say.",
-      "date": "Wed, 08 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "S Arabia, UAE, Kuwait, Qatar, Bahrain report attacks after Iran-US truce",
-      "link": "https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire?traffic_source=rss",
-      "description": "Several strikes reported across the Gulf region hours after the US and Iran announce a ceasefire for two weeks.",
       "date": "Wed, 08 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -553,40 +563,30 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
-      "link": "https://tass.com/pressreview/1969589",
-      "description": "Top stories from the Russian press on Friday, June 6th",
-      "date": "Fri, 06 Jun 2025",
+      "title": "Trump halts Iran attacks after talks with PM Shehbaz, CDF Munir; US, Iran reach ceasefire agreement",
+      "link": "https://www.dawn.com/news/1989584/trump-halts-iran-attacks-after-talks-with-pm-shehbaz-cdf-munir-us-iran-reach-ceasefire-agreement",
+      "description": "Pakistan on Wednesday announced that the Islamic Republic of Iran and the United States of America, along with their allies, had agreed to an immediate ceasefire, including in Lebanon, effective immediately, and invited their delegations to Islamabad on April 10 for talks aimed a...",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s uranium enrichment secures independence, peaceful atom — supreme leader",
+      "link": "https://tass.com/world/1968185",
+      "description": "Ali Khamenei added that the US and other countries are not interested in Iran's progress and have put forward conditions presupposing a complete halt of uranium enrichment on Iranian territory",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
-      "link": "https://tass.com/world/1969663",
-      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
-      "date": "Fri, 06 Jun 2025",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
-      "link": "https://tass.com/world/1969613",
-      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
-      "date": "Fri, 06 Jun 2025",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
-      "link": "https://tass.com/world/1969533",
-      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
-      "date": "Thu, 05 Jun 2025",
+      "title": "Tehran could weigh nuclear deal with US with Iran-based enrichment consortium — Axios",
+      "link": "https://tass.com/world/1968163",
+      "description": "According to the report, a sixth round of talks on the Iranian nuclear program between the US president’s Special Envoy Steve Witkoff and Iran’s top diplomat, Abbas Araghchi, could be held this weekend in a Middle Eastern country",
+      "date": "Wed, 04 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
