@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-08 08:05 UTC",
-  "total": 8,
+  "updated": "2026-04-08 09:58 UTC",
+  "total": 7,
   "events": [
     {
       "date": "2026-04-08",
@@ -8,11 +8,12 @@
       "title": "U.S. and Iran agree to 2-week ceasefire",
       "link": "https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates",
       "sources": [
-        "NPR News",
         "BBC",
-        "Al Jazeera"
+        "Al Jazeera",
+        "NPR News",
+        "France 24"
       ],
-      "sourceCount": 3,
+      "sourceCount": 4,
       "type": "fact"
     },
     {
@@ -21,8 +22,8 @@
       "title": "French couple leave Iran after more than three years in jail",
       "link": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24",
-        "BBC"
+        "BBC",
+        "France 24"
       ],
       "sourceCount": 2,
       "type": "govt"
@@ -32,17 +33,6 @@
       "dateDisplay": "Apr 06, 2026",
       "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
       "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-04-05",
-      "dateDisplay": "Apr 05, 2026",
-      "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
-      "link": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
