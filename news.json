@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08 01:19 UTC",
+  "updated": "2026-04-08 04:27 UTC",
   "total": 60,
   "stories": [
     {
@@ -33,9 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "Trump backs down from imminent threat to annihilate Iran, announcing 2-week ceasefire",
+      "title": "U.S. and Iran agree to 2-week ceasefire, suspending Trump's threat to annihilate Iran",
       "link": "https://www.npr.org/2026/04/07/nx-s1-5776377/iran-war-updates",
-      "description": "After the U.S. and Iran arrived at a ceasefire agreement, President Trump suspended his threat of wide-scale destruction of Iran's civilian and military infrastructure.",
+      "description": "After Iran ceded to President Trump's demand to reopen the Strait of Hormuz, Trump backed down from his threat of wide-scale destruction of Iran's civilian and military infrastructure.",
       "date": "Tue, 07 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -61,16 +61,6 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
-    },
-    {
-      "title": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says",
-      "link": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-      "description": "Kataib Hezbollah says the release comes on condition that she leave Iraq immediately.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
     },
     {
       "title": "French couple leave Iran after more than three years in jail",
@@ -213,6 +203,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Ros Atkins on…the cost of the Iran war",
+      "link": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
+      "date": "Thu, 02 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Netanyahu says US-Iran ceasefire does not include Lebanon",
+      "link": "https://www.france24.com/en/middle-east/20260408-trump-revokes-strike-threats-as-us-iran-ceasefire-takes-shape",
+      "description": "Israeli Prime Minister Benjamin Netanyahu claimed that the two-week US-Iran ceasefire does not include Lebanon. The last-minute diplomacy effort led by Pakistan halts planned US strikes, and talks are set to begin in Islamabad on Friday. Follow our liveblog for the latest updates...",
+      "date": "Wed, 08 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump agrees to suspend attack on Iran for two weeks",
       "link": "https://www.france24.com/en/live-news/20260407-trump-agrees-to-suspend-attack-on-iran-for-two-weeks",
       "description": "",
@@ -321,6 +331,46 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
+      "link": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss",
+      "description": "Israeli prime minister welcomes US decision to suspend attacks on Iran, but says the truce does not apply to Lebanon.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss",
+      "description": "Celebrations have erupted in Iraq following the announcement of a two-week ceasefire between Iran and the US.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Climate activist Greta Thunberg slams Trump’s threats against Iran",
+      "link": "https://www.aljazeera.com/news/2026/4/8/climate-activist-greta-thunberg-slams-trumps-threats-against-iran?traffic_source=rss",
+      "description": "Polls have found that young people in the United States are more sceptical of foreign intervention and war on Iran.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss",
+      "description": "Investors welcome the possible resumption of oil and gas flows through the Strait of Hormuz.",
+      "date": "Wed, 08 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran says talks with US will begin in Pakistan’s Islamabad on Friday",
@@ -433,34 +483,94 @@
       "bias": "Medium"
     },
     {
-      "title": "How is the US-Israel war on Iran affecting Russian-Iranian relations?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/4/7/how-is-the-us-israel-war-on-iran-affecting-russian-iranian-relations?traffic_source=rss",
-      "description": "Moscow has been benefitting from the higher oil prices while its ally is under attack.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "China facilitated US-Iranian ceasefire — AP",
+      "link": "https://tass.com/world/2113405",
+      "description": "According to the news agency, Beijing initially tried to act through intermediaries, including Islamabad, Ankara, and Cairo. After that, Chinese officials directly contacted Iran",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Russia and China block UN resolution on Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/4/7/russia-and-china-block-un-resolution-on-strait-of-hormuz?traffic_source=rss",
-      "description": "A total 11 out of 15 members supported resolution, which was already watered down to evade vetoes.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Trump remains cautiously optimistic about negotiations with Iran — Fox News",
+      "link": "https://tass.com/world/2113401",
+      "description": "According to Fox News host Laura Ingraham, the US president admitted that the negotiations were \"incredibly complex\"",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Pope Leo slams Trump’s threat that Iran’s ‘civilisation will die’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/pope-leo-slams-trumps-threat-that-irans-civilisation-will?traffic_source=rss",
-      "description": "Pope Leo condemned Trump’s threats that Iran’s “civilisation will die”, calling the remarks “unacceptable\".",
-      "date": "Tue, 07 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "US promised Israel to seek removal of all nuclear materials from Iran — newspaper",
+      "link": "https://tass.com/world/2113395",
+      "description": "According to a source cited by The Times of Israel, Washington also promised it would demand that Iran halt uranium enrichment",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US postpones possible attack on Iran by two weeks — Trump",
+      "link": "https://tass.com/world/2113393",
+      "description": "The US president says Iran must agree to a \"complete, immediate, and safe opening of the Strait of Hormuz\"",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israel to continue strikes on Iran, operations against Hezbollah — The Times of Israel",
+      "link": "https://tass.com/world/2113391",
+      "description": "According to the report, the Israel Defense Forces issued at least two statements about missile launches from Iran after the supposed ceasefire start",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranians take to streets to celebrate ‘US defeat’ — Mehr news agency",
+      "link": "https://tass.com/world/2113389",
+      "description": "A video shot from Tehran's largest street shows people with Iranian flags, loud music is played in the background",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US had to accept Iran’s ten-point plan — TV",
+      "link": "https://tass.com/world/2113387",
+      "description": "According to the state broadcaster, the ceasefire preconditions of Iran’s control over the Strait of Hormuz, permission to enrich uranium, and compensations were accepted",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Six cruise missiles intercepted over Iran’s Qazvin province",
+      "link": "https://tass.com/world/2113385",
+      "description": "According to a report by Press TV, a Tomahawk was among the missiles",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US-Iranian ceasefire to come into force when Strait of Hormuz reopens — Axios",
+      "link": "https://tass.com/world/2113381",
+      "description": "US President Donald Trump earlier announced a two-week postponement of the strikes on Iran’s civil infrastructure",
+      "date": "Wed, 08 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump announces two-week bilateral ceasefire with Iran",
@@ -487,116 +597,6 @@
       "link": "https://tass.com/world/2113371",
       "description": "Pakistan agreed to mediate the negotiations at the invitation of Prime Minister Shehbaz Sharif",
       "date": "Wed, 08 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IDF says started to intercept another Iranian missile launch",
-      "link": "https://tass.com/world/2113353",
-      "description": "The statement was published after an announcement of a ceasefire with Iran was made public",
-      "date": "Wed, 08 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US in intense talks on Iran — US leader",
-      "link": "https://tass.com/world/2113339",
-      "description": "President Donald Trump also says he expects a briefing on Pakistan’s proposal to be held soon",
-      "date": "Wed, 08 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Petrochemical plant in Iran’s Mahshahr comes under attack — news agency",
-      "link": "https://tass.com/world/2113315",
-      "description": "In a separate report, Press TV says that Israel and the United States struck an aluminum plant in Arak",
-      "date": "Wed, 08 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Carlson urges US military to disobey presidential order to strike Iran",
-      "link": "https://tass.com/world/2113313",
-      "description": "The journalist warns that the world is at a \"pivot point\" after which \"nothing is the same\"",
-      "date": "Wed, 08 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US yet to answer Pakistan’s proposal to extend deadline for deal with Iran — White House",
-      "link": "https://tass.com/world/2113311",
-      "description": "Press Secretary Karoline Leavitt was quoted as saying that the president was aware of the proposal",
-      "date": "Wed, 08 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran launches Wave 99 of its operation targeting US, Israel — IRGC",
-      "link": "https://tass.com/world/2113309",
-      "description": "The military of the Islamic republic struck a number of targets in the UAE and Kuwait",
-      "date": "Wed, 08 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Shiite radicals release US journalist Kittleson abducted in Iraq",
-      "link": "https://tass.com/world/2113293",
-      "description": "Kataib Hezbollah demanded that the journalist leave the country immediately",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Bahraini UNSC resolution jeopardized prospects for talks with Iran — Russian diplomat",
-      "link": "https://tass.com/politics/2113277",
-      "description": "Vasily Nebenzya says that a unilateral resolution would also hinder peace initiatives undertaken by China, Pakistan, and Turkey",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russia, China offer well-balanced UNSC draft resolution on Iran — diplomat",
-      "link": "https://tass.com/politics/2113271",
-      "description": "Vasily Nebenzya stressed that free navigation in the Strait of Hormuz was attainable only through ending hostilities and reaching a negotiated solution",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli gas fields included in list of possible targets for IRGC attacks — agency",
-      "link": "https://tass.com/world/2113265",
-      "description": "According to the report by Fars, the Karish and Tanin gas fields \"play a key role in the energy supply\" of Israel",
-      "date": "Tue, 07 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Bahraini UNSC draft resolution would have greenlit aggression against Iran — diplomat",
-      "link": "https://tass.com/world/2113263",
-      "description": "The draft resolution was not passed by the UN Security Council as it was supported by 11 members, while Russia and China voted against and Pakistan and Colombia abstained",
-      "date": "Tue, 07 Apr 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
