@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09 16:11 UTC",
+  "updated": "2026-04-09 17:52 UTC",
   "total": 60,
   "stories": [
     {
@@ -33,19 +33,39 @@
       "bias": "Low"
     },
     {
-      "title": "What has the U.S. war with Iran accomplished?",
-      "link": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-      "description": "Trump's war goals included putting an end to Iran's nuclear program, destroying its military capabilities and creating regime change. That hasn't happened.",
-      "date": "Wed, 08 Apr 2026",
+      "title": "Iran expert discusses whether the war has made the Iranian regime stronger",
+      "link": "https://www.npr.org/2026/04/09/nx-s1-5777657/expert-discusses-whether-the-war-has-made-irans-regime-stronger",
+      "description": "Iran expert Vali Nasr of Johns Hopkins University discusses whether the U.S. and Israel's war with Iran has made the Iranian regime stronger.",
+      "date": "Thu, 09 Apr 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
     },
     {
+      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+      "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.",
+      "date": "Thu, 09 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
       "link": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
       "description": "Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.",
+      "date": "Thu, 09 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Has US achieved its war objectives in Iran?",
+      "link": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
+      "description": "Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.",
       "date": "Thu, 09 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -63,9 +83,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Has US achieved its war objectives in Iran?",
-      "link": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
-      "description": "Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.",
+      "title": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire",
+      "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "description": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
       "date": "Thu, 09 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -103,26 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Why ceasefire deal with US has unsettled Iran's hardliners",
-      "link": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
-      "description": "The two-week truce opens up the prospect of direct talks with the US but has angered Iran's hardliners, writes BBC News Persian’s Kasra Naji.",
-      "date": "Wed, 08 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire",
-      "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "description": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
-      "date": "Thu, 09 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
       "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
       "description": "Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.",
@@ -137,6 +137,16 @@
       "link": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
       "description": "Cecile Kohler and Jacques Paris are on their way home after being allowed to leave the country, the French president says.",
       "date": "Tue, 07 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Why ceasefire deal with US has unsettled Iran's hardliners",
+      "link": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
+      "description": "The two-week truce opens up the prospect of direct talks with the US but has angered Iran's hardliners, writes BBC News Persian’s Kasra Naji.",
+      "date": "Wed, 08 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -183,11 +193,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How rescue of US airman in remote part of Iran unfolded",
-      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-      "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "BBC",
+      "title": "Calls to invoke the 25th Amendment after Trump's Iran threats 'useless'",
+      "link": "https://www.france24.com/en/americas/20260409-calls-to-invoke-the-25th-amendment-after-trump-iran-threats-useless",
+      "description": "US President Donald Trump’s threat to destroy “a whole civilisation” in Iran has reignited calls to invoke the 25th Amendment and drawn condemnation across the political spectrum. Yet despite a growing chorus of critics, from Democrats to former MAGA allies, the mechanism remains...",
+      "date": "Thu, 09 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Trump abandoned us': ceasefire sparks anger, fear, division among Iranians",
+      "link": "https://www.france24.com/en/middle-east/20260409-iran-ceasefire-reactions-trump-anger-division-war-regime-change-debate",
+      "description": "Iranians are divided between relief, disappointment, fear and anger after the announcement of a two-week ceasefire and possible peace plan between the USA and Israel on one side, and Iran on the other. The FRANCE 24 Observers team talked to several Iranians inside Iran to capture...",
+      "date": "Thu, 09 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -263,14 +283,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Cannes 2026 Palme d’Or picks include Iran’s Farhadi, Spain’s Almodovar",
-      "link": "https://www.france24.com/en/culture/20260409-farhadi-almodovar-zvyagintsev-to-vie-for-top-cannes-festival-prize",
-      "description": "The list of 21 directors vying for the Palme d’Or at the 2026 Cannes Film Festival includes world cinema auteurs such as Iran’s Asghar Farhadi and Spain's Pedro Almodovar, organisers revealed on Thursday. Major Hollywood studios are set to be notable in their absence on the Frenc...",
+      "title": "Israel’s Netanyahu ready for talks with Lebanon ‘as soon as possible’",
+      "link": "https://www.aljazeera.com/news/2026/4/9/israels-netanyahu-ready-for-talks-with-lebanon-as-soon-as-possible?traffic_source=rss",
+      "description": "Israeli PM says his gov&#039;t ready to enter negotiations on &#039;disarming Hezbollah&#039; and &#039;establishing peaceful relations&#039;.",
       "date": "Thu, 09 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran",
+      "link": "https://www.aljazeera.com/news/2026/4/9/israel-bombed-gaza-on-36-of-the-past-40-days-while-the-war-raged-in-iran?traffic_source=rss",
+      "description": "Israel killed 107 people, permitted only 8 percent of medical evacuations, and admitted just 20 percent of trucks.",
+      "date": "Thu, 09 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Can global supply chains recover from the Iran war?",
@@ -336,26 +366,6 @@
       "title": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
       "link": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss",
       "description": "Ceasefire dispute escalates as US and Israel exclude Lebanon, raising fears of a broader regional conflict.",
-      "date": "Thu, 09 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Several people reported killed in fresh Israeli attacks on Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss",
-      "description": "Lebanon bears the brunt and US-Iran truce at risk as Israel claims killing of a close aide to Hezbollah&#039;s leader.",
-      "date": "Thu, 09 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "The war on Iran: Nobody won, everyone paid",
-      "link": "https://www.aljazeera.com/opinions/2026/4/9/the-war-on-iran-nobody-won-everyone-paid?traffic_source=rss",
-      "description": "The US-Israeli campaign has failed to achieve its goals. Iran has been badly hit, and the Gulf is paying the bill too.",
       "date": "Thu, 09 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -433,14 +443,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Islamabad takes centre stage, to host high-stakes US-Iran talks",
-      "link": "https://www.dawn.com/news/1990069/islamabad-takes-centre-stage-to-host-high-stakes-us-iran-talks",
-      "description": "• Negotiations follow Pakistan-brokered two-week truce• US vice president, Iranian foreign minister to lead their delegations• PM Shehbaz calls talks ‘historic moment’ for lasting settlement• Iran warns of withdrawal from ceasefire if violations continue• US says truce excludes L...",
+      "title": "IMF allows for oil and gas prices to remain high for a long term",
+      "link": "https://tass.com/economy/2114595",
+      "description": "Assessing the scale of the impact of the US and Israeli war against Iran on global energy prices, Kristalina Georgieva noted that it \"depends on whether the ceasefire holds and leads to lasting peace and how much damage the war leaves in its wake\"",
       "date": "Thu, 09 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "War in Iran will push number of people in hunger to over 360 mln — IMF",
+      "link": "https://tass.com/world/2114573",
+      "description": "The problem could worsen over time because of higher fertilizer prices, Kristalina Georgieva said",
+      "date": "Thu, 09 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Nuclear issues most debatable topic between Iran, United States — Turkey’s top diplomat",
+      "link": "https://tass.com/world/2114569",
+      "description": "Hakan Fidan refused to voice any position on uranium enrichment so that the parties \"can act more freely and flexibly on the issue\"",
+      "date": "Thu, 09 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Global economic growth will inevitably slow due to US-Iran war — IMF",
@@ -556,36 +586,6 @@
       "title": "Iran to open Hormuz if US stops its aggression, senior diplomat says",
       "link": "https://tass.com/world/2114417",
       "description": "Saeed Khatibzadeh earlier called Israeli strikes on Lebanon a \"grave violation\" as he urged the United States to choose whether it wants war or peace in the Middle East",
-      "date": "Thu, 09 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "War in Iran could slow down global AI development — expert",
-      "link": "https://tass.com/economy/2114413",
-      "description": "AI could undermine the financial stability of software companies, CEO of the Nature and People Foundation and program director of the Vostok Discussion Club Sergey Rybakov said",
-      "date": "Thu, 09 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Attempting to invade Iran will be suicidal for US — Dutch expert",
-      "link": "https://tass.com/world/2114409",
-      "description": "According to Kees van der Pijl, scenarios involving limited actions and building up military resources remain more realistic than transition to a full-scale ground operation",
-      "date": "Thu, 09 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "About 10 vessels cross Hormuz Strait after reports of closure",
-      "link": "https://tass.com/economy/2114411",
-      "description": "According to TASS estimates based on online maritime tracking services, at least seven commercial vessels crossed the Strait of Hormuz overnight from April 8 to April 9, most of them heading toward the Gulf of Oman",
       "date": "Thu, 09 Apr 2026",
       "source": "TASS",
       "region": "ru",
