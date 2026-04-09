@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09 04:24 UTC",
+  "updated": "2026-04-09 06:14 UTC",
   "total": 60,
   "stories": [
     {
@@ -47,26 +47,6 @@
       "link": "https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates",
       "description": "Iran and the U.S. and Israel said they would suspend strikes but countries in the region continued to report attacks and Israel said it would not stop its assault in Lebanon.",
       "date": "Wed, 08 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump has backed down from his threat to wipe out Iran's civilization",
-      "link": "https://www.npr.org/2026/04/07/nx-s1-5776560/trump-has-backed-down-from-his-threat-to-wipe-out-irans-civilization",
-      "description": "President Trump has backed down from his threat to wipe out Iran's civilization and bomb its power plants by Tuesday night. Online, he said he agreed to suspend the bombing of Iran for two weeks.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Congressional Democrats raise alarm over Trump's comments on Iran",
-      "link": "https://www.npr.org/2026/04/07/g-s1-116722/congressional-democrats-raise-alarm-over-trumps-comments-on-iran",
-      "description": "Dozens of congressional Democrats raised alarm Tuesday over President Trump's rhetoric about Iran. Most Republican lawmakers have been silent.",
-      "date": "Tue, 07 Apr 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -223,9 +203,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Trump says US military to stay deployed near Iran until 'real agreement' reached",
+      "title": "Netanyahu fails to address Israel’s failure to achieve war goals in Iran",
+      "link": "https://www.france24.com/en/netanyahu-fails-to-address-israel-s-failure-to-achieve-war-goals-in-iran",
+      "description": "Reporting from Jerusalem, FRANCE 24’s Noga Tarnopolsky says that when Prime Minister Benjamin Netanyahu finally made a statement on the US-Iran ceasefire, he failed to “address the fact that Israel has not achieved any of its stated war goals, which included regime change in Iran...",
+      "date": "Thu, 09 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US-Iran ceasefire: Why Tehran wants to charge ships for crossing the Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260409-us-iran-ceasefire-why-tehran-wants-charge-ships-for-crossing-strait-of-hormuz",
+      "description": "As part of its 10-point proposal to end the US-Israeli war on Iran, Tehran is pushing for ongoing control over the vital Strait of Hormuz – including charging what officials suggest could be as much as $2 million per ship to help the country rebuild its bombed-out infrastructure ...",
+      "date": "Thu, 09 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Hezbollah says it fired rockets at Israel in response to ‘violation of ceasefire’",
       "link": "https://www.france24.com/en/middle-east/20260409-middle-east-live-us-iran-truce-enters-second-day-as-war-flares-in-lebanon",
-      "description": "US President Donald Trump late Wednesday said US military deployed near Iran would remains stationed in the area until a \"real agreement\" is reached, as it enters a fragile two-week ceasefire with Tehran. Follow our liveblog for the latest developments.",
+      "description": "Lebanese militant group Hezbollah on Thursday said it fired rockets towards Israel in response to its \"violation\" of the US-Iran truce agreement. Iran has closed the Strait of Hormuz in retaliation for Israel's massive attacks in Lebanon as the ceasefire appeared to hang by a thr...",
       "date": "Thu, 09 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -243,9 +243,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump meets NATO’s Rutte as US weighs exit over lack of Iran war support",
+      "title": "Trump meets NATO’s Rutte as US weighs exit over Iran war",
       "link": "https://www.france24.com/en/europe/20260408-trump-nato-rutte-us-exit-iran-war-allies-reject",
-      "description": "US President Donald Trump held talks with NATO chief Mark Rutte on Wednesday, the White House said, as he weighed possibly leaving the alliance after it did not join the Iran war. The Wall Street Journal reported Trump was also considering withdrawing US troops from some NATO cou...",
+      "description": "US President Donald Trump held talks with NATO chief Mark Rutte on Wednesday, the White House said, as he weighed leaving the alliance after it did not join the US in its war against Iran. The Wall Street Journal reported that Trump was also considering withdrawing US troops from...",
       "date": "Wed, 08 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -353,24 +353,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "French pair held in Iran says not 'broken' after return to France",
-      "link": "https://www.france24.com/en/video/20260408-french-pair-held-in-iran-says-not-broken-after-return-to-france",
-      "description": "Two French nationals who returned home Wednesday after being held for almost four years in Iran said they had never given up hope and would speak out about the \"daily horror\" of their Iranian prison. Cecile Kohler, 41, and Jacques Paris, 72, landed in Paris earlier Wednesday, wit...",
-      "date": "Wed, 08 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Hegseth hails Iran 'victory' as confusion remains over ceasefire deal",
-      "link": "https://www.france24.com/en/video/20260408-hegseth-hails-iran-victory-as-confusion-remains-over-ceasefire-deal",
-      "description": "US ​Defense Secretary Pete Hegseth said on Wednesday ​that the United States has had a decisive military victory over Iran and that Tehran's missile ​program ‌has been functionally destroyed a day after the two countries agreed a two-week ceasefire to hold talks on ending the war...",
-      "date": "Wed, 08 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+      "link": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss",
+      "description": "US president meets NATO chief, expresses disappointment over member states failing to back war on Iran.",
+      "date": "Thu, 09 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
@@ -383,9 +373,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Lebanon mourns as Israel raids shake Trump, Tehran ceasefire",
+      "title": "Iran war live: Trump threatens action if Tehran fails to comply with deal",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss",
-      "description": "UN human rights chief Volker Turk describes Israel&#039;s attacks on Lebanon as &#039;horrific&#039; coming so soon after ceasefire.",
+      "description": "UN human rights chief Volker Turk describes Israel&#039;s attacks on Lebanon as &#039;horrific&#039;, coming so soon after ceasefire.",
       "date": "Thu, 09 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -503,24 +493,44 @@
       "bias": "Medium"
     },
     {
-      "title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-      "link": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "description": "Celebration and scepticism coexist in Tehran as ceasefire offers reprieve despite doubts about its durability.",
-      "date": "Wed, 08 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "US-Iran talks to kick off on Saturday and last several days — source",
+      "link": "https://tass.com/world/2114139",
+      "description": "The Serena Hotel is the most likely venue, the source added",
+      "date": "Thu, 09 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "White House says Trump’s ‘red line’ against Iran nuclear enrichment remains",
-      "link": "https://www.aljazeera.com/news/2026/4/8/white-house-says-trumps-red-line-against-iran-nuclear-enrichment-remains?traffic_source=rss",
-      "description": "Trump&#039;s spokesperson says Vice President JD Vance will lead US team for negotiations with Iran in Pakistan on Saturday.",
-      "date": "Wed, 08 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "title": "Iranian delegation to arrive in Pakistan on Thursday for talks with US — ambassador",
+      "link": "https://tass.com/world/2114135",
+      "description": "Reza Amiri Moghadam said it is planned despite the skepticism of the Iranian public due to the repeated ceasefire violations by Israel",
+      "date": "Thu, 09 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Islamabad hotel vacating rooms ahead of arrival of US, Iranian delegations",
+      "link": "https://tass.com/society/2114127",
+      "description": "A Serena employee said there is no precise information yet on whether the hotel will serve as the venue for US-Iranian negotiations",
+      "date": "Thu, 09 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US forces to remain at Iran's borders until agreement terms are met — Trump",
+      "link": "https://tass.com/world/2114117",
+      "description": "The president elaborated that the US would retain all ships, aircraft, and military personnel",
+      "date": "Thu, 09 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Carlson doubts US-Iran truce is victory for Washington",
@@ -586,16 +596,6 @@
       "title": "US ready to offer Iran ‘a lot’ if it negotiates in good faith — vice president",
       "link": "https://tass.com/world/2114073",
       "description": "JD Vance did not elaborate on whether the US could drop its demand that Iran abandon uranium enrichment",
-      "date": "Thu, 09 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to not uphold ceasefire if Iran does not open Strait of Hormuz — vice president",
-      "link": "https://tass.com/world/2114069",
-      "description": "JD Vance also said he saw signs \"that the straits are starting to reopen\"",
       "date": "Thu, 09 Apr 2026",
       "source": "TASS",
       "region": "ru",
