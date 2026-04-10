@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10 16:39 UTC",
+  "updated": "2026-04-10 17:39 UTC",
   "total": 60,
   "stories": [
     {
@@ -43,7 +43,7 @@
       "bias": "Low"
     },
     {
-      "title": "Nations tried to impose a digital fog of war in Iran. The results are mixed",
+      "title": "How governments have tried to hide information about the Iran war online",
       "link": "https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship",
       "description": "Governments are blocking the internet, banning social media posts and cutting access to commercial satellite images. But experts say that efforts to censor information have had mixed results.",
       "date": "Fri, 10 Apr 2026",
@@ -213,6 +213,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "'Trump harbors an unexplained sympathy for Vladimir Putin', Ukrainian analyst says",
+      "link": "https://www.france24.com/en/trump-harbors-an-unexplained-sympathy-for-vladimir-putin-ukrainian-analyst-says",
+      "description": "Ukrainian leadership on April 8 hailed the two-week ceasefire reached between the U.S. and Iran but stressed it is time to pressure Russia to end its war in Ukraine as well. Speaking with FRANCE 24's Mark Owen, Peter Zalmayev, Founder and Director of the Eurasia Democracy Initiat...",
+      "date": "Fri, 10 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Beirut hospitals overwhelmed, survivors recount carnage scenes",
       "link": "https://www.france24.com/en/video/20260410-beirut-hospitals-overwhelmed-survivors-recount-carnage-scenes",
       "description": "A day after intense Israeli strikes pounded Lebanon’s capital, survivors on Thursday recounted scenes of carnage as hospitals struggled to cope with a surge of casualties. Wednesday marked the deadliest day in Lebanon in more than five weeks of renewed war between Israel and the ...",
@@ -293,24 +303,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Ceasefire holds, but Strait of Hormuz remains at a standstill",
-      "link": "https://www.france24.com/en/tv-shows/middle-east-matters/20260410-ceasefire-holds-but-strait-of-hormuz-remains-at-a-standstill",
-      "description": "When will the Strait of Hormuz be open for business again? A fragile ceasefire may be in place, but for now maritime traffic through the waterway remains at a near standstill. There is growing evidence that Iran’s Revolutionary Guard has laid mines in the Strait, a move likely to...",
+      "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "description": "British PM Starmer said he and US President Donald Trump discussed “military capabilities” to reopen Hormuz.",
       "date": "Fri, 10 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Confusion over Melania Trump's bizarrely-timed Jeffrey Epstein disavowal",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260410-confusion-over-melania-trump-s-bizarrely-timed-jeffrey-epstein-disavowal",
-      "description": "PRESS REVIEW – Friday, April 10: Papers focus on Hungary’s opposition leader, Peter Magyar, as he confronts Prime Minister Viktor Orban in Sunday’s crucial election. Magyar is hoping to capitalise on a wave of discontent over Orban's rule. In the US, First Lady Melania Trump has ...",
-      "date": "Fri, 10 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
@@ -383,16 +383,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Will Israel and Lebanon start ceasefire talks?",
-      "link": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss",
-      "description": "Israel and Hezbollah continued to trade attacks on Friday - although at a reduced pace.",
-      "date": "Fri, 10 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Tears of joy mark reopening of Jerusalem holy sites after 41 days",
       "link": "https://www.dawn.com/news/1990367/tears-of-joy-mark-reopening-of-jerusalem-holy-sites-after-41-days",
       "description": "• Worshippers describe an ‘indescribable happiness’, one calls it ‘a miracle’• Tensions flare as police disperse Muslims at Al Aqsa for Jewish visitors JERUSALEM : Just before 5am at Jerusalem’s Al Aqsa Mosque compound, a Muslim worshipper prayed in tears. A few hours later, simi...",
@@ -441,6 +431,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US forces to remain deployed near Iran until ‘real’ agreement reached, says Trump",
+      "link": "https://www.dawn.com/news/1990368/us-forces-to-remain-deployed-near-iran-until-real-agreement-reached-says-trump",
+      "description": "WASHINGTON: US President Donald Trump vowed on Thur­sday to retain military assets in the Middle East until a peace deal with Iran is reached and warned of a major escalation in fighting if Iran failed to comply. Trump said in a social media post that US ships, aircraft, and pers...",
+      "date": "Fri, 10 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel strikes Bushehr NPP again and again, playing with fire — US expert",
+      "link": "https://tass.com/world/2115185",
+      "description": "The strikes on the Bushehr nuclear power plant pose serious risks to the entire Gulf region, not just Iran, Marc Lynch noted",
+      "date": "Fri, 10 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Senegal’s PM hits out at Trump for making world an unstable place",
+      "link": "https://tass.com/world/2115167",
+      "description": "According to Ousmane Sonko, none of the objectives in the Iran war has been met",
+      "date": "Fri, 10 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Asian nations press US to extend sanctions relief on Russian oil — Bloomberg",
+      "link": "https://tass.com/economy/2115151",
+      "description": "According to the agency, pressure on Washington from Asian nations is met with resistance from European allies",
+      "date": "Fri, 10 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US ships reloading in case negotiations with Iran fail — US leader",
@@ -556,36 +586,6 @@
       "title": "US expert warns further pressure on Iran could crash global economy",
       "link": "https://tass.com/world/2115085",
       "description": "John Mearsheimer said that Iran hold almost all the cards",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran to halt talks with US if Israel resumes strikes on Lebanon — TV",
-      "link": "https://tass.com/world/2115079",
-      "description": "According to the source, if Israel violates the ceasefire and launches an attack on Beirut, the negotiations will be suspended",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US-Iran talks in Islamabad may take two-three days — supreme leader’s envoy",
-      "link": "https://tass.com/world/2115059",
-      "description": "Abdul Majid Hakim Elahi added that the ceasefire should be extended in case the sides reach accord during the Islamabad talks",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran to demand reparations from US, its allies for damage caused — Khamenei’s envoy",
-      "link": "https://tass.com/world/2115055",
-      "description": "Abdul Majid Hakim Elahi specified some details of the damage he was talking about",
       "date": "Fri, 10 Apr 2026",
       "source": "TASS",
       "region": "ru",
