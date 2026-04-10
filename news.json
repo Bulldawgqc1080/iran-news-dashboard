@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10 04:37 UTC",
+  "updated": "2026-04-10 06:25 UTC",
   "total": 60,
   "stories": [
     {
@@ -153,26 +153,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-      "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "description": "Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.",
-      "date": "Wed, 08 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "French couple leave Iran after more than three years in jail",
-      "link": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
-      "description": "Cecile Kohler and Jacques Paris are on their way home after being allowed to leave the country, the French president says.",
-      "date": "Tue, 07 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
       "link": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli prime minister's response to the ceasefire has been muted, in contrast to the triumphal statements from the US and Iran.",
@@ -218,6 +198,36 @@
       "description": "Pakistan has a historic relationship with Iran, but an agreement was far from certain, writes the BBC’s Caroline Davies",
       "date": "Wed, 08 Apr 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Little sign of breakthrough as Trump's Iran deadline nears",
+      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+      "date": "Mon, 06 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "date": "Mon, 06 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Vance heads to Pakistan for Iran talks as Israeli assault on Lebanon tests truce",
+      "link": "https://www.france24.com/en/middle-east/20260410-middle-east-live-khamenei-says-iran-does-not-want-war-but-will-defend-its-rights",
+      "description": "US Vice President JD Vance sets off Friday for Pakistan to lead mediated talks with Iran in a bid to find a resolution to the war as massive Israeli strikes on Lebanon this week tested a fragile US-Iran ceasefire. Israeli Prime Minister Benjamin Netanyahu authorised direct negoti...",
+      "date": "Fri, 10 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -273,7 +283,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Trump abandoned us': ceasefire sparks anger, fear, division among Iranians",
+      "title": "'Trump abandoned us': Ceasefire sparks anger, fear, division among Iranians",
       "link": "https://www.france24.com/en/middle-east/20260409-iran-ceasefire-reactions-trump-anger-division-war-regime-change-debate",
       "description": "Iranians are divided between relief, disappointment, fear and anger after the announcement of a two-week ceasefire and possible peace plan between the USA and Israel on one side, and Iran on the other. The FRANCE 24 Observers team talked to several Iranians inside Iran to capture...",
       "date": "Thu, 09 Apr 2026",
@@ -303,14 +313,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel dismisses calls to add Lebanon to US-Iran ceasefire",
-      "link": "https://www.france24.com/en/video/20260409-israel-dismisses-calls-to-add-lebanon-to-us-iran-ceasefire",
-      "description": "Israel vowed more strikes against Hezbollah on Thursday, dismissing mounting international demands that the fragile truce between the United States and Iran in the Gulf be expanded to cover the war in Lebanon. At least 203 people were killed and 1,000 wounded in the latest strike...",
-      "date": "Thu, 09 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war: What is happening on day 42 of US-Israeli attacks?",
+      "link": "https://www.aljazeera.com/news/2026/4/10/iran-war-what-is-happening-on-day-42-of-us-israeli-attacks?traffic_source=rss",
+      "description": "A Pakistan-brokered US-Iran ceasefire has taken effect but disputes over its scope are fuelling regional tensions.",
+      "date": "Fri, 10 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Kuwait blames Iran for drone strike, Iran denies responsibility",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss",
+      "description": "Kuwait is blaming ‘Iran and its proxies’ for a drone attack on Thursday night, while Iran has denied responsibility.",
+      "date": "Fri, 10 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
@@ -323,7 +343,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Shipping in Strait of Hormuz still at a trickle despite US-Iran ceasefire",
+      "title": "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire",
       "link": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss",
       "description": "Washington and Tehran accuse each other of not honouring truce agreement.",
       "date": "Fri, 10 Apr 2026",
@@ -363,39 +383,19 @@
       "bias": "Medium"
     },
     {
-      "title": "Khamenei says Tehran ‘astonished the world’ during US-Israeli war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/4/9/khamenei-says-tehran-astonished-the-world-during-us-israeli-war-on-iran?traffic_source=rss",
-      "description": "In a statement read out on television, Mojtaba Khamenei said Tehran will &#039;demand compensation&#039; for war damages.",
-      "date": "Thu, 09 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran: Strait of Hormuz open with restrictions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/iran-strait-of-hormuz-open-with-restrictions?traffic_source=rss",
-      "description": "Iran’s Deputy Foreign Minister says the Strait of Hormuz is open but ships must coordinate with Iranian forces.",
-      "date": "Thu, 09 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why is Hezbollah a sticking point in the Iran ceasefire?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/4/9/why-is-hezbollah-a-sticking-point-in-the-iran-ceasefire?traffic_source=rss",
-      "description": "Lebanese armed group is an ally of Tehran but still under attack from Israel.",
-      "date": "Thu, 09 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Tears of joy mark reopening of Jerusalem holy sites after 41 days",
       "link": "https://www.dawn.com/news/1990367/tears-of-joy-mark-reopening-of-jerusalem-holy-sites-after-41-days",
       "description": "• Worshippers describe an ‘indescribable happiness’, one calls it ‘a miracle’• Tensions flare as police disperse Muslims at Al Aqsa for Jewish visitors JERUSALEM : Just before 5am at Jerusalem’s Al Aqsa Mosque compound, a Muslim worshipper prayed in tears. A few hours later, simi...",
+      "date": "Fri, 10 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan allows visa-free boarding, offers visa on arrival for Islamabad Talks delegates",
+      "link": "https://www.dawn.com/news/1990461/pakistan-allows-visa-free-boarding-offers-visa-on-arrival-for-islamabad-talks-delegates",
+      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Friday said airlines have been instructed to allow visa-free boarding for individuals travelling to the country in connection with the US-Iran talks in Islamabad. Foreign delegations from Iran and the US are expected in Isla...",
       "date": "Fri, 10 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -473,120 +473,120 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US, Iran to fail to make deal, but Washington to get out of war — expert",
-      "link": "https://tass.com/world/2114739",
-      "description": "According to Trita Parsi, Tehran considers it \"essential\" to ensure that the ceasefire regime extends to Lebanon",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Hezbollah drones attack military facility in northern Israel — Tasnim",
-      "link": "https://tass.com/world/2114737",
-      "description": "The strike was delivered in the area of the settlement of Ya’ara",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Japan needs relations with various oil suppliers, including Russia — expert",
-      "link": "https://tass.com/world/2114727",
-      "description": "Tsuneo Watanabe emphasized that the opening of the Strait of Hormuz may not happen soon",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Shortage of energy supplies from Persian Gulf may last more than year — Japanese expert",
-      "link": "https://tass.com/economy/2114719",
-      "description": "Tsuneo Watanabe says he does not expect the Strait of Hormuz to be open soon",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Ceasefire between US and Iran very fragile, Japanese expert says",
-      "link": "https://tass.com/world/2114717",
-      "description": "According to Tsuneo Watanabe, it will be difficult for the sides to agree on a number of issues, including Tehran's nuclear program",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US insists on specific NATO commitments on Strait of Hormuz — CNN",
-      "link": "https://tass.com/world/2114707",
-      "description": "According to the report, President Donald Trump insisted that NATO nations take concrete measures in the next few days",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Advisor to supreme leader of Iran died from wounds received in attack on Tehran — TV",
-      "link": "https://tass.com/world/2114685",
-      "description": "The Iranian state television says Kamal Kharazi \"died a few hours ago\"",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says Iran should not charge fee for passage through Strait of Hormuz",
-      "link": "https://tass.com/world/2114677",
-      "description": "The US president noted he had received reports that Iran was charging fees to tankers going through the strait",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran won the war despite damage — leader’s statement",
-      "link": "https://tass.com/world/2114623",
-      "description": "According to Mojtaba Khamenei, Iran will take the management of the Strait of Hormuz to a new level",
+      "title": "India election roll overhaul sparks anger as key states vote",
+      "link": "https://www.dawn.com/news/1990157/india-election-roll-overhaul-sparks-anger-as-key-states-vote",
+      "description": "A key opposition Indian politician has threatened legal action against the election commission after millions of people were struck off electoral rolls, the latest flashpoint over a contentious voter clean-up drive. A sweeping voter registration overhaul — known as the Special In...",
       "date": "Thu, 09 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "IMF strikes staff-level deal with Sri Lanka on $700m in funding",
+      "link": "https://www.dawn.com/news/1990208/imf-strikes-staff-level-deal-with-sri-lanka-on-700m-in-funding",
+      "description": "The International Monetary Fund (IMF) reached a staff-level pact with Sri Lanka, which will unlock financing of about $700 million once approved, the lender said on Thursday, calling for reforms, including in fuel levies, to ensure stability and growth. The deal comes as the isla...",
+      "date": "Thu, 09 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan’s envoy to US acknowledges China’s quiet but persuasive role in Iran talks",
+      "link": "https://www.dawn.com/news/1990131/pakistans-envoy-to-us-acknowledges-chinas-quiet-but-persuasive-role-in-iran-talks",
+      "description": "WASHINGTON: Pakistan’s mediation that helped bring about a temporary US–Iran ceasefire has drawn global attention, with Islamabad’s envoy to Washington reiterating that the breakthrough was the result of “an intense diplomatic effort that was in progress over the past few weeks.”...",
+      "date": "Thu, 09 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Foolproof security arranged for foreign guests, Naqvi assures US envoy ahead of US‑Iran talks in Islamabad",
+      "link": "https://www.dawn.com/news/1990162/foolproof-security-arranged-for-foreign-guests-naqvi-assures-us-envoy-ahead-of-usiran-talks-in-islamabad",
+      "description": "Interior Minister Mohsin Naqvi on Thursday assured US Ambassador to Pakistan Natalie Baker of foolproof security for all foreign dignitaries ahead of the US-Iran talks scheduled in Islamabad this week. Pakistan is set to host in-person talks between the US and Iran on Saturday af...",
+      "date": "Thu, 09 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump declares end to Iran’s uranium enrichment",
+      "link": "https://www.dawn.com/news/1990041/trump-declares-end-to-irans-uranium-enrichment",
+      "description": "• Vows joint push to ‘dig up, remove’ buried nuclear material; threatens 50pc tariffs on nations supplying weapons to Tehran• Hegseth says US will ‘take’ uranium if Iran refuses to hand it over WASHINGTON: President Don­ald Trump said Wednesday there will be no enrichment of uran...",
+      "date": "Thu, 09 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Nothing short of horrific’: World reacts to Israeli ‘carnage’ in Lebanon",
+      "link": "https://www.dawn.com/news/1990262/nothing-short-of-horrific-world-reacts-to-israeli-carnage-in-lebanon",
+      "description": "The world was relieved on Wednesday when Pakistan mounted an overnight diplomatic push to secure a temporary ceasefire and bring Washington and Tehran into direct negotiations. Things, however, were different for Lebanon. Israel launched its heaviest and most coordinated air assa...",
+      "date": "Thu, 09 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Donald Trump's tenuous Iran exit plan isn't healing Republican rifts exposed by the war",
+      "link": "https://www.thehindu.com/news/international/donald-trumps-tenuous-iran-exit-plan-isnt-healing-republican-rifts-exposed-by-the-war/article70846085.ece",
+      "description": "Former Rep. Marjorie Taylor Greene of Georgia, a Mr. Trump supporter-turned-critic, called for the President to be removed from office through the Constitution's 25th Amendment",
+      "date": "Fri, 10 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: U.S. Vice-President Vance sets off to Pakistan to lead talks with Iran",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-10-2026/article70845746.ece",
+      "description": "Air raid alerts rang out across Israel, including in the commercial hub of Tel Aviv and in the southern coastal city of Ashdod following rocket fire from Lebanon",
+      "date": "Fri, 10 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
+      "link": "https://tass.com/pressreview/1969589",
+      "description": "Top stories from the Russian press on Friday, June 6th",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "US, Israel to rearm during ceasefire with Iran — Dutch expert",
-      "link": "https://tass.com/world/2114617",
-      "description": "According to Kees van der Pijl, this may indicate a desire by both sides to prepare for a potential continuation of the protracted standoff, even if a short-term pause is in place",
-      "date": "Thu, 09 Apr 2026",
+      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+      "link": "https://tass.com/world/1969663",
+      "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Ukraine may face a shortage of jet fuel due to conflict over Iran — expert",
-      "link": "https://tass.com/world/2114611",
-      "description": "According to the expert, the 20% loss of oil from this region has had a disproportionate impact on the jet fuel market",
-      "date": "Thu, 09 Apr 2026",
+      "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
+      "link": "https://tass.com/world/1969613",
+      "description": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
+      "date": "Fri, 06 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "IMF allows for oil and gas prices to remain high for a long term",
-      "link": "https://tass.com/economy/2114595",
-      "description": "Assessing the scale of the impact of the US and Israeli war against Iran on global energy prices, Kristalina Georgieva noted that it \"depends on whether the ceasefire holds and leads to lasting peace and how much damage the war leaves in its wake\"",
-      "date": "Thu, 09 Apr 2026",
+      "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
+      "link": "https://tass.com/world/1969533",
+      "description": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
+      "date": "Thu, 05 Jun 2025",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
