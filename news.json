@@ -1,7 +1,27 @@
 {
-  "updated": "2026-04-11 20:20 UTC",
+  "updated": "2026-04-11 21:23 UTC",
   "total": 60,
   "stories": [
+    {
+      "title": "Pakistan hosts historic face-to-face talks between the US and Iran",
+      "link": "https://www.npr.org/2026/04/11/nx-s1-5779725/pakistan-hosts-historic-face-to-face-talks-between-the-us-and-iran",
+      "description": "In Pakistan's capital, Islamabad, officials from the US and Iran met to discuss a possible end to the war that's engulfed much of the Middle East.",
+      "date": "Sat, 11 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "What's it like to cover the Ukraine war as the world's attention is focused on Iran?",
+      "link": "https://www.npr.org/2026/04/11/nx-s1-5768193/whats-it-like-to-cover-the-ukraine-war-as-the-worlds-attention-is-focused-on-iran",
+      "description": "In this week's Reporter's Notebook conversation, we take a closer look at what it's like to cover the war in Ukraine, and how the war in Iran is changing that.",
+      "date": "Sat, 11 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Pope Leo says 'delusion of omnipotence' is fueling U.S.-Israeli war in Iran",
       "link": "https://www.npr.org/2026/04/11/g-s1-117150/pope-leo-us-iran-war-israel-denounce",
@@ -17,26 +37,6 @@
       "link": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran",
       "description": "A senior White House official said that an American delegation, led by Vice President JD Vance, was meeting with senior Iranian negotiators in Islamabad to discuss an end to the six-week long war.",
       "date": "Sat, 11 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "VP Vance to lead U.S. team in Iran peace talks. And, Artemis II to return to Earth",
-      "link": "https://www.npr.org/2026/04/10/g-s1-117023/up-first-newsletter-iran-us-israel-jd-vance-artemis-two-melania-trump-fema-funds",
-      "description": "Vice President Vance is heading to Pakistan to lead a U.S. team in talks aimed at ending the war in Iran. And, Artemis II is set to return to Earth today.",
-      "date": "Fri, 10 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Iran delegates arrive in Islamabad for talks with U.S., as ceasefire terms remain in dispute",
-      "link": "https://www.npr.org/2026/04/10/g-s1-117013/trump-iran-strait-of-hormuz",
-      "description": "The fragile ceasefire agreement was tested again on Friday after Iran refused to reopen the Strait of Hormuz. Israel and Hezbollah traded strikes in Lebanon, and Kuwait was attacked with drones.",
-      "date": "Fri, 10 Apr 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -193,6 +193,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'",
+      "link": "https://www.france24.com/en/middle-east/20260411-iran-us-negotiations-underway-in-pakistan-us-says-strait-of-hormuz-being-cleared",
+      "description": "Delegations from the United States and Iran held direct negotiations on Saturday for the first time since 1979 in Islamabad,Pakistan, to end a six-week conflict, while US President Donald Trump said that the US military had begun clearing mines from the Strait of Hormuz.",
+      "date": "Sat, 11 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran: a mediator on the mediations",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260411-iran-a-mediator-on-the-mediations",
       "description": "Gavin Lee speaks with Oliver McTernan, Director of Forward Thinking, about the current situation in Iran, the Straight of Hormuz and Pakistan.",
@@ -273,14 +283,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran, US delegations to start negotiations in Pakistan",
-      "link": "https://www.france24.com/en/iran-us-delegations-to-start-negotiations-in-pakistan",
-      "description": "A US ​government plane carrying ​top US officials landed in the ​Pakistani ‌capital Islamabad ⁠on Saturday for ‌peace talks with Iran. Washington and ​Tehran are ‌set to begin negotiations to permanently end the six-week-old Iran ​war that has killed thousands of people across ​t...",
+      "title": "“Diplomacy is not an event, it’s a process, it takes time.”",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss",
+      "description": "Former Pakistani diplomat says expectations from the Islamabad talks between the US and Iran should be realistic.",
       "date": "Sat, 11 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Has Israeli society become conditioned to permanent war?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/11/has-israeli-society-become-conditioned-to-permament-war?traffic_source=rss",
+      "description": "Opinion polls indicate opposition to ending war against Iran.",
+      "date": "Sat, 11 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
@@ -343,36 +363,6 @@
       "bias": "Medium"
     },
     {
-      "title": "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal",
-      "link": "https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal?traffic_source=rss",
-      "description": "Can US‑Iran ceasefire hold for talks? Vance team, midterm politics, energy risks, Tehran seeks relief.",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US-Iran direct talks on ending war under way in Pakistan",
-      "link": "https://www.aljazeera.com/news/2026/4/11/us-iran-talks-on-ending-war-begin-in-pakistan?traffic_source=rss",
-      "description": "Discussions between Iran and US delegations begin following separate bilateral meetings with Pakistani prime minister.",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Al Jazeera’s Diplomatic Editor outlines key issues in US-Iran talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/al-jazeeras-diplomatic-editor-outlines-key-issues-in-us-iran-talks?traffic_source=rss",
-      "description": "With US and Iranian officials set to meet in Pakistan, Al Jazeera’s James Bays outlines the sticking points ahead.",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "US warships transit Strait of Hormuz in mine clearance operation: Centcom",
       "link": "https://www.dawn.com/news/1990850/us-warships-transit-strait-of-hormuz-in-mine-clearance-operation-centcom",
       "description": "Two US Navy warships transited the Strait of Hormuz at the start of an operation to clear the strategic waterway of mines laid by Iran, US Central Command (Centcom) said on Saturday. The announcement — which marks the first such transit since the US-Israeli war on Iran began — ca...",
@@ -383,10 +373,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Teams of experts from Iran, US exchange written texts after in-person talks in Islamabad",
-      "link": "https://www.dawn.com/news/1990743/teams-of-experts-from-iran-us-exchange-written-texts-after-in-person-talks-in-islamabad",
-      "description": "Teams of experts from Iran and the US have exchanged written texts after an hours-long in-person discussion in Islamabad, where the two sides held negotiations as a pause in the Middle East war continues. Earlier, the Iranian government said in a post on X that the talks were hel...",
-      "date": "Sat, 11 Apr 2026",
+      "title": "US, Iran search for breakthrough in Islamabad as talks stretch into third round",
+      "link": "https://www.dawn.com/news/1990743/us-iran-search-for-breakthrough-in-islamabad-as-talks-stretch-into-third-round",
+      "description": "The direct talks between delegations from Iran and the United States, mediated by Pakistan, stretched into the third round on Sunday, as experts from both sides weighed into each other’s demands. Earlier on Saturday night, teams of experts from Iran and the US exchanged written t...",
+      "date": "Sun, 12 Apr 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -523,9 +513,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE updates: Netanyahu says war succeeded in 'crushing' Iran nuclear, missile programmes",
+      "title": "Israel-Iran war LIVE updates: 'Regardless of what happens, we win,' says Trump as U.S.-Iran talks continue",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-11-2026/article70850012.ece",
-      "description": "Iran media says U.S. making 'excessive demands' on Strait of Hormuz in the trilateral talks in Pakistan",
+      "description": "Iran denies an earlier claim by the U.S. that two Navy destroyers transited the Strait Of Hormuz",
+      "date": "Sun, 12 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Campaign against Iran not over, existential threats removed: Netanyahu",
+      "link": "https://www.thehindu.com/news/international/campaign-against-iran-not-over-existential-threats-removed-netanyahu/article70852217.ece",
+      "description": "He also claimed major achievemnets on other fronts that posed threat to Israel-Syria, Houthis in Yemen, Hezbollah in Lebanon and Hamas in Gaza",
       "date": "Sun, 12 Apr 2026",
       "source": "The Hindu",
       "region": "me",
