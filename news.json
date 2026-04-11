@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10 23:25 UTC",
+  "updated": "2026-04-11 01:15 UTC",
   "total": 60,
   "stories": [
     {
@@ -13,7 +13,7 @@
       "bias": "Low"
     },
     {
-      "title": "Trump says Iran is 'doing a very poor job' in reopening the Strait of Hormuz",
+      "title": "Iran delegates arrive in Islamabad for talks with U.S., as ceasefire terms remain in dispute",
       "link": "https://www.npr.org/2026/04/10/g-s1-117013/trump-iran-strait-of-hormuz",
       "description": "The fragile ceasefire agreement was tested again on Friday after Iran refused to reopen the Strait of Hormuz. Israel and Hezbollah traded strikes in Lebanon, and Kuwait was attacked with drones.",
       "date": "Fri, 10 Apr 2026",
@@ -61,6 +61,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Historic Vance-Ghalibaf talks must bridge deep distrust",
+      "link": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+      "description": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
+      "date": "Fri, 10 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
@@ -203,16 +213,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How rescue of US airman in remote part of Iran unfolded",
-      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-      "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
-      "date": "Mon, 06 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "'Trump harbors an unexplained sympathy for Vladimir Putin', Ukrainian analyst says",
       "link": "https://www.france24.com/en/trump-harbors-an-unexplained-sympathy-for-vladimir-putin-ukrainian-analyst-says",
       "description": "Ukrainian leadership on April 8 hailed the two-week ceasefire reached between the U.S. and Iran but stressed it is time to pressure Russia to end its war in Ukraine as well. Speaking with FRANCE 24's Mark Owen, Peter Zalmayev, Founder and Director of the Eurasia Democracy Initiat...",
@@ -313,6 +313,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
+      "description": "Lebanese Health Ministry says people killed in Israeli attacks since March 2 rises to 1,953 with 6,303 wounded.",
+      "date": "Sat, 11 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
       "description": "Hezbollah fired a barrage of rockets at northern Israel, damaging a 1,500-year-old Byzantine church in Nahariya.",
@@ -383,36 +393,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "description": "British PM Starmer said he and US President Donald Trump discussed “military capabilities” to reopen Hormuz.",
-      "date": "Fri, 10 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
-      "link": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss",
-      "description": "Vice president says Trump gave &#039;pretty clear guidelines&#039; on talks, which will be productive if Iran does not &#039;play&#039; US.",
-      "date": "Fri, 10 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US-Iran peace talks in Islamabad face massive hurdles",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/10/us-iran-peace-talks-in-islamabad-face-massive-hurdles?traffic_source=rss",
-      "description": "Ali Vaez, says upcoming talks between the US and Iran may be marred by a deficit of trust.",
-      "date": "Fri, 10 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Tears of joy mark reopening of Jerusalem holy sites after 41 days",
       "link": "https://www.dawn.com/news/1990367/tears-of-joy-mark-reopening-of-jerusalem-holy-sites-after-41-days",
       "description": "• Worshippers describe an ‘indescribable happiness’, one calls it ‘a miracle’• Tensions flare as police disperse Muslims at Al Aqsa for Jewish visitors JERUSALEM : Just before 5am at Jerusalem’s Al Aqsa Mosque compound, a Muslim worshipper prayed in tears. A few hours later, simi...",
@@ -471,6 +451,56 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Hormuz traffic plummets as Iran asserts control",
+      "link": "https://www.dawn.com/news/1990371/hormuz-traffic-plummets-as-iran-asserts-control",
+      "description": "• Global oil supply cut by 20pc; backlog of hundreds of ships grows• Truce brings little relief as security firms warn of persistent risks LONDON: Ship traffic through the Strait of Hormuz stood at well below 10 per cent of normal volumes on Thursday despite a US-Iran ceasefire a...",
+      "date": "Fri, 10 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "In written message, Iran supreme leader says Tehran does not seek war but will not renounce legitimate rights",
+      "link": "https://www.dawn.com/news/1990308/in-written-message-iran-supreme-leader-says-tehran-does-not-seek-war-but-will-not-renounce-legitimate-rights",
+      "description": "Iran’s new supreme leader Mojtaba Khamenei in his latest written message said that the Islamic republic does not want war with the United States and Israel, but would protect its rights as a nation, state television reported on Thursday. “We did not seek war and we do not want it...",
+      "date": "Fri, 10 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Russia’s steps on Iran in UN Security Council depend on outcome of talks in Pakistan — MFA",
+      "link": "https://tass.com/politics/2115327",
+      "description": "Deputy Foreign Minister Alexander Alimov says a draft resolution earlier submitted jointly with China is \"all we’ve put forward\"",
+      "date": "Sat, 11 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Pakistani MFA expects constructive talks between US, Iran",
+      "link": "https://tass.com/world/2115323",
+      "description": "The ministry also confirmed the arrival of an Iranian delegation in Islamabad",
+      "date": "Sat, 11 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US leader says main demand Iran should not acquire nuclear weapon",
+      "link": "https://tass.com/world/2115321",
+      "description": "Donald Trump called this criterion of a good deal with Iran \"that's 99%\"",
+      "date": "Sat, 11 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Russia calls on participants in talks on Iran to show responsible approach",
@@ -556,36 +586,6 @@
       "title": "US inflation rises to 3.3%",
       "link": "https://tass.com/economy/2115143",
       "description": "On March 30, the International Monetary Fund warned that the US and Israel’s military operation against Iran would lead to higher prices and slower global economic growth",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "South Koreans to receive $67-$405 in relief amid Iran crisis",
-      "link": "https://tass.com/society/2115129",
-      "description": "Approximately 35 million people, or 70% of the population, will receive financial aid",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Vance expects negotiations with Iran to be constructive",
-      "link": "https://tass.com/world/2115123",
-      "description": "If the Iranians are going to try to play the US, then they're going to find the negotiating team is not that receptive, the US vice president added",
-      "date": "Fri, 10 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to request release of Americans detained in Iran at negotiations — newspaper",
-      "link": "https://tass.com/world/2115115",
-      "description": "According to the report, if negotiations prove difficult, the request \"could be delayed\"",
       "date": "Fri, 10 Apr 2026",
       "source": "TASS",
       "region": "ru",
