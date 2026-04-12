@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T23:45:47.667Z",
+  "lastUpdated": "2026-04-12T03:38:19.989Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,13 +9,13 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 48290135035
+    "estimatedTotalUsd": 48451620243
   },
   "casualties": {
     "us": {
       "killed": {
         "value": 13,
-        "asOf": "2026-04-11T23:45:47.667Z",
+        "asOf": "2026-04-12T03:38:19.989Z",
         "sourceId": "dod-centcom-rss",
         "confidence": "high"
       },
@@ -43,20 +43,20 @@
     },
     "iranCivilians": {
       "killed": {
-        "minReported": 1255,
-        "maxReported": 1800,
-        "asOf": "2026-03-14T17:55:42.727Z",
+        "minReported": 2100,
+        "maxReported": 2200,
+        "asOf": "2026-04-03T00:00:00Z",
         "sourceIds": [
           "ocha"
         ],
         "confidence": "medium"
       },
       "wounded": {
-        "minReported": 12000,
-        "maxReported": 16500,
-        "asOf": "2026-03-14T17:55:42.727Z",
+        "minReported": 27900,
+        "maxReported": 32000,
+        "asOf": "2026-04-03T00:00:00Z",
         "sourceIds": [
-          "unhcr"
+          "ocha"
         ],
         "confidence": "medium"
       },
@@ -70,8 +70,8 @@
     "usGasChangeSinceStartUsd": 0.17,
     "brentUsdPerBbl": 95.2,
     "brentChangePct24h": -0.75,
-    "asOf": "2026-04-11T23:45:47.325Z",
-    "gasSeriesDate": "2026-04-11",
+    "asOf": "2026-04-12T03:38:19.843Z",
+    "gasSeriesDate": "2026-04-12",
     "gasBaselineDate": "2026-03-02",
     "gasSource": "aaa-national-average",
     "brentSource": "oilprice-brent",
@@ -80,7 +80,7 @@
     "gasMethod": "daily_snapshot"
   },
   "quality": {
-    "generatedAt": "2026-04-11T23:45:47.668Z",
+    "generatedAt": "2026-04-12T03:38:19.989Z",
     "staleThresholdHours": 48,
     "casualties": {
       "usStale": false,
