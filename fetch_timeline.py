@@ -11,6 +11,7 @@ Coverage classification:
 """
 
 import json, re, urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from collections import defaultdict
@@ -28,7 +29,12 @@ IRAN_KEYWORDS = [
     "iran", "iranian", "tehran", "irgc", "khamenei", "nuclear",
     "jcpoa", "persian", "isfahan", "natanz", "rouhani", "raisi",
     "pezeshkian", "houthi", "hezbollah", "strait of hormuz",
-    "sanctions on iran", "iran nuclear", "iran deal"
+    "sanctions on iran", "iran nuclear", "iran deal", "lebanon", "beirut"
+]
+
+EXCLUDE_KEYWORDS = [
+    "dprk", "north korea", "venezuela", "moon mission", "football match",
+    "friendly match", "barcelona", "egypt"
 ]
 
 STOP_WORDS = {
@@ -46,7 +52,7 @@ def fetch_feed(source):
             source["url"],
             headers={"User-Agent": "Mozilla/5.0 (compatible; IranDashBot/1.0)"}
         )
-        with urllib.request.urlopen(req, timeout=15) as r:
+        with urllib.request.urlopen(req, timeout=10) as r:
             return r.read().decode("utf-8", errors="replace")
     except Exception as e:
         print(f"  ✗ {source['name']}: {e}")
@@ -76,6 +82,8 @@ def clean(text):
 
 def is_iran_related(text):
     t = text.lower()
+    if any(bad in t for bad in EXCLUDE_KEYWORDS):
+        return False
     return any(kw in t for kw in IRAN_KEYWORDS)
 
 
@@ -105,36 +113,55 @@ for source in SOURCES:
     if not xml:
         continue
 
-    items = re.findall(r'<item>(.*?)</item>', xml, re.DOTALL)
     count = 0
-    for item in items:
-        title_m = re.search(r'<title[^>]*>(.*?)</title>', item, re.DOTALL)
-        link_m  = re.search(r'<link>(.*?)</link>',        item, re.DOTALL)
-        date_m  = re.search(r'<pubDate>(.*?)</pubDate>',  item, re.DOTALL)
+    try:
+        root = ET.fromstring(xml)
+    except Exception as e:
+        print(f"  ✗ parse error: {e}")
+        continue
 
-        if not title_m:
+    channel = root.find("channel")
+    if channel is not None:
+        entries = channel.findall("item")
+        mode = "rss"
+    else:
+        ns = "{http://www.w3.org/2005/Atom}"
+        entries = root.findall(f".//{ns}entry")
+        mode = "atom"
+
+    for item in entries[:60]:
+        if mode == "rss":
+            title = clean(item.findtext("title", default=""))
+            link = clean(item.findtext("link", default=""))
+            date_str = item.findtext("pubDate", default="") or item.findtext("updated", default="")
+            desc = clean(item.findtext("description", default=""))
+        else:
+            title = clean(item.findtext(f"{ns}title", default=""))
+            link_el = item.find(f"{ns}link")
+            link = clean(link_el.get("href", "")) if link_el is not None else ""
+            date_str = item.findtext(f"{ns}updated", default="") or item.findtext(f"{ns}published", default="")
+            desc = clean(item.findtext(f"{ns}summary", default=""))
+
+        if not title:
             continue
 
-        title = clean(title_m.group(1))
-        if not is_iran_related(title):
+        combined = f"{title} {desc}"
+        if not is_iran_related(combined):
             continue
 
-        link     = clean(link_m.group(1))  if link_m  else ""
-        date_str = date_m.group(1).strip() if date_m  else ""
-        pub_date = parse_date(date_str)    if date_str else datetime.now(timezone.utc)
-
+        pub_date = parse_date(date_str) if date_str else datetime.now(timezone.utc)
         if pub_date < cutoff:
             continue
 
         all_stories.append({
-            "title":  title,
-            "link":   link,
-            "date":   pub_date,
+            "title": title,
+            "link": link,
+            "date": pub_date,
             "source": source["name"],
         })
         count += 1
 
-    print(f"  → {count} Iran-related stories")
+    print(f"  → {count} Iran/Lebanon-related stories")
 
 print(f"\nTotal Iran stories found: {len(all_stories)}")
 
