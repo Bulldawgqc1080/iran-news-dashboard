@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12 12:36 UTC",
+  "updated": "2026-04-12 13:52 UTC",
   "total": 46,
   "stories": [
     {
@@ -23,9 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "No Deal: U.S.-Iran peace talks in Islamabad collapse",
+      "title": "Trump claims U.S. will close strait of Hormuz after Iran peace talks collapse",
       "link": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse",
-      "description": "The United States and Iran failed to reach an agreement after a day of highly anticipated face-to-face peace talks, Washington's lead negotiator Vice President J.D. Vance announced on Sunday.",
+      "description": "After talks between the U.S. and Iran collapsed, President Donald Trump claimed the U.S. will \"blockade\" the Strait of Hormuz.",
       "date": "Sun, 12 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -61,6 +61,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "After Iran talks falter, the big question is 'what happens next?'",
+      "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
+      "description": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
+      "date": "Sun, 12 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
@@ -153,11 +163,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
-      "link": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
-      "description": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
-      "date": "Thu, 09 Apr 2026",
-      "source": "BBC",
+      "title": "🔴 Middle East war live: Trump says US will begin 'blockading' Strait of Hormuz",
+      "link": "https://www.france24.com/en/live-news/20260412-%F0%9F%94%B4-middle-east-war-live-trump-says-us-will-begin-blockading-strait-of-hormuz",
+      "description": "",
+      "date": "Sun, 12 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US, Iran fail to agree on peace deal",
+      "link": "https://www.france24.com/en/us-iran-fail-to-agree-on-peace-deal",
+      "description": "⁠Iran's ⁠Parliamentary Speaker Mohammad ​Baqer Qalibaf ​said Sunday that Iran raised \"forward-looking\" ​initiatives ‌during talks ⁠in Islamabad ‌but that the US failed ⁠to \"earn\" the trust of the Iranian delegation. US Vice President JD Vance said earlier that 21 hours of peace t...",
+      "date": "Sun, 12 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -203,24 +223,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: US failed to gain Tehran's trust, Iranian negotiator says",
-      "link": "https://www.france24.com/en/middle-east/20260412-middle-east-war-live-us-and-iran-fail-to-reach-deal-after-marathon-peace-talks-in-pakistan",
-      "description": "⁠Iran's ⁠Parliamentary Speaker Mohammad ​Baqer Qalibaf ​said Sunday that Iran raised \"forward-looking\" ​initiatives ‌during talks ⁠in Islamabad ‌but that the US failed ⁠to \"earn\" the trust of the Iranian delegation. US Vice President JD Vance said earlier that 21 hours of peace t...",
+      "title": "Lessons from the Iran war",
+      "link": "https://www.aljazeera.com/opinions/2026/4/12/lessons-from-the-iran-war?traffic_source=rss",
+      "description": "The past month and a half have shown that the nature of modern warfare is shifting.",
       "date": "Sun, 12 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'",
-      "link": "https://www.france24.com/en/middle-east/20260411-iran-us-negotiations-underway-in-pakistan-us-says-strait-of-hormuz-being-cleared",
-      "description": "Delegations from the United States and Iran held direct negotiations on Saturday for the first time since 1979 in Islamabad,Pakistan, to end a six-week conflict, while US President Donald Trump said that the US military had begun clearing mines from the Strait of Hormuz.",
-      "date": "Sat, 11 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "US-Iran ceasefire talks: What are the key sticking points?",
+      "link": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss",
+      "description": "Talks between Iran and the US expose deep divisions, prolonging uncertainty during a two-week ceasefire.",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Who is running US foreign policy? Varsha Gandikota and Jeremy Scahill",
+      "link": "https://www.aljazeera.com/video/reframe/2026/4/12/who-is-running-us-foreign-policy-varsha-gandikota-and-jeremy-scahill?traffic_source=rss",
+      "description": "Varsha Gandikota-Nellutla asks journalist Jeremy Scahill who will benefit from the US-Israel war on Iran.",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "What happened in 40 days of war on Iran",
@@ -255,7 +285,7 @@
     {
       "title": "US and Iran fail to reach a deal after marathon talks in Pakistan",
       "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss",
-      "description": "US VP JD Vance says Iran chose not to accept US terms, while Iran says it did not expect a deal at the first meeting.",
+      "description": "US VP JD Vance says Iran chooses not to accept US terms while Iran says it did not expect a deal at the first meeting.",
       "date": "Sun, 12 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -273,34 +303,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Why did US-Iran talks end without an agreement in Pakistan?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan?traffic_source=rss",
-      "description": "Despite high-level talks for the first time in years, the US and Iran couldn&#039;t reach agreement on terms to end the war.",
+      "title": "Trump says US to soon begin naval blockade of Strait of Hormuz",
+      "link": "https://www.dawn.com/news/1991096/trump-says-us-to-soon-begin-naval-blockade-of-strait-of-hormuz",
+      "description": "US President Donald Trump on Sunday said talks with Iran in Islamabad had yielded progress on “most points” but failed to secure agreement on Tehran’s nuclear programme, warning that Washington would move to blockade the Strait of Hormuz. In a lengthy statement, Trump said the ne...",
       "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
-      "description": "US Vice President JD Vance is leaving Pakistan, saying Tehran chose not to accept their ‘final and best offer’.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US delegation leaves Pakistan without reaching Iran deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss",
-      "description": "US Vice President JD Vance says the US delegation has failed to reach an agreement with Iran.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran says time for US to decide ‘whether it can earn our trust’ after talks",
@@ -353,19 +363,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel kills 18 in Lebanon, West Bank and Gaza",
-      "link": "https://www.dawn.com/news/1990936/israel-kills-18-in-lebanon-west-bank-and-gaza",
-      "description": "BEIRUT: Israeli strikes killed more than a dozen people in Lebanon and Gaza on Saturday, while an Israeli settler shot dead a Palestinian man in the occupied West Bank, according to officials. The widespread violence came a day after plans were announced for potential ceasefire t...",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Talks ended without deal due to 'excessive demands' made by U.S.: Iran",
-      "link": "https://www.thehindu.com/news/international/talks-ended-without-deal-due-to-excessive-demands-made-by-us-iran/article70853441.ece",
-      "description": "Iranian Foreign Ministry spokesperson Esmaeil Baqaei, however, said Iran is determined to utilise all tools, including diplomacy, to secure national interests and protect the country's well-being",
+      "title": "Israel-Iran war LIVE updates: U.S. to start blockading the Strait of Hormuz immediately, says Trump",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-12-2026/article70853206.ece",
+      "description": "U.S.-Iran peace talks collapse in Pakistan after 21-hour negotiations; U.S. military said two of its destroyers transited the critical waterway in the Strait of Hormuz ahead of mine-clearing work",
       "date": "Sun, 12 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -373,9 +373,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE updates: Iran Parliament Speaker says U.S. 'unable' to gain Tehran's trust in talks",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-12-2026/article70853206.ece",
-      "description": "Vance departs Pakistan after failing to reach deal with Iran",
+      "title": "Trump says U.S. to start blockading the Strait of Hormuz immediately",
+      "link": "https://www.thehindu.com/news/international/us-president-donald-trump-truth-social-post-iran-strait-of-hormuz-block-updates/article70854215.ece",
+      "description": "I have also instructed our Navy ​to seek and interdict every vessel in International Waters ⁠that has paid a toll ⁠to Iran. No one who pays an illegal toll ‌will have safe passage on the high seas, says U.S. President Donald Trump",
+      "date": "Sun, 12 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Talks ended without deal due to 'excessive demands' made by U.S.; ‘failed' to win trust: Iran",
+      "link": "https://www.thehindu.com/news/international/talks-ended-without-deal-due-to-excessive-demands-made-by-us-iran/article70853441.ece",
+      "description": "Iranian Foreign Ministry spokesperson Esmaeil Baqaei, however, said Iran is determined to utilise all tools, including diplomacy, to secure national interests and protect the country's well-being",
       "date": "Sun, 12 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -413,19 +423,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran and Strait of Hormuz: A lone battle for control",
-      "link": "https://www.thehindu.com/news/international/iran-and-strait-of-hormuz-a-lone-battle-for-control/article70853266.ece",
-      "description": "Historically, international straits have been flashpoints between littoral states and external powers, often serving as bargaining tools during conflicts",
-      "date": "Sun, 12 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran to restore oil refinery on Lavan Island soon — official",
-      "link": "https://tass.com/economy/2115699",
-      "description": "Teams are currently working to remove the rubble and replace damaged equipment, Deputy Oil Minister Mohammad Sadegh Azimifar said",
+      "title": "Death toll from US-Israeli attacks on Iran exceeds 3,300 — agency",
+      "link": "https://tass.com/world/2115723",
+      "description": "Jafar Miadfar, the head of Iran's Emergency Medical Services Organization, said that 26 medical workers have died and 188 have been wounded",
       "date": "Sun, 12 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -433,9 +433,9 @@
       "bias": "Very High"
     },
     {
-      "title": "IN BRIEF: Iran-US talks in Islamabad end with no agreements",
-      "link": "https://tass.com/world/2115667",
-      "description": "Iran and the US reached an understanding on a number of issues, but views diverged on two or three important issues, Iranian Foreign Ministry Spokesperson Esmaeil Baghaei stated",
+      "title": "Iranian delegation leaves Pakistan after talks with US — TV",
+      "link": "https://tass.com/world/2115717",
+      "description": "Iran and the United States held several rounds of talks in Islamabad on April 11",
       "date": "Sun, 12 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -443,9 +443,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Two supertankers U-turn in Strait of Hormuz — Bloomberg",
-      "link": "https://tass.com/world/2115651",
-      "description": "According to the news agency, three large crude carriers began to approach the waterway from the Gulf of Oman late on Saturday",
+      "title": "Former UN expert blames US for failure of talks with Iran",
+      "link": "https://tass.com/world/2115711",
+      "description": "According to Alfred de Zayas, \"the world has learned that the US and Israel break almost all the agreements they enter into — or reinterpret them unilaterally to obtain advantages that the other side never consented to\"",
       "date": "Sun, 12 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -453,9 +453,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran to maintain contact with Pakistan after talks with US — MFA",
-      "link": "https://tass.com/world/2115613",
-      "description": "Tehran is grateful to Islamabad for its mediation efforts, Iranian Foreign Ministry Spokesperson Esmaeil Baghaei said",
+      "title": "Putin, Iranian president discuss developments in Middle East",
+      "link": "https://tass.com/politics/2115703",
+      "description": "Masoud Pezeshkian briefed the Russian leader on the Iran-US talks held in Pakistan on April 11",
       "date": "Sun, 12 Apr 2026",
       "source": "TASS",
       "region": "ru",
