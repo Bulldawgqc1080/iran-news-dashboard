@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-12 11:26 UTC",
-  "total": 43,
+  "updated": "2026-04-12 12:36 UTC",
+  "total": 46,
   "stories": [
+    {
+      "title": "U.S. and Iran fail to reach agreement during high-level talks in Islamabad",
+      "link": "https://www.npr.org/2026/04/12/nx-s1-5782052/u-s-and-iran-fail-to-reach-agreement-during-high-level-talks-in-islamabad",
+      "description": "The U.S and Iran did not reach an agreement to end the war in Iran at a high-level meeting on Saturday.",
+      "date": "Sun, 12 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "A Hezbollah commander describes battling Israel in Lebanon",
       "link": "https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel",
@@ -213,26 +223,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran: a mediator on the mediations",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260411-iran-a-mediator-on-the-mediations",
-      "description": "Gavin Lee speaks with Oliver McTernan, Director of Forward Thinking, about the current situation in Iran, the Straight of Hormuz and Pakistan.",
-      "date": "Sat, 11 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'The Last Cedar of Lebanon': A play exploring war’s lasting scars",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260411-the-last-cedar-of-lebanon-a-play-exploring-war-s-lasting-scars",
-      "description": "Aïda Asgharzadeh was widely praised for her powerful exploration of dissidence and exile in Persian Dolls, weaving her own family’s story into a drama spanning Iran and France. Her deft use of history as a backdrop to intimate, personal narratives is once again in focus with her ...",
-      "date": "Sat, 11 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "What happened in 40 days of war on Iran",
       "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss",
       "description": "Who got hit in the war on Iran? The attacks, the damage and the people caught in between.",
@@ -431,6 +421,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran to restore oil refinery on Lavan Island soon — official",
+      "link": "https://tass.com/economy/2115699",
+      "description": "Teams are currently working to remove the rubble and replace damaged equipment, Deputy Oil Minister Mohammad Sadegh Azimifar said",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "IN BRIEF: Iran-US talks in Islamabad end with no agreements",
+      "link": "https://tass.com/world/2115667",
+      "description": "Iran and the US reached an understanding on a number of issues, but views diverged on two or three important issues, Iranian Foreign Ministry Spokesperson Esmaeil Baghaei stated",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Two supertankers U-turn in Strait of Hormuz — Bloomberg",
+      "link": "https://tass.com/world/2115651",
+      "description": "According to the news agency, three large crude carriers began to approach the waterway from the Gulf of Oman late on Saturday",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran to maintain contact with Pakistan after talks with US — MFA",
+      "link": "https://tass.com/world/2115613",
+      "description": "Tehran is grateful to Islamabad for its mediation efforts, Iranian Foreign Ministry Spokesperson Esmaeil Baghaei said",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
