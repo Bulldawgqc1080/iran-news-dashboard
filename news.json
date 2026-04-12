@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-12 15:27 UTC",
-  "total": 43,
+  "updated": "2026-04-12 16:26 UTC",
+  "total": 47,
   "stories": [
     {
       "title": "U.S. and Iran fail to reach agreement during high-level talks in Islamabad",
@@ -63,7 +63,7 @@
       "bias": "Low"
     },
     {
-      "title": "After Iran talks falter, the big question is 'what happens next?'",
+      "title": "After Iran talks falter, the big question is what happens next?",
       "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
       "description": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
       "date": "Sun, 12 Apr 2026",
@@ -163,6 +163,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran believes they hold the cards amid 'dysfunction & chaos in US national security decision-making'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260412-iran-believes-they-hold-the-cards-amid-dysfunction-chaos-in-us-national-security-decision-making",
+      "description": "François Picard is pleased to welcome Aaron David Miller, former State Department Middle East negotiator, and Senior Fellow at the Carnegie Endowment for International Peace. Miller has spent decades working in diplomacy, and he does not see a coherent strategy playing out here, ...",
+      "date": "Sun, 12 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump orders blockade of Hormuz Strait",
       "link": "https://www.france24.com/en/trump-orders-blockade-of-hormuz-strait",
       "description": "US navy will begin blockading ships trying to enter or leave the Strait of Hormuz “effective immediately”, US President Donald Trump said in a social media post Sunday. He added that the US would ‌also “interdict” every ‌vessel in international waters that had paid a toll to Iran...",
@@ -223,14 +233,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-US: Talks ended after 21 hours without reaching agreement",
-      "link": "https://www.france24.com/en/iran-us-talks-ended-after-21-hours-without-reaching-agreement",
-      "description": "US Vice President JD Vance said on Sunday that 21 hours of peace talks in Pakistan between the US and Iran had failed to produce an agreement to end the war. Each side blamed the other for the failure of the negotiations.",
+      "title": "Trump announces Strait of Hormuz blockade after US-Iran peace talks end",
+      "link": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss",
+      "description": "US Navy to enforce blockade, Trump says after condemning Iran for blocking waterway, complaining of no deal in Pakistan.",
       "date": "Sun, 12 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
@@ -303,19 +313,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Pakistan urges US and Iran to uphold ceasefire after talks end",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
-      "description": "Pakistani Foreign Minister Ishaq Dar has insisted the US and Iran must uphold their ceasefire agreement.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says US-Iran talks yielded progress on ‘most points’ but no nuclear agreement",
-      "link": "https://www.dawn.com/news/1991096/trump-says-us-iran-talks-yielded-progress-on-most-points-but-no-nuclear-agreement",
-      "description": "US President Donald Trump on Sunday said talks with Iran in Islamabad had yielded progress on “most points” but failed to secure agreement on Tehran’s nuclear programme, warning that Washington would move to blockade the Strait of Hormuz. Trump’s statement comes after a historic ...",
+      "title": "Trump says Iranians ‘haven’t left the bargaining table’",
+      "link": "https://www.dawn.com/news/1991096/trump-says-iranians-havent-left-the-bargaining-table",
+      "description": "US President Donald Trump said on Sunday — the day when talks between Washington and Tehran ended without any agreement — that the Iranians “haven’t left the bargaining table”. “I predict they [will] come back, and they give us everything we want — and I told my people, I want ev...",
       "date": "Sun, 12 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -431,6 +431,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US to continue attacking Iran if it rejects Washington’s terms — Trump",
+      "link": "https://tass.com/world/2115749",
+      "description": "According to the US leader, Washington is capable of destroying all the bridges and power plants in Iran in half a day",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Oil price may exceed $150 per barrel already this week — RDIF CEO",
+      "link": "https://tass.com/politics/2115735",
+      "description": "The longer the Strait of Hormuz remains shut, the higher oil and natural gas prices will rise, the more severe the energy crisis in the EU/UK will become, and the longer the recovery period will be, Kirill Dmitriev said",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Death toll from US-Israeli attacks on Iran exceeds 3,300 — agency",
+      "link": "https://tass.com/world/2115723",
+      "description": "Jafar Miadfar, the head of Iran's Emergency Medical Services Organization, said that 26 medical workers have died and 188 have been wounded",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranian delegation leaves Pakistan after talks with US — TV",
+      "link": "https://tass.com/world/2115717",
+      "description": "Iran and the United States held several rounds of talks in Islamabad on April 11",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
