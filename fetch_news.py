@@ -7,7 +7,8 @@ Iran-related stories, and writes news.json.
 import json
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 import re
 
 # ── RSS FEED SOURCES ───────────────────────────────────────────────────────────
@@ -107,11 +108,33 @@ IRAN_KEYWORDS = [
     "nuclear deal", "jcpoa", "sanctions", "strait of hormuz",
     "hezbollah", "houthi", "proxy", "persian gulf", "revolutionary guard",
     "uranium enrichment", "natanz", "fordow", "arak", "bushehr",
-    "raisi", "pezeshkian", "zarif", "mojtaba",
+    "raisi", "pezeshkian", "zarif", "mojtaba", "beirut", "lebanon",
 ]
+
+EXCLUDE_KEYWORDS = [
+    "dprk", "north korea", "venezuela", "moon mission", "football match",
+    "friendly match", "south american", "barcelona", "egypt",
+]
+
+MAX_AGE_DAYS = 10
+
+
+def parse_date(date_str):
+    if not date_str:
+        return None
+    try:
+        return parsedate_to_datetime(date_str).astimezone(timezone.utc)
+    except Exception:
+        try:
+            return datetime.fromisoformat(date_str.replace('Z', '+00:00')).astimezone(timezone.utc)
+        except Exception:
+            return None
+
 
 def is_iran_related(text):
     lowered = text.lower()
+    if any(bad in lowered for bad in EXCLUDE_KEYWORDS):
+        return False
     return any(kw in lowered for kw in IRAN_KEYWORDS)
 
 def clean_html(text):
@@ -174,12 +197,15 @@ def fetch_feed(source):
                 continue
 
             combined = f"{title} {desc}"
-            if is_iran_related(combined):
+            parsed = parse_date(date)
+            too_old = parsed and parsed < (datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS))
+            if is_iran_related(combined) and not too_old:
+                pretty_date = parsed.strftime('%a, %d %b %Y') if parsed else (date[:16] if date else '')
                 items.append({
                     "title":       title,
                     "link":        link,
                     "description": desc[:280] + ("..." if len(desc) > 280 else ""),
-                    "date":        date[:16] if date else "",
+                    "date":        pretty_date,
                     "source":      source["name"],
                     "region":      source["region"],
                     "color":       source["color"],
