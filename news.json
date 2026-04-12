@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12 01:31 UTC",
+  "updated": "2026-04-12 04:38 UTC",
   "total": 46,
   "stories": [
     {
@@ -33,9 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "U.S.-Iran peace talks underway in Islamabad after weeks of frantic diplomacy",
-      "link": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran",
-      "description": "A senior White House official said that an American delegation, led by Vice President JD Vance, was meeting with senior Iranian negotiators in Islamabad to discuss an end to the six-week long war.",
+      "title": "No Deal: U.S.-Iran peace talks in Islamabad fall through",
+      "link": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-peace-talks-us-iran",
+      "description": "The United States and Iran failed to reach an agreement after a day of highly anticipated face-to-face peace talks, Washington's lead negotiator Vice President J.D. Vance announced on Sunday.",
       "date": "Sat, 11 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -43,10 +43,10 @@
       "bias": "Low"
     },
     {
-      "title": "Historic Vance-Ghalibaf talks must bridge deep distrust",
-      "link": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
-      "description": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
-      "date": "Fri, 10 Apr 2026",
+      "title": "Concerns after satellite provider restricts Iran images following US pressure",
+      "link": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
+      "description": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
+      "date": "Sat, 11 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -56,6 +56,16 @@
       "title": "Lebanon and Israel officials to meet in US on Tuesday",
       "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
       "description": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
+      "date": "Fri, 10 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Historic Vance-Ghalibaf talks must bridge deep distrust",
+      "link": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+      "description": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
       "date": "Fri, 10 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -127,16 +137,6 @@
       "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
       "description": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
       "date": "Fri, 10 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
-      "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
-      "description": "The US has a 15-point plan to end the war, with Iran offering 10 proposals of its own. Can they be reconciled?",
-      "date": "Wed, 08 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -223,9 +223,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Talks with US to continue for a second day in Islamabad",
+      "title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
+      "description": "US Vice President JD Vance is leaving Pakistan, saying Tehran chose not to accept their ‘final and best offer’.",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US delegation leaves Pakistan without reaching Iran deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss",
+      "description": "US Vice President JD Vance says the US delegation has failed to reach an agreement with Iran.",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran must not charge tolls in Strait of Hormuz, UN watchdog chief says",
+      "link": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says?traffic_source=rss",
+      "description": "In interview with Al Jazeera, International Maritime Organization chief says world should reject tolls in waterway.",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Vance says no deal reached, US has made ‘best, final offer’",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
-      "description": "Iran and US continue direct talks in Islamabad, with the Strait of Hormuz believed to be a key sticking point.",
+      "description": "Iranian media say the US was looking for an excuse to leave the talks and that the &#039;ball is in America&#039;s court&#039;.",
       "date": "Sun, 12 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -273,34 +303,54 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us?traffic_source=rss",
-      "description": "Iran’s Gharibabadi says Tehran has entered negotiations from a position of strength and the war on Iran has failed.",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "UN agency chiefs seek end to war rules violations in Middle East",
+      "link": "https://www.dawn.com/news/1990908/un-agency-chiefs-seek-end-to-war-rules-violations-in-middle-east",
+      "description": "GENEVA: UN agency chiefs on Saturday demanded an end to impunity for widespread international law violations in the Middle East, as casualties pile up six weeks into the war unleashed by US-Israeli strikes on Iran. In a joint statement, the heads of multiple United Nations agenci...",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
-      "link": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss",
-      "description": "Negotiations are ongoing between US-Iranian delegations in Islamabad, with control of the strait a key sticking point.",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "Vance departs Islamabad after failing to clinch deal with Iran: US media",
+      "link": "https://www.dawn.com/news/1990743/vance-departs-islamabad-after-failing-to-clinch-deal-with-iran-us-media",
+      "description": "US Vice President JD Vance departed Pakistan on Sunday, according to a pool report, soon after saying that talks with Iran had failed to reach an agreement. The US vice president’s departure came almost an hour after he addressed a press conference at the site of the trilateral ‘...",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire?traffic_source=rss",
-      "description": "Deployment under mutual defence pact comes as Islamabad hosts US-Iran ceasefire talks.",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "Israel kills 18 in Lebanon, West Bank and Gaza",
+      "link": "https://www.dawn.com/news/1990936/israel-kills-18-in-lebanon-west-bank-and-gaza",
+      "description": "BEIRUT: Israeli strikes killed more than a dozen people in Lebanon and Gaza on Saturday, while an Israeli settler shot dead a Palestinian man in the occupied West Bank, according to officials. The widespread violence came a day after plans were announced for potential ceasefire t...",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Easter truce between Russia and Ukraine falters",
+      "link": "https://www.dawn.com/news/1990909/easter-truce-between-russia-and-ukraine-falters",
+      "description": "• Kyiv accuses Moscow of nearly 470 ceasefire violations• Both sides exchange 175 prisoners of war each KHARKIV: Ukraine’s military command accused Russia of repeatedly violating a truce to mark the Orthodox Easter Saturday with nearly 470 incidents ranging from air strikes and d...",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UK halts Chagos Islands handover after US opposition",
+      "link": "https://www.dawn.com/news/1990910/uk-halts-chagos-islands-handover-after-us-opposition",
+      "description": "• Move comes after President Trump slams deal as ‘big mistake’• Legislation underpinning the deal shelved; standoff leaves indigenous Chagossians in limbo LONDON: Britain’s government said Saturday it has put on hold its deal to cede sovereignty of the Chagos Islands to Mauritius...",
+      "date": "Sun, 12 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "US warships transit Strait of Hormuz in mine clearance operation: Centcom",
@@ -313,59 +363,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "VP Vance expected to address press conference over 15 hours after trilateral ‘Islamabad Talks’ began",
-      "link": "https://www.dawn.com/news/1990743/vp-vance-expected-to-address-press-conference-over-15-hours-after-trilateral-islamabad-talks-began",
-      "description": "The US Vice President JD Vance is expected to address a press conference over 15 hours after the trilateral dialogue between the US and Iran, mediated by Pakistan, began in Islamabad on Saturday. The direct talks between delegations from Iran and the United States stretched into ...",
+      "title": "Islamabad talks: U.S. and Iran fail to reach agreement after 21 hours, Vance departs Pakistan",
+      "link": "https://www.thehindu.com/news/international/us-iran-islamabad-pakistan-talks-fail-to-reach-deal-on-ending-west-asia-war/article70853230.ece",
+      "description": "Vance also praised Pakistan Prime Minister Shehbaz Sharif and Chief of Army Staff Field Marshal Asim Munir, terming them “incredible hosts”",
       "date": "Sun, 12 Apr 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan sends military force, fighter jets to Saudi Arabia",
-      "link": "https://www.dawn.com/news/1990849/pakistan-sends-military-force-fighter-jets-to-saudi-arabia",
-      "description": "Pakistan has sent a military force and fighter jets to Saudi Arabia to boost security under a joint defence cooperation agreement between the two countries, the Saudi defence ministry said on Saturday. The Saudi ministry, in a statement, wrote that a military force and fighter je...",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Dawn",
+      "title": "Iran and Strait of Hormuz: A lone battle for control",
+      "link": "https://www.thehindu.com/news/international/iran-and-strait-of-hormuz-a-lone-battle-for-control/article70853266.ece",
+      "description": "Historically, international straits have been flashpoints between littoral states and external powers, often serving as bargaining tools during conflicts",
+      "date": "Sun, 12 Apr 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Easter truce between Russia, Ukraine begins",
-      "link": "https://www.dawn.com/news/1990824/easter-truce-between-russia-ukraine-begins",
-      "description": "A temporary truce between Russia and Ukraine entered into force on Saturday, with Kyiv warning it would respond “immediately” if Russia violated it. Russian President Vladimir Putin ordered the ceasefire on Thursday to coincide with Orthodox Easter, more than a week after Ukraini...",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Dawn",
+      "title": "U.S., Iran talks extend into second day as strait showdown deepens",
+      "link": "https://www.thehindu.com/news/international/us-iran-talks-extend-into-second-day-as-strait-showdown-deepens/article70852336.ece",
+      "description": "In a break with precedent, Iranian and U.S. officials were meeting directly, alongside Pakistan, and not speaking through mediators who shuttled between rooms",
+      "date": "Sun, 12 Apr 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli strike kills 13 security personnel in Lebanon",
-      "link": "https://www.dawn.com/news/1990668/israeli-strike-kills-13-security-personnel-in-lebanon",
-      "description": "• Ceasefire talks loom as Lebanese death toll in war nears 1,900• Air raid sirens wail across northern Israel amid fresh rocket barrage• UN warns of looming food crisis as conflict sends prices soaring BEIRUT: An Israeli stri­ke on the southern Lebanese city of Nabatiyeh killed a...",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Conscientious objections to war rise sharply in US",
-      "link": "https://www.dawn.com/news/1990665/conscientious-objections-to-war-rise-sharply-in-us",
-      "description": "• Growing number of service members seeking information on how to apply for discharge• March alone saw over 80 new cases, nearly double annual norm• School bombing in Iran cited as key turning point by many callers WASHINGTON: The US-Israeli war against Iran has caused an unprece...",
-      "date": "Sat, 11 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war LIVE updates: U.S., Iran talks extend into second day as strait showdown deepens",
+      "title": "Israel-Iran war LIVE updates: Vance departs Pakistan after failing to reach deal with Iran",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-12-2026/article70853206.ece",
-      "description": "The Trump administration had not ‌yet commented on whether the negotiations had concluded and what, if any, differences remain",
+      "description": "J.D. Vance says no agreement between Iran and U.S. after 21 hours of talks",
+      "date": "Sun, 12 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. warships transit Strait of Hormuz in mine clearance operation",
+      "link": "https://www.thehindu.com/news/international/us-warships-transit-strait-of-hormuz-in-mine-clearance-operation/article70852232.ece",
+      "description": "Iran \"strongly rejected\" Washington's claims that U.S. vessels entered the strait, military spokesperson Ebrahim Zolfaghari told state TV",
       "date": "Sun, 12 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -383,49 +423,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S., Iran talks extend into second day as strait showdown deepens",
-      "link": "https://www.thehindu.com/news/international/us-iran-talks-extend-into-second-day-as-strait-showdown-deepens/article70852336.ece",
-      "description": "In a break with precedent, Iranian and U.S. officials were meeting directly, alongside Pakistan, and not speaking through mediators who shuttled between rooms",
-      "date": "Sat, 11 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "How was the U.S.-Iran ceasefire deal reached?",
-      "link": "https://www.thehindu.com/news/international/how-was-the-us-iran-ceasefire-deal-reached/article70851782.ece",
-      "description": "How did the two-week ceasefire come about and how did Pakistan become involved in mediation? Why has Israel reacted negatively to the U.S.-Iran ceasefire negotiations? What is happening in Islamabad now, and what are the chances of the talks succeeding?",
-      "date": "Sat, 11 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. warships transit Strait of Hormuz in mine clearance operation",
-      "link": "https://www.thehindu.com/news/international/us-warships-transit-strait-of-hormuz-in-mine-clearance-operation/article70852232.ece",
-      "description": "Iran \"strongly rejected\" Washington's claims that U.S. vessels entered the strait, military spokesperson Ebrahim Zolfaghari told state TV",
-      "date": "Sat, 11 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Campaign against Iran not over, existential threats removed: Netanyahu",
-      "link": "https://www.thehindu.com/news/international/campaign-against-iran-not-over-existential-threats-removed-netanyahu/article70852217.ece",
-      "description": "He also claimed major achievemnets on other fronts that posed threat to Israel-Syria, Houthis in Yemen, Hezbollah in Lebanon and Hamas in Gaza",
-      "date": "Sat, 11 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pro-government rally under way in Tehran amid Iran-US talks",
-      "link": "https://tass.com/world/2115549",
-      "description": "According to the report, residents took to the streets of the Iranian capital carrying national flags and photos of Iran’s late Supreme Leader Ayatollah Ali Khamenei",
+      "title": "Trump warns China against sending weapons to Iran",
+      "link": "https://tass.com/world/2115583",
+      "description": "\"If China does that, China could have big problems,\" the US leader said",
       "date": "Sun, 12 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -433,9 +433,9 @@
       "bias": "Very High"
     },
     {
-      "title": "White House official says US-Iran talks in Pakistan still continue",
-      "link": "https://tass.com/world/2115547",
-      "description": "The talks in the capital of Pakistan continue for more than 15 hours",
+      "title": "Date, venue of next round of US-Iranian talks unknown — Tasnim",
+      "link": "https://tass.com/world/2115581",
+      "description": "During the 21-hour negotiations, Iranian negotiators showed flexibility on numerous occasions, and suggested that the US side take a more realistic approach",
       "date": "Sun, 12 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -443,20 +443,20 @@
       "bias": "Very High"
     },
     {
-      "title": "IRGC to prevent all military vessels from crossing Strait of Hormuz",
-      "link": "https://tass.com/world/2115523",
-      "description": "The IRGC Navy command also denied reports \"about the passage of American ships via the strait\"",
-      "date": "Sat, 11 Apr 2026",
+      "title": "Strait of Hormuz status to remain unchanged until common framework with US reached — CNN",
+      "link": "https://tass.com/world/2115577",
+      "description": "According to the TV channel, Washington and Tehran have to shape a common stance for continuing the talks",
+      "date": "Sun, 12 Apr 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "US-Iran talks last for more than five hours",
-      "link": "https://tass.com/world/2115487",
-      "description": "Consultations began around 17:00 local time",
-      "date": "Sat, 11 Apr 2026",
+      "title": "Iran, US continue expert-level talks in Islamabad — TV",
+      "link": "https://tass.com/world/2115565",
+      "description": "\"Iinformation from the talks has been scarce, but sources say that the general atmosphere can be described as positive,\" the TV channel said",
+      "date": "Sun, 12 Apr 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
