@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>ClearView | Iran Conflict — Unbiased News Dashboard</title>
+  <title>ClearView | Iran & Lebanon Conflict Dashboard</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
@@ -866,7 +866,7 @@
     <div class="logo-icon">CV</div>
     <div>
       <div class="logo-text">ClearView</div>
-      <div class="logo-sub" id="war-day-count">Iran Conflict · Day <span id="day-counter">—</span></div>
+      <div class="logo-sub" id="war-day-count">Regional Conflict Tracker · Day <span id="day-counter">—</span></div>
     </div>
   </div>
 
@@ -881,7 +881,8 @@
     <button class="active" onclick="showTab('overview',this)">Overview</button>
     <button onclick="showTab('perspectives',this)">Perspectives</button>
     <button onclick="showTab('timeline',this)" id="timeline-tab-btn">Timeline</button>
-    <button onclick="showTab('live',this)" id="live-tab-btn">📡 Live</button>
+    <button onclick="showTab('live',this)" id="live-tab-btn">📡 Iran Live</button>
+    <button onclick="showTab('lebanon',this)" id="lebanon-tab-btn">🇱🇧 Lebanon</button>
     <button onclick="showTab('sources',this)">Sources</button>
     <button onclick="showTab('deeper',this)">Go Deeper</button>
     <button onclick="showTab('network',this)" id="network-tab-btn">🕵️ Network</button>
@@ -1495,6 +1496,13 @@
               <span style="font-size:10px;background:rgba(6,214,160,0.1);color:#06d6a0;padding:2px 8px;border-radius:10px;font-family:var(--font-mono)">Auto-Updated</span>
               <span id="timeline-updated" style="margin-left:auto;font-size:10px;color:var(--dim);font-family:var(--font-mono)"></span>
             </div>
+
+            <div class="filter-row" style="margin-bottom:12px">
+              <button class="filter-btn active" id="timeline-filter-all" style="background:#363d5e;color:#fff;border-color:transparent" onclick="setTimelineFilter('all', this)">All Recent</button>
+              <button class="filter-btn" id="timeline-filter-iran" onclick="setTimelineFilter('iran', this)">Iran</button>
+              <button class="filter-btn" id="timeline-filter-lebanon" onclick="setTimelineFilter('lebanon', this)">Lebanon</button>
+            </div>
+
             <div id="timeline-auto-container">
               <div style="text-align:center;padding:20px;color:var(--subtext);font-size:13px">Loading recent events…</div>
             </div>
@@ -1977,6 +1985,46 @@
       </div>
     </section>
 
+    <section>
+      <div class="section-title">The Road to This War</div>
+      <div class="grid-2">
+
+        <div class="card" style="border-color:rgba(255,77,77,0.25)">
+          <div style="font-size:11px;font-weight:700;color:#ff4d4d;margin-bottom:14px;letter-spacing:0.8px;font-family:var(--font-mono)">📍 CAUSAL CONTEXT — HOW WE GOT HERE</div>
+          <div style="display:flex;flex-direction:column;gap:12px;font-size:13px;color:var(--subtext);line-height:1.75">
+            <p>Operation Epic Fury did not begin on February 28, 2026. It is the culmination of a 70-year escalation chain — the latest chapter in a conflict whose roots predate most of the people fighting it.</p>
+            <p><strong style="color:var(--text)">1953:</strong> CIA/MI6 coup removes Iran's elected government. Plants the seed of Iranian distrust of the West that shapes every subsequent negotiation.</p>
+            <p><strong style="color:var(--text)">1979–2003:</strong> Revolution, hostage crisis, Iran-Iraq War (U.S. backs Saddam), U.S. invasion of Iraq removes Iran's primary regional rival and creates the vacuum Iran's proxy network fills.</p>
+            <p><strong style="color:var(--text)">2015–2018:</strong> JCPOA constrains Iran's nuclear program. Trump withdraws in 2018 — IAEA confirmed Iran was complying. Iran resumes enrichment.</p>
+            <p><strong style="color:var(--text)">October 7, 2023:</strong> Hamas attacks Israel — 1,200 Israelis killed, 251 taken hostage. The deadliest day for Jewish people since the Holocaust. Israel launches military campaign in Gaza in response. Whether Netanyahu's government had advance intelligence warning and failed to act — the "stand-down order" question — remains disputed and is under formal Israeli state inquiry. What is not disputed: 1,200 people were killed. Iran's proxy network — Hamas, Hezbollah, Houthis — becomes the live mechanism connecting that attack to a potential wider war.</p>
+            <p><strong style="color:var(--text)">2024–2025:</strong> Iran's April 2024 direct missile strike on Israel — first in history. The Twelve-Day War (June 2025). Iran withdraws from NPT. January 2026 protests — IRGC kills thousands of Iranians in the streets.</p>
+            <p><strong style="color:var(--text)">February 28, 2026:</strong> Operation Epic Fury begins. But Gaza, the proxy network, the JCPOA withdrawal, the 1953 coup — they are all in the room.</p>
+          </div>
+        </div>
+
+        <div class="card" style="border-color:rgba(255,190,11,0.25)">
+          <div style="font-size:11px;font-weight:700;color:var(--me);margin-bottom:14px;letter-spacing:0.8px;font-family:var(--font-mono)">🕯️ THE HUMAN COST BEHIND THE NUMBERS</div>
+          <div style="display:flex;flex-direction:column;gap:14px;font-size:13px;color:var(--subtext);line-height:1.75">
+            <p>This dashboard tracks the Iran war's civilian death toll and documents the media's pattern of underreporting it. That pattern did not start with Operation Epic Fury. It was refined and normalized in Gaza first.</p>
+            <p>Western media reported the Gaza conflict in a way that consistently undercounted Palestinian civilian deaths, rarely centered their names or stories, and treated mass casualties as background statistics. The same structural bias this dashboard documents in the Iran war was operating there first — and the same influence networks documented in this dashboard's AIPAC Flow tab were shaping that coverage.</p>
+            <p>Understanding Gaza is understanding how we got to Operation Epic Fury. They are the same story at different chapters.</p>
+            <div style="margin-top:6px;padding:14px 16px;background:var(--surface2);border:1px solid var(--border);border-left:3px solid var(--me);border-radius:var(--radius);">
+              <div style="font-size:11px;font-weight:700;color:var(--me);font-family:var(--font-mono);margin-bottom:8px;letter-spacing:0.5px;">I AM NOT A NUMBER</div>
+              <p style="font-size:12px;line-height:1.7;margin-bottom:10px;">A memorial visualization of 60,000+ named Palestinians killed in Gaza. Each dot is a person — hover to reveal their name. Built by a researcher at EPFL. The most powerful demonstration of what it means to refuse to let the dead be reduced to statistics.</p>
+              <a href="https://bkhmsi.github.io/i-am-not-a-number/" target="_blank" rel="noopener noreferrer"
+                style="display:inline-flex;align-items:center;gap:8px;padding:8px 16px;background:rgba(255,190,11,0.08);border:1px solid rgba(255,190,11,0.3);border-radius:var(--radius-sm);color:var(--me);font-size:12px;font-weight:700;font-family:var(--font-mono);text-decoration:none;transition:all 0.15s;"
+                onmouseover="this.style.background='rgba(255,190,11,0.18)';this.style.borderColor='rgba(255,190,11,0.6)'"
+                onmouseout="this.style.background='rgba(255,190,11,0.08)';this.style.borderColor='rgba(255,190,11,0.3)'">
+                🕯️ Open Memorial ↗
+              </a>
+              <div style="font-size:10px;color:var(--dim);font-family:var(--font-mono);margin-top:8px;">Source: Gaza Health Ministry · Named individuals only · Opens in new tab</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
   </div><!-- /deeper -->
 
 
@@ -1989,7 +2037,7 @@
     <div style="padding: 20px 24px; max-width:1400px; margin: 0 auto;">
 
     <div class="disclaimer" style="border-left:3px solid #2ecc71; background:rgba(46,204,113,0.05)">
-      <strong>Live headlines — auto-updated every hour</strong> from NPR, VOA, BBC, Al Jazeera, France 24, Deutsche Welle, and more. Every story is labeled by source, region, and tone score. Click any headline to read the full story at the original outlet.
+      <strong>Iran live headlines</strong> auto-updated from the multi-source feed. Lebanon-related stories are split into their own tab so the Iran view stays clean.
     </div>
 
     <section>
@@ -1998,25 +2046,14 @@
         <span id="news-updated" style="font-size:10px;color:var(--dim);text-transform:none;letter-spacing:0;font-weight:400;font-family:var(--font-mono)"></span><span id="news-rel-time" style="font-size:10px;color:var(--subtext);font-family:var(--font-mono);margin-left:5px;"></span>
       </div>
 
-      <!-- Live tab search -->
       <div style="position:relative;margin-bottom:12px">
         <span style="position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--dim);font-size:13px">🔍</span>
-        <input type="text" id="live-search" placeholder="Filter live headlines…"
+        <input type="text" id="live-search" placeholder="Filter Iran headlines…"
           style="width:100%;background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:var(--radius);padding:8px 14px 8px 36px;font-size:13px;font-family:var(--font-body);outline:none;"
           oninput="filterLiveNews()" />
       </div>
-      <!-- Famelack Live TV Banner -->
-      <a href="https://famelack.com/top-news" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;gap:10px;background:linear-gradient(135deg,rgba(26,115,232,0.15),rgba(0,200,150,0.1));border:1px solid rgba(26,115,232,0.3);border-radius:8px;padding:10px 16px;margin-bottom:12px;text-decoration:none;transition:all 0.2s;" onmouseover="this.style.borderColor='rgba(26,115,232,0.7)';this.style.background='linear-gradient(135deg,rgba(26,115,232,0.25),rgba(0,200,150,0.15))'" onmouseout="this.style.borderColor='rgba(26,115,232,0.3)';this.style.background='linear-gradient(135deg,rgba(26,115,232,0.15),rgba(0,200,150,0.1))'">
-        <span style="font-size:1.4rem;">📺</span>
-        <div>
-          <div style="color:#4fc3f7;font-size:0.8rem;font-family:var(--font-mono);font-weight:600;letter-spacing:0.05em;">WATCH LIVE</div>
-          <div style="color:#e8eaf6;font-size:0.85rem;font-weight:500;">Watch Live News from Around the World</div>
-        </div>
-        <span style="margin-left:auto;color:#4fc3f7;font-size:0.85rem;">→</span>
-      </a>
 
       <div style="margin-bottom:10px;"><div style="font-size:0.68rem;font-family:var(--font-mono);color:var(--subtext);letter-spacing:0.05em;margin-bottom:5px;">FEED STATUS</div><div id="feed-health-badges" style="display:flex;flex-wrap:wrap;gap:5px;"></div></div>
-      <!-- Tone filter -->
       <div class="filter-row" id="tone-filter-row" style="margin-bottom:8px">
         <button class="filter-btn active" style="background:#363d5e;color:#fff;border-color:transparent" onclick="filterByTone('all',this)">All Tones</button>
         <button class="filter-btn" style="border-color:rgba(255,77,77,0.4)" onclick="filterByTone('hawkish',this)">▲ Hawkish</button>
@@ -2024,7 +2061,6 @@
         <button class="filter-btn" style="border-color:rgba(77,204,136,0.4)" onclick="filterByTone('dovish',this)">▼ Dovish</button>
       </div>
 
-      <!-- Source filter row — built dynamically -->
       <div class="filter-row" id="news-filter-row" style="margin-bottom:16px">
         <button class="filter-btn active" style="background:#363d5e;color:#fff;border-color:transparent" onclick="filterNews('all',this)">All Sources</button>
       </div>
@@ -2032,13 +2068,208 @@
       <div id="news-container">
         <div style="text-align:center;padding:60px 20px;color:var(--subtext)">
           <div style="font-size:32px;margin-bottom:12px">📡</div>
-          <div style="font-size:15px;font-weight:600;margin-bottom:8px">Loading live stories...</div>
+          <div style="font-size:15px;font-weight:600;margin-bottom:8px">Loading Iran stories...</div>
           <div style="font-size:13px;color:var(--dim)">Fetching from news.json</div>
         </div>
       </div>
     </section>
     </div>
   </div><!-- /live -->
+
+  <div id="tab-lebanon" class="tab-section">
+    <div style="padding: 20px 24px; max-width:1400px; margin: 0 auto;">
+      <div class="disclaimer" style="border-left:3px solid #ffbe0b; background:rgba(255,190,11,0.06)">
+        <strong>Lebanon tab</strong> tracks cross-border fighting, Beirut strikes, Hezbollah-related developments, civilian impact, and Israeli policy shifts specific to Lebanon.
+      </div>
+
+      <section>
+        <div class="section-title">Lebanon At a Glance</div>
+        <div class="grid-3" style="margin-bottom:14px;">
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3 id="lebanon-stat-total">Tracking Lebanon stories</h3>
+            <p id="lebanon-stat-total-desc">Counting Lebanon-specific headlines from the shared regional feed.</p>
+            <div class="card-meta">
+              <span>Live feed volume</span>
+              <span style="color:var(--fact)" id="lebanon-stat-total-meta">Waiting for load</span>
+            </div>
+          </div>
+          <div class="card govt">
+            <div class="card-header">
+              <span class="card-type govt">⚠ Official Statement</span>
+              <span class="bias-score hawkish">▲ Hawkish</span>
+            </div>
+            <h3 id="lebanon-stat-hawkish">Watching escalation-heavy language</h3>
+            <p id="lebanon-stat-hawkish-desc">This tracks how many Lebanon stories lean toward strike, retaliation, or expanded-operation framing.</p>
+            <div class="card-meta">
+              <span>Tone scan</span>
+              <span style="color:var(--govt)" id="lebanon-stat-hawkish-meta">Waiting for load</span>
+            </div>
+          </div>
+          <div class="card framing">
+            <div class="card-header">
+              <span class="card-type framing">◈ Media Framing</span>
+              <span class="bias-score dovish">▼ Dovish</span>
+            </div>
+            <h3 id="lebanon-stat-human">Watching civilian-impact reporting</h3>
+            <p id="lebanon-stat-human-desc">This flags stories that center civilians, journalists, displacement, or humanitarian fallout in Lebanon.</p>
+            <div class="card-meta">
+              <span>Human-impact scan</span>
+              <span style="color:var(--framing)" id="lebanon-stat-human-meta">Waiting for load</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-3">
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3>Lebanon is now its own front in the wider regional war</h3>
+            <p>Israeli operations and Hezbollah activity are no longer side notes to the Iran file. They have their own escalation logic, casualty patterns, and political consequences, which is why this tab is separated from the Iran feed.</p>
+            <div class="card-meta">
+              <span>Dashboard structure update</span>
+              <span style="color:var(--fact)">Operational separation</span>
+            </div>
+          </div>
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score hawkish">▲ Hawkish</span>
+            </div>
+            <h3>Israeli strikes and border operations continue to drive Lebanon casualties</h3>
+            <p>Recent reporting across BBC, NPR, and regional outlets centers on Israeli strikes in Beirut and southern Lebanon, journalist deaths, and statements indicating Israel may seek long-term control over parts of the south.</p>
+            <div class="card-meta">
+              <span>BBC, NPR, regional press</span>
+              <span style="color:var(--fact)">Cross-source pattern</span>
+            </div>
+          </div>
+          <div class="card framing">
+            <div class="card-header">
+              <span class="card-type framing">◈ Media Framing</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3>Lebanon coverage gets swallowed when bundled into Iran headlines</h3>
+            <p>When Lebanon stories are mixed into the Iran stream, the result is worse filtering, muddier alerts, and weaker source comparisons. This tab fixes that instead of pretending it is all one story.</p>
+            <div class="card-meta">
+              <span>UX and editorial separation</span>
+              <span style="color:var(--framing)">Intentional design choice</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-title">Lebanon Focus Areas</div>
+        <div class="grid-2">
+          <div class="card govt">
+            <div class="card-header">
+              <span class="card-type govt">⚠ Official Statement</span>
+              <span class="bias-score hawkish">▲ Hawkish</span>
+            </div>
+            <h3>Border control and buffer-zone language matter</h3>
+            <p>Israeli officials have signaled interest in shaping post-war security arrangements inside or near southern Lebanon. Those statements should be tracked separately from battlefield reporting because they point to long-term intent, not just short-term strikes.</p>
+            <div class="card-meta">
+              <span>Watch official rhetoric</span>
+              <span style="color:var(--govt)">Security posture</span>
+            </div>
+          </div>
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score dovish">▼ Dovish</span>
+            </div>
+            <h3>Civilian, journalist, and infrastructure impact deserves its own lane</h3>
+            <p>Lebanon stories frequently include apartment block strikes, journalist deaths, displacement, and pressure on urban life in Beirut and the south. That humanitarian angle gets blurred when the dashboard only prioritizes the Iran theater.</p>
+            <div class="card-meta">
+              <span>Human impact lens</span>
+              <span style="color:var(--fact)">Separate accountability view</span>
+            </div>
+          </div>
+          <div class="card framing span-2">
+            <div class="card-header">
+              <span class="card-type framing">◈ Media Framing</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3>What this tab should answer fast</h3>
+            <p>At a glance, the Lebanon section should tell you four things: what happened in Beirut or southern Lebanon, whether Hezbollah activity changed, whether Israel signaled a broader campaign objective, and what the civilian or diplomatic fallout looks like. If the tab does not answer those fast, it is too cluttered.</p>
+            <div class="card-meta">
+              <span>Editorial target</span>
+              <span style="color:var(--framing)">Clarity over volume</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-title">Lebanon Historical Context</div>
+        <div class="card" style="padding:20px 24px">
+          <div class="timeline">
+            <div class="tl-item fact">
+              <div class="tl-dot"></div>
+              <div class="tl-date">2006</div>
+              <div class="tl-title">Israel-Hezbollah war reshapes the deterrence baseline</div>
+              <div class="tl-body">The 2006 war remains the core reference point for nearly every escalation analysis in Lebanon. It established the template for border fire, deterrence claims, civilian damage, and post-war arguments over who achieved what.</div>
+              <div class="tl-source me-src">Source: historical conflict baseline</div>
+            </div>
+
+            <div class="tl-item framing">
+              <div class="tl-dot"></div>
+              <div class="tl-date">2010s–2020s</div>
+              <div class="tl-title">Hezbollah becomes both domestic actor and regional military node</div>
+              <div class="tl-body">Coverage of Lebanon often breaks because Hezbollah is simultaneously a Lebanese political actor, a militia, and a regional proxy-linked force. That overlap is exactly why a Lebanon tab needs its own framing and source comparisons.</div>
+              <div class="tl-source me-src">Source: regional reporting pattern</div>
+            </div>
+
+            <div class="tl-item fact">
+              <div class="tl-dot"></div>
+              <div class="tl-date">2023–2026</div>
+              <div class="tl-title">Cross-border fire and regional spillover turn Lebanon into an active front</div>
+              <div class="tl-body">As the wider regional war expands, Lebanon shifts from background pressure point to active theater. Beirut strikes, south Lebanon operations, and casualty reporting now justify a separate dashboard lane instead of occasional mentions inside Iran updates.</div>
+              <div class="tl-source me-src">Source: multi-outlet escalation trend</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-title" style="display:flex;justify-content:space-between;align-items:center">
+          <span>Lebanon Headlines</span>
+          <span id="lebanon-news-count" style="font-size:10px;color:var(--dim);font-family:var(--font-mono)"></span>
+        </div>
+
+        <div style="position:relative;margin-bottom:12px">
+          <span style="position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--dim);font-size:13px">🔍</span>
+          <input type="text" id="lebanon-search" placeholder="Filter Lebanon headlines…"
+            style="width:100%;background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:var(--radius);padding:8px 14px 8px 36px;font-size:13px;font-family:var(--font-body);outline:none;"
+            oninput="filterLebanonNews()" />
+        </div>
+
+        <div class="filter-row" id="lebanon-tone-filter-row" style="margin-bottom:8px">
+          <button class="filter-btn active" style="background:#363d5e;color:#fff;border-color:transparent" onclick="filterLebanonByTone('all',this)">All Tones</button>
+          <button class="filter-btn" style="border-color:rgba(255,77,77,0.4)" onclick="filterLebanonByTone('hawkish',this)">▲ Hawkish</button>
+          <button class="filter-btn" style="border-color:rgba(77,166,255,0.4)" onclick="filterLebanonByTone('neutral',this)">◈ Neutral</button>
+          <button class="filter-btn" style="border-color:rgba(77,204,136,0.4)" onclick="filterLebanonByTone('dovish',this)">▼ Dovish</button>
+        </div>
+
+        <div class="filter-row" id="lebanon-source-filter-row" style="margin-bottom:16px">
+          <button class="filter-btn active" style="background:#363d5e;color:#fff;border-color:transparent" onclick="filterLebanonBySource('all',this)">All Sources</button>
+        </div>
+
+        <div id="lebanon-container">
+          <div style="text-align:center;padding:60px 20px;color:var(--subtext)">
+            <div style="font-size:32px;margin-bottom:12px">🇱🇧</div>
+            <div style="font-size:15px;font-weight:600;margin-bottom:8px">Loading Lebanon stories...</div>
+            <div style="font-size:13px;color:var(--dim)">Split from news.json</div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div><!-- /lebanon -->
 
   <!-- ══════════════════════════════ -->
   <!--      NETWORK / DOSSIER TAB    -->
@@ -2421,7 +2652,7 @@
 
 
 <footer>
-  ClearView Iran Conflict Dashboard &nbsp;·&nbsp; Auto-updated hourly via GitHub Actions &nbsp;·&nbsp; Always follow source links and read primary documents &nbsp;·&nbsp; No source is fully source-transparent — including this one.
+  ClearView Iran & Lebanon Conflict Dashboard &nbsp;·&nbsp; Auto-updated hourly via GitHub Actions &nbsp;·&nbsp; Always follow source links and read primary documents &nbsp;·&nbsp; No source is fully source-transparent, including this one.
 </footer>
 
 <script src="./war-widget.js"></script>
@@ -2534,8 +2765,11 @@
 
   // ── LIVE NEWS ─────────────────────────────────────────────
   let allStories = [];
+  let lebanonStories = [];
   let activeSource = 'all';
   let activeTone   = 'all';
+  let activeLebanonSource = 'all';
+  let activeLebanonTone = 'all';
 
   const SOURCE_META = {
     // Existing sources
@@ -2562,8 +2796,8 @@
     "Gulf News":       { region: "UAE",          color: "#ffbe0b", flag: "🇦🇪" },
   };
 
-  function buildFilterButtons(stories) {
-    const row = document.getElementById('news-filter-row');
+  function buildFilterButtons(stories, rowId, handlerName) {
+    const row = document.getElementById(rowId);
     const seen = new Set();
     stories.forEach(s => seen.add(s.source));
     [...row.querySelectorAll('.dynamic-filter')].forEach(b => b.remove());
@@ -2573,9 +2807,14 @@
       btn.className = 'filter-btn dynamic-filter';
       btn.style.borderColor = meta.color + '66';
       btn.textContent = (meta.flag ? meta.flag + ' ' : '') + src;
-      btn.onclick = function() { filterNews(src, this); };
+      btn.onclick = function() { window[handlerName](src, this); };
       row.appendChild(btn);
     });
+  }
+
+  function isLebanonStory(story) {
+    const text = ((story.title || '') + ' ' + (story.description || '')).toLowerCase();
+    return text.includes('lebanon') || text.includes('beirut') || text.includes('hezbollah') || text.includes('southern lebanon') || text.includes('south lebanon');
   }
 
   function getFilteredLiveStories() {
@@ -2776,19 +3015,126 @@
     renderNews(getFilteredLiveStories());
   }
 
+  function getFilteredLebanonStories() {
+    const gq = document.getElementById('global-search').value.trim().toLowerCase();
+    const lq = document.getElementById('lebanon-search') ? document.getElementById('lebanon-search').value.trim().toLowerCase() : '';
+    const q = lq || gq;
+    return lebanonStories.filter(s => {
+      const matchSource = activeLebanonSource === 'all' || s.source === activeLebanonSource;
+      const matchTone = activeLebanonTone === 'all' || s._tone === activeLebanonTone;
+      const matchQuery = !q ||
+        (s.title || '').toLowerCase().includes(q) ||
+        (s.description || '').toLowerCase().includes(q) ||
+        (s.source || '').toLowerCase().includes(q);
+      return matchSource && matchTone && matchQuery;
+    });
+  }
+
+  function renderLebanonNews(stories) {
+    const container = document.getElementById('lebanon-container');
+    const countEl = document.getElementById('lebanon-news-count');
+    if (countEl) countEl.textContent = `${stories.length} stor${stories.length === 1 ? 'y' : 'ies'}`;
+    if (!stories.length) {
+      container.innerHTML = '<div style="text-align:center;padding:40px;color:var(--subtext)">No Lebanon stories match this filter.</div>';
+      return;
+    }
+    container.innerHTML = stories.map(s => {
+      const meta  = SOURCE_META[s.source] || { region: s.region || '', color: '#ffbe0b', flag: '🇱🇧' };
+      const tone  = s._tone || scoreTone(s.title + ' ' + (s.description || ''));
+      return `
+        <a href="${s.link}" target="_blank" rel="noopener noreferrer" class="news-card" style="border-left:3px solid ${meta.color}">
+          <div class="news-card-header">
+            <span style="font-size:15px">${meta.flag}</span>
+            <span class="source-chip" style="color:${meta.color}">${s.source}</span>
+            <span class="region-chip">${meta.region}</span>
+            <span class="bias-chip ${tone}">${TONE_LABEL[tone]}</span>
+            <span style="margin-left:auto;font-size:10px;color:var(--dim);font-family:var(--font-mono)">${s.date ? s.date.slice(0,16) : ''}</span>
+          </div>
+          <div class="news-card-title">${s.title}</div>
+          ${s.description ? `<div class="news-card-desc">${s.description}</div>` : ''}
+          <div class="news-card-link" style="color:${meta.color};margin-top:8px;">Read full story →</div>
+        </a>`;
+    }).join('');
+  }
+
+  function updateLebanonStats() {
+    const total = lebanonStories.length;
+    const hawkish = lebanonStories.filter(s => s._tone === 'hawkish').length;
+    const human = lebanonStories.filter(s => {
+      const text = ((s.title || '') + ' ' + (s.description || '')).toLowerCase();
+      return text.includes('civilian') || text.includes('journalist') || text.includes('displaced') || text.includes('humanitarian') || text.includes('killed') || text.includes('wounded');
+    }).length;
+
+    const totalEl = document.getElementById('lebanon-stat-total');
+    const totalDesc = document.getElementById('lebanon-stat-total-desc');
+    const totalMeta = document.getElementById('lebanon-stat-total-meta');
+    const hawkEl = document.getElementById('lebanon-stat-hawkish');
+    const hawkDesc = document.getElementById('lebanon-stat-hawkish-desc');
+    const hawkMeta = document.getElementById('lebanon-stat-hawkish-meta');
+    const humanEl = document.getElementById('lebanon-stat-human');
+    const humanDesc = document.getElementById('lebanon-stat-human-desc');
+    const humanMeta = document.getElementById('lebanon-stat-human-meta');
+
+    if (totalEl) totalEl.textContent = `${total} Lebanon stor${total === 1 ? 'y' : 'ies'} tracked`;
+    if (totalDesc) totalDesc.textContent = 'Pulled automatically from the regional feed and separated from Iran coverage.';
+    if (totalMeta) totalMeta.textContent = total ? 'Live now' : 'No stories yet';
+
+    if (hawkEl) hawkEl.textContent = `${hawkish} escalation-heavy stor${hawkish === 1 ? 'y' : 'ies'}`;
+    if (hawkDesc) hawkDesc.textContent = 'Stories scored hawkish usually emphasize strikes, retaliation, cross-border operations, or military threats.';
+    if (hawkMeta) hawkMeta.textContent = total ? `${Math.round((hawkish / Math.max(total,1)) * 100)}% of Lebanon feed` : 'No data';
+
+    if (humanEl) humanEl.textContent = `${human} civilian-impact stor${human === 1 ? 'y' : 'ies'}`;
+    if (humanDesc) humanDesc.textContent = 'These stories foreground casualties, journalists, displacement, or humanitarian pressure.';
+    if (humanMeta) humanMeta.textContent = total ? `${Math.round((human / Math.max(total,1)) * 100)}% of Lebanon feed` : 'No data';
+  }
+
+  function filterLebanonBySource(source, btn) {
+    activeLebanonSource = source;
+    document.querySelectorAll('#lebanon-source-filter-row .filter-btn').forEach(b => {
+      b.classList.remove('active');
+      b.style.background = '';
+      b.style.color = '';
+    });
+    btn.classList.add('active');
+    btn.style.background = '#363d5e';
+    btn.style.color = '#fff';
+    renderLebanonNews(getFilteredLebanonStories());
+  }
+
+  function filterLebanonByTone(tone, btn) {
+    activeLebanonTone = tone;
+    document.querySelectorAll('#lebanon-tone-filter-row .filter-btn').forEach(b => {
+      b.classList.remove('active');
+      b.style.background = '';
+      b.style.color = '';
+    });
+    btn.classList.add('active');
+    btn.style.background = '#363d5e';
+    btn.style.color = '#fff';
+    renderLebanonNews(getFilteredLebanonStories());
+  }
+
+  function filterLebanonNews() {
+    renderLebanonNews(getFilteredLebanonStories());
+  }
+
   async function loadNews() {
     try {
       const res = await fetch('news.json?t=' + Date.now());
       if (!res.ok) throw new Error('news.json not found yet');
       const data = await res.json();
-      allStories = (data.stories || []).map(s => ({
+      const enrichedStories = (data.stories || []).map(s => ({
         ...s,
         _tone: scoreTone(s.title + ' ' + (s.description || ''))
       }));
-      buildFilterButtons(allStories);
+      lebanonStories = enrichedStories.filter(isLebanonStory);
+      allStories = enrichedStories.filter(s => !isLebanonStory(s));
+      buildFilterButtons(allStories, 'news-filter-row', 'filterNews');
+      buildFilterButtons(lebanonStories, 'lebanon-source-filter-row', 'filterLebanonBySource');
       const upd = document.getElementById('news-updated');
-      if (upd) upd.textContent = `Updated: ${data.updated} · ${data.total} stories`; var rEl=document.getElementById('news-rel-time'); if(rEl) rEl.textContent=relativeTime(data.updated);
-      renderFeedHealth(allStories); renderNews(allStories);
+      if (upd) upd.textContent = `Updated: ${data.updated} · ${allStories.length} Iran stories`; var rEl=document.getElementById('news-rel-time'); if(rEl) rEl.textContent=relativeTime(data.updated);
+      updateLebanonStats();
+      renderFeedHealth(enrichedStories); renderNews(allStories); renderLebanonNews(lebanonStories);
     } catch (e) {
       document.getElementById('news-container').innerHTML = `
         <div style="text-align:center;padding:40px 20px;color:var(--subtext)">
@@ -2803,11 +3149,67 @@
   }
 
   document.getElementById('live-tab-btn').addEventListener('click', loadNews);
+  document.getElementById('lebanon-tab-btn').addEventListener('click', loadNews);
 
   // ── TIMELINE AUTO-UPDATE ────────────────────────────────────
   let timelineLoaded = false;
+  let allTimelineEvents = [];
+  let activeTimelineFilter = 'all';
   const TYPE_COLOR = { fact: 'var(--fact)', govt: 'var(--govt)', framing: 'var(--framing)' };
   const TYPE_LABEL = { fact: '🔵 Multi-source confirmed', govt: '🟠 2 sources', framing: '🟣 Single source' };
+
+  function getTimelineRegion(event) {
+    const text = ((event.title || '') + ' ' + (event.sources || []).join(' ')).toLowerCase();
+    if (text.includes('lebanon') || text.includes('beirut') || text.includes('hezbollah')) return 'lebanon';
+    return 'iran';
+  }
+
+  function renderTimelineEvents(events) {
+    const container = document.getElementById('timeline-auto-container');
+    if (!events || !events.length) {
+      container.innerHTML = '<div style="color:var(--subtext);font-size:13px;padding:8px 0">No events match this timeline filter yet.</div>';
+      return;
+    }
+    container.innerHTML = events.map(e => {
+      const region = e._region || getTimelineRegion(e);
+      const regionChip = region === 'lebanon'
+        ? '<span style="font-size:10px;background:rgba(255,190,11,0.10);color:var(--me);padding:2px 8px;border-radius:10px;font-family:var(--font-mono)">Lebanon</span>'
+        : '<span style="font-size:10px;background:rgba(26,115,232,0.10);color:var(--fact);padding:2px 8px;border-radius:10px;font-family:var(--font-mono)">Iran</span>';
+      return `
+        <div class="tl-item ${e.type}" style="margin-bottom:14px">
+          <div class="tl-dot"></div>
+          <div class="tl-date">${e.dateDisplay}</div>
+          <a href="${e.link}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+            <div class="tl-title" style="color:var(--text)">${e.title}</div>
+          </a>
+          <div style="margin-top:5px;display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+            <span style="font-size:10px;color:${TYPE_COLOR[e.type]};font-family:var(--font-mono)">${TYPE_LABEL[e.type]}</span>
+            ${regionChip}
+            <span style="font-size:10px;color:var(--dim)">${e.sources.join(' · ')}</span>
+          </div>
+        </div>`;
+    }).join('');
+  }
+
+  function applyTimelineFilter() {
+    const events = activeTimelineFilter === 'all'
+      ? allTimelineEvents
+      : allTimelineEvents.filter(e => e._region === activeTimelineFilter);
+    renderTimelineEvents(events);
+  }
+
+  function setTimelineFilter(region, btn) {
+    activeTimelineFilter = region;
+    document.querySelectorAll('#timeline-auto-section .filter-btn').forEach(b => {
+      b.classList.remove('active');
+      b.style.background = '';
+      b.style.color = '';
+    });
+    btn.classList.add('active');
+    btn.style.background = '#363d5e';
+    btn.style.color = '#fff';
+    applyTimelineFilter();
+  }
 
   async function loadTimeline() {
     if (timelineLoaded) return;
@@ -2817,23 +3219,12 @@
       const data = await res.json();
       const upd = document.getElementById('timeline-updated');
       if (upd && data.updated) upd.textContent = 'Updated: ' + data.updated;
-      const container = document.getElementById('timeline-auto-container');
       if (!data.events || !data.events.length) {
-        container.innerHTML = '<div style="color:var(--subtext);font-size:13px;padding:8px 0">No recent events yet — check back after the next GitHub Actions run.</div>';
+        document.getElementById('timeline-auto-container').innerHTML = '<div style="color:var(--subtext);font-size:13px;padding:8px 0">No recent events yet — check back after the next GitHub Actions run.</div>';
         timelineLoaded = true; return;
       }
-      container.innerHTML = data.events.map(e => `
-        <div class="tl-item ${e.type}" style="margin-bottom:14px">
-          <div class="tl-dot"></div>
-          <div class="tl-date">${e.dateDisplay}</div>
-          <a href="${e.link}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-            <div class="tl-title" style="color:var(--text)">${e.title}</div>
-          </a>
-          <div style="margin-top:5px;display:flex;gap:8px;align-items:center;flex-wrap:wrap">
-            <span style="font-size:10px;color:${TYPE_COLOR[e.type]};font-family:var(--font-mono)">${TYPE_LABEL[e.type]}</span>
-            <span style="font-size:10px;color:var(--dim)">${e.sources.join(' · ')}</span>
-          </div>
-        </div>`).join('');
+      allTimelineEvents = data.events.map(e => ({ ...e, _region: getTimelineRegion(e) }));
+      applyTimelineFilter();
       timelineLoaded = true;
     } catch (err) {
       document.getElementById('timeline-auto-container').innerHTML = `
