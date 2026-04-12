@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-12 13:52 UTC",
-  "total": 46,
+  "updated": "2026-04-12 14:33 UTC",
+  "total": 43,
   "stories": [
     {
       "title": "U.S. and Iran fail to reach agreement during high-level talks in Islamabad",
@@ -23,7 +23,7 @@
       "bias": "Low"
     },
     {
-      "title": "Trump claims U.S. will close strait of Hormuz after Iran peace talks collapse",
+      "title": "Trump claims U.S. will close Strait of Hormuz after Iran peace talks collapse",
       "link": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse",
       "description": "After talks between the U.S. and Iran collapsed, President Donald Trump claimed the U.S. will \"blockade\" the Strait of Hormuz.",
       "date": "Sun, 12 Apr 2026",
@@ -158,6 +158,16 @@
       "description": "Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.",
       "date": "Thu, 09 Apr 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump orders blockade of Hormuz Strait",
+      "link": "https://www.france24.com/en/trump-orders-blockade-of-hormuz-strait",
+      "description": "US navy will begin blockading ships trying to enter or leave the Strait of Hormuz “effective immediately”, US President Donald Trump said in a social media post Sunday. He added that the US would ‌also “interdict” every ‌vessel in international waters that had paid a toll to Iran...",
+      "date": "Sun, 12 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -303,9 +313,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says US to soon begin naval blockade of Strait of Hormuz",
-      "link": "https://www.dawn.com/news/1991096/trump-says-us-to-soon-begin-naval-blockade-of-strait-of-hormuz",
-      "description": "US President Donald Trump on Sunday said talks with Iran in Islamabad had yielded progress on “most points” but failed to secure agreement on Tehran’s nuclear programme, warning that Washington would move to blockade the Strait of Hormuz. In a lengthy statement, Trump said the ne...",
+      "title": "Trump says US-Iran talks yielded progress on ‘most points’ but no nuclear agreement",
+      "link": "https://www.dawn.com/news/1991096/trump-says-us-iran-talks-yielded-progress-on-most-points-but-no-nuclear-agreement",
+      "description": "US President Donald Trump on Sunday said talks with Iran in Islamabad had yielded progress on “most points” but failed to secure agreement on Tehran’s nuclear programme, warning that Washington would move to blockade the Strait of Hormuz. Trump’s statement comes after a historic ...",
       "date": "Sun, 12 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -421,46 +431,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Death toll from US-Israeli attacks on Iran exceeds 3,300 — agency",
-      "link": "https://tass.com/world/2115723",
-      "description": "Jafar Miadfar, the head of Iran's Emergency Medical Services Organization, said that 26 medical workers have died and 188 have been wounded",
-      "date": "Sun, 12 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian delegation leaves Pakistan after talks with US — TV",
-      "link": "https://tass.com/world/2115717",
-      "description": "Iran and the United States held several rounds of talks in Islamabad on April 11",
-      "date": "Sun, 12 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Former UN expert blames US for failure of talks with Iran",
-      "link": "https://tass.com/world/2115711",
-      "description": "According to Alfred de Zayas, \"the world has learned that the US and Israel break almost all the agreements they enter into — or reinterpret them unilaterally to obtain advantages that the other side never consented to\"",
-      "date": "Sun, 12 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Putin, Iranian president discuss developments in Middle East",
-      "link": "https://tass.com/politics/2115703",
-      "description": "Masoud Pezeshkian briefed the Russian leader on the Iran-US talks held in Pakistan on April 11",
-      "date": "Sun, 12 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
