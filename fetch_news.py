@@ -244,13 +244,27 @@ def main():
     # Sort: US first, then EU, then ME/others
     order = {"us": 0, "eu": 1, "me": 2, "ru": 3, "cn": 4}
 
-    # Cap: max 15 stories per source, 60 total
+    # Cap per source so one outlet does not flood the feed
     from collections import defaultdict
+
+    SOURCE_LIMITS = {
+        "TASS": 4,
+        "Xinhua": 3,
+        "NPR News": 8,
+        "BBC": 10,
+        "France 24": 8,
+        "Al Jazeera": 8,
+        "Dawn": 6,
+        "The Hindu": 6,
+        "Default": 6,
+    }
+
     source_counts = defaultdict(int)
     capped = []
     for item in unique:
         src = item.get("source", "")
-        if source_counts[src] < 15:
+        limit = SOURCE_LIMITS.get(src, SOURCE_LIMITS["Default"])
+        if source_counts[src] < limit:
             source_counts[src] += 1
             capped.append(item)
     unique = capped[:60]
