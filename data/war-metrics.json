@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T23:01:11.387Z",
+  "lastUpdated": "2026-04-11T23:45:47.667Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,20 +9,20 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 38259159572
+    "estimatedTotalUsd": 48290135035
   },
   "casualties": {
     "us": {
       "killed": {
         "value": 13,
-        "asOf": "2026-03-13T12:00:00Z",
-        "sourceId": "dod-centcom",
-        "confidence": "medium"
+        "asOf": "2026-04-11T23:45:47.667Z",
+        "sourceId": "dod-centcom-rss",
+        "confidence": "high"
       },
       "wounded": {
-        "value": 5,
-        "asOf": "2026-03-01T14:30:00Z",
-        "sourceId": "dod-centcom",
+        "value": 140,
+        "asOf": "2026-03-14T18:24:26.819Z",
+        "sourceId": "dod-centcom-rss",
         "confidence": "medium"
       },
       "asOf": "2026-03-13T12:00:00Z"
@@ -43,41 +43,44 @@
     },
     "iranCivilians": {
       "killed": {
-        "minReported": 2100,
-        "maxReported": 2200,
-        "asOf": "2026-04-03T00:00:00Z",
+        "minReported": 1255,
+        "maxReported": 1800,
+        "asOf": "2026-03-14T17:55:42.727Z",
         "sourceIds": [
           "ocha"
         ],
         "confidence": "medium"
       },
       "wounded": {
-        "minReported": 27900,
-        "maxReported": 32000,
-        "asOf": "2026-04-03T00:00:00Z",
+        "minReported": 12000,
+        "maxReported": 16500,
+        "asOf": "2026-03-14T17:55:42.727Z",
         "sourceIds": [
-          "ocha"
+          "unhcr"
         ],
         "confidence": "medium"
       },
-      "killedMin": 2100,
-      "woundedMin": 27900,
-      "asOf": "2026-04-03T00:00:00Z"
+      "killedMin": 1255,
+      "woundedMin": 12000,
+      "asOf": "2026-03-13T12:00:00Z"
     }
   },
   "energy": {
-    "usGasNationalAvgUsd": 3.961,
-    "usGasChangeSinceStartUsd": 0.95,
-    "brentUsdPerBbl": 101.16,
-    "brentChangePct24h": -2.7,
-    "asOf": "2026-04-01T23:01:10.562Z",
-    "gasSeriesDate": "2026-03-23",
+    "usGasNationalAvgUsd": 4.135,
+    "usGasChangeSinceStartUsd": 0.17,
+    "brentUsdPerBbl": 95.2,
+    "brentChangePct24h": -0.75,
+    "asOf": "2026-04-11T23:45:47.325Z",
+    "gasSeriesDate": "2026-04-11",
     "gasBaselineDate": "2026-03-02",
-    "gasSource": "fred-gasregw",
-    "brentSource": "oilprice-brent"
+    "gasSource": "aaa-national-average",
+    "brentSource": "oilprice-brent",
+    "usGasBaselineUsd": 3.961,
+    "gasSourceLabel": "AAA national average",
+    "gasMethod": "daily_snapshot"
   },
   "quality": {
-    "generatedAt": "2026-04-01T23:01:11.387Z",
+    "generatedAt": "2026-04-11T23:45:47.668Z",
     "staleThresholdHours": 48,
     "casualties": {
       "usStale": false,

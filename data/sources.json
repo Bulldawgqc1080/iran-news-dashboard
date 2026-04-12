@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T23:01:11.387Z",
+  "lastUpdated": "2026-04-11T23:45:47.668Z",
   "sources": [
     {
       "id": "dod-centcom",
@@ -23,11 +23,18 @@
       "priority": "primary"
     },
     {
+      "id": "aaa-national-average",
+      "label": "AAA National Average Gas Prices",
+      "url": "https://gasprices.aaa.com/",
+      "category": "gas_price",
+      "priority": "primary"
+    },
+    {
       "id": "fred-gasregw",
       "label": "FRED GASREGW",
       "url": "https://fred.stlouisfed.org/series/GASREGW",
-      "category": "gas_price",
-      "priority": "primary"
+      "category": "gas_price_fallback",
+      "priority": "secondary"
     },
     {
       "id": "oilprice-brent",
