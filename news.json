@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-12 23:24 UTC",
-  "total": 43,
+  "updated": "2026-04-13 01:26 UTC",
+  "total": 47,
   "stories": [
     {
       "title": "After failed peace talks, President Trump threatens to blockade the Strait of Hormuz",
@@ -233,6 +233,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US military threatens to blockade all Iranian ports starting on Monday",
+      "link": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss",
+      "description": "Vessels will still be able to transit the Strait of Hormuz to and from non-Iranian ports, says US Central Command.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: US military says it will block Iranian traffic in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss",
+      "description": "CENTCOM says the blockade will begin at 14:00 GMT, as Iran warns of even higher prices at the pump.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "These are people Israel killed in Lebanon on a single day",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
       "description": "In a matter of minutes, Israel killed more than 350 people across Lebanon on Wednesday, April 8.",
@@ -286,26 +306,6 @@
       "title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
       "description": "Rescuers are digging through rubble after a new wave of Israeli strikes across southern Lebanon killed at least 13.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iranian authorities remain defiant, urge supporters to stay in streets",
-      "link": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in?traffic_source=rss",
-      "description": "Mohammad Bagher Ghalibaf, who led Iran&#039;s delegation in talks to end the war, said US delegation &#039;failed to gain trust&#039;.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Blown to hell’: Trump orders Hormuz blockade after US-Iran peace talks end",
-      "link": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss",
-      "description": "US Navy to enforce blockade, Trump says after condemning Iran for blocking waterway, complaining of no deal in Pakistan.",
       "date": "Sun, 12 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -376,7 +376,7 @@
       "title": "Israel-Iran war LIVE updates: U.S. Central Command says it will begin blockade of Iranian ports Monday",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-12-2026/article70853206.ece",
       "description": "The U.S. president said his threat to impose 50% tariffs on goods from countries that sold weapons to Iran was aimed at China",
-      "date": "Sun, 12 Apr 2026",
+      "date": "Mon, 13 Apr 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -431,6 +431,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Washington considering resuming limited strikes on Iran — newspaper",
+      "link": "https://tass.com/world/2115817",
+      "description": "According to a report by The Wall Street Journal, this measure is believed to push Tehran to make concessions",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US to allow Strait of Hormuz transit to and from non-Iranian ports — Pentagon",
+      "link": "https://tass.com/world/2115811",
+      "description": "Earlier, CENTCOM said its forces would begin a naval blockade of Iran at 2:00 p.m. GMT, on April 13",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Netanyahu visits southern Lebanon, says campaign against Hezbollah will be continued",
+      "link": "https://tass.com/world/2115801",
+      "description": "According to the Israeli prime minister, the earlier strikes on Hezbollah have \"thwarted the threat of an invasion from Lebanon\"",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UK, France to work on resuming navigation in Strait of Hormuz",
+      "link": "https://tass.com/world/2115797",
+      "description": "UK Prime Minister Keir Starmer and French President Emmanuel Macron agreed on the strategic importance of the Strait of Hormuz for global trade and energy supplies, Starmer's office said",
+      "date": "Sun, 12 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
