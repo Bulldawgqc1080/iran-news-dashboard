@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-13 12:59 UTC",
-  "total": 49,
+  "updated": "2026-04-13 14:50 UTC",
+  "total": 50,
   "stories": [
     {
       "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
@@ -13,7 +13,7 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. military to block ships from Iran's ports after peace talks fail",
+      "title": "The U.S. military is about to block ships from Iran's ports after talks failed",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
       "description": "The U.S. Central Command said the blockade would be \"enforced impartially against vessels of all nations\" from 10 a.m. EDT, following the breakdown of talks after 21 hours of negotiations.",
       "date": "Mon, 13 Apr 2026",
@@ -36,6 +36,16 @@
       "title": "Retired U.S. Navy admiral on Trump's threat to blockade the Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5780994/retired-us-navy-admiral-on-trumps-threat-to-blockade-the-strait-of-hormuz",
       "description": "NPR's Michel Martin speaks to retired U.S. Navy Adm. James Foggo, dean of the Center for Maritime Strategy, about President Trump's command to blockade the Strait of Hormuz.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Pope Leo stands firm with Trump as Vatican–Washington rift deepens over Iran war",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-as-row-with-trump-over-iran-war-intensifies",
+      "description": "Pope Leo XIV says he will not be deterred by criticism from President Trump, vowing to continue his calls for peace as tensions escalate between the Vatican and Washington over the Iran conflict.",
       "date": "Mon, 13 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -77,6 +87,16 @@
       "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
       "description": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
       "date": "Sun, 12 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom",
+      "link": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss",
+      "description": "More than 160 people have been killed since Friday in Lebanon, where Israel is pressing on with its campaign against Hezbollah despite the US-Iran ceasefire.",
+      "date": "Mon, 13 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -146,16 +166,6 @@
       "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
       "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.",
-      "date": "Thu, 09 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
-      "link": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
-      "description": "Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.",
       "date": "Thu, 09 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -253,6 +263,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump says Iranian ships will be ‘eliminated’ as US naval blockade begins",
+      "link": "https://www.aljazeera.com/news/2026/4/13/trump-says-iranian-ships-will-be-eliminated-as-us-naval-blockade-begins?traffic_source=rss",
+      "description": "US president says Iranian military vessels approaching the blockade zone in Gulf will be &#039;immediately eliminated&#039;.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump’s threat to blockade Hormuz: Why it’s war’s latest major escalation",
+      "link": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation?traffic_source=rss",
+      "description": "Analysts warn Washington&#039;s blockade could harm the fragile ceasefire between the US and Iran.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown",
+      "link": "https://www.aljazeera.com/news/2026/4/13/pakistan-eyes-narrow-window-to-resuscitate-us-iran-talks-after-breakdown?traffic_source=rss",
+      "description": "US and Iran end marathon Islamabad talks without agreement, leaving fragile ceasefire under growing strain.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "At least six killed in Israeli strikes in southern Lebanon",
       "link": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss",
       "description": "Attacks come as Israel says it is close to taking over a major town in the south, and before peace talks in the US.",
@@ -303,34 +343,14 @@
       "bias": "Medium"
     },
     {
-      "title": "US blockade of Iran would worsen global energy crisis, analysts say",
-      "link": "https://www.aljazeera.com/news/2026/4/13/us-blockade-of-iran-would-worsen-global-energy-crisis-analysts-say?traffic_source=rss",
-      "description": "While US military says it will blockade Iranian ports only, move would have ripples worldwide, according to analysts.",
+      "title": "Luxury brands face profit squeeze as Iran conflict shrinks UAE mall sales, sources say",
+      "link": "https://www.dawn.com/news/1991379/luxury-brands-face-profit-squeeze-as-iran-conflict-shrinks-uae-mall-sales-sources-say",
+      "description": "Sales at Europe’s biggest luxury brands have shrunk in Dubai and Abu Dhabi as the Iran conflict hit the sector’s fastest-growing market in the latest setback for the $400 billion industry whose value has contracted over the last three years. Luxury brands in March reported sales ...",
       "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What Iran is saying about US plan to blockade ports",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-iran-is-saying-about-us-plan-to-blockade-ports?traffic_source=rss",
-      "description": "Iran’s military has called US blockade plans in the Strait of Hormuz an “act of piracy”.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company",
-      "link": "https://www.aljazeera.com/features/2026/4/13/refugee-in-my-own-city-surviving-tehrans-bombing-with-my-cat-for-company?traffic_source=rss",
-      "description": "Despite the relentless bombing, Sana refuses to flee Tehran, clinging to resilience and fleeting moments of normalcy.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "US military to begin blockade of Iranian ports on Monday",
@@ -376,16 +396,6 @@
       "title": "Dar urges US, Iran to uphold commitment to ceasefire as talks conclude without deal",
       "link": "https://www.dawn.com/news/1990743/dar-urges-us-iran-to-uphold-commitment-to-ceasefire-as-talks-conclude-without-deal",
       "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar urged the United States and Iran to remain committed to a ceasefire after both countries ended historic face-to-face talks without an agreement on Sunday. “It is imperative that the parties continue to uphold their commitment t...",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "UN agency chiefs seek end to war rules violations in Middle East",
-      "link": "https://www.dawn.com/news/1990908/un-agency-chiefs-seek-end-to-war-rules-violations-in-middle-east",
-      "description": "GENEVA: UN agency chiefs on Saturday demanded an end to impunity for widespread international law violations in the Middle East, as casualties pile up six weeks into the war unleashed by US-Israeli strikes on Iran. In a joint statement, the heads of multiple United Nations agenci...",
       "date": "Sun, 12 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -453,9 +463,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US decision to blockade Strait of Hormuz makes zero sense — Spanish defense minister",
-      "link": "https://tass.com/world/2116205",
-      "description": "Margarita Robles added that nobody knows the reason why this war began",
+      "title": "Hezbollah drones strike military camps, barracks in northern Israel",
+      "link": "https://tass.com/world/2116305",
+      "description": "Earlier, Hezbollah warned residents of communities in northern Israel of an impending rocket and mortar attack",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -463,9 +473,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump realizes US 'quagmire' in Iran possible — WP",
-      "link": "https://tass.com/world/2116201",
-      "description": "The column says that Middle Eastern wars are easy to unleash, but hard to curtail",
+      "title": "World Aquatics lifts all sanctions on Russia, Belarus",
+      "link": "https://tass.com/sports/2116303",
+      "description": "The decision applies to all disciplines: swimming, including open water, artistic swimming, diving, and water polo",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -473,9 +483,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Russia rotates personnel at Iran’s Bushehr NPP, 108 employees leaving — Rosatom CEO",
-      "link": "https://tass.com/economy/2116195",
-      "description": "According to Alexey Likhachev, 20 people remain at the plant",
+      "title": "Russia could play impactful role in Middle East peace process — Hezbollah",
+      "link": "https://tass.com/world/2116291",
+      "description": "Mahmoud Qamati, Deputy Chairman of Hezbollah’s political council, believes that the US is running amok in the region",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -483,9 +493,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Hezbollah expects nothing good from Lebanon-Israel talks",
-      "link": "https://tass.com/world/2116193",
-      "description": "According to Mahmoud Qamati, Deputy Head of Hezbollah's Political Council, people in Lebanon have grown accustomed to \"American lies and deceit, to American and Israeli hypocrisy\"",
+      "title": "Oil production plunged in Iraq, Saudi Arabia in March",
+      "link": "https://tass.com/economy/2116273",
+      "description": "Iran reduced oil production by 182,000 barrels daily, the organization noted",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
