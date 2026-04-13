@@ -3326,7 +3326,13 @@
 
   function isGazaStory(story) {
     const text = ((story.title || '') + ' ' + (story.description || '')).toLowerCase();
-    return text.includes('gaza') || text.includes('rafah') || text.includes('khan younis') || text.includes('deir al-balah') || text.includes('jabalia') || text.includes('hamas') || text.includes('hostage') || text.includes('hostages');
+    const hasCore = text.includes('gaza') || text.includes('rafah') || text.includes('khan younis') || text.includes('deir al-balah') || text.includes('jabalia') || text.includes('beit lahia') || text.includes('beit hanoun');
+    const hasPalestine = text.includes('palestinian') || text.includes('palestinians');
+    const hasHamas = text.includes('hamas') || text.includes('al-qassam');
+    const hasHostage = text.includes('hostage') || text.includes('hostages');
+    const hasAidFrame = text.includes('aid convoy') || text.includes('aid trucks') || text.includes('famine') || text.includes('starvation') || text.includes('food insecurity');
+    const obviouslyNotGaza = text.includes('lebanon') || text.includes('beirut') || text.includes('hezbollah') || text.includes('hormuz') || text.includes('iran-us ceasefire') || text.includes('iran-u.s. ceasefire');
+    return !obviouslyNotGaza && (hasCore || ((hasPalestine || hasHamas || hasHostage || hasAidFrame) && (text.includes('israel') || text.includes('idf') || text.includes('ceasefire'))));
   }
 
   function getFilteredLiveStories() {
@@ -3650,7 +3656,7 @@
     const countEl = document.getElementById('gaza-news-count');
     if (countEl) countEl.textContent = `${stories.length} stor${stories.length === 1 ? 'y' : 'ies'}`;
     if (!stories.length) {
-      container.innerHTML = '<div style="text-align:center;padding:40px;color:var(--subtext)">No Gaza stories match this filter.</div>';
+      container.innerHTML = '<div style="text-align:center;padding:40px;color:var(--subtext)"><div style="font-size:28px;margin-bottom:10px">🇵🇸</div><div style="font-size:15px;font-weight:600;margin-bottom:8px;color:var(--text)">No Gaza stories in the current live feed</div><div style="font-size:13px;line-height:1.7;color:var(--dim)">That does not mean Gaza is quiet. It means the shared feed is currently dominated by Iran and Lebanon coverage, so no Gaza-specific headlines were classified into this tab yet.</div></div>';
       return;
     }
     container.innerHTML = stories.map(s => {
@@ -3690,17 +3696,17 @@
     const humanDesc = document.getElementById('gaza-stat-human-desc');
     const humanMeta = document.getElementById('gaza-stat-human-meta');
 
-    if (totalEl) totalEl.textContent = `${total} Gaza stor${total === 1 ? 'y' : 'ies'} tracked`;
-    if (totalDesc) totalDesc.textContent = 'Pulled automatically from the regional feed and separated from Iran and Lebanon coverage.';
-    if (totalMeta) totalMeta.textContent = total ? 'Live now' : 'No stories yet';
+    if (totalEl) totalEl.textContent = total ? `${total} Gaza stor${total === 1 ? 'y' : 'ies'} tracked` : 'No Gaza stories in current feed';
+    if (totalDesc) totalDesc.textContent = total ? 'Pulled automatically from the regional feed and separated from Iran and Lebanon coverage.' : 'The live feed is currently dominated by Iran and Lebanon coverage, so this tab is waiting on Gaza-specific headlines.';
+    if (totalMeta) totalMeta.textContent = total ? 'Live now' : 'Stand by';
 
-    if (hawkEl) hawkEl.textContent = `${hawkish} escalation-heavy stor${hawkish === 1 ? 'y' : 'ies'}`;
-    if (hawkDesc) hawkDesc.textContent = 'Stories scored hawkish usually emphasize strikes, raids, retaliation, militant targeting, or offensive expansion.';
-    if (hawkMeta) hawkMeta.textContent = total ? `${Math.round((hawkish / Math.max(total,1)) * 100)}% of Gaza feed` : 'No data';
+    if (hawkEl) hawkEl.textContent = total ? `${hawkish} escalation-heavy stor${hawkish === 1 ? 'y' : 'ies'}` : 'No Gaza escalation stories yet';
+    if (hawkDesc) hawkDesc.textContent = total ? 'Stories scored hawkish usually emphasize strikes, raids, retaliation, militant targeting, or offensive expansion.' : 'When Gaza stories enter the feed, this will track how much of the coverage is dominated by strike, raid, or offensive framing.';
+    if (hawkMeta) hawkMeta.textContent = total ? `${Math.round((hawkish / Math.max(total,1)) * 100)}% of Gaza feed` : 'Waiting for Gaza coverage';
 
-    if (humanEl) humanEl.textContent = `${human} humanitarian-impact stor${human === 1 ? 'y' : 'ies'}`;
-    if (humanDesc) humanDesc.textContent = 'These stories foreground casualties, hospitals, hunger, aid pressure, displacement, or hostage-related civilian stakes.';
-    if (humanMeta) humanMeta.textContent = total ? `${Math.round((human / Math.max(total,1)) * 100)}% of Gaza feed` : 'No data';
+    if (humanEl) humanEl.textContent = total ? `${human} humanitarian-impact stor${human === 1 ? 'y' : 'ies'}` : 'No Gaza humanitarian stories yet';
+    if (humanDesc) humanDesc.textContent = total ? 'These stories foreground casualties, hospitals, hunger, aid pressure, displacement, or hostage-related civilian stakes.' : 'When Gaza stories appear, this will track whether the feed centers hospitals, hunger, aid pressure, displacement, or civilian casualties.';
+    if (humanMeta) humanMeta.textContent = total ? `${Math.round((human / Math.max(total,1)) * 100)}% of Gaza feed` : 'Waiting for Gaza coverage';
   }
 
   function filterGazaBySource(source, btn) {
