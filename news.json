@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-13 17:50 UTC",
-  "total": 42,
+  "updated": "2026-04-13 18:59 UTC",
+  "total": 46,
   "stories": [
     {
       "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
@@ -223,6 +223,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Starmer announces talks to address the Strait of Hormuz crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/starmer-announces-talks-to-address-the-strait-of-hormuz-crisis?traffic_source=rss",
+      "description": "Starmer has announced talks to be held this week and co-hosted with France, aiming at diplomatic end to the war on Iran",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "EU: No peace possible while “Lebanon is in flames”",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/eu-no-peace-possible-while-lebanon-is-in?traffic_source=rss",
       "description": "Von der Leyen warns Hormuz closure and Israeli strikes on Lebanon threaten regional stability.",
@@ -293,14 +303,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump’s threat to blockade Hormuz: Why it’s the latest major escalation",
-      "link": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation?traffic_source=rss",
-      "description": "Analysts warn Washington&#039;s blockade could harm the fragile ceasefire between the US and Iran.",
+      "title": "‘I thought it was me as a doctor’: Trump on AI image of himself as Jesus-like figure",
+      "link": "https://www.dawn.com/news/1991418/i-thought-it-was-me-as-a-doctor-trump-on-ai-image-of-himself-as-jesus-like-figure",
+      "description": "US President Donald Trump said on Monday that a picture that he posted on Truth Social, which depicted him as a Jesus-like figure and has now been deleted, was actually supposed to show him as a doctor. “I did post it, and I thought it was me as a doctor, and had to do with the R...",
       "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Luxury brands face profit squeeze as Iran conflict shrinks UAE mall sales, sources say",
@@ -353,11 +363,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Dar urges US, Iran to uphold commitment to ceasefire as talks conclude without deal",
-      "link": "https://www.dawn.com/news/1990743/dar-urges-us-iran-to-uphold-commitment-to-ceasefire-as-talks-conclude-without-deal",
-      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar urged the United States and Iran to remain committed to a ceasefire after both countries ended historic face-to-face talks without an agreement on Sunday. “It is imperative that the parties continue to uphold their commitment t...",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Dawn",
+      "title": "Israel says troops fighting Hezbollah surrounded key Lebanon town",
+      "link": "https://www.thehindu.com/news/international/israel-says-troops-fighting-hezbollah-surrounded-key-lebanon-town/article70858960.ece",
+      "description": "\"The forces of the 98th Division have completed the encirclement of the town of Bint Jbeil and have begun an assault on it,\" the military's Arabic-language spokesman Colonel Avichay Adraee said on X.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -413,14 +423,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.K. will not back blockade of Strait of Hormuz, says PM Starmer",
-      "link": "https://www.thehindu.com/news/international/uk-will-not-back-blockade-of-strait-of-hormuz-says-pm-starmer/article70856929.ece",
-      "description": "Britain had minesweepers in the ​region, Starmer said, and ‌while he could not discuss operational matters, the military capability was “focused from our point of view on getting the Strait full open”",
+      "title": "Turkey tries to set up new talks between Iran, US — ruling party",
+      "link": "https://tass.com/world/2116459",
+      "description": "Omer Celik stressed that the situation \"has reached a point that could lead to cracks even within NATO and the entire Western alliance\"",
       "date": "Mon, 13 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US proposed 20-year moratorium on uranium enrichment to Iran — Axios",
+      "link": "https://tass.com/world/2116453",
+      "description": "The portal’s source in the US administration said the sides continue to dialogue in order to reach an agreement",
+      "date": "Mon, 13 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US may ‘stop by Cuba’ after Iran — Trump",
+      "link": "https://tass.com/world/2116431",
+      "description": "The US leader called Cuba \"a failing nation,\" claiming that \"it has been a terribly run country for a long time\"",
+      "date": "Mon, 13 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Hormuz becomes ‘nuclear weapon’ in Iran’s hands — Stubb",
+      "link": "https://tass.com/world/2116433",
+      "description": "The Finnish president noted that Iran held a lot of cards at present",
+      "date": "Mon, 13 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
