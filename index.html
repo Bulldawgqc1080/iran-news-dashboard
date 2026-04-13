@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>ClearView | Iran & Lebanon Conflict Dashboard</title>
+  <title>ClearView | Iran, Lebanon & Gaza Conflict Dashboard</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
@@ -886,6 +886,7 @@
     <button onclick="showTab('timeline',this)" id="timeline-tab-btn">Timeline</button>
     <button onclick="showTab('live',this)" id="live-tab-btn">📡 Iran Live</button>
     <button onclick="showTab('lebanon',this)" id="lebanon-tab-btn">🇱🇧 Lebanon</button>
+    <button onclick="showTab('gaza',this)" id="gaza-tab-btn">🇵🇸 Gaza</button>
     <button onclick="showTab('sources',this)">Sources</button>
     <button onclick="showTab('deeper',this)">Go Deeper</button>
     <button onclick="showTab('network',this)" id="network-tab-btn">🕵️ Network</button>
@@ -2083,7 +2084,7 @@
   <div id="tab-lebanon" class="tab-section">
     <div style="padding: 20px 32px 28px; max-width:1360px; margin: 0 auto; width:100%; box-sizing:border-box;">
       <div class="disclaimer" style="border-left:3px solid #ffbe0b; background:rgba(255,190,11,0.06)">
-        <strong>Lebanon tab</strong> tracks cross-border fighting, Beirut strikes, Hezbollah-related developments, civilian impact, and Israeli policy shifts specific to Lebanon.
+        <strong>Lebanon tab</strong> tracks cross-border fighting, Beirut strikes, Hezbollah-related developments, civilian impact, Israeli policy shifts, and the question of whether temporary operations are hardening into a longer buffer-zone or occupation logic.
       </div>
 
       <section>
@@ -2145,8 +2146,8 @@
               <span class="card-type fact">✔ Verified Fact</span>
               <span class="bias-score hawkish">▲ Hawkish</span>
             </div>
-            <h3>Israeli strikes and border operations continue to drive Lebanon casualties</h3>
-            <p>Recent reporting across BBC, NPR, and regional outlets centers on Israeli strikes in Beirut and southern Lebanon, journalist deaths, and statements indicating Israel may seek long-term control over parts of the south.</p>
+            <h3>Israeli strikes, displacement pressure, and buffer-zone language are the real Lebanon signals</h3>
+            <p>Recent reporting across BBC, NPR, and regional outlets centers not just on Beirut and southern Lebanon strikes, but on whether Israeli officials are normalizing a longer security presence, widening displacement, and treating south Lebanon as a space to be managed rather than briefly hit.</p>
             <div class="card-meta">
               <span>BBC, NPR, regional press</span>
               <span style="color:var(--fact)">Cross-source pattern</span>
@@ -2175,8 +2176,8 @@
               <span class="card-type govt">⚠ Official Statement</span>
               <span class="bias-score hawkish">▲ Hawkish</span>
             </div>
-            <h3>Border control and buffer-zone language matter</h3>
-            <p>Israeli officials have signaled interest in shaping post-war security arrangements inside or near southern Lebanon. Those statements should be tracked separately from battlefield reporting because they point to long-term intent, not just short-term strikes.</p>
+            <h3>Border control, return conditions, and buffer-zone language matter</h3>
+            <p>Israeli officials have signaled interest in shaping post-war security arrangements inside or near southern Lebanon. Track that separately from battlefield reporting, because it points to long-term intent, return restrictions, and possible normalization of a semi-permanent security belt, not just short-term strikes.</p>
             <div class="card-meta">
               <span>Watch official rhetoric</span>
               <span style="color:var(--govt)">Security posture</span>
@@ -2188,10 +2189,22 @@
               <span class="bias-score dovish">▼ Dovish</span>
             </div>
             <h3>Civilian, journalist, and infrastructure impact deserves its own lane</h3>
-            <p>Lebanon stories frequently include apartment block strikes, journalist deaths, displacement, and pressure on urban life in Beirut and the south. That humanitarian angle gets blurred when the dashboard only prioritizes the Iran theater.</p>
+            <p>Lebanon stories frequently include apartment block strikes, journalist deaths, displacement, damaged infrastructure, and pressure on urban life in Beirut and the south. That humanitarian angle gets blurred when the dashboard only prioritizes the Iran theater.</p>
             <div class="card-meta">
               <span>Human impact lens</span>
               <span style="color:var(--fact)">Separate accountability view</span>
+            </div>
+          </div>
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3>Watch whether Hezbollah is framed as trigger, shield, or pretext</h3>
+            <p>Lebanon coverage gets sloppy fast when every development is flattened into “Hezbollah fired, Israel responded.” This tab should separate verified Hezbollah activity from broader Israeli target selection, urban strike patterns, and claims that stretch beyond immediate border exchanges.</p>
+            <div class="card-meta">
+              <span>Attribution discipline</span>
+              <span style="color:var(--fact)">Do not flatten causality</span>
             </div>
           </div>
           <div class="card framing span-2">
@@ -2274,6 +2287,268 @@
       </section>
     </div>
   </div><!-- /lebanon -->
+
+  <div id="tab-gaza" class="tab-section">
+    <div style="padding: 20px 32px 28px; max-width:1360px; margin: 0 auto; width:100%; box-sizing:border-box;">
+      <div class="disclaimer" style="border-left:3px solid #ff4466; background:rgba(255,68,102,0.06)">
+        <strong>Gaza tab</strong> tracks strikes, siege conditions, humanitarian collapse, hostage and ceasefire developments, and the gap between military claims and civilian reality inside Gaza.
+      </div>
+
+      <section>
+        <div class="section-title">Gaza At a Glance</div>
+        <div class="grid-3" style="margin-bottom:14px;">
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3 id="gaza-stat-total">Tracking Gaza stories</h3>
+            <p id="gaza-stat-total-desc">Counting Gaza-specific headlines from the shared regional feed.</p>
+            <div class="card-meta">
+              <span>Live feed volume</span>
+              <span style="color:var(--fact)" id="gaza-stat-total-meta">Waiting for load</span>
+            </div>
+          </div>
+          <div class="card govt">
+            <div class="card-header">
+              <span class="card-type govt">⚠ Official Statement</span>
+              <span class="bias-score hawkish">▲ Hawkish</span>
+            </div>
+            <h3 id="gaza-stat-hawkish">Watching escalation-heavy language</h3>
+            <p id="gaza-stat-hawkish-desc">This tracks how many Gaza stories lean toward strike, retaliation, expanded offensive, or militant-target framing.</p>
+            <div class="card-meta">
+              <span>Tone scan</span>
+              <span style="color:var(--govt)" id="gaza-stat-hawkish-meta">Waiting for load</span>
+            </div>
+          </div>
+          <div class="card framing">
+            <div class="card-header">
+              <span class="card-type framing">◈ Media Framing</span>
+              <span class="bias-score dovish">▼ Dovish</span>
+            </div>
+            <h3 id="gaza-stat-human">Watching civilian-impact reporting</h3>
+            <p id="gaza-stat-human-desc">This flags stories centered on casualties, hunger, hospitals, aid, displacement, or hostage-ceasefire pressure.</p>
+            <div class="card-meta">
+              <span>Human-impact scan</span>
+              <span style="color:var(--framing)" id="gaza-stat-human-meta">Waiting for load</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-3">
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3>What this tab is tracking</h3>
+            <p>Gaza coverage is split into four lanes on purpose: military operations, humanitarian collapse, hostage and ceasefire movement, and framing shifts in how governments and major outlets describe civilian harm.</p>
+            <div class="card-meta">
+              <span>Tracking model</span>
+              <span style="color:var(--fact)">4-lane structure</span>
+            </div>
+          </div>
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3>Gaza is not just a battlefield, it is also a deprivation story</h3>
+            <p>Any Gaza tab that only counts strikes and militant claims is broken. The real picture includes siege conditions, aid restrictions, medical system collapse, displacement, and whether civilians have any meaningful safe space left.</p>
+            <div class="card-meta">
+              <span>Structural read</span>
+              <span style="color:var(--fact)">War plus deprivation</span>
+            </div>
+          </div>
+          <div class="card govt">
+            <div class="card-header">
+              <span class="card-type govt">⚠ Official Statement</span>
+              <span class="bias-score hawkish">▲ Hawkish</span>
+            </div>
+            <h3>Military claims and civilian reality need to stay separated</h3>
+            <p>Israeli and Hamas-related claims about targets, tunnels, commanders, or deterrence should never be allowed to erase the parallel story of civilian casualties, destroyed neighborhoods, and aid pressure. This tab should force both lanes onto the screen at once.</p>
+            <div class="card-meta">
+              <span>Claim discipline</span>
+              <span style="color:var(--govt)">Do not merge rhetoric with fact</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-title">Gaza Focus Areas</div>
+        <div class="grid-2">
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score dovish">▼ Dovish</span>
+            </div>
+            <h3>Humanitarian collapse is not background detail, it is part of the war story itself</h3>
+            <p>Hospital strikes, aid bottlenecks, food insecurity, displacement orders, disease pressure, and infrastructure failure are not side notes. They are central to understanding what Gaza reporting is actually telling you about the war’s human cost and the conditions civilians are trapped inside.</p>
+            <div class="card-meta">
+              <span>Humanitarian lens</span>
+              <span style="color:var(--fact)">Core, not peripheral</span>
+            </div>
+          </div>
+          <div class="card govt">
+            <div class="card-header">
+              <span class="card-type govt">⚠ Official Statement</span>
+              <span class="bias-score hawkish">▲ Hawkish</span>
+            </div>
+            <h3>Watch the language around “targeted operations,” “safe zones,” and “human shields”</h3>
+            <p>Those phrases often do heavy political work. They can describe real tactical claims, but they can also soften wider civilian harm, flatten legal questions, or obscure how often people are pushed from one unsafe area into another with nowhere truly secure to go.</p>
+            <div class="card-meta">
+              <span>Language check</span>
+              <span style="color:var(--govt)">Rhetoric versus lived effect</span>
+            </div>
+          </div>
+          <div class="card fact">
+            <div class="card-header">
+              <span class="card-type fact">✔ Verified Fact</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3>Hostage reporting can narrow the frame if you let it</h3>
+            <p>Hostage and ceasefire developments matter enormously, but Gaza coverage breaks when every diplomatic turn consumes the whole frame and pushes mass casualty, hunger, and displacement reporting into the background. The dashboard should keep both visible at once.</p>
+            <div class="card-meta">
+              <span>Negotiation lens</span>
+              <span style="color:var(--fact)">Do not let one lane erase another</span>
+            </div>
+          </div>
+          <div class="card framing span-2">
+            <div class="card-header">
+              <span class="card-type framing">◈ Media Framing</span>
+              <span class="bias-score neutral">◈ Neutral</span>
+            </div>
+            <h3>What this tab should answer fast</h3>
+            <p>At a glance, the Gaza section should tell you whether the main change is military escalation, humanitarian deterioration, hostage-ceasefire movement, or a major framing shift in international coverage. If the tab does not surface those quickly, it is too noisy.</p>
+            <div class="card-meta">
+              <span>Editorial target</span>
+              <span style="color:var(--framing)">Signal over churn</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-title">Gaza Historical Context</div>
+        <div class="card" style="padding:20px 24px">
+          <div class="timeline">
+            <div class="tl-item fact">
+              <div class="tl-dot"></div>
+              <div class="tl-date">2007 onward</div>
+              <div class="tl-title">Blockade and enclosure become structural background conditions</div>
+              <div class="tl-body">Any current Gaza story sits on top of years of blockade, restricted movement, periodic wars, and deep infrastructure fragility. Without that context, current headlines look more isolated than they really are.</div>
+              <div class="tl-source me-src">Source: long-run conflict baseline</div>
+            </div>
+
+            <div class="tl-item fact">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Oct. 7, 2023</div>
+              <div class="tl-title">Hamas attack, mass killing, and hostage-taking reset the entire war frame</div>
+              <div class="tl-body">The Oct. 7 attack killed civilians and soldiers inside Israel, shattered the existing security posture, and triggered the war phase that now dominates Gaza coverage. Any serious Gaza section has to state that plainly, because everything that followed was shaped by that rupture.</div>
+              <div class="tl-source me-src">Source: widely documented attack timeline</div>
+            </div>
+
+            <div class="tl-item framing">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Late 2023 onward</div>
+              <div class="tl-title">Warning failures, response delays, and “how was this allowed to happen?” become core scrutiny questions</div>
+              <div class="tl-body">Open-source reporting, Israeli press investigations, and public debate have kept focus on ignored warnings, force posture failures, command delays, and whether parts of the breakdown were preventable. Stronger claims about an intentional pullback or deliberate stand-down remain contested and should be treated as allegations under scrutiny, not settled fact.</div>
+              <div class="tl-source me-src">Source: investigative and accountability reporting</div>
+            </div>
+
+            <div class="tl-item framing">
+              <div class="tl-dot"></div>
+              <div class="tl-date">2014–2023 to post-Oct. 7 coverage</div>
+              <div class="tl-title">Recurring war scripts harden, but the scale of destruction changes the frame</div>
+              <div class="tl-body">Gaza reporting often defaults into familiar scripts: rocket fire, airstrikes, casualty counts, ceasefire talks, then partial resets. After Oct. 7, that old cycle remained, but it collided with a far larger destruction, siege, and displacement story that cannot honestly be treated as routine.</div>
+              <div class="tl-source me-src">Source: media and conflict pattern</div>
+            </div>
+
+            <div class="tl-item fact">
+              <div class="tl-dot"></div>
+              <div class="tl-date">2023–2026</div>
+              <div class="tl-title">War, hostage crisis, and aid collapse turn Gaza into the central humanitarian front</div>
+              <div class="tl-body">As the broader regional war expands, Gaza remains the place where military operations, hostage politics, famine warnings, aid access, and international legal scrutiny collide most visibly. It needs its own lane, not occasional overflow mentions.</div>
+              <div class="tl-source me-src">Source: multi-outlet escalation trend</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-title">Gaza Modern War Timeline</div>
+        <div class="card" style="padding:20px 24px; margin-bottom:18px;">
+          <div class="timeline">
+            <div class="tl-item fact">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Oct. 7, 2023</div>
+              <div class="tl-title">Hamas attack and hostage-taking trigger the war phase now driving Gaza coverage</div>
+              <div class="tl-body">The attack resets Israeli doctrine, public opinion, and the scale of the coming assault on Gaza. It is the rupture point that has to remain visible in any serious historical framing.</div>
+              <div class="tl-source me-src">Source: baseline event marker</div>
+            </div>
+
+            <div class="tl-item govt">
+              <div class="tl-dot"></div>
+              <div class="tl-date">Late 2023</div>
+              <div class="tl-title">Siege language, mass bombardment, and evacuation orders redefine the civilian landscape</div>
+              <div class="tl-body">The military campaign is paired with siege conditions, widening destruction, and repeated displacement orders. From this point on, civilian survival conditions become inseparable from battlefield reporting.</div>
+              <div class="tl-source me-src">Source: cross-source war reporting</div>
+            </div>
+
+            <div class="tl-item framing">
+              <div class="tl-dot"></div>
+              <div class="tl-date">2024</div>
+              <div class="tl-title">Aid access, famine warnings, and legal scrutiny become impossible to ignore</div>
+              <div class="tl-body">International attention shifts more heavily toward starvation risk, convoy restrictions, hospital collapse, and legal arguments about proportionality, collective punishment, and civilian protection.</div>
+              <div class="tl-source me-src">Source: humanitarian and legal scrutiny pattern</div>
+            </div>
+
+            <div class="tl-item fact">
+              <div class="tl-dot"></div>
+              <div class="tl-date">2024–2026</div>
+              <div class="tl-title">Hostage talks, ceasefire pressure, and renewed strikes keep the war in a rolling crisis loop</div>
+              <div class="tl-body">The modern Gaza phase is defined by repeated cycles of negotiation, breakdown, renewed strikes, and worsening civilian conditions. That loop is exactly why this tab needs clear separation of military, humanitarian, and diplomatic tracks.</div>
+              <div class="tl-source me-src">Source: recurring crisis pattern</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-title" style="display:flex;justify-content:space-between;align-items:center">
+          <span>Gaza Headlines</span>
+          <span id="gaza-news-count" style="font-size:10px;color:var(--dim);font-family:var(--font-mono)"></span>
+        </div>
+
+        <div style="position:relative;margin-bottom:12px">
+          <span style="position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--dim);font-size:13px">🔍</span>
+          <input type="text" id="gaza-search" placeholder="Filter Gaza headlines…"
+            style="width:100%;background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:var(--radius);padding:8px 14px 8px 36px;font-size:13px;font-family:var(--font-body);outline:none;"
+            oninput="filterGazaNews()" />
+        </div>
+
+        <div class="filter-row" id="gaza-tone-filter-row" style="margin-bottom:8px">
+          <button class="filter-btn active" style="background:#363d5e;color:#fff;border-color:transparent" onclick="filterGazaByTone('all',this)">All Tones</button>
+          <button class="filter-btn" style="border-color:rgba(255,77,77,0.4)" onclick="filterGazaByTone('hawkish',this)">▲ Hawkish</button>
+          <button class="filter-btn" style="border-color:rgba(77,166,255,0.4)" onclick="filterGazaByTone('neutral',this)">◈ Neutral</button>
+          <button class="filter-btn" style="border-color:rgba(77,204,136,0.4)" onclick="filterGazaByTone('dovish',this)">▼ Dovish</button>
+        </div>
+
+        <div class="filter-row" id="gaza-source-filter-row" style="margin-bottom:16px">
+          <button class="filter-btn active" style="background:#363d5e;color:#fff;border-color:transparent" onclick="filterGazaBySource('all',this)">All Sources</button>
+        </div>
+
+        <div id="gaza-container">
+          <div style="text-align:center;padding:60px 20px;color:var(--subtext)">
+            <div style="font-size:32px;margin-bottom:12px">🇵🇸</div>
+            <div style="font-size:15px;font-weight:600;margin-bottom:8px">Loading Gaza stories...</div>
+            <div style="font-size:13px;color:var(--dim)">Split from news.json</div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div><!-- /gaza -->
 
   <!-- ══════════════════════════════ -->
   <!--      NETWORK / DOSSIER TAB    -->
@@ -2997,10 +3272,13 @@
   // ── LIVE NEWS ─────────────────────────────────────────────
   let allStories = [];
   let lebanonStories = [];
+  let gazaStories = [];
   let activeSource = 'all';
   let activeTone   = 'all';
   let activeLebanonSource = 'all';
   let activeLebanonTone = 'all';
+  let activeGazaSource = 'all';
+  let activeGazaTone = 'all';
 
   const SOURCE_META = {
     // Existing sources
@@ -3046,6 +3324,11 @@
   function isLebanonStory(story) {
     const text = ((story.title || '') + ' ' + (story.description || '')).toLowerCase();
     return text.includes('lebanon') || text.includes('beirut') || text.includes('hezbollah') || text.includes('southern lebanon') || text.includes('south lebanon');
+  }
+
+  function isGazaStory(story) {
+    const text = ((story.title || '') + ' ' + (story.description || '')).toLowerCase();
+    return text.includes('gaza') || text.includes('rafah') || text.includes('khan younis') || text.includes('deir al-balah') || text.includes('jabalia') || text.includes('hamas') || text.includes('hostage') || text.includes('hostages');
   }
 
   function getFilteredLiveStories() {
@@ -3349,6 +3632,109 @@
     renderLebanonNews(getFilteredLebanonStories());
   }
 
+  function getFilteredGazaStories() {
+    const gq = document.getElementById('global-search').value.trim().toLowerCase();
+    const lq = document.getElementById('gaza-search') ? document.getElementById('gaza-search').value.trim().toLowerCase() : '';
+    const q = lq || gq;
+    return gazaStories.filter(s => {
+      const matchSource = activeGazaSource === 'all' || s.source === activeGazaSource;
+      const matchTone = activeGazaTone === 'all' || s._tone === activeGazaTone;
+      const matchQuery = !q ||
+        (s.title || '').toLowerCase().includes(q) ||
+        (s.description || '').toLowerCase().includes(q) ||
+        (s.source || '').toLowerCase().includes(q);
+      return matchSource && matchTone && matchQuery;
+    });
+  }
+
+  function renderGazaNews(stories) {
+    const container = document.getElementById('gaza-container');
+    const countEl = document.getElementById('gaza-news-count');
+    if (countEl) countEl.textContent = `${stories.length} stor${stories.length === 1 ? 'y' : 'ies'}`;
+    if (!stories.length) {
+      container.innerHTML = '<div style="text-align:center;padding:40px;color:var(--subtext)">No Gaza stories match this filter.</div>';
+      return;
+    }
+    container.innerHTML = stories.map(s => {
+      const meta  = SOURCE_META[s.source] || { region: s.region || '', color: '#ff4466', flag: '🇵🇸' };
+      const tone  = s._tone || scoreTone(s.title + ' ' + (s.description || ''));
+      return `
+        <a href="${s.link}" target="_blank" rel="noopener noreferrer" class="news-card" style="border-left:3px solid ${meta.color}">
+          <div class="news-card-header">
+            <span style="font-size:15px">${meta.flag}</span>
+            <span class="source-chip" style="color:${meta.color}">${s.source}</span>
+            <span class="region-chip">${meta.region}</span>
+            <span class="bias-chip ${tone}">${TONE_LABEL[tone]}</span>
+            <span style="margin-left:auto;font-size:10px;color:var(--dim);font-family:var(--font-mono)">${s.date ? s.date.slice(0,16) : ''}</span>
+          </div>
+          <div class="news-card-title">${s.title}</div>
+          ${s.description ? `<div class="news-card-desc">${s.description}</div>` : ''}
+          <div class="news-card-link" style="color:${meta.color};margin-top:8px;">Read full story →</div>
+        </a>`;
+    }).join('');
+  }
+
+  function updateGazaStats() {
+    const total = gazaStories.length;
+    const hawkish = gazaStories.filter(s => s._tone === 'hawkish').length;
+    const human = gazaStories.filter(s => {
+      const text = ((s.title || '') + ' ' + (s.description || '')).toLowerCase();
+      return text.includes('civilian') || text.includes('hospital') || text.includes('aid') || text.includes('hunger') || text.includes('displaced') || text.includes('hostage') || text.includes('killed') || text.includes('wounded');
+    }).length;
+
+    const totalEl = document.getElementById('gaza-stat-total');
+    const totalDesc = document.getElementById('gaza-stat-total-desc');
+    const totalMeta = document.getElementById('gaza-stat-total-meta');
+    const hawkEl = document.getElementById('gaza-stat-hawkish');
+    const hawkDesc = document.getElementById('gaza-stat-hawkish-desc');
+    const hawkMeta = document.getElementById('gaza-stat-hawkish-meta');
+    const humanEl = document.getElementById('gaza-stat-human');
+    const humanDesc = document.getElementById('gaza-stat-human-desc');
+    const humanMeta = document.getElementById('gaza-stat-human-meta');
+
+    if (totalEl) totalEl.textContent = `${total} Gaza stor${total === 1 ? 'y' : 'ies'} tracked`;
+    if (totalDesc) totalDesc.textContent = 'Pulled automatically from the regional feed and separated from Iran and Lebanon coverage.';
+    if (totalMeta) totalMeta.textContent = total ? 'Live now' : 'No stories yet';
+
+    if (hawkEl) hawkEl.textContent = `${hawkish} escalation-heavy stor${hawkish === 1 ? 'y' : 'ies'}`;
+    if (hawkDesc) hawkDesc.textContent = 'Stories scored hawkish usually emphasize strikes, raids, retaliation, militant targeting, or offensive expansion.';
+    if (hawkMeta) hawkMeta.textContent = total ? `${Math.round((hawkish / Math.max(total,1)) * 100)}% of Gaza feed` : 'No data';
+
+    if (humanEl) humanEl.textContent = `${human} humanitarian-impact stor${human === 1 ? 'y' : 'ies'}`;
+    if (humanDesc) humanDesc.textContent = 'These stories foreground casualties, hospitals, hunger, aid pressure, displacement, or hostage-related civilian stakes.';
+    if (humanMeta) humanMeta.textContent = total ? `${Math.round((human / Math.max(total,1)) * 100)}% of Gaza feed` : 'No data';
+  }
+
+  function filterGazaBySource(source, btn) {
+    activeGazaSource = source;
+    document.querySelectorAll('#gaza-source-filter-row .filter-btn').forEach(b => {
+      b.classList.remove('active');
+      b.style.background = '';
+      b.style.color = '';
+    });
+    btn.classList.add('active');
+    btn.style.background = '#363d5e';
+    btn.style.color = '#fff';
+    renderGazaNews(getFilteredGazaStories());
+  }
+
+  function filterGazaByTone(tone, btn) {
+    activeGazaTone = tone;
+    document.querySelectorAll('#gaza-tone-filter-row .filter-btn').forEach(b => {
+      b.classList.remove('active');
+      b.style.background = '';
+      b.style.color = '';
+    });
+    btn.classList.add('active');
+    btn.style.background = '#363d5e';
+    btn.style.color = '#fff';
+    renderGazaNews(getFilteredGazaStories());
+  }
+
+  function filterGazaNews() {
+    renderGazaNews(getFilteredGazaStories());
+  }
+
   async function loadNews() {
     try {
       const res = await fetch('news.json?t=' + Date.now());
@@ -3359,13 +3745,16 @@
         _tone: scoreTone(s.title + ' ' + (s.description || ''))
       }));
       lebanonStories = enrichedStories.filter(isLebanonStory);
-      allStories = enrichedStories.filter(s => !isLebanonStory(s));
+      gazaStories = enrichedStories.filter(s => !isLebanonStory(s) && isGazaStory(s));
+      allStories = enrichedStories.filter(s => !isLebanonStory(s) && !isGazaStory(s));
       buildFilterButtons(allStories, 'news-filter-row', 'filterNews');
       buildFilterButtons(lebanonStories, 'lebanon-source-filter-row', 'filterLebanonBySource');
+      buildFilterButtons(gazaStories, 'gaza-source-filter-row', 'filterGazaBySource');
       const upd = document.getElementById('news-updated');
       if (upd) upd.textContent = `Updated: ${data.updated} · ${allStories.length} Iran stories`; var rEl=document.getElementById('news-rel-time'); if(rEl) rEl.textContent=relativeTime(data.updated);
       updateLebanonStats();
-      renderFeedHealth(enrichedStories); renderNews(allStories); renderLebanonNews(lebanonStories);
+      updateGazaStats();
+      renderFeedHealth(enrichedStories); renderNews(allStories); renderLebanonNews(lebanonStories); renderGazaNews(gazaStories);
     } catch (e) {
       document.getElementById('news-container').innerHTML = `
         <div style="text-align:center;padding:40px 20px;color:var(--subtext)">
@@ -3381,6 +3770,7 @@
 
   document.getElementById('live-tab-btn').addEventListener('click', loadNews);
   document.getElementById('lebanon-tab-btn').addEventListener('click', loadNews);
+  document.getElementById('gaza-tab-btn').addEventListener('click', loadNews);
 
   // ── TIMELINE AUTO-UPDATE ────────────────────────────────────
   let timelineLoaded = false;
