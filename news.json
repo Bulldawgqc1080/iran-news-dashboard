@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-13 16:05 UTC",
-  "total": 46,
+  "updated": "2026-04-13 17:50 UTC",
+  "total": 42,
   "stories": [
     {
       "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
@@ -13,9 +13,9 @@
       "bias": "Low"
     },
     {
-      "title": "The U.S. military is about to block ships from Iran's ports after talks failed",
+      "title": "Trump vows to sink Iranian ships approaching a U.S. blockade of Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
-      "description": "The U.S. Central Command said the blockade would be \"enforced impartially against vessels of all nations\" from 10 a.m. EDT, following the breakdown of talks after 21 hours of negotiations.",
+      "description": "President Trump said the U.S. would interdict vessels that had to pay what he called an \"illegal toll\" to Iran to cross the Strait of Hormuz.",
       "date": "Mon, 13 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -43,8 +43,8 @@
       "bias": "Low"
     },
     {
-      "title": "Pope Leo stands firm with Trump as Vatican–Washington rift deepens over Iran war",
-      "link": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-as-row-with-trump-over-iran-war-intensifies",
+      "title": "Pope Leo brushes off Trump criticism amid growing Vatican–U.S. tensions over Iran war",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-row-with-trump-iran-war",
       "description": "Pope Leo XIV says he will not be deterred by criticism from President Trump, vowing to continue his calls for peace as tensions escalate between the Vatican and Washington over the Iran conflict.",
       "date": "Mon, 13 Apr 2026",
       "source": "NPR News",
@@ -175,9 +175,19 @@
     {
       "title": "How many ships are crossing the Strait of Hormuz?",
       "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "description": "Four vessels have crossed the Strait of Hormuz ahead of a US military blockade of Iranian ports set to begin on Monday.",
+      "description": "The first vessel has crossed the Strait of Hormuz after the US imposed a military blockade of Iran's ports.",
       "date": "Mon, 13 Apr 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Deadline passes for US blockade of Hormuz, Iran threatens to retaliate against Gulf neighbours",
+      "link": "https://www.france24.com/en/video/20260413-deadline-passes-for-us-blockade-of-hormuz-iran-threatens-to-retaliate-against-gulf-neighbours",
+      "description": "The deadline passed on Monday for the start of a US ​military blockade of ships leaving Iran's ports, and Tehran threatened to retaliate against ports of its Gulf neighbours after weekend talks on ending the war broke down. Oil prices surged, with no sign of a swift reopening of ...",
+      "date": "Mon, 13 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -213,14 +223,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "REPLAY: Pope Leo XIV delivers remarks as he opens trip in Algeria",
-      "link": "https://www.france24.com/en/video/20260413-replay-pope-leo-xiv-delivers-remarks-as-he-opens-trip-in-algeria",
-      "description": "Pope Leo XIV on Monday began a landmark visit to Algeria, where he called for forgiveness in a speech paying tribute to victims of the country's war of independence from France (1954-1962). The pontiff called for peace in all nations to prevail, in a trip overshadowed by the US-I...",
+      "title": "EU: No peace possible while “Lebanon is in flames”",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/eu-no-peace-possible-while-lebanon-is-in?traffic_source=rss",
+      "description": "Von der Leyen warns Hormuz closure and Israeli strikes on Lebanon threaten regional stability.",
       "date": "Mon, 13 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What are the pros and cons of Trump’s Iranian naval blockade?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-are-the-pros-and-cons-of-trumps-iranian-naval-blockade?traffic_source=rss",
+      "description": "What does Donald Trump’s naval blockade of Iranian ports look like and can it achieve what the US president wants?",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf",
+      "link": "https://www.aljazeera.com/news/2026/4/13/bahrain-summons-iraqi-envoy-as-pro-iranian-attacks-persist-in-gulf?traffic_source=rss",
+      "description": "Move reflects regional alarm over attacks by pro-Iranian groups based in Iraq, which continue despite ceasefire.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran releases assets of women’s football captain in Australia asylum row",
+      "link": "https://www.aljazeera.com/sports/2026/4/13/iran-releases-assets-of-womens-football-captain-in-australia-asylum-row?traffic_source=rss",
+      "description": "Zahra Ghanbari, one of the six players who sought asylum in Australia, reversed her decision and returned to Iran.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanon Latest: Talks scheduled as Israeli strikes continue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/aje-onl-aje_onl_lebanon_wrap-130426?traffic_source=rss",
+      "description": "Israeli strikes in southern Lebanon push death toll past 2,000, as talks loom and ceasefire divisions deepen.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "What do we know about sea mines in and around the Strait of Hormuz?",
@@ -233,9 +283,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says Iranian ships will be ‘eliminated’ as US naval blockade begins",
+      "title": "Trump says Iranian ships to be ‘eliminated’ as US naval blockade begins",
       "link": "https://www.aljazeera.com/news/2026/4/13/trump-says-iranian-ships-will-be-eliminated-as-us-naval-blockade-begins?traffic_source=rss",
-      "description": "US president says Iranian military vessels approaching the blockade zone in Gulf will be &#039;immediately eliminated&#039;.",
+      "description": "Iran describes the siege against its ports as the US president&#039;s &#039;revenge of choice&#039; against the global economy.",
       "date": "Mon, 13 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -246,56 +296,6 @@
       "title": "Trump’s threat to blockade Hormuz: Why it’s the latest major escalation",
       "link": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation?traffic_source=rss",
       "description": "Analysts warn Washington&#039;s blockade could harm the fragile ceasefire between the US and Iran.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown",
-      "link": "https://www.aljazeera.com/news/2026/4/13/pakistan-eyes-narrow-window-to-resuscitate-us-iran-talks-after-breakdown?traffic_source=rss",
-      "description": "US and Iran end marathon Islamabad talks without agreement, leaving fragile ceasefire under growing strain.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "At least six killed in Israeli strikes in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss",
-      "description": "Attacks come as Israel says it is close to taking over a major town in the south, and before peace talks in the US.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Tear gas fired at India workers demanding higher wages as living costs rise",
-      "link": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss",
-      "description": "Factory workers protest in national capital&#039;s suburb of Noida as living costs across the world rise due to the Iran war.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How the US-Iran talks in Islamabad unfolded",
-      "link": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
-      "description": "Pakistan has been under the spotlight as it managed what others couldn’t due to its ties with the Gulf, US and China.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
-      "link": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy?traffic_source=rss",
-      "description": "The US restrictions on maritime navigation and transit in international waters are illegal, Iranian military says.",
       "date": "Mon, 13 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -363,9 +363,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Russia offers to take in Iran's enriched uranium",
+      "link": "https://www.thehindu.com/news/national/russia-offers-to-take-in-irans-enriched-uranium/article70858925.ece",
+      "description": "Failed talks between Iran and the United States over the weekend dashed hopes of a swift deal to permanently end the war that has killed thousands and thrown the global economy into turmoil since it began in late February",
+      "date": "Mon, 13 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran executed at least 1,639 in 2025, more hangings feared: NGOs",
+      "link": "https://www.thehindu.com/news/international/iran-executed-at-least-1639-in-2025-more-hangings-feared-ngos/article70858894.ece",
+      "description": "The number of executions represented an increase of 6% on the 975 people Iran put to death in 2024, and also included 48 women, Norway-based Iran Human Rights (IHR) and Paris-based Together Against the Death Penalty (ECPM) said in their joint annual report",
+      "date": "Mon, 13 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel-Iran war LIVE updates: Donald Trump warns Iran boats breaching U.S. blockade will be ‘eliminated’",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-13-2026/article70856044.ece",
       "description": "Pakistan’s Prime Minister Shehbaz Sharif said a ceasefire between the United States and Iran was “holding” and that efforts were under way to reach an agreement",
+      "date": "Mon, 13 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S., Israel met ‘strategic defeat’ in Iran, says Ambassador Fathali",
+      "link": "https://www.thehindu.com/news/international/iran-envoy-to-india-mohammad-fathali-press-conference/article70857551.ece",
+      "description": "The Envoy said the U.S. side made \"unlawful\" demands during the talks that led to the negotiations ending without results",
       "date": "Mon, 13 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -383,16 +413,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. aware of Iran’s capabilities, says Iran Envoy Mohammad Fathali",
-      "link": "https://www.thehindu.com/news/international/iran-envoy-to-india-mohammad-fathali-press-conference/article70857551.ece",
-      "description": "The Envoy said the U.S. side made \"unlawful\" demands during the talks that led to the negotiations ending without results",
-      "date": "Mon, 13 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "U.K. will not back blockade of Strait of Hormuz, says PM Starmer",
       "link": "https://www.thehindu.com/news/international/uk-will-not-back-blockade-of-strait-of-hormuz-says-pm-starmer/article70856929.ece",
       "description": "Britain had minesweepers in the ​region, Starmer said, and ‌while he could not discuss operational matters, the military capability was “focused from our point of view on getting the Strait full open”",
@@ -401,66 +421,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Iranian crude returns to India after seven years as tankers dock at key ports",
-      "link": "https://www.thehindu.com/news/national/iranian-crude-returns-to-india-after-seven-years-as-tankers-dock-at-key-ports/article70856822.ece",
-      "description": "The one-month exemption permitted the sale of Iranian oil already in transit, aimed at easing global supply disruptions and containing prices",
-      "date": "Mon, 13 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Luxury brands face profits squeeze as Iran conflict shrinks Dubai Mall sales",
-      "link": "https://www.thehindu.com/business/luxury-brands-face-profits-squeeze-as-iran-conflict-shrinks-dubai-mall-sales/article70856500.ece",
-      "description": "Luxury brands in March reported sales drops of 30-50% at ​the Mall of the Emirates",
-      "date": "Mon, 13 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "UKMTO issues advisory regarding blockade of Strait of Hormuz",
-      "link": "https://tass.com/world/2116365",
-      "description": "According to the notice, the access restrictions apply without distinction to vessels of any flag engaging with Iranian ports, oil terminals, or coastal facilities",
-      "date": "Mon, 13 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Magyar says EU should lift anti-Russian sanctions when Ukrainian conflict over",
-      "link": "https://tass.com/world/2116361",
-      "description": "In his words, anti-Russian sanctions caused energy prices to spike, and \"Europe is not interested in buying raw materials at bloated prices,\" because \"it only damages Europe’s competitiveness\"",
-      "date": "Mon, 13 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump vows to destroy Iranian ships that will violate maritime blockade",
-      "link": "https://tass.com/world/2116353",
-      "description": "The US president wrote on Truth Social that his country had destroyed 158 Iranian warships, but the Iranian Navy still has fast attack craft in service",
-      "date": "Mon, 13 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Netanyahu says discussed results of US-Iran talks in Islamabad with Vance",
-      "link": "https://tass.com/world/2116349",
-      "description": "The Israeli prime minister said that the US vice president had reassured him that Washington is still insisting that Iran cede all of its stockpiles of enriched uranium and completely abandon its enrichment activities in the future",
-      "date": "Mon, 13 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
