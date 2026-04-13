@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-13 07:08 UTC",
-  "total": 46,
+  "updated": "2026-04-13 09:26 UTC",
+  "total": 47,
   "stories": [
+    {
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5780733/morning-news-brief",
+      "description": "President Trump says U.S. will blockade the Strait of Hormuz, failed U.S.-Iran negotiations cause oil prices to surge, Hungary's Viktor Orbán loses reelection bid.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump lambasts Pope Leo XIV, extending feud over Iran war with American pontiff",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5783008/trump-pope-leo",
@@ -143,6 +153,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Pope Leo XIV begins landmark Algeria visit on first leg of Africa tour",
+      "link": "https://www.france24.com/en/africa/20260413-pope-leo-xiv-begins-landmark-algeria-visit-on-first-leg-of-africa-tour",
+      "description": "Pope Leo XIV arrived in Algeria on Monday at the start of an 11-day tour of Africa, the first international trip of his papacy that risked being overshadowed by public criticism from US President Donald Trump over his stance on the Iran war.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war prompts European rethink on energy security: How can the EU become more independent?",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20260413-iran-war-prompts-european-rethink-on-energy-security-how-can-the-eu-become-more-independent",
+      "description": "Europe’s energy dependence has been sharply exposed by the war in Iran. Although efforts have been made over the past four years to reduce reliance on Russia, disruptions to liquefied natural gas (LNG) shipments through the Strait of Hormuz have highlighted the EU’s continued vul...",
+      "date": "Mon, 13 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump calls Pope Leo 'terrible' in public attack after pontiff's anti-war message",
+      "link": "https://www.france24.com/en/americas/20260413-trump-calls-pope-leo-terrible-in-public-attack-after-pontiff-s-anti-war-message",
+      "description": "US President Donald Trump delivered an extraordinary broadside against Pope Leo XIV on Sunday, accusing the US-born pontiff of being \"a very liberal person\" and \"terrible for foreign policy\". His comments came after Leo suggested over the weekend that a \"delusion of omnipotence\" ...",
+      "date": "Mon, 13 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran executed 'at least 1,639 people' in 2025, highest number since 1989",
       "link": "https://www.france24.com/en/middle-east/20260413-iran-executed-at-least-1-639-people-in-2025-highest-number-since-1989",
       "description": "Iran executed at least 1,639 people last year, an average of more than four executions per day, Norway-based Iran Human Rights and Paris-based Together Against the Death Penalty said in their joint annual report, warning that the regime risked killing even more people this year a...",
@@ -153,9 +193,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Trump announces blockade of Strait of Hormuz on Monday",
+      "title": "Middle East war live: Iran says US naval blockade of Hormuz 'illegal' and 'piracy'",
       "link": "https://www.france24.com/en/middle-east/20260413-middle-east-war-live-trump-announces-blockade-of-strait-of-hormuz-on-monday",
-      "description": "US President Donald Trump announced a naval blockade of the Strait of Hormuz and Iranian ports starting Monday afternoon, after ceasefire talks collapsed in Pakistan. The move triggered an oil price surge and warnings of escalation, as both sides traded threats and blamed each ot...",
+      "description": "Iran's military said a US naval blockade of the Strait of Hormuz set to begin on Monday would be illegal and amount to piracy, warning that no Gulf ports would be safe if its own are threatened. US President Donald Trump earlier told reporters he didn't \"care\" whether Tehran retu...",
       "date": "Mon, 13 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -183,9 +223,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran - Enemies of the Strait: Former NATO General discusses US blockade threats",
+      "title": "US threatens to block Strait of Hormuz: Trump ‘playing his last card’, former NATO general says",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260412-iran-enemies-of-the-straights-former-nato-general-discusses-us-blockade-threats",
-      "description": "Jean Paul Palomeros, a former French Airforce General, who's held high level command roles in both France and NATO, where he was Supreme Allied Commander in the alliances warfare development command, overseeing transformation from 2012 to 2015.",
+      "description": "Gavin Lee is joined by General Jean-Paul Palomeros, former Supreme Allied Commander for NATO's Transformation and French Air Force veteran, to discuss the latest developments in the Middle East. In light of President Trump's recent threats to impose a military blockade on the Str...",
       "date": "Sun, 12 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -193,34 +233,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says US will begin 'blockading' the Strait of Hormuz",
-      "link": "https://www.france24.com/en/video/20260412-trump-says-us-will-begin-blockading-the-strait-of-hormuz",
-      "description": "The US navy will begin blockading ships trying to enter or leave the Strait of Hormuz “effective immediately”, US President Donald Trump said in a social media post Sunday. He added that the US would ‌also “interdict” every ‌vessel in international waters that had paid a toll to ...",
-      "date": "Sun, 12 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "What Iran is saying about US plan to blockade ports",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-iran-is-saying-about-us-plan-to-blockade-ports?traffic_source=rss",
+      "description": "Iran’s military has called US blockade plans in the Strait of Hormuz an “act of piracy”.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran believes they hold the cards amid 'dysfunction & chaos in US national security decision-making'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260412-iran-believes-they-hold-the-cards-amid-dysfunction-chaos-in-us-national-security-decision-making",
-      "description": "François Picard is pleased to welcome Aaron David Miller, former State Department Middle East negotiator, and Senior Fellow at the Carnegie Endowment for International Peace. Miller has spent decades working in diplomacy, and he does not see a coherent strategy playing out here, ...",
-      "date": "Sun, 12 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company",
+      "link": "https://www.aljazeera.com/features/2026/4/13/refugee-in-my-own-city-surviving-tehrans-bombing-with-my-cat-for-company?traffic_source=rss",
+      "description": "Despite the relentless bombing, Sana refuses to flee Tehran, clinging to resilience and fleeting moments of normalcy.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump orders blockade of Hormuz Strait",
-      "link": "https://www.france24.com/en/trump-orders-blockade-of-hormuz-strait",
-      "description": "US navy will begin blockading ships trying to enter or leave the Strait of Hormuz “effective immediately”, US President Donald Trump said in a social media post Sunday. He added that the US would ‌also “interdict” every ‌vessel in international waters that had paid a toll to Iran...",
-      "date": "Sun, 12 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war: What is happening on day 45 of the US-Iran conflict?",
+      "link": "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict?traffic_source=rss",
+      "description": "The move to blockade the Strait of Hormuz is the latest escalation in the war after failure to sign peace deal.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon?",
+      "link": "https://www.aljazeera.com/news/2026/4/13/who-is-israels-us-envoy-leading-negotiations-with-lebanon?traffic_source=rss",
+      "description": "Israel&#039;s envoy to the US has far-right ties and has engaged in contentious rhetoric during Lebanese peace negotiations.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
@@ -257,46 +307,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss",
       "description": "CENTCOM says the blockade will begin at 14:00 GMT, as Iran warns of even higher prices at the pump.",
       "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "These are people Israel killed in Lebanon on a single day",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
-      "description": "In a matter of minutes, Israel killed more than 350 people across Lebanon on Wednesday, April 8.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Could the Iran war pose lasting risks to global food security?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss",
-      "description": "United Nations warns impact could last well beyond conflict.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What’s next for the US-Iran peace process after talks end without a deal?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/whats-next-for-the-us-iran-peace-process-after-talks-end-without-a-deal?traffic_source=rss",
-      "description": "Sources in Pakistan say “progress has been made” in talks between the US and Iran – even though they ended with no deal.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "“The initiative is in the hands of Tehran, not Washington”",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/12/the-initiative-is-in-the-hands-of-tehran-not?traffic_source=rss",
-      "description": "Defence analyst Mushahid Hussain Syed says the US-Iran conflict cannot be resolved through military force.",
-      "date": "Sun, 12 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -363,7 +373,17 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE updates: Trump says doesn't care if Iran comes back to talks",
+      "title": "Iranian crude returns to India after seven years as tankers dock at key ports",
+      "link": "https://www.thehindu.com/news/national/iranian-crude-returns-to-india-after-seven-years-as-tankers-dock-at-key-ports/article70856822.ece",
+      "description": "The one-month exemption permitted the sale of Iranian oil already in transit, aimed at easing global supply disruptions and containing prices",
+      "date": "Mon, 13 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war LIVE updates: Iran military say U.S. naval blockade 'amounts to piracy'",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-13-2026/article70856044.ece",
       "description": "The U.S. military has said it will begin a blockade of all maritime traffic entering ‌and exiting Iranian ports and coastal areas on Monday",
       "date": "Mon, 13 Apr 2026",
@@ -413,19 +433,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump lambasts Pope Leo XIV, extending feud over Iran war with first American pontiff",
-      "link": "https://www.thehindu.com/news/international/trump-attacks-pope-leo-calling-him-weak-on-crime-and-terrible/article70856055.ece",
-      "description": "Pope Leo, who is known for choosing his words carefully, ‌has emerged as an outspoken ​critic of the U.S.-Israeli war on Iran that ⁠began on February 28",
-      "date": "Mon, 13 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US-Iran talks lay foundation for a diplomatic process — Iranian diplomat",
-      "link": "https://tass.com/world/2115859",
-      "description": "This process could benefit both sides, Iranian Ambassador in Pakistan Reza Amiri Moghadam said",
+      "title": "US vessels must leave Persian Gulf, representative of Iran’s supreme leader says",
+      "link": "https://tass.com/world/2115941",
+      "description": "According to Abdul Majid Hakeem Ilahi, amid the US and Israeli aggression against Iran, the situation near the Strait of Hormuz remains tense",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -433,9 +443,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US Department of Justice to prosecute anyone who buys Iranian oil",
-      "link": "https://tass.com/world/2115857",
-      "description": "\"The Department of Justice will vigorously prosecute anyone who buys or sells sanctioned Iranian oil,\" US Acting Attorney General Todd Blanche said",
+      "title": "Saudi Arabia’s oil exports to China to fall by almost half in May — Bloomberg",
+      "link": "https://tass.com/economy/2115939",
+      "description": "According to the report, the decline is due to a sharp rise in prices following Saudi Aramco’s decision to raise export prices to record levels amid the conflict surrounding Iran and the effective closure of the Strait of Hormuz",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -443,9 +453,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump says US to undertake serious review of its policy within NATO",
-      "link": "https://tass.com/world/2115837",
-      "description": "The US president emphasized that the country was spending \"trillions of dollars\" on an alliance that did not support Washington's actions toward Iran",
+      "title": "IN BRIEF: Market reaction to US-announced blockade of Iran",
+      "link": "https://tass.com/economy/2115931",
+      "description": "Futures for Brent crude oil with June delivery on the London ICE exchange rose by more than 9%",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -453,9 +463,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump says he does not care if Iran returns to negotiations",
-      "link": "https://tass.com/world/2115835",
-      "description": "\"Iran is in very bad shape\" and in a desperate position, the US leader says",
+      "title": "Washington in deadlock after failure of Pakistan-hosted talks with Iran — CNN",
+      "link": "https://tass.com/world/2115917",
+      "description": "Now that the United States has failed to get Iran to accept all its demands, \"unattractive options\" are what remain for Washington, the TV channel noted",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
