@@ -1,25 +1,27 @@
 {
-  "updated": "2026-04-13 11:08 UTC",
+  "updated": "2026-04-13 12:59 UTC",
   "total": 11,
   "events": [
     {
       "date": "2026-04-13",
       "dateDisplay": "Apr 13, 2026",
-      "title": "Oil surge as Trump says to blockade Hormuz after Iran talks fail",
-      "link": "https://www.france24.com/en/video/20260413-oil-surge-as-trump-says-to-blockade-hormuz-after-iran-talks-fail",
+      "title": "Retired U.S. Navy admiral on Trump's threat to blockade the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5780994/retired-us-navy-admiral-on-trumps-threat-to-blockade-the-strait-of-hormuz",
       "sources": [
-        "France 24"
+        "France 24",
+        "Al Jazeera",
+        "NPR News"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-04-12",
       "dateDisplay": "Apr 12, 2026",
-      "title": "After failed peace talks, President Trump threatens to blockade the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/04/12/nx-s1-5782653/after-failed-peace-talks-president-trump-threatens-to-blockade-the-strait-of-hormuz",
+      "title": "After Iran talks falter, the big question is what happens next?",
+      "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
@@ -60,8 +62,8 @@
     {
       "date": "2026-04-08",
       "dateDisplay": "Apr 08, 2026",
-      "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
-      "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
+      "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],

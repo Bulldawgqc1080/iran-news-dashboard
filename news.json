@@ -1,11 +1,41 @@
 {
-  "updated": "2026-04-13 11:08 UTC",
-  "total": 47,
+  "updated": "2026-04-13 12:59 UTC",
+  "total": 49,
   "stories": [
+    {
+      "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
+      "link": "https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election",
+      "description": "President Trump announced a blockade of Iranian ports after peace talks with Iran collapsed. And, Viktor Orbán concedes defeat after 16 years in power in Hungary.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. military to block ships from Iran's ports after peace talks fail",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
       "description": "The U.S. Central Command said the blockade would be \"enforced impartially against vessels of all nations\" from 10 a.m. EDT, following the breakdown of talks after 21 hours of negotiations.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Trump says U.S. will blockade Iranian ports after peace talks fail",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5782654/trump-says-us-will-blockade-iranian-ports-after-peace-talks-fail",
+      "description": "On Sunday, President Trump said the U.S. would blockade the Strait of Hormuz after negotiations between the U.S. and Iran broke down over the weekend.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Retired U.S. Navy admiral on Trump's threat to blockade the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5780994/retired-us-navy-admiral-on-trumps-threat-to-blockade-the-strait-of-hormuz",
+      "description": "NPR's Michel Martin speaks to retired U.S. Navy Adm. James Foggo, dean of the Center for Maritime Strategy, about President Trump's command to blockade the Strait of Hormuz.",
       "date": "Mon, 13 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -23,9 +53,9 @@
       "bias": "Low"
     },
     {
-      "title": "Pope Leo says he does not fear Trump, as he pushes back in feud over Iran war",
-      "link": "https://www.npr.org/2026/04/13/nx-s1-5783008/trump-pope-leo",
-      "description": "President Donald Trump delivered an extraordinary broadside against Pope Leo XIV on Sunday night, saying he didn't think the U.S.-born global leader of the Catholic Church is \"doing a very good job.\"",
+      "title": "Oil prices surge after U.S.-Iran peace talks break down",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5781260/oil-prices-surge-after-us-iran-peace-talks-break-down",
+      "description": "The U.S. said on Sunday that it will soon block ships from Iranian ports. It comes after the U.S. and Iran failed to reach an agreement during face-to-face peace talks, sending oil prices surging.",
       "date": "Mon, 13 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -33,20 +63,10 @@
       "bias": "Low"
     },
     {
-      "title": "After failed peace talks, President Trump threatens to blockade the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/04/12/nx-s1-5782653/after-failed-peace-talks-president-trump-threatens-to-blockade-the-strait-of-hormuz",
-      "description": "Less than a day after peace talks between the US and Iran failed, President Trump said that he will blockade the Strait of Hormuz.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Amid the Iran war, Ukraine makes gains against the Kremlin",
-      "link": "https://www.npr.org/2026/04/12/nx-s1-5779257/amid-the-iran-war-ukraine-makes-gains-against-the-kremlin",
-      "description": "With attention focused on Iran, Ukraine has made economic, battlefield and diplomatic gains against the Kremlin.",
-      "date": "Sun, 12 Apr 2026",
+      "title": "Former U.S. special envoy on where U.S. and Iran stand after failed negotiations",
+      "link": "https://www.npr.org/2026/04/13/nx-s1-5780993/former-us-special-envoy-on-where-us-and-iran-stand-after-failed-negotiations",
+      "description": "NPR's Michel Martin asks Robert Malley, former U.S. special envoy for Iran, about where the weekend's negotiations between the U.S. and Iran leave diplomatic efforts to resolve the war.",
+      "date": "Mon, 13 Apr 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -57,6 +77,16 @@
       "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
       "description": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
       "date": "Sun, 12 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran carried out highest number of executions in decades",
+      "link": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss",
+      "description": "Organisations warn many more people could be executed in the wake of the anti-government protests which swept Iran earlier this year.",
+      "date": "Mon, 13 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -136,16 +166,6 @@
       "title": "BBC at the site of Israeli air strikes in Beirut",
       "link": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss",
       "description": "At least 182 people were killed and 890 others wounded, according to the Lebanese health ministry.",
-      "date": "Thu, 09 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Has US achieved its war objectives in Iran?",
-      "link": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
-      "description": "Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.",
       "date": "Thu, 09 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -233,6 +253,46 @@
       "bias": "Low-Med"
     },
     {
+      "title": "At least six killed in Israeli strikes in southern Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+      "description": "Attacks come as Israel says it is close to taking over a major town in the south, and before peace talks in the US.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Tear gas fired at India workers demanding higher wages as living costs rise",
+      "link": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss",
+      "description": "Factory workers protest in national capital&#039;s suburb of Noida as living costs across the world rise due to the Iran war.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How the US-Iran talks in Islamabad unfolded",
+      "link": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
+      "description": "Pakistan has been under the spotlight as it managed what others couldn’t due to its ties with the Gulf, US and China.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
+      "link": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy?traffic_source=rss",
+      "description": "The US restrictions on maritime navigation and transit in international waters are illegal, Iranian military says.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Starmer says UK will not support US blockade of Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz?traffic_source=rss",
       "description": "Other US allies criticise Trump&#039;s move, including France, Spain and Turkiye, and China also condemns the plan.",
@@ -266,46 +326,6 @@
       "title": "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company",
       "link": "https://www.aljazeera.com/features/2026/4/13/refugee-in-my-own-city-surviving-tehrans-bombing-with-my-cat-for-company?traffic_source=rss",
       "description": "Despite the relentless bombing, Sana refuses to flee Tehran, clinging to resilience and fleeting moments of normalcy.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What is happening on day 45 of the US-Iran conflict?",
-      "link": "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict?traffic_source=rss",
-      "description": "The move to blockade the Strait of Hormuz is the latest escalation in the war after failure to sign peace deal.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon?",
-      "link": "https://www.aljazeera.com/news/2026/4/13/who-is-israels-us-envoy-leading-negotiations-with-lebanon?traffic_source=rss",
-      "description": "Israel&#039;s envoy to the US has far-right ties and has engaged in contentious rhetoric during Lebanese peace negotiations.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
-      "link": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss",
-      "description": "Leo, ​who last year became the first US-born pope, has emerged as an outspoken critic of the US-Israeli ⁠war on Iran.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
-      "link": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss",
-      "description": "Asian stocks fall as naval blockade threat injects new turmoil into financial markets.",
       "date": "Mon, 13 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -373,9 +393,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE updates: Iran military say U.S. naval blockade 'amounts to piracy'",
+      "title": "U.S. aware of Iran’s capabilities, says Iran Envoy Mohammad Fathali",
+      "link": "https://www.thehindu.com/news/international/iran-envoy-to-india-mohammad-fathali-press-conference/article70857551.ece",
+      "description": "The Envoy said the U.S. side made \"unlawful\" demands during the talks that led to the negotiations ending without results",
+      "date": "Mon, 13 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war LIVE updates: U.S. aware of Iran’s capabilities, says Envoy Mohammad Fathali",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-13-2026/article70856044.ece",
-      "description": "The U.S. military has said it will begin a blockade of all maritime traffic entering ‌and exiting Iranian ports and coastal areas on Monday",
+      "description": "Prime Minister Benjamin Netanyahu said that Israel supports U.S. President Donald Trump’s decision to impose a naval blockade on Iran",
       "date": "Mon, 13 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -423,19 +453,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Slovakia's Fico ready to cooperate with Hungary's new Prime Minister",
-      "link": "https://www.thehindu.com/news/international/slovakias-fico-ready-to-cooperate-with-hungarys-new-prime-minister/article70856434.ece",
-      "description": "Under Fico Slovakia has been ‌a close ally of Hungary, with both ​neighbours maintaining warm ties with Moscow, opposing European Union sanctions and keeping up purchases of ⁠Russian oil and gas",
-      "date": "Mon, 13 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump's remarks about blockade of Iran are negotiating tactic — German expert",
-      "link": "https://tass.com/world/2116093",
-      "description": "\"President Trump does not stand to gain from disrupting trade routes,\" Jurgen Hardt said",
+      "title": "US decision to blockade Strait of Hormuz makes zero sense — Spanish defense minister",
+      "link": "https://tass.com/world/2116205",
+      "description": "Margarita Robles added that nobody knows the reason why this war began",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -443,9 +463,9 @@
       "bias": "Very High"
     },
     {
-      "title": "FACTBOX: US decides to impose naval blockade on Iran",
-      "link": "https://tass.com/world/2116073",
-      "description": "The Islamic Revolutionary Guard Corps said it would treat the approach of military vessels to the strait as a violation of the ceasefire",
+      "title": "Trump realizes US 'quagmire' in Iran possible — WP",
+      "link": "https://tass.com/world/2116201",
+      "description": "The column says that Middle Eastern wars are easy to unleash, but hard to curtail",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -453,9 +473,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US believes Iran may seek to break blockade for additional concessions — newspaper",
-      "link": "https://tass.com/world/2116087",
-      "description": "According to The Washington Post, the US authorities believe that the likelihood of a change in leadership in the Islamic Republic has increased following the ceasefire",
+      "title": "Russia rotates personnel at Iran’s Bushehr NPP, 108 employees leaving — Rosatom CEO",
+      "link": "https://tass.com/economy/2116195",
+      "description": "According to Alexey Likhachev, 20 people remain at the plant",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -463,9 +483,9 @@
       "bias": "Very High"
     },
     {
-      "title": "No basis yet for reaching US-Iran consensus — expert",
-      "link": "https://tass.com/world/2116059",
-      "description": "According to Han Jianwei, the current ceasefire is not a real end of the war, but rather \"a break in a match\"",
+      "title": "Hezbollah expects nothing good from Lebanon-Israel talks",
+      "link": "https://tass.com/world/2116193",
+      "description": "According to Mahmoud Qamati, Deputy Head of Hezbollah's Political Council, people in Lebanon have grown accustomed to \"American lies and deceit, to American and Israeli hypocrisy\"",
       "date": "Mon, 13 Apr 2026",
       "source": "TASS",
       "region": "ru",
