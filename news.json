@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-13 04:49 UTC",
-  "total": 43,
+  "updated": "2026-04-13 07:08 UTC",
+  "total": 46,
   "stories": [
     {
       "title": "Trump lambasts Pope Leo XIV, extending feud over Iran war with American pontiff",
@@ -36,16 +36,6 @@
       "title": "Iran-US conflict fought amid censorships and digital fog of war",
       "link": "https://www.npr.org/2026/04/12/nx-s1-5779592/iran-us-conflict-fought-amid-censorships-and-digital-fog-of-war",
       "description": "Amid the war in Iran, countries have been censoring and policing what their citizens are saying about the conflict and what information they have access to.",
-      "date": "Sun, 12 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. and Iran fail to reach agreement during high-level talks in Islamabad",
-      "link": "https://www.npr.org/2026/04/12/nx-s1-5782052/u-s-and-iran-fail-to-reach-agreement-during-high-level-talks-in-islamabad",
-      "description": "The U.S and Iran did not reach an agreement to end the war in Iran at a high-level meeting on Saturday.",
       "date": "Sun, 12 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -153,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran executed 'at least 1,639 people' in 2025, highest number since 1989",
+      "link": "https://www.france24.com/en/middle-east/20260413-iran-executed-at-least-1-639-people-in-2025-highest-number-since-1989",
+      "description": "Iran executed at least 1,639 people last year, an average of more than four executions per day, Norway-based Iran Human Rights and Paris-based Together Against the Death Penalty said in their joint annual report, warning that the regime risked killing even more people this year a...",
+      "date": "Mon, 13 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East war live: Trump announces blockade of Strait of Hormuz on Monday",
       "link": "https://www.france24.com/en/middle-east/20260413-middle-east-war-live-trump-announces-blockade-of-strait-of-hormuz-on-monday",
       "description": "US President Donald Trump announced a naval blockade of the Strait of Hormuz and Iranian ports starting Monday afternoon, after ceasefire talks collapsed in Pakistan. The move triggered an oil price surge and warnings of escalation, as both sides traded threats and blamed each ot...",
@@ -223,14 +223,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "🔴 Middle East war live: Trump says US will begin 'blockading' Strait of Hormuz",
-      "link": "https://www.france24.com/en/live-news/20260412-%F0%9F%94%B4-middle-east-war-live-trump-says-us-will-begin-blockading-strait-of-hormuz",
-      "description": "",
-      "date": "Sun, 12 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
+      "link": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss",
+      "description": "Leo, ​who last year became the first US-born pope, has emerged as an outspoken critic of the US-Israeli ⁠war on Iran.",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
@@ -303,14 +303,14 @@
       "bias": "Medium"
     },
     {
-      "title": "How shaky is the Iran-US ceasefire?",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire?traffic_source=rss",
-      "description": "Will the Iran-US truce lead to peace, or more war?",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "US military to begin blockade of Iranian ports on Monday",
+      "link": "https://www.dawn.com/news/1991295/us-military-to-begin-blockade-of-iranian-ports-on-monday",
+      "description": "The US military said it would begin a blockade of all Iranian ports on Monday, after talks between the warring sides in Pakistan failed to produce an agreement, with President Donald Trump blaming the Islamic republic’s refusal to abandon its nuclear ambitions. Trump had announce...",
+      "date": "Mon, 13 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran ‘will not bow to any threats’, Ghalibaf declares",
@@ -363,29 +363,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan sends military force, fighter jets to Saudi Arabia",
-      "link": "https://www.dawn.com/news/1990849/pakistan-sends-military-force-fighter-jets-to-saudi-arabia",
-      "description": "Pakistan has sent a military force and fighter jets to Saudi Arabia to boost security under a joint defence cooperation agreement between the two countries, the Saudi defence ministry said on Saturday. The Saudi ministry, in a statement, wrote that a military force and fighter je...",
-      "date": "Sun, 12 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Watch: Netanyahu: We have thwarted the threat of invasion from Lebanon",
-      "link": "https://www.thehindu.com/shorts/watch-netanyahu-we-have-thwarted-the-threat-of-invasion-from-lebanon/article70856190.ece",
-      "description": "",
-      "date": "Mon, 13 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war LIVE updates: U.S. announces to block Hormuz today",
+      "title": "Israel-Iran war LIVE updates: Trump says doesn't care if Iran comes back to talks",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-13-2026/article70856044.ece",
-      "description": "U.S. Central Command said it would still allow ships travelling between non-Iranian ports to transit the Strait of Hormuz",
+      "description": "The U.S. military has said it will begin a blockade of all maritime traffic entering ‌and exiting Iranian ports and coastal areas on Monday",
       "date": "Mon, 13 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -393,9 +373,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Elusive deal: On the Iran-U.S. ceasefire talks",
-      "link": "https://www.thehindu.com/opinion/editorial/elusive-deal-the-hindu-editorial-on-the-iran-us-ceasefire-talks/article70855083.ece",
-      "description": "U.S. and Iran must continue diplomatic efforts to end the war",
+      "title": "Luxury brands face profits squeeze as Iran conflict shrinks Dubai Mall sales",
+      "link": "https://www.thehindu.com/business/luxury-brands-face-profits-squeeze-as-iran-conflict-shrinks-dubai-mall-sales/article70856500.ece",
+      "description": "Luxury brands in March reported sales drops of 30-50% at ​the Mall of the Emirates",
       "date": "Mon, 13 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -403,7 +383,37 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump attacks Pope Leo, calling him ‘weak’ on crime and ‘terrible’",
+      "title": "MoS Margherita attends mourning ceremony for late Iranian leader Ayatollah Khamenei",
+      "link": "https://www.thehindu.com/news/national/mos-margherita-attends-mourning-ceremony-for-late-iranian-leader-ayatollah-khamenei/article70856358.ece",
+      "description": "The ceremony was organised by the Iranian embassy on Sunday (April 12, 2026) to pay respect to the departed leader on the 40th day (Chehelum) of his demise",
+      "date": "Mon, 13 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Slovakia's Fico ready to cooperate with Hungary's new Prime Minister",
+      "link": "https://www.thehindu.com/news/international/slovakias-fico-ready-to-cooperate-with-hungarys-new-prime-minister/article70856434.ece",
+      "description": "Under Fico Slovakia has been ‌a close ally of Hungary, with both ​neighbours maintaining warm ties with Moscow, opposing European Union sanctions and keeping up purchases of ⁠Russian oil and gas",
+      "date": "Mon, 13 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war updates: U.S. Central Command says it will begin blockade of Iranian ports Monday",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-12-2026/article70853206.ece",
+      "description": "The U.S. president said his threat to impose 50% tariffs on goods from countries that sold weapons to Iran was aimed at China",
+      "date": "Mon, 13 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump lambasts Pope Leo XIV, extending feud over Iran war with first American pontiff",
       "link": "https://www.thehindu.com/news/international/trump-attacks-pope-leo-calling-him-weak-on-crime-and-terrible/article70856055.ece",
       "description": "Pope Leo, who is known for choosing his words carefully, ‌has emerged as an outspoken ​critic of the U.S.-Israeli war on Iran that ⁠began on February 28",
       "date": "Mon, 13 Apr 2026",
@@ -413,24 +423,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. military says it will start blockade of all ships going to and from Iran on Monday",
-      "link": "https://www.thehindu.com/news/international/us-military-says-it-will-start-blockade-of-all-ships-going-to-and-from-iran-on-monday/article70855422.ece",
-      "description": "The blockade will ​be enforced ‌impartially against vessels of all nations entering or departing Iranian ports ‌and coastal areas, including ​all Iranian ports on the Arabian ⁠Gulf and Gulf of Oman, according to CENTCOM",
+      "title": "US-Iran talks lay foundation for a diplomatic process — Iranian diplomat",
+      "link": "https://tass.com/world/2115859",
+      "description": "This process could benefit both sides, Iranian Ambassador in Pakistan Reza Amiri Moghadam said",
       "date": "Mon, 13 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Israel-Iran war LIVE updates: U.S. Central Command says it will begin blockade of Iranian ports Monday",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-12-2026/article70853206.ece",
-      "description": "The U.S. president said his threat to impose 50% tariffs on goods from countries that sold weapons to Iran was aimed at China",
+      "title": "US Department of Justice to prosecute anyone who buys Iranian oil",
+      "link": "https://tass.com/world/2115857",
+      "description": "\"The Department of Justice will vigorously prosecute anyone who buys or sells sanctioned Iranian oil,\" US Acting Attorney General Todd Blanche said",
       "date": "Mon, 13 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says US to undertake serious review of its policy within NATO",
+      "link": "https://tass.com/world/2115837",
+      "description": "The US president emphasized that the country was spending \"trillions of dollars\" on an alliance that did not support Washington's actions toward Iran",
+      "date": "Mon, 13 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says he does not care if Iran returns to negotiations",
+      "link": "https://tass.com/world/2115835",
+      "description": "\"Iran is in very bad shape\" and in a desperate position, the US leader says",
+      "date": "Mon, 13 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
