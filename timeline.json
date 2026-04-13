@@ -1,12 +1,12 @@
 {
-  "updated": "2026-04-12 01:31 UTC",
-  "total": 10,
+  "updated": "2026-04-13 01:27 UTC",
+  "total": 11,
   "events": [
     {
-      "date": "2026-04-12",
-      "dateDisplay": "Apr 12, 2026",
-      "title": "Iran war live: Talks with US to continue for a second day in Islamabad",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
+      "date": "2026-04-13",
+      "dateDisplay": "Apr 13, 2026",
+      "title": "US military threatens to blockade all Iranian ports starting on Monday",
+      "link": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss",
       "sources": [
         "Al Jazeera"
       ],
@@ -14,22 +14,34 @@
       "type": "framing"
     },
     {
-      "date": "2026-04-11",
-      "dateDisplay": "Apr 11, 2026",
-      "title": "US, Iran sit down for talks in Islamabad",
-      "link": "https://www.france24.com/en/us-iran-sit-down-for-talks-in-islamabad",
+      "date": "2026-04-12",
+      "dateDisplay": "Apr 12, 2026",
+      "title": "After failed peace talks, President Trump threatens to blockade the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/04/12/nx-s1-5782653/after-failed-peace-talks-president-trump-threatens-to-blockade-the-strait-of-hormuz",
       "sources": [
         "France 24",
-        "Al Jazeera"
+        "Al Jazeera",
+        "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
+    },
+    {
+      "date": "2026-04-11",
+      "dateDisplay": "Apr 11, 2026",
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
+      "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-04-10",
       "dateDisplay": "Apr 10, 2026",
-      "title": "Historic Vance-Ghalibaf talks must bridge deep distrust",
-      "link": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+      "title": "Lebanon and Israel officials to meet in US on Tuesday",
+      "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
