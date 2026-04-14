@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-14 12:59 UTC",
-  "total": 45,
+  "updated": "2026-04-14 14:50 UTC",
+  "total": 48,
   "stories": [
+    {
+      "title": "Fuel protests have Ireland's government facing possible no-confidence vote",
+      "link": "https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote",
+      "description": "The prime minister announced new tax cuts to try to end the crisis that began after the U.S.-Israel war on Iran led to the closure of the Strait of Hormuz. The government could face a no-confidence vote over its response to the fuel protests.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War",
       "link": "https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act",
@@ -46,26 +56,6 @@
       "title": "A U.S. military blockade of Iran's ports takes effect. What does that mean?",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5783804/a-u-s-military-blockade-of-irans-ports-takes-effect-what-does-that-mean",
       "description": "A U.S. blockade of Iranian ports has gone into effect Monday, while President Trump claims Iran wants to make a deal.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
-      "link": "https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election",
-      "description": "President Trump announced a blockade of Iranian ports after peace talks with Iran collapsed. And, Viktor Orbán concedes defeat after 16 years in power in Hungary.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump vows to sink Iranian ships approaching a U.S. blockade of Strait of Hormuz",
-      "link": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
-      "description": "President Trump said the U.S. would interdict vessels that had paid what he called an \"illegal toll\" to Iran to cross the Strait of Hormuz.",
       "date": "Mon, 13 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -173,6 +163,56 @@
       "bias": "Low-Med"
     },
     {
+      "title": "McDonald's, Iran and the pope: Trump's bizarre press conference",
+      "link": "https://www.france24.com/en/video/20260414-mcdonald-s-iran-and-the-pope-trump-s-bizarre-press-conference",
+      "description": "US President Donald Trump received a DoorDash delivery from McDonald's to the Oval Office during a press conference where he spoke about Iran and the pope.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Will Europe's airports run out of jet fuel?",
+      "link": "https://www.france24.com/en/video/20260414-will-europe-s-airports-run-out-of-jet-fuel",
+      "description": "The head of the French energy group Total has warned that a shortage of jet fuel may occur at airports in Europe in the coming weeks or months if the situation at the strait of Hormuz does not improve. Solange Mougin and Alexandra Quairini have more.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Lebanon-Israel talks: 'A significant and symbolic step'",
+      "link": "https://www.france24.com/en/video/20260414-lebanon-israel-talks-a-significant-and-symbolic-step",
+      "description": "Lebanese and Israeli representatives were set to meet Tuesday in Washington for their first direct talks in decades. France 24's Washington correspondent Fraser Jackson takes a look at what the opposing sides are hoping to achieve during the talks which he says are a \"a significa...",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Two ships from Iran ports pass Hormuz Strait despite US blockade",
+      "link": "https://www.france24.com/en/video/20260414-two-ships-from-iran-ports-pass-hormuz-strait-despite-us-blockade",
+      "description": "At least two ships using Iranian ports passed through the Strait of Hormuz on Monday despite a US military blockade, data from maritime tracking firm Kpler indicated Tuesday. France 24's Angela Diffley takes a look at why some ships may still be getting through and what this migh...",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Who wants what from Israel-Lebanon talks?",
+      "link": "https://www.france24.com/en/video/20260414-who-wants-what-from-israel-lebanon-talks",
+      "description": "As Israel and Lebanon sit down for US-Mediated talks in Washington on Tuesday, expectations are running low. The Israeli side has already dismissed the idea of a potential truce, saying the priority is to get Iran-backed Hezbollah disarmed. France 24's Delano D'Souza takes a look...",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Italy suspends defence agreement with Israel as Lebanon attacks stoke tensions",
       "link": "https://www.france24.com/en/europe/20260414-italy-suspends-defence-agreement-with-israel-as-lebanon-attacks-stoke-tensions",
       "description": "Prime Minister Giorgia Meloni's government has suspended Italy's defence cooperation agreement with Israel amid rising tensions between the two countries after Rome accused Israeli forces of firing warning shots at a convoy of Italian UN peacekeepers in Lebanon.",
@@ -203,54 +243,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pope says doesn't fear Trump as he pushes back in Iran war feud",
-      "link": "https://www.france24.com/en/video/20260414-pope-says-doesn-t-fear-trump-as-he-pushes-back-in-iran-war-feud",
-      "description": "Pope Leo XIV pushed back Monday on President Donald Trump’s broadside against him over the US-Israel war in Iran, telling reporters that the Vatican’s appeals for peace and reconciliation are rooted in the Gospel, and that he doesn’t fear the Trump administration.",
+      "title": "Can Pakistan juggle US-Iran mediation with Saudi defence commitments?",
+      "link": "https://www.aljazeera.com/news/2026/4/14/can-pakistan-juggle-us-iran-mediation-with-saudi-defence-commitments?traffic_source=rss",
+      "description": "Pakistani officials and a number of analysts say it can do both. But the balancing act won&#039;t be easy.",
       "date": "Tue, 14 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "US farmers pay price of Strait of Hormuz closure",
-      "link": "https://www.france24.com/en/video/20260414-us-farmers-pay-price-of-strait-of-hormuz-closure",
-      "description": "The Strait of Hormuz carries a significant share of the world’s energy and agricultural inputs. Disruptions since the outbreak of hostilities between the US and Iran are constraining flows of oil, gas and fertilizer, with ripple effects reaching far beyond the Middle East. As the...",
+      "title": "Israel ‘wants to reach peace and normalisation with Lebanon’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israel-wants-to-reach-peace-and-normalisation-with?traffic_source=rss",
+      "description": "Israeli Foreign Minister Gideon Saar has said Israel wants to reach “peace and normalisation” with Lebanon.",
       "date": "Tue, 14 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Residents of Iraqi Kurdistan in despair: 'We weren't at war with anyone'",
-      "link": "https://www.france24.com/en/tv-shows/focus/20260414-residents-of-iraqi-kurdistan-in-despair-we-weren-t-at-war-with-anyone",
-      "description": "After a month and a half spent living under the threat of drones, residents of Iraqi Kurdistan are exhausted. Just 24 hours before the ceasefire, a civilian was killed in a drone attack blamed on Iran by Kurdish authorities. In total, around 700 drone and missile attacks have tar...",
-      "date": "Tue, 14 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'Shocking attack': Italian press reacts to Trump's feud with pope",
-      "link": "https://www.france24.com/en/video/20260414-shocking-attack-italian-press-reacts-to-trump-s-feud-with-pope",
-      "description": "US President Donald Trump posted an AI-generated image of himself as a Jesus-like figure on Sunday, drawing widespread criticism even from some religious conservatives who typically support him, before deleting the post on Monday. It came amid his escalating feud with Pope Leo, w...",
-      "date": "Tue, 14 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'Total dehumanisation': French former hostages in Iran give interview",
-      "link": "https://www.france24.com/en/video/20260414-total-dehumanisation-french-former-hostages-in-iran-give-interview",
-      "description": "French former hostages Cecile Kohler and Jacques Paris have given their first television interview since returning to France from Iran. They had been detained in Iran on espionage charges for almost four years. The pair spoke in detail about their ordeal, and how they managed to ...",
-      "date": "Tue, 14 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran remains an obstacle to the ‘Greater Israel’ project",
@@ -306,26 +316,6 @@
       "title": "What we know about US-hosted talks between Israel and Lebanon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/what-we-know-about-us-hosted-talks-between-israel-and-lebanon?traffic_source=rss",
       "description": "Officials from Lebanon and Israel are meeting in the US for talks on Tuesday.",
-      "date": "Tue, 14 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel-Lebanon direct talks in the US: All to know",
-      "link": "https://www.aljazeera.com/news/2026/4/14/israel-lebanon-direct-talks-in-the-us-all-to-know?traffic_source=rss",
-      "description": "Israel and Lebanon hold first direct talks since 1993, but Hezbollah&#039;s rejection threatens the US-brokered effort.",
-      "date": "Tue, 14 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos",
-      "link": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
-      "description": "Iran&#039;s Foreign Ministry spokesman says the move aims to &#039;suppress the truth about their illegal war on Iran&#039;.",
       "date": "Tue, 14 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -451,6 +441,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli Hermes 450 drone taken down by Hezbollah missile in southern Lebanon",
+      "link": "https://tass.com/world/2116909",
+      "description": "The militia reported that the drone caught fire and crashed",
+      "date": "Tue, 14 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Oil, gas prices could rise by 100% and 200% in prolonged war with Iran — IMF",
+      "link": "https://tass.com/economy/2116893",
+      "description": "The International Monetary Fund has outlined three scenarios for further global economic developments, taking into account the war involving the United States, Israel, and Iran",
+      "date": "Tue, 14 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Philippines requested US to extend suspension of Russian oil sanctions",
+      "link": "https://tass.com/economy/2116879",
+      "description": "Secretary of Energy Sharon Garin said the Philippines needs diversification of supplies",
+      "date": "Tue, 14 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran plans to neutralize marine blockade threat through border trade",
+      "link": "https://tass.com/economy/2116869",
+      "description": "According to the government, it includes imports of primary goods and exports of products, mobilizing all the possible national and regional resources for this purpose and interacting with public entities",
+      "date": "Tue, 14 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }

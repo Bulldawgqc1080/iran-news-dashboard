@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-14 12:59 UTC",
-  "total": 11,
+  "updated": "2026-04-14 14:50 UTC",
+  "total": 10,
   "events": [
     {
       "date": "2026-04-14",
@@ -9,8 +9,8 @@
       "link": "https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks",
       "sources": [
         "NPR News",
-        "Al Jazeera",
-        "France 24"
+        "France 24",
+        "Al Jazeera"
       ],
       "sourceCount": 3,
       "type": "fact"
@@ -18,14 +18,13 @@
     {
       "date": "2026-04-13",
       "dateDisplay": "Apr 13, 2026",
-      "title": "Trump says U.S. will blockade Iranian ports. And, Orb\u00e1n loses Hungarian election",
-      "link": "https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election",
+      "title": "Starmer says UK will not join Trump's blockade of Iran's ports",
+      "link": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "BBC",
-        "NPR News"
+        "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-04-12",
@@ -43,17 +42,6 @@
       "dateDisplay": "Apr 11, 2026",
       "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-04-10",
-      "dateDisplay": "Apr 10, 2026",
-      "title": "Lebanon and Israel officials to meet in US on Tuesday",
-      "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
