@@ -1,7 +1,27 @@
 {
-  "updated": "2026-04-14 10:06 UTC",
+  "updated": "2026-04-14 11:51 UTC",
   "total": 49,
   "stories": [
+    {
+      "title": "Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War",
+      "link": "https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act",
+      "description": "Eric Swalwell is resigning from Congress after multiple women accused him of sexual assault and misconduct. And, Trump is feuding with Pope Leo, calling him weak on crime for opposing the war.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Israel and Lebanon set to meet for first direct talks in more than 30 years",
+      "link": "https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks",
+      "description": "An official briefed on Israel's strategy for the talks described Tuesday's meeting as \"preparatory\" and aimed at laying out a framework for future negotiations.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Ukraine hopes for more cooperation after Hungary elects new prime minister",
       "link": "https://www.npr.org/2026/04/14/nx-s1-5783682/ukraine-hopes-for-more-cooperation-after-hungary-elects-new-prime-minister",
@@ -46,26 +66,6 @@
       "title": "Trump vows to sink Iranian ships approaching a U.S. blockade of Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
       "description": "President Trump said the U.S. would interdict vessels that had paid what he called an \"illegal toll\" to Iran to cross the Strait of Hormuz.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump says U.S. will blockade Iranian ports after peace talks fail",
-      "link": "https://www.npr.org/2026/04/13/nx-s1-5782654/trump-says-us-will-blockade-iranian-ports-after-peace-talks-fail",
-      "description": "On Sunday, President Trump said the U.S. would blockade the Strait of Hormuz after negotiations between the U.S. and Iran broke down over the weekend.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Retired U.S. Navy admiral on Trump's threat to blockade the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/04/13/nx-s1-5780994/retired-us-navy-admiral-on-trumps-threat-to-blockade-the-strait-of-hormuz",
-      "description": "NPR's Michel Martin speaks to retired U.S. Navy Adm. James Foggo, dean of the Center for Maritime Strategy, about President Trump's command to blockade the Strait of Hormuz.",
       "date": "Mon, 13 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -173,6 +173,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Residents of Iraqi Kurdistan in despair: 'We weren't at war with anyone'",
+      "link": "https://www.france24.com/en/tv-shows/focus/20260414-residents-of-iraqi-kurdistan-in-despair-we-weren-t-at-war-with-anyone",
+      "description": "After a month and a half spent living under the threat of drones, residents of Iraqi Kurdistan are exhausted. Just 24 hours before the ceasefire, a civilian was killed in a drone attack blamed on Iran by Kurdish authorities. In total, around 700 drone and missile attacks have tar...",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "'Shocking attack': Italian press reacts to Trump's feud with pope",
       "link": "https://www.france24.com/en/video/20260414-shocking-attack-italian-press-reacts-to-trump-s-feud-with-pope",
       "description": "US President Donald Trump posted an AI-generated image of himself as a Jesus-like figure on Sunday, drawing widespread criticism even from some religious conservatives who typically support him, before deleting the post on Monday. It came amid his escalating feud with Pope Leo, w...",
@@ -243,14 +253,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: China says US blockade of Iran ports 'dangerous and irresponsible'",
-      "link": "https://www.france24.com/en/middle-east/20260414-middle-east-war-live-trump-says-us-military-has-blockaded-iranian-ports-to-pressure-tehran",
-      "description": "China said on Tuesday that a US blockade around Iranian ports was \"dangerous and irresponsible\", after US President Donald Trump threatened to sink any boats that sought to leave or dock there. Earlier, the Iran-backed Lebanese militant group Hezbollah urged Lebanon to pull out o...",
+      "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
+      "link": "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions?traffic_source=rss",
+      "description": "The IEA&#039;s oil &#039;demand destruction&#039; report comes after its chief said unnamed countries are hoarding stocks.",
       "date": "Tue, 14 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What we know about US-hosted talks between Israel and Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/what-we-know-about-us-hosted-talks-between-israel-and-lebanon?traffic_source=rss",
+      "description": "Officials from Lebanon and Israel are meeting in the US for talks on Tuesday.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel-Lebanon direct talks in the US: All to know",
+      "link": "https://www.aljazeera.com/news/2026/4/14/israel-lebanon-direct-talks-in-the-us-all-to-know?traffic_source=rss",
+      "description": "Israel and Lebanon hold first direct talks since 1993, but Hezbollah&#039;s rejection threatens the US-brokered effort.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos",
+      "link": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
+      "description": "Iran&#039;s Foreign Ministry spokesman says the move aims to &#039;suppress the truth about their illegal war on Iran&#039;.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Sanctioned tankers transit Strait of Hormuz amid US blockade",
+      "link": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss",
+      "description": "Chinese-owned tanker Rich Starry becomes the first sanctioned vessel to exit the Gulf after the US blockade.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
@@ -277,56 +327,6 @@
       "link": "https://www.aljazeera.com/news/2026/4/14/iran-war-what-is-happening-on-day-46-of-the-us-iran-conflict?traffic_source=rss",
       "description": "The US started a blockade on Iranian ports, but Trump said there is still a chance for Tehran to reach a deal.",
       "date": "Tue, 14 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
-      "link": "https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss",
-      "description": "Relief for global markets comes after Trump says Iranian officials are keen on a deal.",
-      "date": "Tue, 14 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Trump says Tehran wants deal amid US blockade in Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss",
-      "description": "Iran accuses US of committing piracy as thousands rally in Tehran against the blockade in the Strait of Hormuz.",
-      "date": "Tue, 14 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
-      "link": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss",
-      "description": "Naim Qassem says planned talks in Washington, DC, are a ploy to pressure Hezbollah into laying down its weapons.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss",
-      "description": "UN Secretary-General is calling on ‘all parties’ to respect freedom of navigation in the Strait of Hormuz.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Energy prices rise despite Jones Act suspension by Trump",
-      "link": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss",
-      "description": "Shipping costs have increased by more than 10 percent in the past month due to the US-Israel war on Iran.",
-      "date": "Mon, 13 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -393,9 +393,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Pakistan proposes new U.S.-Iran talks as Vance and Trump hint at progress",
+      "title": "U.S., Iran may meet again in Islamabad for second round of talks by next week: Report",
+      "link": "https://www.thehindu.com/news/international/us-iran-may-meet-again-in-islamabad-for-second-round-of-talks-by-next-week-report/article70860969.ece",
+      "description": "The contacts are ongoing for the revival of stalled negotiations between the U.S. and Iran, and talks may be held again before the end of the two-week ceasefire on April 21, says reports citing highly placed sources",
+      "date": "Tue, 14 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war LIVE: France, U.K. to co-host Hormuz shipping security talks",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-14-2026-trump-news-today/article70859995.ece",
-      "description": "China's Xi floats proposal to promote West Asia peace",
+      "description": "Pakistan proposes new U.S.-Iran talks as Vance and Trump hint at progress",
       "date": "Tue, 14 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -443,19 +453,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war highlights: Trump vows to destroy Iranian warships that get near U.S. blockade",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-highlights-on-april-13-2026/article70856044.ece",
-      "description": "Pakistan’s Prime Minister Shehbaz Sharif said a ceasefire between the United States and Iran was “holding” and that efforts were under way to reach an agreement",
-      "date": "Tue, 14 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Bessent says not afraid of dollar weakening due to war with Iran",
-      "link": "https://tass.com/economy/2116653",
-      "description": "The US Federal Reserve should \"wait and see\" before deciding whether to lower interest rates amid the conflict around Iran, US Treasury Secretary Scott Bessent noted",
+      "title": "Internet blackout in Iran lasts over 45 days — NetBlocks",
+      "link": "https://tass.com/world/2116805",
+      "description": "Internet connectivity in Iran has been almost completely disrupted for more than 1,080 hours",
       "date": "Tue, 14 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -463,9 +463,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran, US in constant contact through mediators — newspaper",
-      "link": "https://tass.com/world/2116649",
-      "description": "According to The Wall Street Journal, Washington and Tehran are ready to engage in talks on the condition that both sides show flexibility",
+      "title": "IN BRIEF: What we know about situation around US blockade of Hormuz Strait",
+      "link": "https://tass.com/world/2116793",
+      "description": "Baghdad Today reported that Iran had anticipated a US blockade of its ports and therefore moved dozens of oil-laden tankers out to sea in advance",
       "date": "Tue, 14 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -473,9 +473,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Saudi Arabia demands US stops blockade of Strait of Hormuz — newspaper",
-      "link": "https://tass.com/world/2116621",
-      "description": "The report pointed out that the Persian Gulf countries do not want the Strait of Hormuz to end up under Iran’s control",
+      "title": "Chinese MFA suggests that US Vice President make efforts to reconcile with Iran",
+      "link": "https://tass.com/world/2116789",
+      "description": "According to Chinese Foreign Ministry Spokesman Guo Jiakun, all sides engaged in hostilities should fully comply with the ceasefire conditions, \"continue to resolve the conflict through political and diplomatic measures\"",
       "date": "Tue, 14 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -483,9 +483,9 @@
       "bias": "Very High"
     },
     {
-      "title": "New Iran-US talks to be held soon — Pakistani Defense Ministry",
-      "link": "https://tass.com/world/2116619",
-      "description": "According to Pakistani Defense Minister Khawaja Asif, ongoing diplomatic efforts are moving \"in a constructive direction\"",
+      "title": "Russian ambassador to Iran offers condolences over Iranian deaths in US, Israeli strikes",
+      "link": "https://tass.com/politics/2116775",
+      "description": "According to Abbas Masjadi, head of Iran's Forensic Medicine Organization, more than 3,000 Iranian citizens have fallen victim to the strikes carried out by the United States and Israel",
       "date": "Tue, 14 Apr 2026",
       "source": "TASS",
       "region": "ru",
