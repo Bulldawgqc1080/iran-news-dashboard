@@ -1,17 +1,18 @@
 {
-  "updated": "2026-04-14 04:37 UTC",
+  "updated": "2026-04-14 06:25 UTC",
   "total": 12,
   "events": [
     {
       "date": "2026-04-14",
       "dateDisplay": "Apr 14, 2026",
-      "title": "Middle East war live: Israel-Lebanon talks set as Hezbollah urges Beirut to cancel negotiations",
+      "title": "Middle East war live: US-sanctioned tanker passes Strait of Hormuz despite Trump's blockade",
       "link": "https://www.france24.com/en/middle-east/20260414-middle-east-war-live-trump-says-us-military-has-blockaded-iranian-ports-to-pressure-tehran",
       "sources": [
-        "France 24"
+        "France 24",
+        "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-04-13",
@@ -19,9 +20,9 @@
       "title": "Trump vows to sink Iranian ships approaching a U.S. blockade of Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
       "sources": [
-        "BBC",
+        "France 24",
         "NPR News",
-        "France 24"
+        "BBC"
       ],
       "sourceCount": 3,
       "type": "fact"
@@ -62,8 +63,8 @@
     {
       "date": "2026-04-09",
       "dateDisplay": "Apr 09, 2026",
-      "title": "BBC at the site of Israeli air strikes in Beirut",
-      "link": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss",
+      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+      "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
