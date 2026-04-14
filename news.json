@@ -1,7 +1,27 @@
 {
-  "updated": "2026-04-14 08:20 UTC",
-  "total": 46,
+  "updated": "2026-04-14 10:06 UTC",
+  "total": 49,
   "stories": [
+    {
+      "title": "Ukraine hopes for more cooperation after Hungary elects new prime minister",
+      "link": "https://www.npr.org/2026/04/14/nx-s1-5783682/ukraine-hopes-for-more-cooperation-after-hungary-elects-new-prime-minister",
+      "description": "The incoming prime minister of Hungary is no fan of Ukraine, but he says he wants to work with the European Union, raising hopes he'll lift a Hungarian veto on a $100 billion EU loan to Kyiv.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "'Hanging by a thread': Fertilizer shortage in India deepens due to ongoing Iran war",
+      "link": "https://www.npr.org/2026/04/14/nx-s1-5779769/hanging-by-a-thread-fertilizer-shortage-in-india-deepens-due-to-ongoing-iran-war",
+      "description": "With shipments through the Strait of Hormuz stalled after the Iran war began, fertilizer shortages are deepening across India.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "A U.S. military blockade of Iran's ports takes effect. What does that mean?",
       "link": "https://www.npr.org/2026/04/13/nx-s1-5783804/a-u-s-military-blockade-of-irans-ports-takes-effect-what-does-that-mean",
@@ -53,26 +73,6 @@
       "bias": "Low"
     },
     {
-      "title": "Pope Leo brushes off Trump criticism amid growing Vatican–U.S. tensions over Iran war",
-      "link": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-row-with-trump-iran-war",
-      "description": "Pope Leo XIV says he will not be deterred by criticism from President Trump, vowing to continue his calls for peace as tensions escalate between the Vatican and Washington over the Iran conflict.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/04/13/nx-s1-5780733/morning-news-brief",
-      "description": "President Trump says U.S. will blockade the Strait of Hormuz, failed U.S.-Iran negotiations cause oil prices to surge, Hungary's Viktor Orbán loses reelection bid.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
       "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
       "description": "The Lebanese government go into peace talks with limited influence over the group.",
@@ -83,7 +83,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
+      "title": "'They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes",
       "link": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.",
       "date": "Mon, 13 Apr 2026",
@@ -173,6 +173,66 @@
       "bias": "Low-Med"
     },
     {
+      "title": "'Shocking attack': Italian press reacts to Trump's feud with pope",
+      "link": "https://www.france24.com/en/video/20260414-shocking-attack-italian-press-reacts-to-trump-s-feud-with-pope",
+      "description": "US President Donald Trump posted an AI-generated image of himself as a Jesus-like figure on Sunday, drawing widespread criticism even from some religious conservatives who typically support him, before deleting the post on Monday. It came amid his escalating feud with Pope Leo, w...",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Total dehumanisation': French former hostages in Iran give interview",
+      "link": "https://www.france24.com/en/video/20260414-total-dehumanisation-french-former-hostages-in-iran-give-interview",
+      "description": "French former hostages Cecile Kohler and Jacques Paris have given their first television interview since returning to France from Iran. They had been detained in Iran on espionage charges for almost four years. The pair spoke in detail about their ordeal, and how they managed to ...",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "China's exports slow amid surging costs brought on by Iran war",
+      "link": "https://www.france24.com/en/tv-shows/business/20260414-china-s-exports-slow-amid-surging-costs-brought-on-by-iran-war",
+      "description": "China's exports grew only 2.5% in March from a year earlier, a significantly slowdown caused by the war in Iran. The closure of the Strait of Hormuz has pushed up the cost of materials, and many Chinese factories saw their profits squeezed last month. Also in this edition: hundre...",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "What hopes for Lebanon-Israel talks as Hezbollah urges cancellation?",
+      "link": "https://www.france24.com/en/video/20260414-what-hopes-for-lebanon-israel-talks-as-hezbollah-urges-cancellation",
+      "description": "Lebanese and Israeli representatives are set to meet in Washington Tuesday for US-mediated talks on ending the war in Lebanon. However, Lebanese militant group Hezbollah has said will not abide by any agreements that may result from the negotiations and called for them to be canc...",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US naval blockade begins as Trump vows will destroy Iran boats that approach",
+      "link": "https://www.france24.com/en/video/20260414-us-naval-blockade-begins-as-trump-vows-will-destroy-iran-boats-that-approach",
+      "description": "President Donald Trump warned on Monday that any Iranian \"fast-attack\" ships that go near a US maritime \"blockade\" on Iran would be eliminated. The US blockade on vessels entering and departing Iran went into effect at 1400 GMT on Monday.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'No glimmer of hope': Little optimism among Lebanon's displaced as talks with Israel begin",
+      "link": "https://www.france24.com/en/video/20260414-no-glimmer-of-hope-little-optimism-among-lebanon-s-displaced-as-talks-with-israel-begin",
+      "description": "Lebanese and Israeli representatives are set to meet in Washington Tuesday for US-mediated talks on ending the war in Lebanon, although Lebanese militant group Hezbollah has said will not abide by any agreements that may result from the negotiations and called for them to be canc...",
+      "date": "Tue, 14 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Lebanon and Israel to hold rare direct talks in Washington despite Hezbollah opposition",
       "link": "https://www.france24.com/en/middle-east/20260414-lebanon-and-israel-to-hold-rare-direct-talks-in-washington-despite-hezbollah-opposition",
       "description": "Lebanese and Israeli envoys meet in Washington on Tuesday for the first face-to-face talks in decades between representatives of the two countries, mediated by US Secretary of State Marco Rubio. The Lebanese militant group Hezbollah has warned it will not abide by any agreements ...",
@@ -193,54 +253,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump vows US will 'eliminate' any Iranian ships defying blockade",
-      "link": "https://www.france24.com/en/middle-east/20260413-trump-vows-us-will-eliminate-any-iranian-ships-defying-blockade",
-      "description": "US President Donald Trump has warned that any Iranian vessels that breach Monday's newly enforced US naval blockade will be “immediately eliminated,” escalating tensions amid a fragile ceasefire after talks brokered by Pakistan failed to reach a peace agreement on the conflict in...",
-      "date": "Mon, 13 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
+      "link": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
+      "description": "China and Russia have been vocal critics of the US-Israel war on Iran, an ally of both world powers.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump says he won't apologize to Pope Leo after criticism",
-      "link": "https://www.france24.com/en/trump-says-he-won-t-apologize-to-pope-leo-after-criticism",
-      "description": "President Donald Trump refused to apologize to Pope Leo XIV on Monday after criticizing the pontiff for his opposition to the war in Iran — and he sought to explain away a now-deleted social media post depicting himself as Jesus by saying he had thought the image was of him as a ...",
-      "date": "Mon, 13 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Donald Trump 'hasn't read the psychology of Iranians well at all', military expert says",
-      "link": "https://www.france24.com/en/donald-trump-hasn-t-read-the-psychology-of-iranians-well-at-all-military-expert-says",
-      "description": "Speaking with FRANCE 24's Mark Owen, former British Military Intelligence officer Philip Ingram says that \"Donald Trump hasn't read the psychology of the Iranians well at all\" adding that \"the Iranians are not going to give in, and therefore Donald Trump either has to continue th...",
-      "date": "Mon, 13 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Lebanon will need '1 billion dollars just to keep humanitarian situation afloat', minister says",
-      "link": "https://www.france24.com/en/lebanon-will-need-1-billion-dollars-just-to-keep-humanitarian-situation-afloat-minister-says",
-      "description": "FRANCE 24's Mark Owen speaks with the Lebanese Minister for Social Affairs, Hanin Sayyed, about the humanitarian crisis in Lebanon in the wake of the Israeli attacks and ground invasion. She says that if the war continues and displacement in Lebanon continues at the current pace,...",
-      "date": "Mon, 13 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Deadline passes for US blockade of Hormuz, Iran threatens to retaliate against Gulf neighbours",
-      "link": "https://www.france24.com/en/video/20260413-deadline-passes-for-us-blockade-of-hormuz-iran-threatens-to-retaliate-against-gulf-neighbours",
-      "description": "The deadline passed on Monday for the start of a US ​military blockade of ships leaving Iran's ports, and Tehran threatened to retaliate against ports of its Gulf neighbours after weekend talks on ending the war broke down. Oil prices surged, with no sign of a swift reopening of ...",
-      "date": "Mon, 13 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO",
+      "link": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss",
+      "description": "Global agriculture is highly exposed to the blockage of waterways, risking higher commodity prices and food inflation.",
+      "date": "Tue, 14 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war: What is happening on day 46 of the US-Iran conflict?",
@@ -423,6 +453,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Bessent says not afraid of dollar weakening due to war with Iran",
+      "link": "https://tass.com/economy/2116653",
+      "description": "The US Federal Reserve should \"wait and see\" before deciding whether to lower interest rates amid the conflict around Iran, US Treasury Secretary Scott Bessent noted",
+      "date": "Tue, 14 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran, US in constant contact through mediators — newspaper",
+      "link": "https://tass.com/world/2116649",
+      "description": "According to The Wall Street Journal, Washington and Tehran are ready to engage in talks on the condition that both sides show flexibility",
+      "date": "Tue, 14 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Saudi Arabia demands US stops blockade of Strait of Hormuz — newspaper",
       "link": "https://tass.com/world/2116621",
       "description": "The report pointed out that the Persian Gulf countries do not want the Strait of Hormuz to end up under Iran’s control",
@@ -436,26 +486,6 @@
       "title": "New Iran-US talks to be held soon — Pakistani Defense Ministry",
       "link": "https://tass.com/world/2116619",
       "description": "According to Pakistani Defense Minister Khawaja Asif, ongoing diplomatic efforts are moving \"in a constructive direction\"",
-      "date": "Tue, 14 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "China demands Strait of Hormuz be unblocked, US has acted irresponsibly — MFA",
-      "link": "https://tass.com/world/2116613",
-      "description": "Washington is \"undermining the already fragile ceasefire,\" further damaging shipping, Guo Jiakun stressed",
-      "date": "Tue, 14 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Bessent says war with Iran could bring 50 years of stability to US economy",
-      "link": "https://tass.com/world/2116605",
-      "description": "The US treasury secretary still acknowledged that the conflict would make it difficult to achieve 4% growth in the US economy",
       "date": "Tue, 14 Apr 2026",
       "source": "TASS",
       "region": "ru",
