@@ -1,16 +1,27 @@
 {
-  "updated": "2026-04-14 23:34 UTC",
-  "total": 10,
+  "updated": "2026-04-15 01:21 UTC",
+  "total": 11,
   "events": [
+    {
+      "date": "2026-04-15",
+      "dateDisplay": "Apr 15, 2026",
+      "title": "Middle East live: Trump says Iran talks may resume as Israel, Lebanon open direct track",
+      "link": "https://www.france24.com/en/middle-east/20260415-middle-east-live-trump-says-iran-talks-may-resume-as-israel-lebanon-open-direct-track",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-04-14",
       "dateDisplay": "Apr 14, 2026",
       "title": "Israel and Lebanon agree to start peace negotiations after rare talks in D.C.",
       "link": "https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks",
       "sources": [
-        "Al Jazeera",
         "France 24",
-        "NPR News"
+        "NPR News",
+        "Al Jazeera"
       ],
       "sourceCount": 3,
       "type": "fact"

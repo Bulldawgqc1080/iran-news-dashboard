@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-14 23:34 UTC",
-  "total": 49,
+  "updated": "2026-04-15 01:21 UTC",
+  "total": 45,
   "stories": [
     {
       "title": "Veteran diplomat offers insights into the war in Iran — and thoughts on what's next",
@@ -173,6 +173,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: Trump says Iran talks may resume as Israel, Lebanon open direct track",
+      "link": "https://www.france24.com/en/middle-east/20260415-middle-east-live-trump-says-iran-talks-may-resume-as-israel-lebanon-open-direct-track",
+      "description": "President Donald Trump said Tuesday that US-Iran peace talks could resume this week, while Israel and Lebanon agreed to launch direct negotiations, signaling movement on two key fronts in efforts to ease the Middle East conflict. The parallel diplomatic openings came even as viol...",
+      "date": "Wed, 15 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "'War is development in reverse' UNDP chief tells France 24",
       "link": "https://www.france24.com/en/tv-shows/business/20260414-war-is-development-in-reverse-undp-chief-tells-france-24",
       "description": "Amid uncertainty around the war in Iran, the International Monetary Fund downgraded its outlook for the global economy under three different scenarios depending on how long the conflict would last. Meanwhile, the United Nations Development Programme is warning that even if hostil...",
@@ -243,14 +253,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How a Russian ship under sanctions delivered armoured vehicles to Mali",
-      "link": "https://www.france24.com/en/africa/20260414-russian-ship-sanctions-delivered-armoured-vehicles-mali",
-      "description": "Dozens of military vehicles transported from Russia were delivered to Mali through the port of Conakry, Guinea, in late March. The equipment was carried by a Russian cargo ship currently under international sanctions.",
-      "date": "Tue, 14 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war live: Trump hints at talks; US blockade in Hormuz enters 2nd day",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss",
+      "description": "US president says second round of talks could be held in Pakistan as blockade of Iranian ports enters a second day.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
@@ -323,16 +333,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Drones, Iran war escalating horror as Sudan war enters fourth year",
-      "link": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss",
-      "description": "UN says hundreds killed by drone strikes over past three months, as medical charity reports two more deaths in Darfur.",
-      "date": "Tue, 14 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Lebanon, Israel agree to direct negotiations after Washington talks",
       "link": "https://www.dawn.com/news/1991749/lebanon-israel-agree-to-direct-negotiations-after-washington-talks",
       "description": "Israel and Lebanon agreed to direct negotiations following talks in Washington on Tuesday that US Secretary of State Marco Rubio had hailed as a “historic opportunity” for peace. The two countries have technically been at war for decades, and Tuesday’s talks have been vehemently ...",
@@ -393,10 +393,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Israel, Lebanon agree to direct negotiations after 'productive' talks, says U.S.",
+      "title": "Israel-Iran war highlights: Vice President Vance says U.S.-Iran mistrust cannot be solved overnight",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-14-2026-trump-news-today/article70859995.ece",
       "description": "The IMF says that Iran, Iraq, Qatar among hardest-hit economies; Pakistan proposes new U.S.-Iran talks as Vance and Trump hint at progress",
-      "date": "Tue, 14 Apr 2026",
+      "date": "Wed, 15 Apr 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -451,46 +451,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "European countries at work on plan to control Strait of Hormuz without US — WSJ",
-      "link": "https://tass.com/world/2117079",
-      "description": "The plan’s goals reportedly include three main branches of action: restoring logistics routes, conducting demining operations and providing military escort for commercial vessels",
-      "date": "Tue, 14 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli ambassador describes first talks with Lebanon in US as positive",
-      "link": "https://tass.com/world/2117075",
-      "description": "Yehiel Leiter expressed hope for a long-term perspective where the border becomes \"a permanent and respected border\"",
-      "date": "Tue, 14 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Over 20 vessels pass through Strait of Hormuz in past day — media",
-      "link": "https://tass.com/world/2117069",
-      "description": "According to the newspaper, these ships included tankers, dry cargo and container carriers",
-      "date": "Tue, 14 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel, Lebanon agree to launch direct talks — US Department of State",
-      "link": "https://tass.com/world/2117065",
-      "description": "The delegations were led by the countries’ ambassadors to Washington, Nada Hamadeh Moawad of Lebanon and Yechiel Leiter of Israel",
-      "date": "Tue, 14 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
