@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15 20:02 UTC",
+  "updated": "2026-04-15 21:41 UTC",
   "total": 42,
   "stories": [
     {
@@ -41,6 +41,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Israeli triple-tap strike kills three paramedics in Lebanon, officials say",
@@ -133,16 +143,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom",
-      "link": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss",
-      "description": "More than 160 people have been killed since Friday in Lebanon, where Israel is pressing on with its campaign against Hezbollah despite the US-Iran ceasefire.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Israel-Lebanon peace talks: Future negotiations depend on 'confidence-building measures'",
       "link": "https://www.france24.com/en/israel-lebanon-peace-talks-future-negotiations-depend-on-confidence-building-measures",
       "description": "Angela Diffley is pleased to welcome Bilal Y. Saab, Senior Managing Director of TRENDS Research and Advisory. According to Saab, Lebanon is at a crossroads: the government is committed to reform, is fundamentally “pro-Lebanese” and rejects interference from external actors. The c...",
@@ -223,6 +223,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US Senate rejects another war powers resolution to limit Trump on Iran",
+      "link": "https://www.aljazeera.com/news/2026/4/15/us-senate-rejects-another-war-powers-resolution-to-limit-trump-on-iran?traffic_source=rss",
+      "description": "Fourth Senate War Powers vote - first since Trump threatened to destroy Iranian civilisation - fails to gain traction.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Pakistani army chief in Tehran amid bid to restart US talks",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/pakistani-army-chief-in-tehran-amid-bid-to-restart-us-talks?traffic_source=rss",
       "description": "Pakistan’s army chief has arrived in Iran for high-level talks aimed at reviving negotiations between Iran and the US.",
@@ -293,16 +303,6 @@
       "bias": "Medium"
     },
     {
-      "title": "US sending 10,000 more troops to Middle East despite Iran ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/4/15/us-sending-10000-more-troops-to-middle-east-despite-iran-ceasefire?traffic_source=rss",
-      "description": "The US is sending additional troops to the Middle East this month, according to The Washington Post.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "CDF Munir visits Iran alongside delegation as part of mediation efforts, holds meeting with FM Araghchi",
       "link": "https://www.dawn.com/news/1991972/cdf-munir-visits-iran-alongside-delegation-as-part-of-mediation-efforts-holds-meeting-with-fm-araghchi",
       "description": "Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir reached Tehran on Wednesday and held a meeting with Iranian Foreign Minister Abbas Araghchi and other officials, according to a post on the Iranian government’s X account. Inter-Services Public Relations (IS...",
@@ -363,9 +363,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel, U.S. goals 'identical'; prepared for any scenario: Netanyahu",
+      "link": "https://www.thehindu.com/news/international/israel-us-goals-identical-prepared-for-any-scenario-netanyahu/article70866591.ece",
+      "description": "Referring to ongoing operations in Bint Jbeil, a key Hezbollah stronghold in southern Lebanon, Mr. Netanyahu said Israeli forces were close to overcoming the area, which has long been considered a symbol of the group’s resistance since the 2006 war",
+      "date": "Wed, 15 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel-Iran war LIVE: Pakistani delegation, led by Army chief Munir, reaches Iran for peace talks",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-15-2026/article70863575.ece",
       "description": "Pakistan PM Shehbaz Sharif arrived in Saudi Arabia before a possible second round of U.S.-Iran peace talks; U.S. says nine vessels turned back in 48 hours of Iran port blockade",
+      "date": "Wed, 15 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. Senate Republicans block latest bid to rein in Trump Iran war powers",
+      "link": "https://www.thehindu.com/news/international/us-senate-republicans-block-latest-bid-to-rein-in-trump-iran-war-powers/article70866592.ece",
+      "description": "",
+      "date": "Wed, 15 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli support for Iran attack slumps, shows survey",
+      "link": "https://www.thehindu.com/news/international/israeli-support-for-iran-attack-slumps-shows-survey/article70865694.ece",
+      "description": "Data shows that only 57% now hold the view that Netanyahu’s decision to launch the Operation was primarily driven by strategic security-related considerations",
       "date": "Wed, 15 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -386,36 +416,6 @@
       "title": "Hopes rise for renewed talks as U.S. military says Iran blockade is in force",
       "link": "https://www.thehindu.com/news/international/hopes-rise-for-renewed-talks-as-us-military-says-iran-blockade-is-in-force/article70865088.ece",
       "description": "Regional officials said on Wednesday that the United States and Iran gave an “in principle agreement” to extend the two-week ceasefire, which is due to expire on April 22, to allow for more diplomacy.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says he asked Xi not to give Iran weapons",
-      "link": "https://www.thehindu.com/news/international/trump-says-he-asked-xi-not-to-give-iran-weapons/article70864925.ece",
-      "description": "I wrote ​him a letter asking him not to ⁠do that, and he wrote me a letter saying ‌that, essentially, he’s not doing that, says U.S. President Donald Trump",
-      "date": "Wed, 15 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Children killed in Lebanon as Israeli strikes hit homes far from front lines of war with Hezbollah",
-      "link": "https://www.thehindu.com/news/international/children-killed-in-lebanon-as-israeli-strikes-hit-homes-far-from-front-lines-of-war-with-hezbollah/article70864273.ece",
-      "description": "“Israeli military didn't deny that children have been killed in its Lebanon strikes but said it has targeted Hezbollah facilities and militants,” media report",
-      "date": "Wed, 15 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Jaishankar speaks to Israeli counterpart Gideon Sa'ar over ‘different aspects’ of West Asia crisis",
-      "link": "https://www.thehindu.com/news/national/jaishankar-speaks-to-israeli-counterpart-gideon-saar-over-different-aspects-of-west-asia-crisis/article70863682.ece",
-      "description": "The phone conversation between the two foreign ministers came amid reports of efforts by the U.S. and Iran to hold a fresh round of negotiations after the collapse of the initial dialogue in Islamabad",
       "date": "Wed, 15 Apr 2026",
       "source": "The Hindu",
       "region": "me",
