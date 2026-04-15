@@ -1,7 +1,27 @@
 {
-  "updated": "2026-04-15 10:07 UTC",
+  "updated": "2026-04-15 11:46 UTC",
   "total": 46,
   "stories": [
+    {
+      "title": "Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations",
+      "link": "https://www.npr.org/2026/04/15/g-s1-117501/up-first-newsletter-israel-iran-lebanon-us-strait-eric-swalwell-virginia-face-act",
+      "description": "President Trump says new talks with Iran could happen in the next two days. And, Democrat Eric Swalwell faces new allegations as a second woman comes forward accusing him of rape.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Trump says peace talks could resume in days as U.S. military blocks Iranian ports",
+      "link": "https://www.npr.org/2026/04/15/nx-s1-5786034/iran-middle-east-updates",
+      "description": "President Trump said a second round of direct U.S.-Iran peace talks could resume in Pakistan within the next two days, even as he instituted a naval blockade of all Iranian ports.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "As fuel prices continue to rise, Iran war drives Europe toward new crisis",
       "link": "https://www.npr.org/2026/04/15/nx-s1-5784802/as-fuel-prices-continue-to-rise-iran-war-drives-europe-toward-new-crisis",
@@ -26,26 +46,6 @@
       "title": "Israel is building a buffer zone inside Lebanon",
       "link": "https://www.npr.org/2026/04/14/nx-s1-5783915/israel-plans-to-create-buffer-zones-in-lebanon-and-gaza-to-protect-its-territory",
       "description": "Israel is creating a large buffer zone in southern Lebanon for a prolonged military occupation, with low expectations that direct talks with Lebanon will lead to quick action on disarming Hezbollah.",
-      "date": "Tue, 14 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Veteran diplomat offers insights into the war in Iran — and thoughts on what's next",
-      "link": "https://www.npr.org/2026/04/14/nx-s1-5784072/veteran-diplomat-offers-insights-into-the-war-in-iran-and-thoughts-on-whats-next",
-      "description": "The war entered a new phase when President Trump began a U.S. naval blockade of the Strait of Hormuz. Aaron David Miller of the Carnegie Endowment for International Peace explains what this means.",
-      "date": "Tue, 14 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Fuel protests have Ireland's government facing possible no-confidence vote",
-      "link": "https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote",
-      "description": "The prime minister announced new tax cuts to try to end the crisis that began after the U.S.-Israel war on Iran led to the closure of the Strait of Hormuz. The government could face a no-confidence vote over its response to the fuel protests.",
       "date": "Tue, 14 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -153,9 +153,19 @@
       "bias": "Low-Med"
     },
     {
+      "title": "No, south Lebanon towns haven’t disappeared from Apple Maps",
+      "link": "https://www.france24.com/en/middle-east/20260415-south-lebanon-towns-disappeared-apple-maps-debunked",
+      "description": "Social media users are claiming that Apple has intentionally removed towns in southern Lebanon from its Maps app, sparking allegations of a link to the ongoing Israel-Lebanon conflict. Apple has denied the claims, stating the locations were never indexed to begin with and citing ...",
+      "date": "Wed, 15 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "War and Peace: Israel brings Lebanon to negotiating table as airstrikes rain down on Beirut",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260415-war-and-peace-israel-brings-lebanon-to-negotiating-table-as-airstrikes-rain-down-on-beirut",
-      "description": "François Picard welcomes Farès Boueiz, former Lebanese Minister of Foreign Affairs. The Israeli-Lebanese talks in the US cannot be defined as a \"breakthrough\", explains the former Lebanese minister. He sees this as a technical prelude to meaningful negotiations. What we are witne...",
+      "description": "François Picard welcomes Farès Boueiz, former Lebanese Minister of Foreign Affairs. The ongoing Israeli-Lebanese talks cannot be described as a “breakthrough,” Boueiz argues, but rather as a technical prelude to meaningful negotiations. What we are witnessing, he suggests, is the...",
       "date": "Wed, 15 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -206,16 +216,6 @@
       "title": "Ambassadors meet for historic talks in US amid deeply fraught Lebanon-Israel tensions",
       "link": "https://www.france24.com/en/video/20260415-ambassadors-meet-for-historic-talks-in-us-amid-deeply-fraught-lebanon-israel-tensions-1",
       "description": "Eve Irvine is pleased to welcome Simon Mabon, Professor of International Politics and Director of the Richardson Institute for Peace Studies at Lancaster University. He sees the current conflict between Lebanon and Israel as one defined more by layered, overlapping sovereignties....",
-      "date": "Wed, 15 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East live: Israeli army targets vehicles south of Beirut, Hezbollah responds with rockets",
-      "link": "https://www.france24.com/en/middle-east/20260415-middle-east-live-trump-says-iran-talks-may-resume-as-israel-lebanon-open-direct-track",
-      "description": "Israel’s army on Wednesday struck two vehicles south of Beirut, while the Hezbollah militant group responded by sending a barrage of rockets towards Israel. The attacks come just hours after Lebanon and Israel met in Washington, where they agreed to hold direct talks. Follow our ...",
       "date": "Wed, 15 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -323,16 +323,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US hosts ‘rare’ direct talks between Lebanon and Israel",
-      "link": "https://www.dawn.com/news/1991819/us-hosts-rare-direct-talks-between-lebanon-and-israel",
-      "description": "• European nations, Rubio urge both sides to ‘seize the opportunity’ to end conflict• Joint statement says direct negotiations can pave way for lasting security• Lebanese president hopes meeting will ‘mark the beginning of ending the suffering’ as Beirut seeks ceasefire WASHINGTO...",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "King Charles to address Congress on US trip marking ‘shared history’: palace",
       "link": "https://www.dawn.com/news/1991924/king-charles-to-address-congress-on-us-trip-marking-shared-history-palace",
       "description": "King Charles III will give a landmark address to the US Congress on his first state visit this month, marking “shared history” and deep ties, Buckingham Palace said Tuesday. Making his first state visit to the US as monarch from April 27, Charles will address lawmakers from both ...",
@@ -363,9 +353,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Trump not considering extending ceasefire with Iran, says 'deal is preferable'",
+      "title": "US hosts ‘rare’ direct talks between Lebanon and Israel",
+      "link": "https://www.dawn.com/news/1991819/us-hosts-rare-direct-talks-between-lebanon-and-israel",
+      "description": "• European nations, Rubio urge both sides to ‘seize the opportunity’ to end conflict• Joint statement says direct negotiations can pave way for lasting security• Lebanese president hopes meeting will ‘mark the beginning of ending the suffering’ as Beirut seeks ceasefire WASHINGTO...",
+      "date": "Wed, 15 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says he asked Xi not to give Iran weapons",
+      "link": "https://www.thehindu.com/news/international/trump-says-he-asked-xi-not-to-give-iran-weapons/article70864925.ece",
+      "description": "I wrote ​him a letter asking him not to ⁠do that, and he wrote me a letter saying ‌that, essentially, he’s not doing that, says U.S. President Donald Trump",
+      "date": "Wed, 15 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war LIVE: Russian Foreign Minister Sergei Lavrov meets Chinese President Xi Jinping in Beijing",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-15-2026/article70863575.ece",
-      "description": "Trump expressed confidence about imminent developments, saying, \"I think you're going to be watching an amazing two days ahead. I really do.\"",
+      "description": "The Russian diplomat told a news conference after meeting Xi Jinping that Moscow could \"compensate\" for China's energy shortages as shipping through the Strait of Hormuz remains choked by the Iran war",
       "date": "Wed, 15 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -413,19 +423,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Sanctioned tanker turns back to Strait of Hormuz, day after Gulf exit",
-      "link": "https://www.thehindu.com/news/international/sanctioned-tanker-turns-back-to-strait-of-hormuz-day-after-gulf-exit/article70863808.ece",
-      "description": "U.S. President Donald Trump announced the blockade on Sunday (April 12, 2026) after weekend ‌peace talks in Islamabad between the U.S. and Iran failed to reach a deal",
-      "date": "Wed, 15 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iranian tanker crosses Strait of Hormuz amid US naval blockade — agency",
-      "link": "https://tass.com/economy/2117285",
-      "description": "According to the report, the tanker \"reached its destination without the slightest hitch\"",
+      "title": "Iran not to allow trade through Persian Gulf if naval blockade remains in place",
+      "link": "https://tass.com/world/2117371",
+      "description": "\"Iran will act decisively to defend its sovereignty and its national interests,\" Ali Abdollahi added",
       "date": "Wed, 15 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -433,9 +433,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Press review: Iran-US talks near round two as Middle East crisis lifts Russian oil prices",
-      "link": "https://tass.com/pressreview/2117193",
-      "description": "Top stories from the Russian press on Wednesday, April 15th",
+      "title": "Israeli military reports striking 200 Hezbollah targets in Lebanon over past day",
+      "link": "https://tass.com/world/2117349",
+      "description": "Among other targets, the IDF struck 20 missile launchers",
       "date": "Wed, 15 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -443,9 +443,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Blockade of Strait of Hormuz could lead to new losses among American military — CNN",
-      "link": "https://tass.com/world/2117261",
-      "description": "According to an analytical report, Iran has already vowed to attack US ships with small speed boats and inexpensive drones",
+      "title": "Houthis, Iraqi Shiite groups may become involved in conflict over Hormuz blockade — TV",
+      "link": "https://tass.com/world/2117351",
+      "description": "The TV channel notes that the blockade of the Strait could only escalate the conflict",
       "date": "Wed, 15 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -453,9 +453,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran calls for dialogue, rejects attempts to impose surrender terms — president",
-      "link": "https://tass.com/world/2117247",
-      "description": "Masoud Pezeshkian stressed that Iran does not seek war or instability",
+      "title": "Dozens of countries face inflation growth by 1.5% due to war in Iran — EBRD",
+      "link": "https://tass.com/economy/2117353",
+      "description": "The EBRD estimates that oil prices will settle at $100 per barrel \"for a long period of time\"",
       "date": "Wed, 15 Apr 2026",
       "source": "TASS",
       "region": "ru",
