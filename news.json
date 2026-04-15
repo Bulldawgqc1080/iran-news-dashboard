@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-15 18:59 UTC",
-  "total": 41,
+  "updated": "2026-04-15 20:02 UTC",
+  "total": 42,
   "stories": [
     {
       "title": "Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations",
@@ -43,9 +43,9 @@
       "bias": "Low"
     },
     {
-      "title": "Three paramedics killed in successive Israeli strikes in Lebanon, officials say",
+      "title": "Israeli triple-tap strike kills three paramedics in Lebanon, officials say",
       "link": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
-      "description": "Lebanon's governments condemns as a \"flagrant crime\" the killing of the paramedics, one of whom featured in a BBC report.",
+      "description": "Lebanon's government condemns as a \"flagrant crime\" the killing of the paramedics, one of whom featured in a BBC report.",
       "date": "Wed, 15 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -143,6 +143,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel-Lebanon peace talks: Future negotiations depend on 'confidence-building measures'",
+      "link": "https://www.france24.com/en/israel-lebanon-peace-talks-future-negotiations-depend-on-confidence-building-measures",
+      "description": "Angela Diffley is pleased to welcome Bilal Y. Saab, Senior Managing Director of TRENDS Research and Advisory. According to Saab, Lebanon is at a crossroads: the government is committed to reform, is fundamentally “pro-Lebanese” and rejects interference from external actors. The c...",
+      "date": "Wed, 15 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Will the Gulf ever be the same? Trump, Iran and the Arabian Peninsula",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260415-will-the-gulf-ever-be-the-same-trump-iran-and-the-arabian-peninsula",
+      "description": "Iran proving that missiles don't need to travel thousands of kilometres. Across the Gulf is all it takes to force the world’s mightiest army to the bargaining table. Pressure on the choke point for one-fifth of the planet’s oil and gas exposing the vulnerability of Arabian penins...",
+      "date": "Wed, 15 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US blockade of the Strait of Hormuz: What do the numbers show?",
+      "link": "https://www.france24.com/en/middle-east/20260415-us-blockade-of-the-strait-of-hormuz-what-do-the-numbers-show",
+      "description": "Between Tehran and Washington's blockades of the Strait of Hormuz, the number of ships passing through the critical waterway has slowed to a trickle. Here's what marine tracking data tells us about the situation.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US blockade of Iranian ports 'fully implemented'",
       "link": "https://www.france24.com/en/video/20260415-us-blockade-of-iranian-ports-fully-implemented",
       "description": "The US military said Tuesday that it successfully stopped six ships from sailing out of Iranian ports during the first 24 hours of a naval blockade against the Islamic republic. Central Command (CENTCOM) – which is responsible for American forces in the Middle East – said more th...",
@@ -193,24 +223,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel & Hezbollah trade fire a day after historic talks in Washington",
-      "link": "https://www.france24.com/en/video/20260415-israel-hezbollah-trade-fire-a-day-after-historic-talks-in-washington",
-      "description": "Israeli strikes rocked southern Lebanon overnight and into Wednesday, a day after a first round of historic talks between Lebanese and Israeli officials in Washington. Smoke rose over the coastal city of Tyre, underscoring the fragility of diplomatic efforts. Though Israeli strik...",
+      "title": "Pakistani army chief in Tehran amid bid to restart US talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/pakistani-army-chief-in-tehran-amid-bid-to-restart-us-talks?traffic_source=rss",
+      "description": "Pakistan’s army chief has arrived in Iran for high-level talks aimed at reviving negotiations between Iran and the US.",
       "date": "Wed, 15 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Mediators move to extend US-Iran ceasefire, Trump says talks could resume soon",
-      "link": "https://www.france24.com/en/video/20260415-mediators-move-to-extend-us-iran-ceasefire-trump-says-talks-could-resume-soon",
-      "description": "President Donald Trump said talks with Iran to end the war could soon resume and end in a deal, telling the world to watch out for an \"amazing two days\", while US forces imposing a blockade turned back vessels leaving Iranian ports. With the prospect of US and Iranian officials r...",
+      "title": "Pakistan army chief in Tehran to advance next round of US-Iran talks",
+      "link": "https://www.aljazeera.com/news/2026/4/15/pakistan-army-chief-in-tehran-to-advance-next-round-of-us-iran-talks?traffic_source=rss",
+      "description": "Sources tell Al Jazeera that Pakistani mediators are hopeful about a breakthrough on Iran&#039;s nuclear programme.",
       "date": "Wed, 15 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Pope Leo visits Cameroon with message of peace amid attacks from Trump",
+      "link": "https://www.aljazeera.com/news/2026/4/15/pope-leo-visits-cameroon-with-message-of-peace-amid-attacks-from-trump?traffic_source=rss",
+      "description": "US President Donald Trump has lashed out at pope over calls for peace and criticism of US war on Iran.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "UN experts urge member states to suspend Israel arms transfers",
@@ -263,39 +303,9 @@
       "bias": "Medium"
     },
     {
-      "title": "US-Iran talks: What’s the latest on mediation efforts?",
-      "link": "https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts?traffic_source=rss",
-      "description": "Tehran rejects US conditions on nuclear arms; sanctions relief and strait control fuel diplomatic deadlock in Islamabad.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What people in Lebanon are saying about talks with Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-people-in-lebanon-are-saying-about-talks-with-israel?traffic_source=rss",
-      "description": "This is how people in Lebanon are reacting to the country’s first direct talks with Israel in decades.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What are Iran’s $100bn in frozen assets and where are they held?",
-      "link": "https://www.aljazeera.com/news/2026/4/15/what-are-irans-100bn-in-frozen-assets-and-where-are-they-held?traffic_source=rss",
-      "description": "Iran wants the US to release its frozen assets as part of talks. The money could help it rebuild its battered economy.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "CDF Munir arrives in Iran alongside delegation for ‘ongoing mediation efforts’: ISPR",
-      "link": "https://www.dawn.com/news/1991972/cdf-munir-arrives-in-iran-alongside-delegation-for-ongoing-mediation-efforts-ispr",
-      "description": "The Inter-Services Public Relations (ISPR) said on Wednesday that Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir had arrived in Tehran as part of the “ongoing mediation efforts”. In a statement, ISPR said that CDF Munir had arrived in the Iranian capital...",
+      "title": "CDF Munir visits Iran alongside delegation as part of mediation efforts, holds meeting with FM Araghchi",
+      "link": "https://www.dawn.com/news/1991972/cdf-munir-visits-iran-alongside-delegation-as-part-of-mediation-efforts-holds-meeting-with-fm-araghchi",
+      "description": "Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir reached Tehran on Wednesday and held a meeting with Iranian Foreign Minister Abbas Araghchi and other officials, according to a post on the Iranian government’s X account. Inter-Services Public Relations (IS...",
       "date": "Wed, 15 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -355,7 +365,7 @@
     {
       "title": "Israel-Iran war LIVE: Pakistani delegation, led by Army chief Munir, reaches Iran for peace talks",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-15-2026/article70863575.ece",
-      "description": "Exchanges with U.S. via Pakistan had continued following failed negotiations over the weekend, says Iran; Pakistan delegation expected to pass on U.S. messages; Chinese President denies sending weapons to Iran, says Trump",
+      "description": "Pakistan PM Shehbaz Sharif arrived in Saudi Arabia before a possible second round of U.S.-Iran peace talks; U.S. says nine vessels turned back in 48 hours of Iran port blockade",
       "date": "Wed, 15 Apr 2026",
       "source": "The Hindu",
       "region": "me",
