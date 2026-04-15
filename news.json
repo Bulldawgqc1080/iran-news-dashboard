@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-15 12:58 UTC",
-  "total": 46,
+  "updated": "2026-04-15 14:28 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations",
@@ -53,9 +53,9 @@
       "bias": "Low"
     },
     {
-      "title": "Trump hints Iran talks could resume this week as US port blockade continues",
-      "link": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
-      "description": "The United Nations' secretary general said it was \"highly probable\" that the negotiations would restart.",
+      "title": "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US",
+      "link": "https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss",
+      "description": "Israel strikes hit southern Lebanon and Hezbollah fires rockets at Israel, a day after rare direct negotiations.",
       "date": "Wed, 15 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -63,10 +63,20 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel and Lebanon hold first direct talks since 1993",
-      "link": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
-      "description": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined.",
-      "date": "Tue, 14 Apr 2026",
+      "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
+      "link": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
+      "description": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those sent home.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump hints Iran talks could resume this week as US port blockade continues",
+      "link": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
+      "description": "The United Nations' secretary general said it was \"highly probable\" that the negotiations would restart.",
+      "date": "Wed, 15 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -93,9 +103,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US blockade of Iran ports irresponsible and dangerous, China says",
-      "link": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
-      "description": "China, the biggest buyer of Iranian oil, says the US naval blockade undermines an \"already fragile ceasefire\".",
+      "title": "Israel and Lebanon hold first direct talks since 1993",
+      "link": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
+      "description": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined.",
       "date": "Tue, 14 Apr 2026",
       "source": "BBC",
       "region": "eu",
@@ -103,10 +113,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
-      "link": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
-      "description": "The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll.",
-      "date": "Mon, 13 Apr 2026",
+      "title": "US blockade of Iran ports irresponsible and dangerous, China says",
+      "link": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
+      "description": "China, the biggest buyer of Iranian oil, says the US naval blockade undermines an \"already fragile ceasefire\".",
+      "date": "Tue, 14 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -143,11 +153,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Concerns after satellite provider restricts Iran images following US pressure",
-      "link": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
-      "description": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
-      "date": "Sat, 11 Apr 2026",
-      "source": "BBC",
+      "title": "168 children killed by Israel's strikes in Lebanon",
+      "link": "https://www.france24.com/en/video/20260415-168-children-killed-by-israel-s-strikes-in-lebanon",
+      "description": "Jawad Younes, 11, and his cousins were playing soccer in the lot between their houses, as they often did. Minutes later, an Israeli strike came. Jawad and his cousin are among 168 children killed — of more than 2,100 people in all — by Israel's strikes in the six weeks of renewed...",
+      "date": "Wed, 15 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Lebanon talks: US Rubio hails 'historic opportunity' even amid challenges",
+      "link": "https://www.france24.com/en/video/20260415-israel-lebanon-talks-us-rubio-hails-historic-opportunity-even-amid-challenges",
+      "description": "Lebanon and Israel held their first direct diplomatic talks in decades on Tuesday in Washington following more than a month of war between Israel and the Iran-backed Hezbollah militant group, with US Secretary of State Marco Rubio calling it a “historic opportunity” but making cl...",
+      "date": "Wed, 15 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -193,37 +213,47 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanese 'cautiously optimistic' as talks with Israel unfold in Washington",
-      "link": "https://www.france24.com/en/video/20260415-lebanese-cautiously-optimistic-as-talks-with-israel-unfold-in-washington",
-      "description": "Israel and Lebanon agreed to direct negotiations following talks in Washington on Tuesday that US Secretary of State Marco Rubio had hailed as a \"historic opportunity\" for peace. Lebanon's ambassador to the United States Nada Hamadeh Moawad called for a ceasefire. FRANCE 24's Cyr...",
+      "title": "US-Iran talks: What’s the latest on mediation efforts?",
+      "link": "https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts?traffic_source=rss",
+      "description": "Tehran rejects US conditions on nuclear arms; sanctions relief and strait control fuel diplomatic deadlock in Islamabad.",
       "date": "Wed, 15 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "France and UK to co-host Hormuz shipping security talks",
-      "link": "https://www.france24.com/en/video/20260415-france-and-uk-to-co-host-hormuz-shipping-security-talks",
-      "description": "France and Britain will co-host a video-conference Friday of countries ready to contribute to a \"purely defensive mission\" to secure the Strait of Hormuz, the French president's office said Tuesday. President Emmanuel Macron and British Prime Minister Keir Starmer are to co-chair...",
+      "title": "What people in Lebanon are saying about talks with Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-people-in-lebanon-are-saying-about-talks-with-israel?traffic_source=rss",
+      "description": "This is how people in Lebanon are reacting to the country’s first direct talks with Israel in decades.",
       "date": "Wed, 15 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Israeli army issues new evacuation call to south Lebanon residents",
-      "link": "https://www.france24.com/en/video/20260415-israeli-army-issues-new-evacuation-call-to-south-lebanon-residents",
-      "description": "Israel's military on Wednesday issued a fresh evacuation order for residents of south Lebanon as it pressed on with an offensive against Hezbollah militants. It is the first evacuation order by the military since direct talks were held on Tuesday in Washington between Lebanon and...",
+      "title": "What are Iran’s $100bn in frozen assets and where are they held?",
+      "link": "https://www.aljazeera.com/news/2026/4/15/what-are-irans-100bn-in-frozen-assets-and-where-are-they-held?traffic_source=rss",
+      "description": "Iran wants the US to release its frozen assets as part of talks. The money could help it rebuild its battered economy.",
       "date": "Wed, 15 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Saudi Arabia-hosted Asian Cup draw rescheduled due to US-Israel war on Iran",
+      "title": "As world focuses on Iran, Israel ‘engineering starvation policy’ in Gaza",
+      "link": "https://www.aljazeera.com/economy/2026/4/15/as-world-focuses-on-iran-israel-engineering-starvation-policy-in-gaza?traffic_source=rss",
+      "description": "The weaponisation of logistics has caused severe shortage of fuel, food and medicines piling misery on Palestinians.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Asian Cup 2027 draw in Saudi Arabia moved to May 9 over Iran war",
       "link": "https://www.aljazeera.com/sports/2026/4/15/saudi-arabia-hosted-asian-cup-draw-rescheduled-due-to-us-israel-war-on-iran?traffic_source=rss",
       "description": "Draw for the 24-team 2027 AFC Asian Cup, originally set for Saturday, moved to May 9.",
       "date": "Wed, 15 Apr 2026",
@@ -263,49 +293,19 @@
       "bias": "Medium"
     },
     {
-      "title": "‘Food is unifying’: How Lebanon’s migrants are feeding the war-displaced",
-      "link": "https://www.aljazeera.com/features/2026/4/15/food-is-unifying-how-lebanons-migrants-are-feeding-the-war-displaced?traffic_source=rss",
-      "description": "Often overlooked in Lebanon&#039;s society, the migrant community is filling the gaps of the state by feeding their own.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What is happening on day 47 of the US-Iran conflict?",
-      "link": "https://www.aljazeera.com/news/2026/4/15/iran-war-what-is-happening-on-day-47-of-the-us-iran-conflict?traffic_source=rss",
-      "description": "US President Donald Trump has signalled a possible second round of talks with Iran in the coming days.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss",
-      "description": "The US president says he is &#039;shocked at her&#039;, delivering a blunt public rebuke to one of his closest European allies.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "China’s Xi meets Russian FM Lavrov, calls relations with Moscow ‘precious’",
-      "link": "https://www.aljazeera.com/news/2026/4/15/chinas-xi-meets-russian-fm-lavrov-calls-relations-with-moscow-precious?traffic_source=rss",
-      "description": "Russian Foreign Minister Sergey Lavrov met with top Chinese leadership to discuss the Iran war and other concerns.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Iran says exchanges with US via Pakistan continue after talks in Islamabad",
       "link": "https://www.dawn.com/news/1991972/iran-says-exchanges-with-us-via-pakistan-continue-after-talks-in-islamabad",
       "description": "Iran said on Wednesday that exchanges with the United States via Pakistan had continued following negotiations in Islamabad over the weekend that yielded no result. “Since Sunday, when the Iranian delegation returned to Tehran, several messages have been exchanged through Pakista...",
+      "date": "Wed, 15 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Foreign media group slams Israel’s military over AI image of journalist killed in Lebanon strike",
+      "link": "https://www.dawn.com/news/1991983/foreign-media-group-slams-israels-military-over-ai-image-of-journalist-killed-in-lebanon-strike",
+      "description": "An international media association on Wednesday accused the Israeli military of discrediting a Lebanese journalist it killed last month by circulating an AI-generated image of him in Hezbollah fatigues. Three Lebanese journalists, including Ali Shoeib — a prominent correspondent ...",
       "date": "Wed, 15 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -343,9 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "China, Spain call for closer ties amid ‘crumbling’ world order",
-      "link": "https://www.dawn.com/news/1991797/china-spain-call-for-closer-ties-amid-crumbling-world-order",
-      "description": "BEIJING: Europe and China must forge closer ties to counter threats to multilateralism, Spanish Premier Pedro Sanchez said on Tuesday after meeting Chinese President Xi Jinping, who said the international order is “crumbling”. Sanchez’s April 11 to 15 visit to China comes as many...",
+      "title": "Why the US-Iran ceasefire should be converted into a legally binding framework",
+      "link": "https://www.dawn.com/news/1991996/why-the-us-iran-ceasefire-should-be-converted-into-a-legally-binding-framework",
+      "description": "https://www.dawn.com/news/1991837/limits-of-ceasefire",
       "date": "Wed, 15 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -353,11 +353,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pope walks in Augustine’s footsteps on Algeria trip",
-      "link": "https://www.dawn.com/news/1991786/pope-walks-in-augustines-footsteps-on-algeria-trip",
-      "description": "ANNABA: Pope Leo XIV arrived on Tuesday in the Algerian city of Annaba, the birthplace of Christian theologian Saint Augustine, on day two of a historic trip marred by two suicide attacks. While the authorities have yet to comment, an informed source on Tuesday confirmed the bomb...",
+      "title": "Israel-Iran war LIVE: Chinese President denies sending weapons to Iran, says Trump",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-15-2026/article70863575.ece",
+      "description": "Exchanges with U.S. via Pakistan had continued following failed negotiations over the weekend, says Iran; Pakistan delegation expected to pass on U.S. messages",
       "date": "Wed, 15 Apr 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -376,16 +376,6 @@
       "title": "Trump says he asked Xi not to give Iran weapons",
       "link": "https://www.thehindu.com/news/international/trump-says-he-asked-xi-not-to-give-iran-weapons/article70864925.ece",
       "description": "I wrote ​him a letter asking him not to ⁠do that, and he wrote me a letter saying ‌that, essentially, he’s not doing that, says U.S. President Donald Trump",
-      "date": "Wed, 15 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war LIVE: Foreign Ministers of Russia, Spain, UAE, and Vietnam meet China's Xi to discuss West Asia conflict",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-15-2026/article70863575.ece",
-      "description": "The Russian diplomat told a news conference after meeting Xi Jinping that Moscow could \"compensate\" for China's energy shortages as shipping through the Strait of Hormuz remains choked by the Iran war",
       "date": "Wed, 15 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -421,46 +411,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Communications between Iran and US through mediator continue — Iranian Foreign Ministry",
-      "link": "https://tass.com/world/2117401",
-      "description": "Esmail Baghaei also noted that the upcoming arrival of the Pakistani representative in Tehran signals a continuation of the discussions initiated in Islamabad",
-      "date": "Wed, 15 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "More than half of Americans believe war against Iran unjustified — poll",
-      "link": "https://tass.com/society/2117399",
-      "description": "According to sociologists, only 24% of Americans believe that the operation has been worthwhile",
-      "date": "Wed, 15 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran not to allow trade through Persian Gulf if naval blockade remains in place",
-      "link": "https://tass.com/world/2117371",
-      "description": "\"Iran will act decisively to defend its sovereignty and its national interests,\" Ali Abdollahi added",
-      "date": "Wed, 15 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli military reports striking 200 Hezbollah targets in Lebanon over past day",
-      "link": "https://tass.com/world/2117349",
-      "description": "Among other targets, the IDF struck 20 missile launchers",
-      "date": "Wed, 15 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
