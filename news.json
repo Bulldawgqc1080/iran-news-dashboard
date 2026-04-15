@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-15 14:28 UTC",
-  "total": 41,
+  "updated": "2026-04-15 15:58 UTC",
+  "total": 44,
   "stories": [
     {
       "title": "Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations",
@@ -13,7 +13,7 @@
       "bias": "Low"
     },
     {
-      "title": "Trump says peace talks could resume in days as U.S. military blocks Iranian ports",
+      "title": "Trump says Iran talks could resume in days as U.S. military blocks Iranian ports",
       "link": "https://www.npr.org/2026/04/15/nx-s1-5786034/iran-middle-east-updates",
       "description": "President Trump said a second round of direct U.S.-Iran peace talks could resume in Pakistan within the next two days, even as he instituted a naval blockade of all Iranian ports.",
       "date": "Wed, 15 Apr 2026",
@@ -37,16 +37,6 @@
       "link": "https://www.npr.org/2026/04/15/nx-s1-5785040/imf-predicts-iran-war-will-slow-economic-growth-and-raise-inflation-globally",
       "description": "The International Monetary Fund expects the Iran war to slow the global economy and raise inflation. NPR's Michel Martin discusses the forecast with Simon Johnson, a former IMF chief economist.",
       "date": "Wed, 15 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Israel is building a buffer zone inside Lebanon",
-      "link": "https://www.npr.org/2026/04/14/nx-s1-5783915/israel-plans-to-create-buffer-zones-in-lebanon-and-gaza-to-protect-its-territory",
-      "description": "Israel is creating a large buffer zone in southern Lebanon for a prolonged military occupation, with low expectations that direct talks with Lebanon will lead to quick action on disarming Hezbollah.",
-      "date": "Tue, 14 Apr 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -153,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "'If we don't divide the land we're heading to apartheid': Ex-head of Israel's Shin Bet",
+      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260415-if-we-don-t-divide-the-land-we-re-heading-to-apartheid-ex-head-of-israel-s-shin-bet",
+      "description": "In an interview with FRANCE 24, Ami Ayalon, former head of Israel's domestic intelligence agency Shin Bet, warned that Israel is \"heading to apartheid\" unless it divides the land with the Palestinians. He argued that \"there is a limit to what we can achieve by the use of military...",
+      "date": "Wed, 15 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "168 children killed by Israel's strikes in Lebanon",
       "link": "https://www.france24.com/en/video/20260415-168-children-killed-by-israel-s-strikes-in-lebanon",
       "description": "Jawad Younes, 11, and his cousins were playing soccer in the lot between their houses, as they often did. Minutes later, an Israeli strike came. Jawad and his cousin are among 168 children killed — of more than 2,100 people in all — by Israel's strikes in the six weeks of renewed...",
@@ -203,14 +203,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "War and Peace: Israel brings Lebanon to negotiating table as airstrikes rain down on Beirut",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260415-war-and-peace-israel-brings-lebanon-to-negotiating-table-as-airstrikes-rain-down-on-beirut",
-      "description": "François Picard welcomes Farès Boueiz, former Lebanese Minister of Foreign Affairs. The ongoing Israeli-Lebanese talks cannot be described as a “breakthrough,” Boueiz argues, but rather as a technical prelude to meaningful negotiations. What we are witnessing, he suggests, is the...",
+      "title": "Iran warns US naval blockade threatens ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire?traffic_source=rss",
+      "description": "Iran says it will halt all trade in the Gulf if the US continues blocking its vessels.",
       "date": "Wed, 15 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US sending 10,000 more troops to Middle East despite Iran ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/4/15/us-sending-10000-more-troops-to-middle-east-despite-iran-ceasefire?traffic_source=rss",
+      "description": "The US is sending additional troops to the Middle East this month, according to The Washington Post.",
+      "date": "Wed, 15 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US-Iran talks: What’s the latest on mediation efforts?",
@@ -273,29 +283,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass",
-      "link": "https://www.aljazeera.com/news/2026/4/15/double-standards-why-irans-nukes-are-scrutinised-israel-gets-a-pass?traffic_source=rss",
-      "description": "Israel’s policy of ambiguity about its nuclear capability contrasts sharply with the focus on Iran’s programme.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran citizen held in France over pro-Palestine comments returns home",
-      "link": "https://www.aljazeera.com/news/2026/4/15/iran-citizen-held-in-france-over-pro-palestine-comments-returns-state-tv?traffic_source=rss",
-      "description": "Release of Mahdieh Esfandiari comes a week after Iran released two French citizens held on espionage charges.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says exchanges with US via Pakistan continue after talks in Islamabad",
-      "link": "https://www.dawn.com/news/1991972/iran-says-exchanges-with-us-via-pakistan-continue-after-talks-in-islamabad",
-      "description": "Iran said on Wednesday that exchanges with the United States via Pakistan had continued following negotiations in Islamabad over the weekend that yielded no result. “Since Sunday, when the Iranian delegation returned to Tehran, several messages have been exchanged through Pakista...",
+      "title": "CDF Munir arrives in Iran alongside delegation for ‘ongoing mediation efforts’: ISPR",
+      "link": "https://www.dawn.com/news/1991972/cdf-munir-arrives-in-iran-alongside-delegation-for-ongoing-mediation-efforts-ispr",
+      "description": "The Inter-Services Public Relations (ISPR) said on Wednesday that Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir had arrived in Tehran as part of the “ongoing mediation efforts”. In a statement, ISPR said that CDF Munir had arrived in the Iranian capital...",
       "date": "Wed, 15 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -411,6 +401,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Switzerland confirms readiness to host US-Iran talks",
+      "link": "https://tass.com/world/2117619",
+      "description": "Swiss Foreign Ministry Spokeswoman Melanie Gugelmann stressed that the country’s foreign ministry maintains contact with all parties involved",
+      "date": "Wed, 15 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Repair of damaged energy facilities in Persian Gulf area to cost $58 bln — Rystad",
+      "link": "https://tass.com/economy/2117553",
+      "description": "The scope of damage has increased significantly since the time when the initial estimate of $25 billion was released three weeks ago, Rystad Energy stressed",
+      "date": "Wed, 15 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump laments Strait of Hormuz cannot be named after him",
+      "link": "https://tass.com/world/2117547",
+      "description": "The US president also criticized Europe’s migration policy and said relations with Italian Prime Minister Giorgia Meloni have worsened",
+      "date": "Wed, 15 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Sixteen ships pass through Strait of Hormuz on April 14, setting record since early March",
+      "link": "https://tass.com/economy/2117533",
+      "description": "According to the data from maritime traffic monitoring systems, most of the ships were heading toward the Gulf of Oman over the past 24 hours",
+      "date": "Wed, 15 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
