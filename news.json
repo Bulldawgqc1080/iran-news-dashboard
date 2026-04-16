@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-16 18:57 UTC",
-  "total": 44,
+  "updated": "2026-04-16 19:56 UTC",
+  "total": 46,
   "stories": [
     {
       "title": "A complex set of negotiations to end Israel's overlapping wars",
@@ -23,9 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "Israel agrees to a ceasefire in its war with Hezbollah in Lebanon, Trump says",
+      "title": "Israel agrees to a ceasefire in its war with Hezbollah but will keep troops in Lebanon",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates",
-      "description": "The leaders of Israel and Lebanon have agreed on a 10-day ceasefire in Israel's fight against Iran-backed Hezbollah in Lebanon, according to President Trump.",
+      "description": "The leaders of Israel and Lebanon have agreed on a 10-day ceasefire in Israel's fight against Iran-backed Hezbollah in Lebanon. But Hezbollah vows to resist a continued Israeli troop presence.",
       "date": "Thu, 16 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -143,6 +143,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israeli military admit to posting AI photo of Lebanese journalist it killed",
+      "link": "https://www.france24.com/en/israeli-military-admit-to-posting-ai-photo-of-killed-lebanese-journalist",
+      "description": "The Foreign Press Association has accused the Israeli military of discrediting a Lebanese journalist it killed in March, by using an AI-generated photo to present him as a “Hezbollah terrorist.” The Israel Defence Forces claimed responsibility for killing Ali Shoeib in a targeted...",
+      "date": "Thu, 16 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel's Netanyahu says he agrees to a 10-day ceasefire in Lebanon",
+      "link": "https://www.france24.com/en/israel-s-netanyahu-says-he-agrees-to-a-10-day-ceasefire-in-lebanon",
+      "description": "Israeli Prime Minister Benjamin Netanyahu said Thursday he has agreed to a 10-day ceasefire in Lebanon. In a video statement, Netanyahu said he was taking the step in an attempt “to advance” peace efforts with Lebanon. FRANCE 24's Noga Tarnopolsky reports from Jerusalem. FRANCE 2...",
+      "date": "Thu, 16 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Live: Israel’s Netanyahu confirms he agreed to 10-day ceasefire with Lebanon",
+      "link": "https://www.france24.com/en/middle-east/20260416-middle-east-war-live-iran-threatens-to-disrupt-gulf-trade-in-response-to-us-naval-blockade",
+      "description": "",
+      "date": "Thu, 16 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "'Lebanon is being held hostage by Hezbollah acting at Iran's behest'",
       "link": "https://www.france24.com/en/tv-shows/middle-east-matters/20260416-lebanon-is-being-held-hostage-to-hezbollah-acting-at-iran-s-behest",
       "description": "Hezbollah plunged Lebanon into war with Israel in early March. Six weeks later, the group, which had suffered setbacks in 2024, is still putting up a fight. But how? And can the Lebanese government succeed in getting the militant group to disarm? In this edition of Middle East Ma...",
@@ -193,24 +223,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "FRANCE 24 report: Lebanon’s displaced turn to private aid groups as state support struggles",
-      "link": "https://www.france24.com/en/video/20260416-france-24-report-lebanon-s-displaced-turn-to-private-aid-groups-as-state-support-struggles",
-      "description": "As the war continues in Lebanon, so do the waves of displacement. Thousands of families are leaving their homes, and searching for temporary shelter in a country already straining under the weight of war. Government aid is limited, so private groups are stepping in to fill the ga...",
+      "title": "Hezbollah strikes north Israel ahead of Lebanon ceasefire announcement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss",
+      "description": "Firefighters worked to extinguish a fire after a rocket attack from Hezbollah hit Kiryat Shmona in northern Israel.",
       "date": "Thu, 16 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "REPLAY: US Defense Secretary Pete Hegseth leads press conference on Iran war",
-      "link": "https://www.france24.com/en/video/20260416-replay-us-defense-secretary-pete-hegseth-leads-press-conference-on-iran-war",
-      "description": "The United States will blockade Iranian ports for \"as long as it takes,\" US Defense Secretary Pete Hegseth said Thursday, threatening renewed strikes if Tehran does not make a deal. \"If Iran chooses poorly, then they will have a blockade and bombs dropping on infrastructure, powe...",
+      "title": "Trump says Netanyahu, Aoun may meet at White House",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/trump-says-netanyahu-aoun-may-meet-at-white-house?traffic_source=rss",
+      "description": "Donald Trump said Israel&#039;s Benjamin Netanyahu and Lebanon&#039;s Joseph Aoun may meet at the White House.",
       "date": "Thu, 16 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US House votes down latest effort to curtail Trump’s power to wage Iran war",
+      "link": "https://www.aljazeera.com/news/2026/4/16/us-house-votes-down-latest-effort-to-curtail-trumps-power-to-wage-iran-war?traffic_source=rss",
+      "description": "Nearly all Democrats voted in favour, a day after a similar resolution failed in the US Senate along party lines.",
+      "date": "Thu, 16 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "10-day Lebanon-Israel ceasefire announced by Trump",
@@ -256,26 +296,6 @@
       "title": "Jet fuel shortage: Why Iran war could ground flights in Europe",
       "link": "https://www.aljazeera.com/news/2026/4/16/jet-fuel-shortage-why-iran-war-could-ground-flights-in-europe?traffic_source=rss",
       "description": "Europe&#039;s aviation faces fuel shortages as Hormuz tensions threaten travel at the start of the summer season.",
-      "date": "Thu, 16 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Pentagon chief Hegseth warns Iran blockade to last ‘as long as takes’",
-      "link": "https://www.aljazeera.com/news/2026/4/16/hegseth-says-us-blockade-to-continue-ready-for-new-attacks-on-iran-energy?traffic_source=rss",
-      "description": "US urges resolution through talks, but says Washington &#039;locked and loaded&#039; to resume attacks.",
-      "date": "Thu, 16 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US defence secretary Pete Hegseth attacks press coverage of war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-defence-secretary-pete-hegseth-attacks-press-coverage-of-war-on-iran?traffic_source=rss",
-      "description": "US defence secretary Hegseth criticised media coverage of the war on Iran.",
       "date": "Thu, 16 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
