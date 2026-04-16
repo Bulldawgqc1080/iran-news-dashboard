@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-16 22:29 UTC",
-  "total": 48,
+  "updated": "2026-04-16 23:31 UTC",
+  "total": 44,
   "stories": [
     {
       "title": "UN looks for a short-term solution for moving fertilizer through the Strait of Hormuz",
@@ -43,9 +43,9 @@
       "bias": "Low"
     },
     {
-      "title": "Israel agreed to ceasefire in its war with Hezbollah but will keep troops in Lebanon",
+      "title": "Israel agrees to a ceasefire in Lebanon, as Trump sounds optimistic about Iran talks",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates",
-      "description": "The leaders of Israel and Lebanon have agreed on a 10-day ceasefire in Israel's fight against Iran-backed Hezbollah in Lebanon. But Hezbollah vows to resist a continued Israeli troop presence.",
+      "description": "The leaders of Israel and Lebanon agreed on a 10-day ceasefire in Israel's fight against Iran-backed Hezbollah in Lebanon. But Hezbollah vows to resist a continued Israeli troop presence.",
       "date": "Thu, 16 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -243,6 +243,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss",
+      "description": "Lebanon’s residents say they are wary of trusting that Israel will abide by the ceasefire agreement announced by Trump.",
+      "date": "Thu, 16 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel and Lebanon’s 10-day ceasefire goes into effect",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israel-and-lebanons-10-day-ceasefire-goes-into-effect?traffic_source=rss",
+      "description": "A 10-day ceasefire between Israel and Lebanon has gone into effect. It began at midnight local time (21:00 GMT).",
+      "date": "Thu, 16 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
       "link": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
       "description": "Tensions linger as evacuees await clarity on the ceasefire’s terms before risking a return to war-torn villages.",
@@ -296,26 +316,6 @@
       "title": "Sectarian fears increase as a Beirut area says no to displacement centre",
       "link": "https://www.aljazeera.com/news/2026/4/16/sectarian-fears-increase-as-a-beirut-area-says-no-to-displacement-centre?traffic_source=rss",
       "description": "Tensions rise in Karantina as civil war-era sectarian fears resurface over a cancelled displacement centre project.",
-      "date": "Thu, 16 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Hezbollah strikes north Israel ahead of Lebanon ceasefire announcement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss",
-      "description": "Firefighters worked to extinguish a fire after a rocket attack from Hezbollah hit Kiryat Shmona in northern Israel.",
-      "date": "Thu, 16 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says Netanyahu, Aoun may meet at White House",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/trump-says-netanyahu-aoun-may-meet-at-white-house?traffic_source=rss",
-      "description": "Donald Trump said Israel&#039;s Benjamin Netanyahu and Lebanon&#039;s Joseph Aoun may meet at the White House.",
       "date": "Thu, 16 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -383,9 +383,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Trump announces 10-day ceasefire between Israel and Lebanon",
+      "title": "Iran-Israel war LIVE: 10-day ceasefire deal between Israel, Lebanon takes effect",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-16-2026/article70867467.ece",
-      "description": "Lebanon President Joseph Aoun had phone call with U.S. President Trump and thanked him for ‘efforts’ towards a ceasefire",
+      "description": "Israel and Iran-backed Hezbollah exchanged new cross-border fire shortly before a truce was due to take effect",
+      "date": "Thu, 16 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "10-day ceasefire deal between Israel, Lebanon takes effect",
+      "link": "https://www.thehindu.com/news/international/10-day-ceasefire-deal-between-israel-lebanon-takes-effect/article70871072.ece",
+      "description": "Donald Trump later said he expected Mr. Netanyahu and Mr. Aoun to visit the White House \"over the next four or five days\"; It would be the first time the leaders of Israel and Lebanon have ever met.",
       "date": "Thu, 16 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -431,56 +441,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Govt on “wait and watch” mode as U.S. denies extending waivers on Russian, Iranian crude purchases",
-      "link": "https://www.thehindu.com/news/international/us-rules-out-renewal-of-exemption-from-sanctions-on-russian-iranian-oil/article70867740.ece",
-      "description": "U.S.’ waiver for procuring of Iranian crude expires April 19, while that Russian oil expired April 11",
-      "date": "Thu, 16 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran welcomes ceasefire in Lebanon — ministry spokesman",
-      "link": "https://tass.com/world/2118395",
-      "description": "Esmail Baghaei thanked Pakistan for help in reaching the deal",
-      "date": "Thu, 16 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IDF strikes rocket launchers in Lebanon that were used to attack Israel",
-      "link": "https://tass.com/world/2118389",
-      "description": "The army press service also said that search and rescue forces were operating at sites in northern Israel where strikes had been reported",
-      "date": "Thu, 16 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US’ violation of obligations prevents establishment of peace — Iranian parliament speaker",
-      "link": "https://tass.com/world/2118387",
-      "description": "Bagher Ghalibaf expressed gratitude to Pakistan for the support and mediation efforts to resolve the conflict",
-      "date": "Thu, 16 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel has chance to sign historic agreement with Lebanon — Netanyahu",
-      "link": "https://tass.com/world/2118377",
-      "description": "The Israeli prime minister reiterated a demand for the disarmament of the Shiite Hezbollah movement",
-      "date": "Thu, 16 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
