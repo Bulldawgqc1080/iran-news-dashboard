@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-16 04:43 UTC",
-  "total": 46,
+  "updated": "2026-04-16 06:27 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations",
@@ -33,20 +33,20 @@
       "bias": "Low"
     },
     {
-      "title": "IMF predicts Iran war will slow economic growth and raise inflation globally",
-      "link": "https://www.npr.org/2026/04/15/nx-s1-5785040/imf-predicts-iran-war-will-slow-economic-growth-and-raise-inflation-globally",
-      "description": "The International Monetary Fund expects the Iran war to slow the global economy and raise inflation. NPR's Michel Martin discusses the forecast with Simon Johnson, a former IMF chief economist.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
       "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
       "date": "Wed, 15 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli demolitions levelling towns in south Lebanon, satellite images show",
+      "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
+      "date": "Thu, 16 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -93,16 +93,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-      "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-      "description": "The Lebanese government go into peace talks with limited influence over the group.",
-      "date": "Mon, 13 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "The Israeli town on the frontline with Hezbollah",
       "link": "https://www.bbc.com/news/videos/cm2kk32npv5o?at_medium=RSS&at_campaign=rss",
       "description": "BBC foreign correspondent Nick Beake visits Metula, an Israeli town surrounded on three sides by Lebanon.",
@@ -143,9 +133,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Iran threatens to disrupt Gulf trade in response to US naval blockade",
+      "title": "Middle East war live: Trump says Israel and Lebanon leaders to hold talks Thursday",
       "link": "https://www.france24.com/en/middle-east/20260416-middle-east-war-live-iran-threatens-to-disrupt-gulf-trade-in-response-to-us-naval-blockade",
-      "description": "The leader of Iran’s joint military command threatened Wednesday to halt trade in the Gulf region if the US does not lift its blockade of Iranian ports. Even so, US President Donald Trump said the war in Iran was “very close to over” in an interview that aired Wednesday. Follow o...",
+      "description": "US President Donald Trump said Wednesday that leaders of Israel and Lebanon will speak Thursday, after they held a high-level face-to-face meeting in Washington Tuesday -- the first such negotiation since 1993. Follow our liveblog for the latest updates.",
       "date": "Thu, 16 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -223,9 +213,19 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel’s military kills four Lebanese paramedics in consecutive strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israels-military-kills-four-lebanese-paramedics-in-consecutive-strikes?traffic_source=rss",
+      "description": "An Israeli triple-tap attack on rescue workers in southern Lebanon has killed four and left several others injured.",
+      "date": "Thu, 16 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
       "link": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss",
-      "description": "US president says the leaders of the two countries will speak for the first time in 34 years on Thursday.",
+      "description": "US president says leaders of the two countries will speak for the first time in 34 years on Thursday.",
       "date": "Thu, 16 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -293,19 +293,49 @@
       "bias": "Medium"
     },
     {
-      "title": "Pakistani army chief in Tehran amid bid to restart US talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/pakistani-army-chief-in-tehran-amid-bid-to-restart-us-talks?traffic_source=rss",
-      "description": "Pakistan’s army chief has arrived in Iran for high-level talks aimed at reviving negotiations between Iran and the US.",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Amid Lebanon truce talks, Israel kills 3 paramedics",
       "link": "https://www.dawn.com/news/1992129/amid-lebanon-truce-talks-israel-kills-3-paramedics",
       "description": "Wael Sabbagh, whose mother Afaf Sidaoui and brother Hassan were killed in an Israeli strike on an apartment building, stands outside the site of the attack in Beirut.—Reuters BEIRUT: Amid efforts of a ceasefire in Lebanon, Israel continued its attacks and targeted paramedic teams...",
+      "date": "Thu, 16 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "PM Shehbaz concludes visit to Saudi Arabia, to head to Doha: PMO",
+      "link": "https://www.dawn.com/news/1992240/pm-shehbaz-concludes-visit-to-saudi-arabia-to-head-to-doha-pmo",
+      "description": "Prime Minister Shehbaz Sharif has concluded his official visit to Saudi Arabia and will now head to Qatar’s capital Doha, the Prime Minister’s Office (PMO) said on Thursday. In a statement posted to social media, the PMO said that PM Shehbaz will hold a bilateral meeting in Doha ...",
+      "date": "Thu, 16 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Sri Lanka repatriates 238 crew members of two Iranian warships",
+      "link": "https://www.dawn.com/news/1992110/sri-lanka-repatriates-238-crew-members-of-two-iranian-warships",
+      "description": "COLOMBO: Over 200 Iranian crew members from two warships who were rescued by Sri Lanka have been sent back to their homeland, a top official said on Wednesday. Deputy Defence Minister Aruna Jayasekara said 32 sailors rescued from the IRIS Dena — a frigate attacked by US on March ...",
+      "date": "Thu, 16 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Nato chief, Kyiv allies vow not to lose sight of Ukraine",
+      "link": "https://www.dawn.com/news/1992106/nato-chief-kyiv-allies-vow-not-to-lose-sight-of-ukraine",
+      "description": "BERLIN: Nato chief Mark Rutte and Kyiv’s top allies vowed on Wednesday they would not lose sight of Ukraine’s conflict with Russia and called on others to urgently boost their support for the country. With the outbreak of the US-Israeli war against Iran, fears have grown that int...",
+      "date": "Thu, 16 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Attacked again by Trump, Pope Leo says world needs message of peace",
+      "link": "https://www.dawn.com/news/1992102/attacked-again-by-trump-pope-leo-says-world-needs-message-of-peace",
+      "description": "Pope Leo XIV and Cameroon’s First Lady Chantal Biya look on as President Paul Biya delivers a speech in Yaounde.—AFP YAOUNDE: Pope Leo said on Wednesday that the world needs to hear a message of peace and coexistence, after US President Donald Trump attacked him for a second time...",
       "date": "Thu, 16 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -323,41 +353,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "CDF Munir visits Iran alongside delegation as part of mediation efforts, holds meeting with FM Araghchi",
-      "link": "https://www.dawn.com/news/1991972/cdf-munir-visits-iran-alongside-delegation-as-part-of-mediation-efforts-holds-meeting-with-fm-araghchi",
-      "description": "Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir reached Tehran on Wednesday and held a meeting with Iranian Foreign Minister Abbas Araghchi and other officials, according to a post on the Iranian government’s X account. Inter-Services Public Relations (IS...",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Dawn",
+      "title": "U.S. rules out renewal of exemption from sanctions on Russian, Iranian oil",
+      "link": "https://www.thehindu.com/news/international/us-rules-out-renewal-of-exemption-from-sanctions-on-russian-iranian-oil/article70867740.ece",
+      "description": "On March 5, the U.S. issued a 30-day sanctions waiver to India, permitting it to buy Russian oil despite sanctions imposed over the Ukraine war",
+      "date": "Thu, 16 Apr 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Foreign media group slams Israel’s military over AI image of journalist killed in Lebanon strike",
-      "link": "https://www.dawn.com/news/1991983/foreign-media-group-slams-israels-military-over-ai-image-of-journalist-killed-in-lebanon-strike",
-      "description": "An international media association on Wednesday accused the Israeli military of discrediting a Lebanese journalist it killed last month by circulating an AI-generated image of him in Hezbollah fatigues. Three Lebanese journalists, including Ali Shoeib — a prominent correspondent ...",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Xi meets Russian FM as leaders flock to China over Middle East war",
-      "link": "https://www.dawn.com/news/1991931/xi-meets-russian-fm-as-leaders-flock-to-china-over-middle-east-war",
-      "description": "China’s President Xi Jinping met with Russian Foreign Minister Sergei Lavrov on Wednesday, Chinese state media said, as a string of leaders of countries impacted by the Middle East war flock to Beijing. Lavrov joins Spanish Prime Minister Pedro Sanchez, Abu Dhabi’s Crown Prince M...",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump doubles down in criticising Pope Leo over Iran",
-      "link": "https://www.dawn.com/news/1991929/trump-doubles-down-in-criticising-pope-leo-over-iran",
-      "description": "US President Donald Trump, whose war and immigration policies have been condemned by Pope Leo, reiterated his criticism of the religious leader on Tuesday night. In a post on Truth Social, Trump urged that “someone please tell Pope Leo” about the killings of protesters by Iran an...",
-      "date": "Wed, 15 Apr 2026",
-      "source": "Dawn",
+      "title": "Iran-Israel war LIVE: U.S.-sanctioned supertankers enter Gulf despite blockade",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-16-2026/article70867467.ece",
+      "description": "U.S. ⁠President Donald Trump announced the blockade on Sunday (April 12, 2026) after weekend peace talks in Islamabad between the U.S. and Iran failed to reach a deal.",
+      "date": "Thu, 16 Apr 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -383,16 +393,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: U.S.-sanctioned supertankers enter Gulf despite blockade",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-16-2026/article70867467.ece",
-      "description": "U.S. ⁠President Donald Trump announced the blockade on Sunday (April 12, 2026) after weekend peace talks in Islamabad between the U.S. and Iran failed to reach a deal.",
-      "date": "Thu, 16 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "U.S.-sanctioned supertankers enter Gulf despite blockade",
       "link": "https://www.thehindu.com/news/international/us-sanctioned-supertankers-enter-gulf-despite-blockade/article70867552.ece",
       "description": "Iran’s Fars News Agency said ‌on ⁠Wednesday (April 15, 2026) that an Iranian supertanker subject to U.S. sanctions crossed ⁠the strait towards Iran’s Imam Khomeini port despite the blockade",
@@ -411,56 +411,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war highlights: Pakistani delegation, led by Army chief Munir, reaches Iran for peace talks",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-15-2026/article70863575.ece",
-      "description": "Pakistan PM Shehbaz Sharif arrived in Saudi Arabia before a possible second round of U.S.-Iran peace talks; U.S. says nine vessels turned back in 48 hours of Iran port blockade",
-      "date": "Thu, 16 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump wants to end war with Iran as soon as possible — media",
-      "link": "https://tass.com/world/2117857",
-      "description": "The US leader is convinced that the only way to bring Iran back to the negotiating table is to ramp up pressure on it",
-      "date": "Thu, 16 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel continues operation against Hezbollah — Netanyahu",
-      "link": "https://tass.com/world/2117855",
-      "description": "Prime Minister Benjamin Netanyahu said that he has instructed the Israel Defense Forces \"to continue widening the security zone and to also spread it eastward toward the slopes of Mount Hermon\"",
-      "date": "Thu, 16 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli war cabinet makes no decision on ceasefire in Lebanon — media",
-      "link": "https://tass.com/world/2117847",
-      "description": "The meeting lasted nearly four hours",
-      "date": "Wed, 15 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli Chief-of-Staff says approved further plans for Iran, Lebanon",
-      "link": "https://tass.com/world/2117841",
-      "description": "Eyal Zamir also noted that the Israel Defense Forces is at \"a very high level of readiness\"",
-      "date": "Wed, 15 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
