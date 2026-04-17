@@ -1,18 +1,19 @@
 {
-  "updated": "2026-04-17 06:28 UTC",
+  "updated": "2026-04-17 08:20 UTC",
   "total": 9,
   "events": [
     {
       "date": "2026-04-17",
       "dateDisplay": "Apr 17, 2026",
-      "title": "Ten-day Lebanon-Israel ceasefire begins after weeks of conflict",
-      "link": "https://www.france24.com/en/middle-east/20260417-10-day-lebanon-israel-ceasefire-begins-after-weeks-of-conflict",
+      "title": "What we know about the Israel-Lebanon ceasefire",
+      "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24",
-        "Al Jazeera"
+        "BBC",
+        "Al Jazeera",
+        "France 24"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-04-16",
@@ -21,11 +22,10 @@
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates",
       "sources": [
         "NPR News",
-        "France 24",
-        "Al Jazeera"
+        "France 24"
       ],
-      "sourceCount": 3,
-      "type": "fact"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-04-15",

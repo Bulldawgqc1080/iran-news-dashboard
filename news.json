@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 06:28 UTC",
+  "updated": "2026-04-17 08:20 UTC",
   "total": 44,
   "stories": [
     {
@@ -61,6 +61,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "What we know about the Israel-Lebanon ceasefire",
+      "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "description": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+      "date": "Fri, 17 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
@@ -153,11 +163,41 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
-      "date": "Tue, 14 Apr 2026",
-      "source": "BBC",
+      "title": "Trump-Meloni relationship turn sour",
+      "link": "https://www.france24.com/en/trump-meloni-relationship-turn-sour",
+      "description": "Far-right Italian Prime Minister Giorgia Meloni was once considered one of Donald Trump’s closest allies in Europe, but their relationship has recently deteriorated. As Caitlin Brown reports, Meloni has fallen out of favor with the US president, in part due to her criticism of th...",
+      "date": "Fri, 17 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Europe faces looming jet fuel shortage: 'Six weeks of fuel left', energy boss warns",
+      "link": "https://www.france24.com/en/europe-faces-looming-jet-fuel-shortage-six-weeks-of-fuel-left-energy-boss-warns",
+      "description": "Rising fuel costs have already prompted many airlines worldwide to raise ticket prices, passing the burden on to passengers. But as the crisis drags on and the Strait of Hormuz remains blocked, both Europe and Asia are now facing a severe fuel shortage that could lead to widespre...",
+      "date": "Fri, 17 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "France, UK host talks on securing Hormuz",
+      "link": "https://www.france24.com/en/france-uk-host-talks-on-securing-hormuz",
+      "description": "French President Emmanuel Macron and British Prime Minister Keir Starmer are chairing a meeting of around 40 so-called “non-belligerent” countries this Friday to discuss securing the Strait of Hormuz. The closure of this vital route—now subject to both an Iranian blockade and a r...",
+      "date": "Fri, 17 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Lebanon army reports number of ceasefire violations",
+      "link": "https://www.france24.com/en/lebanon-army-reports-number-of-ceasefire-violations",
+      "description": "A 10-day ceasefire agreement between Lebanon and Israel came into effect this Friday, though the Lebanese army has already reported several alleged violations in the southern border region, where these images were taken. US President Donald Trump announced the deal and said he ha...",
+      "date": "Fri, 17 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -183,9 +223,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Lebanese army accuses Israel of ceasefire violations",
+      "title": "Middle East war live: Lebanon accuses Israel of violating ceasefire, displaced return to south",
       "link": "https://www.france24.com/en/middle-east/20260417-middle-east-war-live-lebanese-army-accuses-israel-of-ceasefire-violations",
-      "description": "A 10-day ceasefire between Israel and Lebanon, mediated by the US, came into effect at 5pm EST on Thursday. Lebanon's army soon after reported “acts of aggression” by Israel that it said violated the ceasefire agreement. Follow our liveblog for the latest updates.",
+      "description": "Shortly after a 10-day ceasefire between Lebanon and Israel came into effect, the Lebanese army on Friday accused Israel of violating the truce through a “a number” of aggressions. The army simultaneously called on residents and displaced from the south to exercise caution as the...",
       "date": "Fri, 17 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -203,44 +243,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "France finance minister says Hormuz must open 'but not at any price'",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20260416-france-finance-minister-says-hormuz-must-open-but-not-at-any-price",
-      "description": "France and Britain will co-host a video conference Friday of countries ready to contribute to a \"purely defensive mission\" to secure the Strait of Hormuz. Speaking with FRANCE 24's Yinka Oyetade, Dr Bamo Nouri, Senior Lecturer in International Relations at the University of West ...",
-      "date": "Thu, 16 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war’s big winners: Wall Street, weapons firms, AI and green energy",
+      "link": "https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy?traffic_source=rss",
+      "description": "The global economic outlook for 2026 looks grim if the Iran war continues, but some industries are booming.",
+      "date": "Fri, 17 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Israeli military admit to posting AI photo of Lebanese journalist it killed",
-      "link": "https://www.france24.com/en/israeli-military-admit-to-posting-ai-photo-of-killed-lebanese-journalist",
-      "description": "The Foreign Press Association has accused the Israeli military of discrediting a Lebanese journalist it killed in March, by using an AI-generated photo to present him as a “Hezbollah terrorist.” The Israel Defence Forces claimed responsibility for killing Ali Shoeib in a targeted...",
-      "date": "Thu, 16 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel's Netanyahu says he agrees to a 10-day ceasefire in Lebanon",
-      "link": "https://www.france24.com/en/israel-s-netanyahu-says-he-agrees-to-a-10-day-ceasefire-in-lebanon",
-      "description": "Israeli Prime Minister Benjamin Netanyahu said Thursday he has agreed to a 10-day ceasefire in Lebanon. In a video statement, Netanyahu said he was taking the step in an attempt “to advance” peace efforts with Lebanon. FRANCE 24's Noga Tarnopolsky reports from Jerusalem. FRANCE 2...",
-      "date": "Thu, 16 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Live: Israel’s Netanyahu confirms he agreed to 10-day ceasefire with Lebanon",
-      "link": "https://www.france24.com/en/middle-east/20260416-middle-east-war-live-iran-threatens-to-disrupt-gulf-trade-in-response-to-us-naval-blockade",
-      "description": "",
-      "date": "Thu, 16 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war: What is happening on day 49 of the US-Iran conflict?",
+      "link": "https://www.aljazeera.com/news/2026/4/17/iran-war-day-49?traffic_source=rss",
+      "description": "Celebrations in Lebanon as a 10-day ceasefire begins, opening the door to talks on a longer-term Israel-Lebanon deal.",
+      "date": "Fri, 17 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran women football players thank Australian government for protection",
@@ -296,26 +316,6 @@
       "title": "How Israel’s war upended daily life in Lebanon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/how-israels-war-upended-daily-life-in-lebanon?traffic_source=rss",
       "description": "People in Beirut describe how the Israel war has turned their lives upside down.",
-      "date": "Fri, 17 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Trump forced Israel into a ceasefire’ with Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/trump-forced-israel-into-a-ceasefire-with-lebanon-2?traffic_source=rss",
-      "description": "Abed Abou Shhadeh, a political commentator in Israel, says the ceasefire between Israel and Lebanon is ‘problematic&#039;.",
-      "date": "Fri, 17 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Celebrations on the road as people begin returning to southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/celebrations-on-the-road-as-people-begin-returning-to-southern-lebanon?traffic_source=rss",
-      "description": "People celebrate on the roads in southern Lebanon as they drive to their homes after the ceasefire announcement.",
       "date": "Fri, 17 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -383,9 +383,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Macron and Starmer to hold international summit on reopening the Strait of Hormuz",
+      "title": "Iran-Israel war LIVE: Macron says Lebanon-Israel ceasefire 'may already be undermined'",
       "link": "https://www.thehindu.com/news/international/iran-us-war-lebanon-army-israeli-ceasefire-violation-donald-trump-west-asia-conflict-live-updates-april-17-2026/article70872084.ece",
-      "description": "Lebanon Army reports Israeli 'acts of aggression' in 'violation of ceasefire'; Trump says war in Iran should be ending 'pretty soon'",
+      "description": "A 10-day ceasefire agreed between Israel and Lebanon took effect on Thursday (April 16, 2026)",
+      "date": "Fri, 17 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan starts preparing for next round of U.S.-Iran talks: officials",
+      "link": "https://www.thehindu.com/news/international/pakistan-starts-preparing-for-next-round-of-us-iran-talks-officials/article70872736.ece",
+      "description": "The U.S. and Iran held rare direct talks in Pakistan over the weekend aimed at ending their conflict, but the talks ended early Sunday (April 12, 2026) without any agreement",
+      "date": "Fri, 17 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Macron, Starmer hold international summit on reopening Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/macron-starmer-hold-international-summit-on-reopening-strait-of-hormuz/article70872634.ece",
+      "description": "The U.S. is not part of the planning for what has been branded the Strait of Hormuz Maritime Freedom of Navigation Initiative",
       "date": "Fri, 17 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -416,26 +436,6 @@
       "title": "10-day ceasefire deal between Israel, Lebanon takes effect",
       "link": "https://www.thehindu.com/news/international/10-day-ceasefire-deal-between-israel-lebanon-takes-effect/article70871072.ece",
       "description": "Donald Trump later said he expected Mr. Netanyahu and Mr. Aoun to visit the White House \"over the next four or five days\"; It would be the first time the leaders of Israel and Lebanon have ever met.",
-      "date": "Thu, 16 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says Iran deal 'very close,' may go to Pakistan to sign",
-      "link": "https://www.thehindu.com/news/international/trump-says-iran-deal-very-close-may-go-to-pakistan-to-sign/article70871006.ece",
-      "description": "The U.S. leader praised Pakistan's \"really great\" Prime Minister Shehbaz Sharif and powerful army chief Asim Munir for their role in brokering the talks with Iran",
-      "date": "Thu, 16 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump announces 10-day ceasefire between Israel and Lebanon",
-      "link": "https://www.thehindu.com/news/international/trump-announces-10-day-ceasefire-between-israel-and-lebanon/article70870533.ece",
-      "description": "The U.S. leader says he would invite Israeli Prime Minister and Lebanese president to White House for talks",
       "date": "Thu, 16 Apr 2026",
       "source": "The Hindu",
       "region": "me",
