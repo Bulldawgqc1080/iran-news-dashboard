@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-17 17:39 UTC",
-  "total": 44,
+  "updated": "2026-04-17 18:42 UTC",
+  "total": 48,
   "stories": [
     {
       "title": "The U.S. blockade continues despite Iran's announcement the Strait of Hormuz is open",
@@ -243,6 +243,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Inside Kharg Island, Iran’s oil lifeline under threat",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/17/aje-onl-tt_irn_kharg_av_v3-170426?traffic_source=rss",
+      "description": "With the US blockading Iran’s ports, Kharg Island is in focus. How are civilians caught in the middle?",
+      "date": "Fri, 17 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Macron demands assurances after Iran opens Strait of Hormuz",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/macron-demands-assurances-after-iran-opens-strait-of-hormuz?traffic_source=rss",
       "description": "French President Emmanuel Macron said he welcomed the reopening of the Strait of Hormuz and the Lebanon ceasefire.",
@@ -306,16 +316,6 @@
       "title": "How the Lebanon ceasefire is viewed in Israel",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/how-the-lebanon-ceasefire-is-viewed-in-israel?traffic_source=rss",
       "description": "Al Jazeera’s Tony Cheng describes how people and the press in Israel are reacting to the ceasefire with Lebanon.",
-      "date": "Fri, 17 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "The Iran war has exposed the limits of neutrality",
-      "link": "https://www.aljazeera.com/opinions/2026/4/17/the-iran-war-has-exposed-the-limits-of-neutrality?traffic_source=rss",
-      "description": "From Gulf energy shocks to divisions among allies, the conflict has made strategic ambiguity harder to sustain.",
       "date": "Fri, 17 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -441,6 +441,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran will receive no frozen assets for suspending nuclear program, Trump says",
+      "link": "https://tass.com/world/2118943",
+      "description": "According to the US leader, an agreement to end the war that was unleashed by the United States and Israel in late February, is largely complete",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says deal with Iran may be reached in day or two",
+      "link": "https://tass.com/world/2118933",
+      "description": "The US leader emphasized that the Irainian side wanted to make a deal",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says may travel to Pakistan for signing agreement with Iran — agency",
+      "link": "https://tass.com/world/2118937",
+      "description": "The US delegation to the last weekend’s round of negotiations with Iran was led by Vice President JD Vance",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russia says welcomes ceasefire in Lebanon",
+      "link": "https://tass.com/politics/2118939",
+      "description": "Maria Zakharova recalled that from the very beginning of the large-scale escalation in the Middle East, Moscow had called for an end to the armed confrontation and a transfer of the conflict to a political and diplomatic settlement",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
