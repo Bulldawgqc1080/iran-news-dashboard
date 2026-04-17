@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-17 21:32 UTC",
-  "total": 45,
+  "updated": "2026-04-17 22:28 UTC",
+  "total": 48,
   "stories": [
     {
       "title": "Hormuz reopens, but insurers aren't ready to sound the all-clear",
@@ -23,7 +23,7 @@
       "bias": "Low"
     },
     {
-      "title": "The U.S. blockade continues despite Iran's announcement the Strait of Hormuz is open",
+      "title": "The Strait of Hormuz opens for commercial ships but the U.S. blockade continues on Iran",
       "link": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates",
       "description": "Iran's foreign minister declared the Strait of Hormuz is open, following the start of an Israel-Lebanon ceasefire. President Trump swiftly responded that the U.S. naval blockade on Iran will continue.",
       "date": "Fri, 17 Apr 2026",
@@ -56,16 +56,6 @@
       "title": "How the conflict in Iran is testing the U.S.-European alliance",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787539/how-the-conflict-in-iran-is-testing-the-u-s-european-alliance",
       "description": "NPR's Mary Louise Kelly speaks with correspondents Greg Myre and Rob Schmitz about how the Iran war is affecting the U.S. alliance with Europe.",
-      "date": "Thu, 16 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "A complex set of negotiations to end Israel's overlapping wars",
-      "link": "https://www.npr.org/2026/04/16/g-s1-117656/a-complex-set-of-negotiations-to-end-israels-overlapping-wars",
-      "description": "Israel has agreed to a ceasefire in Lebanon, part of a complex web of Mideast negotiations, from Iran to Gaza.",
       "date": "Thu, 16 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -253,6 +243,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran rejects Trump claim on deal to surrender nuclear material stockpiles",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
+      "description": "Iran has rejected suggestions by Donald Trump that it has agreed to hand over its stockpile of enriched uranium.",
+      "date": "Fri, 17 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Lebanon president says country is no longer a pawn amid Israel ceasefire",
       "link": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
       "description": "President Joseph Aoun promised to work to preserve Lebanon&#039;s sovereignty and freedom.",
@@ -316,16 +316,6 @@
       "title": "Inside Kharg Island, Iran’s oil lifeline under threat",
       "link": "https://www.aljazeera.com/video/the-take-2/2026/4/17/aje-onl-tt_irn_kharg_av_v3-170426?traffic_source=rss",
       "description": "With the US blockading Iran’s ports, Kharg Island is in focus. How are civilians caught in the middle?",
-      "date": "Fri, 17 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Macron demands assurances after Iran opens Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/macron-demands-assurances-after-iran-opens-strait-of-hormuz?traffic_source=rss",
-      "description": "French President Emmanuel Macron said he welcomed the reopening of the Strait of Hormuz and the Lebanon ceasefire.",
       "date": "Fri, 17 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -451,6 +441,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US-Iran talks to continue over weekend — Trump",
+      "link": "https://tass.com/world/2118993",
+      "description": "The US president says Iran and the United States are maintaining contacts",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US plans to engage in talks with Iran in Pakistan on Monday — media",
+      "link": "https://tass.com/world/2118983",
+      "description": "According to a senior US administration official cited by The Wall Street Journal, President Donald Trump’s team engaged in the talks are in a standby regime ahead of the negotiations",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Opening of Strait of Hormuz linked with Iran's desire to keep nuclear program — expert",
+      "link": "https://tass.com/world/2118969",
+      "description": "Adnan at-Tamimi says that another reason is related to Washington's actions towards Israel and a possibility of suspending the war in Lebanon",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Hormuz opening enables Iraq to export over 20 mln barrels of oil",
+      "link": "https://tass.com/economy/2118965",
+      "description": "Tehran’s decision to fully open the strait \"guarantees that about twenty tankers will be able to sail from Iraq already in the near future, which are capable to transport about 23 mln barrels of oil produced in Basrah to the global market,\" the news portal said",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
