@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-16 23:31 UTC",
-  "total": 44,
+  "updated": "2026-04-17 01:24 UTC",
+  "total": 48,
   "stories": [
     {
       "title": "UN looks for a short-term solution for moving fertilizer through the Strait of Hormuz",
@@ -43,9 +43,9 @@
       "bias": "Low"
     },
     {
-      "title": "Israel agrees to a ceasefire in Lebanon, as Trump sounds optimistic about Iran talks",
+      "title": "Israel starts a tense ceasefire in Lebanon, as Trump sounds optimistic on Iran talks",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates",
-      "description": "The leaders of Israel and Lebanon agreed on a 10-day ceasefire in Israel's fight against Iran-backed Hezbollah in Lebanon. But Hezbollah vows to resist a continued Israeli troop presence.",
+      "description": "The leaders of Israel and Lebanon agreed to a 10-day ceasefire in Israel's fight against Iran-backed Hezbollah in Lebanon, but Israel vowed to keep troops in southern Lebanon.",
       "date": "Thu, 16 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -163,6 +163,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "10-day Lebanon-Israel ceasefire begins after weeks of conflict",
+      "link": "https://www.france24.com/en/middle-east/20260417-10-day-lebanon-israel-ceasefire-begins-after-weeks-of-conflict",
+      "description": "A ten-day ceasefire between Lebanon and Israel took effect on Friday as US President Donald Trump pushes for broader regional diplomacy, including a possible first-ever leaders’ meeting. The truce comes amid efforts to end wider conflict involving Iran and follows weeks of intens...",
+      "date": "Fri, 17 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "France finance minister says Hormuz must open 'but not at any price'",
       "link": "https://www.france24.com/en/tv-shows/a-propos/20260416-france-finance-minister-says-hormuz-must-open-but-not-at-any-price",
       "description": "France and Britain will co-host a video conference Friday of countries ready to contribute to a \"purely defensive mission\" to secure the Strait of Hormuz. Speaking with FRANCE 24's Yinka Oyetade, Dr Bamo Nouri, Senior Lecturer in International Relations at the University of West ...",
@@ -233,14 +243,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Lebanon peace talks: Future negotiations depend on 'confidence-building measures'",
-      "link": "https://www.france24.com/en/israel-lebanon-peace-talks-future-negotiations-depend-on-confidence-building-measures-1",
-      "description": "Angela Diffley is pleased to welcome Bilal Y. Saab, Senior Managing Director of TRENDS US.Former Pentagon Official in the first Trump administration. According to Saab, Lebanon is at a crossroads: the government is committed to reform, is fundamentally “pro-Lebanese” and rejects ...",
-      "date": "Thu, 16 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss",
+      "description": "Death toll from Israeli attacks on Lebanon reached 2,196 on Thursday as 10-day ceasefire announced.",
+      "date": "Fri, 17 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
@@ -313,16 +323,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Sectarian fears increase as a Beirut area says no to displacement centre",
-      "link": "https://www.aljazeera.com/news/2026/4/16/sectarian-fears-increase-as-a-beirut-area-says-no-to-displacement-centre?traffic_source=rss",
-      "description": "Tensions rise in Karantina as civil war-era sectarian fears resurface over a cancelled displacement centre project.",
-      "date": "Thu, 16 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "10-day ceasefire between Israel, Lebanon takes effect",
       "link": "https://www.dawn.com/news/1992354/10-day-ceasefire-between-israel-lebanon-takes-effect",
       "description": "A 10-day ceasefire deal agreed between Lebanon and Israel took effect on Friday while US President Donald Trump said he was trying to set up the first-ever meeting between the leaders of the two countries. The ceasefire was announced by Trump on Thursday. Israel has been carrying...",
@@ -383,10 +383,20 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: 10-day ceasefire deal between Israel, Lebanon takes effect",
+      "title": "Iran-Israel war LIVE: Lebanon Army reports Israeli 'acts of aggression' in 'violation of ceasefire'; Trump says war in Iran should be ending 'pretty soon'",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-lebanon-army-israeli-ceasefire-violation-donald-trump-west-asia-conflict-live-updates-april-17-2026/article70872084.ece",
+      "description": "Hezbollah has not said if it recognizes the ceasefire -- but a senior figure said it would respect it if Israeli attacks on the militants stopped",
+      "date": "Fri, 17 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war on April 16, 2026: 10-day ceasefire deal between Israel, Lebanon takes effect midnight; Lebanon reports ceasefire violations",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-16-2026/article70867467.ece",
       "description": "Israel and Iran-backed Hezbollah exchanged new cross-border fire shortly before a truce was due to take effect",
-      "date": "Thu, 16 Apr 2026",
+      "date": "Fri, 17 Apr 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -433,14 +443,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Brazilian President Lula says Trump has ‘no right’ to threaten countries",
-      "link": "https://www.thehindu.com/news/international/brazilian-president-lula-says-trump-has-no-right-to-threaten-countries/article70870746.ece",
-      "description": "His comments come after Mr. Trump this month warned that a “whole civilisation will die” in Iran if the country did not open up the Strait of Hormuz",
+      "title": "Trump hopes for Hezbollah’s compliance with ceasefire",
+      "link": "https://tass.com/world/2118411",
+      "description": "The US president also said that the region \"must finally have peace\"",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "IDF attacks 380 Hezbollah targets in Lebanon on day before ceasefire",
+      "link": "https://tass.com/world/2118409",
+      "description": "\"Launchers\" and \"headquarters\" were stricken, according to the Israeli military",
+      "date": "Fri, 17 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Hezbollah advises Lebanese citizens to avoid visiting country’s south despite ceasefire",
+      "link": "https://tass.com/world/2118407",
+      "description": "The organization urged people to \"wait until the situation stabilizes\"",
       "date": "Thu, 16 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US Congress narrowly rejects resolution on war with Iran",
+      "link": "https://tass.com/world/2118403",
+      "description": "The document failed by one vote",
+      "date": "Thu, 16 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }

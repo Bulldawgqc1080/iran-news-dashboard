@@ -1,16 +1,27 @@
 {
-  "updated": "2026-04-16 23:31 UTC",
-  "total": 8,
+  "updated": "2026-04-17 01:24 UTC",
+  "total": 9,
   "events": [
+    {
+      "date": "2026-04-17",
+      "dateDisplay": "Apr 17, 2026",
+      "title": "10-day Lebanon-Israel ceasefire begins after weeks of conflict",
+      "link": "https://www.france24.com/en/middle-east/20260417-10-day-lebanon-israel-ceasefire-begins-after-weeks-of-conflict",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-04-16",
       "dateDisplay": "Apr 16, 2026",
-      "title": "Israel agrees to a ceasefire in Lebanon, as Trump sounds optimistic about Iran talks",
+      "title": "Israel starts a tense ceasefire in Lebanon, as Trump sounds optimistic on Iran talks",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates",
       "sources": [
-        "France 24",
         "Al Jazeera",
-        "NPR News"
+        "NPR News",
+        "France 24"
       ],
       "sourceCount": 3,
       "type": "fact"
