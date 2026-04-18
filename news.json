@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 12:36 UTC",
-  "total": 44,
+  "updated": "2026-04-18 13:55 UTC",
+  "total": 43,
   "stories": [
     {
       "title": "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
@@ -13,7 +13,7 @@
       "bias": "Low"
     },
     {
-      "title": "Uncertainty over the Strait of Hormuz remains, as ceasefire nears its end",
+      "title": "Iran says it has closed the Strait of Hormuz again, as ceasefire nears its end",
       "link": "https://www.npr.org/2026/04/18/nx-s1-5789780/iran-middle-east-updates",
       "description": "Iran's military said on Saturday the Strait of Hormuz has \"returned to its previous state.\" The announcement came after President Trump had said the blockade on Iranian ports would remain in place.",
       "date": "Sat, 18 Apr 2026",
@@ -46,16 +46,6 @@
       "title": "Gasoline could drop below $4 in coming days",
       "link": "https://www.npr.org/2026/04/17/nx-s1-5788819/oil-gasoline-cheaper-war-iran",
       "description": "Gasoline costs should start to fall soon, although a full recovery to pre-war prices is expected to take months. That's assuming that peace holds and traffic flows resume through the Strait of Hormuz.",
-      "date": "Fri, 17 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "The Strait of Hormuz opens for commercial ships but the U.S. blockade continues on Iran",
-      "link": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates",
-      "description": "Iran's foreign minister declared the Strait of Hormuz is open, following the start of an Israel-Lebanon ceasefire. President Trump swiftly responded that the U.S. naval blockade on Iran will continue.",
       "date": "Fri, 17 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -163,6 +153,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Strait of Hormuz : Iran to block transit until US lifts its blockade",
+      "link": "https://www.france24.com/en/strait-of-hormuz-iran-to-block-transit-until-us-lifts-its-blockade",
+      "description": "Tensions continue to rise in the Middle East, with Iran briefly reopening the Strait of Hormuz before closing it again after around 20 hours. Tehran says the US is not respecting the terms of the agreement reached, casting further doubt on the fragile deal. Meanwhile, negotiation...",
+      "date": "Sat, 18 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East : Fragile US-Iran talks hinge on nuclear and Hormuz disputes",
+      "link": "https://www.france24.com/en/middle-east-fragile-us-iran-talks-hinge-on-nuclear-and-hormuz-disputes",
+      "description": "US-Iran negotiations show limited progress but remain tense, with disputes over enriched uranium and the Strait of Hormuz still unresolved. Donald Trump warns the conflict could resume if no deal is reached, while mediators say compromises may still be possible on nuclear restric...",
+      "date": "Sat, 18 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "In Liberia, concerns are growing over gold mining pollution",
       "link": "https://www.france24.com/en/in-liberia-concerns-are-growing-over-gold-mining-pollution",
       "description": "In Liberia, communities are raising alarm over rising water and soil pollution linked to gold mining activities. In the village of Jikandor, north of the capital, residents accuse the Bea Mountain Mining Corporation of violating environmental standards and contaminating rivers th...",
@@ -223,24 +233,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "\"We are just displaced and we have to go back\" : Lebanese return to southern villages",
-      "link": "https://www.france24.com/en/we-are-just-displaced-and-we-have-to-go-back-lebanese-return-to-southern-villages",
-      "description": "Despite warnings from authorities about the fragility of the ceasefire with Israel, thousands of people are returning to their homes in southern Lebanon, as FRANCE 24's Cyril Payen reports from Beirut. Most do not see themselves as refugees, but rather as internally displaced peo...",
+      "title": "Trump claims on Iranian concessions trigger questions, rejections in Tehran",
+      "link": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss",
+      "description": "The political drama culminates with the IRGC announcing that the Strait of Hormuz is once again restricted.",
       "date": "Sat, 18 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Hormuz domino effect: How the Middle East crisis affects food, flights and global supply chains",
-      "link": "https://www.france24.com/en/middle-east/20260418-hormuz-domino-effect-how-the-middle-east-crisis-affects-food-flights-and-global-supply-chains",
-      "description": "The closure of the Strait of Hormuz triggered by the war in the Middle East hasn't just affected oil prices. Despite a provisional reopening during the current 10-day ceasefire, global supplies of jet fuel, fertilisers, industrial CO2 and naphtha have already been affected, poten...",
+      "title": "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-supreme-leader-warns-of-new-bitter-defeats-for-us-and-israel?traffic_source=rss",
+      "description": "Iran’s Supreme Leader Mojtaba Khamenei warned the navy was ready to inflict ‘new bitter defeats’ on the US and Israel.",
       "date": "Sat, 18 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s deputy FM says no date for more US talks until ‘framework’ agreed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-deputy-fm-says-no-date-for-more-us-talks-until-framework-agreed?traffic_source=rss",
+      "description": "Iran’s Deputy Foreign Minister said talks with the US cannot happen until the two sides agree on a shared ‘framework&#039;.",
+      "date": "Sat, 18 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran closes Strait of Hormuz again over US blockade of its ports",
@@ -286,36 +306,6 @@
       "title": "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/ambulance-crew-in-south-lebanon-describes-israels-triple-tap-attack?traffic_source=rss",
       "description": "Ambulance workers in Lebanon recall Israeli ‘triple-tap’ targeted strikes which killed four paramedics and wounded six.",
-      "date": "Sat, 18 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
-      "link": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
-      "description": "Brent crude falls over 9 percent after Iran said it will reopen waterway, only to shut it again over US blockade.",
-      "date": "Sat, 18 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
-      "link": "https://www.aljazeera.com/news/2026/4/18/pakistan-pm-army-chief-wrap-up-key-trips-in-push-for-more-us-iran-talks?traffic_source=rss",
-      "description": "Asim Munir leaves Tehran while PM Shehbaz Sharif heads home from Turkiye with hopes of another round of US-Iran talks.",
-      "date": "Sat, 18 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran has learned that the Strait of Hormuz is its strongest deterrent",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss",
-      "description": "Donald Heflin, a senior fellow at Tufts University, says Iran has shown it doesn’t need nuclear weapons as a deterrent.",
       "date": "Sat, 18 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -383,9 +373,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Two Indian ships reverse course in Hormuz strait, says vessel tracker",
-      "link": "https://www.thehindu.com/news/national/indian-vessels-make-reverse-course-in-strait-of-hormuz-vessel-tracker-says/article70877488.ece",
-      "description": "Iran said earlier it was reimposing restrictions on the strait in response to a U.S. blockade on Iranian shipping and ports",
+      "title": "No date set for next round of Iran-U.S. talks: Iran Deputy Foreign Minister",
+      "link": "https://www.thehindu.com/news/international/no-date-set-for-next-round-of-iran-us-talks-iran-deputy-foreign-minister/article70877691.ece",
+      "description": "Saeed Khatibzadeh said both sides were currently focused on finalising a framework of understanding before proceeding with further negotiations",
       "date": "Sat, 18 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -396,6 +386,26 @@
       "title": "Iran-Israel war LIVE: Two Indian vessels make reverse course in Strait of Hormuz following reports of gunfire",
       "link": "https://www.thehindu.com/news/international/iran-war-live-updates-us-waiver-for-russian-oil-israel-april-18-2026/article70876378.ece",
       "description": "Iran swiftly reversed course on reopening the Strait of Hormuz, reimposing restrictions on the critical waterway after the U.S. said the move would not end its blockade",
+      "date": "Sat, 18 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran's 'valiant navy' ready to inflict 'new bitter defeats' on its enemies: Ayatollah Mojtaba Khamenei",
+      "link": "https://www.thehindu.com/news/international/irans-valiant-navy-ready-to-inflict-new-bitter-defeats-on-its-enemies-ayatollah-mojtaba-khamenei/article70877723.ece",
+      "description": "Defiant message came as Iran swiftly reimposed restrictions on the Strait of Hormuz",
+      "date": "Sat, 18 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Two Indian ships reverse course in Hormuz strait, says vessel tracker",
+      "link": "https://www.thehindu.com/news/national/indian-vessels-make-reverse-course-in-strait-of-hormuz-vessel-tracker-says/article70877488.ece",
+      "description": "Iran said earlier it was reimposing restrictions on the strait in response to a U.S. blockade on Iranian shipping and ports",
       "date": "Sat, 18 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -416,26 +426,6 @@
       "title": "Iran reimposes restrictions on Strait of Hormuz, accusing U.S. of violating deal to reopen it",
       "link": "https://www.thehindu.com/news/international/iran-reimposes-restrictions-on-strait-of-hormuz-accusing-us-of-violating-deal-to-reopen-it/article70877016.ece",
       "description": "Iran warned that it would continue to block transit through the strait as long as the U.S. blockade of Iranian ports remained in effect",
-      "date": "Sat, 18 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says he has ‘good news’ on Iran, offers no clarity on peace deal",
-      "link": "https://www.thehindu.com/news/international/trump-says-he-has-good-news-on-iran-offers-no-clarity-on-peace-deal/article70876600.ece",
-      "description": "Iran, hours earlier, had temporarily reopened the Strait of Hormuz following a separate U.S.-brokered ceasefire agreement ​by Israel and Lebanon",
-      "date": "Sat, 18 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan Army chief Munir concludes three-day Iran visit",
-      "link": "https://www.thehindu.com/news/international/pakistan-army-chief-munir-concludes-three-day-iran-visit/article70876894.ece",
-      "description": "Syed Asim Munir, who was heading a high-level delegation to Iran, landed in Tehran on April 15, becoming the first foreign military leader to visit the country since a two-week ceasefire was agreed between Iran and the U.S. on April 8",
       "date": "Sat, 18 Apr 2026",
       "source": "The Hindu",
       "region": "me",
