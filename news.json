@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 20:24 UTC",
-  "total": 47,
+  "updated": "2026-04-18 21:24 UTC",
+  "total": 42,
   "stories": [
     {
       "title": "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
@@ -36,16 +36,6 @@
       "title": "As Sri Lanka celebrated its New Year, the war in Iran was felt",
       "link": "https://www.npr.org/2026/04/17/nx-s1-5785080/as-sri-lanka-celebrated-its-new-year-the-war-in-iran-was-felt",
       "description": "Buddhists and Hindus in Sri Lanka marked their New Year on Tuesday. As residents in the capital Colombo celebrated, a war thousands of miles away was making itself felt.",
-      "date": "Fri, 17 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Hormuz reopens, but insurers aren't ready to sound the all-clear",
-      "link": "https://www.npr.org/2026/04/17/nx-s1-5785167/hormuz-reopens-but-insurers-arent-ready-to-sound-the-all-clear",
-      "description": "Insurance for cargo and oil vessels stuck in the Strait of Hormuz has skyrocketed. How can insurers help us understand the realities of the war with Iran?",
       "date": "Fri, 17 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -153,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "French UNIFIL soldier killed in Lebanon, Hezbollah responsible, says Macron",
+      "link": "https://www.france24.com/en/middle-east/20260418-french-unifil-soldier-killed-in-lebanon-hezbollah-responsible-says-macron",
+      "description": "French President Emmanuel Macron announced the death of a French UN peacekeeping soldier Saturday following an attack that also left three people wounded in southern Lebanon, saying that \"everything suggests\" Hezbollah being responsible for the attack. The Iran-backed group denie...",
+      "date": "Sat, 18 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Replay : Donald Trump holds briefing amid Hormuz tension",
       "link": "https://www.france24.com/en/replay-donald-trump-holds-briefing-amid-hormuz-tension",
       "description": "Rewatch Donald Trump’s live briefing from the White House on Saturday, April 18, as Iran announced it was re-closing the Strait of Hormuz while the US maintains its port blockade. FRANCE 24's Andrew Hilliar has the analysis.",
@@ -216,16 +216,6 @@
       "title": "Middle East : Fragile US-Iran talks hinge on nuclear and Hormuz disputes",
       "link": "https://www.france24.com/en/middle-east-fragile-us-iran-talks-hinge-on-nuclear-and-hormuz-disputes",
       "description": "US-Iran negotiations show limited progress but remain tense, with disputes over enriched uranium and the Strait of Hormuz still unresolved. Donald Trump warns the conflict could resume if no deal is reached, while mediators say compromises may still be possible on nuclear restric...",
-      "date": "Sat, 18 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "In Liberia, concerns are growing over gold mining pollution",
-      "link": "https://www.france24.com/en/in-liberia-concerns-are-growing-over-gold-mining-pollution",
-      "description": "In Liberia, communities are raising alarm over rising water and soil pollution linked to gold mining activities. In the village of Jikandor, north of the capital, residents accuse the Bea Mountain Mining Corporation of violating environmental standards and contaminating rivers th...",
       "date": "Sat, 18 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -431,46 +421,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "US attempts to clear mines in Iran’s waters violate ceasefire — Iranian parliament speaker",
-      "link": "https://tass.com/world/2119205",
-      "description": "Mohammad Bagher Ghalibaf also criticized the US blockade of the Strait of Hormuz",
-      "date": "Sat, 18 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran may suspend production of 15 mln barrels of oil per day for one year — IRGC",
-      "link": "https://tass.com/world/2119203",
-      "description": "Iran has already selected targets it plans to strike if hostilities resume, adviser to the commander-in-chief Mohammad Reza Naghdi added",
-      "date": "Sat, 18 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran closes Strait of Hormuz until US naval blockade fully lifted — IRGC",
-      "link": "https://tass.com/world/2119199",
-      "description": "The Islamic Revolutionary Guard Corps called on shipowners to adhere exclusively to the recommendations of the Iranian side",
-      "date": "Sat, 18 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Rosatom closely monitoring US-Iran talks, ready to assist with removal of uranium",
-      "link": "https://tass.com/economy/2119175",
-      "description": "In 2015, at Iran’s request, Russia already removed enriched uranium from the Islamic Republic, Chief Executive Officer of the Russian state corporation Alexey Likhachev said",
-      "date": "Sat, 18 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
