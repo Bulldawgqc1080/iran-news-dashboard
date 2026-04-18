@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 11:26 UTC",
-  "total": 49,
+  "updated": "2026-04-18 12:36 UTC",
+  "total": 44,
   "stories": [
     {
       "title": "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
@@ -56,16 +56,6 @@
       "title": "The Strait of Hormuz opens for commercial ships but the U.S. blockade continues on Iran",
       "link": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates",
       "description": "Iran's foreign minister declared the Strait of Hormuz is open, following the start of an Israel-Lebanon ceasefire. President Trump swiftly responded that the U.S. naval blockade on Iran will continue.",
-      "date": "Fri, 17 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Israel starts a tense ceasefire in Lebanon. And, Trump nominates a new CDC director.",
-      "link": "https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs",
-      "description": "A 10-day ceasefire to pause fighting between Israel and Hezb",
       "date": "Fri, 17 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -173,6 +163,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "In Liberia, concerns are growing over gold mining pollution",
+      "link": "https://www.france24.com/en/in-liberia-concerns-are-growing-over-gold-mining-pollution",
+      "description": "In Liberia, communities are raising alarm over rising water and soil pollution linked to gold mining activities. In the village of Jikandor, north of the capital, residents accuse the Bea Mountain Mining Corporation of violating environmental standards and contaminating rivers th...",
+      "date": "Sat, 18 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "The Gaza Strip grapples with a major garbage, health crisis",
       "link": "https://www.france24.com/en/the-gaza-strip-grapples-with-a-major-garbage-health-crisis",
       "description": "In Deir al-Balah, displaced families are living next to growing rubbish piles as destroyed infrastructure forces authorities to rely on unsafe temporary dumps. Across the Gaza Strip, poor sanitation and pest infestations are raising serious health concerns despite limited humanit...",
@@ -243,14 +243,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US issues sanctions waiver on Russian oil sales again",
-      "link": "https://www.france24.com/en/europe/20260418-us-extends-sanctions-waiver-on-russian-oil-sales-at-sea",
-      "description": "The Trump administration on Friday issued a one-month sanctions waiver allowing the sale of Russian oil and petroleum products already loaded at sea, despite the treasury secretary indicating two days earlier that Washington would not renew the measure. The move comes amid effort...",
+      "title": "Iran closes Strait of Hormuz again over US blockade of its ports",
+      "link": "https://www.aljazeera.com/news/2026/4/18/iran-closes-strait-of-hormuz-again-over-us-blockade-of-its-ports?traffic_source=rss",
+      "description": "Reports of Iranian gunboats opening fire on tanker after Tehran says it is closing waterway until US lifts its blockade.",
       "date": "Sat, 18 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Gunfire reported by vessel in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/gunfire-reported-by-vessel-in-strait-of-hormuz?traffic_source=rss",
+      "description": "A maritime agency reported that a tanker was fired on by gunboats in the Strait of Hormuz.",
+      "date": "Sat, 18 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Turkiye woos investors amid Iran war fallout in Gulf economies",
+      "link": "https://www.aljazeera.com/economy/2026/4/18/turkiye-woos-investors-amid-iran-war-fallout-in-gulf-economies?traffic_source=rss",
+      "description": "Turkish officials are promoting Istanbul as a regional financial hub amid the war&#039;s fallout on the Gulf economies.",
+      "date": "Sat, 18 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US blockade of Iran needs to end before the Strait of Hormuz is fully reope",
+      "link": "https://www.aljazeera.com/video/quotable/2026/4/18/us-blockade-of-iran-needs-to-end-before-the-strait-of-hormuz-is-fully-reope?traffic_source=rss",
+      "description": "Michael Shoebridge says US may be forced to end blockade of Iran to see the full reopening of the Strait of Hormuz.",
+      "date": "Sat, 18 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack",
@@ -291,56 +321,6 @@
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
-    },
-    {
-      "title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
-      "description": "US President Donald Trump says the US will “have to start dropping bombs again” if no US-Iran deal is reached.",
-      "date": "Sat, 18 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What is happening on day 50 of the US-Iran conflict?",
-      "link": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict?traffic_source=rss",
-      "description": "Iran closes Strait of Hormuz again until US lifts its ports blockade, hours after Trump said he was optimistic of deal.",
-      "date": "Sat, 18 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Lebanese man removes Israeli flag from castle in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/lebanese-man-removes-israeli-flag-from-castle-in-southern-lebanon?traffic_source=rss",
-      "description": "A Lebanese man who returned to southern Lebanon removes the Israeli flag from Beaufort Castle (Qalaat al-Shaqif).",
-      "date": "Sat, 18 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump thanks Gulf states for their ‘tremendous’ support",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss",
-      "description": "‘This will be a great and brilliant day for the world’ Donald Trump said as Iran fully opens the Strait of Hormuz.",
-      "date": "Sat, 18 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says US blockade of Iranian ports will ‘remain’ if no deal reached",
-      "link": "https://www.dawn.com/news/1992831/trump-says-us-blockade-of-iranian-ports-will-remain-if-no-deal-reached",
-      "description": "President Donald Trump said on Saturday that he planned to maintain a US blockade of Iranian ports if a peace deal with Tehran is not reached, adding that he may not extend the ceasefire after its expiration. Iran reopened the Strait of Hormuz on Friday in the wake of a ceasefire...",
-      "date": "Sat, 18 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
     },
     {
       "title": "CDF Munir concludes 3-day Iran visit, discusses sustainable regional peace: ISPR",
@@ -393,9 +373,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Strait of Hormuz closed again over U.S. blockade, says Iran military command",
+      "title": "Trump hints at Islamabad trip if Iran deal is finalised",
+      "link": "https://www.dawn.com/news/1992474/trump-hints-at-islamabad-trip-if-iran-deal-is-finalised",
+      "description": "PRIME Minister Shehbaz Sharif and Qatar’s Emir Sheikh Tamim shake hands in Doha; and (right) Field Marshal Asim Munir meets Iranian Parliament Speaker Mohammad Bagher Ghalibaf in Tehran.—Reuters/AFP • Claims Iran has accepted ‘almost everything’ in talks• Nuclear issue remains ke...",
+      "date": "Fri, 17 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Two Indian ships reverse course in Hormuz strait, says vessel tracker",
+      "link": "https://www.thehindu.com/news/national/indian-vessels-make-reverse-course-in-strait-of-hormuz-vessel-tracker-says/article70877488.ece",
+      "description": "Iran said earlier it was reimposing restrictions on the strait in response to a U.S. blockade on Iranian shipping and ports",
+      "date": "Sat, 18 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: Two Indian vessels make reverse course in Strait of Hormuz following reports of gunfire",
       "link": "https://www.thehindu.com/news/international/iran-war-live-updates-us-waiver-for-russian-oil-israel-april-18-2026/article70876378.ece",
-      "description": "Iran’s Deputy Foreign Minister said that the United States “cannot impose their will” and block the strategic Strait of Hormuz, after the military declared the waterway closed again",
+      "description": "Iran swiftly reversed course on reopening the Strait of Hormuz, reimposing restrictions on the critical waterway after the U.S. said the move would not end its blockade",
+      "date": "Sat, 18 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian gunboats fire on tanker in Strait of Hormuz, British military says",
+      "link": "https://www.thehindu.com/news/international/iranian-gunboats-fire-on-tanker-in-strait-of-hormuz-british-military-says/article70877402.ece",
+      "description": "The United Kingdom Maritime Trade Operations center said the tanker and crew were reported safe",
       "date": "Sat, 18 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -431,66 +441,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Iran threatens to again close Strait of Hormuz, if U.S. blockade continues",
-      "link": "https://www.thehindu.com/news/international/iran-threatens-to-again-close-strait-of-hormuz-if-us-blockade-continues/article70876543.ece",
-      "description": "Iran, however, pushed back on Trump’s claim that Tehran had agreed to hand over its enriched uranium, saying its stockpile of enriched uranium was not going anywhere",
-      "date": "Sat, 18 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says U.S. blockade of Iranian ports will ‘remain’ if no deal reached",
-      "link": "https://www.thehindu.com/news/international/trump-says-us-blockade-of-iranian-ports-will-remain-if-no-deal-reached/article70876492.ece",
-      "description": "Mr. Trump told reporters there were \"not going to be tolls\" imposed by Iran on ships passing through the Strait of Hormuz, something that the Islamic republic put forward during previous peace deal plans.",
-      "date": "Sat, 18 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Senior Russian senator says he cannot imagine pro-American forces coming to power in Iran",
-      "link": "https://tass.com/politics/2119075",
-      "description": "If this situation continues, it will be a political defeat for Washington, said the Chairman of the Federation Council's Information Policy Commission Alexey Pushkov",
-      "date": "Sat, 18 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran partially reopens airspace for civilian traffic — air traffic controllers",
-      "link": "https://tass.com/world/2119071",
-      "description": "The eastern part has resumed normal operations, while the western part remains closed",
-      "date": "Sat, 18 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US extends suspension of sanctions, affects over 100 mln barrels of Russian oil — Dmitriev",
-      "link": "https://tass.com/politics/2119045",
-      "description": "The official added that \"more and more countries,\" including the US, are recognizing the systemic importance of Russian oil and gas for the global economy",
-      "date": "Sat, 18 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump does not rule out renewed strikes on Iran if negotiations fail",
-      "link": "https://tass.com/world/2119031",
-      "description": "The US president added that the \"blockade is going to remain,\" commenting on the possibility of extending the ceasefire if no deal is reached",
-      "date": "Sat, 18 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
