@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-18 09:37 UTC",
+  "updated": "2026-04-18 10:31 UTC",
   "total": 49,
   "stories": [
+    {
+      "title": "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
+      "link": "https://www.npr.org/2026/04/18/nx-s1-5761904/lebanon-war-israel-hezbollah-displacement-ceasefire",
+      "description": "They grew up amid olive groves in southern Lebanon. The son of one married the other's daughter. Now they're living temporarily in a vacant building in central Beirut, displaced many times.",
+      "date": "Sat, 18 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Uncertainty over the Strait of Hormuz remains, as ceasefire nears its end",
       "link": "https://www.npr.org/2026/04/18/nx-s1-5789780/iran-middle-east-updates",
@@ -57,16 +67,6 @@
       "link": "https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs",
       "description": "A 10-day ceasefire to pause fighting between Israel and Hezb",
       "date": "Fri, 17 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "UN looks for a short-term solution for moving fertilizer through the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5787688/un-looks-for-a-short-term-solution-for-moving-fertilizer-through-the-strait-of-hormuz",
-      "description": "The U.N. looks for a quick solution to get cargo ships with fertilizer through the Strait of Hormuz, to prevent a global food crisis.",
-      "date": "Thu, 16 Apr 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -173,6 +173,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran closes Hormuz Strait again over US blockade with ships mid-transit",
+      "link": "https://www.france24.com/en/iran-closes-hormuz-strait-again-over-us-blockade-with-ships-mid-transit",
+      "description": "Iran's military declared the Strait of Hormuz closed again on Saturday, its military command said, hours after reopening it and with more than a dozen commercial ships passing through the vital waterway. The toing and froing over the strait cast doubt on US President Donald Trump...",
+      "date": "Sat, 18 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran declares the Strait of Hormuz 'completely open' amid fragile ceasefire",
       "link": "https://www.france24.com/en/iran-declares-the-strait-of-hormuz-completely-open-amid-fragile-ceasefire",
       "description": "Iran says the Strait of Hormuz is open to commercial shipping during the Lebanon ceasefire, triggering a sharp drop in oil prices, while Donald Trump welcomed the move but kept a US naval blockade in place. At the same time, Emmanuel Macron and the UK are leading plans for a neut...",
@@ -223,7 +233,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Iran reimposes ‘strict management' of Hormuz Strait over US blockade",
+      "title": "Middle East war live: Iranian military says closed Strait of Hormuz again over US blockade",
       "link": "https://www.france24.com/en/middle-east/20260418-iran-threatens-to-close-strait-of-hormuz-again-if-us-blockade-continues",
       "description": "Iran's central military command said Saturday that it would resume \"strict management\" of the Strait of Hormuz after accusing the US of breaking commitments by maintaining a naval blockade on Iranian shipping. Tehran warned that restrictions will remain in place until freedom of ...",
       "date": "Sat, 18 Apr 2026",
@@ -243,14 +253,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says Iran peace deal could be reached ‘soon’ after Tehran reopens Hormuz Strait",
-      "link": "https://www.france24.com/en/middle-east/20260417-trump-says-iran-peace-deal-could-be-reached-soon-after-tehran-reopens-hormuz-strait",
-      "description": "Tehran's announcement on Friday that the critical Strait of Hormuz was reopen to commercial shipping for the remainder of the Israel-Lebanon ceasefire was followed by a flurry of social media posts by US President Donald Trump suggesting that a peace deal could be reached \"soon\"....",
-      "date": "Fri, 17 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
+      "link": "https://www.aljazeera.com/news/2026/4/18/pakistan-pm-army-chief-wrap-up-key-trips-in-push-for-more-us-iran-talks?traffic_source=rss",
+      "description": "Asim Munir leaves Tehran while PM Shehbaz Sharif heads home from Turkiye with hopes of another round of US-Iran talks.",
+      "date": "Sat, 18 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran has learned that the Strait of Hormuz is its strongest deterrent",
@@ -275,7 +285,7 @@
     {
       "title": "Iran war: What is happening on day 50 of the US-Iran conflict?",
       "link": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict?traffic_source=rss",
-      "description": "Iran reopens the Strait of Hormuz with conditions and threatens closure if the US blockade of Iranian ports continues.",
+      "description": "Iran closes Strait of Hormuz again until US lifts its ports blockade, hours after Trump said he was optimistic of deal.",
       "date": "Sat, 18 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -316,16 +326,6 @@
       "title": "Iran rejects Trump claim on deal to surrender nuclear material stockpiles",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
       "description": "Iran has rejected suggestions by Donald Trump that it has agreed to hand over its stockpile of enriched uranium.",
-      "date": "Fri, 17 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Lebanon president says country is no longer a pawn amid Israel ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
-      "description": "President Joseph Aoun promised to work to preserve Lebanon&#039;s sovereignty and freedom.",
       "date": "Fri, 17 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
