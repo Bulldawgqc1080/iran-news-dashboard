@@ -1,11 +1,21 @@
 {
-  "updated": "2026-04-19 20:25 UTC",
-  "total": 44,
+  "updated": "2026-04-19 21:25 UTC",
+  "total": 41,
   "stories": [
     {
-      "title": "U.S. negotiators prepare for more peace talks as Trump repeats threats to Iran",
+      "title": "U.S. says it seized an Iranian cargo ship, ceasefire expires soon",
+      "link": "https://www.npr.org/2026/04/19/nx-s1-5790487/u-s-says-it-seized-an-iranian-cargo-ship-ceasefire-expires-soon",
+      "description": "The two-week ceasefire between the US and Iran is set to expire Wednesday. And the two sides seem far from a resolution. President Trump says the US has taken custody of an Iranian vessel.",
+      "date": "Sun, 19 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "U.S. seizes Iranian cargo ship in Strait of Hormuz, Trump says",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
-      "description": "President Trump said the U.S. is returning to Pakistan for a second round of talks with Iran, led by Vice President Vance. But Iran's state media claims their government will not be taking part.",
+      "description": "The U.S. has taken custody of an Iranian-flagged cargo ship in the Strait of Hormuz after firing on its engine room, President Trump said in a post on social media.",
       "date": "Sun, 19 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -123,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump says US delegation will travel to Islamabad on Monday, Iran declines talks",
+      "link": "https://www.france24.com/en/middle-east/20260419-trump-says-us-delegation-will-travel-to-islamabad-on-monday-iran-declines-talks",
+      "description": "Iran is not currently planning to attend the next round of talks with the US, which has announced that it would send a team of negotiators to Pakistan on Monday, Iranian state television reported on Sunday.",
+      "date": "Sun, 19 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump sending US delegation for Iran talks in Pakistan",
       "link": "https://www.france24.com/en/trump-sending-us-delegation-for-iran-talks-in-pakistan",
       "description": "US President Donald Trump said US negotiators will head to Pakistan on Monday for another round of talks with Iran, raising hopes of extending a fragile ceasefire set to expire by Wednesday even as Washington and Tehran remain in a standoff over the Strait of Hormuz. There ⁠is ​c...",
@@ -193,14 +213,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East: Hezbollah blamed after French peacekeeper killed in Lebanon",
-      "link": "https://www.france24.com/en/middle-east-hezbollah-blamed-after-french-peacekeeper-killed-in-lebanon",
-      "description": "A French peacekeeper serving with United Nations Interim Force in Lebanon was killed and three others wounded in an ambush in southern Lebanon, with Emmanuel Macron blaming Hezbollah, which denies responsibility.",
+      "title": "Protesters defy Berlin rain to call for end to global wars",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/protesters-defy-berlin-rain-to-call-for-end-to-global-wars?traffic_source=rss",
+      "description": "Hundreds protested in Berlin against the US-Israeli aggression on Iran, and Israeli attacks on Gaza and Lebanon.",
       "date": "Sun, 19 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade",
@@ -266,16 +286,6 @@
       "title": "What to know about US-Iran standoff over the Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/2026/4/19/what-to-know-about-us-iran-standoff-over-the-strait-of-hormuz?traffic_source=rss",
       "description": "Trump accuses Iran of violating the ceasefire as he announces plans to send US negotiators to Pakistan for more talks.",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Displaced Lebanese woman returns to find home destroyed after ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss",
-      "description": "A displaced woman returned to southern Lebanon after a ceasefire to find her house reduced to rubble.",
       "date": "Sun, 19 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -401,46 +411,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Iran refuses from engaging in second round of talks with US — agency",
-      "link": "https://tass.com/world/2119367",
-      "description": "The Tasnim agency said that Tehran will make a decision on whether to send its negotiating team to Pakistan only after Washington lifts its naval blockade or Iran",
-      "date": "Sun, 19 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "International flights to resume at Iran’s Mashhad airport from April 20 — TV",
-      "link": "https://tass.com/economy/2119359",
-      "description": "According to earlier reports, air service has partially been resumed at six Iranian airports, including in Tehran",
-      "date": "Sun, 19 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran’s arsenals of missile launchers, drones replenished during ceasefire — IRGC commander",
-      "link": "https://tass.com/world/2119355",
-      "description": "Sayyid Majid Mousavi said that \"the enemy is unable to create such conditions for themselves, and they have to deliver ammunition from the other side of the world\"",
-      "date": "Sun, 19 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian foreign ministry slams US naval blockade as war crime",
-      "link": "https://tass.com/world/2119343",
-      "description": "It violates Article 2(4) of the UN Charter, Esmail Baghaei said",
-      "date": "Sun, 19 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
