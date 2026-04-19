@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19 21:25 UTC",
+  "updated": "2026-04-19 22:23 UTC",
   "total": 41,
   "stories": [
     {
@@ -13,7 +13,7 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. seizes Iranian cargo ship in Strait of Hormuz, Trump says",
+      "title": "U.S. seizes Iranian cargo ship in Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
       "description": "The U.S. has taken custody of an Iranian-flagged cargo ship in the Strait of Hormuz after firing on its engine room, President Trump said in a post on social media.",
       "date": "Sun, 19 Apr 2026",
@@ -31,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+      "description": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
+      "date": "Sun, 19 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "French peacekeeper killed in southern Lebanon",
@@ -123,16 +133,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
-      "date": "Tue, 14 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Trump says US delegation will travel to Islamabad on Monday, Iran declines talks",
       "link": "https://www.france24.com/en/middle-east/20260419-trump-says-us-delegation-will-travel-to-islamabad-on-monday-iran-declines-talks",
       "description": "Iran is not currently planning to attend the next round of talks with the US, which has announced that it would send a team of negotiators to Pakistan on Monday, Iranian state television reported on Sunday.",
@@ -213,6 +213,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss",
+      "description": "US Central Command has published a video said to show a guided-missile destroyer firing at an Iranian-flagged ship.",
+      "date": "Sun, 19 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss",
+      "description": "Argentina’s president reaffirmed alignment with the US and Israel during a visit to Jerusalem, backing their war on Iran",
+      "date": "Sun, 19 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/schools-shops-shut-in-northern-israel-to-protest-the-lebanon-ceasefire?traffic_source=rss",
+      "description": "Shops and schools shut in northern Israel as residents protested a 10-day ceasefire with Lebanon.",
+      "date": "Sun, 19 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Protesters defy Berlin rain to call for end to global wars",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/protesters-defy-berlin-rain-to-call-for-end-to-global-wars?traffic_source=rss",
       "description": "Hundreds protested in Berlin against the US-Israeli aggression on Iran, and Israeli attacks on Gaza and Lebanon.",
@@ -223,9 +253,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade",
+      "title": "Trump says US seized Iranian ship trying to get past blockade near Hormuz",
       "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
-      "description": "US president says his country&#039;s ​forces ⁠stopped cargo ⁠ship Touska by &#039;blowing a hole&#039; in ‌its engine room.",
+      "description": "Iran vows retaliation, accuses US of violating ceasefire after attack on cargo ship Touska.",
       "date": "Sun, 19 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,36 +293,6 @@
       "bias": "Medium"
     },
     {
-      "title": "What would it take for the Iran-US talks to succeed?",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/19/what-would-it-take-for-the-iran-us-talks-to-succeed?traffic_source=rss",
-      "description": "Political scientist Mohsen Milani and former White House official Elisa Ewers discuss the options in Iran-US talks.",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Met Police investigate potential Iran links to London arson attacks",
-      "link": "https://www.aljazeera.com/news/2026/4/19/met-police-investigate-potential-iran-links-to-london-arson-attacks?traffic_source=rss",
-      "description": "The latest attack at a Jewish site in the UK capital occurs at Kenton United Synagogue and causes minor damage.",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What to know about US-Iran standoff over the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/4/19/what-to-know-about-us-iran-standoff-over-the-strait-of-hormuz?traffic_source=rss",
-      "description": "Trump accuses Iran of violating the ceasefire as he announces plans to send US negotiators to Pakistan for more talks.",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Trump says US representatives heading to Islamabad, will be ‘there tomorrow evening for negotiations’ with Iran",
       "link": "https://www.dawn.com/news/1993224/trump-says-us-representatives-heading-to-islamabad-will-be-there-tomorrow-evening-for-negotiations-with-iran",
       "description": "President Donald Trump announced on Sunday that representatives from Washington were heading to Islamabad and they would be “there tomorrow evening for negotiations” with Iran. The US president made the announcement in a Truth Social post, where he also insisted that Washington w...",
@@ -303,8 +303,8 @@
       "bias": "Low-Med"
     },
     {
-      "title": "In meeting with Sri Lankan president, India officials push for regional energy hub",
-      "link": "https://www.dawn.com/news/1993241/in-meeting-with-sri-lankan-president-india-officials-push-for-regional-energy-hub",
+      "title": "India officials push for regional energy hub in Sri Lanka",
+      "link": "https://www.dawn.com/news/1993241/india-officials-push-for-regional-energy-hub-in-sri-lanka",
       "description": "Indian officials called for the swift implementation of a proposed regional energy hub in Sri Lanka at the start of bilateral talks in Colombo on Sunday. The planned oil hub in the northeastern port of Trincomalee featured in a meeting with Sri Lankan President Anura Kumara Dissa...",
       "date": "Sun, 19 Apr 2026",
       "source": "Dawn",
