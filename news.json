@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-19 15:28 UTC",
+  "updated": "2026-04-19 16:27 UTC",
   "total": 44,
   "stories": [
     {
       "title": "U.S. negotiators prepare for more peace talks as Trump repeats threats to Iran",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
-      "description": "After Iran again closed the Strait of Hormuz, President Trump said the U.S. is returning to Pakistan for negotiations, but threatened to strike Iranian infrastructure if a deal isn't reached soon.",
+      "description": "After Iran again closed the Strait of Hormuz, President Trump said the U.S. is returning to Pakistan for negotiations, with the American delegation led by Vice President Vance.",
       "date": "Sun, 19 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -123,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump sending US delegation for Iran talks in Pakistan",
+      "link": "https://www.france24.com/en/trump-sending-us-delegation-for-iran-talks-in-pakistan",
+      "description": "US President Donald Trump said US negotiators will head to Pakistan on Monday for another round of talks with Iran, raising hopes of extending a fragile ceasefire set to expire by Wednesday even as Washington and Tehran remain in a standoff over the Strait of Hormuz. There ⁠is ​c...",
+      "date": "Sun, 19 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "'Ceasefire in the Middle East, especially in Lebanon, are meant to be broken', analyst says",
       "link": "https://www.france24.com/en/ceasefire-in-the-middle-east-especially-in-lebanon-are-meant-to-be-broken-analyst-says",
       "description": "In the midst of a 10-day ceasefire between Israel and Lebanon, new rounds of talks are due to take place in Washington to determine whether the truce can be extended. However, for Aaron David Miller, Senior Fellow at the Carnegie Endowment for International Peace, ceasefires in t...",
@@ -193,16 +203,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "What is UNIFIL? the UN mission in southern Lebanon explained",
-      "link": "https://www.france24.com/en/what-is-unifil-the-un-mission-in-southern-lebanon-explained",
-      "description": "The United Nations Interim Force in Lebanon (UNIFIL) has patrolled southern Lebanon along the border with Israel since 1978, acting as a buffer force following Israel’s invasion of the region. Expanded after the 2006 war between Israel and Hezbollah, the mission now monitors the ...",
-      "date": "Sun, 19 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "What to know about US-Iran standoff over the Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/2026/4/19/what-to-know-about-us-iran-standoff-over-the-strait-of-hormuz?traffic_source=rss",
       "description": "Trump accuses Iran of violating the ceasefire as he announces plans to send US negotiators to Pakistan for more talks.",
@@ -225,7 +225,7 @@
     {
       "title": "Trump says US negotiators to head to Pakistan for Iran talks",
       "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss",
-      "description": "US president announces talks in Islamabad and accuses Iran of violating truce, warning Tehran of severe repercussions.",
+      "description": "US president announces talks in Islamabad and accuses Iran of violating ceasefire, warning Tehran of repercussions.",
       "date": "Sun, 19 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,8 +283,8 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says US representatives heading to Islamabad, will be ‘there tomorrow evening for negotiations’",
-      "link": "https://www.dawn.com/news/1993224/trump-says-us-representatives-heading-to-islamabad-will-be-there-tomorrow-evening-for-negotiations",
+      "title": "Trump says US representatives heading to Islamabad, will be ‘there tomorrow evening for negotiations’ with Iran",
+      "link": "https://www.dawn.com/news/1993224/trump-says-us-representatives-heading-to-islamabad-will-be-there-tomorrow-evening-for-negotiations-with-iran",
       "description": "Islamabad appeared all set on Sunday to host a second round of talks between the US and Iran, with President Donald Trump announcing that representatives from Washington were heading to Islamabad and they would be “there tomorrow evening for negotiations”. The US president made t...",
       "date": "Sun, 19 Apr 2026",
       "source": "Dawn",
@@ -343,9 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Donald Trump says U.S. officials will be in Pakistan ‘for negotiations’",
-      "link": "https://www.thehindu.com/news/international/donald-trump-says-us-officials-will-be-in-pakistan-for-negotiations/article70880860.ece",
-      "description": "The U.S. President reiterated that “We’re offering a very fair and reasonable DEAL, and I hope they take it because, if they don’t, the United States is going to knock out every single Power Plant, and every single Bridge, in Iran.”",
+      "title": "U.K. Police probe Iranian regime proxy link to antisemitic arson attacks in London",
+      "link": "https://www.thehindu.com/news/international/uk-police-probe-iranian-regime-proxy-link-to-antisemitic-arson-attacks-in-london/article70881325.ece",
+      "description": "A group named Harakat Ashab al-Yamin al-Islamia (HAYI) is said to have claimed responsibility for the attacks on the Telegram app",
       "date": "Sun, 19 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -353,9 +353,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Donald Trump says U.S. officials will be in Pakistan ‘for negotiations’",
+      "title": "Iran-Israel war LIVE: Vance will lead U.S. team to Iran talks in Pakistan, says White House",
       "link": "https://www.thehindu.com/news/international/us-israel-war-on-iran-live-updates-strait-of-hormuz-blockade-april-19-2026/article70879933.ece",
-      "description": "Security in Pakistan's capital Islamabad was stepped up visibly ahead of peace talks between the United States and Iran",
+      "description": "Donald Trump ​said ⁠in a Truth Social ‌post that ‌representatives are ⁠going to ⁠Islamabad, Pakistan, “tomorrow night” for ​Iran negotiations.",
+      "date": "Sun, 19 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Donald Trump says U.S. officials will be in Pakistan ‘for negotiations’",
+      "link": "https://www.thehindu.com/news/international/donald-trump-says-us-officials-will-be-in-pakistan-for-negotiations/article70880860.ece",
+      "description": "The U.S. President reiterated that “We’re offering a very fair and reasonable DEAL, and I hope they take it because, if they don’t, the United States is going to knock out every single Power Plant, and every single Bridge, in Iran.”",
       "date": "Sun, 19 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -393,14 +403,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says final deal still far off as Strait of Hormuz remains closed",
-      "link": "https://www.thehindu.com/news/international/iran-says-final-deal-still-far-off-as-strait-of-hormuz-remains-closed/article70880527.ece",
-      "description": "A two-week ceasefire is set to end on Wednesday (April 22, 2026) unless it is renewed",
+      "title": "US diplomat doesn’t rule out Washington’s extension of ceasefire with Iran",
+      "link": "https://tass.com/world/2119335",
+      "description": "According to US Permanent Representative to the United Nations Mike Waltz next round of the US-Iran talks will kick off within 24 hours",
       "date": "Sun, 19 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US diplomat says attacks on Iranian power plants will not be war crime",
@@ -426,16 +436,6 @@
       "title": "Trump threatens to destroy all power plants, bridges in Iran if it rejects deal",
       "link": "https://tass.com/world/2119321",
       "description": "The US offers \"a very fair and reasonable deal\", the American leader said",
-      "date": "Sun, 19 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Deal with Iran could be expected within two weeks — US energy secretary",
-      "link": "https://tass.com/world/2119317",
-      "description": "Asked if Vice President JD Vance is going to travel to Islamabad on Monday for a new round of talks with Iran, Chris Wright said that \"the vice president's been leading the negotiations from the start\"",
       "date": "Sun, 19 Apr 2026",
       "source": "TASS",
       "region": "ru",
