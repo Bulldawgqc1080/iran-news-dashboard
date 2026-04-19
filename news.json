@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-19 22:23 UTC",
-  "total": 41,
+  "updated": "2026-04-19 23:26 UTC",
+  "total": 45,
   "stories": [
     {
       "title": "U.S. says it seized an Iranian cargo ship, ceasefire expires soon",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: Iran vows response after US destroyer fires on cargo ship",
+      "link": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-vows-response-after-us-destroyer-fires-on-cargo-ship",
+      "description": "Iran vowed retaliation after a US destroyer fired on an Iranian-flagged cargo ship in the Gulf of Oman on Sunday, as it was attempting to evade a US naval blockade. Tehran condemned the incident as “armed piracy” and warned its forces would respond soon. Follow our liveblog for t...",
+      "date": "Sun, 19 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump says US delegation will travel to Islamabad on Monday, Iran declines talks",
       "link": "https://www.france24.com/en/middle-east/20260419-trump-says-us-delegation-will-travel-to-islamabad-on-monday-iran-declines-talks",
       "description": "Iran is not currently planning to attend the next round of talks with the US, which has announced that it would send a team of negotiators to Pakistan on Monday, Iranian state television reported on Sunday.",
@@ -196,16 +206,6 @@
       "title": "A petition called 'Lebanon will not be the next Gaza' calls on French leaders to take action",
       "link": "https://www.france24.com/en/video/20260419-a-petition-called-lebanon-will-not-be-the-next-gaza-calls-on-french-leaders-to-take-action-1",
       "description": "As France's President Emmanuel Macron is seen as a key guarantor of the ceasefire between Israel and Lebanon, civil society actors have launched a petition titled 'Lebanon will not be the next Gaza', calling on him to act. The initiative has been signed by numerous French public ...",
-      "date": "Sun, 19 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran: Prolonged conflict reshapes view of the regime, analyst says",
-      "link": "https://www.france24.com/en/iran-prolonged-conflict-reshapes-view-of-the-regime-analyst-says",
-      "description": "FRANCE 24’s guest Mehran Kamrave, Director of the Iranian Studies Unit at the Arab Center for Research and Policy Studies, analyses Iran’s strategy towards the United States, highlighting three key levers the regime can rely on: sanctions, the nuclear programme, and control over ...",
       "date": "Sun, 19 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -353,9 +353,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Tehran undecided on joining new talks with U.S. in Pakistan",
+      "title": "Iran-Israel war LIVE: No plan for Tehran to attend new talks with U.S. in Pakistan, says Iranian media",
       "link": "https://www.thehindu.com/news/international/us-israel-war-on-iran-live-updates-strait-of-hormuz-blockade-april-19-2026/article70879933.ece",
-      "description": "Donald Trump ​said ⁠in a Truth Social ‌post that ‌representatives are ⁠going to ⁠Islamabad, Pakistan, “tomorrow night” for ​Iran negotiations.",
+      "description": "Donald Trump said that a U.S. destroyer ship fired on and seized an Iranian-flagged cargo ship in the Gulf of Oman that tried to evade a U.S. naval blockade",
+      "date": "Sun, 19 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran not planning to attend talks with U.S. in Pakistan",
+      "link": "https://www.thehindu.com/news/international/tehran-has-not-decided-whether-to-join-new-talks-with-us-in-pakistan-iranian-state-media/article70882008.ece",
+      "description": "Donald Trump announced that a U.S. destroyer fired at a massive Iranian-flagged cargo ship after it tried to get past the U.S. naval blockade",
       "date": "Sun, 19 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -366,16 +376,6 @@
       "title": "India-flagged vessels start sailing out of Persian Gulf",
       "link": "https://www.thehindu.com/news/international/india-flagged-vessels-start-sailing-out-of-hormuz/article70875374.ece",
       "description": "Most of these ships are critical to India’s energy needs and are carrying crude oil",
-      "date": "Sun, 19 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Tehran has not decided whether to join new talks with U.S. in Pakistan: Iranian state media",
-      "link": "https://www.thehindu.com/news/international/tehran-has-not-decided-whether-to-join-new-talks-with-us-in-pakistan-iranian-state-media/article70882008.ece",
-      "description": "Fars cited one source as saying the lifting of a U.S. blockade on Iranian ports was a precondition for talks",
       "date": "Sun, 19 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -411,6 +411,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US not serious about conflict settlement by posing threats to Iranian vessels — Araghchi",
+      "link": "https://tass.com/world/2119377",
+      "description": "The Iranian top diplomat added he believed that \"the contradictory stance and violations of the ceasefire regime on behalf of the United States speaks for America's ill intentions\"",
+      "date": "Sun, 19 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranian president, Pakistani PM discuss situation in Middle East",
+      "link": "https://tass.com/world/2119373",
+      "description": "Masoud Pezeshkian stressed that Pakistan, with the support from its partners, remains committed to \"its role as an honest and sincere facilitator of lasting peace and regional stability\"",
+      "date": "Sun, 19 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran refuses from engaging in second round of talks with US — agency",
+      "link": "https://tass.com/world/2119367",
+      "description": "The Tasnim agency said that Tehran will make a decision on whether to send its negotiating team to Pakistan only after Washington lifts its naval blockade or Iran",
+      "date": "Sun, 19 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "International flights to resume at Iran’s Mashhad airport from April 20 — TV",
+      "link": "https://tass.com/economy/2119359",
+      "description": "According to earlier reports, air service has partially been resumed at six Iranian airports, including in Tehran",
+      "date": "Sun, 19 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
