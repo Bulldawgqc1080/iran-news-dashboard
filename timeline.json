@@ -1,37 +1,27 @@
 {
-  "updated": "2026-04-18 01:18 UTC",
-  "total": 10,
+  "updated": "2026-04-18 23:24 UTC",
+  "total": 9,
   "events": [
     {
       "date": "2026-04-18",
       "dateDisplay": "Apr 18, 2026",
-      "title": "Trump thanks Gulf states for their \u2018tremendous\u2019 support",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss",
+      "title": "French peacekeeper killed in southern Lebanon",
+      "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera"
+        "Al Jazeera",
+        "BBC",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-04-17",
       "dateDisplay": "Apr 17, 2026",
-      "title": "Macron, Meloni, Starmer and Merz welcome Hormuz Strait reopening",
-      "link": "https://www.france24.com/en/macron-meloni-starmer-and-merz-welcome-hormuz-strait-reopening",
+      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+      "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24",
-        "Al Jazeera"
-      ],
-      "sourceCount": 2,
-      "type": "govt"
-    },
-    {
-      "date": "2026-04-16",
-      "dateDisplay": "Apr 16, 2026",
-      "title": "UN looks for a short-term solution for moving fertilizer through the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5787688/un-looks-for-a-short-term-solution-for-moving-fertilizer-through-the-strait-of-hormuz",
-      "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
