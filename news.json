@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 01:27 UTC",
-  "total": 45,
+  "updated": "2026-04-20 04:50 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "U.S. says it seized an Iranian cargo ship, ceasefire expires soon",
@@ -31,16 +31,6 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
-    },
-    {
-      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
-      "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
-      "description": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
-      "date": "Sun, 19 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
     },
     {
       "title": "French peacekeeper killed in southern Lebanon",
@@ -133,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
+      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+      "description": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
+      "date": "Tue, 14 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East war live: Iran vows response after US destroyer fires on cargo ship",
       "link": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-vows-response-after-us-destroyer-fires-on-cargo-ship",
       "description": "Iran vowed retaliation after a US destroyer fired on an Iranian-flagged cargo ship in the Gulf of Oman on Sunday, as it was attempting to evade a US naval blockade. Tehran condemned the incident as “armed piracy” and warned its forces would respond soon. Follow our liveblog for t...",
@@ -213,6 +213,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Outrage after Israeli soldier desecrates statue of Jesus Christ in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/outrage-after-israeli-soldier-desecrates-statue-of-jesus-christ-in-lebanon?traffic_source=rss",
+      "description": "A photo of an Israeli soldier smashing a statue of Jesus Christ in southern Lebanon has sparked widespread outrage.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Oil prices surge amid mixed signals on US-Iran peace talks",
+      "link": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss",
+      "description": "Brent crude rises more than 7 percent as Washington and Tehran offer conflicting accounts on ceasefire negotiations.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
       "description": "Attack comes hours after US President Donald Trump announced he is sending his team to Islamabad for possible talks.",
@@ -273,30 +293,30 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says US seized Iranian ship trying to get past blockade near Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
-      "description": "Iran vows retaliation, accuses US of violating ceasefire after attack on cargo ship Touska.",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "Assault on vessel overshadows preparation for round two of US-Iran dialogue",
+      "link": "https://www.dawn.com/news/1993405/assault-on-vessel-overshadows-preparation-for-round-two-of-us-iran-dialogue",
+      "description": "• Both sides offer differing accounts of incident in sea of Oman• Tehran ‘rejects’ participation over ‘Washington’s excessive demands, unrealistic expectations’• American delegation expected in Islamabad this evening; advance teams already in town• Trump’s remarks sow confusion o...",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Did the US misjudge Iran? A military strategist answers",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/19/did-the-us-misjudge-iran-a-military-strategist-answers-2?traffic_source=rss",
-      "description": "Strategist Bryan Clark examines shifting war aims, escalation traps, and whether Iran is now more dangerous to the US.",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "Israel reoccupies evacuated West Bank settlement",
+      "link": "https://www.dawn.com/news/1993382/israel-reoccupies-evacuated-west-bank-settlement",
+      "description": "SA NUR/MADRID: Israeli ministers on Sunday officially reopened Sa-Nur, a settlement in the occupied West Bank that was evacuated 20 years ago, marking the occasion with defiant declarations against Palestinian statehood and calls to resettle Gaza. Several cabinet members and lawm...",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Trump says US representatives heading to Islamabad, will be ‘there tomorrow evening for negotiations’ with Iran",
-      "link": "https://www.dawn.com/news/1993224/trump-says-us-representatives-heading-to-islamabad-will-be-there-tomorrow-evening-for-negotiations-with-iran",
-      "description": "President Donald Trump announced on Sunday that representatives from Washington were heading to Islamabad and they would be “there tomorrow evening for negotiations” with Iran. The US president made the announcement in a Truth Social post, where he also insisted that Washington w...",
-      "date": "Sun, 19 Apr 2026",
+      "title": "Lebanon restores lifelines as Israel extends demolition",
+      "link": "https://www.dawn.com/news/1993375/lebanon-restores-lifelines-as-israel-extends-demolition",
+      "description": "• Beirut reopens vital Qasmiyeh bridge, road linking the south after strikes• Israel pushes deeper, mapping buffer zone inside Lebanese territory BEIRUT: Lebanon’s military announced on Sunday it had reopened a key road and bridge destroyed by Israeli strikes in the country’s sou...",
+      "date": "Mon, 20 Apr 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -313,40 +333,20 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli military publishes map of new deployment line in Lebanon, bringing dozens of villages under its control",
-      "link": "https://www.dawn.com/news/1993257/israeli-military-publishes-map-of-new-deployment-line-in-lebanon-bringing-dozens-of-villages-under-its-control",
-      "description": "The Israeli military published for the first time a map of its new deployment line inside Lebanon on Sunday, bringing dozens of mostly abandoned Lebanese villages under its control, ​days after a ceasefire with Lebanon took effect. There was no immediate comment from Lebanese off...",
-      "date": "Sun, 19 Apr 2026",
+      "title": "UK PM to face grilling from MPs today over Mandelson scandal",
+      "link": "https://www.dawn.com/news/1993370/uk-pm-to-face-grilling-from-mps-today-over-mandelson-scandal",
+      "description": "• Starmer faces fresh calls to quit after it was revealed ex-envoy to US failed vetting process in late 2024• Ministers support embattled premier, say he was unaware of clearance status at the time• Opposition leaders have called for premier to step down LONDON: Embattled UK Prim...",
+      "date": "Mon, 20 Apr 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Security beefed up as Islamabad prepares for foreign delegations’ arrival amid anticipation of US-Iran talks",
-      "link": "https://www.dawn.com/news/1993212/security-beefed-up-as-islamabad-prepares-for-foreign-delegations-arrival-amid-anticipation-of-us-iran-talks",
-      "description": "Islamabad’s Red Zone was closed for traffic as the capital braces to welcome foreign delegations, police said on Sunday, with alternate traffic plans issued to facilitate citizens. “Due to the arrival of foreign delegations in Islamabad, Red Zone and Extended Red Zone will remain...",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "17 immigrants have died in US custody this year: ICE",
-      "link": "https://www.dawn.com/news/1993088/17-immigrants-have-died-in-us-custody-this-year-ice",
-      "description": "WASHINGTON: At least 17 immigrants have died in US Immigration and Customs Enforcement custody from January 2026 through early April, according to ICE. That follows 31 deaths last year, a two-decade high. Aled Damien Carbonell-Betan­court of Cuba died on April 12 at a federal det...",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "France blames Hezbollah for soldier’s death in Lebanon",
-      "link": "https://www.dawn.com/news/1993066/france-blames-hezbollah-for-soldiers-death-in-lebanon",
-      "description": "• Hezbollah denies allegation, calls for ‘caution in making judgements’• Macron urges Beirut to ‘guarantee security’ of UNIFIL peacekeepers PARIS / BEIRUT: A French soldier was killed and three others wounded in an attack on Saturday on UN peacekeepers in Lebanon that appeared to...",
-      "date": "Sun, 19 Apr 2026",
+      "title": "Kuwait detains journalist amid crackdown on war coverage",
+      "link": "https://www.dawn.com/news/1993374/kuwait-detains-journalist-amid-crackdown-on-war-coverage",
+      "description": "• Ahmed Shihab-Eldin charged with spreading false information, harming security• CPJ, UN rapporteur call for his immediate release LONDON: Kuwaiti authorities have detained US-Kuwaiti journalist Ahmed Shihab-Eldin, who has not been seen for six weeks, a media watchdog said, durin...",
+      "date": "Mon, 20 Apr 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -356,6 +356,16 @@
       "title": "Iran-Israel war live: Iran accuses U.S. of ceasefire breach, vows to 'soon respond' after U.S. destroyer hits cargo ship",
       "link": "https://www.thehindu.com/news/international/us-israel-war-on-iran-live-updates-strait-of-hormuz-blockade-april-20-2026/article70882986.ece",
       "description": "Iran is not currently planning to attend talks with the United States on Monday",
+      "date": "Mon, 20 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. Navy seizes Iranian-flagged ship near Strait of Hormuz, Tehran vows swift response",
+      "link": "https://www.thehindu.com/news/international/us-navy-seizes-iranian-flagged-ship-near-strait-of-hormuz-tehran-vows-swift-response/article70882994.ece",
+      "description": "It was the first interception since the U.S. blockade of Iranian ports began last week",
       "date": "Mon, 20 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -401,56 +411,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Zelenskyy slams oil sanctions relief for Russia",
-      "link": "https://www.thehindu.com/news/international/zelenskyy-slams-oil-sanctions-relief-for-russia/article70881787.ece",
-      "description": "That is $10 billion -- a resource that is directly converted into new strikes against Ukraine, says Ukrainian President Volodymyr Zelenskyy",
-      "date": "Sun, 19 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran’s military deliver drone strikes on US warships in response to its vessel’s seizure",
-      "link": "https://tass.com/world/2119379",
-      "description": "According to the news agency, Iran's military intended to continue responding to \"piracy\" policy and attacks on behalf of the US side",
-      "date": "Sun, 19 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US not serious about conflict settlement by posing threats to Iranian vessels — Araghchi",
-      "link": "https://tass.com/world/2119377",
-      "description": "The Iranian top diplomat added he believed that \"the contradictory stance and violations of the ceasefire regime on behalf of the United States speaks for America's ill intentions\"",
-      "date": "Sun, 19 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian president, Pakistani PM discuss situation in Middle East",
-      "link": "https://tass.com/world/2119373",
-      "description": "Masoud Pezeshkian stressed that Pakistan, with the support from its partners, remains committed to \"its role as an honest and sincere facilitator of lasting peace and regional stability\"",
-      "date": "Sun, 19 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran refuses from engaging in second round of talks with US — agency",
-      "link": "https://tass.com/world/2119367",
-      "description": "The Tasnim agency said that Tehran will make a decision on whether to send its negotiating team to Pakistan only after Washington lifts its naval blockade or Iran",
-      "date": "Sun, 19 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
