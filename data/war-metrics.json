@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T23:46:44.472Z",
+  "lastUpdated": "2026-04-20T17:03:52Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -14,8 +14,8 @@
   "casualties": {
     "us": {
       "killed": {
-        "value": 13,
-        "asOf": "2026-04-18T23:46:44.472Z",
+        "value": 6,
+        "asOf": "2026-03-13T14:24:56Z",
         "sourceId": "dod-centcom-rss",
         "confidence": "high"
       },
@@ -80,10 +80,10 @@
     "gasMethod": "daily_snapshot"
   },
   "quality": {
-    "generatedAt": "2026-04-18T23:46:44.472Z",
+    "generatedAt": "2026-04-20T17:03:52Z",
     "staleThresholdHours": 48,
     "casualties": {
-      "usStale": false,
+      "usStale": true,
       "iranMilitaryStale": true,
       "iranCiviliansStale": true
     },
