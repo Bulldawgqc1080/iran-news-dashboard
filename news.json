@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-20 04:50 UTC",
+  "updated": "2026-04-20 07:10 UTC",
   "total": 41,
   "stories": [
+    {
+      "title": "U.K police investigating if attacks in London are the work of Iranian proxies",
+      "link": "https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies",
+      "description": "U.K. police said Sunday they are investigating whether a string of arson attacks on Jewish sites in London are the work of Iranian proxies, the latest of which caused minor damage on Saturday night.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. says it seized an Iranian cargo ship, ceasefire expires soon",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5790487/u-s-says-it-seized-an-iranian-cargo-ship-ceasefire-expires-soon",
@@ -23,14 +33,14 @@
       "bias": "Low"
     },
     {
-      "title": "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
-      "link": "https://www.npr.org/2026/04/18/nx-s1-5761904/lebanon-war-israel-hezbollah-displacement-ceasefire",
-      "description": "They grew up amid olive groves in southern Lebanon. The son of one married the other's daughter. Now they're living temporarily in a vacant building in central Beirut, displaced many times.",
-      "date": "Sat, 18 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+      "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+      "description": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+      "date": "Sun, 19 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "French peacekeeper killed in southern Lebanon",
@@ -123,19 +133,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
-      "date": "Tue, 14 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East war live: Iran vows response after US destroyer fires on cargo ship",
+      "title": "Middle East war live: Israeli army urges south Lebanon residents to avoid restricted areas",
       "link": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-vows-response-after-us-destroyer-fires-on-cargo-ship",
-      "description": "Iran vowed retaliation after a US destroyer fired on an Iranian-flagged cargo ship in the Gulf of Oman on Sunday, as it was attempting to evade a US naval blockade. Tehran condemned the incident as “armed piracy” and warned its forces would respond soon. Follow our liveblog for t...",
+      "description": "⁠The Israeli military ​warned ​residents in southern Lebanon Monday not to ​move ‌south ⁠of a specified line ‌of villages or approach ⁠areas near the Litani River, saying ​its forces remain ‌deployed in the area during ‌a ceasefire due to ​what it described as continued Hezbollah...",
       "date": "Sun, 19 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -213,6 +213,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Pakistan ready for multi-day US-Iran talks, but Tehran unsure about joining",
+      "link": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss",
+      "description": "Iranian officials are yet to commit to a second round of talks with the US, as ceasefire deadline approaches.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US military releases video of marines seizing Iranian ship",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/us-military-releases-video-of-marines-seizing-iranian-ship?traffic_source=rss",
+      "description": "Video from the US military show an operation by its forces to seize an Iranian-flagged ship near the Strait of Hormuz.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "To stay or to go? No good options for Lebanon’s displaced",
+      "link": "https://www.aljazeera.com/features/2026/4/20/to-stay-or-to-go-no-good-options-for-lebanon-displaced?traffic_source=rss",
+      "description": "Residents of southern Lebanon face a stark choice: stay home and risk being killed, or flee and risk deepening poverty.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Outrage after Israeli soldier desecrates statue of Jesus Christ in Lebanon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/outrage-after-israeli-soldier-desecrates-statue-of-jesus-christ-in-lebanon?traffic_source=rss",
       "description": "A photo of an Israeli soldier smashing a statue of Jesus Christ in southern Lebanon has sparked widespread outrage.",
@@ -233,7 +263,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
+      "title": "Iran war live: Tehran may skip talks as tensions rise over US ship seizure",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
       "description": "Attack comes hours after US President Donald Trump announced he is sending his team to Islamabad for possible talks.",
       "date": "Mon, 20 Apr 2026",
@@ -256,36 +286,6 @@
       "title": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss",
       "description": "US Central Command has published a video said to show a guided-missile destroyer firing at an Iranian-flagged ship.",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss",
-      "description": "Argentina’s president reaffirmed alignment with the US and Israel during a visit to Jerusalem, backing their war on Iran",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/schools-shops-shut-in-northern-israel-to-protest-the-lebanon-ceasefire?traffic_source=rss",
-      "description": "Shops and schools shut in northern Israel as residents protested a 10-day ceasefire with Lebanon.",
-      "date": "Sun, 19 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Protesters defy Berlin rain to call for end to global wars",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/protesters-defy-berlin-rain-to-call-for-end-to-global-wars?traffic_source=rss",
-      "description": "Hundreds protested in Berlin against the US-Israeli aggression on Iran, and Israeli attacks on Gaza and Lebanon.",
       "date": "Sun, 19 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -353,9 +353,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran executes two men accused of involvement in ‘spy network linked to Israel’, judiciary news outlet reports",
+      "link": "https://www.thehindu.com/news/international/iran-executes-two-men-accused-of-involvement-in-spy-network-linked-to-israel-judiciary-news-outlet-reports/article70883452.ece",
+      "description": "The two, identified as Mohammad Masoum ​Shahi and Hamed ‌Validi, were accused of belonging to a ‌spy network linked to ​Mossad and had received ⁠training abroad, including in Iraq’s Kurdistan ‌region",
+      "date": "Mon, 20 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran-Israel war live: Iran accuses U.S. of ceasefire breach, vows to 'soon respond' after U.S. destroyer hits cargo ship",
       "link": "https://www.thehindu.com/news/international/us-israel-war-on-iran-live-updates-strait-of-hormuz-blockade-april-20-2026/article70882986.ece",
       "description": "Iran is not currently planning to attend talks with the United States on Monday",
+      "date": "Mon, 20 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Los Angeles woman arrested on Iranian arms trafficking charge",
+      "link": "https://www.thehindu.com/news/international/los-angeles-woman-arrested-on-iranian-arms-trafficking-charge/article70883350.ece",
+      "description": "Shamim Mafi will face charges that she brokered the sale of “drones, bombs, bomb fuses, and millions of rounds of ammunition” between Iran and the Sudanese Armed Forces, First U.S. Attorney Bill Essayli said",
+      "date": "Mon, 20 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. funding helps Cyprus upgrade military bases for its role as a regional safe haven",
+      "link": "https://www.thehindu.com/news/international/us-funding-helps-cyprus-upgrade-military-bases-for-its-role-as-a-regional-safe-haven/article70883336.ece",
+      "description": "Cyprus' main Evangelos Florakis naval base, just 142 miles (229 kilometres) from Lebanon's coast, will get a new, U.S. European Command-funded heliport that will be able to accommodate large, Chinook-type transport helicopters for airlifting evacuees out of conflict zones",
       "date": "Mon, 20 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -377,36 +407,6 @@
       "link": "https://www.thehindu.com/news/international/us-israel-war-on-iran-live-updates-strait-of-hormuz-blockade-april-19-2026/article70879933.ece",
       "description": "Donald Trump said that a U.S. destroyer ship fired on and seized an Iranian-flagged cargo ship in the Gulf of Oman that tried to evade a U.S. naval blockade",
       "date": "Mon, 20 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran not planning to attend talks with U.S. in Pakistan",
-      "link": "https://www.thehindu.com/news/international/tehran-has-not-decided-whether-to-join-new-talks-with-us-in-pakistan-iranian-state-media/article70882008.ece",
-      "description": "Donald Trump announced that a U.S. destroyer fired at a massive Iranian-flagged cargo ship after it tried to get past the U.S. naval blockade",
-      "date": "Sun, 19 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "India-flagged vessels start sailing out of Persian Gulf",
-      "link": "https://www.thehindu.com/news/international/india-flagged-vessels-start-sailing-out-of-hormuz/article70875374.ece",
-      "description": "Most of these ships are critical to India’s energy needs and are carrying crude oil",
-      "date": "Sun, 19 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says U.S. negotiators will be in Pakistan on April 20 for talks with Iran",
-      "link": "https://www.thehindu.com/news/international/donald-trump-says-us-officials-will-be-in-pakistan-for-negotiations/article70880860.ece",
-      "description": "U.S. Vice-President J.D. Vance will lead the U.S. delegation for talks with Iran in Pakistan, a White House official said — shortly after President Trump said he would not make the trip",
-      "date": "Sun, 19 Apr 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
