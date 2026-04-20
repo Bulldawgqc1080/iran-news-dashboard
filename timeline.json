@@ -1,17 +1,18 @@
 {
-  "updated": "2026-04-20 07:10 UTC",
+  "updated": "2026-04-20 09:47 UTC",
   "total": 11,
   "events": [
     {
       "date": "2026-04-20",
       "dateDisplay": "Apr 20, 2026",
-      "title": "U.K police investigating if attacks in London are the work of Iranian proxies",
-      "link": "https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies",
+      "title": "US releases video of forces seizing Iranian ship",
+      "link": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "Al Jazeera",
+        "BBC"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-04-19",
@@ -19,8 +20,8 @@
       "title": "U.S. seizes Iranian cargo ship in Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
       "sources": [
-        "NPR News",
-        "Al Jazeera"
+        "Al Jazeera",
+        "NPR News"
       ],
       "sourceCount": 2,
       "type": "govt"
