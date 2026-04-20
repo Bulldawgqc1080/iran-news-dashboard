@@ -1,7 +1,27 @@
 {
-  "updated": "2026-04-20 09:47 UTC",
-  "total": 39,
+  "updated": "2026-04-20 11:10 UTC",
+  "total": 42,
   "stories": [
+    {
+      "title": "Peace talks in doubt as U.S. seizes Iranian ship",
+      "link": "https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates",
+      "description": "President Trump said a U.S. delegation will head to Pakistan to resume talks to end the war with Iran, but Tehran expressed reluctance after the U.S. seized one of its cargo ships in the Strait of Hormuz.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "U.S. seizes Iranian cargo ship. And, tariff refund portal launches",
+      "link": "https://www.npr.org/2026/04/20/g-s1-118095/up-first-newsletter-us-iran-peace-talks-strait-of-hormuz-tariff-refunds-louisiana-shooting",
+      "description": "U.S. forces seized an Iranian-flagged cargo vessel in the Strait of Hormuz. And, an online government portal for processing tariff refunds launches today.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Ukraine's fast-growing defense tech sector takes center stage in Iran war",
       "link": "https://www.npr.org/2026/04/20/nx-s1-5788603/ukraines-fast-growing-defense-tech-sector-takes-center-stage-in-iran-war",
@@ -143,6 +163,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "🔴 Live: Lebanon names ex-ambassador to US Simon Karam to lead Israel talks",
+      "link": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-vows-response-after-us-destroyer-fires-on-cargo-ship",
+      "description": "",
+      "date": "Mon, 20 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Peace talks clouded by uncertainty after US seizes Iranian ship",
+      "link": "https://www.france24.com/en/video/20260420-peace-talks-clouded-by-uncertainty-after-us-seizes-iranian-ship",
+      "description": "Concerns grew on Monday that the ceasefire between the United States and Iran might collapse after the U.S. said it had seized an Iranian cargo ship that tried to run its blockade and Iran vowed to retaliate. Efforts to build a more lasting peace in the region also appeared under...",
+      "date": "Mon, 20 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran says 'no decision' on whether to attend next round of US talks",
       "link": "https://www.france24.com/en/video/20260420-iran-says-no-decision-on-whether-to-attend-next-round-of-us-talks",
       "description": "Pakistan moved ahead Monday with preparations for a new round of talks between the United States and Iran days before a tenuous ceasefire is set to expire, even as renewed conflict around the Strait of Hormuz raised questions about whether the meeting would take place. FRANCE 24 ...",
@@ -163,9 +203,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: No plan for a second round of negotiations with the US, says Iran's FM",
+      "title": "Middle East war live: Lebanon names former envoy to US Simon Karam to lead Israel talks",
       "link": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-vows-response-after-us-destroyer-fires-on-cargo-ship",
-      "description": "Iran's foreign ministry spokesperson said Monday that there were no plans for a second round of negotiations with the US for now, adding that it has shown it is \"not serious\" about pursuing the diplomatic process, committed \"aggressive acts\" and violated ceasefire provisions. The...",
+      "description": "Lebanese ​President ​Joseph Aoun said Monday ‌that ⁠bilateral ‌negotiations with ⁠Israel would be ​handled by ‌a ‌delegation ​led by former ambassador to ​the ​United ​States Simon ​Karam. The news came after Iran's foreign ministry spokesperson said that there were no plans for ...",
       "date": "Sun, 19 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -183,14 +223,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump sending US delegation for Iran talks in Pakistan",
-      "link": "https://www.france24.com/en/trump-sending-us-delegation-for-iran-talks-in-pakistan",
-      "description": "US President Donald Trump said US negotiators will head to Pakistan on Monday for another round of talks with Iran, raising hopes of extending a fragile ceasefire set to expire by Wednesday even as Washington and Tehran remain in a standoff over the Strait of Hormuz. There ⁠is ​c...",
-      "date": "Sun, 19 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Second round in Islamabad: Who are the main US-Iran negotiators?",
+      "link": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss",
+      "description": "Fresh talks between the US and Iran are uncertain. But these are the key figures who have driven negotiations so far.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US captures Iranian ship Touska amid mediation efforts: All we know",
+      "link": "https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know?traffic_source=rss",
+      "description": "The US claims the ship was trying to evade its naval blockade. Iran calls it &#039;piracy&#039;.",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "The Strokes highlight destroyed Gaza and Iran universities at Coachella",
@@ -253,29 +303,19 @@
       "bias": "Medium"
     },
     {
-      "title": "Oil prices surge amid mixed signals on US-Iran peace talks",
-      "link": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss",
-      "description": "Brent crude rises more than 7 percent as Washington and Tehran offer conflicting accounts on ceasefire negotiations.",
-      "date": "Mon, 20 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Tehran will skip talks as tensions rise over US ship seizure",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
-      "description": "Attack comes hours after US President Donald Trump announced he is sending his team to Islamabad for possible talks.",
-      "date": "Mon, 20 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Uncertainty prevails over Islamabad talks amid mixed signals from Iran",
       "link": "https://www.dawn.com/news/1993458/uncertainty-prevails-over-islamabad-talks-amid-mixed-signals-from-iran",
       "description": "Uncertainty prevailed on Monday over whether the United States and Iran would hold a second round of direct talks, as mixed signals emerged from Tehran amid intensifying tensions with Washington, even as Islamabad prepared to host the two sides. Iran’s foreign ministry spokespers...",
+      "date": "Mon, 20 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel condemns soldier’s desecration of crucifix in south Lebanon",
+      "link": "https://www.dawn.com/news/1993480/israel-condemns-soldiers-desecration-of-crucifix-in-south-lebanon",
+      "description": "Israel’s Prime Minister Benjamin Netanyahu, the foreign minister and the military on Monday condemned the desecration of a crucifix after it was smashed by an Israeli soldier in a Christian village in southern Lebanon. A photo that emerged online over the weekend shows a soldier ...",
       "date": "Mon, 20 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -323,11 +363,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UK PM to face grilling from MPs today over Mandelson scandal",
-      "link": "https://www.dawn.com/news/1993370/uk-pm-to-face-grilling-from-mps-today-over-mandelson-scandal",
-      "description": "• Starmer faces fresh calls to quit after it was revealed ex-envoy to US failed vetting process in late 2024• Ministers support embattled premier, say he was unaware of clearance status at the time• Opposition leaders have called for premier to step down LONDON: Embattled UK Prim...",
+      "title": "Iran-Israel war live: Lebanon names former envoy to U.S. Simon Karam to lead Israel talks",
+      "link": "https://www.thehindu.com/news/international/us-israel-war-on-iran-live-updates-strait-of-hormuz-blockade-april-20-2026/article70882986.ece",
+      "description": "Iran accuses U.S. of ceasefire breach, vows to 'soon respond' after U.S. destroyer hits cargo ship",
       "date": "Mon, 20 Apr 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.K. calls for 'toll-free' Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/uk-calls-for-toll-free-strait-of-hormuz/article70884219.ece",
+      "description": "U.K. Foreign Secretary Yvette Cooper arrived in Japan for the final leg of what has been branded as an \"intensified shuttle diplomacy tour\" to advance coordination with key allies on shared geopolitical, economic and energy security priorities",
+      "date": "Mon, 20 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran not planning to attend talks with U.S. in Pakistan",
+      "link": "https://www.thehindu.com/news/international/tehran-has-not-decided-whether-to-join-new-talks-with-us-in-pakistan-iranian-state-media/article70882008.ece",
+      "description": "Donald Trump announced that a U.S. destroyer fired at a massive Iranian-flagged cargo ship after it tried to get past the U.S. naval blockade",
+      "date": "Mon, 20 Apr 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -353,39 +413,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war live: Over 3,300 people have died in Iran during war, says Iran’s Forensic Chief",
-      "link": "https://www.thehindu.com/news/international/us-israel-war-on-iran-live-updates-strait-of-hormuz-blockade-april-20-2026/article70882986.ece",
-      "description": "Iran accuses U.S. of ceasefire breach, vows to 'soon respond' after U.S. destroyer hits cargo ship",
-      "date": "Mon, 20 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Over 3,300 people have died in Iran during war: Iran’s Forensic Chief",
       "link": "https://www.thehindu.com/news/international/over-3300-people-have-died-in-iran-during-war-irans-forensic-chief/article70883668.ece",
       "description": "His comments did not break down casualties among civilians and security forces; instead, he just said that 2,875 were male and 496 were female. Mr. Masjedi said 383 of the dead were children 18 years old and under",
-      "date": "Mon, 20 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Los Angeles woman arrested on Iranian arms trafficking charge",
-      "link": "https://www.thehindu.com/news/international/los-angeles-woman-arrested-on-iranian-arms-trafficking-charge/article70883350.ece",
-      "description": "Shamim Mafi will face charges that she brokered the sale of “drones, bombs, bomb fuses, and millions of rounds of ammunition” between Iran and the Sudanese Armed Forces, First U.S. Attorney Bill Essayli said",
-      "date": "Mon, 20 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran executes two men accused of involvement in ‘spy network linked to Israel’, judiciary news outlet reports",
-      "link": "https://www.thehindu.com/news/international/iran-executes-two-men-accused-of-involvement-in-spy-network-linked-to-israel-judiciary-news-outlet-reports/article70883452.ece",
-      "description": "The two, identified as Mohammad Masoum ​Shahi and Hamed ‌Validi, were accused of belonging to a ‌spy network linked to ​Mossad and had received ⁠training abroad, including in Iraq’s Kurdistan ‌region",
       "date": "Mon, 20 Apr 2026",
       "source": "The Hindu",
       "region": "me",
