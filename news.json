@@ -1,11 +1,31 @@
 {
-  "updated": "2026-04-21 11:53 UTC",
-  "total": 43,
+  "updated": "2026-04-21 12:58 UTC",
+  "total": 47,
   "stories": [
+    {
+      "title": "As the U.S.-Iran ceasefire deadline looms, here are the main sticking points",
+      "link": "https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates",
+      "description": "The status of the Strait of Hormuz and Iran's nuclear enrichment program are among the biggest obstacles to extending the truce, which expires Wednesday evening.",
+      "date": "Tue, 21 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S.-Iran ceasefire nears its end. And, Fed chair nominee faces tough hearing",
       "link": "https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh",
       "description": "The ceasefire between the U.S. and Iran is set to expire tomorrow. Peace talks between the countries remain uncertain. And, Trump's pick to lead the Federal Reserve faces a tough confirmation hearing today.",
+      "date": "Tue, 21 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Ceasefire agreement between the U.S. and Iran ends Wednesday",
+      "link": "https://www.npr.org/2026/04/21/nx-s1-5791613/ceasefire-agreement-between-the-u-s-and-iran-ends-wednesday",
+      "description": "The ceasefire agreement between the U.S. and Iran ends Wednesday. President Trump says a U.S. delegation is going to Pakistan for talks, but Iran hasn't confirmed their attendance.",
       "date": "Tue, 21 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -26,26 +46,6 @@
       "title": "U.S.-Iran talks are uncertain as ceasefire is set to expire",
       "link": "https://www.npr.org/2026/04/20/nx-s1-5791630/u-s-iran-talks-are-uncertain-as-ceasefire-is-set-to-expire",
       "description": "As the clock ticks down on the ceasefire, Iran says it may not attend fresh talks with the U.S. That's as a temporary ceasefire between Israel and Hezbollah in Lebanon appears to be holding.",
-      "date": "Mon, 20 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Peace talks are in doubt as the U.S. seizes an Iranian ship",
-      "link": "https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates",
-      "description": "President Trump said a U.S. delegation will head to Pakistan to resume talks to end the war with Iran, but Tehran expressed reluctance after the U.S. seized one of its cargo ships in the Strait of Hormuz.",
-      "date": "Mon, 20 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. seizes Iranian cargo ship. And, tariff refund portal launches",
-      "link": "https://www.npr.org/2026/04/20/g-s1-118095/up-first-newsletter-us-iran-peace-talks-strait-of-hormuz-tariff-refunds-louisiana-shooting",
-      "description": "U.S. forces seized an Iranian-flagged cargo vessel in the Strait of Hormuz. And, an online government portal for processing tariff refunds launches today.",
       "date": "Mon, 20 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -153,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Full suspension of trade relations with Israel requires EU unanimity",
+      "link": "https://www.france24.com/en/full-suspension-of-trade-relations-with-israel-requires-eu-unanimity",
+      "description": "Germany on Tuesday rejected calls from other EU member states to suspend the bloc's cooperation agreement with Israel due to concerns over Israel's conduct in Gaza, Lebanon and the West Bank. Spain and Ireland led proposals to suspend the deal, but Germany said doing so would be ...",
+      "date": "Tue, 21 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Lebanon’s Christians support displaced amid ceasefire uncertainty",
       "link": "https://www.france24.com/en/lebanon-s-christians-support-displaced-amid-ceasefire-uncertainty",
       "description": "As Lebanese authorities work to extend the ceasefire, many people on the ground continue to live in deep uncertainty. The country’s Christian community is supporting those displaced by the conflict while also coping with its own grief and disappointment. Serge Berberi and Renee D...",
@@ -223,14 +233,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Ghassan Salamé: Lebanon negotiating with Israel 'to give serenity, prosperity to fellow countrymen'",
-      "link": "https://www.france24.com/en/video/20260421-ghassan-salam%C3%A9-lebanon-negotiating-with-israel-to-give-serenity-prosperity-to-fellow-countrymen",
-      "description": "François Picard welcomes Ghassan Salamé, Lebanon’s Minister of Culture. Salamé portrays Lebanon as a country that has preserved political pluralism and freedom of expression, and persevered despite decades of conflict. Within this context, he frames negotiation with Israel not as...",
+      "title": "Iran-US war: Four scenarios for what’s next as talks stumble",
+      "link": "https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble?traffic_source=rss",
+      "description": "Between an expiring ceasefire and a possible deal lies a range of ways in which the war could proceed, analysts say.",
       "date": "Tue, 21 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?",
+      "link": "https://www.aljazeera.com/news/2026/4/21/what-was-the-iran-nuclear-deal-trump-dumped-in-search-of-better-terms?traffic_source=rss",
+      "description": "Trump withdrew the US from the JCPOA in 2018, branding it &#039;the worst deal ever&#039; and seeking stronger terms.",
+      "date": "Tue, 21 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Strait of Hormuz: How a threat became a playbook",
@@ -293,24 +313,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war forces job losses, reverse migration in India’s ceramic hub",
-      "link": "https://www.aljazeera.com/news/2026/4/21/iran-war-forces-job-losses-reverse-migration-in-indias-ceramic-hub?traffic_source=rss",
-      "description": "The ceramics industry in Gujarat&#039;s Morbi has been badly hit by fuel crisis, with most units closed and workers laid off.",
+      "title": "Downing Street exerted pressure to approve Mandelson’s appointment, sacked official tells MPs",
+      "link": "https://www.dawn.com/news/1993798/downing-street-exerted-pressure-to-approve-mandelsons-appointment-sacked-official-tells-mps",
+      "description": "Downing Street applied constant pressure on civil servants to approve the appointment of Peter Mandelson as UK envoy to Washington and seemed to brush off security concerns, a sacked official told MPs Tuesday. Prime Minister Keir Starmer’s office had a “dismissive attitude” towar...",
       "date": "Tue, 21 Apr 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US veterans arrested in Capitol during protest against the war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/us-veterans-arrested-in-capitol-during-protest-against-the-war-on-iran?traffic_source=rss",
-      "description": "US veterans were arrested while staging a protest in the US Capitol building in opposition to the war on Iran.",
-      "date": "Tue, 21 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Diplomatic flurry as US-Iran truce deadline nears",
@@ -363,11 +373,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "India, South Korea plan $50bn trade push with new deals",
-      "link": "https://www.dawn.com/news/1993487/india-south-korea-plan-50bn-trade-push-with-new-deals",
-      "description": "India and South Korea said on Monday that they would boost their economic ties by expanding cooperation in energy, critical minerals, shipbuilding, semiconductors and steel as they seek to double their trade to $50 billion by 2030. New Delhi and Seoul also agreed to resume and st...",
-      "date": "Mon, 20 Apr 2026",
-      "source": "Dawn",
+      "title": "Donald Trump says U.S. in ‘very, very strong’ position for Iran talks",
+      "link": "https://www.thehindu.com/news/international/donald-trump-says-us-in-very-very-strong-position-for-iran-talks/article70888667.ece",
+      "description": "Trump accused Iran of repeatedly violating the ceasefire with the U.S. in the war in West Asia, as both countries deliberate over a possible new round of peace negotiations",
+      "date": "Tue, 21 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. forces board oil tanker previously sanctioned for smuggling Iranian crude oil",
+      "link": "https://www.thehindu.com/news/international/us-forces-board-oil-tanker-previously-sanctioned-for-smuggling-iranian-crude-oil/article70888530.ece",
+      "description": "Ship-tracking data showed the Tifani in the Indian Ocean between Sri Lanka and Indonesia",
+      "date": "Tue, 21 Apr 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -413,24 +433,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How a U.S.-Iran deal over Hormuz unravelled",
-      "link": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-how-a-us-iran-deal-over-hormuz-unravelled/article70884521.ece",
-      "description": "",
+      "title": "US threats to Iran and re-opening of Russian consulate in Benghazi: Lavrov’s statements",
+      "link": "https://tass.com/politics/2120299",
+      "description": "Russian hopes for the resumption of diplomatic efforts on the Middle Eastern track, Sergey Lavrov emphasized",
       "date": "Tue, 21 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran-Israel war updates: Deep historical mistrust in Iran toward U.S. government remains, says Iran President",
-      "link": "https://www.thehindu.com/news/international/us-israel-war-on-iran-live-updates-strait-of-hormuz-blockade-april-20-2026/article70882986.ece",
-      "description": "Vance has not yet left for Iran talks in Pakistan, says source; Iran says 'no decision' yet on joining new round of U.S. peace talks",
+      "title": "US pressure on Iran could harden its negotiating stance — China Daily",
+      "link": "https://tass.com/world/2120293",
+      "description": "The possibility of peace is tenuous, the newspaper writes",
       "date": "Tue, 21 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Lavrov calls it 'success' if Iran, US reach agreements similar to those of 2015",
+      "link": "https://tass.com/politics/2120283",
+      "description": "According to the Russian foreign minister, Moscow understands Iran's position that it has already been a victim of false promises, including the Joint Comprehensive Plan of Action approved by the UN Security Council in 2015",
+      "date": "Tue, 21 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russia expects resumption of diplomatic efforts on Iran — foreign minister",
+      "link": "https://tass.com/politics/2120263",
+      "description": "The top Russian diplomat confirmed that Moscow is ready to facilitate the normalization of relations between the Arab monarchies of the Gulf and Iran",
+      "date": "Tue, 21 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
