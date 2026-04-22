@@ -1,15 +1,27 @@
 {
-  "updated": "2026-04-21 23:26 UTC",
-  "total": 12,
+  "updated": "2026-04-22 01:23 UTC",
+  "total": 13,
   "events": [
+    {
+      "date": "2026-04-22",
+      "dateDisplay": "Apr 22, 2026",
+      "title": "Trump extends Iran ceasefire indefinitely as peace talks stall",
+      "link": "https://www.france24.com/en/middle-east/20260422-trump-extends-iran-ceasefire-indefinitely-as-peace-talks-stall-war-usa",
+      "sources": [
+        "Al Jazeera",
+        "France 24"
+      ],
+      "sourceCount": 2,
+      "type": "govt"
+    },
     {
       "date": "2026-04-21",
       "dateDisplay": "Apr 21, 2026",
       "title": "Trump extends U.S. ceasefire with Iran at Pakistan's request",
       "link": "https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates",
       "sources": [
-        "France 24",
-        "NPR News"
+        "NPR News",
+        "France 24"
       ],
       "sourceCount": 2,
       "type": "govt"
