@@ -1,7 +1,17 @@
 {
-  "updated": "2026-04-23 21:40 UTC",
-  "total": 42,
+  "updated": "2026-04-23 22:33 UTC",
+  "total": 47,
   "stories": [
+    {
+      "title": "French police probe suspected weather device tampering after odd Polymarket bet",
+      "link": "https://www.npr.org/2026/04/23/nx-s1-5797876/polymarket-paris-weather-bet",
+      "description": "The incident is the latest eyebrow-raising bet on Polymarket, as allegations of rigging and manipulation continue to haunt the popular prediction market site.",
+      "date": "Thu, 23 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies",
       "link": "https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs",
@@ -23,9 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "Trump will welcome envoys of Lebanon and Israel at the White House for talks",
+      "title": "Trump announces a 3-week extension of the Israel-Lebanon ceasefire",
       "link": "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates",
-      "description": "Israel and Lebanon will hold talks at the White House as the countries' temporary ceasefire comes under strain from continued violence.",
+      "description": "President Trump said Thursday that Israel and Lebanon have agreed to extend their ceasefire for three weeks after the two sides met at the White House for a high-level negotiation.",
       "date": "Thu, 23 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -143,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Both Trump and Iran share false information about 8 women facing execution by the regime",
+      "link": "https://www.france24.com/en/both-trump-and-iran-share-false-information-about-8-women-facing-execution-by-the-regime",
+      "description": "This Wednesday Donald Trump claimed that out of respect for him, Iran had agreed to spare the lives of 8 young Iranian women facing execution. But he was quickly struck with accusations that the women were AI-generated. Iran gave conflicting information, both mocking the AI claim...",
+      "date": "Thu, 23 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Lebanon leaders accuse Israel of war crime after journalist killed",
       "link": "https://www.france24.com/en/lebanon-leaders-accuse-israel-of-war-crime-after-journalist-killed",
       "description": "Lebanon's president and prime minister accused Israel on Thursday of a war crime, after an airstrike killed a Lebanese journalist in the country's south, where Israeli forces occupy several areas. Rescuers and the reporter's employer on Wednesday confirmed the death of Amal Khali...",
@@ -206,16 +226,6 @@
       "title": "Shadow of failed 1983 agreement haunts new Israeli-Lebanon talks",
       "link": "https://www.france24.com/en/middle-east/20260423-lebanon-israel-talks-revive-memories-of-the-failed-1983-agreement",
       "description": "As Lebanon prepares to resume direct discussions with Israel, the ghost of the May 17 Agreement of 1983 – a deal that was signed but never implemented – is haunting the new round of negotiations. President Joseph Aoun and Prime Minister Nawaf Salam are facing a smear campaign fro...",
-      "date": "Thu, 23 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "EU approves massive loan to help Ukraine after Hungary lifts its veto",
-      "link": "https://www.france24.com/en/video/20260423-eu-approves-massive-loan-to-help-ukraine-after-hungary-lifts-its-veto",
-      "description": "The European Union on Thursday approved a massive loan package to help Ukraine meet its economic and military needs for the next two years, the bloc’s Cypriot presidency said, after Hungary lifted its veto. The EU also approved a new raft of sanctions against Russia over its war ...",
       "date": "Thu, 23 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -421,6 +431,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Israel reports first rocket fire in north since truce with Hezbollah",
+      "link": "https://tass.com/world/2121791",
+      "description": "Several projectiles were launched toward the northern border community of Shtula",
+      "date": "Thu, 23 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russian, Iranian presidents stay in close contact — ambassador to Moscow",
+      "link": "https://tass.com/world/2121789",
+      "description": "Kazem Jalali noted that Vladimir Putin and Masoud Pezeshkian have held three phone calls since the start of the US-Israeli military operation against Iran",
+      "date": "Thu, 23 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US uses over 1,000 Tomahawk missiles in war with Iran — newspaper",
+      "link": "https://tass.com/world/2121775",
+      "description": "According to the newspaper, fully replenishing the depleted stockpiles could take up to six years",
+      "date": "Thu, 23 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "New round of Israel-Lebanon contacts to take place at White House — Axios",
+      "link": "https://tass.com/world/2121761",
+      "description": "On April 14, the first round of direct negotiations between Israel and Lebanon in 43 years took place in Washington with the participation of US Secretary of State Marco Rubio",
+      "date": "Thu, 23 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
