@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23 15:11 UTC",
-  "total": 40,
+  "updated": "2026-04-23 17:08 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Tensions rise in two ceasefires in the Middle East. And, the Navy secretary ousted",
@@ -31,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
+      "link": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
+      "description": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
+      "date": "Thu, 23 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
@@ -113,16 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-      "link": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-      "description": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
-      "date": "Tue, 21 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
       "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
       "description": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
@@ -133,7 +133,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon-Israel talks revive memories of the failed 1983 agreement",
+      "title": "Shadow of failed 1983 agreement haunts new Israeli-Lebanon talks",
       "link": "https://www.france24.com/en/middle-east/20260423-lebanon-israel-talks-revive-memories-of-the-failed-1983-agreement",
       "description": "As Lebanon prepares to resume direct discussions with Israel, the ghost of the May 17 Agreement of 1983 – a deal that was signed but never implemented – is haunting the new round of negotiations. President Joseph Aoun and Prime Minister Nawaf Salam are facing a smear campaign fro...",
       "date": "Thu, 23 Apr 2026",
@@ -183,24 +183,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Second French peacekeeper dies in Lebanon after ambush blamed on Hezbollah",
-      "link": "https://www.france24.com/en/video/20260423-second-french-peacekeeper-dies-in-lebanon-after-ambush-blamed-on-hezbollah",
-      "description": "A second French soldier died on Wednesday from wounds suffered in a weekend ambush against UN peacekeepers in Lebanon blamed on Hezbollah, President Emmanuel Macron said. A first soldier, staff sergeant Florian Montorio, was shot dead in the Saturday ambush, for which Hezbollah h...",
+      "title": "US-Israeli war on Iran will push 30 million back into poverty, UN warns",
+      "link": "https://www.aljazeera.com/news/2026/4/23/us-israeli-war-on-iran-will-push-30-million-back-into-poverty-un-warns?traffic_source=rss",
+      "description": "Disruption to fuel and fertiliser supplies due to the Strait of Hormuz closure will hit crop yields, UNDP chief warns.",
       "date": "Thu, 23 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Israeli strikes in southern Lebanon kill Lebanese journalist, wound another",
-      "link": "https://www.france24.com/en/video/20260423-israeli-strikes-in-southern-lebanon-kill-lebanese-journalist-wound-another",
-      "description": "Israeli strikes on southern Lebanon on Wednesday killed Lebanese journalist Amal Khalil and wounded a photographer accompanying her, according to a senior Lebanese military official and Khalil's employer, the Al-Akhbar newspaper. The death of Khalil, 43, brought the death toll on...",
+      "title": "Journalist recalls Israeli strike killing Amal Khalil in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/journalist-recalls-israeli-strike-killing-amal-khalil-in-southern-lebanon?traffic_source=rss",
+      "description": "Journalist Zainab Faraj recalled the final moments of fellow journalist Amal Khalil.",
       "date": "Thu, 23 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanon Latest: Israel attacks kill journalist and target first responders",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/aje-onl-aje_onl_lebanon_wrap-230426?traffic_source=rss",
+      "description": "A fragile ceasefire holds as Israeli strikes kill a journalist and target first responders in Lebanon.",
+      "date": "Thu, 23 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US to ‘shoot and kill’ Iranian boats laying mines in Hormuz, Trump says",
@@ -246,36 +256,6 @@
       "title": "Protester hurls red fluid at Reza Pahlavi during Germany visit",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protester-hurls-red-fluid-at-reza-pahlavi-during-germany-visit?traffic_source=rss",
       "description": "The exiled former crown prince of Iran Reza Pahlavi was splashed with red fluid by an activist during a visit to Berlin.",
-      "date": "Thu, 23 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How has Hezbollah shifted its battle tactics?",
-      "link": "https://www.aljazeera.com/video/project-force-2/2026/4/23/how-has-hezbollah-shifted-its-battle-tactics?traffic_source=rss",
-      "description": "Hezbollah’s change of weapons and tactics",
-      "date": "Thu, 23 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "The economic winners & losers in the US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/video/money-works/2026/4/23/the-economic-winners-losers-in-the-us-israel-war-on-iran?traffic_source=rss",
-      "description": "The economic winners & losers in the US-Israel war on Iran",
-      "date": "Thu, 23 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Indian physicists voice solidarity with Iran, Palestine, Lebanon academics",
-      "link": "https://www.aljazeera.com/news/2026/4/23/indian-physicists-voice-solidarity-with-iran-palestine-lebanon-academics?traffic_source=rss",
-      "description": "In a statement, prominent string theorists condemn the attacks on universities across the Middle Eastern countries.",
       "date": "Thu, 23 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
