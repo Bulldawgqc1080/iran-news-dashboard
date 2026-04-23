@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 20:00 UTC",
+  "updated": "2026-04-23 21:40 UTC",
   "total": 13,
   "events": [
     {
@@ -9,10 +9,11 @@
       "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "France 24",
-        "BBC"
+        "BBC",
+        "Al Jazeera"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-04-22",
