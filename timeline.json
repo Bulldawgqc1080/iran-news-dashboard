@@ -1,17 +1,18 @@
 {
-  "updated": "2026-04-24 06:58 UTC",
+  "updated": "2026-04-24 08:58 UTC",
   "total": 14,
   "events": [
     {
       "date": "2026-04-24",
       "dateDisplay": "Apr 24, 2026",
-      "title": "Couple discovers Lebanon home destroyed by Israel from satellite image",
-      "link": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
+      "title": "Lebanon - Israel: Truce extended by three weeks",
+      "link": "https://www.france24.com/en/lebanon-israel-truce-extended-by-three-weeks",
       "sources": [
-        "BBC"
+        "Al Jazeera",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-04-23",
@@ -19,9 +20,9 @@
       "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
       "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24",
+        "BBC",
         "Al Jazeera",
-        "BBC"
+        "France 24"
       ],
       "sourceCount": 3,
       "type": "fact"
