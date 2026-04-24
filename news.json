@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23 23:35 UTC",
-  "total": 43,
+  "updated": "2026-04-24 01:27 UTC",
+  "total": 47,
   "stories": [
     {
       "title": "French police probe suspected weather device tampering after odd Polymarket bet",
@@ -153,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump says Israel and Lebanon have agreed to extend ceasefire by three weeks",
+      "link": "https://www.france24.com/en/middle-east/20260423-middle-east-war-live-lebanon-meets-israel-in-washington-to-request-truce-extension",
+      "description": "",
+      "date": "Thu, 23 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Both Trump and Iran share false information about 8 women facing execution by the regime",
       "link": "https://www.france24.com/en/both-trump-and-iran-share-false-information-about-8-women-facing-execution-by-the-regime",
       "description": "This Wednesday Donald Trump claimed that out of respect for him, Iran had agreed to spare the lives of 8 young Iranian women facing execution. But he was quickly struck with accusations that the women were AI-generated. Iran gave conflicting information, both mocking the AI claim...",
@@ -223,14 +233,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Shadow of failed 1983 agreement haunts new Israeli-Lebanon talks",
-      "link": "https://www.france24.com/en/middle-east/20260423-lebanon-israel-talks-revive-memories-of-the-failed-1983-agreement",
-      "description": "As Lebanon prepares to resume direct discussions with Israel, the ghost of the May 17 Agreement of 1983 – a deal that was signed but never implemented – is haunting the new round of negotiations. President Joseph Aoun and Prime Minister Nawaf Salam are facing a smear campaign fro...",
-      "date": "Thu, 23 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
+      "description": "Death toll from Israel&#039;s ongoing genocidal war on Gaza has reached 72,568 with 172,338 injured: Gaza&#039;s Health Ministry.",
+      "date": "Fri, 24 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Funeral held for journalist killed in targeted Israeli strike",
@@ -303,16 +313,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Italy slams Trump envoy proposal of taking Iran’s place in World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/2026/4/23/italy-officials-say-replacing-iran-at-world-cup-2026-would-be-shameful?traffic_source=rss",
-      "description": "Italy officials slam suggestion that national football team should replace Iran at World Cup; fans also underwhelmed.",
-      "date": "Thu, 23 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Pakistan rejects Indian propaganda on Pahalgam attack, deplores 'weaponisation of false narrative'",
       "link": "https://www.dawn.com/news/1994381/pakistan-rejects-indian-propaganda-on-pahalgam-attack-deplores-weaponisation-of-false-narrative",
       "description": "Pakistan rejected Indian propaganda linking it to the 2025 Pahalgam attack on Thursday, deploring that the neighbouring country was focusing on “weaponising its false narrative” in the midst on an ongoing regional crisis. The April 22, 2025 attack in Pahalgam saw 26 people, mostl...",
@@ -373,9 +373,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Trump says Israel and Lebanon agree to extend ceasefire by 3 weeks",
+      "title": "Israel-Iran war LIVE: Trump says Lebanon and Israel agree to extend Israel-Hezbollah ceasefire by 3 weeks",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
+      "description": "Israel says it struck Hezbollah missile launcher in Lebanon that had fired into Israel",
+      "date": "Fri, 24 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war updates: Trump says Israel and Lebanon agree to extend ceasefire by 3 weeks",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
       "description": "Earlier, blasts were reported over Tehran and air defences activated, although Israel claimed it was not attacking Iran",
+      "date": "Thu, 23 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Hezbollah ceasefire extended by 3 weeks, says Trump",
+      "link": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece",
+      "description": "The White House meeting was the second high-level negotiation between Israel and Lebanon since last week",
       "date": "Thu, 23 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -413,24 +433,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump orders U.S. military to 'shoot and kill' Iranian small boats choking Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/trump-us-military-shoot-and-kill-order-strait-of-hormuz-blockade-iran-boats/article70897694.ece",
-      "description": "Pentagon blasted as cherry picking and false a news report saying that the dept. assessed it could take six months to completely clear the Strait of Hormuz of Iranian-laid mines",
+      "title": "Israel reports first rocket fire in north since truce with Hezbollah",
+      "link": "https://tass.com/world/2121791",
+      "description": "Several projectiles were launched toward the northern border community of Shtula",
       "date": "Thu, 23 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "U.S. military says it seizes another oil tanker associated with Iran",
-      "link": "https://www.thehindu.com/news/international/us-military-says-it-seizes-another-oil-tanker-associated-with-iran/article70897378.ece",
-      "description": "The seizure comes a day after Iran attacked three cargo ships in the strait, capturing two of them, in a move that intensified its assault on shipping in the key waterway through which 20% of the world's traded oil passes in peacetime.",
+      "title": "Russian, Iranian presidents stay in close contact — ambassador to Moscow",
+      "link": "https://tass.com/world/2121789",
+      "description": "Kazem Jalali noted that Vladimir Putin and Masoud Pezeshkian have held three phone calls since the start of the US-Israeli military operation against Iran",
       "date": "Thu, 23 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US uses over 1,000 Tomahawk missiles in war with Iran — newspaper",
+      "link": "https://tass.com/world/2121775",
+      "description": "According to the newspaper, fully replenishing the depleted stockpiles could take up to six years",
+      "date": "Thu, 23 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "New round of Israel-Lebanon contacts to take place at White House — Axios",
+      "link": "https://tass.com/world/2121761",
+      "description": "On April 14, the first round of direct negotiations between Israel and Lebanon in 43 years took place in Washington with the participation of US Secretary of State Marco Rubio",
+      "date": "Thu, 23 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
