@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24 16:51 UTC",
-  "total": 49,
+  "updated": "2026-04-24 17:42 UTC",
+  "total": 45,
   "stories": [
     {
       "title": "Israel-Lebanon ceasefire is extended by 3 weeks as tensions rise in Strait of Hormuz",
@@ -253,6 +253,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss",
+      "description": "Amal Khalil was killed while reporting on an Israeli air strike in southern Lebanon during a 10-day ceasefire.",
+      "date": "Fri, 24 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Russian oil exports slump as Ukraine hammers ports and refineries",
+      "link": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss",
+      "description": "Despite US sanctions waiver, Russian oil exports could fall to lowest levels since 2023, sources say.",
+      "date": "Fri, 24 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US has three aircraft carriers in the Middle East for first time since 2003",
       "link": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
       "description": "As tensions ramp up amid fragile truce, US military says it &#039;redirected&#039; 34 vessels as part of blockade on Iran&#039;s ports.",
@@ -306,26 +326,6 @@
       "title": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
       "link": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume?traffic_source=rss",
       "description": "As Pakistan hosts US-Iran talks, twin-city residents face road closures, halted courts and growing economic strain.",
-      "date": "Fri, 24 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What’s been happening during the Lebanon ceasefire?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss",
-      "description": "Trump has extended the Lebanon ceasefire by 3 weeks. But Israel has been accused of using the truce to further its war.",
-      "date": "Fri, 24 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "With 3,000 containers stuck in Pakistan, Iran explores more land routes",
-      "link": "https://www.aljazeera.com/news/2026/4/24/with-3000-containers-stuck-in-pakistan-iran-explores-more-land-routes?traffic_source=rss",
-      "description": "Documents seen by Al Jazeera say Iran is seeking land transit for stranded sea cargo to bypass US blockade.",
       "date": "Fri, 24 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -393,9 +393,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iranian FM Abbas Araghchi to reach Pakistan tonight for talks with U.S.: report",
-      "link": "https://www.thehindu.com/news/international/iran-delegation-islamabad-fm-abbas-araghchi-us-ceasefire-talks-pakistan/article70902698.ece",
-      "description": "U.S. delegation would likely arrive in Islamabad on April 25, once the Iranian delegation works out the framework of talks with the U.S. technical team",
+      "title": "UN peacekeeper dies of wounds suffered in Lebanon last month: UNIFIL",
+      "link": "https://www.thehindu.com/news/international/un-peacekeeper-dies-of-wounds-suffered-in-lebanon-last-month-unifil/article70901837.ece",
+      "description": "Death toll stands at six; Indonesia has urged UN to launch a thorough investigation",
+      "date": "Fri, 24 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Tehran’s Imam Khomeini Airport airport to resume international flights on April 25",
+      "link": "https://www.thehindu.com/news/international/tehrans-imam-khomeini-airport-airport-to-resume-international-flights-on-april-25/article70901867.ece",
+      "description": "The first flights to resume will be to Istanbul and Muscat",
       "date": "Fri, 24 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -413,6 +423,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel-Lebanon ceasefire extended by three weeks",
+      "link": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece",
+      "description": "U.S. President Donald Trump announces the development after meeting representatives from both countries in Washington",
+      "date": "Fri, 24 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian FM Abbas Araghchi to reach Pakistan tonight for talks with U.S.: report",
+      "link": "https://www.thehindu.com/news/international/iran-delegation-islamabad-fm-abbas-araghchi-us-ceasefire-talks-pakistan/article70902698.ece",
+      "description": "U.S. delegation would likely arrive in Islamabad on April 25, once the Iranian delegation works out the framework of talks with the U.S. technical team",
+      "date": "Fri, 24 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Netanyahu treated for early-stage prostate cancer, says he is in ‘excellent’ physical condition",
       "link": "https://www.thehindu.com/news/international/israel-pm-netanyahu-prostate-cancer-treatment-medical-report/article70901683.ece",
       "description": "The Israeli PM said he requested a delay in the publication of his annual medical report to not allow Iran to ‘spread even more false propaganda’ amidst the war",
@@ -421,76 +451,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says U.S. in no rush but 'clock is ticking' for Iran",
-      "link": "https://www.thehindu.com/news/international/trump-says-us-in-no-rush-but-clock-is-ticking-for-iran/article70900937.ece",
-      "description": "Mr. Trump, who on April 23, 2026, ruled out the use of a nuclear weapon against Iran, had earlier ordered the U.S. Navy to destroy any Iranian boat caught laying mines in Hormuz",
-      "date": "Fri, 24 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan repays $3.45 billion loan to UAE",
-      "link": "https://www.thehindu.com/news/international/pakistan-repays-345-billion-loan-to-uae/article70900758.ece",
-      "description": "The UAE had asked for the immediate return of the funds in the wake of the recent situation in West Asia following the U.S.-Israel war on Iran",
-      "date": "Fri, 24 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia conflict could cause 120 bcm of LNG supply loss from 2026-2030, says International Energy Agency",
-      "link": "https://www.thehindu.com/business/Industry/west-asia-conflict-could-cause-120-bcm-of-lng-supply-loss-from-2026-2030-says-international-energy-agency/article70900839.ece",
-      "description": "LNG supply growth came to a halt in March after the closure of the Strait of Hormuz, which effectively reduced ‌the combined LNG production of Qatar and ​the United Arab Emirates by around 10 bcm for the month",
-      "date": "Fri, 24 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump to send Witkoff, Kushner to Pakistan for talks with Iran — CNN",
-      "link": "https://tass.com/world/2122247",
-      "description": "According to the sources, Vice President JD Vance does not plan to participate in the talks for now",
-      "date": "Fri, 24 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran calls on SCO to develop cooperation in area of arms control",
-      "link": "https://tass.com/world/2122225",
-      "description": "Iranian Ambassador to Russia Kazem Jalali noted that it is necessary to use the SCO’s crisis-settlement potential and organize special meetings to strengthen arms control mechanisms",
-      "date": "Fri, 24 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran to make no concessions in talks with US — Iranian vice president",
-      "link": "https://tass.com/world/2122215",
-      "description": "Esmail Saghab Esfahani emphasized that the enemy had failed to achieve any of the goals",
-      "date": "Fri, 24 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "NATO officers in Ukraine and new anti-Russian sanctions: Foreign Ministry’s statements",
-      "link": "https://tass.com/politics/2122207",
-      "description": "Russian Foreign Ministry Spokeswoman Maria Zakharova pointed out that Brussels inflicts harm to itself and undermines its energy security by imposing sanctions against Moscow",
-      "date": "Fri, 24 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
