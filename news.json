@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24 23:31 UTC",
-  "total": 43,
+  "updated": "2026-04-25 01:21 UTC",
+  "total": 47,
   "stories": [
     {
       "title": "Vessels seized by the U.S. this week were part of a global 'shadow fleet'",
@@ -233,6 +233,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
+      "description": "Israeli air strikes, tank shelling in Gaza killed at least 12 Palestinians, including six police officers.",
+      "date": "Sat, 25 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
       "link": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
       "description": "Iranian Foreign Minister Abbas Araghchi arrives in Islamabad, but Tehran yet to commit to more talks with US delegation.",
@@ -303,16 +313,6 @@
       "bias": "Medium"
     },
     {
-      "title": "US has three aircraft carriers in the Middle East for first time since 2003",
-      "link": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
-      "description": "As tensions ramp up amid fragile truce, US military says it &#039;redirected&#039; 34 vessels as part of blockade on Iran&#039;s ports.",
-      "date": "Fri, 24 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Netanyahu says he was successfully treated for prostate cancer",
       "link": "https://www.dawn.com/news/1994721/netanyahu-says-he-was-successfully-treated-for-prostate-cancer",
       "description": "Israeli Prime Minister Benjamin Netanyahu said on Friday that he had received successful treatment for early-stage prostate cancer, without specifying when the treatment took place. In a statement on social media, as his annual medical report was released, Netanyahu, 76, said an ...",
@@ -373,10 +373,30 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Vance on 'standby' as Witkoff, Kushner to reach Pakistan on April 25 for talks with Iran, White House says",
+      "title": "Israel-Iran war LIVE: Iran says no direct talks with U.S. in Islamabad planned",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+      "description": "Foreign Ministry spokesperson said Pakistani officials and Iran would convey messages between the delegations",
+      "date": "Sat, 25 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. won't renew Iranian, Russian oil waivers: Bessent",
+      "link": "https://www.thehindu.com/news/international/us-wont-renew-iranian-russian-oil-waivers-bessent/article70904300.ece",
+      "description": "Bessent’s statements come as the world is on edge over the U.S.-Israeli war in Iran, and global energy markets have been ensnarled by the closure of the Strait of Hormuz",
+      "date": "Sat, 25 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war updates: Vance on 'standby' as Witkoff, Kushner to reach Pakistan on April 25 for talks with Iran, White House says",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
-      "description": "Iranian delegation led by FM Araghchi to reach Islamabad tonight; to “hold bilateral consultations on developments in the region, as well as the latest situation” in the war",
-      "date": "Fri, 24 Apr 2026",
+      "description": "Iran made it clear that there would be no direct negotiations with American government representatives",
+      "date": "Sat, 25 Apr 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -413,24 +433,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Tehran’s Imam Khomeini Airport airport to resume international flights on April 25",
-      "link": "https://www.thehindu.com/news/international/tehrans-imam-khomeini-airport-airport-to-resume-international-flights-on-april-25/article70901867.ece",
-      "description": "The first flights to resume will be to Istanbul and Muscat",
-      "date": "Fri, 24 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "No talks with US delegates planned during Araghchi’s visit to Pakistan — Iranian diplomat",
+      "link": "https://tass.com/world/2122359",
+      "description": "Esmaeil Baghaei says: \"Iran's observations would be conveyed to Pakistan\"",
+      "date": "Sat, 25 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Israel-Lebanon ceasefire extended by three weeks",
-      "link": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece",
-      "description": "U.S. President Donald Trump announces the development after meeting representatives from both countries in Washington",
+      "title": "Vice president Vance may join US delegation to talks with Iran — TV",
+      "link": "https://tass.com/world/2122339",
+      "description": "Al Hadath reported that the format of the consultations is yet to be determined",
       "date": "Fri, 24 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran seizes Epaminondas vessel as it was used by US — agency",
+      "link": "https://tass.com/world/2122337",
+      "description": "Tasnim reported that the Liberian-flagged vessel has repeatedly entered US ports over the past six months",
+      "date": "Fri, 24 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Direct US-Iran talks in Islamabad to be held on April 27 — Axios reporter",
+      "link": "https://tass.com/world/2122323",
+      "description": "Barak Ravid says the meeting may take place on Monday, after businessman Jared Kushner and Special US Envoy Steve Witkoff hold separate bilateral talks with the Pakistani mediators",
+      "date": "Fri, 24 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }

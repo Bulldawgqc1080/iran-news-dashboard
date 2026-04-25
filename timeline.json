@@ -1,15 +1,26 @@
 {
-  "updated": "2026-04-24 23:31 UTC",
-  "total": 14,
+  "updated": "2026-04-25 01:21 UTC",
+  "total": 15,
   "events": [
+    {
+      "date": "2026-04-25",
+      "dateDisplay": "Apr 25, 2026",
+      "title": "Iran war live: Tehran\u2019s FM in Islamabad; US says envoys to travel for talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-04-24",
       "dateDisplay": "Apr 24, 2026",
       "title": "Thousands of seafarers stranded by ongoing U.S. blockade on Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/24/nx-s1-5797793/thousands-of-seafarers-stranded-by-ongoing-us-blockade-on-strait-of-hormuz",
       "sources": [
-        "BBC",
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
