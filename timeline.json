@@ -1,17 +1,18 @@
 {
-  "updated": "2026-04-25 17:29 UTC",
+  "updated": "2026-04-25 18:34 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-04-25",
       "dateDisplay": "Apr 25, 2026",
-      "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
+      "title": "Iran's foreign minister leaves Pakistan, then Trump cancels U.S. delegation's travel",
+      "link": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
       "sources": [
+        "NPR News",
         "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-04-24",
@@ -19,8 +20,8 @@
       "title": "Thousands of seafarers stranded by ongoing U.S. blockade on Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/24/nx-s1-5797793/thousands-of-seafarers-stranded-by-ongoing-us-blockade-on-strait-of-hormuz",
       "sources": [
-        "BBC",
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
