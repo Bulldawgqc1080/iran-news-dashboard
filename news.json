@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-25 16:29 UTC",
-  "total": 41,
+  "updated": "2026-04-25 17:29 UTC",
+  "total": 47,
   "stories": [
     {
-      "title": "Iran's foreign minister departs Pakistan peace talks before U.S. delegation arrives",
+      "title": "Iran's foreign minister leaves Pakistan, then Trump cancels U.S. delegation's travel",
       "link": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
-      "description": "Iran's Abbas Araghchi has left Islamabad after arriving Friday, after the White House confirmed Steve Witkoff and Jared Kushner will travel there Saturday to try to \"move the ball forward towards a deal.\"",
+      "description": "After arriving on Friday, Iran's Abbas Araghchi has left Islamabad, prompting President Trump to announce that his envoys Steve Witkoff and Jared Kushner will no longer travel there Saturday for peace talks",
       "date": "Sat, 25 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -163,6 +163,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "A difficult balance to find : Pakistan wants to be a key actor in shaping US-Iran peace",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260425-a-difficult-balance-to-find-pakistan-wants-to-be-a-key-actor-in-shaping-us-iran-peace",
+      "description": "Since the beginning of the Iran-US war, Pakistan has tried to host talks between the two countries, aiming at finding peace.",
+      "date": "Sat, 25 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trumps says he is no longer sending envoys to Pakistan for Iran talks",
+      "link": "https://www.france24.com/en/live-news/20260425-trumps-says-he-is-no-longer-sending-envoys-to-pakistan-for-iran-talks",
+      "description": "",
+      "date": "Sat, 25 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran rules out talks with US unless blockade of ports lifted",
       "link": "https://www.france24.com/en/iran-rules-out-talks-with-us-unless-blockade-of-ports-lifted",
       "description": "US envoys were expected in the Pakistani capital on Saturday to kickstart a new round of peace negotiations with Iran, although Iranian state media said Tehran's representatives had no immediate plans to hold face-to-face talks. \"According to Tehran, until and unless that blockad...",
@@ -211,6 +231,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss",
+      "description": "Iranian FM Araghchi met Pakistani PM Sharif in Islamabad as part of efforts to revive direct negotiations with the US.",
+      "date": "Sat, 25 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "African governments need to take urgent action on fertiliser shortages",
@@ -276,16 +306,6 @@
       "title": "Top Iranian and Pakistani officials meet in Islamabad",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss",
       "description": "Iran’s FM Abbas Araghchi is in Islamabad for talks with Pakistani officials, as US envoys are also set to arrive.",
-      "date": "Sat, 25 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
-      "link": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss",
-      "description": "The Hengli refinery has generated hundreds of millions of dollars for Iran&#039;s military, says US Treasury.",
       "date": "Sat, 25 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -411,6 +431,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "China to respond to inclusion of its companies in EU's 20th package anti-Russian sanctions",
+      "link": "https://tass.com/economy/2122457",
+      "description": "The Chinese side called on Brussels to immediately remove the companies from the sanctions lists and resolve any concerns that arise through dialogue",
+      "date": "Sat, 25 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Araghchi conveys to Pakistan Tehran's position, comments on US demands — TV",
+      "link": "https://tass.com/world/2122431",
+      "description": "According to Al Jazeera, during a meeting in Islamabad with the Pakistani Army chief of staff, Araghchi \"outlined Iran's position and Tehran's concerns regarding US demands",
+      "date": "Sat, 25 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US may need 5-6 years to replenish weapons used in Iran — expert",
+      "link": "https://tass.com/world/2122397",
+      "description": "This weakens the US in the face of its strategic rival, China, according to Gianluca Di Feo, a military analyst for the Italian newspaper La Repubblica",
+      "date": "Sat, 25 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Serbia to never impose sanctions against Russia despite external pressure — minister",
+      "link": "https://tass.com/world/2122395",
+      "description": "Thanks to the agreement between our two presidents, Serbia has the lowest gas prices in Europe, Serbian minister without portfolio in charge of international economic cooperation, Nenad Popovic, said",
+      "date": "Sat, 25 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
