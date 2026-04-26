@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26 20:27 UTC",
-  "total": 39,
+  "updated": "2026-04-26 21:28 UTC",
+  "total": 43,
   "stories": [
     {
       "title": "How China is responding to the stalling of talks between the U.S. and Iran",
@@ -213,6 +213,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
+      "link": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
+      "description": "Abbas Araghchi travels to Russia, where he will speak with \"senior officials\", Iran&#039;s foreign ministry says.",
+      "date": "Sun, 26 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Has Iran exposed the limits of what US can achieve by force?",
       "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/26/has-iran-exposed-the-limits-of-what-us-can-achieve-by-force?traffic_source=rss",
       "description": "Political scientist Vali Nasr argues that US and Israeli military options ‘have come up short&#039;.",
@@ -263,18 +273,8 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel destroys solar panels in south Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss",
-      "description": "Israel destroys solar panels in south Lebanon",
-      "date": "Sun, 26 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "FM Araghchi visits Pakistan for 2nd time in two days; envoy says trip undertaken to 'consult on regional developments'",
-      "link": "https://www.dawn.com/news/1995258/fm-araghchi-visits-pakistan-for-2nd-time-in-two-days-envoy-says-trip-undertaken-to-consult-on-regional-developments",
+      "title": "Iran's Araghchi visits Pakistan for 2nd time in two days; envoy says trip undertaken to discuss regional developments",
+      "link": "https://www.dawn.com/news/1995258/irans-araghchi-visits-pakistan-for-2nd-time-in-two-days-envoy-says-trip-undertaken-to-discuss-regional-developments",
       "description": "Iranian Foreign Minister Abbas Araghchi was to head to Moscow on Sunday after a short stay in Pakistan, where he landed for a second time in two days following a trip to Oman as part of his tri-nation tour, a diplomatic source told Dawn. He is undertaking the trip against the bac...",
       "date": "Sun, 26 Apr 2026",
       "source": "Dawn",
@@ -391,6 +391,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran may have tens of thousands of drones, missiles — senior Russian MP",
+      "link": "https://tass.com/politics/2122689",
+      "description": "According to Alexey Pushkov, this conflict is a matter od survival for Iran and it will \"hold out to the last\"",
+      "date": "Sun, 26 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Death toll from Israeli attacks on Lebanon exceeds 2,500 — health ministry",
+      "link": "https://tass.com/world/2122683",
+      "description": "7,755 people have been injured",
+      "date": "Sun, 26 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Hezbollah says Israel has violated ceasefire over 500 times",
+      "link": "https://tass.com/world/2122677",
+      "description": "The Shiite organization emphasized that it rejects all accusations from Israeli Prime Minister Benjamin Netanyahu and reserves the right to \"defend its land and people\"",
+      "date": "Sun, 26 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US leader says Washington discussing with Tehran removal of nuclear material",
+      "link": "https://tass.com/world/2122653",
+      "description": "The US imposed a naval blockade on Iran on April 13",
+      "date": "Sun, 26 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
