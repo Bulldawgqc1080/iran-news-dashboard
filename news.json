@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27 04:59 UTC",
-  "total": 45,
+  "updated": "2026-04-27 07:33 UTC",
+  "total": 44,
   "stories": [
     {
       "title": "How China is responding to the stalling of talks between the U.S. and Iran",
@@ -53,14 +53,14 @@
       "bias": "Low"
     },
     {
-      "title": "Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules",
-      "link": "https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket",
-      "description": "Israel and Lebanon have agreed to extend their ceasefire for three weeks, President Trump says. And, the Trump administration is easing rules on medical marijuana.",
-      "date": "Fri, 24 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
+      "link": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss",
+      "description": "The US announced three days ago that the ceasefire was extended by three weeks after talks.",
+      "date": "Sun, 26 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
@@ -73,10 +73,50 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "description": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
+      "date": "Sun, 26 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Who is making decisions in Iran?",
+      "link": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
+      "description": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.",
+      "date": "Fri, 24 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Couple discovers Lebanon home destroyed by Israel from satellite image",
       "link": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
       "description": "Joe Elias contacted BBC Verify following reports that his village was among several destroyed by Israeli forces.",
       "date": "Fri, 24 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says Israel-Lebanon ceasefire to be extended by three weeks",
+      "link": "https://www.bbc.com/news/articles/c62kyk5j28do?at_medium=RSS&at_campaign=rss",
+      "description": "Envoys from the two countries met in Washington as the fragile truce was due to expire on Sunday.",
+      "date": "Thu, 23 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+      "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+      "description": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+      "date": "Thu, 23 Apr 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -113,59 +153,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
-      "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-      "description": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
-      "date": "Wed, 22 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Tracking ships under fire in the Strait of Hormuz",
-      "link": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
-      "description": "Iran's top negotiator says it's \"not possible to reopen\" the strait due to \"blatent violations\" of US-Iran ceasefire.",
-      "date": "Wed, 22 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US and Iran 'locked in war of words' says Lyse Doucet",
-      "link": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss",
-      "description": "The US confirmed on Tuesday night that the Vice-President's trip to Pakistan for a second round of peace talks has been cancelled.",
-      "date": "Wed, 22 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
-      "link": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
-      "description": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
-      "date": "Wed, 22 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-      "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "description": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
-      "date": "Wed, 22 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Middle East war live: Putin receives Iran’s foreign minister amid stalled US-Iran talks",
       "link": "https://www.france24.com/en/middle-east/20260427-middle-east-war-live-putin-iran-foreign-minister-us-iran-talks",
-      "description": "Russian President Vladimir Putin plans to meet with Iranian Foreign Minister Abbas Araghchi on Monday, Russian state media reported. Russia and Tehran, who are both subject to fierce Western sanctions, have developed an increasingly close relationship in recent years. Follow our ...",
+      "description": "Russian President Vladimir Putin plans to meet with Iranian Foreign Minister Abbas Araghchi on Monday, Russian state media reported. Moscow and Tehran, which are both subject to heavy Western sanctions, have developed an increasingly close relationship in recent years. Follow our...",
+      "date": "Mon, 27 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "King Charles III begins US visit despite press gala shooting, transatlantic tensions",
+      "link": "https://www.france24.com/en/americas/20260427-king-charles-iii-begins-four-day-us-visit-despite-shooting",
+      "description": "Britain's King Charles III and Queen Camilla began a four-day visit to the United States on Monday to honour historic ties between the two countries as the US marks its 250th anniversary. The trip will take place despite simmering transatlantic tensions over the Iran war, and a s...",
       "date": "Mon, 27 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -203,14 +203,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Deadly Israeli strikes hit Lebanon despite ceasefire extension",
-      "link": "https://www.france24.com/en/deadly-israeli-strikes-hit-lebanon-despite-ceasefire-extension",
-      "description": "Lebanese state media reported a series of new Israeli strikes in at least four different locations in the country's south late Saturday, after Israeli Prime Minister Benjamin Netanyahu ordered his military to attack Hezbollah following alleged ceasefire breaches. Attacks earlier ...",
-      "date": "Sun, 26 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "From Australia to Vietnam, the Iran war is fuelling demand for EVs",
+      "link": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss",
+      "description": "Electric vehicle sales are surging in many markets as conflict drives up the cost of running petrol and diesel vehicles.",
+      "date": "Mon, 27 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Satellite images show scale of Israeli destruction of south Lebanon towns",
@@ -283,19 +283,19 @@
       "bias": "Medium"
     },
     {
-      "title": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
-      "link": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
-      "description": "Washington and Tehran stick to their positions as mediators hope for a diplomatic breakthrough in US-Israel war on Iran.",
-      "date": "Sun, 26 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "Iran FM Araghchi says he discussed conditions for continuing US talks with ‘friends in Pakistan’",
+      "link": "https://www.dawn.com/news/1995421/iran-fm-araghchi-says-he-discussed-conditions-for-continuing-us-talks-with-friends-in-pakistan",
+      "description": "Iran’s Foreign Minister Abbas Araghchi on Monday said he discussed the “path and conditions” under which Tehran could continue its dialogue with Washington with “friends in Pakistan” during his recent visit. After visiting Pakistan twice in two days and making a trip to Oman in b...",
+      "date": "Mon, 27 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran FM Araghchi arrives in Russia as US talks remain stalled",
-      "link": "https://www.dawn.com/news/1995421/iran-fm-araghchi-arrives-in-russia-as-us-talks-remain-stalled",
-      "description": "Iran’s foreign minister arrived in Russia on Monday as peace efforts between Tehran and Washington hung in the balance, following a flurry of regional diplomacy and the collapse of planned talks in Pakistan. Abbas Araghchi arrived in Saint Petersburg, the Iranian Foreign Ministry...",
+      "title": "Iran war disrupts the circuit board supply chain, raises costs for tech firms",
+      "link": "https://www.dawn.com/news/1995450/iran-war-disrupts-the-circuit-board-supply-chain-raises-costs-for-tech-firms",
+      "description": "The conflict in the Middle East has disrupted supplies of crucial raw materials and pushed up prices of the printed circuit boards (PCB) used in almost all electronic devices, from smartphones and computers to AI servers, industry sources and executives said. The disruption is a ...",
       "date": "Mon, 27 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -343,19 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump, administration officials likely targets of shooting at White House correspondents' dinner: US official",
-      "link": "https://www.dawn.com/news/1995174/trump-administration-officials-likely-targets-of-shooting-at-white-house-correspondents-dinner-us-official",
-      "description": "United States President Donald Trump and officials in his administration were the likely targets of a suspect who fired at a security agent guarding the White House Correspondents’ Association dinner in Washington, US Acting Attorney General Todd Blanche said on Sunday. The incid...",
-      "date": "Sun, 26 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran LIVE: Iran FM arrives in Saint Petersburg for Putin talks, says Iranian state media",
+      "title": "Israel-Iran LIVE: Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
-      "description": "Iran gave U.S. a proposal for reopening the Strait Of Hormuz and ending the war, says report",
+      "description": "Iran FM arrives in Saint Petersburg for Putin talks, says Iranian state media; Iran gave U.S. a proposal for reopening the Strait Of Hormuz and ending the war, says report",
       "date": "Mon, 27 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -413,6 +403,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US-Iran standoff threatens EU with political crisis — newspaper",
+      "link": "https://tass.com/world/2122749",
+      "description": "According to Politico's source, energy costs are cascading into food, transport and housing, hitting lower-and middle-income households hardest",
+      "date": "Mon, 27 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Tehran, Moscow hold close consultations on wide range of issues — top Iranian diplomat",
+      "link": "https://tass.com/world/2122735",
+      "description": "Abbas Araghchi also pointed to constant bilateral talks between Iran and Russia",
+      "date": "Mon, 27 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Russian senator sees no sign of rift in Iranian society",
       "link": "https://tass.com/politics/2122727",
       "description": "Alexey Pushkov emphasized that Iran has \"a powerful urban culture and strong ideas in the form of the Shiite religion, which cements Iranian society\"",
@@ -426,26 +436,6 @@
       "title": "Iran gives US new proposal to reopen the Strait of Hormuz — media",
       "link": "https://tass.com/world/2122725",
       "description": "The new proposal was given to the US via Pakistani mediators",
-      "date": "Mon, 27 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Top Iranian diplomat arrives in Russian city of St. Petersburg — agency",
-      "link": "https://tass.com/world/2122711",
-      "description": "Kremlin Spokesman Dmitry Peskov said that the Russian President was scheduled to meet with the Iranian minister",
-      "date": "Mon, 27 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Top Iranian diplomat to visit Russia on Monday, meet with Putin",
-      "link": "https://tass.com/world/2122709",
-      "description": "Iranian Foreign Minister Abbas Araghchi planned \"to hold consultations with the Russian authorities on the current situation in the talks, the ceasefire and developments around the conflict\" in the Middle East\"",
       "date": "Mon, 27 Apr 2026",
       "source": "TASS",
       "region": "ru",
