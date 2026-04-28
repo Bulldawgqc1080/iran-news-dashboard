@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28 22:46 UTC",
-  "total": 32,
+  "updated": "2026-04-28 23:43 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts",
@@ -113,6 +113,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran talks stall amid Hormuz tensions and ceasefire violations in Lebanon",
+      "link": "https://www.france24.com/en/middle-east/20260428-iran-talks-stall-amid-hormuz-tensions-and-ceasefire-violations-in-lebanon",
+      "description": "Efforts to revive talks over the Middle East war have stalled as the US weighs Iran’s latest proposal on reopening the Strait of Hormuz, a key oil route. Tensions in Lebanon continue to escalate despite a fragile ceasefire between Israel and Hezbollah.",
+      "date": "Tue, 28 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Continuing hostilities in Lebanon as 1.2 million displaced sink into despair",
       "link": "https://www.france24.com/en/tv-shows/a-propos/20260428-continuing-hostilities-in-lebanon-as-1-2-million-displaced-sink-into-despair",
       "description": "Despite a U.S.-brokered ceasefire, Israel has continued striking Lebanon and its troops are occupying a strip of the south, destroying homes they describe as Hezbollah infrastructure. Hezbollah, meanwhile, has kept up attacks against Israeli troops in Lebanon and on northern Isra...",
@@ -136,16 +146,6 @@
       "title": "King Charles to promote British-American unity in speech to Congress",
       "link": "https://www.france24.com/en/video/20260428-king-charles-to-promote-british-american-unity-in-speech-to-congress",
       "description": "Britain's King Charles will press the importance of unity with the United States and the need to defend democratic values in an address to Congress on Tuesday at a time of deep divisions between the two countries over the war in Iran. Charles ​and Queen Camilla ‌are on a four-day...",
-      "date": "Tue, 28 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Hezbollah-Israel ceasefire under strain as both sides trade fire",
-      "link": "https://www.france24.com/en/video/20260428-hezbollah-israel-ceasefire-under-strain-as-both-sides-trade-fire",
-      "description": "Israel's military on Tuesday warned residents of more than a dozen villages and towns in southern Lebanon to immediately evacuate and head northwards, saying Hezbollah's \"violation of the ceasefire\" was compelling it to act. FRANCE 24's Noga Tarnopolsky reports from Jerusalem.",
       "date": "Tue, 28 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -263,9 +263,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. Marines board merchant ship in Arabian Sea suspected to be headed to Iran",
-      "link": "https://www.thehindu.com/news/international/us-marines-board-merchant-ship-in-arabian-sea-suspected-to-be-headed-to-iran/article70918100.ece",
-      "description": "CENTCOM said U.S. forces released the vessel after conducting a search and confirming the ship's voyage would not include an Iranian port call",
+      "title": "Israel-Iran war LIVE: Trump claims Iran 'just' informed U.S. it's in 'state of collapse'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
+      "description": "Ceasefire efforts appears at a standstill, with Iran saying Washington could no longer dictate terms",
       "date": "Tue, 28 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -273,9 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Trump claims Iran 'just' informed U.S. it's in 'state of collapse'",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
-      "description": "Ceasefire efforts appears at a standstill, with Iran saying Washington could no longer dictate terms",
+      "title": "U.S. Marines board merchant ship in Arabian Sea suspected to be headed to Iran",
+      "link": "https://www.thehindu.com/news/international/us-marines-board-merchant-ship-in-arabian-sea-suspected-to-be-headed-to-iran/article70918100.ece",
+      "description": "CENTCOM said U.S. forces released the vessel after conducting a search and confirming the ship's voyage would not include an Iranian port call",
       "date": "Tue, 28 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -321,6 +321,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US administration considers option of declaring end to Iran war — Reuters",
+      "link": "https://tass.com/world/2123891",
+      "description": "According to sources cited by the news agency, US intelligence services are analyzing \"how Iran would respond\" if the US president declares a unilateral victory",
+      "date": "Tue, 28 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russia demands investigation into security threats against peacekeepers in Lebanon from UN",
+      "link": "https://tass.com/politics/2123881",
+      "description": "Vasily Nebenzya says that the perpetrators must receive punishment regardless of their status",
+      "date": "Tue, 28 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "FT calls UAE's withdrawal from OPEC big blow for cartel and Saudi Arabia",
+      "link": "https://tass.com/economy/2123877",
+      "description": "According to the article, it will be possible to fully assess the consequences of the step after the resumption of energy transportation through the Strait of Hormuz",
+      "date": "Tue, 28 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "At least five people killed in Israel’s attack on southern Lebanon — army",
+      "link": "https://tass.com/world/2123867",
+      "description": "According to the statement, the airstrike hit a building where rescue operations were conducted",
+      "date": "Tue, 28 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
