@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28 08:04 UTC",
-  "total": 31,
+  "updated": "2026-04-28 10:53 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Iran's flurry of diplomacy continues in Russia, as Trump reviews Iran's latest proposal",
@@ -21,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+      "description": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
+      "date": "Tue, 28 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
@@ -113,19 +123,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches",
-      "link": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss",
-      "description": "Iran's chief negotiator says \"violations\" by the US and Israel make it impossible to open the strait.",
-      "date": "Thu, 23 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East war live: Trump not happy with Iran's latest peace proposal, US official says",
-      "link": "https://www.france24.com/en/middle-east/20260428-middle-east-war-live-trump-not-happy-with-iran-s-latest-peace-proposal-us-official-says",
-      "description": "US President Donald ​Trump is unhappy with the latest Iranian proposal on ending the US-Israeli war against Iran, a US official told Reuters. Iran's latest proposal would reportedly set aside discussion of Iran's nuclear programme until the war is ended and disputes over shipping...",
+      "title": "US startups explore genome editing in human embryos, raising ethical concerns",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260428-us-startups-explore-genome-editing-in-human-embryos-raising-ethical-concerns",
+      "description": "PRESS REVIEW – Tuesday, April 28: Photos of starving soldiers in Ukraine make headlines. Over in the US, Donald Trump wants Jimmy Kimmel fired – again. French papers talk about the controversial Alloncle report on the neutrality and funding of public broadcasting. Also: is genome...",
       "date": "Tue, 28 Apr 2026",
       "source": "France 24",
       "region": "eu",
@@ -133,14 +133,84 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran blames US for failure of talks as FM meets with Putin",
-      "link": "https://www.france24.com/en/video/20260427-iran-blames-us-for-failure-of-talks-as-fm-meets-with-putin",
-      "description": "Iran's top Foreign Minister Abbas Araghchi blamed Washington on Monday for the failure of Middle East peace talks as he met with Russian President Vladimir Putin in St. Petersburg. Putin, meanwhile, promised Araghchi Moscow's support in bringing the war to a close.",
-      "date": "Mon, 27 Apr 2026",
+      "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends",
+      "link": "https://www.france24.com/en/video/20260428-iran-offers-to-reopen-strait-of-hormuz-if-us-lifts-its-blockade-and-the-war-ends",
+      "description": "Iran offered to end its chokehold on the Strait of Hormuz if the US lifts its blockade on the country and ends the war in a proposal that would postpone discussions on the Islamic Republic's nuclear program, two regional officials said Monday. US President Donald Trump seems unli...",
+      "date": "Tue, 28 Apr 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Lebanon health ministry says Israeli strikes kill 4 in south despite ceasefire",
+      "link": "https://www.france24.com/en/video/20260428-lebanon-health-ministry-says-israeli-strikes-kill-4-in-south-despite-ceasefire",
+      "description": "Lebanon's health ministry said Israeli strikes on the country's south on Monday killed four people including a woman and wounded 51 others, three of them children, despite a ceasefire between Israel and Hezbollah. According to an AFP tally of health ministry figures, Israeli stri...",
+      "date": "Tue, 28 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Britain's King Charles meets Trump in bid to salvage ties",
+      "link": "https://www.france24.com/en/video/20260428-britain-s-king-charles-meets-trump-in-bid-to-salvage-ties",
+      "description": "Britain's King Charles III met Donald Trump at the White House Monday, kicking off a high-stakes state visit shadowed by transatlantic tensions and a new alleged attempt to assassinate the US president. Behind the warm welcome for Charles and Queen Camilla in front of the cameras...",
+      "date": "Tue, 28 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Israel issues evacuation order for than a dozen towns in southern Lebanon",
+      "link": "https://www.france24.com/en/middle-east/20260428-middle-east-war-live-trump-not-happy-with-iran-s-latest-peace-proposal-us-official-says",
+      "description": "Israel’s military on Tuesday told people living in more than a dozen towns and villages in southern Lebanon to leave their homes and head north immediately ahead of an imminent attack. The military claimed that the attack was in response to what it described as Hezbollah’s violat...",
+      "date": "Tue, 28 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "The Process of Uranium Enrichment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/the-process-of-uranium-enrichment?traffic_source=rss",
+      "description": "The Process of Uranium Enrichment",
+      "date": "Tue, 28 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How Iran has changed, and how it hasn’t, in two months of war",
+      "link": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss",
+      "description": "Common Iranians face job losses and shortages. But key institutions remain in place, with hardliners stronger now.",
+      "date": "Tue, 28 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
+      "link": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
+      "description": "Despite setbacks, Hezbollah emerges as a key player, tied to Lebanon’s stability and US-Iran negotiations.",
+      "date": "Tue, 28 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss",
+      "description": "The White House confirms Trump met his national security advisers on Monday to discuss the plan.",
+      "date": "Tue, 28 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war: What’s happening on day 60 as diplomacy gathers pace?",
@@ -161,46 +231,6 @@
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Trump reviews peace plan; UN calls for Hormuz to reopen",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss",
-      "description": "UN chief says US-Iran standoff in the Strait of Hormuz risks triggering a global food emergency.",
-      "date": "Tue, 28 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Bahrain strips 69 people of citizenship over Iran support",
-      "link": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss",
-      "description": "Rights groups have described the move as a &#039;blatant abuse of power&#039;.",
-      "date": "Mon, 27 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Who holds the cards in Iran-US talks?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss",
-      "description": "Both the US and Iran claim to have the upper hand in negotiations over the war, but who holds the cards?",
-      "date": "Mon, 27 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Britain's King Charles meets Trump in bid to salvage ties",
-      "link": "https://www.dawn.com/news/1995748/britains-king-charles-meets-trump-in-bid-to-salvage-ties",
-      "description": "Britain’s King Charles III met Donald Trump at the White House early Tuesday, kicking off a high-stakes state visit shadowed by transatlantic tensions and a new alleged attempt to assassinate the US president. Behind the warm welcome for Charles and Queen Camilla in front of the ...",
-      "date": "Tue, 28 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
     },
     {
       "title": "Russia backs Iran as peace efforts with US remain stalled",
@@ -253,9 +283,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "King Charles jets to US for four-day trip amid Iran conflict, media gala shooting",
+      "link": "https://www.dawn.com/news/1995484/king-charles-jets-to-us-for-four-day-trip-amid-iran-conflict-media-gala-shooting",
+      "description": "Britain’s King Charles and Queen Camilla will arrive in the United States later on Monday for a four-day trip, a tour which has taken on even greater prominence after the White House Correspondents’ dinner shooting and amid acrimony between the close allies. The state visit, by f...",
+      "date": "Mon, 27 Apr 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel-Iran war LIVE: Iran says U.S. no longer in position to ‘dictate’ policy to other nations",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
       "description": "U.S., Iran clash over Tehran's nuclear programme as review of atomic treaty begins at UN; Iranian Foreign Minister praises Russia ties, welcomes Moscow's support for diplomacy",
+      "date": "Tue, 28 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. says examining latest Iran proposal on Hormuz",
+      "link": "https://www.thehindu.com/news/international/us-says-examining-latest-iran-proposal-on-hormuz/article70915729.ece",
+      "description": "Iran has blockaded the waterway — a vital conduit for oil and gas shipments — since the start of the U.S.-Israeli offensive two months ago, sending shockwaves through the global economy",
+      "date": "Tue, 28 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. no longer in position to ‘dictate’ policy to other nations, says Iran",
+      "link": "https://www.thehindu.com/news/international/us-no-longer-in-position-to-dictate-policy-to-other-nations-says-iran/article70915569.ece",
+      "description": "While a ceasefire has halted the fighting between Iran, the U.S. and Israel, talks on bringing a permanent conclusion to the conflict have been inconclusive",
       "date": "Tue, 28 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -287,26 +347,6 @@
       "link": "https://www.thehindu.com/news/international/freedom-of-navigation-not-negotiable-imo-addresses-un-security-council-on-maritime-safety-in-strait-of-hormuz/article70913759.ece",
       "description": "Any deviation from these well-established and recognized principles would set a negative precedent and severely undermine the integrity and stability of shipping operations worldwide, IMO Secretary-General said",
       "date": "Tue, 28 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S., Iran clash over Tehran's nuclear programme as review of atomic treaty begins at UN",
-      "link": "https://www.thehindu.com/news/international/us-iran-clash-over-tehrans-nuclear-programme-as-review-of-atomic-treaty-begins-at-un/article70913989.ece",
-      "description": "Russian Ambassador-at-Large Andrey Belousov, head of its delegation to the conference, objected to singling out Iran and expressed hope that the criticism and “politicisation” starting on day one will not affect the outcome, which he expressed hope will be successful",
-      "date": "Tue, 28 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran updates: Trump discussed new Iran proposal with national security aides, says White House",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
-      "description": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Putin talks, says Iranian state media",
-      "date": "Mon, 27 Apr 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
