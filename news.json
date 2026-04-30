@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-30 01:53 UTC",
-  "total": 38,
+  "updated": "2026-04-30 05:21 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "The Iran war now has a price tag ($25 billion), but still no end date",
@@ -113,6 +113,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran crisis, World Cup tensions overshadow FIFA Congress in Vancouver",
+      "link": "https://www.france24.com/en/sport/20260430-iran-world-cup-fifa-congress-vancouver",
+      "description": "Football officials gather in Vancouver on Thursday for FIFA’s 76th Congress, weeks before the expanded World Cup kicks off in North America. War in Iran, logistics and Russia’s ban top the agenda. Iranian federation officials left Canada abruptly, casting a shadow over the meetin...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East War Live: Trump says US may cut troops in Germany as Iran row rages",
+      "link": "https://www.france24.com/en/middle-east/20260430-middle-east-war-live-trump-says-us-may-cut-troops-in-germany-as-iran-row-rages",
+      "description": "President Donald Trump said Wednesday that the United States is considering reducing the number of its troops in Germany, amid a row with German Chancellor Friedrich Merz over the Iran war. Follow our liveblog for the latest updates.",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "'Uncertainty but a lot of resilience' in Latin America, says IDB head",
       "link": "https://www.france24.com/en/uncertainty-but-a-lot-of-resilience-in-latin-america-says-idb-head-ilan-goldfajn",
       "description": "The energy shock and economic headwinds caused by the Iran war have increased uncertainty in Latin America - but the region remains resilient. That's according to Ilan Goldfajn, President of the Inter-American Development Bank. He tells France 24 there are requests for \"targeted ...",
@@ -163,17 +183,27 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How Iranian diplomats turned embassy accounts into viral meme machines",
-      "link": "https://www.france24.com/en/middle-east/20260429-iran-embassy-memes-viral-propaganda-war-diplomats-hijack-x",
-      "description": "Memes, humour, and trolling of American politicians: This is how a handful of Iranian embassies have become superstars on “X”, attracting millions of views. But how did the old-fashioned and largely ignored accounts of Iran’s diplomats in South Africa, Thailand, and the United Ki...",
-      "date": "Wed, 29 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
+      "link": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss",
+      "description": "US President Trump meets with oil firms over ways to minimise impact on fuel supplies amid US blockade of Iranian ports.",
+      "date": "Thu, 30 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump urges Tehran to give up; Ghalibaf mocks US strategy",
+      "title": "Pro-government rally in Tehran demands end to US threats",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss",
+      "description": "Hundreds of Iranians have rallied in Tehran to demand an end to US threats and the ongoing blockade of Iranian ports.",
+      "date": "Thu, 30 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Trump urges Tehran to ‘give up’; Ghalibaf mocks US strategy",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss",
       "description": "Mohammad Bagher Ghalibaf ridicules US&#039;s economic pressure campaign as oil prices surge and Hormuz standoff continues.",
       "date": "Thu, 30 Apr 2026",
@@ -203,24 +233,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
-      "link": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss",
-      "description": "Pete Hegseth testifies alongside General Dan Caine, responds to questions on war Pentagon says has cost $25bn.",
-      "date": "Wed, 29 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "US turns down Iranian proposal to end war",
+      "link": "https://www.dawn.com/news/1996253/us-turns-down-iranian-proposal-to-end-war",
+      "description": "• Trump warns Iran to ‘get smart soon’, accept N-curbs; signals months-long extension of naval blockade• Tehran warns of ‘unprecedented military action’ over shipping curbs• USS Gerald R. Ford to return after 10-month deployment in ME TEHRAN/WASHIN­GTON: Amid reports about Iran’s...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action",
-      "link": "https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action?traffic_source=rss",
-      "description": "US president says Washington&#039;s naval siege on Iranian ports is &#039;more effective than the bombing&#039; as oil price soars.",
-      "date": "Wed, 29 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "Pentagon chief spars with lawmakers over Iran war",
+      "link": "https://www.dawn.com/news/1996210/pentagon-chief-spars-with-lawmakers-over-iran-war",
+      "description": "WASHINGTON: US Defence Secretary Pete Hegseth repeatedly clashed with Democratic lawmakers over the Iran conflict on Wednesday, in his first testimony to Congress since President Donald Trump launched the war more than two months ago. Appearing before the House Armed Services Com...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "2 Jewish men stabbed in 'terrorist' attack in London",
@@ -263,29 +293,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "5 sentenced to life in Bahrain for plotting 'terrorist acts' with Iran",
-      "link": "https://www.dawn.com/news/1995774/5-sentenced-to-life-in-bahrain-for-plotting-terrorist-acts-with-iran",
-      "description": "Five people were sentenced to life in Bahrain on Tuesday for plotting “terrorist and hostile acts” with Iran, which bombarded the tiny Gulf state during the Middle East war. Two Afghans and three Bahrainis were convicted and a fourth Bahraini was acquitted by the High Criminal Co...",
-      "date": "Tue, 28 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Britain's King Charles meets Trump in bid to salvage ties",
-      "link": "https://www.dawn.com/news/1995748/britains-king-charles-meets-trump-in-bid-to-salvage-ties",
-      "description": "Britain’s King Charles III met Donald Trump at the White House early Tuesday, kicking off a high-stakes state visit shadowed by transatlantic tensions and a new alleged attempt to assassinate the US president. Behind the warm welcome for Charles and Queen Camilla in front of the ...",
-      "date": "Tue, 28 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war LIVE: Hegseth faces questions about Iran in first congressional appearance since war began",
+      "title": "Israel-Iran war LIVE: Oil surges to four-year high, stocks slip after Trump blockade warning",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-30-2026/article70923050.ece",
-      "description": "Russian President Vladimir Putin warned Donald Trump against \"damaging consequences\" of a new military action in Iran, Kremlin aide told reporters on April 29, after the two leaders spoke by phone.",
+      "description": "While Tehran submitted a fresh proposal this week to reopen the crucial Strait of Hormuz, Donald Trump reportedly did not believe it was negotiating in good faith",
+      "date": "Thu, 30 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Why the UAE is leaving OPEC",
+      "link": "https://www.thehindu.com/news/international/why-the-uae-is-leaving-opec/article70920973.ece",
+      "description": "The decision comes as the UAE, among the alliance’s top three producers, chafes at quotas capping output at 3.2–3.4 million barrels per day despite capacity nearing five million; the timing is notable, with the country bearing the brunt of Iranian attacks, including over 2,800 dr...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Congress confronts Hegseth for the first time since Iran war started",
+      "link": "https://www.thehindu.com/news/international/congress-confronts-hegseth-for-the-first-time-since-iran-war-started/article70922051.ece",
+      "description": "Democrats quickly pivoted to the ballooning costs of the war, the huge drawdown of critical U.S. munitions and the bombing of a school that killed children",
       "date": "Thu, 30 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -296,16 +326,6 @@
       "title": "Israel-Iran war updates: Jaishankar holds talks with Iran's Foreign Minister on West Asia situation",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-29-2026/article70918966.ece",
       "description": "U.S. Congress will grill Defence Secretary Pete Hegseth on the West Asia conflict on Wednesday",
-      "date": "Wed, 29 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Congress confronts Hegseth for the first time since Iran war started",
-      "link": "https://www.thehindu.com/news/international/congress-confronts-hegseth-for-the-first-time-since-iran-war-started/article70922051.ece",
-      "description": "Democrats quickly pivoted to the ballooning costs of the war, the huge drawdown of critical U.S. munitions and the bombing of a school that killed children",
       "date": "Wed, 29 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -331,56 +351,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Merz says relations with Trump are good despite spat over Iran",
-      "link": "https://www.thehindu.com/news/international/merz-says-relations-with-trump-are-good-despite-spat-over-iran/article70921626.ece",
-      "description": "My personal relationship ‌with the U.S. President remains good. I simply ‌had ⁠doubts from the start about what was begun ⁠with the war in Iran. That is why I have made that clear, says German Chancellor Friedrich Merz ​",
-      "date": "Wed, 29 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US may use hypersonic weapons against Iran — agency",
-      "link": "https://tass.com/world/2124575",
-      "description": "According to Bloomberg, if the plan comes to fruition, this will be the first time that the US has deployed hypersonic missiles",
-      "date": "Thu, 30 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US says has redirected over 40 vessels since beginning of naval blockade of Iran",
-      "link": "https://tass.com/world/2124571",
-      "description": "CENTCOM Commander Admiral Brad Cooper says Tehran cannot sell around 69 million barrels of oil already loaded onboard its tankers due to the blockade",
-      "date": "Wed, 29 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump again calls on Iran to surrender",
-      "link": "https://tass.com/world/2124551",
-      "description": "The US leader says that the Islamic republic has already been defeated",
-      "date": "Wed, 29 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump believes conflicts around Ukraine, Iran may end simultaneously",
-      "link": "https://tass.com/world/2124549",
-      "description": "The US leader said he does not know, which war would end first",
-      "date": "Wed, 29 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
