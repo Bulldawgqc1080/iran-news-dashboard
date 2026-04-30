@@ -1,7 +1,27 @@
 {
-  "updated": "2026-04-30 08:01 UTC",
-  "total": 40,
+  "updated": "2026-04-30 10:44 UTC",
+  "total": 44,
   "stories": [
+    {
+      "title": "Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon",
+      "link": "https://www.npr.org/2026/04/30/g-s1-119210/lebanon-israel-war",
+      "description": "In southern Lebanon, towns near the border with Israel have been largely destroyed by Israeli demolitions and strikes. Israel says it has been attacking Hezbollah infrastructure, but civilian infrastructure has also been significantly affected.",
+      "date": "Thu, 30 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Trump says he spoke with Putin about a possible ceasefire in Ukraine",
+      "link": "https://www.npr.org/2026/04/30/nx-s1-5805188/trump-says-he-spoke-with-putin-about-a-possible-ceasefire-in-ukraine",
+      "description": "President Trump said he talked to Russian President Putin Wednesday about the wars in Ukraine and Iran.",
+      "date": "Thu, 30 Apr 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump says he is weighing reducing American troop presence in Germany after Iran feud",
       "link": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
@@ -83,16 +103,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says Israel-Lebanon ceasefire to be extended by three weeks",
-      "link": "https://www.bbc.com/news/articles/c62kyk5j28do?at_medium=RSS&at_campaign=rss",
-      "description": "Envoys from the two countries met in Washington as the fragile truce was due to expire on Sunday.",
-      "date": "Thu, 23 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Who is making decisions in Iran?",
       "link": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
       "description": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.",
@@ -123,6 +133,56 @@
       "bias": "Low-Med"
     },
     {
+      "title": "In Tehran, money is short and a return to war looms over daily life",
+      "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+      "date": "Thu, 23 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US: Hegseth under fire in Congress over Iran war as diplomacy stalls",
+      "link": "https://www.france24.com/en/us-hegseth-under-fire-in-congress-over-iran-war-as-diplomacy-stalls",
+      "description": "Pete Hegseth faced sharp criticism in Congress over launching the Iran conflict without approval, as Democrats condemned the war’s justification and its estimated $25 billion cost. Meanwhile, Donald Trump rejected Iran’s proposal on the Strait of Hormuz, leaving negotiations at a...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Crude oil prices hit four-year high as Iran war threatens to drag on",
+      "link": "https://www.france24.com/en/tv-shows/business/20260430-crude-oil-prices-hit-four-year-high-as-iran-war-threatens-to-drag-on",
+      "description": "Brent crude has jumped to its highest level since the start of the Ukraine war after US President Donald Trump signalled that the American blockade on the Strait of Hormuz could last for months. Also in this edition: the US Federal Reserve prepares for a new chief as its board tr...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Strait of Hormuz: Iran-US standoff drags on",
+      "link": "https://www.france24.com/en/strait-of-hormuz-iran-us-standoff-drags-on",
+      "description": "Donald Trump says a US naval blockade on Iran could last for months, as the standoff between Washington and Tehran continues. The crisis has disrupted oil flows through the Strait of Hormuz, sending prices to multi-year highs. FRANCE 24's correspondent in Tehran, Reza Sayah, has ...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East: Rising tensions on Israel’s border as Iran negotiations falter",
+      "link": "https://www.france24.com/en/middle-east-rising-tensions-on-israel-s-border-as-iran-negotiations-falter",
+      "description": "Tensions between Hezbollah and Israel are escalating after a reported breach of the “yellow line,” with Israel threatening further strikes. Talks between Iran and the US remain stalled, complicating efforts to contain the situation. Meanwhile, Israel faces a growing scandal over ...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran crisis, World Cup tensions overshadow FIFA Congress in Vancouver",
       "link": "https://www.france24.com/en/sport/20260430-iran-world-cup-fifa-congress-vancouver",
       "description": "Football officials gather in Vancouver on Thursday for FIFA’s 76th Congress, weeks before the expanded World Cup kicks off in North America. War in Iran, logistics and Russia’s ban top the agenda. Iranian federation officials left Canada abruptly, casting a shadow over the meetin...",
@@ -143,34 +203,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Uncertainty but a lot of resilience' in Latin America, says IDB head",
-      "link": "https://www.france24.com/en/uncertainty-but-a-lot-of-resilience-in-latin-america-says-idb-head-ilan-goldfajn",
-      "description": "The energy shock and economic headwinds caused by the Iran war have increased uncertainty in Latin America - but the region remains resilient. That's according to Ilan Goldfajn, President of the Inter-American Development Bank. He tells France 24 there are requests for \"targeted ...",
-      "date": "Wed, 29 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Civilians or Hezbollah: Who did Israel hit on Lebanon’s ‘Black Wednesday’?",
+      "link": "https://www.aljazeera.com/news/2026/4/30/civilians-or-hezbollah-who-did-israel-hit-on-lebanons-black-wednesday?traffic_source=rss",
+      "description": "Israel says it targeted Hezbollah, but experts say the evidence proves otherwise.",
+      "date": "Thu, 30 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iranian football officials leave Canada before FIFA Congress due to airport 'insult'",
-      "link": "https://www.france24.com/en/americas/20260429-iranian-football-officials-leave-canada-before-fifa-congress-due-to-airport-insult",
-      "description": "A team of Iranian football officials left Canada before the start of this week's FIFA Congress due to the \"inappropriate behaviour\" of immigration officials at Toronto airport, Iranian media reported Wednesday. The Iranian federation's president is a former member of Iran's Revol...",
-      "date": "Wed, 29 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Viral LEGO-style AI videos blur line between entertainment and propaganda",
-      "link": "https://www.france24.com/en/viral-lego-style-ai-videos-blur-line-between-entertainment-and-propaganda",
-      "description": "The LEGO-style videos making fun of Donald Trump over his war in Iran have racked up millions of views on social media. FRANCE 24's Tehran correspondent spoke to the content creator blurring the line between entertainment and propaganda.",
-      "date": "Wed, 29 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Pakistan opens up road trade routes into Iran amid Hormuz blockade",
+      "link": "https://www.aljazeera.com/news/2026/4/30/pakistan-opens-up-road-trade-routes-into-iran-amid-hormuz-blockade?traffic_source=rss",
+      "description": "With shipping disrupted by US-Iran tensions, Islamabad activates overland corridor to move stranded cargo into Iran.",
+      "date": "Thu, 30 Apr 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war: What’s happening on day 62 as Trump asks Iran to ‘give up’?",
@@ -227,16 +277,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss",
       "description": "Mohammad Bagher Ghalibaf ridicules US&#039;s economic pressure campaign as oil prices surge and Hormuz standoff continues.",
       "date": "Thu, 30 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss",
-      "description": "Donald Trump said that Vladimir Putin told him he’d “like to be involved” in settling Iranian nuclear enrichment.",
-      "date": "Wed, 29 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -303,19 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Oil surges to four-year high, stocks slip after Trump blockade warning",
+      "title": "Israel-Iran war LIVE: Iran president says U.S. naval blockade 'doomed to fail'",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-30-2026/article70923050.ece",
-      "description": "Meanwhile, Defence Secretary Peter Hegseth faced withering questions about Iran in first congressional appearance since war began",
-      "date": "Thu, 30 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war updates: Jaishankar holds talks with Iran's Foreign Minister on West Asia situation",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-29-2026/article70918966.ece",
-      "description": "U.S. Congress will grill Defence Secretary Pete Hegseth on the West Asia conflict on Wednesday",
+      "description": "Oil surges to four-year high; U.S. Defence Secretary Peter Hegseth questioned in first congressional appearance since the war began",
       "date": "Thu, 30 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -326,6 +356,16 @@
       "title": "Why the UAE is leaving OPEC",
       "link": "https://www.thehindu.com/news/international/why-the-uae-is-leaving-opec/article70920973.ece",
       "description": "The decision comes as the UAE, among the alliance’s top three producers, chafes at quotas capping output at 3.2–3.4 million barrels per day despite capacity nearing five million; the timing is notable, with the country bearing the brunt of Iranian attacks, including over 2,800 dr...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war updates: Jaishankar holds talks with Iran's Foreign Minister on West Asia situation",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-29-2026/article70918966.ece",
+      "description": "U.S. Congress will grill Defence Secretary Pete Hegseth on the West Asia conflict on Wednesday",
       "date": "Thu, 30 Apr 2026",
       "source": "The Hindu",
       "region": "me",
@@ -363,9 +403,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Aggression against Iran negatively affecting Caspian Sea — Lavrov",
-      "link": "https://tass.com/politics/2124671",
-      "description": "The Russian foreign minister said the Caspian region should remain a zone of peace and cooperation",
+      "title": "US fails to meet set goals by imposing naval blockade on Iran — President Pezeshkian",
+      "link": "https://tass.com/world/2124851",
+      "description": "\"Any possible attempts to impose a naval blockade and restrictions are contrary to international law,\" Iranian President Masoud Pezeshkian said",
       "date": "Thu, 30 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -373,9 +413,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US seeks to create new coalition for Strait of Hormuz — newspaper",
-      "link": "https://tass.com/world/2124627",
-      "description": "The Wall Street Journal reported that the new US-led coalition will be tasked with helping participants share information, coordinate diplomatic efforts, and ensure compliance with sanctions",
+      "title": "Over 30 mln could fall into poverty due to conflict over Iran — UNDP chief",
+      "link": "https://tass.com/society/2124845",
+      "description": "According to UNDP, the poverty problem amid the conflict over Iran and the resulting energy crisis will particularly affect sub-Saharan Africa, as well as some Asian countries such as Bangladesh and Cambodia",
       "date": "Thu, 30 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -383,9 +423,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US may use hypersonic weapons against Iran — agency",
-      "link": "https://tass.com/world/2124575",
-      "description": "According to Bloomberg, if the plan comes to fruition, this will be the first time that the US has deployed hypersonic missiles",
+      "title": "Russia has no data on Iran’s alleged aspirations for nuclear weapons — Medvedev",
+      "link": "https://tass.com/politics/2124787",
+      "description": "The Russian Security Council deputy chairman noted that Israel, unlike Iran, is allowed to have these weapons for some reason",
       "date": "Thu, 30 Apr 2026",
       "source": "TASS",
       "region": "ru",
@@ -393,10 +433,10 @@
       "bias": "Very High"
     },
     {
-      "title": "US says redirected over 40 vessels since beginning of naval blockade of Iran",
-      "link": "https://tass.com/world/2124571",
-      "description": "CENTCOM Commander Admiral Brad Cooper says Tehran cannot sell around 69 million barrels of oil already loaded onboard its tankers due to the blockade",
-      "date": "Wed, 29 Apr 2026",
+      "title": "Iranian president says Persian Gulf security requires regional states’ cooperation",
+      "link": "https://tass.com/world/2124781",
+      "description": "Masoud Pezeshkian held the United States and Israel responsible for \"any instability in the Persian Gulf\"",
+      "date": "Thu, 30 Apr 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
