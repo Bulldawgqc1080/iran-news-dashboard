@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-30 20:03 UTC",
-  "total": 40,
+  "updated": "2026-04-30 21:45 UTC",
+  "total": 43,
   "stories": [
     {
       "title": "Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act",
@@ -51,6 +51,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+      "description": "At least nine people - including two children - were killed, according to Lebanon's health ministry.",
+      "date": "Thu, 30 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
@@ -143,11 +153,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "In Tehran, money is short and a return to war looms over daily life",
-      "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
-      "date": "Thu, 23 Apr 2026",
-      "source": "BBC",
+      "title": "Iran’s supreme leader tells US its only place in Persian Gulf is at ‘bottom of its waters’",
+      "link": "https://www.france24.com/en/middle-east/20260430-iran-s-supreme-leader-tells-us-its-only-place-in-persian-gulf-is-at-bottom-of-its-waters",
+      "description": "Iran's new Supreme Leader Ayatollah Mojtaba Khamenei on Thursday said the US had been defeated in its war against the Islamic Republic and that its only place in the Persian Gulf was “at the bottom of its waters\". Khamenei's written message, which was read on state TV, was releas...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Germany says 'prepared' for any US troop reduction",
+      "link": "https://www.france24.com/en/germany-says-prepared-for-any-us-troop-reduction",
+      "description": "Germany said Thursday it was \"prepared\" for a possible reduction in US troops threatened by President Donald Trump, who kept up his barrage of attacks on Chancellor Friedrich Merz. Trump said that Washington was considering redeploying some of the tens of thousands of its troops ...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan: The US 'was always banking on' Islamabad mediation",
+      "link": "https://www.france24.com/en/video/20260430-pakistan-the-us-was-always-banking-on-islamabad-mediation",
+      "description": "“The US was always going to bank on Pakistan.” Bilal Khan says #Pakistan’s role as mediator between the US and #Iran comes as no surprise, considering Trump’s partiality towards leaders Asim Munir. More on #F24Debate ➡️ https://f24.my/BtMM",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -163,47 +193,37 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Beirut-based director Lana Daher on her debut film 'Do You Love Me'",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20260430-beirut-based-director-lana-daher-on-her-debut-film-do-you-love-me",
-      "description": "A Beirut-based filmmaker whose debut feature film has been described as an ode to the collective courage of the Lebanese people has spoken to FRANCE 24 about the film and her love for the city. Lana Daher has spent years working in Beirut and the last six years delving through th...",
+      "title": "Hegseth testifies on Iran war before Senate committee: Key takeaways",
+      "link": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss",
+      "description": "Pentagon chief testifies alongside top general for second day, in first public Congressional hearings since war began.",
       "date": "Thu, 30 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Energy fears drive Gulf mediation in US-Iran conflict",
-      "link": "https://www.france24.com/en/energy-fears-drive-gulf-mediation-in-us-iran-conflict",
-      "description": "Gulf countries are quietly pressuring the United States and Iran to reach a deal as the conflict disrupts vital oil exports and takes a growing economic toll. Working behind the scenes, including through Pakistan, they are trying to revive negotiations despite tensions with Tehra...",
+      "title": "How is Israel replicating its Gaza tactics in Lebanon?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss",
+      "description": "Widespread Israeli attacks on civilian targets in Lebanon are a repeated tactic from Gaza.",
       "date": "Thu, 30 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Viral pro-Iran AI memes blur lines between propaganda and entertainment",
-      "link": "https://www.france24.com/en/viral-pro-iran-ai-memes-blur-lines-between-propaganda-and-entertainment",
-      "description": "Iranian-American creator Mahdi Hemmat is gaining millions of views with AI-generated, Lego-style rap videos that blend satire, pop culture and political messaging about the conflict involving Iran, the United States and Israel. While presented as entertainment, the content promot...",
+      "title": "Trumps says Iran can play at World Cup in US after FIFA confirmation",
+      "link": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss",
+      "description": "FIFA chief Gianni Infantino has said Iran will play their World Cup matches, leading to agreement from US President.",
       "date": "Thu, 30 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Mali crisis deepens as separatists and jihadists step up attacks",
-      "link": "https://www.france24.com/en/mali-crisis-deepens-as-separatists-and-jihadists-step-up-attacks",
-      "description": "Mali’s military launched strikes on Kidal after separatist Azawad Liberation Front fighters claimed control, while coordinated attacks with jihadist group JNIM intensified insecurity. As rebels push to expand their reach and demand the withdrawal of Russian forces, jihadists have...",
-      "date": "Thu, 30 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran confirmed to play at World Cup according to FIFA chief Infantino",
+      "title": "Iran will play World Cup games in US according to FIFA chief Infantino",
       "link": "https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss",
       "description": "Iran&#039;s place at the US cohosted 2026 event has been in doubt since the US-Israeli war on their country.",
       "date": "Thu, 30 Apr 2026",
@@ -246,36 +266,6 @@
       "title": "Trump slams Germany’s Merz again as rift over Iran war widens",
       "link": "https://www.aljazeera.com/news/2026/4/30/trump-slams-germanys-merz-again-as-rift-over-iran-war-widens?traffic_source=rss",
       "description": "Berlin says &#039;prepared&#039; for fewer US troops, as Trump says German chancellor should focus on European affairs, not Iran.",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran, protests, human rights – all to know about the 76th FIFA Congress",
-      "link": "https://www.aljazeera.com/sports/2026/4/30/iran-protests-human-rights-all-to-know-about-the-76th-fifa?traffic_source=rss",
-      "description": "The pre-World Cup congress will be headlined by geopolitical tensions, human rights concerns and logistical issues.",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US military equipment worth billions of dollars destroyed in Iran war",
-      "link": "https://www.aljazeera.com/news/2026/4/30/us-military-equipment-worth-billions-of-dollars-destroyed-in-iran-war?traffic_source=rss",
-      "description": "The United States lost aerial equipment worth up to $2.8bn, according to a US-based think tank.",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Was Israeli PM’s Lebanon destruction video a snub to Trump?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/was-israeli-pms-lebanon-destruction-video-a-snub-to-trump-2?traffic_source=rss",
-      "description": "Hours after Trump asked Netanyahu to stop destroying buildings in Lebanon, Israel&#039;s leader posted a destruction montage.",
       "date": "Thu, 30 Apr 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -401,6 +391,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Air defenses activated in Tehran — Mehr",
+      "link": "https://tass.com/world/2125249",
+      "description": "",
+      "date": "Thu, 30 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US to remember Europe’s lack of aid in Iran war — Trump",
+      "link": "https://tass.com/world/2125247",
+      "description": "While commenting on the lack of support from the US's European NATO allies at the beginning of the military operation against Iran, the US leader said that they were not there when the US needed them",
+      "date": "Thu, 30 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US already wins in Iran, Trump says as he eyes even bigger victory",
+      "link": "https://tass.com/world/2125245",
+      "description": "Donald Trump again lashed out the North Atlantic Alliance for not helping Washington in its military operation against the Islamic Republic",
+      "date": "Thu, 30 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UAE bans citizens from traveling to Iran, Iraq, Lebanon — foreign ministry",
+      "link": "https://tass.com/world/2125241",
+      "description": "The UAE Foreign Ministry did not disclose the reasons for this decision",
+      "date": "Thu, 30 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
