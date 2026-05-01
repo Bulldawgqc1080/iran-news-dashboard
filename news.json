@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-01 05:35 UTC",
-  "total": 41,
+  "updated": "2026-05-01 08:00 UTC",
+  "total": 47,
   "stories": [
+    {
+      "title": "Hegseth faces questions about Iran in first congressional appearance since war began",
+      "link": "https://www.npr.org/2026/05/01/g-s1-119666/hegseth-faces-questions-about-iran",
+      "description": "Making his first appearance before Congress since the Trump administration went to war against Iran, Defense Secretary Pete Hegseth faced withering questioning from skeptical Democrats.",
+      "date": "Fri, 01 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "20,000 civilian sailors are stuck in the gulf that opens to the Strait of Hormuz",
       "link": "https://www.npr.org/2026/04/30/nx-s1-5802991/20-000-civilian-sailors-are-stuck-in-the-gulf-that-opens-to-the-strait-of-hormuz",
@@ -36,16 +46,6 @@
       "title": "Trump says he spoke with Putin about a possible ceasefire in Ukraine",
       "link": "https://www.npr.org/2026/04/30/nx-s1-5805188/trump-says-he-spoke-with-putin-about-a-possible-ceasefire-in-ukraine",
       "description": "President Trump said he talked to Russian President Putin Wednesday about the wars in Ukraine and Iran.",
-      "date": "Thu, 30 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump says he is weighing reducing American troop presence in Germany after Iran feud",
-      "link": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
-      "description": "President Trump suggested he could soon reduce the U.S. military presence in Germany as he continues to feud with Chancellor Friedrich Merz over the U.S-Israel war against Iran.",
       "date": "Thu, 30 Apr 2026",
       "source": "NPR News",
       "region": "us",
@@ -153,9 +153,59 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East War Live: Iran’s supreme leader vows to protect nuclear and missile capabilities",
+      "title": "US considers reducing troops in Germany",
+      "link": "https://www.france24.com/en/us-considers-reducing-troops-in-germany",
+      "description": "German Chancellor Friedrich Merz has maintained that the transatlantic partnership remains strong, despite escalating tensions with Donald Trump, who has criticized Merz since the chancellor remarked earlier this week that the US was being “humiliated” by Tehran. Trump has also t...",
+      "date": "Fri, 01 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "At least 15 killed in southern Lebanon",
+      "link": "https://www.france24.com/en/at-least-15-killed-in-southern-lebanon",
+      "description": "The US embassy in Beirut said Lebanon is at a critical crossroads and called for a meeting between Lebanese President Joseph Aoun and Israeli Prime Minister Benjamin Netanyahu, despite a fragile situation that many Lebanese would find hard to describe as a true ceasefire. On Thur...",
+      "date": "Fri, 01 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Deadline for US Congress on war in Iran",
+      "link": "https://www.france24.com/en/deadline-for-us-congress-on-war-in-iran",
+      "description": "The US President is reportedly considering new military strike options against Iran. According to Axios, US Central Command has drafted a plan involving a series of “short and powerful” strikes aimed at breaking the current stalemate in negotiations. The report briefly pushed oil...",
+      "date": "Fri, 01 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Opening Hormuz 'not a humanitarian gesture': Essential to keeping global food system operating",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260501-opening-hormuz-not-a-humanitarian-gesture-essential-to-keeping-global-food-system-operating",
+      "description": "Amid geopolitical volatility and economic fragility, François Picard is pleased to welcome John W.H. Denton, Secretary General of the International Chamber of Commerce. Mr. Denton is warning that \"the Strait of Hormuz is about much more than oil and gas\": We are drifting toward a...",
+      "date": "Fri, 01 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Workers across the world march for peace and better pay in May Day rallies",
+      "link": "https://www.france24.com/en/culture/20260501-workers-across-the-world-march-for-peace-and-better-pay-in-may-day-rallies",
+      "description": "May Day rallies across the world brought workers out in force on Friday to protest rising energy prices caused by the US-Israeli war on Iran. Here's everything you need to know about the demonstrations taking place from Islamabad to Istanbul.",
+      "date": "Fri, 01 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Iran briefly activates Tehran air defences against ‘reconnaissance drones’",
       "link": "https://www.france24.com/en/middle-east/20260501-middle-east-war-live-iran-supreme-leader-nuclear-missile-capabilities",
-      "description": "Iran’s supreme leader defiantly vowed Thursday to protect the Islamic Republic’s nuclear and missile capabilities, which US President Donald Trump has sought to curtail through airstrikes and as part of a wider deal to cement the war’s shaky ceasefire. Follow our liveblog for the...",
+      "description": "Tehran's air defences were activated for around 20 minutes late Thursday \"to counter small aircraft and reconnaissance drones\", Tasnim and Fars news agencies reported. And the administration of US President Donald Trump signalled it would not be reined in by a looming deadline to...",
       "date": "Fri, 01 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -183,34 +233,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran’s supreme leader tells US its only place in Persian Gulf is at ‘bottom of its waters’",
-      "link": "https://www.france24.com/en/middle-east/20260430-iran-s-supreme-leader-tells-us-its-only-place-in-persian-gulf-is-at-bottom-of-its-waters",
-      "description": "Iran's new Supreme Leader Ayatollah Mojtaba Khamenei on Thursday said the US had been defeated in its war against the Islamic Republic and that its only place in the Persian Gulf was “at the bottom of its waters\". Khamenei's written message, which was read on state TV, was releas...",
-      "date": "Thu, 30 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Why is piracy rising off Somalia again — and is the Iran war responsible?",
+      "link": "https://www.aljazeera.com/news/2026/5/1/why-is-piracy-rising-off-somalia-again-and-is-the-iran-war?traffic_source=rss",
+      "description": "At least four vessels have been hijacked in the past week or two, raising fears of a piracy resurgence.",
+      "date": "Fri, 01 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Germany says 'prepared' for any US troop reduction",
-      "link": "https://www.france24.com/en/germany-says-prepared-for-any-us-troop-reduction",
-      "description": "Germany said Thursday it was \"prepared\" for a possible reduction in US troops threatened by President Donald Trump, who kept up his barrage of attacks on Chancellor Friedrich Merz. Trump said that Washington was considering redeploying some of the tens of thousands of its troops ...",
-      "date": "Thu, 30 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
+      "link": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks?traffic_source=rss",
+      "description": "Iran’s president calls the US siege &#039;intolerable&#039; as Donald Trump says war may resume.",
+      "date": "Fri, 01 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Pakistan: The US 'was always banking on' Islamabad mediation",
-      "link": "https://www.france24.com/en/video/20260430-pakistan-the-us-was-always-banking-on-islamabad-mediation",
-      "description": "“The US was always going to bank on Pakistan.” Bilal Khan says #Pakistan’s role as mediator between the US and #Iran comes as no surprise, considering Trump’s partiality towards leaders Asim Munir. More on #F24Debate ➡️ https://f24.my/BtMM",
-      "date": "Thu, 30 Apr 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Trump backs FIFA letting Iran play at World Cup in US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-backs-fifa-letting-iran-play-at-world-cup-in-us?traffic_source=rss",
+      "description": "After months of campaigns and questions, FIFA says Iran will compete in the World Cup and matches will remain in the US.",
+      "date": "Fri, 01 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
@@ -263,34 +313,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran will play World Cup games in US according to FIFA chief Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss",
-      "description": "Iran&#039;s place at the US cohosted 2026 event has been in doubt since the US-Israeli war on their country.",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Al Jazeera",
+      "title": "Trump's war powers deadline expires Friday as officials cite ceasefire loophole",
+      "link": "https://www.dawn.com/news/1996630/trumps-war-powers-deadline-expires-friday-as-officials-cite-ceasefire-loophole",
+      "description": "President Donald Trump faces a critical legal deadline on Friday that could determine the future of US military operations against Iran, even as his administration signals it may rely on a controversial legal interpretation to bypass congressional approval. Under the War Powers R...",
+      "date": "Fri, 01 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss",
-      "description": "More than a dozen sailors, mostly from Pakistan, are being held by Somali pirates as hijackings and harassment surge.",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Lebanese girl mourns paramedic father killed in Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss",
-      "description": "A young girl in Lebanon joined hundreds mourning her father, one of three paramedics killed in an Israeli attack.",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "UN chief warns Hormuz closure ‘strangling’ global economy",
@@ -343,19 +373,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US turns down Iranian proposal to end war",
-      "link": "https://www.dawn.com/news/1996253/us-turns-down-iranian-proposal-to-end-war",
-      "description": "• Trump warns Iran to ‘get smart soon’, accept N-curbs; signals months-long extension of naval blockade• Tehran warns of ‘unprecedented military action’ over shipping curbs• USS Gerald R. Ford to return after 10-month deployment in ME TEHRAN/WASHIN­GTON: Amid reports about Iran’s...",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Dawn",
+      "title": "Israel-Iran war LIVE: Iran activates air defences as Trump faces congressional deadline",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece",
+      "description": "Trump administration says its war in Iran has been ’terminated’ before 60-day deadline",
+      "date": "Fri, 01 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Trump administration says its war in Iran has been ’terminated’ before 60-day deadline",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece",
-      "description": "President Donald Trump said on Thursday he may pull U.S. troops from Italy and Spain due to their opposition to the Iran war, a day after proposing a similar reduction in Germany",
+      "title": "Hezbollah adopts new weapon: Fibre-optic drones, used widely in war in Ukraine",
+      "link": "https://www.thehindu.com/news/international/hezbollah-adopts-new-weapon-fibre-optic-drones-used-widely-in-war-in-ukraine/article70927615.ece",
+      "description": "Fibre-optic drones have a thin cable that connects an operator directly to the drone, making it impossible to electronically jam",
       "date": "Fri, 01 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -403,14 +433,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump in fresh attack on Germany's Merz over Iran",
-      "link": "https://www.thehindu.com/news/international/trump-in-fresh-attack-on-germanys-merz-over-iran/article70926007.ece",
-      "description": "He added that Merz should spend \"less time on interfering with those that are getting rid of the Iran Nuclear threat, thereby making the World, including Germany, a safer place!”",
+      "title": "INTERVIEW: Tehran rejects all European initiatives on Hormuz Strait - Iranian ambassador",
+      "link": "https://tass.com/world/2125307",
+      "description": "Mohammad Reza Sabouri, Iran’s ambassador to Italy, called on European countries to address the root causes of the current situation",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "INTERVIEW: Tehran prioritizes diplomatic settlement with US — Iranian ambassador",
+      "link": "https://tass.com/world/2125297",
+      "description": "Negotiations should not become a tool for deception or the advancement of military objectives, Mohammad Reza Sabouri, the Islamic Republic’s ambassador to Italy, said",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "West threatens Georgia because it rejected anti-Russian sanctions — party leader",
+      "link": "https://tass.com/world/2125279",
+      "description": "Tbilisi Mayor Kakha Kaladze emphasized that the Georgian government refused to join sanctions that would be harmful and devastating to the Georgian economy and the people of Georgia",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russian diplomat, IAEA chief discuss Ukraine, Iran",
+      "link": "https://tass.com/politics/2125261",
+      "description": "Mikhail Ulyanov exchanged opinions with Rafael Grossi about the review conference and the situation around Ukraine and Iran",
       "date": "Thu, 30 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
