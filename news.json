@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01 18:55 UTC",
-  "total": 37,
+  "updated": "2026-05-01 20:00 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "Hegseth faces questions about Iran in first congressional appearance since war began",
@@ -173,6 +173,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Photos: Cuba holds May Day celebrations amid US threats",
+      "link": "https://www.aljazeera.com/gallery/2026/5/1/photos-cuba-holds-may-day-celebrations-amid-us-threats?traffic_source=rss",
+      "description": "March celebrating International Workers&#039; Day coincided with announcement of further US sanctions on island.",
+      "date": "Fri, 01 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump says Iran seeks terms he ‘can’t agree to’ in latest peace proposal",
+      "link": "https://www.aljazeera.com/news/2026/5/1/us-president-trump-not-satisfied-with-irans-latest-peace-proposal?traffic_source=rss",
+      "description": "Trump says the Iranian offer sent via Pakistan contains terms he&#039;s not satisfied with.",
+      "date": "Fri, 01 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
       "link": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss",
       "description": "Poll finds that Americans are concerned about impact of the war on the cost of living and sceptical of success thus far.",
@@ -226,26 +246,6 @@
       "title": "Trump’s threat: Why cutting US troops in Europe won’t be easy",
       "link": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss",
       "description": "Amid transatlantic tensions over the Iran war, Trump has threatened to reduce troops in Germany.",
-      "date": "Fri, 01 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-      "link": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
-      "description": "Defence secretary claims hostilities have ceased, but lawmakers say US forces remain active despite halted air raids.",
-      "date": "Fri, 01 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Who profits big from the war on Iran?",
-      "link": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss",
-      "description": "Who profits big from the war on Iran?",
       "date": "Fri, 01 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -371,6 +371,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Gulf management to be aligned with command of Iran’s supreme leader — IRGC Navy",
+      "link": "https://tass.com/world/2125417",
+      "description": "The IRGC Navy will control \"almost 2,000 km of the Iranian coastline in the Persian Gulf and the Strait of Hormuz\", the statement reads",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US imposes new sanctions on Cuban regime — Trump’s executive order",
+      "link": "https://tass.com/world/2125403",
+      "description": "They target Cuban officials \"responsible for repression and threats to US national security and foreign policy\"",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US leader says he’d prefer not to resume airstrikes on Iran",
+      "link": "https://tass.com/world/2125395",
+      "description": "Donald Trump also said that the United States is not satisfied with Iran’s response to the proposal about a deal",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US military bases in Middle East cannot protect Washington’s allies — Khamenei",
+      "link": "https://tass.com/world/2125387",
+      "description": "Earlier, the Iranian supreme leader said that the United States has no place in the future of the Persian Gulf",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
