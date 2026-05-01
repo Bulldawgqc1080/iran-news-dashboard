@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01 22:39 UTC",
-  "total": 37,
+  "updated": "2026-05-01 23:41 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "Hegseth faces questions about Iran in first congressional appearance since war began",
@@ -173,6 +173,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+      "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
+      "description": "President Donald Trump has feuded with European allies over their reluctance to step up support for war on Iran.",
+      "date": "Fri, 01 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Trump considering option to ‘blast the hell out of’ Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
       "description": "US President Donald Trump said he is \"not happy\" with the latest peace proposal from Iran.",
@@ -236,16 +246,6 @@
       "title": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
       "link": "https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations?traffic_source=rss",
       "description": "Latest warning comes as Iranian state media reports Tehran has presented new peace proposal to US.",
-      "date": "Fri, 01 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
-      "link": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss",
-      "description": "UAE wants to supply more oil than its OPEC quota and that could help push down prices once the Strait of Hormuz opens.",
       "date": "Fri, 01 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -371,6 +371,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "At least eight people killed in Israeli strikes on southern Lebanon — authorities",
+      "link": "https://tass.com/world/2125427",
+      "description": "A total of 15 cities and settlements in southern Lebanon came under Israeli airstrikes over the past 24 hours",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Gulf management to be aligned with command of Iran’s supreme leader — IRGC Navy",
+      "link": "https://tass.com/world/2125417",
+      "description": "The IRGC Navy will control \"almost 2,000 km of the Iranian coastline in the Persian Gulf and the Strait of Hormuz\", the statement reads",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US imposes new sanctions on Cuban regime — Trump’s executive order",
+      "link": "https://tass.com/world/2125403",
+      "description": "They target Cuban officials \"responsible for repression and threats to US national security and foreign policy\"",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US leader says he’d prefer not to resume airstrikes on Iran",
+      "link": "https://tass.com/world/2125395",
+      "description": "Donald Trump also said that the United States is not satisfied with Iran’s response to the proposal about a deal",
+      "date": "Fri, 01 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
