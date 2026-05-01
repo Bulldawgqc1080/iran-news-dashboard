@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01 01:55 UTC",
-  "total": 45,
+  "updated": "2026-05-01 05:35 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "20,000 civilian sailors are stuck in the gulf that opens to the Strait of Hormuz",
@@ -47,16 +47,6 @@
       "link": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
       "description": "President Trump suggested he could soon reduce the U.S. military presence in Germany as he continues to feud with Chancellor Friedrich Merz over the U.S-Israel war against Iran.",
       "date": "Thu, 30 Apr 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "The Iran war now has a price tag ($25 billion), but still no end date",
-      "link": "https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date",
-      "description": "The Pentagon estimates the war has cost $25 billion over the past two months. In congressional testimony, Defense Secretary Pete Hegseth did not say when the war might end.",
-      "date": "Wed, 29 Apr 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -158,6 +148,16 @@
       "description": "A 10-day truce between the two countries has been extended by three weeks after talks in Washington.",
       "date": "Fri, 24 Apr 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East War Live: Iran’s supreme leader vows to protect nuclear and missile capabilities",
+      "link": "https://www.france24.com/en/middle-east/20260501-middle-east-war-live-iran-supreme-leader-nuclear-missile-capabilities",
+      "description": "Iran’s supreme leader defiantly vowed Thursday to protect the Islamic Republic’s nuclear and missile capabilities, which US President Donald Trump has sought to curtail through airstrikes and as part of a wider deal to cement the war’s shaky ceasefire. Follow our liveblog for the...",
+      "date": "Fri, 01 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -293,6 +293,26 @@
       "bias": "Medium"
     },
     {
+      "title": "UN chief warns Hormuz closure ‘strangling’ global economy",
+      "link": "https://www.dawn.com/news/1996527/un-chief-warns-hormuz-closure-strangling-global-economy",
+      "description": "UNITED NATIONS: The escalating crisis in the Strait of Hormuz could push tens of millions into poverty, trigger a surge in global hunger and even tip the world toward recession, United Nations Secretary General Antonio Guterres warned on Thursday. The closure of the vital waterwa...",
+      "date": "Fri, 01 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Berlin strikes defiant tone as Trump-Merz sparring continues",
+      "link": "https://www.dawn.com/news/1996555/berlin-strikes-defiant-tone-as-trump-merz-sparring-continues",
+      "description": "• US president tells German chancellor to stop interfering with Iran, focus on Ukraine war • German foreign minister says country is prepared for potential US troop reduction WASHINGTON: US President Donald Trump criticised German Chancellor Friedrich Merz on Thursday, saying he ...",
+      "date": "Fri, 01 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Amazon says damaged UAE cloud region recovery to take several months",
       "link": "https://www.dawn.com/news/1996414/amazon-says-damaged-uae-cloud-region-recovery-to-take-several-months",
       "description": "Amazon said on Thursday that restoring cloud computing operations in the United Arab Emirates (UAE), which were damaged in the conflict in the Middle East, is expected to take several months. Amazon’s data centres in the region were hit by Iranian retaliatory drone strikes in ear...",
@@ -333,21 +353,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pentagon chief spars with lawmakers over Iran war",
-      "link": "https://www.dawn.com/news/1996210/pentagon-chief-spars-with-lawmakers-over-iran-war",
-      "description": "WASHINGTON: US Defence Secretary Pete Hegseth repeatedly clashed with Democratic lawmakers over the Iran conflict on Wednesday, in his first testimony to Congress since President Donald Trump launched the war more than two months ago. Appearing before the House Armed Services Com...",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Dawn",
+      "title": "Israel-Iran war LIVE: Trump administration says its war in Iran has been ’terminated’ before 60-day deadline",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece",
+      "description": "President Donald Trump said on Thursday he may pull U.S. troops from Italy and Spain due to their opposition to the Iran war, a day after proposing a similar reduction in Germany",
+      "date": "Fri, 01 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "2 Jewish men stabbed in 'terrorist' attack in London",
-      "link": "https://www.dawn.com/news/1996120/2-jewish-men-stabbed-in-terrorist-attack-in-london",
-      "description": "Two Jewish men were stabbed on Wednesday in north London, an attack police declared a “terrorist incident” and which follows a series of arson attacks targeting Jewish sites. King Charles III, Prime Minister Keir Starmer and London mayor Sadiq Khan led the condemnation of the “ap...",
-      "date": "Wed, 29 Apr 2026",
-      "source": "Dawn",
+      "title": "U.S. official says Iran war truce ‘terminated’ hostilities for war powers deadline",
+      "link": "https://www.thehindu.com/news/international/us-official-says-iran-war-truce-terminated-hostilities-for-war-powers-deadline/article70927374.ece",
+      "description": "There ⁠has been no exchange of fire between the ⁠U.S. armed forces and Iran since a fragile ceasefire began more than three weeks ago",
+      "date": "Fri, 01 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -391,66 +411,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Iran vows to protect its nuclear capabilities, signals ‘new rules’ for Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/mojtaba-khamenei-says-iran-will-protect-its-nuclear-missile-capabilities-us-suffered-disgraceful-defeat/article70924450.ece",
-      "description": "Iran will secure Persian Gulf and implement new rules to manage Strait of Hormuz, says Mojtaba Khamenei, calls U.S. presence the “most important factor of insecurity” in the region",
-      "date": "Thu, 30 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "China's FM talks to Rubio, says Taiwan 'biggest risk' in ties",
-      "link": "https://www.thehindu.com/news/international/chinas-fm-talks-to-rubio-says-taiwan-biggest-risk-in-ties/article70925911.ece",
-      "description": "Ahead of the planned May summit, ties between Beijing and Washington have remained largely calm despite energy and geopolitical complications brought by the war on Iran",
-      "date": "Thu, 30 Apr 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russian diplomat, IAEA chief discuss Ukraine, Iran",
-      "link": "https://tass.com/politics/2125261",
-      "description": "Mikhail Ulyanov exchanged opinions with Rafael Grossi about the review conference and the situation around Ukraine and Iran",
-      "date": "Thu, 30 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says Iran 'dying to make deal,' doubts more airstrikes will be necessary",
-      "link": "https://tass.com/world/2125259",
-      "description": "Thus the US leader told reporters when asked if he is looking to break the ceasefire",
-      "date": "Thu, 30 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump expects fuel prices to go down after conflict with Iran over",
-      "link": "https://tass.com/economy/2125255",
-      "description": "\"It will drop like a rock,\" the US leader said",
-      "date": "Thu, 30 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Air defenses activated in Tehran — Mehr",
-      "link": "https://tass.com/world/2125249",
-      "description": "",
-      "date": "Thu, 30 Apr 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
