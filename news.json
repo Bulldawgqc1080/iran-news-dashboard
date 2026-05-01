@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01 20:56 UTC",
-  "total": 41,
+  "updated": "2026-05-01 21:44 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Hegseth faces questions about Iran in first congressional appearance since war began",
@@ -173,6 +173,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
+      "description": "Israel&#039;s strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
+      "date": "Fri, 01 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
+      "link": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
+      "description": "Mohammadi has lost consciousness twice and suffered a severe cardiac crisis, her foundation has announced.",
+      "date": "Fri, 01 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Photos: Cuba holds May Day celebrations amid US threats",
       "link": "https://www.aljazeera.com/gallery/2026/5/1/photos-cuba-holds-may-day-celebrations-amid-us-threats?traffic_source=rss",
       "description": "March celebrating International Workers&#039; Day coincided with announcement of further US sanctions on island.",
@@ -233,24 +253,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Woman killed, children injured as Israel attacks Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss",
-      "description": "Israel&#039;s assault, which has displaced more than one people in Lebanon, escalates despite US brokered &#039;ceasefire&#039;.",
+      "title": "Trump 'not happy' with Iran's new proposal; says truce 'terminated' hostilities, as War Powers deadline arrives",
+      "link": "https://www.dawn.com/news/1996711/trump-not-happy-with-irans-new-proposal-says-truce-terminated-hostilities-as-war-powers-deadline-arrives",
+      "description": "Tehran delivered a new proposal for peace talks with the United States via Pakistan, Iranian state media reported on Friday, with US President Donald Trump saying that he was “not satisfied” with what had been put forth. Separately, he also conveyed to the US Congress his stance ...",
       "date": "Fri, 01 May 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump’s threat: Why cutting US troops in Europe won’t be easy",
-      "link": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss",
-      "description": "Amid transatlantic tensions over the Iran war, Trump has threatened to reduce troops in Germany.",
-      "date": "Fri, 01 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump's war powers deadline expires Friday as officials cite ceasefire loophole",
@@ -296,16 +306,6 @@
       "title": "In fresh message, Iran's Supreme Leader Ayatollah Mojtaba Khamenei defies US naval blockade",
       "link": "https://www.dawn.com/news/1996407/in-fresh-message-irans-supreme-leader-ayatollah-mojtaba-khamenei-defies-us-naval-blockade",
       "description": "Iran’s Supreme Leader Ayatollah Mojtaba Khamenei declared on Thursday that the United States had suffered a shameful defeat, defiantly rejecting a warning from President Donald Trump that an economically punishing US naval blockade could be enforced for months to come. “Today, tw...",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Mamdani calls on King Charles to return Koh-i-Noor diamond",
-      "link": "https://www.dawn.com/news/1996333/mamdani-calls-on-king-charles-to-return-koh-i-noor-diamond",
-      "description": "New York City Mayor Zohran Mamdani called for King Charles to “return” the prized Koh-i-Noor diamond, which the British Empire took from the Indian subcontinent in the 1800s, on the third day of the monarch’s state visit on Wednesday. Before greeting Charles and Queen Camilla at ...",
       "date": "Thu, 30 Apr 2026",
       "source": "Dawn",
       "region": "me",
@@ -371,46 +371,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Gulf management to be aligned with command of Iran’s supreme leader — IRGC Navy",
-      "link": "https://tass.com/world/2125417",
-      "description": "The IRGC Navy will control \"almost 2,000 km of the Iranian coastline in the Persian Gulf and the Strait of Hormuz\", the statement reads",
-      "date": "Fri, 01 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US imposes new sanctions on Cuban regime — Trump’s executive order",
-      "link": "https://tass.com/world/2125403",
-      "description": "They target Cuban officials \"responsible for repression and threats to US national security and foreign policy\"",
-      "date": "Fri, 01 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US leader says he’d prefer not to resume airstrikes on Iran",
-      "link": "https://tass.com/world/2125395",
-      "description": "Donald Trump also said that the United States is not satisfied with Iran’s response to the proposal about a deal",
-      "date": "Fri, 01 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US military bases in Middle East cannot protect Washington’s allies — Khamenei",
-      "link": "https://tass.com/world/2125387",
-      "description": "Earlier, the Iranian supreme leader said that the United States has no place in the future of the Persian Gulf",
-      "date": "Fri, 01 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
