@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-30 23:41 UTC",
-  "total": 40,
+  "updated": "2026-05-01 01:55 UTC",
+  "total": 45,
   "stories": [
     {
       "title": "20,000 civilian sailors are stuck in the gulf that opens to the Strait of Hormuz",
@@ -163,6 +163,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Jihadists urge united front against Mali junta as Bamako blockade begins",
+      "link": "https://www.france24.com/en/africa/20260430-jihadists-urge-united-front-against-mali-junta-as-bamako-blockade-begins",
+      "description": "Jihadist fighters in Mali have called for a broad uprising against the country’s military rulers, escalating tensions as they move to tighten pressure on the capital, Bamako. The appeal comes days after coordinated attacks on junta positions and coincides with the start of a bloc...",
+      "date": "Thu, 30 Apr 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran 'will not capitulate', conflict resolution expert says",
       "link": "https://www.france24.com/en/tv-shows/a-propos/20260430-iran-will-not-capitulate-conflict-resolution-expert-says",
       "description": "Iran's supreme leader declared Thursday that the United States had suffered a shameful defeat, defiantly rejecting a warning from President Donald Trump that an economically punishing US naval blockade could be enforced for months to come. Speaking with FRANCE 24's Sharon Gaffney...",
@@ -201,6 +211,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
+      "description": "Israeli attacks on Lebanon killed at least 2,586 people and wounded more than 8,000 since March 2, local media report.",
+      "date": "Fri, 01 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
@@ -273,16 +293,6 @@
       "bias": "Medium"
     },
     {
-      "title": "UN chief calls for immediate reopening of the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/un-chief-calls-for-immediate-reopening-of-the-strait-of-hormuz?traffic_source=rss",
-      "description": "UN Secretary-General António Guterres has urged the immediate reopening of the Strait of Hormuz.",
-      "date": "Thu, 30 Apr 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Amazon says damaged UAE cloud region recovery to take several months",
       "link": "https://www.dawn.com/news/1996414/amazon-says-damaged-uae-cloud-region-recovery-to-take-several-months",
       "description": "Amazon said on Thursday that restoring cloud computing operations in the United Arab Emirates (UAE), which were damaged in the conflict in the Middle East, is expected to take several months. Amazon’s data centres in the region were hit by Iranian retaliatory drone strikes in ear...",
@@ -343,7 +353,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Israel may have to 'act again' against Iran, Defence Minister Katz says",
+      "title": "Israel-Iran war updates: Israel may have to 'act again' against Iran, Defence Minister Katz says",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-30-2026/article70923050.ece",
       "description": "Pakistan said that it was actively engaged with the U.S. and Iran to end the war in West Asia",
       "date": "Thu, 30 Apr 2026",
@@ -401,6 +411,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Russian diplomat, IAEA chief discuss Ukraine, Iran",
+      "link": "https://tass.com/politics/2125261",
+      "description": "Mikhail Ulyanov exchanged opinions with Rafael Grossi about the review conference and the situation around Ukraine and Iran",
+      "date": "Thu, 30 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says Iran 'dying to make deal,' doubts more airstrikes will be necessary",
+      "link": "https://tass.com/world/2125259",
+      "description": "Thus the US leader told reporters when asked if he is looking to break the ceasefire",
+      "date": "Thu, 30 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump expects fuel prices to go down after conflict with Iran over",
+      "link": "https://tass.com/economy/2125255",
+      "description": "\"It will drop like a rock,\" the US leader said",
+      "date": "Thu, 30 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Air defenses activated in Tehran — Mehr",
+      "link": "https://tass.com/world/2125249",
+      "description": "",
+      "date": "Thu, 30 Apr 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }

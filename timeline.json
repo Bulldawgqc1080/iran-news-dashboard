@@ -1,15 +1,26 @@
 {
-  "updated": "2026-04-30 23:41 UTC",
-  "total": 14,
+  "updated": "2026-05-01 01:55 UTC",
+  "total": 15,
   "events": [
+    {
+      "date": "2026-05-01",
+      "dateDisplay": "May 01, 2026",
+      "title": "Iran war live: Tehran says US ports siege \u2018intolerable\u2019; Trump mulls action",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-04-30",
       "dateDisplay": "Apr 30, 2026",
       "title": "Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon",
       "link": "https://www.npr.org/2026/04/30/g-s1-119210/lebanon-israel-war",
       "sources": [
-        "NPR News",
-        "Al Jazeera"
+        "Al Jazeera",
+        "NPR News"
       ],
       "sourceCount": 2,
       "type": "govt"
