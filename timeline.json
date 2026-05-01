@@ -1,17 +1,18 @@
 {
-  "updated": "2026-05-01 11:00 UTC",
-  "total": 15,
+  "updated": "2026-05-01 12:53 UTC",
+  "total": 14,
   "events": [
     {
       "date": "2026-05-01",
       "dateDisplay": "May 01, 2026",
-      "title": "Trump faces Iran war Congress deadline",
-      "link": "https://www.france24.com/en/trump-faces-iran-war-congress-deadline",
+      "title": "Oil prices rise amid US-Iran impasse",
+      "link": "https://www.france24.com/en/video/20260501-oil-prices-rise-amid-us-iran-impasse-1",
       "sources": [
-        "France 24"
+        "France 24",
+        "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-04-30",
@@ -51,17 +52,6 @@
       "dateDisplay": "Apr 26, 2026",
       "title": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
       "link": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-04-25",
-      "dateDisplay": "Apr 25, 2026",
-      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
