@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02 16:35 UTC",
-  "total": 39,
+  "updated": "2026-05-02 17:35 UTC",
+  "total": 43,
   "stories": [
     {
       "title": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
@@ -203,9 +203,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli air strikes kill 41 people in Lebanon in 24-hour window",
+      "title": "Prices surge, jobs disappear as war strains Iran’s economy",
+      "link": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
+      "description": "New Supreme Leader Mojtaba Khamenei says the country must defeat its enemies in an economic and cultural struggle, as we",
+      "date": "Sat, 02 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli air strikes on Lebanon kill 41 people in 24-hours",
       "link": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
-      "description": "Death toll from Israeli attacks on Lebanon since March 2 has reached 2,659, with 8,183 others injured.",
+      "description": "Death toll from Israeli attacks on Lebanon since March 2 increases to 2,659, 8,183 injured.",
       "date": "Sat, 02 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -256,16 +266,6 @@
       "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
       "description": "Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.",
-      "date": "Sat, 02 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
-      "description": "A 45-year old man is occupying the top of Washington’s Frederick Douglass Memorial Bridge to protest the war on Iran.",
       "date": "Sat, 02 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -391,6 +391,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Zelensky imposes sanctions on two senior Russian sport officials",
+      "link": "https://tass.com/world/2125569",
+      "description": "In all, five individuals, including three Russian nationals, have been targeted by the latest sanctions",
+      "date": "Sat, 02 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Zelensky sanctions former head of his office Bogdan",
+      "link": "https://tass.com/world/2125565",
+      "description": "Andrey Bogdan is currently residing in Austria where he often criticizes Vladimir Zelensky both publicly and in private conversations, the Strana news website specified",
+      "date": "Sat, 02 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran’s UN mission blasts US for more than five decades of breaching NPT",
+      "link": "https://tass.com/world/2125563",
+      "description": "The US should not be given any cover for its outrageous and hypocritical behavior, Iran’s Mission to the UN said",
+      "date": "Sat, 02 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Parliament speaker calls for justice over Israeli attacks on mosques in southern Lebanon",
+      "link": "https://tass.com/world/2125561",
+      "description": "Nabih Berri called on Muslims and Christians to join forces \"to expose those seeking to stir up religious hatred in Lebanon\"",
+      "date": "Sat, 02 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
