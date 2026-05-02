@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-02 20:30 UTC",
-  "total": 38,
+  "updated": "2026-05-02 21:30 UTC",
+  "total": 44,
   "stories": [
+    {
+      "title": "ICRC President Mirjana Spoljaric warns of the war's impact on civilians",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5807914/icrc-president-mirjana-spoljaric-warns-of-the-wars-impact-on-civilians",
+      "description": "The ICRC president talks about her recent trip to Iran, and warns about the impact of the Iran war on civilians.",
+      "date": "Sat, 02 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
       "link": "https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition",
@@ -173,6 +183,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Senior Iranian officer says renewed war with US ‘likely’",
+      "link": "https://www.france24.com/en/middle-east/20260502-senior-iranian-officer-says-renewed-war-with-us-likely",
+      "description": "A senior Iranian officer on Saturday said that fresh fighting with the United States is “likely”, underscoring rising tensions after President Donald Trump dismissed Tehran’s latest negotiating proposal and issued fresh threats to attack the country.",
+      "date": "Sat, 02 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump 'not satisfied' with Tehran offer",
       "link": "https://www.france24.com/en/trump-not-satisfied-with-tehran-offer",
       "description": "Donald Trump said Friday that he was not satisfied with Iran’s latest proposal for peace talks. Meanwhile, a senior Iranian official said renewed fighting between the United States and Iran was “likely” after Washington rejected the latest offer of negotiations. The two countries...",
@@ -193,14 +213,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump told Congress that hostilities \"have terminated\"",
-      "link": "https://www.france24.com/en/trump-told-congress-that-hostilities-have-terminated",
-      "description": "Friday marked the expiration of the 60-day deadline for Donald Trump to secure congressional authorization to continue US military action in Iran under the War Powers Resolution. However, the US president argued that the law was unconstitutional and said the conflict had already ...",
+      "title": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
+      "description": "US budget carrier Spirit Airlines shuts down after talks for a government bailout failed.",
       "date": "Sat, 02 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Ukraine eyes Belarus border activities as Russian strikes persist",
@@ -381,6 +401,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli army strikes 120 Hezbollah targets in southern Lebanon in past day",
+      "link": "https://tass.com/world/2125579",
+      "description": "In the strikes, approximately 70 military structures and approximately 50 Hezbollah infrastructure sites were dismantled across several areas, the IDF reported",
+      "date": "Sat, 02 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Zelensky imposes sanctions on two senior Russian sport officials",
+      "link": "https://tass.com/world/2125569",
+      "description": "In all, five individuals, including three Russian nationals, have been targeted by the latest sanctions",
+      "date": "Sat, 02 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Zelensky sanctions former head of his office Bogdan",
+      "link": "https://tass.com/world/2125565",
+      "description": "Andrey Bogdan currently resides in Austria, where he often criticizes Vladimir Zelensky both publicly and in private conversations, according to Ukrainian media",
+      "date": "Sat, 02 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran’s UN mission blasts US for more than five decades of breaching NPT",
+      "link": "https://tass.com/world/2125563",
+      "description": "The US should not be given any cover for its outrageous and hypocritical behavior, Iran’s Mission to the UN said",
+      "date": "Sat, 02 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
