@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02 19:45 UTC",
-  "total": 42,
+  "updated": "2026-05-02 20:30 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
@@ -203,6 +203,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Ukraine eyes Belarus border activities as Russian strikes persist",
+      "link": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
+      "description": "The role of Belarus in Russia&#039;s war on Ukraine has provoked sanctions from Kyiv, which says it is ready to respond.",
+      "date": "Sat, 02 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss",
       "description": "Israel’s expanding “orange line” is deepening movement restrictions across Gaza, raising deadly risks for civilians.",
@@ -246,16 +256,6 @@
       "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
       "link": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss",
       "description": "The US president says the ongoing naval blockade of the Strait of Hormuz is &#039;a very profitable business&#039;.",
-      "date": "Sat, 02 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss",
-      "description": "China&#039;s UN Ambassador Fu Cong says maintaining the ceasefire and reopening the Strait of Hormuz are “urgent” priorities.",
       "date": "Sat, 02 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -323,9 +323,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "China rejects U.S. sanctions on refineries over Iran oil links",
-      "link": "https://www.thehindu.com/news/international/china-rejects-us-sanctions-on-refineris-over-iran-oil-links/article70932170.ece",
-      "description": "The U.S. sanctions \"improperly prohibit or restrict Chinese enterprises from conducting normal economic, trade and related activities with third countries... and violate international law and the basic norms governing international relations,\" the Commerce Ministry said in a stat...",
+      "title": "Israel-Iran war LIVE: Iran military official says renewed war with U.S. 'likely'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece",
+      "description": "The United States is warning shipping companies that they could face sanctions for making payments to Iran to safely pass through the Strait of Hormuz; Donald Trump said on May 1, that he was \"not satisfied\" with a new Iranian negotiating proposal",
       "date": "Sat, 02 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -333,9 +333,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Iran military official says renewed war with U.S. 'likely'",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece",
-      "description": "The United States is warning shipping companies that they could face sanctions for making payments to Iran to safely pass through the Strait of Hormuz; Donald Trump said on May 1, that he was \"not satisfied\" with a new Iranian negotiating proposal",
+      "title": "China rejects U.S. sanctions on refineries over Iran oil links",
+      "link": "https://www.thehindu.com/news/international/china-rejects-us-sanctions-on-refineris-over-iran-oil-links/article70932170.ece",
+      "description": "The U.S. sanctions \"improperly prohibit or restrict Chinese enterprises from conducting normal economic, trade and related activities with third countries... and violate international law and the basic norms governing international relations,\" the Commerce Ministry said in a stat...",
       "date": "Sat, 02 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -381,46 +381,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli army strikes 120 Hezbollah targets in southern Lebanon in past day",
-      "link": "https://tass.com/world/2125579",
-      "description": "In the strikes, approximately 70 military structures and approximately 50 Hezbollah infrastructure sites were dismantled across several areas, the IDF reported",
-      "date": "Sat, 02 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Zelensky imposes sanctions on two senior Russian sport officials",
-      "link": "https://tass.com/world/2125569",
-      "description": "In all, five individuals, including three Russian nationals, have been targeted by the latest sanctions",
-      "date": "Sat, 02 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Zelensky sanctions former head of his office Bogdan",
-      "link": "https://tass.com/world/2125565",
-      "description": "Andrey Bogdan is currently residing in Austria where he often criticizes Vladimir Zelensky both publicly and in private conversations, the Strana news website specified",
-      "date": "Sat, 02 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran’s UN mission blasts US for more than five decades of breaching NPT",
-      "link": "https://tass.com/world/2125563",
-      "description": "The US should not be given any cover for its outrageous and hypocritical behavior, Iran’s Mission to the UN said",
-      "date": "Sat, 02 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
