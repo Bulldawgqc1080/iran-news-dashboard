@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-03 22:29 UTC",
+  "updated": "2026-05-03 23:34 UTC",
   "total": 39,
   "stories": [
+    {
+      "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
+      "description": "U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
+      "date": "Sun, 03 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Modern economic chokepoints in war and the impact on geopolitics",
       "link": "https://www.npr.org/2026/05/03/nx-s1-5804691/modern-economic-chokepoints-in-war-and-the-impact-on-geopolitics",
@@ -26,16 +36,6 @@
       "title": "Collaboration helps NPR journalists get you the story of the Iran war up close",
       "link": "https://www.npr.org/2026/05/02/nx-s1-5802996/collaboration-helps-npr-journalists-get-you-the-story-of-the-iran-war-up-close",
       "description": "Three NPR journalists talk about the challenge of producing independent, accurate coverage of the war with Iran.",
-      "date": "Sat, 02 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "ICRC President Mirjana Spoljaric warns of the war's impact on civilians",
-      "link": "https://www.npr.org/2026/05/02/nx-s1-5807914/icrc-president-mirjana-spoljaric-warns-of-the-wars-impact-on-civilians",
-      "description": "The ICRC president talks about her recent trip to Iran, and warns about the impact of the Iran war on civilians.",
       "date": "Sat, 02 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -153,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Three dead on Atlantic cruise ship in suspected Hantavirus outbreak, says WHO",
+      "link": "https://www.france24.com/en/americas/20260503-three-dead-on-atlantic-cruise-ship-in-suspected-hantavirus-outbreak-says-who",
+      "description": "Three people have died aboard a cruise ship crossing the Atlantic after an outbreak that includes a confirmed case of hantavirus, the World Health Organization said Sunday, raising concerns about a rare but potentially severe infection at sea.",
+      "date": "Sun, 03 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Southern Lebanon: Israeli strikes kill one, wounds rescuers",
       "link": "https://www.france24.com/en/southern-lebanon-israeli-strikes-kill-one-wounds-rescuers",
       "description": "Israel has carried out fresh air strikes in southern Lebanon. Officials there said at least one person was killed and four others were wounded. The strikes came after the Israel Defense Forces issued new evacuation warnings on Sunday for residents in more than ten villages and to...",
@@ -176,16 +186,6 @@
       "title": "Inflation surging past 50% in Iran",
       "link": "https://www.france24.com/en/inflation-surging-past-50-in-iran",
       "description": "The fragile ceasefire may have paused the fighting, but the economic fallout in Iran continues. A US naval blockade of Iranian ports has sharply reduced the Iran’s oil exports, while the cost of everyday goods has continued to rise. Across the country, people are now bracing for ...",
-      "date": "Sun, 03 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iranian Nobel laureate Narges Mohammadi hospitalised",
-      "link": "https://www.france24.com/en/iranian-nobel-laureate-narges-mohammadi-hospitalised",
-      "description": "Iran’s imprisoned Nobel Peace Prize laureate Narges Mohammadi has been urgently transferred from prison to hospital after what her foundation described as a severe deterioration in her health. She reportedly fainted twice on Friday. The incident follows a suspected heart attack i...",
       "date": "Sun, 03 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -353,6 +353,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran to view US interference in Strait of Hormuz navigation as ceasefire violation",
+      "link": "https://tass.com/world/2125827",
+      "description": "Ebrahim Azizi, the head of the Iranian parliament’s national security committee, says that the Strait of Hormuz and the Persian Gulf management will not be based on \"delusional posts\" of the US president",
+      "date": "Sun, 03 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Tehran’s proposals do not include 15-year enrichment pause — news agency",
       "link": "https://tass.com/world/2125819",
       "description": "The proposals also do not include the opening of the Strait of Hormuz before the sides reach the final peace deal",
@@ -376,16 +386,6 @@
       "title": "Trump says Iran’s new peace proposal is unacceptable",
       "link": "https://tass.com/world/2125799",
       "description": "According to the US leader, the campaign against Iran is proceeding very well",
-      "date": "Sun, 03 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran may begin mothballing its oil wells next week — US treasury secretary",
-      "link": "https://tass.com/world/2125763",
-      "description": "Oil prices will be lower after the US-Israeli war against Iran is over than they were at the beginning of the year, including due to the United Arab Emirates’ decision to withdraw from OPEC, Scott Bessent said",
       "date": "Sun, 03 May 2026",
       "source": "TASS",
       "region": "ru",
