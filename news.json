@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03 14:05 UTC",
-  "total": 40,
+  "updated": "2026-05-03 15:36 UTC",
+  "total": 42,
   "stories": [
     {
       "title": "Iran submits 14-point response to U.S. proposal to end war",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Southern Lebanon: Israeli strikes kill one, wounds rescuers",
+      "link": "https://www.france24.com/en/southern-lebanon-israeli-strikes-kill-one-wounds-rescuers",
+      "description": "Israel has carried out fresh air strikes in southern Lebanon. Officials there said at least one person was killed and four others were wounded. The strikes came after the Israel Defense Forces issued new evacuation warnings on Sunday for residents in more than ten villages and to...",
+      "date": "Sun, 03 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US President Trump says not likely to accept Iranian proposal",
       "link": "https://www.france24.com/en/us-president-trump-says-not-likely-to-accept-iranian-proposal",
       "description": "US President Donald Trump said Saturday he was going to review a new Iranian peace proposal but said he doubted it would be acceptable, saying that Tehran had \"not yet paid a big enough price\". Trump’s comments came after Iran's Tasnim and Fars news agencies said Tehran had submi...",
@@ -183,34 +193,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Trump says he 'can't imagine' Iran's latest peace plan is acceptable",
-      "link": "https://www.france24.com/en/middle-east/20260503-middle-east-war-live-trump-says-he-can-t-imagine-iran-s-latest-peace-plan-is-acceptable",
-      "description": "US President Donald Trump said Saturday he was going to review a new Iranian peace proposal but said he doubted it would be acceptable, saying that Tehran had \"not yet paid a big enough price\". Trump’s comments came after Iran's Tasnim and Fars news agencies said Tehran had submi...",
+      "title": "US to cut troops in Germany as Iran war spat deepens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss",
+      "description": "US-German relations are straining as a spat deepens between President Trump and Chancellor Merz over the war on Iran.",
       "date": "Sun, 03 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Imprisoned Iranian Nobel laureate Mohammadi rushed to hospital following cardiac 'crisis'",
-      "link": "https://www.france24.com/en/imprisoned-iranian-nobel-laureate-mohammadi-rushed-hospital-following-severe-cardiac-crisis",
-      "description": "Iran’s imprisoned Nobel peace prize winner Narges Mohammadi has been transferred to hospital to receive urgent care after experiencing a “catastrophic deterioration” of her health, a foundation run by her family said on Saturday. Mohammadi was moved on Friday after suffering a he...",
-      "date": "Sat, 02 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pentagon announces withdrawal of 5.000 soldiers from Germany",
-      "link": "https://www.france24.com/en/pentagon-announces-withdrawal-of-5-000-soldiers-from-germany",
-      "description": "The US will pull around 5,000 of its troops from Germany over the next year after German Chancellor Friedrich Merz said that Tehran was \"humiliating\" Washington. NATO said Saturday that it is working with the US to understand the details of the decision. France 24 International A...",
-      "date": "Sat, 02 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Was the Iran war the final blow in the collapse of Spirit Airlines?",
@@ -266,16 +256,6 @@
       "title": "Israel issues new forced displacement orders in southern Lebanon",
       "link": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
       "description": "Warning covers more than 10 villages and towns, including several in Nabatieh district that lie north of Litani River.",
-      "date": "Sun, 03 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-      "link": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
-      "description": "Iran has sent the US a new 14-point proposal to end the war.",
       "date": "Sun, 03 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -401,6 +381,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran capable of sending US warship, forces to ‘graveyard’ - supreme leader’s adviser",
+      "link": "https://tass.com/world/2125755",
+      "description": "Mohsen Rezaei has called the United States \"the only pirate in the world that possesses aircraft carriers\"",
+      "date": "Sun, 03 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Top German, Iranian diplomats discuss settlement of conflict around Iran over phone",
+      "link": "https://tass.com/world/2125751",
+      "description": "German Foreign Minister Johann Wadephul talked on the phone with his Iranian counterpart Abbas Araghchi",
+      "date": "Sun, 03 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Navigation in Strait of Hormuz stops after Trump’s remarks about conflict settlement",
+      "link": "https://tass.com/world/2125743",
+      "description": "Thus, whereas nine ships passed through the Strait of Hormuz in both directions on Saturday, on Sunday, according to Bloomberg, only two Iranian commercial vessels did this",
+      "date": "Sun, 03 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Kiev’s attacks on Russian oil facilities may lead to further rise in prices, Kremlin warns",
+      "link": "https://tass.com/economy/2125715",
+      "description": "Oil supplies to the global market have greatly declined due to developments in the Strait of Hormuz, and if some of our oil supplies fail to reach the market, prices will grow even higher, while they have already reached the $120 per barrel level, Kremlin Spokesman Dmitry Peskov ...",
+      "date": "Sun, 03 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
