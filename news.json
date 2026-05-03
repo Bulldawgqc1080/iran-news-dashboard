@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-03 20:31 UTC",
-  "total": 40,
+  "updated": "2026-05-03 21:31 UTC",
+  "total": 37,
   "stories": [
+    {
+      "title": "Modern economic chokepoints in war and the impact on geopolitics",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5804691/modern-economic-chokepoints-in-war-and-the-impact-on-geopolitics",
+      "description": "Hoover Institution fellow Eyck Freymann explains what the Iran war and the blockade of the Straight of Hormuz reveals about modern economic chokepoints, geopolitics and war strategies.",
+      "date": "Sun, 03 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Iran submits 14-point response to U.S. proposal to end war",
       "link": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
@@ -26,16 +36,6 @@
       "title": "ICRC President Mirjana Spoljaric warns of the war's impact on civilians",
       "link": "https://www.npr.org/2026/05/02/nx-s1-5807914/icrc-president-mirjana-spoljaric-warns-of-the-wars-impact-on-civilians",
       "description": "The ICRC president talks about her recent trip to Iran, and warns about the impact of the Iran war on civilians.",
-      "date": "Sat, 02 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
-      "link": "https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition",
-      "description": "Narges Mohammadi, an Iranian activist and 2023 Nobel Peace Prize laureate, was hospitalized after collapsing in prison. Her family says her condition has deteriorated since a March heart attack.",
       "date": "Sat, 02 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran reviews US response to peace proposal, warns against further military action",
+      "link": "https://www.france24.com/en/middle-east/20260503-iran-reviews-us-response-to-peace-proposal-warns-against-further-military-action",
+      "description": "Tehran said Sunday the United States would have to choose between an “impossible” military operation or a “bad deal” in the Middle East conflict, after US President Donald Trump warned that he might reject a new proposal from Iran to restart peace talks. Negotiations between the ...",
+      "date": "Sun, 03 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Southern Lebanon: Israeli strikes kill one, wounds rescuers",
       "link": "https://www.france24.com/en/southern-lebanon-israeli-strikes-kill-one-wounds-rescuers",
       "description": "Israel has carried out fresh air strikes in southern Lebanon. Officials there said at least one person was killed and four others were wounded. The strikes came after the Israel Defense Forces issued new evacuation warnings on Sunday for residents in more than ten villages and to...",
@@ -183,14 +193,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "New Iranian proposal to end the war under examination",
-      "link": "https://www.france24.com/en/new-iranian-proposal-to-end-the-war-under-examination",
-      "description": "A senior Iranian officer on Saturday said that fresh fighting with the United States is “likely”, underscoring rising tensions after President Donald Trump dismissed Tehran’s latest negotiating proposal and issued fresh threats to attack the country. Daniel Quinlan reports.",
+      "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss",
+      "description": "Iran says the Strait of Hormuz will never return to the status quo that existed before the US-Israel war on Tehran.",
       "date": "Sun, 03 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Germany’s Merz downplays rift with Washington despite US troop drawdown",
@@ -243,9 +253,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran reviewing US response to 14-point proposal: state media",
-      "link": "https://www.dawn.com/news/1997230/iran-reviewing-us-response-to-14-point-proposal-state-media",
-      "description": "Tehran said on Sunday that the United States had responded to its 14-point proposal via Pakistan and that it was reviewing the response, according to Iranian state media. “At this stage, we do not have nuclear negotiations,” an Iranian foreign ministry spokesperson said, accordin...",
+      "title": "Iran reviewing US response to 14-point plan; Trump says Washington having 'very positive' discussions with Tehran",
+      "link": "https://www.dawn.com/news/1997230/iran-reviewing-us-response-to-14-point-plan-trump-says-washington-having-very-positive-discussions-with-tehran",
+      "description": "US President Donald Trump said on Monday that his representatives were having “very positive discussions” with Iran that could “lead to something very positive for all”. He made these remarks in a Truth Social Post, also announcing an initiative to guide vessels stuck in the Stra...",
       "date": "Sun, 03 May 2026",
       "source": "Dawn",
       "region": "me",
@@ -361,46 +371,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "US still in talks with Iran — Witkoff",
-      "link": "https://tass.com/world/2125803",
-      "description": "US president’s special envoy commented on the state of negotiations",
-      "date": "Sun, 03 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says Iran’s new peace proposal is unacceptable",
-      "link": "https://tass.com/world/2125799",
-      "description": "According to the US leader, the campaign against Iran is proceeding very well",
-      "date": "Sun, 03 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran may begin mothballing its oil wells next week — US treasury secretary",
-      "link": "https://tass.com/world/2125763",
-      "description": "Oil prices will be lower after the US-Israeli war against Iran is over than they were at the beginning of the year, including due to the United Arab Emirates’ decision to withdraw from OPEC, Scott Bessent said",
-      "date": "Sun, 03 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump not planning to postpone his visit to China — treasury secretary",
-      "link": "https://tass.com/world/2125761",
-      "description": "US President Donald Trump’s visit to China was initially scheduled for late March but the US leader postponed it to mid-May amid the war against Iran",
-      "date": "Sun, 03 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
