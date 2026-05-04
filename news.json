@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-04 01:48 UTC",
-  "total": 35,
+  "updated": "2026-05-04 05:24 UTC",
+  "total": 42,
   "stories": [
+    {
+      "title": "Trump says the U.S will 'guide' stranded ships from the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz",
+      "description": "The United States will launch an effort on Monday to \"guide\" stranded ships from the Iran-gripped Strait of Hormuz, President Donald Trump said, as two ships around the strait reported attacks.",
+      "date": "Mon, 04 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
       "link": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
@@ -93,16 +103,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Couple discovers Lebanon home destroyed by Israel from satellite image",
-      "link": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
-      "description": "Joe Elias contacted BBC Verify following reports that his village was among several destroyed by Israeli forces.",
-      "date": "Fri, 24 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "What we know about the Israel-Lebanon ceasefire",
       "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
       "description": "A 10-day truce between the two countries has been extended by three weeks after talks in Washington.",
@@ -133,9 +133,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Live: US to escort ships through Hormuz as Iran warns of ceasefire breach",
+      "title": "Did Trump save eight Iranian women from execution?",
+      "link": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
+      "date": "Sun, 26 Apr 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Europe, Canada leaders meet in Armenia amid uncertainty over US policy",
+      "link": "https://www.france24.com/en/europe/20260504-europe-canada-leaders-meet-in-armenia-amid-uncertainty-over-us-policy-trump-russia-ukraine-iran-war-nato",
+      "description": "European leaders and Canadian Prime Minister Mark Carney are meeting in Armenia on Monday for a European Political Community summit focused on security and geopolitical tensions, as uncertainty grows over US policy under President Donald Trump. Held in Yerevan, the talks come ami...",
+      "date": "Mon, 04 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Live: Trump says US to escort ships through Hormuz as Iran warns of ceasefire breach",
       "link": "https://www.france24.com/en/middle-east/20260504-live-us-to-escort-ships-through-strait-of-hormuz-as-iran-warns-of-ceasefire-breach-trump",
-      "description": "The United States is set to begin escorting stranded third-country vessels through the Strait of Hormuz starting Monday morning, as part of its “Project Freedom” initiative, Donald Trump announced Sunday. Iran quickly pushed back, with a senior official warning that any “American...",
+      "description": "The United States is set to begin escorting stranded third-country vessels through the Strait of Hormuz starting Monday morning, as part of its “Project Freedom” initiative, US President Donald Trump announced Sunday. Iran quickly pushed back, with a senior official warning that ...",
       "date": "Mon, 04 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -183,7 +203,27 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Tehran warns Trump’s Hormuz mission violates ceasefire",
+      "title": "Trump says US to begin escorting ships in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss",
+      "description": "US President Donald Trump has announced a naval mission to escort stranded ships through the Strait of Hormuz.",
+      "date": "Mon, 04 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market",
+      "link": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss",
+      "description": "Brent crude is largely unmoved by Trump&#039;s announcement of the operation, dubbed Project Freedom.",
+      "date": "Mon, 04 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
       "description": "Iran protests as Trump announces &#039;Project Freedom&#039; to escort stranded ships out of the Strait of Hormuz.",
       "date": "Mon, 04 May 2026",
@@ -223,14 +263,34 @@
       "bias": "Medium"
     },
     {
-      "title": "US to cut troops in Germany as Iran war spat deepens",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss",
-      "description": "US-German relations are straining as a spat deepens between President Trump and Chancellor Merz over the war on Iran.",
-      "date": "Sun, 03 May 2026",
-      "source": "Al Jazeera",
+      "title": "Iranian ship, crew seized by US transferred to Pakistan: report",
+      "link": "https://www.dawn.com/news/1997392/iranian-ship-crew-seized-by-us-transferred-to-pakistan-report",
+      "description": "An Iranian ship that was seized by the United States after it “failed to comply” with the blockade imposed by the country on Iranian ports has been transferred to Pakistan for repatriation, American outlet ABC News reported on Monday. “US forces completed the transfer of 22 crew ...",
+      "date": "Mon, 04 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "7 dead in Lebanon by Israeli ‘ceasefire violations’",
+      "link": "https://www.dawn.com/news/1997349/7-dead-in-lebanon-by-israeli-ceasefire-violations",
+      "description": "BEIRUT: Fresh Israeli attacks killed at least seven people in southern Lebanon on Sunday despite an ongoing ceasefire, Lebanese media reported, as Israel continued to attack the country despite ceasefire. In an airstrike in the town of Safad al-Battikh, three people were killed w...",
+      "date": "Mon, 04 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Jerusalem Christians worried after attack on nun by Jewish extremist",
+      "link": "https://www.dawn.com/news/1997344/jerusalem-christians-worried-after-attack-on-nun-by-jewish-extremist",
+      "description": "JERUSALEM: Footage of an attack on a Catholic nun in Jerusalem shocked the world when it went viral this week, but for worshippers attending Sunday mass at Saint Stephen’s Basilica, it was just the latest example of mounting religious hostility. The attack on Tuesday was captured...",
+      "date": "Mon, 04 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran reviewing US response to 14-point plan; Trump says Washington having 'very positive' discussions with Tehran",
@@ -263,39 +323,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
-      "link": "https://www.dawn.com/news/1997222/israel-approves-plan-to-buy-f-35-and-f-15ia-fighter-jets-from-lockheed-boeing",
-      "description": "Israel gave final approval for a plan to purchase two new combat squadrons of F-35 and F-15IA advanced fighter aircraft from Lockheed Martin and Boeing in a deal worth tens of billions of dollars, the defence ministry said on Sunday. The deal, approved by Israel’s Ministerial Com...",
-      "date": "Sun, 03 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Japan contains one of its biggest wildfires in decades after 11-day battle",
-      "link": "https://www.dawn.com/news/1997187/japan-contains-one-of-its-biggest-wildfires-in-decades-after-11-day-battle",
-      "description": "Wildfires that scorched forests in northern Japan, reportedly the second biggest in over 30 years, have been brought under control after 11 days, officials have said. Hundreds of firefighters and more than 1,000 military personnel had battled the blazes since late April, as they ...",
-      "date": "Sun, 03 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Bin Laden nearly slipped out of Abbottabad: CIA report",
-      "link": "https://www.dawn.com/news/1997079/bin-laden-nearly-slipped-out-of-abbottabad-cia-report",
-      "description": "• Al Qaeda leader had agreed in writing to relocate by September 2011• Two brothers sheltering him sought separation, citing exhaustion• Agency claims to be entirely unaware of the relocation plan, says delayed raid would have missed the opportunity WASHINGTON: A decade after the...",
-      "date": "Sun, 03 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war updates: Trump announces 'Project Freedom' to help stranded ships out of Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-      "description": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz would be a breach of ceasefire",
+      "title": "Iran warns of ceasefire violation as U.S. plans to escort Hormuz ships",
+      "link": "https://www.thehindu.com/news/international/iran-warns-of-ceasefire-violation-as-us-plans-to-escort-hormuz-ships/article70937369.ece",
+      "description": "Any American interference in the new maritime regime of the Strait of Hormuz will be considered a violation of the ceasefire, says Iranian parliament's national security commission",
       "date": "Mon, 04 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -306,7 +336,27 @@
       "title": "Trump announces ‘Project Freedom’ to help stranded ships leave Strait of Hormuz",
       "link": "https://www.thehindu.com/news/international/trump-announces-project-freedom-to-help-stranded-ships-leave-strait-of-hormuz/article70936417.ece",
       "description": "“Project Freedom” would begin on Monday (May 4, 2026) morning in West Asia, Mr. Trump said, adding that his representatives are having discussions with Iran that could lead to something “very positive for all”",
-      "date": "Sun, 03 May 2026",
+      "date": "Mon, 04 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Tanker hit by 'unknown projectiles' off UAE coast: U.K. maritime agency",
+      "link": "https://www.thehindu.com/news/international/tanker-hit-by-unknown-projectiles-off-uae-coast-uk-maritime-agency/article70937086.ece",
+      "description": "The report came as the U.S. and Iran remain deadlocked in peace negotiations since a ceasefire in the West Asian war came into effect on April 8",
+      "date": "Mon, 04 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war updates: Trump announces 'Project Freedom' to help stranded ships out of Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
+      "description": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz would be a breach of ceasefire",
+      "date": "Mon, 04 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -333,24 +383,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Sleepless in Tehran as crowds rally behind the flag",
-      "link": "https://www.thehindu.com/news/international/sleepless-in-tehran-as-crowds-rally-behind-the-flag/article70934728.ece",
-      "description": "A slogan on a wall nearby in Farsi read, “Meydan bashuma, khayabane ba ma”. ‘The battlefield is yours. The streets are ours.’ Addressed to the Islamic Revolutionary Guard Corps (IRGC), it was a message to the soldiers to focus on the battlefield with ordinary Iranians in control ...",
-      "date": "Sun, 03 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Trump’s Project Freedom to inform seafarers about safe lanes, no escort planned — Axios",
+      "link": "https://tass.com/world/2125855",
+      "description": "Correspondent Barak Ravid says, citing an official, that US Navy ships will be ‘in the vicinity’ to prevent a possible Iranian attack on commercial ships moving through the strait",
+      "date": "Mon, 04 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran says U.S. military operation ‘impossible’ as Trump mulls peace proposal",
-      "link": "https://www.thehindu.com/news/international/iran-guards-say-us-options-are-impossible-military-operation-or-bad-deal/article70935106.ece",
-      "description": "The Guards intelligence organisation said that “U.S. President Donald Trump must choose between 'an impossible operation or a bad deal with the Islamic Republic of Iran'\", in an online post carried by state television.",
-      "date": "Sun, 03 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US Navy has no plans to escort commercial ships via Strait of Hormuz — WSJ",
+      "link": "https://tass.com/world/2125851",
+      "description": "According to a source cited by the newspaper, Project Freedom will be a coordination mechanism for countries, insurance companies, and shipping organizations to move traffic through the Strait",
+      "date": "Mon, 04 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "European Political Community summit to address Strait of Hormuz closure",
+      "link": "https://tass.com/world/2125841",
+      "description": "Other subjects to be raised at the summit will be the conflict in Ukraine, including the deployment of UK and French peacekeepers to Ukraine when the conflict there is resolved",
+      "date": "Mon, 04 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UK to launch negotiations on taking part in 90-billion-euro loan to Ukraine",
+      "link": "https://tass.com/world/2125837",
+      "description": "The office of UK Prime Minister Keir Starmer also promised that new sanctions against Russian companies would be announced later this week",
+      "date": "Mon, 04 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
