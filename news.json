@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-04 15:02 UTC",
-  "total": 40,
+  "updated": "2026-05-04 17:20 UTC",
+  "total": 42,
   "stories": [
+    {
+      "title": "The UAE says Iran resumes attacks as the U.S. moves to reopen the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates",
+      "description": "The U.S. military said it helped two merchant ships transit the Strait of Hormuz, and the United Arab Emirates said it was fending off Iranian missiles and drones.",
+      "date": "Mon, 04 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump says U.S. will 'guide' stranded ships through the Strait. And, key Senate races to watch",
       "link": "https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani",
@@ -103,16 +113,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Who is making decisions in Iran?",
-      "link": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
-      "description": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.",
-      "date": "Fri, 24 Apr 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
       "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
       "description": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
@@ -138,6 +138,16 @@
       "description": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
       "date": "Sun, 26 Apr 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Allies jolted on defence as Trump pulls troops from Germany",
+      "link": "https://www.france24.com/en/video/20260504-allies-jolted-on-defence-as-trump-pulls-troops-from-germany",
+      "description": "America's NATO allies put a brave face Monday on a US decision to withdraw 5,000 troops from Germany, but warned it was proof Europe needs to step up for its own security, and fast. US President Donald Trump cast fresh doubts over the future of the alliance as he announced Washin...",
+      "date": "Mon, 04 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -173,14 +183,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says US operation will aid ships stranded in Strait of Hormuz",
-      "link": "https://www.france24.com/en/video/20260504-trump-says-us-operation-will-aid-ships-stranded-in-strait-of-hormuz",
-      "description": "President Donald Trump said on Sunday the U.S. would start an effort on Monday morning to free ships stranded in the Strait ​of Hormuz as a \"humanitarian gesture\" to aid neutral countries in the U.S.-Israeli war with Iran. Trump provided few details about the plan, which he said ...",
+      "title": "Captain warns ‘no ship will be a hero’ by risking Hormuz transit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/captain-warns-no-ship-will-be-a-hero-by-risking-hormuz-transit?traffic_source=rss",
+      "description": "Captain Raman Kapoor says no vessel will attempt to exit the Strait of Hormuz without assurance of safety.",
       "date": "Mon, 04 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanon Latest",
+      "link": "https://www.aljazeera.com/video/2026/5/4/lebanon-latest?traffic_source=rss",
+      "description": "Israel intensifies airstrikes",
+      "date": "Mon, 04 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US releases Touska container ship crew: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/5/4/us-releases-touska-container-ship-crew-why-it-matters?traffic_source=rss",
+      "description": "Pakistan said the release of the crew members reflected a &#039;confidence-building measure&#039; between Tehran and Washington.",
+      "date": "Mon, 04 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz?traffic_source=rss",
+      "description": "Scott Bessent says US has &#039;absolute control&#039; of Hormuz, but calls on China to &#039;step up&#039; with diplomacy to reopen strait.",
+      "date": "Mon, 04 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "UAE reports missile and drone strikes incoming from Iran",
+      "link": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss",
+      "description": "There are no immediate reports of casualties. There has been no immediate comment from ‌Iran.",
+      "date": "Mon, 04 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Does Trump hold ‘all the cards’ against Iran in the Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz?traffic_source=rss",
+      "description": "Trump signals confidence in Iran standoff as tensions rise in the Strait of Hormuz.",
+      "date": "Mon, 04 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "War preparations under way in Iran as Hormuz tensions with US escalate",
@@ -203,69 +263,19 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss",
-      "description": "Iranian state media says two missiles have struck a US navy destroyer to prevent it entering the Strait of Hormuz.",
+      "title": "Fujairah oil zone hit by drone attack as UAE says it intercepted Iranian missiles",
+      "link": "https://www.dawn.com/news/1997510/fujairah-oil-zone-hit-by-drone-attack-as-uae-says-it-intercepted-iranian-missiles",
+      "description": "Fire broke out at a major UAE oil industry zone on Monday after a drone attack originating from Iran, ​authorities said, as the Gulf state’s military separately intercepted three Iranian ‌missiles over its waters and a fourth crashed into the sea. Civil defence teams were deploye...",
       "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
-      "link": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss",
-      "description": "The US president has accused some NATO countries of not doing enough to support the US-Israel war on Iran.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
-      "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
-      "description": "Trump orders new Hormuz mission after Iran says it receives US response to its peace proposal.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss",
-      "description": "Japan’s PM says the effective closure of the Strait of Hormuz is ‘inflicting an ‘enormous impact’ on Asia Pacific.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-      "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
-      "description": "President Trump says the US will begin &#039;Project Freedom&#039; on Monday to guide stranded ships through Strait of Hormuz.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
-      "link": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss",
-      "description": "Twenty-two crew members from the seized Iranian ship MV Touska have been transferred to Pakistan for repatriation.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "FO says 22 crew members on Iranian ship seized by US have been evacuated to Pakistan",
       "link": "https://www.dawn.com/news/1997392/fo-says-22-crew-members-on-iranian-ship-seized-by-us-have-been-evacuated-to-pakistan",
-      "description": "The Foreign Office (FO) said on Monday that as a “confidence-building measure” by the United States, 22 crew members on an Iranian ship that was seized by US forces had been evacuated to Pakistan. The statement came hours after American outlet ABC News reported that an Iranian sh...",
+      "description": "Fifteen of 22 Iranian sailors, who had been evacuated to Pakistan after being released by the United States, have crossed the border and entered their home territory, Iranian state media reports. According to IRNA, the sailors crossed through the Rimdan border terminal in Sistan ...",
       "date": "Mon, 04 May 2026",
       "source": "Dawn",
       "region": "me",
@@ -313,11 +323,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says ball in US court on war or diplomacy",
-      "link": "https://www.dawn.com/news/1997084/iran-says-ball-in-us-court-on-war-or-diplomacy",
-      "description": "WASHINGTON: A man stands atop the Frederick Douglass Memorial Bridge on Saturday to protest the US-Israeli war on Iran. Guido Reichstadter climbed the bridge in Washington on May Day, stayed there overnight, and posted a sunrise photo from one of the bridge’s arches while calling...",
-      "date": "Sun, 03 May 2026",
-      "source": "Dawn",
+      "title": "UAE Defence Ministry says four cruise missiles fired from Iran",
+      "link": "https://www.thehindu.com/news/international/iran-missile-attacks-targeting-uae-fujairah/article70939998.ece",
+      "description": "Authorities ​in the ‌United Arab Emirates’ Fujairah ​said ⁠on May 4, that a ‌fire broke out ‌at ‌the Fujairah ⁠Oil ⁠Industry Zone following what they ​described ‌as a drone attack originating from ‌Iran.",
+      "date": "Mon, 04 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -373,14 +383,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Tanker hit by 'unknown projectiles' off UAE coast: U.K. maritime agency",
-      "link": "https://www.thehindu.com/news/international/tanker-hit-by-unknown-projectiles-off-uae-coast-uk-maritime-agency/article70937086.ece",
-      "description": "The report came as the U.S. and Iran remain deadlocked in peace negotiations since a ceasefire in the West Asian war came into effect on April 8",
+      "title": "Explosion, fire reported on South Korean vessel in Strait of Hormuz — Foreign Ministry",
+      "link": "https://tass.com/emergencies/2126283",
+      "description": "There were 24 crew members on board, including six citizens of the Republic of Korea",
       "date": "Mon, 04 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Ceasefire in Lebanon not yet fully implemented — PM",
+      "link": "https://tass.com/world/2126255",
+      "description": "Nawaf Salam stressed that Lebanon is seeking a comprehensive ceasefire and insists that Israel be committed to it",
+      "date": "Mon, 04 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Respect-based dialogue needed to develop Russia-Japan relations — senior Russian MP",
