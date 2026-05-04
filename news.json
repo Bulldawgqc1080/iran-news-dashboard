@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03 23:34 UTC",
-  "total": 39,
+  "updated": "2026-05-04 01:48 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
@@ -23,19 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "Iran submits 14-point response to U.S. proposal to end war",
+      "title": "Iran submits a 14-point response to a U.S. proposal to end war",
       "link": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
       "description": "Iran has presented a 14-point response to the U.S. proposal to end the war, according to Iranian state media.",
-      "date": "Sat, 02 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Collaboration helps NPR journalists get you the story of the Iran war up close",
-      "link": "https://www.npr.org/2026/05/02/nx-s1-5802996/collaboration-helps-npr-journalists-get-you-the-story-of-the-iran-war-up-close",
-      "description": "Three NPR journalists talk about the challenge of producing independent, accurate coverage of the war with Iran.",
       "date": "Sat, 02 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -143,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Live: US to escort ships through Hormuz as Iran warns of ceasefire breach",
+      "link": "https://www.france24.com/en/middle-east/20260504-live-us-to-escort-ships-through-strait-of-hormuz-as-iran-warns-of-ceasefire-breach-trump",
+      "description": "The United States is set to begin escorting stranded third-country vessels through the Strait of Hormuz starting Monday morning, as part of its “Project Freedom” initiative, Donald Trump announced Sunday. Iran quickly pushed back, with a senior official warning that any “American...",
+      "date": "Mon, 04 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran reviews US response to peace proposal, warns against further military action",
       "link": "https://www.france24.com/en/middle-east/20260503-iran-reviews-us-response-to-peace-proposal-warns-against-further-military-action",
       "description": "Tehran said Sunday the United States would have to choose between an “impossible” military operation or a “bad deal” in the Middle East conflict, after US President Donald Trump warned that he might reject a new proposal from Iran to restart peace talks. Negotiations between the ...",
@@ -183,14 +183,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Inflation surging past 50% in Iran",
-      "link": "https://www.france24.com/en/inflation-surging-past-50-in-iran",
-      "description": "The fragile ceasefire may have paused the fighting, but the economic fallout in Iran continues. A US naval blockade of Iranian ports has sharply reduced the Iran’s oil exports, while the cost of everyday goods has continued to rise. Across the country, people are now bracing for ...",
-      "date": "Sun, 03 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war live: Tehran warns Trump’s Hormuz mission violates ceasefire",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
+      "description": "Iran protests as Trump announces &#039;Project Freedom&#039; to escort stranded ships out of the Strait of Hormuz.",
+      "date": "Mon, 04 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
@@ -293,9 +293,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Iran says it is reviewing U.S. response to latest proposal",
+      "title": "Israel-Iran war updates: Trump announces 'Project Freedom' to help stranded ships out of Strait of Hormuz",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-      "description": "Bulk carrier near Strait of Hormuz reportedly being attacked, U.K. military says",
+      "description": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz would be a breach of ceasefire",
+      "date": "Mon, 04 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump announces ‘Project Freedom’ to help stranded ships leave Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/trump-announces-project-freedom-to-help-stranded-ships-leave-strait-of-hormuz/article70936417.ece",
+      "description": "“Project Freedom” would begin on Monday (May 4, 2026) morning in West Asia, Mr. Trump said, adding that his representatives are having discussions with Iran that could lead to something “very positive for all”",
       "date": "Sun, 03 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -341,56 +351,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "OPEC+ hikes oil production quotas without mentioning UAE pull-out",
-      "link": "https://www.thehindu.com/news/international/opec-hikes-oil-production-quotas-without-mentioning-uae-pull-out/article70935012.ece",
-      "description": "But raising the quota on paper may not have much impact on actual production, which is already short of the limit",
-      "date": "Sun, 03 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran to view US interference in Strait of Hormuz navigation as ceasefire violation",
-      "link": "https://tass.com/world/2125827",
-      "description": "Ebrahim Azizi, the head of the Iranian parliament’s national security committee, says that the Strait of Hormuz and the Persian Gulf management will not be based on \"delusional posts\" of the US president",
-      "date": "Sun, 03 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Tehran’s proposals do not include 15-year enrichment pause — news agency",
-      "link": "https://tass.com/world/2125819",
-      "description": "The proposals also do not include the opening of the Strait of Hormuz before the sides reach the final peace deal",
-      "date": "Sun, 03 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US still in talks with Iran — Witkoff",
-      "link": "https://tass.com/world/2125803",
-      "description": "US president’s special envoy commented on the state of negotiations",
-      "date": "Sun, 03 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says Iran’s new peace proposal is unacceptable",
-      "link": "https://tass.com/world/2125799",
-      "description": "According to the US leader, the campaign against Iran is proceeding very well",
-      "date": "Sun, 03 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
