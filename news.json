@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-04 19:12 UTC",
-  "total": 38,
+  "updated": "2026-05-04 20:57 UTC",
+  "total": 43,
   "stories": [
     {
-      "title": "The UAE says Iran resumes attacks as the U.S. moves to reopen the Strait of Hormuz",
+      "title": "The U.S. fights to reopen the Strait of Hormuz as UAE says it's attacked by Iran",
       "link": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates",
-      "description": "The U.S. military said it helped two merchant ships transit the Strait of Hormuz, and the United Arab Emirates said it was fending off Iranian missiles and drones.",
+      "description": "The U.S. military said it battled Iranian forces and sank six small boats as it moved to reopen the Strait of Hormuz, while the United Arab Emirates said Iran fired missiles and drones its way.",
       "date": "Mon, 04 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -36,16 +36,6 @@
       "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
       "link": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
       "description": "U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
-      "date": "Sun, 03 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Modern economic chokepoints in war and the impact on geopolitics",
-      "link": "https://www.npr.org/2026/05/03/nx-s1-5804691/modern-economic-chokepoints-in-war-and-the-impact-on-geopolitics",
-      "description": "Hoover Institution fellow Eyck Freymann explains what the Iran war and the blockade of the Straight of Hormuz reveals about modern economic chokepoints, geopolitics and war strategies.",
       "date": "Sun, 03 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -138,6 +128,26 @@
       "description": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
       "date": "Sun, 26 Apr 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "War of words: Trump, Iran trade claims of missile strikes in the Strait of Hormuz",
+      "link": "https://www.france24.com/en/war-of-words-trump-iran-trade-claims-of-missile-strikes-in-the-strait-of-hormuz-1",
+      "description": "Tensions in the Strait of Hormuz escalated Monday after US President Donald Trump announced Washington was beginning \"Project Freedom,\" to help \"guide\" ships stranded by Iran's closure of the crucial waterway. Iran said the US had \"disregarded\" its warning shots and that it had s...",
+      "date": "Mon, 04 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'America has confirmed everything that Iran has been telling its population', analyst says",
+      "link": "https://www.france24.com/en/america-has-confirmed-everything-that-iran-has-been-telling-its-population-analyst-says",
+      "description": "Speaking with FRANCE 24's Mark Owen, Emma Salisbury, Senior Research Fellow on the National Security Programme at the Foreign Policy Institute, says that \"America has confirmed everything that Iran has been telling its population\", explaining that \"the Iranian regime tell their p...",
+      "date": "Mon, 04 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -245,7 +255,7 @@
     {
       "title": "UAE reports missile and drone strikes incoming from Iran",
       "link": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss",
-      "description": "No immediate reports of casualties and no immediate comment from ‌Iran.",
+      "description": "No immediate reports of casualties, no immediate comment from ‌Iran.",
       "date": "Mon, 04 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -381,6 +391,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Trump calls on South Korea to join operations in Strait of Hormuz",
+      "link": "https://tass.com/world/2126375",
+      "description": "The US leader also issued another warning to Iran regarding the Strait of Hormuz",
+      "date": "Mon, 04 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Fires at UAE oil sites stem from US’ reckless actions — Iranian agency",
+      "link": "https://tass.com/world/2126373",
+      "description": "According to the news agency, Iran did not plan any attacks on UAE oil facilities",
+      "date": "Mon, 04 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UAE air defense forces intercept 12 ballistic missiles, three cruise missiles from Iran",
+      "link": "https://tass.com/world/2126371",
+      "description": "Earlier, the press service of the government of the emirate of Fujairah reported that three Indian citizens were injured as a result of an Iranian drone strike on an oil industrial complex",
+      "date": "Mon, 04 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "IDF remains on high alert amid developments around Iran — source",
+      "link": "https://tass.com/world/2126361",
+      "description": "The Home Front Command’s instructions remain in force, the source said, adding that the Command will inform about any changes in the instructions",
+      "date": "Mon, 04 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
