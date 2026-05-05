@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-04 23:42 UTC",
-  "total": 40,
+  "updated": "2026-05-05 01:49 UTC",
+  "total": 43,
   "stories": [
     {
       "title": "The U.S. fights to reopen the Strait of Hormuz as UAE says it's attacked by Iran",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260504-us-and-uae-report-iran-attacks-as-military-pushes-to-reopen-strait-of-hormuz",
+      "description": "US forces opened a passage through the Strait of Hormuz on Monday after sinking Iranian boats and escorting merchant ships, as fresh attacks struck vessels and facilities in the United Arab Emirates. The escalation has raised fears over global energy supplies and risks derailing ...",
+      "date": "Mon, 04 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Can solar cars become mainstream?",
       "link": "https://www.france24.com/en/tv-shows/business/20260504-can-solar-cars-become-mainstream",
       "description": "The energy crisis caused by the Iran war has been a wake-up call and prompted governments to try and speed up a shift to electric cars. Could solar cars be next? Although they have been around for decades, solar-powered vehicles have largely remained experimental due to technical...",
@@ -203,6 +213,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss",
+      "description": "Israeli attacks have killed 2,696 people in Lebanon since March 2, the country&#039;s Health Ministry reports.",
+      "date": "Tue, 05 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
       "link": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
       "description": "US military says it is encouraging ships to pass through Hormuz Strait, but Iran says it is in full control of waterway.",
@@ -246,36 +266,6 @@
       "title": "Lebanon Latest",
       "link": "https://www.aljazeera.com/video/2026/5/4/lebanon-latest?traffic_source=rss",
       "description": "Israel intensifies airstrikes",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US releases Touska container ship crew: Why it matters",
-      "link": "https://www.aljazeera.com/news/2026/5/4/us-releases-touska-container-ship-crew-why-it-matters?traffic_source=rss",
-      "description": "Pakistan said the release of the crew members reflected a &#039;confidence-building measure&#039; between Tehran and Washington.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz?traffic_source=rss",
-      "description": "Scott Bessent says US has &#039;absolute control&#039; of Hormuz, but calls on China to &#039;step up&#039; with diplomacy to reopen strait.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "UAE reports missile and drone strikes incoming from Iran",
-      "link": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss",
-      "description": "No immediate reports of casualties, no immediate comment from ‌Iran.",
       "date": "Mon, 04 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -343,6 +333,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump launches ‘Project Freedom’ to open Strait of Hormuz, Iran strikes ships, UAE port",
+      "link": "https://www.thehindu.com/news/international/trump-project-freedom-strait-of-hormuz-iran-uae-port-may-5-2026/article70941209.ece",
+      "description": "Mr. Trump announced his new “Project Freedom” mission on social media overnight to enable stuck ships to travel through the strait",
+      "date": "Tue, 05 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Three Indians injured after fire breaks out in UAE’s Fujairah due to drone attack",
       "link": "https://www.thehindu.com/news/international/indians-injured-in-uae-fujairah-iran-drone-attack/article70940253.ece",
       "description": "Three Indian nationals sustained injuries after the fire broke out on the Fujairah Petroleum Industries Zone, following a drone attack from Iran, local media reported",
@@ -393,14 +393,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran military says U.S. forces will be attacked if they enter Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-warns-of-ceasefire-violation-as-us-plans-to-escort-hormuz-ships/article70937369.ece",
-      "description": "Any American interference in the new maritime regime of the Strait of Hormuz will be considered a violation of the ceasefire, says Iranian parliament's national security commission",
+      "title": "Iran's enriched uranium reserves probably can no longer be used, Trump believes",
+      "link": "https://tass.com/world/2126415",
+      "description": "However, Donald Trump said that the United States still wants to get these stocks of enriched nuclear fuel",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US seizes most of oil from captured Iranian tankers — Trump",
+      "link": "https://tass.com/economy/2126413",
+      "description": "Earlier, Donald Trump admitted that the US military behaved like pirates when seizing tankers with Iranian oil",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says disappointed with Europe",
+      "link": "https://tass.com/world/2126409",
+      "description": "Donald Trump noted that \"NATO wasn’t there,\" when the United States launched the war against Iran",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "If UAE decides on 'irrational actions,' their interests to become Iran’s goals — agency",
+      "link": "https://tass.com/world/2126403",
+      "description": "The UAE \"is in a very fragile glass house, and instability poses a mortal threat to them,\" the news agency said",
       "date": "Mon, 04 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
