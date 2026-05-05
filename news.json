@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-05 04:53 UTC",
-  "total": 43,
+  "updated": "2026-05-05 07:11 UTC",
+  "total": 39,
   "stories": [
     {
       "title": "The U.S. fights to reopen the Strait of Hormuz as UAE says it's attacked by Iran",
@@ -33,14 +33,14 @@
       "bias": "Low"
     },
     {
-      "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
-      "link": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
-      "description": "U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
-      "date": "Sun, 03 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+      "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+      "description": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection.",
+      "date": "Tue, 05 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Israeli attacks kill dozens within days in Lebanon despite ceasefire",
@@ -133,7 +133,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Saudi Arabia calls for de-escalation after US–Iran clashes",
+      "title": "Middle East war live: Saudi Arabia calls for de-escalation after US-Iran clashes",
       "link": "https://www.france24.com/en/middle-east/20260505-middle-east-war-live-saudi-arabia-calls-for-de-escalation-after-us%E2%80%93iran-clashes",
       "description": "Saudi Arabia called on Tuesday to de-escalate the conflict in the Middle East after Iran and the United States traded fire, rattling a fragile ceasefire. The UN Security Council is set to hold a closed-door meeting on Lebanon later in the day. Follow our liveblog for the latest d...",
       "date": "Tue, 05 May 2026",
@@ -213,6 +213,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
+      "link": "https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss",
+      "description": "The UAE says it intercepted Iranian missiles after a suspected drone attack, with no comment from Iran.",
+      "date": "Tue, 05 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran says US military killed five civilians in attacks on passenger boats",
+      "link": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss",
+      "description": "Iranian commander says US military attacked two passenger boats, not IRGC vessels, in the Strait of Hormuz on Monday.",
+      "date": "Tue, 05 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
       "link": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss",
       "description": "Saudi Arabia, Qatar, Kuwait and Bahrain denounce strikes, as Germany, UK and Canada urge Iran to return to talks.",
@@ -246,26 +266,6 @@
       "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
       "link": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
       "description": "US military says it is encouraging ships to pass through Hormuz Strait, but Iran says it is in full control of waterway.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran-US clash over alleged warship attack in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss",
-      "description": "Iran claims its navy forced a US warship to turn back from the Strait of Hormuz as Washington denies any clash.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Tackling methane emissions key for climate change and energy security: IEA",
-      "link": "https://www.aljazeera.com/news/2026/5/4/tackling-methane-emissions-key-for-climate-change-and-energy-security-iea?traffic_source=rss",
-      "description": "Dealing with emissions could help alleviate effects of Iran crisis on global energy supply, says report.",
       "date": "Mon, 04 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -333,9 +333,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Ceasefire on brink as UAE reports attacks",
+      "title": "Iran-Israel war LIVE: PM Modi condemns attacks on the UAE, which resulted in injuries to three Indian nationals",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
       "description": "U.S. President Donald ​Trump launched “Project Freedom” seeking to open the Strait of Hormuz to shipping, prompting Iran to lash out",
+      "date": "Tue, 05 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "South Korea to probe ship fire in Strait of Hormuz, Trump blames Iranian attack",
+      "link": "https://www.thehindu.com/news/international/south-korea-to-probe-ship-fire-in-strait-of-hormuz-trump-blames-iranian-attack/article70941503.ece",
+      "description": "“The exact cause of the accident would be figured out after the vessel is towed and ‌its damage is assessed,” South Korea’s Foreign Ministry said in a ‌statement",
       "date": "Tue, 05 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -381,56 +391,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Missiles fired at U.S. frigate in Strait of Hormuz, claims Iranian media",
-      "link": "https://www.thehindu.com/news/international/missiles-fired-at-us-frigate-in-strait-of-hormuz-claims-iranian-media/article70938437.ece",
-      "description": "No U.S. ​Navy ⁠ships have been ‌struck, ‌U.S. ‌Central ⁠Command ⁠said on ​May 4, ‌after Iran asserted that it ‌had ​forced a ⁠U.S. ‌warship to turn ‌back",
-      "date": "Mon, 04 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US attacks cargo ships in Strait of Hormuz killing five people — Tasnim",
-      "link": "https://tass.com/world/2126441",
-      "description": "According to the news agency, the vessels carrying civilian cargo were traveling from the Omani port of Khasab to the coast of Iran",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "From trendy toys to tools of political manipulation: Rapid advancement of AI avatars",
-      "link": "https://tass.com/society/2126159",
-      "description": "As you read this text, thousands of non-existent people are selling clothes, raising funds, and campaigning for politicians",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran's enriched uranium reserves probably can no longer be used, Trump believes",
-      "link": "https://tass.com/world/2126415",
-      "description": "However, Donald Trump said that the United States still wants to get these stocks of enriched nuclear fuel",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US seizes most of oil from captured Iranian tankers — Trump",
-      "link": "https://tass.com/economy/2126413",
-      "description": "Earlier, Donald Trump admitted that the US military behaved like pirates when seizing tankers with Iranian oil",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
