@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-05 21:52 UTC",
-  "total": 42,
+  "updated": "2026-05-05 22:44 UTC",
+  "total": 39,
   "stories": [
     {
       "title": "U.S. says it's made Hormuz safe for commercial shipping, but standoff hasn't changed",
@@ -128,6 +128,16 @@
       "description": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
       "date": "Wed, 29 Apr 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Rubio says US military has completed offensive operations in Iran",
+      "link": "https://www.france24.com/en/middle-east/20260505-rubio-says-us-military-has-completed-offensive-operations-in-iran",
+      "description": "The United States said on Tuesday that it had ended offensive operations against Iran, but warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could collapse.",
+      "date": "Tue, 05 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -381,46 +391,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Top Russian diplomat, Qatari PM discuss situation in Strait of Hormuz",
-      "link": "https://tass.com/politics/2126965",
-      "description": "The sides expressed a shared opinion that it is necessary to refuse from trying to resolve the crisis by force",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US submits draft UNSC resolution on navigation in Strait of Hormuz",
-      "link": "https://tass.com/world/2126955",
-      "description": "Earlier, Iranian Parliament Speaker Mohammad Bagher Ghalibaf stated that safe navigation in the Strait of Hormuz is under threat due to the US’ and its allies’ violation of the ceasefire",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Rubio says US operation in Strait of Hormuz is defensive",
-      "link": "https://tass.com/world/2126949",
-      "description": "We're not but if they are attacking us, so they're attacking a ship, you need to respond to that, he told a briefing",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US trying to contact Iran via multiple intermediaries, not just Pakistan — agency",
-      "link": "https://tass.com/world/2126941",
-      "description": "However, Iran doesn’t trust the United States and is prepared for any scenario, the source added",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
