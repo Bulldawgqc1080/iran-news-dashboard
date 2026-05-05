@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-05 17:12 UTC",
-  "total": 36,
+  "updated": "2026-05-05 19:03 UTC",
+  "total": 40,
   "stories": [
     {
-      "title": "U.S. says the Iran ceasefire holds despite attacks in Strait of Hormuz and against UAE",
-      "link": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
-      "description": "So far, only two merchant ships are known to have passed a new U.S.-guarded route through the Strait of Hormuz.",
+      "title": "The Iran war sent jet fuel prices sky-high. Here's what air travelers should know",
+      "link": "https://www.npr.org/2026/05/05/nx-s1-5811918/iran-war-jet-fuel-baggage-fees-travel-tips",
+      "description": "Fuel is airlines' second-largest expense, and getting even costlier due to the U.S. war with Iran. Airlines are looking for ways to cope, starting by hiking checked baggage fees for most fliers.",
       "date": "Tue, 05 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -13,10 +13,10 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. tries to force open the Strait of Hormuz as the UAE comes under attack",
-      "link": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates",
-      "description": "The U.S. military said it fired on Iranian forces and sank six small boats as it moved to reopen the Strait of Hormuz on Monday. The United Arab Emirates said it had come under attack from Iran.",
-      "date": "Mon, 04 May 2026",
+      "title": "U.S. says the Iran ceasefire holds despite attacks in Strait of Hormuz and against UAE",
+      "link": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
+      "description": "So far, only two merchant ships are known to have passed a new U.S.-guarded route through the Strait of Hormuz.",
+      "date": "Tue, 05 May 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -163,9 +163,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UAE comes under Iranian attacks for second consecutive day",
+      "title": "UAE comes under Iranian attacks for second consecutive day: Ministry",
       "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
-      "description": "The strikes come a day after the Gulf nation was attacked by 15 missiles amid a shaky US-Iran ceasefire.",
+      "description": "Iran says the country&#039;s forces &#039;have not carried out any missile or drone operations against the UAE in recent days&#039;.",
       "date": "Tue, 05 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -303,9 +303,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: UAE air defences 'actively engaging' with Iran missiles, drones, says UAE Defence Ministry",
+      "title": "Iran-Israel war LIVE: Trump urges Iran to 'do the smart thing'",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
-      "description": "U.S. threatens 'devastating' response to any Iran attack on shipping; Hegseth and Caine say ceasefire between the U.S. and Iran is not over",
+      "description": "UAE air defences 'actively engaging' with Iran missiles, drones, says UAE Defence Ministry; U.S. threatens 'devastating' response to any Iran attack on shipping",
+      "date": "Tue, 05 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "China says wider U.S. sanctions on Cuba are 'illegal'",
+      "link": "https://www.thehindu.com/news/international/china-says-wider-us-sanctions-on-cuba-are-illegal/article70944387.ece",
+      "description": "U.S. President Donald Trump signed ‌an executive order on May 1 broadening ⁠U.S. sanctions against the ⁠Cuban government",
       "date": "Tue, 05 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -353,14 +363,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Three Indians injured after fire breaks out in UAE’s Fujairah due to drone attack",
-      "link": "https://www.thehindu.com/news/international/indians-injured-in-uae-fujairah-iran-drone-attack/article70940253.ece",
-      "description": "Three Indian nationals sustained injuries after the fire broke out on the Fujairah Petroleum Industries Zone, following a drone attack from Iran, local media reported",
-      "date": "Mon, 04 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iran announces introduction of new mechanism for vessel passage via Strait of Hormuz — TV",
+      "link": "https://tass.com/world/2126929",
+      "description": "According to the report, vessels intending to pass through the Strait of Hormuz, \"after notifying the Iranian authorities, must receive an electronic message from them, containing information about the rules of movement through the strait\"",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says personally engaged in talks with Tehran",
+      "link": "https://tass.com/world/2126927",
+      "description": "According to the US leader, Tehran wants to agree on the cessation of hostilities with Washington",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "IRGC calls on ships to transit Hormuz Strait via corridor provided by Iran",
+      "link": "https://tass.com/world/2126907",
+      "description": "The Islamic Revolutionary Guard Corps warned that diverting ships to other routes is unsafe",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "War with Iran refocuses market to buy US oil — Trump",
+      "link": "https://tass.com/economy/2126903",
+      "description": "The US president assumed that it is a better product as well",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
