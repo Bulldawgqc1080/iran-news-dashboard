@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-05 09:51 UTC",
-  "total": 42,
+  "updated": "2026-05-05 11:09 UTC",
+  "total": 40,
   "stories": [
+    {
+      "title": "U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+      "link": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
+      "description": "The Iran war risked reigniting after the U.S. tried to force open the Strait of Hormuz, though a ceasefire seemed to be holding Tuesday even after the United Arab Emirates said Iran fired missiles and drones at it.",
+      "date": "Tue, 05 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. tries to force open the Strait of Hormuz as the UAE comes under attack",
       "link": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates",
@@ -16,16 +26,6 @@
       "title": "Trump says U.S. will 'guide' stranded ships through the Strait. And, key Senate races to watch",
       "link": "https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani",
       "description": "President Trump announced that the U.S will \"guide\" stranded ships through the Strait of Hormuz. And, Democrats face an uphill battle to gain Senate control. Here are the key races to watch.",
-      "date": "Mon, 04 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump says the U.S. will 'guide' stranded ships from the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz",
-      "description": "The United States will launch an effort on Monday to \"guide\" stranded ships from the Iran-gripped Strait of Hormuz, President Donald Trump said, as two ships around the strait reported attacks.",
       "date": "Mon, 04 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +133,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "UAE says oil facility hit by Iranian drone strike as attacks resume",
+      "link": "https://www.france24.com/en/video/20260505-uae-says-oil-facility-hit-by-iranian-drone-strike-as-attacks-resume",
+      "description": "The United Arab Emirates said Monday it came under attack by Iran for the first time since a fragile ceasefire took hold in early April, accusing Iran of sparking a fire at a key oil facility in a drone strike. The UAE Defense Ministry also said Iran had launched four cruise miss...",
+      "date": "Tue, 05 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'The highest tensions have been' as US, Iran trade fire in Hormuz",
+      "link": "https://www.france24.com/en/video/20260505-the-highest-tensions-have-been-as-us-iran-trade-fire-in-hormuz",
+      "description": "The US military said it fired on Iranian forces and sank six small boats targeting civilian ships as it moved to reopen the Strait of Hormuz on Monday, while the United Arab Emirates said it had come under attack from Iran for the first time since a fragile ceasefire took hold in...",
+      "date": "Tue, 05 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "War with Iran threatens to reignite as Trump launches 'Project Freedom'",
       "link": "https://www.france24.com/en/video/20260505-war-with-iran-threatens-to-reignite-as-trump-launches-project-freedom",
       "description": "A ceasefire between Iran and the United States was teetering Monday as the two countries traded fire over the strategic Strait of Hormuz, a day after President Donald Trump announced an operation to escort trapped vessels through the strait dubbed “Project Freedom”. France 24’s P...",
@@ -183,36 +203,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Opaque nature of US-Iran shadow war: Are they 'dancing their way out of a minefield' towards a deal?",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260504-opaque-nature-of-us-iran-shadow-war-are-they-dancing-their-way-out-of-a-minefield-toward-a-deal",
-      "description": "François Picard welcomes Peter Apps, Global Defence Commentator, who writes a bi-weekly column for Reuters on national security, conflict, international affairs and technology. Rather than casting the current state of US–Iran tensions as a binary shift between war and peace, Apps...",
-      "date": "Mon, 04 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "War of words: Trump, Iran trade claims of missile strikes in Strait of Hormuz",
-      "link": "https://www.france24.com/en/war-of-words-trump-iran-trade-claims-of-missile-strikes-in-the-strait-of-hormuz-1",
-      "description": "Tensions in the Strait of Hormuz escalated on Monday after US President Donald Trump announced that Washington was beginning \"Project Freedom\" to help \"guide\" ships stranded by Iran's closure of the crucial waterway. Iran said the US had \"disregarded\" its warning shots and that i...",
-      "date": "Mon, 04 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'America has confirmed everything that Iran has been telling its population', analyst says",
-      "link": "https://www.france24.com/en/america-has-confirmed-everything-that-iran-has-been-telling-its-population-analyst-says",
-      "description": "Speaking with FRANCE 24's Mark Owen, Emma Salisbury, Senior Research Fellow on the National Security Programme at the Foreign Policy Institute, says that \"America has confirmed everything that Iran has been telling its population\", explaining that \"the Iranian regime tell their p...",
-      "date": "Mon, 04 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "What Iran is saying about attack on UAE",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
       "description": "What Iran is saying about attack on UAE",
@@ -246,16 +236,6 @@
       "title": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
       "link": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss",
       "description": "Saudi Arabia, Qatar, Kuwait and Bahrain denounce strikes, as Germany, UK and Canada urge Iran to return to talks.",
-      "date": "Tue, 05 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Oil prices surge as violence flares in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss",
-      "description": "Brent crude rises nearly 6 percent as soaring tensions in waterway push ceasefire to the brink.",
       "date": "Tue, 05 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -323,9 +303,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: PM Modi condemns attacks on the UAE, which resulted in injuries to three Indian nationals",
+      "title": "Iran-Israel war LIVE: Iran Foreign Minister Araghchi heads for China, Ministry says",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
-      "description": "U.S. President Donald ​Trump launched “Project Freedom” seeking to open the Strait of Hormuz to shipping, prompting Iran to lash out",
+      "description": "Iran’s negotiator warned the United States against any further escalation in the Strait of Hormuz, after a spate of attacks risked reigniting the West Asia",
       "date": "Tue, 05 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -383,39 +363,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "UK expands sanctions list against Russia — Foreign Office",
+      "link": "https://tass.com/world/2126615",
+      "description": "The restrictions were introduced against ten individuals and eight companies",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "FACTBOX: Fatalities in Strait of Hormuz vessel attack, US authority to strike IRGC boats",
+      "link": "https://tass.com/world/2126603",
+      "description": "At least five people died as a result of a United States attack on two cargo vessels in the Strait of Hormuz, the Iranian news agency Tasnim reported",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iraq encouraging oil exports through Strait of Hormuz with big discounts — Bloomberg",
+      "link": "https://tass.com/economy/2126599",
+      "description": "Iraq previously slashed oil production due to overflowing storage facilities and problems with exports through the Strait of Hormuz caused by the conflict surrounding Iran",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US president believes NATO won’t help Washington in case of global conflict",
       "link": "https://tass.com/world/2126573",
       "description": "Donald Trump added that he personally and the US in general took note of NATO allies’ reaction to the operation in Iran and their unwillingness to aid Washington",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US President admits oil price could reach $250 per barrel due to operation in Iran",
-      "link": "https://tass.com/economy/2126569",
-      "description": "Donald Trump said that he was prepared for the associated consequences for the American economy",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IDF buffer zone in Lebanon ineffective, lacks purpose — former Israeli PM",
-      "link": "https://tass.com/world/2126565",
-      "description": "Ehud Olmert noted that this does not eliminate the threat of rocket attacks by the Shiite Hezbollah group",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran’s oil infrastructure may sustain significant damage, Trump assumes",
-      "link": "https://tass.com/economy/2126561",
-      "description": "Iraq had previously cut oil production due to overflowing storage facilities and export issues through the Strait of Hormuz caused by the Iranian conflict",
       "date": "Tue, 05 May 2026",
       "source": "TASS",
       "region": "ru",
