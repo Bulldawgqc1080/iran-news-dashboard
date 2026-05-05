@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05 01:49 UTC",
+  "updated": "2026-05-05 04:53 UTC",
   "total": 43,
   "stories": [
     {
@@ -45,7 +45,7 @@
     {
       "title": "Israeli attacks kill dozens within days in Lebanon despite ceasefire",
       "link": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss",
-      "description": "The health ministry says 77 people have been killed in Israeli strikes on southern Lebanon since Thursday.",
+      "description": "The health ministry says 110 people have been killed in Israeli strikes on southern Lebanon since Thursday.",
       "date": "Mon, 04 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: Saudi Arabia calls for de-escalation after US–Iran clashes",
+      "link": "https://www.france24.com/en/middle-east/20260505-middle-east-war-live-saudi-arabia-calls-for-de-escalation-after-us%E2%80%93iran-clashes",
+      "description": "Saudi Arabia called on Tuesday to de-escalate the conflict in the Middle East after Iran and the United States traded fire, rattling a fragile ceasefire. The UN Security Council is set to hold a closed-door meeting on Lebanon later in the day. Follow our liveblog for the latest d...",
+      "date": "Tue, 05 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz",
       "link": "https://www.france24.com/en/middle-east/20260504-us-and-uae-report-iran-attacks-as-military-pushes-to-reopen-strait-of-hormuz",
       "description": "US forces opened a passage through the Strait of Hormuz on Monday after sinking Iranian boats and escorting merchant ships, as fresh attacks struck vessels and facilities in the United Arab Emirates. The escalation has raised fears over global energy supplies and risks derailing ...",
@@ -203,14 +213,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Allies jolted on defence as Trump pulls troops from Germany",
-      "link": "https://www.france24.com/en/video/20260504-allies-jolted-on-defence-as-trump-pulls-troops-from-germany",
-      "description": "America's NATO allies put a brave face Monday on a US decision to withdraw 5,000 troops from Germany, but warned it was proof Europe needs to step up for its own security, and fast. US President Donald Trump cast fresh doubts over the future of the alliance as he announced Washin...",
-      "date": "Mon, 04 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
+      "link": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss",
+      "description": "Saudi Arabia, Qatar, Kuwait and Bahrain denounce strikes, as Germany, UK and Canada urge Iran to return to talks.",
+      "date": "Tue, 05 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Oil prices surge as violence flares in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss",
+      "description": "Brent crude rises nearly 6 percent as soaring tensions in waterway push ceasefire to the brink.",
+      "date": "Tue, 05 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
@@ -253,24 +273,44 @@
       "bias": "Medium"
     },
     {
-      "title": "Captain warns ‘no ship will be a hero’ by risking Hormuz transit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/captain-warns-no-ship-will-be-a-hero-by-risking-hormuz-transit?traffic_source=rss",
-      "description": "Captain Raman Kapoor says no vessel will attempt to exit the Strait of Hormuz without assurance of safety.",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
+      "title": "Europeans, Canadian PM discuss security amid Trump’s threats",
+      "link": "https://www.dawn.com/news/1997608/europeans-canadian-pm-discuss-security-amid-trumps-threats",
+      "description": "YEREVAN: America’s Nato allies put a brave face on Monday on a US decision to withdraw 5,000 troops from Germany, but warned it was proof Europe needs to step up for its own security, and fast. US President Donald Trump cast fresh doubts over the future of the alliance as he anno...",
+      "date": "Tue, 05 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Lebanon Latest",
-      "link": "https://www.aljazeera.com/video/2026/5/4/lebanon-latest?traffic_source=rss",
-      "description": "Israel intensifies airstrikes",
-      "date": "Mon, 04 May 2026",
-      "source": "Al Jazeera",
+      "title": "Hezbollah fighters, Israeli troops clash in Lebanon",
+      "link": "https://www.dawn.com/news/1997602/hezbollah-fighters-israeli-troops-clash-in-lebanon",
+      "description": "• Aoun says security deal must come before meeting with Netanyahu• Hezbollah chief opposes negotiations until war stops BEIRUT: Hezbollah said its forces clashed with Israeli soldiers on Monday in south Lebanon near the border where the troops are still operating, despite a cease...",
+      "date": "Tue, 05 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Missiles fly as Hormuz tensions come to a head",
+      "link": "https://www.dawn.com/news/1997634/missiles-fly-as-hormuz-tensions-come-to-a-head",
+      "description": "• US says destroyed ‘several Iranian boats’ after Iran claims strike on warship in Hormuz• Trump warns Iranian forces will be ‘blown off the face of earth’ if they try to intercept US vessels• Fire at UAE port after drone attack, three Indian nationals hurt; Korean ship damaged i...",
+      "date": "Tue, 05 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Energy crisis fuels calls to cut methane emissions",
+      "link": "https://www.dawn.com/news/1997606/energy-crisis-fuels-calls-to-cut-methane-emissions",
+      "description": "PARIS: World officials pushed on Monday for faster action to reduce methane emissions from the fossil fuel sector, arguing it would both help slow climate change and boost energy security as the Middle East war chokes off supply. Using its role as rotating chair of the Group of S...",
+      "date": "Tue, 05 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Fujairah oil zone hit by drone attack as UAE says it intercepted Iranian missiles",
@@ -293,41 +333,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iranian sailors evacuated to Pakistan return home, state media confirms",
-      "link": "https://www.dawn.com/news/1997392/iranian-sailors-evacuated-to-pakistan-return-home-state-media-confirms",
-      "description": "Iranian sailors, who had been evacuated to Pakistan after being released by the United States, crossed the border and entered their home territory on Monday, reported Iranian state media. According to IRNA, 15 of the 22 sailors crossed through the Rimdan border terminal in Sistan...",
-      "date": "Mon, 04 May 2026",
-      "source": "Dawn",
+      "title": "Iran-Israel war LIVE: Ceasefire on brink as UAE reports attacks",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
+      "description": "U.S. President Donald ​Trump launched “Project Freedom” seeking to open the Strait of Hormuz to shipping, prompting Iran to lash out",
+      "date": "Tue, 05 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "7 dead in Lebanon by Israeli ‘ceasefire violations’",
-      "link": "https://www.dawn.com/news/1997349/7-dead-in-lebanon-by-israeli-ceasefire-violations",
-      "description": "BEIRUT: Fresh Israeli attacks killed at least seven people in southern Lebanon on Sunday despite an ongoing ceasefire, Lebanese media reported, as Israel continued to attack the country despite ceasefire. In an airstrike in the town of Safad al-Battikh, three people were killed w...",
-      "date": "Mon, 04 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Jerusalem Christians worried after attack on nun by Jewish extremist",
-      "link": "https://www.dawn.com/news/1997344/jerusalem-christians-worried-after-attack-on-nun-by-jewish-extremist",
-      "description": "JERUSALEM: Footage of an attack on a Catholic nun in Jerusalem shocked the world when it went viral this week, but for worshippers attending Sunday mass at Saint Stephen’s Basilica, it was just the latest example of mounting religious hostility. The attack on Tuesday was captured...",
-      "date": "Mon, 04 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran reviewing US response to 14-point plan; Trump says Washington having 'very positive' discussions with Tehran",
-      "link": "https://www.dawn.com/news/1997230/iran-reviewing-us-response-to-14-point-plan-trump-says-washington-having-very-positive-discussions-with-tehran",
-      "description": "US President Donald Trump said on Monday that his representatives were having “very positive discussions” with Iran that could “lead to something very positive for all”. He made these remarks in a Truth Social Post, also announcing an initiative to guide vessels stuck in the Stra...",
-      "date": "Sun, 03 May 2026",
-      "source": "Dawn",
+      "title": "First Russian oil arrives in Japan since Iran war: media",
+      "link": "https://www.thehindu.com/news/international/first-russian-oil-arrives-in-japan-since-iran-war-media/article70941303.ece",
+      "description": "Japan, which depends on West Asia for around 95% of its oil imports, has tried to diversify sources of energy procurement since the outbreak of war on February 28 saw Tehran effectively shut the Strait",
+      "date": "Tue, 05 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -373,24 +393,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan Foreign Minister discusses regional situation with Iranian counterpart",
-      "link": "https://www.thehindu.com/news/international/pakistan-foreign-minister-discusses-regional-situation-with-iranian-counterpart/article70938200.ece",
-      "description": "Mr. Dar, who is also the Deputy Prime Minister, reaffirmed Pakistan’s commitment to promoting constructive engagement, underscoring that dialogue and diplomacy remain the only viable path toward peaceful resolution of issues and achieving lasting peace",
-      "date": "Mon, 04 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US attacks cargo ships in Strait of Hormuz killing five people — Tasnim",
+      "link": "https://tass.com/world/2126441",
+      "description": "According to the news agency, the vessels carrying civilian cargo were traveling from the Omani port of Khasab to the coast of Iran",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Dubai airport passenger traffic drops 66% over war",
-      "link": "https://www.thehindu.com/news/international/dubai-airport-passenger-traffic-drops-66-over-war/article70938087.ece",
-      "description": "Dubai International was targeted several times by drones as the oil-rich UAE bore the brunt of Iran's retaliation for U.S.-Israeli strikes.",
-      "date": "Mon, 04 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "From trendy toys to tools of political manipulation: Rapid advancement of AI avatars",
+      "link": "https://tass.com/society/2126159",
+      "description": "As you read this text, thousands of non-existent people are selling clothes, raising funds, and campaigning for politicians",
+      "date": "Tue, 05 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran's enriched uranium reserves probably can no longer be used, Trump believes",
@@ -407,26 +427,6 @@
       "link": "https://tass.com/economy/2126413",
       "description": "Earlier, Donald Trump admitted that the US military behaved like pirates when seizing tankers with Iranian oil",
       "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says disappointed with Europe",
-      "link": "https://tass.com/world/2126409",
-      "description": "Donald Trump noted that \"NATO wasn’t there,\" when the United States launched the war against Iran",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "If UAE decides on 'irrational actions,' their interests to become Iran’s goals — agency",
-      "link": "https://tass.com/world/2126403",
-      "description": "The UAE \"is in a very fragile glass house, and instability poses a mortal threat to them,\" the news agency said",
-      "date": "Mon, 04 May 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
