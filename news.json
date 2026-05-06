@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06 01:48 UTC",
+  "updated": "2026-05-06 05:19 UTC",
   "total": 43,
   "stories": [
     {
@@ -43,10 +43,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "What we know about Trump's 'Project Freedom' in Strait of Hormuz",
+      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
       "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
-      "description": "What does the operation entail and could it lead to a resumption of hostilities?",
-      "date": "Tue, 05 May 2026",
+      "description": "The US president said the operation has been paused after starting on Monday.",
+      "date": "Wed, 06 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -135,7 +135,7 @@
     {
       "title": "Middle East war live: Trump pauses US Strait of Hormuz escort operation",
       "link": "https://www.france24.com/en/middle-east/20260506-middle-east-war-live-trump-pauses-us-strait-of-hormuz-escort-operation",
-      "description": "US President Donald Trump has said he is pausing the American operation to escort vessels through the Strait of Hormuz as negotiations with Iran continue. The move comes as US forces maintain a blockade of Iranian ports and tensions persist in the Gulf despite a fragile ceasefire...",
+      "description": "President Donald Trump has said he is pausing the American operation to escort vessels through the Strait of Hormuz as negotiations with Iran continue. The move comes as US forces maintain a blockade of Iranian ports and tensions persist in the Gulf despite a fragile ceasefire. F...",
       "date": "Wed, 06 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -145,7 +145,7 @@
     {
       "title": "Rubio says US military has completed offensive operations in Iran",
       "link": "https://www.france24.com/en/middle-east/20260505-rubio-says-us-military-has-completed-offensive-operations-in-iran",
-      "description": "The United States said on Tuesday that it had ended offensive operations against Iran, but warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could collapse.",
+      "description": "The United States said on Tuesday that it had ended offensive operations against Iran. But Washington warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could col...",
       "date": "Tue, 05 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -191,6 +191,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US pauses plan to guide ships through the Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-pauses-plan-to-guide-ships-through-the-strait-of-hormuz?traffic_source=rss",
+      "description": "Donald Trump has said that the US military operation guiding ships through the Strait of Hormuz will be paused.",
+      "date": "Wed, 06 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
@@ -263,14 +273,44 @@
       "bias": "Medium"
     },
     {
-      "title": "UAE comes under Iranian attacks for second consecutive day: Ministry",
-      "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
-      "description": "Iran says the country&#039;s forces &#039;have not carried out any missile or drone operations against the UAE in recent days&#039;.",
-      "date": "Tue, 05 May 2026",
-      "source": "Al Jazeera",
+      "title": "Trump pauses effort to escort ships in Strait of Hormuz, citing deal progress",
+      "link": "https://www.dawn.com/news/1997967/trump-pauses-effort-to-escort-ships-in-strait-of-hormuz-citing-deal-progress",
+      "description": "US President Donald Trump said on Tuesday he would briefly pause an operation to help escort ships through the Strait of Hormuz, citing “great progress” toward a comprehensive agreement with Iran. Hours earlier, US Secretary of State Marco Rubio had outlined the effort that began...",
+      "date": "Wed, 06 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Truce holds as Iran denies UAE attacks",
+      "link": "https://www.dawn.com/news/1997961/truce-holds-as-iran-denies-uae-attacks",
+      "description": "Pentagon chief Pete Hegseth answers questions during a press briefing.—AFP • Trump claims Iranians ‘know what to do’; warns of strikes if deal not reached• Pentagon says ceasefire still holding, top general feels attacks still ‘below the threshold’ necessitating major combat resp...",
+      "date": "Wed, 06 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "As strikes test truce, Tehran urged to stick to diplomacy",
+      "link": "https://www.dawn.com/news/1997934/as-strikes-test-truce-tehran-urged-to-stick-to-diplomacy",
+      "description": "• Saudi Arabia, Qatar express solidarity with UAE, back mediation to reach political solution• Germany, Britain condemn attack on Fujairah, call on Iran to comply with international law TEHRAN/DUBAI: World leaders on Tuesday piled pressure on Tehran to stick to diplomacy to bring...",
+      "date": "Wed, 06 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Next India-Pakistan conflict may be ‘more dangerous’, analysts warn",
+      "link": "https://www.dawn.com/news/1997929/next-india-pakistan-conflict-may-be-more-dangerous-analysts-warn",
+      "description": "WASHINGTON: On the first anniversary of the May 2025 India-Pakistan conflict, a growing body of commentary from US and international analysts suggests that the next such crisis between the two nuclear-armed neighbours is not only more likely, but will prove dangerous with fewer o...",
+      "date": "Wed, 06 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "US threatens 'devastating' response to any Iran attack on shipping",
@@ -293,49 +333,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Indian pilots demand further probe of last year's Air India crash",
-      "link": "https://www.dawn.com/news/1997708/indian-pilots-demand-further-probe-of-last-years-air-india-crash",
-      "description": "An Indian pilot group has submitted a letter to the aviation ministry suggesting that electrical failure, and not pilot action, could have caused the deadly Air India crash last year. The submission by the Federation of Indian Pilots (FIP), which has more than 5,000 members, come...",
-      "date": "Tue, 05 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Europeans, Canadian PM discuss security amid Trump’s threats",
-      "link": "https://www.dawn.com/news/1997608/europeans-canadian-pm-discuss-security-amid-trumps-threats",
-      "description": "YEREVAN: America’s Nato allies put a brave face on Monday on a US decision to withdraw 5,000 troops from Germany, but warned it was proof Europe needs to step up for its own security, and fast. US President Donald Trump cast fresh doubts over the future of the alliance as he anno...",
-      "date": "Tue, 05 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Hezbollah fighters, Israeli troops clash in Lebanon",
-      "link": "https://www.dawn.com/news/1997602/hezbollah-fighters-israeli-troops-clash-in-lebanon",
-      "description": "• Aoun says security deal must come before meeting with Netanyahu• Hezbollah chief opposes negotiations until war stops BEIRUT: Hezbollah said its forces clashed with Israeli soldiers on Monday in south Lebanon near the border where the troops are still operating, despite a cease...",
-      "date": "Tue, 05 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Missiles fly as Hormuz tensions come to a head",
-      "link": "https://www.dawn.com/news/1997634/missiles-fly-as-hormuz-tensions-come-to-a-head",
-      "description": "• US says destroyed ‘several Iranian boats’ after Iran claims strike on warship in Hormuz• Trump warns Iranian forces will be ‘blown off the face of earth’ if they try to intercept US vessels• Fire at UAE port after drone attack, three Indian nationals hurt; Korean ship damaged i...",
-      "date": "Tue, 05 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Iran-Israel war LIVE: Trump says pausing Hormuz operation in push for Iran deal",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
       "description": "U.S. Secretary of State Marco Rubio said earlier that the United States has completed its offensive operations against Iran, which it dubbed “Operation Epic Fury”",
+      "date": "Wed, 06 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian Foreign Minister Araghchi meets Chinese counterpart Wang Yi in Beijing",
+      "link": "https://www.thehindu.com/news/international/iranian-foreign-minister-araghchi-chinese-counterpart-wang-yi-meeting-in-beijing-amid-west-asia-crisis/article70945539.ece",
+      "description": "Mr. Araqchi’s one-day trip comes a week ahead of U.S. President Donald Trump’s ‌scheduled visit to Beijing for a summit with President Xi Jinping ‌on May 14 and ‌15",
       "date": "Wed, 06 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -383,14 +393,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "South Korea to probe ship fire in Strait of Hormuz, Trump blames Iranian attack",
-      "link": "https://www.thehindu.com/news/international/south-korea-to-probe-ship-fire-in-strait-of-hormuz-trump-blames-iranian-attack/article70941503.ece",
-      "description": "“The exact cause of the accident would be figured out after the vessel is towed and ‌its damage is assessed,” South Korea’s Foreign Ministry said in a ‌statement",
-      "date": "Tue, 05 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Serbia confident in further development of ties with Russia despite pressure",
+      "link": "https://tass.com/world/2127025",
+      "description": "Nenad Popovic emphasized that Serbia remains the only European country that has not imposed sanctions against Russia",
+      "date": "Wed, 06 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Vucic says joining sanctions against Russia would 'betray soul' of his people",
+      "link": "https://tass.com/world/2127015",
+      "description": "Aleksandar Vucic noted that Serbia considers Russia and Ukraine brotherly nations",
+      "date": "Wed, 06 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US sees Israel-Lebanon peace agreement as achievable — Rubio",
@@ -406,26 +426,6 @@
       "title": "US aims to agree on memorandum of understanding with Iran — Rubio",
       "link": "https://tass.com/world/2126983",
       "description": "Marco Rubio also noted that the US \"would prefer the path of peace\"",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US working on diplomatic solution to Iran conflict — Rubio",
-      "link": "https://tass.com/world/2126981",
-      "description": "US Secretary of State added that \"the alternative is growing isolation, economic collapse and ultimately, total defeat\"",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Rubio, Lavrov discuss bilateral ties, Ukraine, Iran in phone call — State Department",
-      "link": "https://tass.com/world/2126979",
-      "description": "According to the US State Department, the conversation took place at the initiative of the Russian side",
       "date": "Tue, 05 May 2026",
       "source": "TASS",
       "region": "ru",
