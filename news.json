@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-06 12:22 UTC",
-  "total": 45,
+  "updated": "2026-05-06 15:21 UTC",
+  "total": 40,
   "stories": [
+    {
+      "title": "Iran says ships can pass Strait of Hormuz as Trump warns of bombings without a deal",
+      "link": "https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates",
+      "description": "Iran's Revolutionary Guard said shipping through the Strait of Hormuz could resume, under unspecified procedures, after President Trump paused a U.S. military effort to help vessels transit the strait.",
+      "date": "Wed, 06 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Democrats gain midterm edge, NPR poll shows. And, U.S. pauses 'Project Freedom'",
       "link": "https://www.npr.org/2026/05/06/g-s1-120384/up-first-newsletter-economy-democrats-poll-advantage-indiana-primary-project-freedom-paused",
@@ -33,10 +43,30 @@
       "bias": "Low"
     },
     {
+      "title": "Trump pauses Hormuz plan 50 hours after he announced it - what happened?",
+      "link": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
+      "description": "The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.",
+      "date": "Wed, 06 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
       "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
       "description": "The US president said the operation has been paused after starting on Monday.",
       "date": "Wed, 06 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
+      "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
+      "description": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
+      "date": "Tue, 05 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -53,10 +83,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
-      "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
-      "description": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
-      "date": "Tue, 05 May 2026",
+      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+      "description": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
+      "date": "Wed, 06 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -103,16 +133,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
-      "link": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
-      "description": "Ordinary Iranians tell of worry about increased repression by authorities after the war is over.",
-      "date": "Sun, 03 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
       "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
       "description": "Her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
@@ -123,11 +143,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "description": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "date": "Sat, 02 May 2026",
-      "source": "BBC",
+      "title": "Iran 'slopaganda': We tried recreating viral Lego-style AI videos",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20260506-iran-slopaganda-we-tried-recreating-viral-lego-style-ai-videos",
+      "description": "After Donald Trump announced a pause to the US operation in the Strait of Hormuz, Iran's online propaganda machine was quick to declare victory. Explosive Media, one of the groups behind Lego-style videos mocking Trump, proclaimed it \"TACO Tuesday\", ie that the US president had \"...",
+      "date": "Wed, 06 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -183,34 +203,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US-Iran conflict reaches painful stalemate: US will respond if fired on",
-      "link": "https://www.france24.com/en/us-iran-conflict-reasches-painful-stalemate-us-will-respond-if-fired-on",
-      "description": "Fraser Jackson, France24 correspondent in Washington DC, has more.",
+      "title": "Araghchi in Beijing: How China could shape the direction of the US-Iran war",
+      "link": "https://www.aljazeera.com/news/2026/5/6/araghchi-in-beijing-how-china-could-shape-the-direction-of-the-us-iran-war?traffic_source=rss",
+      "description": "Analysts say shared US and Chinese interests in reopening the Strait of Hormuz could create a path towards peace.",
       "date": "Wed, 06 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Venice Biennale faces outcry over Israel and Russia's participation",
-      "link": "https://www.france24.com/en/venice-biennale-faces-outcry-over-israel-and-russia-s-participation",
-      "description": "The world's largest contemporary art exhibition, which takes place every two years in the Italian canal city, features artists from several nations in conflict, including Ukraine, Israel and the United States -- although Iran has cancelled its plans to attend. Seema Gupta has mor...",
+      "title": "Elderly man rescued from rubble after Israeli strike on Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/elderly-man-rescued-from-rubble-after-israeli-strike-on-lebanon?traffic_source=rss",
+      "description": "An 80-year-old man has been pulled out from under the rubble of his house in the south.",
       "date": "Wed, 06 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "US pauses Hormuz escorts, Donald Trump says progress on Iran deal",
-      "link": "https://www.france24.com/en/us-pauses-hormuz-escorts-donald-trump-says-progress-on-iran-deal",
-      "description": "The United States will pause escorting commercial ships through the Strait of Hormuz barely a day after it began doing so, President Donald Trump said, citing a desire to reach a peace deal with Iran.",
+      "title": "Iran says Strait of Hormuz passage to be ensured after US pauses operation",
+      "link": "https://www.aljazeera.com/news/2026/5/6/french-container-ship-struck-in-latest-escalation-at-strait-of-hormuz?traffic_source=rss",
+      "description": "Navy of Iran&#039;s Islamic Revolutionary Guard Corps (IRGC) says safe transit will be ensured with new procedures in place.",
       "date": "Wed, 06 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What is the FDD, the pro-Israel think tank shaping Trump’s Iran policy?",
+      "link": "https://www.aljazeera.com/news/2026/5/6/what-is-the-fdd-the-pro-israel-think-tank-shaping-trumps-iran-policy?traffic_source=rss",
+      "description": "FDD&#039;s talking points on the US-Israel war on Iran have been picked up by the Trump administration.",
+      "date": "Wed, 06 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Lessons from the war: A call for strategic reckoning in West Asia",
@@ -243,9 +273,9 @@
       "bias": "Medium"
     },
     {
-      "title": "‘Operation Epic Fury’ has ended: Is the Iran war over?",
+      "title": "Operation Epic Fury has ended: Is the Iran war over?",
       "link": "https://www.aljazeera.com/news/2026/5/6/operation-epic-fury-has-ended-is-the-iran-war-over?traffic_source=rss",
-      "description": "Experts say Trump&#039;s pause of &#039;Project Freedom&#039; could be the &#039;beginning of the end&#039; for the war on Iran.",
+      "description": "Experts say Trump&#039;s pause of Project Freedom in Strait of Hormuz could be the &#039;beginning of the end&#039; for war on Iran.",
       "date": "Wed, 06 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,44 +283,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales",
-      "link": "https://www.aljazeera.com/economy/2026/5/6/saudi-arabia-posts-33-5bn-budget-deficit-amid-drop-in-oil-sales?traffic_source=rss",
-      "description": "Kingdom announces sharp rise in budget shortfall amid the effective closure of the Strait of Hormuz.",
+      "title": "China says will play 'greater role' in ending Middle East conflict",
+      "link": "https://www.dawn.com/news/1998078/china-says-will-play-greater-role-in-ending-middle-east-conflict",
+      "description": "China’s Foreign Minister Wang Yi said Beijing would play a “greater role” in ending hostilities in the Middle East during talks with his Iranian counterpart on Wednesday, a week before US President Donald Trump is due to meet Xi Jinping. China is a key customer for Iranian oil, d...",
       "date": "Wed, 06 May 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israeli attacks on southern, eastern Lebanon kill at least six people",
-      "link": "https://www.aljazeera.com/news/2026/5/6/israeli-attacks-on-southern-eastern-lebanon-kill-at-least-six-people?traffic_source=rss",
-      "description": "Israel issues forced displacement orders for 12 villages in southern Lebanon.",
-      "date": "Wed, 06 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US petrol prices 50 percent higher than before war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
-      "description": "The average price of petrol in the United States has reached $4.48 per gallon, according to AAA.",
-      "date": "Wed, 06 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘A stress test’: US-Germany rift widens as Iran war drags on",
-      "link": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss",
-      "description": "German official says US-Europe relationship is being tested as opposition MP says Berlin is &#039;not neutral&#039;",
-      "date": "Wed, 06 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "London police set up specialist Jewish protection team",
@@ -343,19 +343,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Next India-Pakistan conflict may be ‘more dangerous’, analysts warn",
-      "link": "https://www.dawn.com/news/1997929/next-india-pakistan-conflict-may-be-more-dangerous-analysts-warn",
-      "description": "WASHINGTON: On the first anniversary of the May 2025 India-Pakistan conflict, a growing body of commentary from US and international analysts suggests that the next such crisis between the two nuclear-armed neighbours is not only more likely, but will prove dangerous with fewer o...",
+      "title": "Iran-Israel war LIVE: Trump threatens Iran with ‘higher level’ bombing if it doesn't reopen Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+      "description": "The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U.S. and Israel, blocking about 20% of world oil supplies and igniting a ⁠global energy crisis",
       "date": "Wed, 06 May 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Iran says it wants a 'comprehensive agreement' with U.S.",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
-      "description": "The strait has ‌been virtually shut since the conflict began on February 28 with air attacks on Iran ‌by ⁠the U.S. and Israel, blocking about 20% of world oil supplies and igniting a ⁠global energy crisis",
+      "title": "Iran is now a superpower; ties with India are flourishing: Iran’s FM spokesperson",
+      "link": "https://www.thehindu.com/news/international/iran-is-a-superpower-india-ties-us-proposal-esmail-baghaei-interview/article70947467.ece",
+      "description": "In an interview, Esmail Baghaei said Tehran is currently reviewing America’s response to its peace proposal",
+      "date": "Wed, 06 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump threatens Iran with ‘higher level’ bombing if it doesn't reopen Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/trump-threatens-iran-with-higher-level-bombing/article70947165.ece",
+      "description": "He said it was “perhaps a big assumption” that Iran would agree to the terms being offered by the United States",
       "date": "Wed, 06 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -391,66 +401,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war: Trump says pausing Hormuz operation in push for Iran deal",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
-      "description": "UAE air defences 'actively engaging' with Iran missiles, drones, says UAE Defence Ministry; U.S. threatens 'devastating' response to any Iran attack on shipping",
-      "date": "Wed, 06 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "China says wider U.S. sanctions on Cuba are 'illegal'",
-      "link": "https://www.thehindu.com/news/international/china-says-wider-us-sanctions-on-cuba-are-illegal/article70944387.ece",
-      "description": "U.S. President Donald Trump signed ‌an executive order on May 1 broadening ⁠U.S. sanctions against the ⁠Cuban government",
-      "date": "Tue, 05 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran receives more than 325 tons of humanitarian aid from Russia during conflict with US",
-      "link": "https://tass.com/economy/2127243",
-      "description": "The medicines were immediately distributed among medical facilities, Pir Hossein Kolivand said",
-      "date": "Wed, 06 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US, Iran close to signing one-page memorandum to end war — news outlet",
-      "link": "https://tass.com/world/2127161",
-      "description": "According to the news outlet, the US leadership’s decision to suspend Operation Project Freedom in the Strait of Hormuz is linked to progress in the negotiations",
-      "date": "Wed, 06 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Press review: Russia preps for Ukrainian V-Day attacks as US nears striking Iran again",
-      "link": "https://tass.com/pressreview/2127053",
-      "description": "Top stories from the Russian press on Wednesday, May 6th",
-      "date": "Wed, 06 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran and Middle East countries should determine their own fate — China’s top diplomat",
-      "link": "https://tass.com/world/2127151",
-      "description": "Wang Yi noted that Beijing supports the efforts by regional states aimed at forming a structure of regional peace and security",
-      "date": "Wed, 06 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
