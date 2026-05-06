@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05 23:38 UTC",
+  "updated": "2026-05-06 01:48 UTC",
   "total": 43,
   "stories": [
     {
@@ -25,7 +25,7 @@
     {
       "title": "Trump says he's paused U.S. effort to guide stranded vessels out of Strait of Hormuz",
       "link": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
-      "description": "President Trump announced the decision in a social media post on Tuesday evening, saying he was pausing the effort for a short period to give space for U.S. efforts to finalize a settlement with Iran to end the war. He added that the U.S. blockade of the strait would remain in pl...",
+      "description": "President Trump says that he is pausing the U.S. effort to guide stranded vessels out of the Strait of Hormuz to finalize an Iran deal, but that the American forces' blockade of the Iranian ports would remain in place.",
       "date": "Tue, 05 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: Trump pauses US Strait of Hormuz escort operation",
+      "link": "https://www.france24.com/en/middle-east/20260506-middle-east-war-live-trump-pauses-us-strait-of-hormuz-escort-operation",
+      "description": "US President Donald Trump has said he is pausing the American operation to escort vessels through the Strait of Hormuz as negotiations with Iran continue. The move comes as US forces maintain a blockade of Iranian ports and tensions persist in the Gulf despite a fragile ceasefire...",
+      "date": "Wed, 06 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Rubio says US military has completed offensive operations in Iran",
       "link": "https://www.france24.com/en/middle-east/20260505-rubio-says-us-military-has-completed-offensive-operations-in-iran",
       "description": "The United States said on Tuesday that it had ended offensive operations against Iran, but warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could collapse.",
@@ -183,14 +193,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Hegseth 'seeking to reassure people US is still in control' in Middle East",
-      "link": "https://www.france24.com/en/video/20260505-hegseth-seeking-to-reassure-people-us-is-still-in-control-in-middle-east",
-      "description": "US Defense Secretary Pete Hegseth said on Tuesday that the ceasefire with Iran was not over, even as the US and Iran exchanged fire in the Gulf as they wrestled for control of the ​Strait of Hormuz. Hegseth's comments are part of Washington's attempts to \"reassure people the US i...",
+      "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
+      "description": "US Defense Secretary Pete Hegseth says ceasefire with Iran remains in place despite growing tensions in Hormuz Strait.",
+      "date": "Wed, 06 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
+      "link": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
+      "description": "US president says &#039;Project Freedom&#039; suspended to see whether an agreement with Iran can be finalised and signed.",
       "date": "Tue, 05 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
@@ -246,26 +266,6 @@
       "title": "UAE comes under Iranian attacks for second consecutive day: Ministry",
       "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
       "description": "Iran says the country&#039;s forces &#039;have not carried out any missile or drone operations against the UAE in recent days&#039;.",
-      "date": "Tue, 05 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran’s judiciary vows action against ‘enemy’s mercenaries’ amid executions",
-      "link": "https://www.aljazeera.com/news/2026/5/5/irans-judiciary-vows-action-against-enemys-mercenaries-amid-executions?traffic_source=rss",
-      "description": "Authorities target accused foreign agents, citing national security, as executions and confiscation of assets intensify.",
-      "date": "Tue, 05 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What’s the significance of UAE’s Fujairah, hit on Monday?",
-      "link": "https://www.aljazeera.com/news/2026/5/5/whats-the-significance-of-uaes-fujairah-hit-on-monday?traffic_source=rss",
-      "description": "If confirmed, it would be Iran’s first attack on the UAE since the US-Iran ceasefire took effect on April 8.",
       "date": "Tue, 05 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -333,10 +333,30 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Trump urges Iran to 'do the smart thing'",
+      "title": "Iran-Israel war LIVE: Trump says pausing Hormuz operation in push for Iran deal",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+      "description": "U.S. Secretary of State Marco Rubio said earlier that the United States has completed its offensive operations against Iran, which it dubbed “Operation Epic Fury”",
+      "date": "Wed, 06 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says pausing Hormuz operation in push for Iran deal",
+      "link": "https://www.thehindu.com/news/international/trump-says-pausing-hormuz-operation-in-push-for-iran-deal/article70945436.ece",
+      "description": "Mr. Trump said on Truth Social that he was now pausing ‘Project Freedom’ after a request by mediator Pakistan and other countries, saying that “Great Progress has been made toward a Complete and Final Agreement” with Tehran",
+      "date": "Wed, 06 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war: Trump says pausing Hormuz operation in push for Iran deal",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
       "description": "UAE air defences 'actively engaging' with Iran missiles, drones, says UAE Defence Ministry; U.S. threatens 'devastating' response to any Iran attack on shipping",
-      "date": "Tue, 05 May 2026",
+      "date": "Wed, 06 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -373,24 +393,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "First Russian oil arrives in Japan since Iran war: media",
-      "link": "https://www.thehindu.com/news/international/first-russian-oil-arrives-in-japan-since-iran-war-media/article70941303.ece",
-      "description": "Japan, which depends on West Asia for around 95% of its oil imports, has tried to diversify sources of energy procurement since the outbreak of war on February 28 saw Tehran effectively shut the Strait",
+      "title": "US sees Israel-Lebanon peace agreement as achievable — Rubio",
+      "link": "https://tass.com/world/2126991",
+      "description": "Marco Rubio pointed out that the US \"is very committed to this process\"",
       "date": "Tue, 05 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump launches ‘Project Freedom’ to open Strait of Hormuz, Iran strikes ships, UAE port",
-      "link": "https://www.thehindu.com/news/international/trump-project-freedom-strait-of-hormuz-iran-uae-port-may-5-2026/article70941209.ece",
-      "description": "Mr. Trump announced his new “Project Freedom” mission on social media overnight to enable stuck ships to travel through the strait",
-      "date": "Tue, 05 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US aims to agree on memorandum of understanding with Iran — Rubio",
@@ -416,16 +426,6 @@
       "title": "Rubio, Lavrov discuss bilateral ties, Ukraine, Iran in phone call — State Department",
       "link": "https://tass.com/world/2126979",
       "description": "According to the US State Department, the conversation took place at the initiative of the Russian side",
-      "date": "Tue, 05 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Top Russian diplomat, Qatari PM discuss situation in Strait of Hormuz",
-      "link": "https://tass.com/politics/2126965",
-      "description": "The sides expressed a shared opinion that it is necessary to refuse from trying to resolve the crisis by force",
       "date": "Tue, 05 May 2026",
       "source": "TASS",
       "region": "ru",
