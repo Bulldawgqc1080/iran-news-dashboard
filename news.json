@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-06 10:55 UTC",
-  "total": 44,
+  "updated": "2026-05-06 12:22 UTC",
+  "total": 45,
   "stories": [
+    {
+      "title": "Democrats gain midterm edge, NPR poll shows. And, U.S. pauses 'Project Freedom'",
+      "link": "https://www.npr.org/2026/05/06/g-s1-120384/up-first-newsletter-economy-democrats-poll-advantage-indiana-primary-project-freedom-paused",
+      "description": "Democrats outpace Republicans in voter enthusiasm for the midterm elections, according to NPR's latest poll. And Trump says \"Project Freedom\" is paused because of progress toward an Iran agreement.",
+      "date": "Wed, 06 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. says it's made Hormuz safe for commercial shipping, but standoff hasn't changed",
       "link": "https://www.npr.org/2026/05/05/nx-s1-5812487/u-s-says-its-made-hormuz-safe-for-commercial-shipping-but-standoff-hasnt-changed",
@@ -16,16 +26,6 @@
       "title": "The Iran war sent jet fuel prices sky-high. Here's what air travelers should know",
       "link": "https://www.npr.org/2026/05/05/nx-s1-5811918/iran-war-jet-fuel-baggage-fees-travel-tips",
       "description": "Fuel is airlines' second-largest expense, and getting even costlier due to the U.S. war with Iran. Airlines are looking for ways to cope, starting by hiking checked baggage fees for most fliers.",
-      "date": "Tue, 05 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump says he's paused U.S. effort to guide stranded vessels out of Strait of Hormuz",
-      "link": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
-      "description": "President Trump says that he is pausing the U.S. effort to guide stranded vessels out of the Strait of Hormuz to finalize an Iran deal, but that the American forces' blockade of the Iranian ports would remain in place.",
       "date": "Tue, 05 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +133,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran Nobel winner Narges Mohammadi at risk of dying in custody",
+      "link": "https://www.france24.com/en/iran-nobel-winner-narges-mohammadi-at-risk-of-dying-in-custody",
+      "description": "Angela Diffley, France24 International Affairs Editor, has more.",
+      "date": "Wed, 06 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Arms deliveries and Africa Corps training: How Russia is bolstering its presence in Madagascar",
+      "link": "https://www.france24.com/en/africa/20260506-arms-deliveries-africa-corps-training-russia-bolstering-presence-madagascar",
+      "description": "From deliveries of drones and armoured vehicles to training sessions led by Russian Africa Corps instructors, security cooperation between Madagascar and Russia has intensified since the October 2025 coup. Russia’s growing influence is expanding into other sectors as well, raisin...",
+      "date": "Wed, 06 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US suspends Hormuz operation: Washington believes close to deal with Iran",
       "link": "https://www.france24.com/en/us-suspends-hormuz-operation-washington-believes-close-to-deal-with-iran",
       "description": "Kethevane Gorjestani gives us her analysis.",
@@ -163,7 +183,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US-Iran conflict reasches painful stalemate: US will respond if fired on",
+      "title": "US-Iran conflict reaches painful stalemate: US will respond if fired on",
       "link": "https://www.france24.com/en/us-iran-conflict-reasches-painful-stalemate-us-will-respond-if-fired-on",
       "description": "Fraser Jackson, France24 correspondent in Washington DC, has more.",
       "date": "Wed, 06 May 2026",
@@ -193,14 +213,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How unbreakable is Iran's regime? Tehran defiant despite deepening hardship for citizens",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20260506-how-unbreakable-is-iran-s-regime-tehran-defiant-despite-deepening-hardship-for-citizens",
-      "description": "Iran's economy may be teetering on the brink of collapse, but does that really threaten its regime? Monday's flare-up of hostilities across the Strait of Hormuz makes clear that oil's not about to start flowing freely again. Tehran and Washington are both signalling they can bear...",
+      "title": "Lessons from the war: A call for strategic reckoning in West Asia",
+      "link": "https://www.aljazeera.com/opinions/2026/5/6/lessons-from-the-war-a-call-for-strategic-reckoning-in-west-asia?traffic_source=rss",
+      "description": "The Israeli-US war on Iran shattered long-held assumptions about security, deterrence and stability in the region.",
       "date": "Wed, 06 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Has the US accepted Iran’s demand to settle Hormuz first, nuclear later?",
+      "link": "https://www.aljazeera.com/news/2026/5/6/has-the-us-accepted-irans-demand-to-settle-hormuz-first-nuclear-later?traffic_source=rss",
+      "description": "US pauses Hormuz escorts after Pakistan-led mediation gains traction, signalling shift towards a limited framework deal.",
+      "date": "Wed, 06 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "China calls for a ‘complete’ end to war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/china-calls-for-a-complete-end-to-war-on-iran?traffic_source=rss",
+      "description": "China calls for a ‘complete’ end to war on Iran",
+      "date": "Wed, 06 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "‘Operation Epic Fury’ has ended: Is the Iran war over?",
+      "link": "https://www.aljazeera.com/news/2026/5/6/operation-epic-fury-has-ended-is-the-iran-war-over?traffic_source=rss",
+      "description": "Experts say Trump&#039;s pause of &#039;Project Freedom&#039; could be the &#039;beginning of the end&#039; for the war on Iran.",
+      "date": "Wed, 06 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales",
@@ -236,46 +286,6 @@
       "title": "‘A stress test’: US-Germany rift widens as Iran war drags on",
       "link": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss",
       "description": "German official says US-Europe relationship is being tested as opposition MP says Berlin is &#039;not neutral&#039;",
-      "date": "Wed, 06 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Shopping centre fire kills at least eight people in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/shopping-centre-fire-kills-at-least-eight-people-in-iran?traffic_source=rss",
-      "description": "Shopping centre fire kills at least eight people in Iran",
-      "date": "Wed, 06 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Syria says it dismantled Hezbollah-linked cell plotting assassinations",
-      "link": "https://www.aljazeera.com/news/2026/5/6/syrian-authourities-dismantle-hezbollah-linked-cell-plotting-assassinations?traffic_source=rss",
-      "description": "Authorities say the cell was planning &#039;targeted assassinations against high-level government officials&#039;.",
-      "date": "Wed, 06 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US must not insult IRGC during the World Cup: Iran’s football chief",
-      "link": "https://www.aljazeera.com/sports/2026/5/6/us-must-not-insult-irgc-during-the-world-cup-irans-football-chief?traffic_source=rss",
-      "description": "Mehdi Taj says cohosts US must ensure the Iranian military and IRGC are not &#039;insulted&#039; during the FIFA World Cup.",
-      "date": "Wed, 06 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’",
-      "link": "https://www.aljazeera.com/news/2026/5/6/iran-war-day-68-trump-talks-about-progress-in-talks-rubio-says-war-over?traffic_source=rss",
-      "description": "Trump pauses US &#039;Project Freedom&#039; operation in Strait of Hormuz, citing progress towards Iran agreement.",
       "date": "Wed, 06 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -403,6 +413,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran receives more than 325 tons of humanitarian aid from Russia during conflict with US",
+      "link": "https://tass.com/economy/2127243",
+      "description": "The medicines were immediately distributed among medical facilities, Pir Hossein Kolivand said",
+      "date": "Wed, 06 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US, Iran close to signing one-page memorandum to end war — news outlet",
       "link": "https://tass.com/world/2127161",
       "description": "According to the news outlet, the US leadership’s decision to suspend Operation Project Freedom in the Strait of Hormuz is linked to progress in the negotiations",
@@ -426,16 +446,6 @@
       "title": "Iran and Middle East countries should determine their own fate — China’s top diplomat",
       "link": "https://tass.com/world/2127151",
       "description": "Wang Yi noted that Beijing supports the efforts by regional states aimed at forming a structure of regional peace and security",
-      "date": "Wed, 06 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian foreign minister proposes new Middle East security structure",
-      "link": "https://tass.com/world/2127129",
-      "description": "Abbas Araghchi stated that Iran advocates for the creation of a post-conflict regional structure designed to promote balanced development and security",
       "date": "Wed, 06 May 2026",
       "source": "TASS",
       "region": "ru",
