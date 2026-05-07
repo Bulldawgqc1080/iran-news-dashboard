@@ -1,17 +1,18 @@
 {
-  "updated": "2026-05-07 10:59 UTC",
+  "updated": "2026-05-07 12:57 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-05-07",
       "dateDisplay": "May 07, 2026",
-      "title": "Rubio faces challenge in Pope Leo meeting after Trump's criticism over Iran",
-      "link": "https://www.france24.com/en/video/20260507-rubio-faces-challenge-in-pope-leo-meeting-after-trump-s-criticism-over-iran",
+      "title": "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism",
+      "link": "https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets",
       "sources": [
+        "NPR News",
         "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-05-06",
@@ -29,17 +30,6 @@
       "dateDisplay": "May 05, 2026",
       "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
       "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-04",
-      "dateDisplay": "May 04, 2026",
-      "title": "Israeli attacks kill dozens within days in Lebanon despite ceasefire",
-      "link": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
@@ -161,6 +151,17 @@
       "dateDisplay": "Apr 17, 2026",
       "title": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
       "link": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-04-16",
+      "dateDisplay": "Apr 16, 2026",
+      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
+      "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],

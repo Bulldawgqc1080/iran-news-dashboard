@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-07 10:59 UTC",
-  "total": 39,
+  "updated": "2026-05-07 12:57 UTC",
+  "total": 40,
   "stories": [
+    {
+      "title": "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism",
+      "link": "https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets",
+      "description": "Iran is reviewing the Trump administration's latest proposal to end the war. And, Secretary of State Marco Rubio is meeting Pope Leo XIV amid President Trump's harsh criticism of him.",
+      "date": "Thu, 07 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Affected by the Iran war, residents in Southeast Asian countries voice their concerns",
       "link": "https://www.npr.org/2026/05/07/nx-s1-5813503/affected-by-the-iran-war-residents-in-southeast-asian-countries-voice-their-concerns",
@@ -16,6 +26,16 @@
       "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
       "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
       "description": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+      "date": "Thu, 07 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
+      "link": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
+      "description": "The soldier was photographed putting a cigarette in the statue's mouth, in the second incident against a Christian figure in weeks.",
       "date": "Thu, 07 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -103,16 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Captain of stranded ship in Strait of Hormuz tells BBC of 'pressure'",
-      "link": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss",
-      "description": "Capt Raman Kapoor's ship is one of several to be stranded in the strait in the midst of the power struggle between the US and Iran.",
-      "date": "Tue, 05 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Rubio faces challenge in Pope Leo meeting after Trump's criticism over Iran",
       "link": "https://www.france24.com/en/video/20260507-rubio-faces-challenge-in-pope-leo-meeting-after-trump-s-criticism-over-iran",
       "description": "America's top diplomat, Marco Rubio, will meet the first US pope, Leo XIV, on Thursday, seeking to ease Washington-Vatican tensions while also promoting President Donald Trump's agenda. The US secretary of state arrived in Rome after Trump's extraordinary criticism of Leo, the he...",
@@ -143,14 +153,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US war on Iran: 'A game of high risk, high reward' for both Trump and the Islamic Republic",
+      "title": "US war on Iran: 'A game of high-risk, high-reward' for both Trump and the Islamic Republic",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260507-us-war-on-iran-a-game-of-high-risk-high-reward-for-both-trump-and-the-islamic-republic",
-      "description": "Mark Owen is pleased to welcome Behnam Ben Taleblu, Iran Program Senior Director and Senior Fellow at the Foundation for Defense of Democracies. He presents the escalating confrontation between Iran and the United States as a dangerous and evolving contest of “high risk, high rew...",
+      "description": "Mark Owen is pleased to welcome Behnam Ben Taleblu, Iran Program Senior Director and Senior Fellow at the Foundation for Defense of Democracies. He presents the escalating confrontation between Iran and the United States as a dangerous and evolving contest of \"high-risk, high-rew...",
       "date": "Thu, 07 May 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Can Asian economies cope with the fallout from the Iran war?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
+      "description": "Fuel costs, inflation and debt pressures are testing Asian economies.",
+      "date": "Thu, 07 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Africa sees winners and losers as Iran war pushes up oil prices",
+      "link": "https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices?traffic_source=rss",
+      "description": "Several African countries have sought financial help due to economic uncertainty caused by the war on Iran.",
+      "date": "Thu, 07 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What are US proposals to end war, and will Iran agree to them?",
+      "link": "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them?traffic_source=rss",
+      "description": "Iran says it is reviewing a US proposal to end the US-Israel war on it that has caused a global crisis.",
+      "date": "Thu, 07 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "What is China’s anti-sanctions law and how does it work?",
@@ -183,7 +223,7 @@
       "bias": "Medium"
     },
     {
-      "title": "French warship moves towards Hormuz for possible defensive mission",
+      "title": "French warship moves towards Red Sea as Paris eyes Hormuz mission",
       "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
       "description": "Iran says it is reviewing a US proposal that Donald Trump says could bring the war to an end.",
       "date": "Thu, 07 May 2026",
@@ -196,36 +236,6 @@
       "title": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
       "link": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
       "description": "Trump says US-Iran talks are progressing as Tehran reviews a US proposal delivered through Pakistan.",
-      "date": "Thu, 07 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss",
-      "description": "Israel&#039;s military launches a probe after photo shows soldier placing a cigarette into the mouth of Virgin Mary statue.",
-      "date": "Thu, 07 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israeli soldier caught desecrating statue of Virgin Mary in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/israeli-soldier-caught-desecrating-statue-of-virgin-mary-in-lebanon?traffic_source=rss",
-      "description": "Outrage is growing over a photo of an Israeli soldier pushing a cigarette into the mouth of a statue of the Virgin Mary.",
-      "date": "Thu, 07 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US says Hezbollah is ‘trying to derail talks’ with Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/us-says-hezbollah-is-trying-to-derail-talks-with-israel?traffic_source=rss",
-      "description": "US State Department spokesperson says Hezbollah is ‘trying to derail talks’ with Israel.",
       "date": "Thu, 07 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -303,6 +313,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran denies ship attack as Trump warns of renewed bombing, eyes deal",
+      "link": "https://www.thehindu.com/news/international/iran-denies-ship-attack-as-trump-warns-of-renewed-bombing-eyes-deal/article70949962.ece",
+      "description": "Tehran’s embassy in Seoul said it “firmly rejects and categorically denies” allegations that its armed forces were behind a blast aboard the Panama-flagged HMM Namu, which caught fire on May 4",
+      "date": "Thu, 07 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
       "link": "https://www.thehindu.com/news/international/israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-ceasefire/article70950517.ece",
       "description": "Iran ally Hezbollah has responded to those strikes by firing and launching armed drones towards Israeli soldiers",
@@ -316,16 +336,6 @@
       "title": "Narges Mohammadi’s family fears for jailed Nobel laureate's life if not moved to Tehran hospital",
       "link": "https://www.thehindu.com/news/international/narges-mohammadis-family-fears-for-jailed-nobel-laureates-life-if-not-moved-to-tehran-hospital/article70950186.ece",
       "description": "Narges Mohammadi remains in critical condition, and her family says security officials have so far prevented her transfer to the capital where she could get better treatment",
-      "date": "Thu, 07 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran denies ship attack as Trump warns of renewed bombing, eyes deal",
-      "link": "https://www.thehindu.com/news/international/iran-denies-ship-attack-as-trump-warns-of-renewed-bombing-eyes-deal/article70949962.ece",
-      "description": "Tehran’s embassy in Seoul said it “firmly rejects and categorically denies” allegations that its armed forces were behind a blast aboard the Panama-flagged HMM Namu, which caught fire on May 4",
       "date": "Thu, 07 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -353,6 +363,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iranian president says he recently met with Supreme Leader Mojtaba Khamenei",
+      "link": "https://tass.com/world/2127819",
+      "description": "The meeting took place in a relaxed atmosphere, Masoud Pezeshkian said",
+      "date": "Thu, 07 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Russia supports China’s decision not to comply with US sanctions — MFA",
       "link": "https://tass.com/politics/2127773",
       "description": "Russian Foreign Ministry Spokeswoman Maria Zakharova stressed that Moscow condemns unilateral sanctions",
@@ -376,16 +396,6 @@
       "title": "Tehran, Washington agree on easing Iran blockade in exchange for Strait of Hormuz opening",
       "link": "https://tass.com/world/2127673",
       "description": "According to the report, intensive contacts are currently underway on this issue, and that \"a breakthrough in resolving the issue of ships blocked in the strait is expected in the coming hours\"",
-      "date": "Thu, 07 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Japan agrees with UAE on supply of 20 mln barrels of oil bypassing Strait of Hormuz",
-      "link": "https://tass.com/economy/2127661",
-      "description": "According to the report, the shipment will be loaded at the port of Fujairah in the Gulf of Oman, which is connected by pipeline to UAE oil fields",
       "date": "Thu, 07 May 2026",
       "source": "TASS",
       "region": "ru",
