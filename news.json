@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-07 21:48 UTC",
-  "total": 44,
+  "updated": "2026-05-07 22:51 UTC",
+  "total": 45,
   "stories": [
+    {
+      "title": "U.S. military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
+      "link": "https://www.npr.org/2026/05/07/g-s1-120978/u-s-military-intercepted-iran-attacks-navy-ships-hormuz",
+      "description": "The U.S. military also says that it \"targeted Iranian military facilities responsible for attacking U.S. forces.\" The exchange occurred Thursday as U.S. Navy destroyers transited the Strait of Hormuz, U.S. Central Command said in a social media post.",
+      "date": "Thu, 07 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism",
       "link": "https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets",
@@ -123,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Strait of Hormuz: What role for France?",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260507-strait-of-hormuz-what-role-for-france",
+      "description": "Europe’s most powerful warship is inching closer to the strategic waterway whose effective closure has come to epitomise the war in Iran. France is moving its aircraft carrier group towards the Strait of Hormuz, as it works - with the UK - on a proposal that aims ​to lay the grou...",
+      "date": "Thu, 07 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Photo shows Israeli soldier desecrating a Virgin Mary statue in Lebanon",
       "link": "https://www.france24.com/en/photo-shows-israeli-soldier-desecrating-a-virgin-mary-statue-in-lebanon",
       "description": "The Israeli military says it has launched an investigation after a photo showing one of its soldiers desecrating a statue of the Virgin Mary in South Lebanon went viral, as he placed a cigarette into the statue's mouth whilst smoking. The IDF said it \"respects freedom of religion...",
@@ -193,14 +213,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Propaganda war: The Gen Z team behind Iran’s hit anti-Trump videos",
-      "link": "https://www.france24.com/en/tv-shows/the-observers/20260507-propaganda-war-gen-z-team-behind-iran-hit-anti-trump-videos",
-      "description": "Satirical Lego animations depicting US President Donald Trump as Israeli Prime Minister Benjamin Netanyahu’s puppet while casting Iran as the defender of the oppressed mark the latest propaganda coup for the Iranian regime in its war with the US. The FRANCE 24 Observers team spok...",
+      "title": "Videos show interceptions over the skies of Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
+      "description": "Iranian state media says air defence systems were activated in western Tehran as multiple explosions were reported.",
       "date": "Thu, 07 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
+      "link": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
+      "description": "US military says it intercepted and responded to &#039;unprovoked&#039; Iranian attack, stressing that it doesn&#039;t seek escalation.",
+      "date": "Thu, 07 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Senators press US military on Israel’s displacement campaign in Lebanon",
@@ -256,26 +286,6 @@
       "title": "Israel’s attacks and pressure sowing seeds for division in tense Lebanon",
       "link": "https://www.aljazeera.com/news/2026/5/7/israels-attacks-and-pressure-sowing-seeds-for-division-in-tense-lebanon?traffic_source=rss",
       "description": "Analysts say Israel aiming to exploit Lebanon’s divisions to force concessions amid military and political pressures.",
-      "date": "Thu, 07 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
-      "link": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales?traffic_source=rss",
-      "description": "US sanctions target Iraq&#039;s deputy oil minister for allegedly aiding Iran in bypassing restrictions on oil exports.",
-      "date": "Thu, 07 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why has the US sanctioned Iraq’s deputy oil minister for helping Iran?",
-      "link": "https://www.aljazeera.com/news/2026/5/7/why-has-the-us-sanctioned-iraqs-deputy-oil-minister-for-helping-iran?traffic_source=rss",
-      "description": "The US accuses Ali Maarij al-Bahadly of helping Iran avoid sanctions and export its oil through Iraq.",
       "date": "Thu, 07 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -343,9 +353,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Iran state TV reports explosions on island in Hormuz strait",
+      "title": "Iran-Israel war LIVE: U.S. carried out retaliatory strikes against Iran, says military",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
-      "description": "“The explosions at the Bahman pier on Qeshm Island occurred during an exchange of fire between Iranian armed forces and the enemy,” the broadcaster IRIB reported",
+      "description": "Iran state TV reports explosions on island in Hormuz strait; state broadcaster also said \"enemy units\" came under missile fire after U.S. attack on Iranian oil tanker",
       "date": "Thu, 07 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -403,6 +413,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US hit Iranian military installations in response to attacks against its destroyers",
+      "link": "https://tass.com/world/2128189",
+      "description": "CENTCOM reported attacks on missile and drone launch sites; command and control locations; and intelligence, surveillance and reconnaissance nodes",
+      "date": "Thu, 07 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Iran says it attacked three US destroyers — news agency",
       "link": "https://tass.com/world/2128173",
       "description": "According to sources cited by Tasnim, the destroyers were attacked by missiles and kamikaze drones",
@@ -426,16 +446,6 @@
       "title": "US wants to resume ship escorts in Strait of Hormuz — WSJ",
       "link": "https://tass.com/world/2128139",
       "description": "According to the report, Saudi Arabia and Kuwait have lifted restrictions on the use of their bases by the US military, introduced when the United States launched its operation to unblock the strait",
-      "date": "Thu, 07 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russian sports chief disappointed with IOC decision to uphold sanctions against Russia",
-      "link": "https://tass.com/sports/2128123",
-      "description": "Mikhail Degtyarev stressed that Russia would continue seeking full restitution of the rights for its athletes",
       "date": "Thu, 07 May 2026",
       "source": "TASS",
       "region": "ru",
