@@ -1,15 +1,26 @@
 {
-  "updated": "2026-05-06 23:39 UTC",
+  "updated": "2026-05-07 01:52 UTC",
   "total": 15,
   "events": [
+    {
+      "date": "2026-05-07",
+      "dateDisplay": "May 07, 2026",
+      "title": "Iran war live: Trump says deal with Tehran \u2018possible\u2019; Israel bombs Beirut",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-05-06",
       "dateDisplay": "May 06, 2026",
       "title": "Live: Israel strikes Beirut's southern suburbs, Netanyahu says targeted top Hezbollah commander",
       "link": "https://www.france24.com/en/middle-east/20260506-middle-east-war-live-trump-pauses-us-strait-of-hormuz-escort-operation",
       "sources": [
-        "France 24",
-        "Al Jazeera"
+        "Al Jazeera",
+        "France 24"
       ],
       "sourceCount": 2,
       "type": "govt"
@@ -151,17 +162,6 @@
       "dateDisplay": "Apr 17, 2026",
       "title": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
       "link": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-04-16",
-      "dateDisplay": "Apr 16, 2026",
-      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
-      "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
