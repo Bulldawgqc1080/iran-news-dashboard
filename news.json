@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-07 20:56 UTC",
-  "total": 40,
+  "updated": "2026-05-07 21:48 UTC",
+  "total": 44,
   "stories": [
     {
       "title": "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism",
@@ -37,16 +37,6 @@
       "link": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
       "description": "The soldier was photographed putting a cigarette in the statue's mouth, in the second incident against a Christian figure in weeks.",
       "date": "Thu, 07 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump's hopes for an Iran peace deal come with caveats",
-      "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
-      "description": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
-      "date": "Wed, 06 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -117,6 +107,16 @@
       "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
       "description": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
       "date": "Wed, 06 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Captain of stranded ship in Strait of Hormuz tells BBC of 'pressure'",
+      "link": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss",
+      "description": "Capt Raman Kapoor's ship is one of several to be stranded in the strait in the midst of the power struggle between the US and Iran.",
+      "date": "Tue, 05 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -203,6 +203,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Senators press US military on Israel’s displacement campaign in Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
+      "description": "In letter to CENTCOM commander, 12 Democrats raise questions about possible US role in Israel&#039;s &#039;mass evacuation zones&#039;.",
+      "date": "Thu, 07 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
       "link": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation?traffic_source=rss",
       "description": "Latest sanctions target military-controlled conglomerate, come as effective US fuel blockade continues.",
@@ -266,16 +276,6 @@
       "title": "Why has the US sanctioned Iraq’s deputy oil minister for helping Iran?",
       "link": "https://www.aljazeera.com/news/2026/5/7/why-has-the-us-sanctioned-iraqs-deputy-oil-minister-for-helping-iran?traffic_source=rss",
       "description": "The US accuses Ali Maarij al-Bahadly of helping Iran avoid sanctions and export its oil through Iraq.",
-      "date": "Thu, 07 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Lebanon Latest Israeli strikes Beirut despite ‘ceasefire’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/lebanon-latest-israeli-strikes-beirut-despite?traffic_source=rss",
-      "description": "Israel has carried out its first airstrike on Beirut’s southern suburbs since the April 16 US-brokered ceasefire.",
       "date": "Thu, 07 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -401,6 +401,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran says it attacked three US destroyers — news agency",
+      "link": "https://tass.com/world/2128173",
+      "description": "According to sources cited by Tasnim, the destroyers were attacked by missiles and kamikaze drones",
+      "date": "Thu, 07 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US does not consider latest strikes on Iran resumption of war — Fox News",
+      "link": "https://tass.com/world/2128165",
+      "description": "The US army earlier attacked Iran’s Qeshm port and Bandar Abbas",
+      "date": "Thu, 07 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US wants to resume ship escorts in Strait of Hormuz — WSJ",
+      "link": "https://tass.com/world/2128139",
+      "description": "According to the report, Saudi Arabia and Kuwait have lifted restrictions on the use of their bases by the US military, introduced when the United States launched its operation to unblock the strait",
+      "date": "Thu, 07 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russian sports chief disappointed with IOC decision to uphold sanctions against Russia",
+      "link": "https://tass.com/sports/2128123",
+      "description": "Mikhail Degtyarev stressed that Russia would continue seeking full restitution of the rights for its athletes",
+      "date": "Thu, 07 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
