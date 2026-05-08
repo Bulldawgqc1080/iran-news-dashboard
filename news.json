@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07 23:42 UTC",
+  "updated": "2026-05-08 01:58 UTC",
   "total": 45,
   "stories": [
     {
@@ -133,6 +133,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US military says it intercepted Iranian attacks in Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260508-us-military-says-it-intercepted-iranian-attacks-in-strait-of-hormuz",
+      "description": "On Thursday, the US and Iran exchanged accusations and fire in the Strait of Hormuz, with Washington saying it intercepted Iranian attacks and struck back at military targets, while Tehran reported retaliatory action and rising regional tensions. The fragile ceasefire faced fresh...",
+      "date": "Fri, 08 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says ceasefire is still in place despite attacks from Iran",
+      "link": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-us-and-iran-accuse-each-other-of-ceasefire-violations-in-strait-of-hormuz",
+      "description": "",
+      "date": "Fri, 08 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East war live: US and Iran accuse each other of ceasefire violations in Strait of Hormuz",
       "link": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-us-and-iran-accuse-each-other-of-ceasefire-violations-in-strait-of-hormuz",
       "description": "On Friday, the US and Iran accused each other of breaking a fragile ceasefire after clashes in the Strait of Hormuz. Washington said it struck Iranian military targets following an attack on US destroyers, while Tehran claimed US forces attacked first, raising fears of renewed es...",
@@ -193,24 +213,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel strikes Beirut and southern Lebanon despite truce",
-      "link": "https://www.france24.com/en/video/20260507-israel-strikes-beirut-and-southern-lebanon-despite-truce",
-      "description": "Israel pummelled southern Lebanon on Thursday, state media and AFP correspondents said, a day after it targeted a Hezbollah commander in its first strike on Beirut's southern suburbs since a truce sought to end weeks of fighting. The Israeli army said Thursday that the strike on ...",
-      "date": "Thu, 07 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Can nuclear power resolve the energy crisis?",
-      "link": "https://www.france24.com/en/tv-shows/people-profit/20260507-can-nuclear-power-resolve-the-energy-crisis",
-      "description": "The war with Iran has prompted many economies to reevaluate their energy needs and strategy. In Europe, several countries are considering reviving the use of nuclear power. Sweden, Belgium, and Italy are among those rolling back previous restrictions, while France and the UK are ...",
-      "date": "Thu, 07 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
+      "description": "Iran accused the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas.",
+      "date": "Fri, 08 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Videos show interceptions over the skies of Tehran",
@@ -283,16 +293,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel’s attacks and pressure sowing seeds for division in tense Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/5/7/israels-attacks-and-pressure-sowing-seeds-for-division-in-tense-lebanon?traffic_source=rss",
-      "description": "Analysts say Israel aiming to exploit Lebanon’s divisions to force concessions amid military and political pressures.",
-      "date": "Thu, 07 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "France sends aircraft carrier to Middle East for possible Hormuz mission",
       "link": "https://www.dawn.com/news/1998259/france-sends-aircraft-carrier-to-middle-east-for-possible-hormuz-mission",
       "description": "PARIS: France’s aircraft carrier the Charles de Gaulle was on Wednesday heading towards the southern Red Sea to pre-position for a possible mission to restore navigation in the Strait of Hormuz, Paris said. The move was intended to send “a signal that not only are we ready to sec...",
@@ -353,10 +353,30 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Trump threatens more Iran strikes if deal not signed 'fast'",
+      "title": "Iran-Israel war LIVE: U.S. and Iran trade fire, threatening fragile ceasefire",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece",
+      "description": "​Donald ⁠Trump dismissed the attacks and said ‌that ⁠the ⁠United ​States ‌is negotiating with Iran",
+      "date": "Fri, 08 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. and Iran trade fire, threatening fragile truce",
+      "link": "https://www.thehindu.com/news/international/us-iran-trade-fire-west-asia-war-strait-of-hormuz/article70952891.ece",
+      "description": "Iran’s military accused the U.S. of violating the ceasefire by attacking an oil tanker and another ship on Thursday, saying Tehran’s forces “immediately and in retaliation attacked American military vessels”",
+      "date": "Fri, 08 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war: Trump threatens more Iran strikes if deal not signed 'fast'",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
       "description": "Iran state TV reports explosions on island in Hormuz strait; state broadcaster also said \"enemy units\" came under missile fire after U.S. attack on Iranian oil tanker; U.S. military says it carried out retaliatory strikes against Iran",
-      "date": "Thu, 07 May 2026",
+      "date": "Fri, 08 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -383,9 +403,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Narges Mohammadi’s family fears for jailed Nobel laureate's life if not moved to Tehran hospital",
-      "link": "https://www.thehindu.com/news/international/narges-mohammadis-family-fears-for-jailed-nobel-laureates-life-if-not-moved-to-tehran-hospital/article70950186.ece",
-      "description": "Narges Mohammadi remains in critical condition, and her family says security officials have so far prevented her transfer to the capital where she could get better treatment",
+      "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
+      "link": "https://www.thehindu.com/news/international/israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-ceasefire/article70950517.ece",
+      "description": "Iran ally Hezbollah has responded to those strikes by firing and launching armed drones towards Israeli soldiers",
       "date": "Thu, 07 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -393,29 +413,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump takes another U-turn on Iran",
-      "link": "https://www.thehindu.com/news/international/the-view-from-india-trump-takes-another-u-turn-on-iran/article70946072.ece",
-      "description": "",
-      "date": "Thu, 07 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iranian envoy to UN calls US, Bahrain draft resolution on Strait of Hormuz flawed",
+      "link": "https://tass.com/world/2128155",
+      "description": "The draft resolution contains baseless allegations against Iran, Amir Saeid Iravani says",
+      "date": "Fri, 08 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
-      "link": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece",
-      "description": "Rubio will hold talks with Jaishankar and Ajit Doval, and call on Prime Minister Modi, in discussions that are expected to set the course for India-U.S. ties after several ups and downs over tariffs and sanctions",
-      "date": "Thu, 07 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Nine people killed in Israeli air raids in South Lebanon — Ministry of Health",
+      "link": "https://tass.com/world/2128205",
+      "description": "According to the ministry, nineteen more people were wounded",
+      "date": "Fri, 08 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Situation near Iranian islands, cities stabilized — TV",
-      "link": "https://tass.com/world/2128195",
-      "description": "According to Press TV, an exchange of fire between the US and Iran lasted for several hours",
+      "title": "US leader threatens Iran with new strikes if no deal is signed soon",
+      "link": "https://tass.com/world/2128201",
+      "description": "Donald Trump says the US would attack \"a lot harder, and a lot more violently\"",
       "date": "Thu, 07 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -423,29 +443,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US hit Iranian military installations in response to attacks against its destroyers",
-      "link": "https://tass.com/world/2128189",
-      "description": "CENTCOM reported attacks on missile and drone launch sites; command and control locations; and intelligence, surveillance and reconnaissance nodes",
-      "date": "Thu, 07 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran says it attacked three US destroyers — news agency",
-      "link": "https://tass.com/world/2128173",
-      "description": "According to sources cited by Tasnim, the destroyers were attacked by missiles and kamikaze drones",
-      "date": "Thu, 07 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US does not consider latest strikes on Iran resumption of war — Fox News",
-      "link": "https://tass.com/world/2128165",
-      "description": "The US army earlier attacked Iran’s Qeshm port and Bandar Abbas",
+      "title": "Ceasefire between Iran, US remains in effect — Trump",
+      "link": "https://tass.com/world/2128199",
+      "description": "The US president characterized the military action as a \"love tap,\" ABC News reporter Rachel Scott said after a conversation with him",
       "date": "Thu, 07 May 2026",
       "source": "TASS",
       "region": "ru",

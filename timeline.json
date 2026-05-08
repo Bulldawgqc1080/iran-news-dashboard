@@ -1,15 +1,27 @@
 {
-  "updated": "2026-05-07 23:42 UTC",
+  "updated": "2026-05-08 01:58 UTC",
   "total": 15,
   "events": [
+    {
+      "date": "2026-05-08",
+      "dateDisplay": "May 08, 2026",
+      "title": "Trump says ceasefire is still in place despite attacks from Iran",
+      "link": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-us-and-iran-accuse-each-other-of-ceasefire-violations-in-strait-of-hormuz",
+      "sources": [
+        "Al Jazeera",
+        "France 24"
+      ],
+      "sourceCount": 2,
+      "type": "govt"
+    },
     {
       "date": "2026-05-07",
       "dateDisplay": "May 07, 2026",
       "title": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
       "link": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "BBC",
-        "France 24"
+        "France 24",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
@@ -151,17 +163,6 @@
       "dateDisplay": "Apr 17, 2026",
       "title": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
       "link": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-04-16",
-      "dateDisplay": "Apr 16, 2026",
-      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
-      "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
