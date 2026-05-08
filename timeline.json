@@ -1,18 +1,19 @@
 {
-  "updated": "2026-05-08 04:51 UTC",
+  "updated": "2026-05-08 06:27 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-05-08",
       "dateDisplay": "May 08, 2026",
-      "title": "Trump says ceasefire is still in place despite attacks from Iran",
-      "link": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-us-and-iran-accuse-each-other-of-ceasefire-violations-in-strait-of-hormuz",
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
-        "France 24"
+        "France 24",
+        "BBC",
+        "Al Jazeera"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-05-07",
@@ -20,8 +21,8 @@
       "title": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
       "link": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "BBC",
-        "France 24"
+        "France 24",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
