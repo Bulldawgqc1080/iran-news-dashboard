@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09 17:40 UTC",
-  "total": 34,
+  "updated": "2026-05-09 18:42 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "An expert on Iranian politics reviews the status of negotiations to end the war on Iran",
@@ -161,6 +161,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
+      "link": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
+      "description": "In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy.",
+      "date": "Sat, 09 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israeli attacks across Lebanon kill at least 19",
@@ -341,6 +351,36 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Peskov urges patience regarding conflict resolution efforts",
+      "link": "https://tass.com/politics/2128949",
+      "description": "Kremlin Spokesman noted that both the path toward a peace agreement on Ukraine and \"the path with Iran that the United States still has to go through\" are lengthy processes full of highly complex details",
+      "date": "Sat, 09 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Japan must lift sanctions to resume Russian oil supplies — Russian ambassador",
+      "link": "https://tass.com/economy/2128885",
+      "description": "Japan also maintains participation in another LNG project, Arctic LNG 2, but due to US sanctions cannot receive gas from it",
+      "date": "Sat, 09 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US-Iran settlement as difficult as Ukraine resolution — Peskov",
+      "link": "https://tass.com/politics/2128875",
+      "description": "According to him, reaching a peace agreement between Moscow and Kiev is \"a very long path filled with very complex details\"",
+      "date": "Sat, 09 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
