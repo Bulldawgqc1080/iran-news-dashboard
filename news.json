@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09 22:32 UTC",
-  "total": 33,
+  "updated": "2026-05-09 23:36 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "An expert on Iranian politics reviews the status of negotiations to end the war on Iran",
@@ -331,6 +331,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli army reports new strikes on southern Lebanon",
+      "link": "https://tass.com/world/2129049",
+      "description": "According to the statement, the strikes targeted a weapons depot and a drone launch site",
+      "date": "Sat, 09 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Peskov urges patience regarding conflict resolution efforts",
+      "link": "https://tass.com/politics/2128949",
+      "description": "Kremlin Spokesman noted that both the path toward a peace agreement on Ukraine and \"the path with Iran that the United States still has to go through\" are lengthy processes full of highly complex details",
+      "date": "Sat, 09 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Japan must lift sanctions to resume Russian oil supplies — Russian ambassador",
+      "link": "https://tass.com/economy/2128885",
+      "description": "Japan also maintains participation in another LNG project, Arctic LNG 2, but due to US sanctions cannot receive gas from it",
+      "date": "Sat, 09 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US-Iran settlement as difficult as Ukraine resolution — Peskov",
+      "link": "https://tass.com/politics/2128875",
+      "description": "According to him, reaching a peace agreement between Moscow and Kiev is \"a very long path filled with very complex details\"",
+      "date": "Sat, 09 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
