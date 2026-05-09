@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09 09:06 UTC",
-  "total": 36,
+  "updated": "2026-05-09 10:45 UTC",
+  "total": 39,
   "stories": [
     {
       "title": "U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus",
@@ -16,16 +16,6 @@
       "title": "The U.S. fires on Iranian tankers trying to evade its blockade amid a Hormuz standoff",
       "link": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
       "description": "U.S. forces fired on two Iranian oil tankers after exchanging fire with Iranian forces in the Strait of Hormuz. And the United Arab Emirates reported another Iranian missile and drone attack.",
-      "date": "Fri, 08 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Fallout from the Iran war may include a NATO where the U.S. is no longer its leader",
-      "link": "https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany",
-      "description": "President Trump's decision to leave NATO in the dark before launching strikes on Iran has inflamed tensions and is putting new urgency on rethinking the alliance.",
       "date": "Fri, 08 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Jordan sees collapse in tourism since Iran war",
+      "link": "https://www.france24.com/en/jordan-sees-collapse-in-tourism-since-iran-war",
+      "description": "Since the Middle East war erupted in late February, Jordan's ancient city of Petra has been all but abandoned by the usual crowds of tourists that flock to the site every year.",
+      "date": "Sat, 09 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US awaits Iran's response to latest proposal amid technical ceasefire",
       "link": "https://www.france24.com/en/video/20260509-us-awaits-iran-s-response-to-latest-proposal-amid-technical-ceasefire",
       "description": "The US ​and Iran appeared no closer on Saturday to finding an end to their war after the two sides traded fire in the Gulf amid a tenuous ceasefire.",
@@ -143,9 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Live: Oil spill detected off Kharg Island in the Persian Gulf",
+      "title": "Live: Israel launches strikes on south Lebanon after warning residents to evacuate",
       "link": "https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf",
-      "description": "Satellite images show a large oil spill spreading off Iran’s Kharg Island, a critical oil hub terminal for the Islamic republic. The apparent spill has raised concerns about the state of Iranian oil infrastructure as it faces mounting strain from a US-imposed naval blockade.",
+      "description": "The Israeli military launched strikes across southern Lebanon on Saturday after issuing evacuation warnings for several villages in the area, saying it was targeting Hezbollah positions despite an existing ceasefire. Follow our liveblog for all the latest updates.",
       "date": "Sat, 09 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -183,6 +183,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "The war on Iran will likely end in American retreat",
+      "link": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
+      "description": "The American empire cannot win the war against Iran at acceptable financial, military, and political costs.",
+      "date": "Sat, 09 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
       "description": "Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon&#039;s National News Agency said.",
@@ -216,26 +226,6 @@
       "title": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
       "link": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
       "description": "The bloc currently imports more than half of its crude oil from the Middle East.",
-      "date": "Fri, 08 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "More than a dozen reported killed in Israeli attacks on south Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
-      "description": "Israeli air raids on southern Lebanon escalate ahead of new round of talks expected next week in Washington, DC.",
-      "date": "Fri, 08 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
-      "link": "https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss",
-      "description": "Real do not impose sporting sanctions saying 500,000 euro fines concludes the &#039;internal procedures&#039; against the pair.",
       "date": "Fri, 08 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -361,6 +351,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US President says expects to receive response from Iran in coming hours",
+      "link": "https://tass.com/world/2128785",
+      "description": "Iranian Foreign Ministry spokesman Esmaeil Baghaei told earlier that Iran had not yet responded to the US proposal for a settlement agreement",
+      "date": "Sat, 09 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US to resume operation in Strait of Hormuz in case of no progress with Iran — Trump",
+      "link": "https://tass.com/world/2128781",
+      "description": "Donal Trumpt noted that the United States could resume Operation Project Freedom to organize the transit of ships through the Strait of Hormuz if there is no progress in negotiations with Iran",
+      "date": "Sat, 09 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russia will not support US draft resolution on Iran in UN Security Council — MFA",
+      "link": "https://tass.com/politics/2128757",
+      "description": "Russian Deputy Foreign Minister Alexander Alimov emphasized that Moscow \"doesn't see any potential for this document\"",
+      "date": "Fri, 08 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US-Iran talks in Pakistan may resume next week",
+      "link": "https://tass.com/world/2128755",
+      "description": "The US and Iran are working with mediators to draft a memorandum of understanding that will outline the terms of month-long negotiations to end the war",
+      "date": "Fri, 08 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
