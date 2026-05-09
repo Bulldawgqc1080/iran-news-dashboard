@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09 19:49 UTC",
-  "total": 38,
+  "updated": "2026-05-09 20:33 UTC",
+  "total": 34,
   "stories": [
     {
       "title": "An expert on Iranian politics reviews the status of negotiations to end the war on Iran",
@@ -31,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Lebanon says Israeli strikes killed 39",
+      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "description": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "date": "Sat, 09 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran accuses US of 'reckless military adventure'",
@@ -67,16 +77,6 @@
       "link": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
       "description": "The soldier was photographed putting a cigarette in the statue's mouth, in the second incident against a Christian figure in weeks.",
       "date": "Thu, 07 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-      "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
-      "description": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
-      "date": "Wed, 06 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -153,9 +153,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Live: Israel launches strikes on south Lebanon after warning residents to evacuate",
+      "title": "Israel launches strikes on south Lebanon after warning residents to evacuate",
       "link": "https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf",
-      "description": "The Israeli military launched strikes across southern Lebanon on Saturday after issuing evacuation warnings for several villages in the area, saying it was targeting Hezbollah positions despite an existing ceasefire. Follow our liveblog for all the latest updates.",
+      "description": "The Israeli military launched strikes across southern Lebanon on Saturday after issuing evacuation warnings for several villages in the area, saying it was targeting Hezbollah positions despite an existing ceasefire.",
       "date": "Sat, 09 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -173,7 +173,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Israeli attacks across Lebanon kill at least 19",
+      "title": "Israeli attacks across Lebanon kill at least 23",
       "link": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
       "description": "No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week.",
       "date": "Sat, 09 May 2026",
@@ -283,9 +283,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Rubio defends new U.S. sanctions on Cuba, targeting military-run conglomerate GAESA",
-      "link": "https://www.thehindu.com/news/international/rubio-defends-new-us-sanctions-on-cuba-targeting-military-run-conglomerate-gaesa/article70960104.ece",
-      "description": "Established in the 1990s under military control, GAESA was the Cuban Armed Forces' strategic response to the economic collapse that followed the Soviet Union's fall and the tightening of U.S. sanctions in place at the time",
+      "title": "Iran-Israel war updates: Iran reviewing U.S. proposal at ‘own pace’ as Trump awaits response, says report",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece",
+      "description": "The report said expectations had grown that Tehran would issue a response after U.S. Secretary of State Marco Rubio indicated that Washington was expecting an answer from Iran",
       "date": "Sat, 09 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -293,9 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Iran reviewing U.S. proposal at 'own pace' as Trump awaits response, says report",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece",
-      "description": "The report said expectations had grown that Tehran would issue a response after U.S. Secretary of State Marco Rubio indicated that Washington was expecting an answer from Iran",
+      "title": "Rubio defends new U.S. sanctions on Cuba, targeting military-run conglomerate GAESA",
+      "link": "https://www.thehindu.com/news/international/rubio-defends-new-us-sanctions-on-cuba-targeting-military-run-conglomerate-gaesa/article70960104.ece",
+      "description": "Established in the 1990s under military control, GAESA was the Cuban Armed Forces' strategic response to the economic collapse that followed the Soviet Union's fall and the tightening of U.S. sanctions in place at the time",
       "date": "Sat, 09 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -341,46 +341,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli army reports new strikes on southern Lebanon",
-      "link": "https://tass.com/world/2129049",
-      "description": "According to the statement, the strikes targeted a weapons depot and a drone launch site",
-      "date": "Sat, 09 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Peskov urges patience regarding conflict resolution efforts",
-      "link": "https://tass.com/politics/2128949",
-      "description": "Kremlin Spokesman noted that both the path toward a peace agreement on Ukraine and \"the path with Iran that the United States still has to go through\" are lengthy processes full of highly complex details",
-      "date": "Sat, 09 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Japan must lift sanctions to resume Russian oil supplies — Russian ambassador",
-      "link": "https://tass.com/economy/2128885",
-      "description": "Japan also maintains participation in another LNG project, Arctic LNG 2, but due to US sanctions cannot receive gas from it",
-      "date": "Sat, 09 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US-Iran settlement as difficult as Ukraine resolution — Peskov",
-      "link": "https://tass.com/politics/2128875",
-      "description": "According to him, reaching a peace agreement between Moscow and Kiev is \"a very long path filled with very complex details\"",
-      "date": "Sat, 09 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
