@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10 14:15 UTC",
-  "total": 34,
+  "updated": "2026-05-10 15:41 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar's coast",
@@ -23,9 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "Iran warns against complying with US sanctions as Gulf attacks reported",
+      "title": "Iran sends response to US proposals to end war",
       "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "description": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks.",
+      "description": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
       "date": "Sun, 10 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -143,9 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Live: Iranian drones target Kuwait and the UAE after striking frigate near Qatar",
+      "title": "Live: Iran responds to US peace plan after drones target Kuwait and the UAE",
       "link": "https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire",
-      "description": "Tensions in the Strait of Hormuz ratcheted up again on Sunday as Kuwait and the United Arab Emirates reported neutralising Iranian drones in their airspace, shortly after a drone strike started a small fire on a cargo ship off the coast of Qatar. Follow our live blog for all the ...",
+      "description": "Tensions in the Strait of Hormuz ratcheted up again on Sunday as Kuwait and the United Arab Emirates reported neutralising Iranian drones in their airspace, shortly after a drone strike started a small fire on a cargo ship off the coast of Qatar. Iranian state media reported that...",
       "date": "Sun, 10 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -223,6 +223,16 @@
       "bias": "Medium"
     },
     {
+      "title": "Tehran sends response to US peace proposal via Pakistan",
+      "link": "https://www.dawn.com/news/1999181/tehran-sends-response-to-us-peace-proposal-via-pakistan",
+      "description": "Prime Minister Shehbaz Sharif confirmed on Sunday that Pakistan received Iran’s response to a US proposal to end the war in the region. Speaking at a ceremony held in Islamabad to commemorate Marka-i-Haq, the premier mentioned Pakistan’s efforts for de-escalation between the US a...",
+      "date": "Sun, 10 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Pakistan, Qatar reaffirm shared commitment to support 'constructive dialogue across region'",
       "link": "https://www.dawn.com/news/1999157/pakistan-qatar-reaffirm-shared-commitment-to-support-constructive-dialogue-across-region",
       "description": "Prime Minister Shehbaz Sharif on Sunday said he and his Qatari counterpart Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani reaffirmed their “shared commitment” to support “constructive dialogue” in the Middle East. In a post on X, PM Shehbaz said he was “delighted to receive ...",
@@ -266,16 +276,6 @@
       "title": "At UN, Pakistan raises alarm at Israel's systematic annexation of occupied West Bank",
       "link": "https://www.dawn.com/news/1998904/at-un-pakistan-raises-alarm-at-israels-systematic-annexation-of-occupied-west-bank",
       "description": "Pakistan has raised alarm at the systematic annexation of the occupied West Bank, expansion of illegal settlements and the forced displacement of Palestinians, calling for the intervention of the global community. The stance was expressed by Pakistan’s Permanent Representative to...",
-      "date": "Sat, 09 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Rubio perplexed by allies’ lack of support on Iran",
-      "link": "https://www.dawn.com/news/1998824/rubio-perplexed-by-allies-lack-of-support-on-iran",
-      "description": "• Demands more than just ‘strongly worded statements’, warns against yielding international waters to Iran• Trump weighs response to allies blocking base access• Riyadh keeps bases open, prohibits their use for Hormuz operations ROME: Secretary of State Marco Rubio questioned on ...",
       "date": "Sat, 09 May 2026",
       "source": "Dawn",
       "region": "me",
@@ -341,6 +341,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Breakthrough in US-Iran talks could occur before Trump’s visit to China — Pakistani envoy",
+      "link": "https://tass.com/world/2129297",
+      "description": "Trump’s trip to China is expected to take place on May 14-15",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran sends response to US proposal on ending conflict to Pakistan — IRNA",
+      "link": "https://tass.com/world/2129295",
+      "description": "At this stage the talks will focus solely on ending the war in the region, according to the report",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranian supreme leader orders army to continue deterring adversaries — TV",
+      "link": "https://tass.com/world/2129289",
+      "description": "According to the channel, Mojtaba Khamenei’s instructions included steps for \"decisive resistance against Iran’s enemies\"",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US-Iran talks not deadlocked, negotiations continue — Pakistani ambassador",
+      "link": "https://tass.com/world/2129281",
+      "description": "Sooner or later a result will be achieved, Faisal Niaz Tirmizi said",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
