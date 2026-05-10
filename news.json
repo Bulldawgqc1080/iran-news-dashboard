@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-10 21:37 UTC",
-  "total": 40,
+  "updated": "2026-05-10 22:35 UTC",
+  "total": 42,
   "stories": [
+    {
+      "title": "Trump rejects Iran's latest response to U.S. ceasefire proposal",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
+      "description": "Iran delivered its response to Pakistani mediators on Sunday, according to the state-run Islamic Republic News Agency.",
+      "date": "Sun, 10 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar's coast",
       "link": "https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar",
@@ -118,6 +128,16 @@
       "description": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
       "date": "Tue, 05 May 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran releases Nobel laureate Narges Mohammadi on bail amid health fears",
+      "link": "https://www.france24.com/en/middle-east/20260510-iran-releases-nobel-laureate-narges-mohammadi-on-bail-amid-health-fears",
+      "description": "Iranian Nobel Peace Prize winner Narges Mohammadi has been released on bail and transferred to Tehran for urgent medical treatment after supporters warned she was at risk of dying in prison. The activist, jailed for campaigning against Iran's clerical system, reportedly suffered ...",
+      "date": "Sun, 10 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
