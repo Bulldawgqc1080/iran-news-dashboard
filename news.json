@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10 10:53 UTC",
-  "total": 31,
+  "updated": "2026-05-10 11:41 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar's coast",
@@ -123,9 +123,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war",
+      "title": "Iran warns of retaliation as US tensions threaten fragile peace talks",
       "link": "https://www.france24.com/en/video/20260510-iran-war",
-      "description": "2026-05-10 10:08 Iran war",
+      "description": "Tensions between the United States and Iran have escalated after reports of US fire on Iranian-linked tankers in the Gulf of Oman. Tehran warned of retaliation against American targets in the region as diplomatic efforts continue over a proposed deal involving sanctions, nuclear ...",
       "date": "Sun, 10 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -151,6 +151,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Why is Iran taking time to respond to the US proposal to end the war?",
+      "link": "https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war?traffic_source=rss",
+      "description": "Iran continues to review the proposal as Tehran&#039;s nuclear programme and Strait of Hormuz remain main sticking points.",
+      "date": "Sun, 10 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran military warns of ‘surprising’ methods of warfare if attacked again",
@@ -311,6 +321,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "UAE air defenses intercept two Iranian drones — Defense Ministry",
+      "link": "https://tass.com/world/2129271",
+      "description": "There has been no information about any casualties",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "IDF strikes 40 targets in Lebanon, kills 10 Hezbollah militants over weekend",
+      "link": "https://tass.com/world/2129225",
+      "description": "Among the targets, the military press service listed \"structures used for military purposes,\" \"weapons storage facilities,\" and \"a launcher\"",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Control over Strait of Hormuz makes Iran superpower — parliament deputy speaker",
+      "link": "https://tass.com/world/2129221",
+      "description": "No vessel will pass through it without the permission of the Islamic Republic, Haji Babaei said",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US fails to achieve any goals in conflict with Tehran — Iranian military",
+      "link": "https://tass.com/world/2129219",
+      "description": "Mohammad Akraminia added that US actions in the region had only \"strengthened unity and solidarity inside Iran\"",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
