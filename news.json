@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10 12:52 UTC",
-  "total": 31,
+  "updated": "2026-05-10 14:15 UTC",
+  "total": 34,
   "stories": [
     {
       "title": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar's coast",
@@ -21,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Iran warns against complying with US sanctions as Gulf attacks reported",
+      "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "description": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks.",
+      "date": "Sun, 10 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Lebanon says Israeli strikes killed 39",
@@ -113,16 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-      "link": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "description": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
-      "date": "Wed, 06 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Iran warns of retaliation as US tensions threaten fragile peace talks",
       "link": "https://www.france24.com/en/video/20260510-iran-war",
       "description": "Tensions between the United States and Iran have escalated after reports of US fire on Iranian-linked tankers in the Gulf of Oman. Tehran warned of retaliation against American targets in the region as diplomatic efforts continue over a proposed deal involving sanctions, nuclear ...",
@@ -151,6 +151,36 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
+      "description": "Israeli strikes have killed at least 39 people in a single day of attacks across Lebanon during a so-called ‘ceasefire.’",
+      "date": "Sun, 10 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Can Asian economies cope with the fallout from the Iran war?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
+      "description": "Fuel costs, inflation and debt pressures are testing Asian economies.",
+      "date": "Sun, 10 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran sends response to US proposal to end war via mediator Pakistan",
+      "link": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
+      "description": "According to the proposal, initial negotiations will focus on ending hostilities.",
+      "date": "Sun, 10 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US-Iran ceasefire under strain as Gulf states report drone attacks",
@@ -253,9 +283,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Iran head of military meets Supreme Leader Mojtaba Khamenei, says state TV",
+      "title": "Iran-Israel war LIVE: Iran sends its response to U.S. proposal aimed at ending the war, says IRNA",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-10-2026/article70961359.ece",
-      "description": "Iran on May 9 said it was still reviewing the United States’ proposal linked to ongoing negotiations over the West Asia conflict",
+      "description": "Iran's head of military meets Supreme Leader Mojtaba Khamenei, says state TV; Iran on May 9 said it was still reviewing the United States’ proposal linked to ongoing negotiations over the West Asia conflict",
       "date": "Sun, 10 May 2026",
       "source": "The Hindu",
       "region": "me",
