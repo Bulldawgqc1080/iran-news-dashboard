@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10 20:37 UTC",
-  "total": 36,
+  "updated": "2026-05-10 21:37 UTC",
+  "total": 40,
   "stories": [
     {
       "title": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar's coast",
@@ -33,6 +33,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
+      "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "description": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+      "date": "Sun, 10 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Lebanon says Israeli strikes killed 39",
       "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
       "description": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
@@ -47,16 +57,6 @@
       "link": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
       "description": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
       "date": "Sat, 09 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "description": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
-      "date": "Thu, 07 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -153,14 +153,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Iran says war must end 'on all fronts, especially Lebanon' in response to US plan",
+      "title": "Middle East live: Trump says Iran's response to US peace proposal is 'totally unacceptable'",
       "link": "https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire",
-      "description": "Iran has sent its response to a US proposal to begin peace talks to end the war, Iranian state media reported on Sunday. The response, sent to mediator Pakistan, focused on ending the war on all fronts, especially Lebanon, and on the safety of shipping through the strait, Iranian...",
+      "description": "Iran on Sunday sent its response to the latest US ceasefire proposal wants negotiations to focus on permanently ending the war, but President Donald Trump quickly rejected it as “totally unacceptable”, with no details. Iran seeks to end the war on all fronts, including in Lebanon...",
       "date": "Sun, 10 May 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+      "link": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
+      "description": "US president will likely &#039;apply pressure&#039; to China for buying Iranian oil during war.",
+      "date": "Sun, 10 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
+      "description": "Tiny tungsten cubes from Israeli bombs are causing devastating internal injuries to people in Lebanon.",
+      "date": "Sun, 10 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
@@ -216,26 +236,6 @@
       "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
       "description": "Israeli strikes have killed at least 39 people in a single day of attacks across Lebanon during a so-called ‘ceasefire.’",
-      "date": "Sun, 10 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Can Asian economies cope with the fallout from the Iran war?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
-      "description": "Fuel costs, inflation and debt pressures are testing Asian economies.",
-      "date": "Sun, 10 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran sends response to US proposal to end war via mediator Pakistan",
-      "link": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
-      "description": "According to the proposal, initial negotiations will focus on ending hostilities.",
       "date": "Sun, 10 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -303,6 +303,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran responds to U.S. ceasefire proposal but Trump rejects it as ‘unacceptable’",
+      "link": "https://www.thehindu.com/news/international/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable/article70963484.ece",
+      "description": "Iran seeks to end the war on all fronts, including in Lebanon, where Israel is fighting the Iranian-backed Hezbollah militant group, and to ensure the security of shipping, state TV said",
+      "date": "Sun, 10 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran-Israel war Highlights: Iran sends its response to U.S. proposal aimed at ending the war, says IRNA",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-10-2026/article70961359.ece",
       "description": "Iran's head of military meets Supreme Leader Mojtaba Khamenei, says state TV; Iran on May 9 said it was still reviewing the United States’ proposal linked to ongoing negotiations over the West Asia conflict",
@@ -353,14 +363,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Tehran could withstand blockade for four months, CIA report shows, as fighting flares",
-      "link": "https://www.thehindu.com/news/international/tehran-could-withstand-blockade-for-four-months-cia-report-shows-as-fighting-flares/article70958182.ece",
-      "description": "Recent days have seen the biggest ‌flare-ups in fighting in and around the Strait of Hormuz since a ceasefire began a month ago, and the United Arab Emirates came under renewed attack on Friday (May 8, 2026)",
-      "date": "Sat, 09 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Trump calls Iran's response to the US proposal ‘unacceptable’",
+      "link": "https://tass.com/world/2129351",
+      "description": "The US president says he has read the response from the so-called \"Representatives\" of Iran",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran refuses to dismantle its nuclear facilities — WSJ",
+      "link": "https://tass.com/world/2129349",
+      "description": "Sources cited by the newspaper said Tehran could agree to suspend uranium enrichment, but not for 20 years as the US demands",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Republika Srpska will never join sanctions against Russia — president",
+      "link": "https://tass.com/world/2129347",
+      "description": "Sinisa Karan says the path to the EU cannot be based on \"political and economic means to pressure the independent policies\"",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Italy’s League calls on Europe not to ignore Putin’s words about readiness for dialogue",
+      "link": "https://tass.com/world/2129337",
+      "description": "After four years of war and sanctions \"diplomacy must take the lead,\" the statement says",
+      "date": "Sun, 10 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
