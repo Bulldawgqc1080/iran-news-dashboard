@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11 02:00 UTC",
+  "updated": "2026-05-11 06:26 UTC",
   "total": 15,
   "events": [
     {
@@ -8,10 +8,11 @@
       "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
       "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "BBC"
+        "BBC",
+        "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-05-10",
@@ -20,19 +21,18 @@
       "link": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
       "sources": [
         "NPR News",
-        "Al Jazeera",
         "France 24"
       ],
-      "sourceCount": 3,
-      "type": "fact"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-05-09",
       "dateDisplay": "May 09, 2026",
-      "title": "An expert on Iranian politics reviews the status of negotiations to end the war on Iran",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"

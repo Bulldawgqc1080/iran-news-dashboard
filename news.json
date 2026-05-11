@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11 02:00 UTC",
+  "updated": "2026-05-11 06:26 UTC",
   "total": 38,
   "stories": [
     {
@@ -23,19 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "An expert on Iranian politics reviews the status of negotiations to end the war on Iran",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran",
-      "description": "NPR's Elissa Nadworny talks to Mehrzad Boroujerdi of the Missouri University of Science and Technology about the status of the Trump Administration's negotiations to end the war on Iran.",
-      "date": "Sat, 09 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
       "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "description": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+      "description": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
       "date": "Mon, 11 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -133,9 +123,19 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: UK and France to host defence talks on Hormuz shipping mission",
+      "link": "https://www.france24.com/en/middle-east/20260511-middle-east-war-live-uk-and-france-to-host-defence-talks-on-hormuz-shipping-mission",
+      "description": "The UK and France are set to host a multinational meeting of defence ministers on Tuesday to review military plans to restore trade flows through the Strait of Hormuz. This comes after Tehran warned that the Iranian military would respond with a \"decisive and immediate response\" ...",
+      "date": "Mon, 11 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump calls Iran's response to US peace proposal 'totally unacceptable'",
       "link": "https://www.france24.com/en/middle-east/20260510-trump-calls-iran-response-to-us-peace-proposal-totally-unacceptable",
-      "description": "Iran rejected the latest US peace proposal on Sunday, prompting a swift dismissal from Donald Trump, who called the response “TOTALLY UNACCEPTABLE!” on social media. The exchange marks another setback in efforts to ease tensions in the Persian Gulf, where disrupted shipping and r...",
+      "description": "Iran rejected the latest US peace proposal on Sunday, prompting a swift dismissal from President Donald Trump, who called the response “TOTALLY UNACCEPTABLE!” on social media. The exchange marks another setback in efforts to ease tensions in the Persian Gulf, where disrupted ship...",
       "date": "Sun, 10 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -183,6 +183,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump calls Iran response “totally unacceptable”",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/aje-onl-nf_tv-pkg_trump-rejects-iran-response-110526?traffic_source=rss",
+      "description": "Report on the latest developments after US President Donald Trump rejected Iran’s response to the US peace proposal.",
+      "date": "Mon, 11 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
       "description": "US president says Tehran&#039;s response &#039;unacceptable&#039;, as Iranian military warns it is ready if US-Israel war resumes.",
@@ -213,7 +223,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
+      "title": "Medics among 51 killed in Israeli attacks on Lebanon",
       "link": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
       "description": "Israeli attacks are intensifying in southern Lebanon, with 552 killed since the &#039;ceasefire&#039; started on April 16.",
       "date": "Sun, 10 May 2026",
@@ -253,20 +263,10 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran sends response to US ceasefire proposal via Pakistan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
-      "description": "Tehran has been saying negotiations should focus on ending hostilities, securing guarantees against future attacks.",
-      "date": "Sun, 10 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Tehran sends response to US peace proposal via Pakistan",
-      "link": "https://www.dawn.com/news/1999181/tehran-sends-response-to-us-peace-proposal-via-pakistan",
-      "description": "Prime Minister Shehbaz Sharif confirmed on Sunday that Pakistan had received Iran’s response to a US proposal to end the war in the Middle East. Speaking at a ceremony held in Islamabad to commemorate Marka-i-Haq, the premier mentioned Pakistan’s efforts for de-escalation between...",
-      "date": "Sun, 10 May 2026",
+      "title": "US allies face drone attacks as Iran warns ‘restraint is over’",
+      "link": "https://www.dawn.com/news/1999287/us-allies-face-drone-attacks-as-iran-warns-restraint-is-over",
+      "description": "• UAE, Kuwait intercept drones; projectile causes fire on cargo ship near Qatar coast• S. Korea confirms vessel severely damaged• Tehran threatens strong response if its vessels are attacked; Qatar warns using Hormuz as a ‘pressure card’ worsens crisis• Riyadh condemns attacks on...",
+      "date": "Mon, 11 May 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -323,9 +323,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war ‘not over,’ uranium must be removed: Netanyahu",
+      "link": "https://www.thehindu.com/news/international/iran-war-not-over-uranium-must-be-removed-netanyahu/article70964267.ece",
+      "description": "In an interview aired May 10, Donald Trump said Iran was “militarily defeated” and he insisted the uranium could be removed “whenever we want”",
+      "date": "Mon, 11 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. President Trump to pay state visit to China from May 13 to 15",
+      "link": "https://www.thehindu.com/news/international/us-president-trump-to-pay-state-visit-to-china-from-may-13-to-15/article70964226.ece",
+      "description": "The visit comes in the midst of a prolonged U.S.-Israel-Iran war causing a global energy crisis and the increasing tensions between the two countries over a host of issues, including Taiwan",
+      "date": "Mon, 11 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran-Israel war LIVE: Trump rejects Iran’s peace proposal as 'totally unacceptable'",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece",
       "description": "Donald Trump received the Iranian proposal on May 10 amid hopes that it could lead to a breakthrough to end the war",
+      "date": "Mon, 11 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Nobel laureate Narges Mohammadi transferred to a Tehran hospital, her foundation says",
+      "link": "https://www.thehindu.com/news/international/nobel-laureate-narges-mohammadi-transferred-to-a-tehran-hospital-her-foundation-says/article70964216.ece",
+      "description": "Narges Mohammadi’s transfer comes after days of pleading by her family and others who described her condition as critical. Her foundation said she has been granted a prison sentence suspension on bail",
       "date": "Mon, 11 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -347,36 +377,6 @@
       "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-10-2026/article70961359.ece",
       "description": "Iran's head of military meets Supreme Leader Mojtaba Khamenei, says state TV; Iran on May 9 said it was still reviewing the United States’ proposal linked to ongoing negotiations over the West Asia conflict",
       "date": "Sun, 10 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war updates: Iran reviewing U.S. proposal at ‘own pace’ as Trump awaits response, says report",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece",
-      "description": "The report said expectations had grown that Tehran would issue a response after U.S. Secretary of State Marco Rubio indicated that Washington was expecting an answer from Iran",
-      "date": "Sat, 09 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Rubio defends new U.S. sanctions on Cuba, targeting military-run conglomerate GAESA",
-      "link": "https://www.thehindu.com/news/international/rubio-defends-new-us-sanctions-on-cuba-targeting-military-run-conglomerate-gaesa/article70960104.ece",
-      "description": "Established in the 1990s under military control, GAESA was the Cuban Armed Forces' strategic response to the economic collapse that followed the Soviet Union's fall and the tightening of U.S. sanctions in place at the time",
-      "date": "Sat, 09 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli drone strikes near Beirut kill four; southern airstrikes claim at least 13 lives",
-      "link": "https://www.thehindu.com/news/international/israeli-strikes-beirut-lebanon-death-toll-updates/article70960090.ece",
-      "description": "The Israeli military said Hezbollah fired explosive drones into Israel near the border with Lebanon adding that three soldiers were wounded, one of them seriously, in one of the attacks",
-      "date": "Sat, 09 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
