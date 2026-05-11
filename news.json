@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-11 13:36 UTC",
-  "total": 43,
+  "updated": "2026-05-11 16:22 UTC",
+  "total": 42,
   "stories": [
     {
       "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "EU approves new sanctions on Israeli settlers over West Bank violence",
+      "link": "https://www.france24.com/en/europe/20260511-eu-approves-new-sanctions-on-israeli-settlers-over-west-bank-violence-palestinians",
+      "description": "The European Union on Monday approved new sanctions on Israeli settlers \"guilty of supporting the extremist and violent colonisation of the West Bank\", French Foreign Minister Jean-Noël Barrot said on social media. Israel called the sanctions “arbitrary and political” and vowed t...",
+      "date": "Mon, 11 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran-US ceasefire grows shaky after Trump rejects Tehran's latest proposal",
       "link": "https://www.france24.com/en/video/20260511-iran-us-ceasefire-grows-shaky-after-trump-rejects-tehran-s-latest-proposal",
       "description": "Iran and the United States were at an impasse again Monday over how to end their war while their ceasefire grew increasingly shaky, with the two sides exchanging fire in recent days, ships and Gulf states being targeted, and fighting flaring between Israel and the Lebanese milita...",
@@ -173,34 +183,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Russia, China and Iran: What do Beijing and Moscow want to gain from conflict?",
-      "link": "https://www.france24.com/en/video/20260511-russia-china-and-iran-what-do-beijing-and-moscow-want-to-gain-from-conflict",
-      "description": "Iran and the United States reached an impasse again Monday over how to end their war while their ceasefire grew increasingly shaky. As the situation in the Middle East keeps the world on edge, many regional observers say Iran’s resilience is thanks in part to the lifeline extende...",
+      "title": "Iran denies proposal sent to US contains ‘excessive demands’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
+      "description": "Iran says Tehran’s response to the latest US proposal to end the war was “not excessive.\"",
       "date": "Mon, 11 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "US-Israel war on Iran: Hormuz island tourism takes a hit",
-      "link": "https://www.france24.com/en/video/20260511-us-israel-war-on-iran-hormuz-island-tourism-takes-a-hit",
-      "description": "More than two months into the US-Israel war on Iran, the continued disruption of the Strait of Hormuz deepens global economic strain. But beyond the shipping lanes, other industries are also taking a major hit. FRANCE 24's reporters travelled to Iran's Hormuz Island, where reside...",
+      "title": "Israeli killings in Lebanon rise: Is even the pretence of a ceasefire over?",
+      "link": "https://www.aljazeera.com/news/2026/5/11/israeli-killings-in-lebanon-rise-is-even-the-pretence-of-a-ceasefire-over?traffic_source=rss",
+      "description": "Israel and Hezbollah have increased their attacks on each other, despite official ceasefire.",
       "date": "Mon, 11 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Crude oil prices rise as Trump calls Iran's offer 'totally unacceptable'",
-      "link": "https://www.france24.com/en/tv-shows/business/20260511-crude-oil-prices-rise-as-trump-calls-iran-s-offer-totally-unacceptable",
-      "description": "Benchmark crude oil prices rose on Monday as US President Donald Trump rejected Iran's latest counterproposal to find an end to the war in the Middle East. The continued closure of the Strait of Hormuz is leaving its mark on economies around the world, with India's Prime Minister...",
+      "title": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
+      "link": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold?traffic_source=rss",
+      "description": "PM urges Indians to work from home and avoid foreign trips during the global energy crisis due to the Iran war.",
       "date": "Mon, 11 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Is the US empire in the middle of a long decline?",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/11/is-the-us-empire-in-the-middle-of-a-long-decline?traffic_source=rss",
+      "description": "Iran war has put the US in a situation where ‘it’s not in control but can’t walk away’, argues economist Richard Wolff.",
+      "date": "Mon, 11 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanon Latest",
+      "link": "https://www.aljazeera.com/video/2026/5/11/lebanon-latest-2?traffic_source=rss",
+      "description": "Days of deadly attacks",
+      "date": "Mon, 11 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanese civil defence worker captures moment of Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/lebanese-civil-defence-worker-captures-moment-of-israeli-strike?traffic_source=rss",
+      "description": "A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon.",
+      "date": "Mon, 11 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel pushes for hangings and ‘show trials’ for ‘October 7 detainees’",
+      "link": "https://www.aljazeera.com/news/2026/5/11/israel-pushes-for-death-penalty-and-show-trials-for-oct-7-detainees?traffic_source=rss",
+      "description": "Israel advances legislation to try October 7 detainees in military courts, raising fears of show trials and executions.",
+      "date": "Mon, 11 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "‘Unacceptable’: What’s Iran’s peace proposal that Trump has rejected?",
@@ -213,64 +263,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran says its demands were seeking peace, while the US’s are ‘unreasonable’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-says-its-demands-were-seeking-peace-while-the-uss-are?traffic_source=rss",
-      "description": "Iranian foreign ministry spokesman Esmaeil Baqaei says Iran’s latest response was dismissed by the US Baqaei said.",
+      "title": "EU ministers agree on sanctions targeting violent West Bank settlers",
+      "link": "https://www.dawn.com/news/1999449/eu-ministers-agree-on-sanctions-targeting-violent-west-bank-settlers",
+      "description": "European Union (EU) foreign ministers reached an agreement on Monday on new sanctions targeting violent Israeli settlers in the occupied West Bank, as well as leading Hamas figures, EU foreign policy chief Kaja Kallas said. The sanctions package, which targets three settlers and ...",
       "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
-      "link": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
-      "description": "Sheikh Hamad bin Jassim warns Strait of Hormuz crisis is most dangerous fallout of war on Iran, calls for &#039;Gulf NATO&#039;.",
-      "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says US making ‘unreasonable’ demands in negotiations to end war",
-      "link": "https://www.aljazeera.com/news/2026/5/11/iran-says-us-making-unreasonable-demands-in-negotiations-to-end-war?traffic_source=rss",
-      "description": "Foreign ministry spokesman Esmaeil Baghaei says Iran&#039;s proposal to end conflict, unblock Strait of Hormuz is generous.",
-      "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Narendra Modi urges Indians to conserve fuel amid war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/narendra-modi-urges-indians-to-conserve-fuel-amid-war-on-iran?traffic_source=rss",
-      "description": "Narendra Modi urges Indians to conserve fuel amid war on Iran",
-      "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war day 73: Trump and Tehran clash over latest peace proposals",
-      "link": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
-      "description": "Brent crude rises amid a continuing deadlock as Trump describes Iran&#039;s response as &#039;totally unacceptable&#039;.",
-      "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Ex-Israeli PM: Hezbollah is the enemy of Lebanon and must be disarmed",
-      "link": "https://www.aljazeera.com/video/upfront/2026/5/11/ex-israeli-pm-hezbollah-is-the-enemy-of-lebanon-and-must-be-disarmed?traffic_source=rss",
-      "description": "Former Israeli PM Ehud Olmert speaks to Redi Tlhabi on Lebanon, the 2006 war, Hezbollah, and the US-Israeli war on Iran.",
-      "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "India shares, rupee fall on Modi's call for austerity, crude price spike",
@@ -323,11 +323,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Modi urges Indians to reduce petrol, diesel consumption amid Middle East war disruption",
-      "link": "https://www.dawn.com/news/1999209/modi-urges-indians-to-reduce-petrol-diesel-consumption-amid-middle-east-war-disruption",
-      "description": "Indian Prime Minister Narendra Modi on Sunday urged the people of to cut down on petrol and diesel consumption amid supply disruptions due to the Middle East war. India is one of the few countries in the region that has not increased the prices of petrol and diesel for domestic c...",
-      "date": "Sun, 10 May 2026",
-      "source": "Dawn",
+      "title": "Iran-Israel war LIVE: U.S.-Iran ceasefire on 'life support', says Trump",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece",
+      "description": "\"The ceasefire is on massive life support, where the doctor walks in and says, 'Sir, your loved one has approximately a one percent chance of living,'\" Mr. Trump said",
+      "date": "Mon, 11 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran and the U.S. are at an impasse ahead of Trump’s China trip",
+      "link": "https://www.thehindu.com/news/international/iran-and-the-us-are-at-an-impasse-ahead-of-trumps-china-trip/article70965163.ece",
+      "description": "Iran and the United States have reached an impasse again over how to end their war",
+      "date": "Mon, 11 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -336,16 +346,6 @@
       "title": "Asian shares mixed, oil jumps 4% after Donald Trump rejects Iran's response to ceasefire proposal",
       "link": "https://www.thehindu.com/business/markets/asian-shares-mixed-oil-jumps-4-after-donald-trump-rejects-irans-response-to-ceasefire-proposal/article70964599.ece",
       "description": "Oil prices surge as U.S. President Donald Trump declines Iran’s response to the U.S. proposal to ceasefire as “TOTALLY UNACCEPTABLE!”",
-      "date": "Mon, 11 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war LIVE: Iran says demanded end to war, release of assets in its response to U.S.",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece",
-      "description": "South Korea condemns in strongest terms attack on cargo ship, vows to respond",
       "date": "Mon, 11 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -383,14 +383,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran responds to U.S. ceasefire proposal but Trump rejects it as ‘unacceptable’",
-      "link": "https://www.thehindu.com/news/international/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable/article70963484.ece",
-      "description": "Iran seeks to end the war on all fronts, including in Lebanon, where Israel is fighting the Iranian-backed Hezbollah militant group, and to ensure the security of shipping, state TV said",
+      "title": "Russia sees Canada's sanctions as ‘factory of absurdity’ — ambassador says",
+      "link": "https://tass.com/world/2129451",
+      "description": "Canadian Minister of Foreign Affairs Anita Anand previously announced that Ottawa had added 23 more individuals and five entities to its sanction lists against Russia",
       "date": "Mon, 11 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "EU imposes sanctions against 16 teachers, heads of youth organizations in Russia",
@@ -416,16 +416,6 @@
       "title": "EU foreign ministers expect to adopt new sanctions against Russia on May 11 — Kallas",
       "link": "https://tass.com/world/2129383",
       "description": "In addition, the EU foreign policy chief noted that ex-German Chancellor Gerhard Schroder’s candidacy as a negotiator with Russia has been ruled out",
-      "date": "Mon, 11 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US cannot take enriched uranium from Iran without its consent — Russian MP",
-      "link": "https://tass.com/politics/2129379",
-      "description": "The US can observe, Alexey Pushkov said",
       "date": "Mon, 11 May 2026",
       "source": "TASS",
       "region": "ru",
