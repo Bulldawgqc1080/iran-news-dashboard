@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10 23:40 UTC",
-  "total": 42,
+  "updated": "2026-05-11 02:00 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Trump rejects Iran's latest response to U.S. ceasefire proposal",
@@ -36,7 +36,17 @@
       "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
       "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
       "description": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
-      "date": "Sun, 10 May 2026",
+      "date": "Mon, 11 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
+      "link": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "description": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+      "date": "Mon, 11 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -123,16 +133,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
-      "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
-      "description": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
-      "date": "Tue, 05 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Trump calls Iran's response to US peace proposal 'totally unacceptable'",
       "link": "https://www.france24.com/en/middle-east/20260510-trump-calls-iran-response-to-us-peace-proposal-totally-unacceptable",
       "description": "Iran rejected the latest US peace proposal on Sunday, prompting a swift dismissal from Donald Trump, who called the response “TOTALLY UNACCEPTABLE!” on social media. The exchange marks another setback in efforts to ease tensions in the Persian Gulf, where disrupted shipping and r...",
@@ -181,6 +181,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
+      "description": "US president says Tehran&#039;s response &#039;unacceptable&#039;, as Iranian military warns it is ready if US-Israel war resumes.",
+      "date": "Mon, 11 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
@@ -253,16 +263,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
-      "description": "Israeli strikes have killed at least 39 people in a single day of attacks across Lebanon during a so-called ‘ceasefire.’",
-      "date": "Sun, 10 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Tehran sends response to US peace proposal via Pakistan",
       "link": "https://www.dawn.com/news/1999181/tehran-sends-response-to-us-peace-proposal-via-pakistan",
       "description": "Prime Minister Shehbaz Sharif confirmed on Sunday that Pakistan had received Iran’s response to a US proposal to end the war in the Middle East. Speaking at a ceremony held in Islamabad to commemorate Marka-i-Haq, the premier mentioned Pakistan’s efforts for de-escalation between...",
@@ -323,10 +323,20 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran-Israel war LIVE: Trump rejects Iran’s peace proposal as 'totally unacceptable'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece",
+      "description": "Donald Trump received the Iranian proposal on May 10 amid hopes that it could lead to a breakthrough to end the war",
+      "date": "Mon, 11 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran responds to U.S. ceasefire proposal but Trump rejects it as ‘unacceptable’",
       "link": "https://www.thehindu.com/news/international/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable/article70963484.ece",
       "description": "Iran seeks to end the war on all fronts, including in Lebanon, where Israel is fighting the Iranian-backed Hezbollah militant group, and to ensure the security of shipping, state TV said",
-      "date": "Sun, 10 May 2026",
+      "date": "Mon, 11 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -371,56 +381,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. fire on Iran tankers sparks reprisals as deal hangs in balance",
-      "link": "https://www.thehindu.com/news/international/us-fire-on-iran-tankers-sparks-reprisals-as-deal-hangs-in-balance/article70957189.ece",
-      "description": "Iranian officials accused the United States of violating the ceasefire with the tanker strikes and hampering diplomatic efforts to end the conflict",
-      "date": "Sat, 09 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump declares that Iran will no longer laugh at US",
-      "link": "https://tass.com/world/2129355",
-      "description": "The US president criticized the policies of his predecessors, Barack Obama and Joe Biden, regarding Tehran",
-      "date": "Sun, 10 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump calls Iran's response to the US proposal ‘unacceptable’",
-      "link": "https://tass.com/world/2129351",
-      "description": "The US president says he has read the response from the so-called \"Representatives\" of Iran",
-      "date": "Sun, 10 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran refuses to dismantle its nuclear facilities — WSJ",
-      "link": "https://tass.com/world/2129349",
-      "description": "Sources cited by the newspaper said Tehran could agree to suspend uranium enrichment, but not for 20 years as the US demands",
-      "date": "Sun, 10 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Republika Srpska will never join sanctions against Russia — president",
-      "link": "https://tass.com/world/2129347",
-      "description": "Sinisa Karan says the path to the EU cannot be based on \"political and economic means to pressure the independent policies\"",
-      "date": "Sun, 10 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }

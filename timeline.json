@@ -1,19 +1,29 @@
 {
-  "updated": "2026-05-10 23:40 UTC",
+  "updated": "2026-05-11 02:00 UTC",
   "total": 15,
   "events": [
+    {
+      "date": "2026-05-11",
+      "dateDisplay": "May 11, 2026",
+      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-05-10",
       "dateDisplay": "May 10, 2026",
       "title": "Trump rejects Iran's latest response to U.S. ceasefire proposal",
       "link": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
       "sources": [
-        "France 24",
+        "NPR News",
         "Al Jazeera",
-        "BBC",
-        "NPR News"
+        "France 24"
       ],
-      "sourceCount": 4,
+      "sourceCount": 3,
       "type": "fact"
     },
     {
@@ -153,17 +163,6 @@
       "dateDisplay": "Apr 22, 2026",
       "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
       "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-04-18",
-      "dateDisplay": "Apr 18, 2026",
-      "title": "What people in power think the impact of the Iran war will be",
-      "link": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
