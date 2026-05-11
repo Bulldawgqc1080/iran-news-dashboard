@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11 06:26 UTC",
+  "updated": "2026-05-11 10:27 UTC",
   "total": 15,
   "events": [
     {
@@ -9,10 +9,11 @@
       "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC",
+        "France 24",
         "Al Jazeera"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-05-10",
@@ -20,8 +21,8 @@
       "title": "Trump rejects Iran's latest response to U.S. ceasefire proposal",
       "link": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
       "sources": [
-        "NPR News",
-        "France 24"
+        "France 24",
+        "NPR News"
       ],
       "sourceCount": 2,
       "type": "govt"
