@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-12 11:10 UTC",
-  "total": 37,
+  "updated": "2026-05-12 13:51 UTC",
+  "total": 44,
   "stories": [
+    {
+      "title": "Trump heads to China for state visit. And, how the war in Iran has affected inflation",
+      "link": "https://www.npr.org/2026/05/12/g-s1-121602/up-first-newsletter-trump-china-xi-jinping-inflation-mifepristone-cameron-hamilton",
+      "description": "Trump leaves for Beijing today for a state visit with Chinese President Xi Jinping. And, a new inflation report is expected to show the war in Iran's impact on the U.S.",
+      "date": "Tue, 12 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE",
       "link": "https://www.npr.org/2026/05/12/nx-s1-5819174/israel-sent-iron-dome-uae",
@@ -213,39 +223,59 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Hezbollah’s weapons not part of Lebanon-Israel negotiations, group’s chief says",
-      "link": "https://www.france24.com/en/middle-east/20260512-middle-east-live-us-iran-talks-deadlocked-strait-of-hormuz-still-closed",
-      "description": "Hezbollah chief Naim Qassem on Tuesday said his group's weapons were not part of upcoming negotiations between Lebanon and Israel, and vowed his fighters would turn the battlefield into \"hell\" for Israeli forces as they \"defend Lebanon and its people\". Follow our liveblog for the...",
+      "title": "A secret Israeli base in Iraq? What we know",
+      "link": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss",
+      "description": "Israeli troops reportedly used this base to launch attacks against Iran during the war.",
       "date": "Tue, 12 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Report alleges Israel operated covert outpost in Iraq during war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/report-alleges-israel-operated-covert-outpost-in-iraq-during-war-on-iran?traffic_source=rss",
+      "description": "According to The Wall Street Journal, Israel operated a military base in the Iraq during the US-Israeli war on Iran.",
+      "date": "Tue, 12 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Why the Iran war is threatening whales near South Africa",
+      "link": "https://www.aljazeera.com/news/2026/5/12/why-the-iran-war-is-threatening-whales-near-south-africa?traffic_source=rss",
+      "description": "Whales are increasingly exposed to traffic - and ship strikes.",
+      "date": "Tue, 12 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
+      "link": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss",
+      "description": "Pakistan rejects allegations of aiding Iran militarily while Trump says truce on &#039;life support&#039;.",
+      "date": "Tue, 12 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Can China counter US sanctions with its trade power?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss",
+      "description": "From sanctions to rare earths, the economic rivalry between the US and China is intensifying.",
+      "date": "Tue, 12 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israeli military kills six in Lebanon, issues more displacement threats",
       "link": "https://www.aljazeera.com/news/2026/5/12/israeli-military-kills-six-in-lebanon-issues-more-displacement-threats?traffic_source=rss",
-      "description": "The deadly air attack comes just days before Israeli and Lebanese officials are due to meet in Washington.",
-      "date": "Tue, 12 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
-      "link": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss",
-      "description": "US-Iran tensions remain high as Tehran warns against &#039;aggression&#039; and Trump says the ceasefire is on &#039;life support&#039;.",
-      "date": "Tue, 12 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Global energy crisis highlights meagre oil buffers in developing world",
-      "link": "https://www.aljazeera.com/economy/2026/5/12/global-energy-crisis-highlights-meagre-oil-buffers-in-developing-world?traffic_source=rss",
-      "description": "Governments in the Global South are among the least prepared to respond to the oil shock caused by the Iran war.",
+      "description": "The deadly air attack comes just days before Israeli and Lebanese officials are due to meet in Washington, DC.",
       "date": "Tue, 12 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -323,6 +353,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Qatar says Iran should not use Hormuz to 'blackmail' Gulf",
+      "link": "https://www.thehindu.com/news/international/qatar-says-iran-should-not-use-hormuz-to-blackmail-gulf/article70969753.ece",
+      "description": "“Iran should not use this strait as a weapon to pressure or to blackmail the Gulf countries,” Qatar’s Sheikh Mohammed bin Abdulrahman Al Thani said",
+      "date": "Tue, 12 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran chief negotiator says U.S. must accept proposal or face 'failure'",
+      "link": "https://www.thehindu.com/news/international/iran-chief-negotiator-says-us-must-accept-proposal-or-face-failure/article70969159.ece",
+      "description": "Following U.S. President Donald Trump’s rejection of Tehran’s latest counteroffer, Iran issued an ultimatum to the U.S. to accept its 14-point proposal for peace",
+      "date": "Tue, 12 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Hezbollah chief says his Iran-backed group's weapons not part of negotiations with Israel",
+      "link": "https://www.thehindu.com/news/international/hezbollah-chief-says-his-iran-backed-groups-weapons-not-part-of-negotiations-with-israel/article70969307.ece",
+      "description": "\"Nobody outside Lebanon has anything to do with the weapons, the resistance... this is an internal Lebanese matter and not part of negotiations with the enemy,\" says Hezbollah’s Naim Qassem",
+      "date": "Tue, 12 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "India declines Russian LNG under sanctions, talks continue on permitted cargoes, sources say",
       "link": "https://www.thehindu.com/business/india-declines-russian-lng-under-sanctions-talks-continue-on-permitted-cargoes-sources-say/article70968551.ece",
       "description": "India’s reluctance has left an LNG cargo from ‌Russia’s U.S.-sanctioned ⁠Portovaya plant in the Baltic Sea unable to discharge, despite indicating India as ⁠its destination in mid-April",
@@ -343,34 +403,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan extends countrywide austerity drive after U.S., Iran fail to strike deal",
-      "link": "https://www.thehindu.com/news/international/pakistan-extends-countrywide-austerity-drive-after-us-iran-fail-to-strike-deal/article70968363.ece",
-      "description": "Among the key measures, the government had announced a 50% reduction in fuel allowance for official vehicles, with the exemption of operational vehicles such as ambulances and public buses",
+      "title": "Iran expands area of control in Strait of Hormuz",
+      "link": "https://tass.com/world/2129795",
+      "description": "According to the senior officer, the strait’s width, which used to be estimated at 32 to 48 km, has increased to between 321 and 482 km",
       "date": "Tue, 12 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Pakistan parked Iranian planes on its airbases to escape U.S. airstrikes: report",
-      "link": "https://www.thehindu.com/news/international/pakistan-parked-iranian-planes-on-its-airbases-to-escape-us-airstrikes-report/article70968120.ece",
-      "description": "The report also claimed that Iran had also parked its civilian aircraft in neighbouring Afghanistan to protect it from U.S. airstrikes",
+      "title": "Death toll from Israeli strikes in Lebanon since ceasefire reaches 552",
+      "link": "https://tass.com/world/2129791",
+      "description": "The number of wounded reached 8,730",
       "date": "Tue, 12 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "UAE attacked Iran last month: WSJ",
-      "link": "https://www.thehindu.com/news/international/uae-attacked-iran-last-month-wsj/article70968355.ece",
-      "description": "An American newspaper said the UAE's attacks targeted a refinery located on Iran's Lavan Island and took place \"around the time\" U.S. President Donald Trump was \"announcing a cease-fire in the war\" after a five-week air strike campaign",
+      "title": "Pakistan believes risk of full-scale Iran-US war is past — ambassador",
+      "link": "https://tass.com/world/2129785",
+      "description": "Faisal Niaz Tirmizi pointed out that Pakistan played a critical role in bringing the two countries together",
       "date": "Tue, 12 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran committed to achieving lasting peace — government spokesperson",
+      "link": "https://tass.com/world/2129757",
+      "description": "According to Fatemeh Mohajerani, Iran remains on high alert and waiting to see how the negotiation process unfolds",
+      "date": "Tue, 12 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
