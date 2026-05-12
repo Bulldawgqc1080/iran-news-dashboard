@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-12 01:57 UTC",
-  "total": 40,
+  "updated": "2026-05-12 05:35 UTC",
+  "total": 34,
   "stories": [
     {
       "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
@@ -41,6 +41,26 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "date": "Tue, 12 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
+      "link": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
+      "description": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
+      "date": "Mon, 11 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
@@ -113,31 +133,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Gulf economies face long-term hit from Iran conflict",
-      "link": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
-      "description": "Commentators say it will take years or even decades to repair the damage.",
-      "date": "Wed, 06 May 2026",
+      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+      "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
+      "description": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+      "date": "Tue, 05 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Trump pauses Hormuz plan 50 hours after he announced it - what happened?",
-      "link": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
-      "description": "The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.",
-      "date": "Wed, 06 May 2026",
-      "source": "BBC",
+      "title": "Middle East war live: US-Iran talks deadlocked, Strait of Hormuz still closed",
+      "link": "https://www.france24.com/en/middle-east/20260512-middle-east-live-us-iran-talks-deadlocked-strait-of-hormuz-still-closed",
+      "description": "US President Donald Trump warned that Tehran's rejection of his administration's demands meant the already tenuous ceasefire is now \"unbelievably weak\", and called Iran's counteroffer \"garbage\". Meanwhile, Iranian parliamentary speaker Mohammad Bagher Ghalibaf, who served as chie...",
+      "date": "Tue, 12 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
-      "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president said the operation has been paused after starting on Monday.",
-      "date": "Wed, 06 May 2026",
-      "source": "BBC",
+      "title": "EU sanctions Russian officials over deportation of Ukrainian children",
+      "link": "https://www.france24.com/en/europe/20260512-eu-sanctions-russian-officials-over-deportation-of-ukrainian-children",
+      "description": "The European Union says thousands of children have been stripped of their Ukrainian identity and culture, given Russian passports and put up for adoption.",
+      "date": "Tue, 12 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -153,14 +173,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "EU approves new sanctions on Israeli settlers over West Bank violence",
-      "link": "https://www.france24.com/en/europe/20260511-eu-approves-new-sanctions-on-israeli-settlers-over-west-bank-violence-palestinians",
-      "description": "The European Union on Monday approved new sanctions on Israeli settlers \"guilty of supporting the extremist and violent colonisation of the West Bank\", French Foreign Minister Jean-Noël Barrot said on social media. Israel called the sanctions “arbitrary and political” and vowed t...",
-      "date": "Mon, 11 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Lebanese in south refuse to flee again despite escalating Israeli strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss",
+      "description": "Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes.",
+      "date": "Tue, 12 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread",
@@ -203,44 +223,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
-      "description": "US President Donald Trump said the ceasefire with Iran was “on life support” after rejecting Tehran’s latest proposal.",
-      "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
+      "title": "FO terms report claiming Pakistan allowed Iranian military aircraft to park at airbase as 'misleading and sensationalised'",
+      "link": "https://www.dawn.com/news/1999624/fo-terms-report-claiming-pakistan-allowed-iranian-military-aircraft-to-park-at-airbase-as-misleading-and-sensationalised",
+      "description": "The Foreign Office (FO) on Tuesday termed a report by an American media outlet claiming that Islamabad “quietly allowed” Iranian military aircraft to park on its airfields while playing the role of a mediator in the Middle East conflict as “misleading and sensationalised”. Citing...",
+      "date": "Tue, 12 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
-      "link": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
-      "description": "Efforts between Washington and Tehran to reach an agreement continue to fall short, fuelling concerns of return to war.",
-      "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
+      "title": "Millions face hunger amid Hormuz standoff: UN official",
+      "link": "https://www.dawn.com/news/1999518/millions-face-hunger-amid-hormuz-standoff-un-official",
+      "description": "PARIS: Tens of millions of people could face hunger and starvation if fertilisers are not soon allowed through the Strait of Hormuz, the head of a UN task force aimed at averting a looming humanitarian crisis said on Monday. Iran has had the strategic waterway — through which a t...",
+      "date": "Tue, 12 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Israeli attacks kill at least four in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss",
-      "description": "Israeli strikes follow forced displacement warnings for nine towns in southern and eastern Lebanon.",
-      "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
+      "title": "Pressure grows on Starmer to resign",
+      "link": "https://www.dawn.com/news/1999535/pressure-grows-on-starmer-to-resign",
+      "description": "LONDON: Britain’s Prime Minister Keir Starmer vowed on Monday to prove his doubters wrong and stem mounting calls for him to step down after disastrous local and regional elections for his ruling Labour party. But more than 60 of Labour’s 403 MPs asked him to step down, unconvinc...",
+      "date": "Tue, 12 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran denies proposal sent to US contains ‘excessive demands’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
-      "description": "Iran says Tehran’s response to the latest US proposal to end the war was “not excessive.\"",
-      "date": "Mon, 11 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump rejects Iran's counteroffer to end war, insists on 'complete victory'",
@@ -273,60 +283,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says made 'legitimate' demands in peace proposal rejected by Trump as 'totally unacceptable'",
-      "link": "https://www.dawn.com/news/1999411/iran-says-made-legitimate-demands-in-peace-proposal-rejected-by-trump-as-totally-unacceptable",
-      "description": "Iran on Monday asserted that it made “legitimate” demands in its latest formal response to the United States’ peace proposal, after US President Donald Trump rejected the reply as “totally unacceptable”. Foreign Ministry Spokesperson Esmaeil Baqaei said Tehran had called for an e...",
-      "date": "Mon, 11 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "China confirms Trump's visit this week",
-      "link": "https://www.dawn.com/news/1999390/china-confirms-trumps-visit-this-week",
-      "description": "President Donald Trump will visit China from May 13 to 15, Beijing confirmed on Monday, with the US leader expected to discuss Iran and trade with his Chinese counterpart. Washington and Beijing have been at loggerheads over key issues ranging from trade tariffs to the Middle Eas...",
-      "date": "Mon, 11 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US allies face drone attacks as Iran warns ‘restraint is over’",
-      "link": "https://www.dawn.com/news/1999287/us-allies-face-drone-attacks-as-iran-warns-restraint-is-over",
-      "description": "• UAE, Kuwait intercept drones; projectile causes fire on cargo ship near Qatar coast• S. Korea confirms vessel severely damaged• Tehran threatens strong response if its vessels are attacked; Qatar warns using Hormuz as a ‘pressure card’ worsens crisis• Riyadh condemns attacks on...",
-      "date": "Mon, 11 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. issues new sanctions over Iran’s oil shipments to China",
-      "link": "https://www.thehindu.com/news/international/us-issues-new-sanctions-over-irans-oil-shipments-to-china/article70968108.ece",
-      "description": "The U.S. Treasury move follows sanctions announced on Friday (May 8, 2026) on individuals and companies aiding Iranian purchases of weapons and components used to make drones and ballistic missiles",
+      "title": "UAE attacked Iran last month: WSJ",
+      "link": "https://www.thehindu.com/news/international/uae-attacked-iran-last-month-wsj/article70968355.ece",
+      "description": "An American newspaper said the UAE's attacks targeted a refinery located on Iran's Lavan Island and took place \"around the time\" U.S. President Donald Trump was \"announcing a cease-fire in the war\" after a five-week air strike campaign",
       "date": "Tue, 12 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war highlights: U.S.-Iran ceasefire on ‘life support’, says Trump",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece",
-      "description": "Iranian parliamentary speaker Mohammad Bagher Ghalibaf said that the armed forces are ready “to respond and to teach a lesson for any aggression”",
-      "date": "Mon, 11 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "EU sanctions officials over deportation of Ukrainian children",
-      "link": "https://www.thehindu.com/news/international/eu-sanctions-officials-over-deportation-of-ukrainian-children/article70967452.ece",
-      "description": "“Russia is trying to erase their identity,” Latvian Foreign Minister Baiba Braze said at a meeting with EU counterparts in Brussels, where the sanctions were endorsed",
-      "date": "Mon, 11 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -336,7 +296,7 @@
       "title": "EU agrees sanctions on West Bank settlers and Hamas leaders",
       "link": "https://www.thehindu.com/news/international/eu-agrees-sanctions-on-west-bank-settlers-and-hamas-leaders/article70967301.ece",
       "description": "The group declined to support stronger measures from some European governments and withheld details, but French Foreign Minister Jean-Noël Barrot said the Ministers had decided to sanction Hamas leaders",
-      "date": "Mon, 11 May 2026",
+      "date": "Tue, 12 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -346,7 +306,17 @@
       "title": "Israeli forces operated from base in Iraq during the Iran war: report",
       "link": "https://www.thehindu.com/news/international/israeli-forces-operated-from-base-in-iraq-during-the-iran-war-report/article70967293.ece",
       "description": "The security official said, “Israeli forces established a base in an abandoned airstrip, built by Saddam Hussein, in the Najaf desert”",
-      "date": "Mon, 11 May 2026",
+      "date": "Tue, 12 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: Israeli strikes kill six in south Lebanon, says state media",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-12-2026/article70968122.ece",
+      "description": "Donald Trump warned the ceasefire in the West Asia war was on “life support” after rejecting the latest counteroffer from Iran",
+      "date": "Tue, 12 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -356,51 +326,21 @@
       "title": "U.S.-Iran ceasefire on ‘life support’, says Trump",
       "link": "https://www.thehindu.com/news/international/us-iran-ceasefire-on-life-support-says-trump/article70967185.ece",
       "description": "The U.S. President described Iran’s proposal as a “piece of garbage” which he was not going to waste time reading",
-      "date": "Mon, 11 May 2026",
+      "date": "Tue, 12 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Islamabad to remain venue for US-Iran talks — Pakistani ambassador to Russia",
-      "link": "https://tass.com/world/2129507",
-      "description": "Faisal Niaz Tirmizi says both sides of the conflict see Pakistan as \"an honest mediator\"",
+      "title": "Pakistan parked Iranian planes on its airbases to escape U.S. airstrikes: report",
+      "link": "https://www.thehindu.com/news/international/pakistan-parked-iranian-planes-on-its-airbases-to-escape-us-airstrikes-report/article70968120.ece",
+      "description": "The report also claimed that Iran had also parked its civilian aircraft in neighbouring Afghanistan to protect it from U.S. airstrikes",
       "date": "Tue, 12 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "No alternatives to Iran’s 14-point proposal for deal with US — top lawmaker",
-      "link": "https://tass.com/world/2129499",
-      "description": "Mohammad Bagher Ghalibaf noted that any other approach would \"lead only to failure\"",
-      "date": "Mon, 11 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "UAE may have carried out strikes on Iranian territory — newspaper",
-      "link": "https://tass.com/world/2129497",
-      "description": "According to sources cited by The Wall Street Journal, Abu Dhabi may have attacked an oil refinery on the Lavan Island",
-      "date": "Mon, 11 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US may resume operations in Strait of Hormuz or take more serious action — Trump",
-      "link": "https://tass.com/world/2129495",
-      "description": "The US president reiterated that Iran’s response to new US proposals to end hostilities was \"totally unacceptable\"",
-      "date": "Mon, 11 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     }
   ]
 }
