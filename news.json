@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-13 17:07 UTC",
-  "total": 41,
+  "updated": "2026-05-13 19:29 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "War in Iran costs $29 billion so far. And, students are finally improving in math",
@@ -27,16 +27,6 @@
       "link": "https://www.npr.org/2026/05/13/nx-s1-5820671/japanese-snack-packages-black-and-white",
       "description": "The packaging on some snacks is turning black-and-white, as the war in Iran disrupts the supply of an ingredient used in colored ink. Calbee's chips originally came in a bright-orange bag.",
       "date": "Wed, 13 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "How Americans see China now",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5761387/how-americans-see-china-now",
-      "description": "As President Trump heads to China this week, a new NPR-Chicago Council-Ipsos poll finds most Americans think U.S. tariffs have hurt both economies, and that the Iran war is bad for America.",
-      "date": "Tue, 12 May 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -113,16 +103,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
-      "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-      "description": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
-      "date": "Sun, 10 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Lebanon says Israeli strikes killed 39",
       "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
       "description": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
@@ -137,6 +117,16 @@
       "link": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
       "description": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
       "date": "Sat, 09 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
+      "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "description": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+      "date": "Sun, 10 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -163,14 +153,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "King Charles III lays out UK government agenda as Starmer's job hangs in the balance",
-      "link": "https://www.france24.com/en/video/20260513-king-charles-iii-lays-out-uk-government-agenda-as-starmer-s-job-hangs-in-the-balance",
-      "description": "King Charles III laid out on Wednesday the British government’s legislative program for the coming year or so, as Prime Minister Keir Starmer fought to remain in power following rising discontent within his Labour Party. In a speech to lawmakers laced with all the pomp that accom...",
+      "title": "Netanyahu visited UAE in ‘secret’ during US-Israel war on Iran, office says",
+      "link": "https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss",
+      "description": "The Israeli prime minister&#039;s office describes trip as a &#039;historic breakthrough&#039; in relations with Gulf state.",
       "date": "Wed, 13 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump-Xi summit: China’s help in Iran may require US concessions",
+      "link": "https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions?traffic_source=rss",
+      "description": "Analysts say China may seek changes in US policy towards Taiwan if it were to pressure Iran to reopen Hormuz.",
+      "date": "Wed, 13 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "12 killed by a series of Israeli strikes on cars in Lebanon",
@@ -186,66 +186,6 @@
       "title": "What Trump and Xi want from China visit",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss",
       "description": "Tensions over trade, technology, Taiwan, and the war on Iran are set to dominate high-stakes talks between Trump and Xi.",
-      "date": "Wed, 13 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/5/13/amid-us-israel-war-on-iran-arizona-awaits-iranian-team-before-world-cup?traffic_source=rss",
-      "description": "Sports facility and football fans in the city of Tucson want Iran&#039;s players to feel &#039;safe and welcome&#039;.",
-      "date": "Wed, 13 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump needs Xi much more than Xi needs Trump",
-      "link": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss",
-      "description": "As the Iran war reshapes global power dynamics, Beijing enters the Trump-Xi summit with more leverage over Washington.",
-      "date": "Wed, 13 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why Trump decided to back Iraq’s prime minister-designate, Ali al-Zaidi",
-      "link": "https://www.aljazeera.com/opinions/2026/5/13/why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi?traffic_source=rss",
-      "description": "Support from Washington is conditional on clear progress in curbing pro-Iran militia activity.",
-      "date": "Wed, 13 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Activist confronts Iran’s former crown prince over war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss",
-      "description": "Activist confronts Iran’s former crown prince over war on Iran",
-      "date": "Wed, 13 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
-      "link": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
-      "description": "Conflict monitor ACLED notes the increase in Israeli attacks on Gaza in April in its latest report.",
-      "date": "Wed, 13 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
-      "link": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
-      "description": "Trump faces mounting pressure amid stalled Iran peace talks as domestic discontent grows and geopolitical stakes rise.",
       "date": "Wed, 13 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -313,6 +253,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Netanyahu’s office says he visited UAE secretly during the Iran war",
+      "link": "https://www.thehindu.com/news/international/netanyahus-office-says-he-visited-uae-secretly-during-the-iran-war/article70975764.ece",
+      "description": "The announcement comes just a day after U.S. Ambassador to Israel Mike Huckabee revealed that Israel had sent Iron Dome air-defence weapons to the UAE along with personnel to operate them",
+      "date": "Wed, 13 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran working on Hormuz ‘protocol’ to cover ‘costs’, says Deputy Foreign Minister Gharibabadi",
+      "link": "https://www.thehindu.com/news/national/iran-working-on-hormuz-protocol-to-cover-costs-says-minister-gharibabadi/article70975505.ece",
+      "description": "Hinting at UAE, Deputy Foreign Minister Kazem Gharibabadi says “a neighbouring country that is also a member of the BRICS” is trying to scuttle a joint statement by seeking condemnation of Iran",
+      "date": "Wed, 13 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran-Israel war highlights: Iran military says Strait of Hormuz control to bring 'significant' economic revenues",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-13-2026/article70972420.ece",
       "description": "Trump says stopping Iran's nuclear program outweighs Americans' economic pain",
@@ -353,24 +313,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Global Faultlines podcast | Why Lebanon remains in perpetual crisis",
-      "link": "https://www.thehindu.com/podcast/global-faultlines-podcast-why-lebanon-remains-in-perpetual-crisis/article70973609.ece",
-      "description": "In this episode, we examine how Lebanon’s post-war recovery gave way to economic collapse, political paralysis, and renewed conflict, from the 2006 Israel-Hezbollah war to the 2019 protests and the recent crisis.",
+      "title": "Russia ready to work with Iran to settle crisis in region — Security Council",
+      "link": "https://tass.com/politics/2130509",
+      "description": "Security Council Deputy Secretary Alexander Venediktov expressed his condolences over the irreparable loss during the attacks by Washington and Tel Aviv on the Iranian statesmen and military leaders",
       "date": "Wed, 13 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "UAE designates 21 Lebanese individuals, organisations as terrorists over alleged Hezbollah links",
-      "link": "https://www.thehindu.com/news/international/uae-designates-21-lebanese-individuals-organisations-as-terrorists-over-alleged-hezbollah-links/article70973558.ece",
-      "description": "An official Emirati news agency published the names of 16 Lebanese nationals and five organisations based in the Mediterranean country",
+      "title": "US allows 15 humanitarian ships to sail in first month of Iran’s naval blockade — CENTCOM",
+      "link": "https://tass.com/world/2130505",
+      "description": "The US military did not explain what kind of cargo the vessels were carrying",
       "date": "Wed, 13 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran opted for just world order by joining BRICS — Iranian diplomat",
@@ -386,26 +346,6 @@
       "title": "Beirut accuses Iran of violating Lebanon’s sovereignty in complaint to UNSC",
       "link": "https://tass.com/world/2130451",
       "description": "In accordance with international law, Lebanon demands that Iran be held accountable for its actions, Ahmed Arafa said",
-      "date": "Wed, 13 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli strikes kill eight Lebanese on highway south of Beirut — Health Ministry",
-      "link": "https://tass.com/world/2130431",
-      "description": "Strikes were carried out on three vehicles in the towns of Barja, Jieh, and Saadiyat",
-      "date": "Wed, 13 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran sees UAE as ‘second Israel’ due to support for Jewish state",
-      "link": "https://tass.com/world/2130409",
-      "description": "According to member of the presidium of the Iranian parliament Alireza Salimi, the UAE authorities lack domestic support and no longer defend the country’s interests",
       "date": "Wed, 13 May 2026",
       "source": "TASS",
       "region": "ru",
