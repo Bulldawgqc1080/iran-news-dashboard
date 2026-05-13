@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-13 06:16 UTC",
-  "total": 39,
+  "updated": "2026-05-13 09:34 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "How Americans see China now",
@@ -53,14 +53,24 @@
       "bias": "Low"
     },
     {
-      "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
-      "link": "https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus",
-      "description": "Trump rejected Iran's response to a U.S. peace proposal, calling it \"totally unacceptable.\" And, Congressional Republicans are trying to push for three years of funding for immigration enforcement.",
-      "date": "Mon, 11 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+      "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+      "description": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+      "date": "Tue, 12 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UK promises jets, drones and warship for Strait of Hormuz defence mission",
+      "link": "https://www.bbc.com/news/articles/c5y909grldqo?at_medium=RSS&at_campaign=rss",
+      "description": "More than 40 nations are involved in the mission, which the Ministry of Defence says will begin when conditions allow.",
+      "date": "Tue, 12 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump says Iran ceasefire is on 'massive life support'",
@@ -133,26 +143,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "description": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
-      "date": "Sat, 09 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
-      "link": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
-      "description": "The soldier was photographed putting a cigarette in the statue's mouth, in the second incident against a Christian figure in weeks.",
-      "date": "Thu, 07 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
       "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
       "description": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
@@ -163,9 +153,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Trump says stopping Iran's nuclear programme outweighs Americans' economic pain",
-      "link": "https://www.france24.com/en/middle-east/20260513-middle-east-live-trump-says-stopping-iran-s-nuclear-program-outweighs-americans-economic-pain",
-      "description": "US President Donald ⁠Trump said he expects to have a \"long talk\" about Iran with his Chinese counterpart Xi Jinping when he arrives in Beijing on Wednesday for a highly anticipated summit. Trump said Americans’ financial struggles were not a factor in his decision-making as he se...",
+      "title": "Trump-Xi summit: Trade, Taiwan and Iran on the table at high-stakes Beijing meeting",
+      "link": "https://www.france24.com/en/asia-pacific/20260513-trump-xi-summit-trade-taiwan-and-iran-on-the-table-at-high-stakes-beijing-meeting",
+      "description": "US President Donald Trump's highly anticipated visit to Beijing on Wednesday comes at a restless moment for a world worried about war and trade disputes. Trump has said he will have a \"long talk\" about Iran with Chinese leader Xi Jinping and will also discuss US arms sales to Tai...",
       "date": "Wed, 13 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -173,7 +163,17 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran warns US to accept peace plan or risk collapse of Middle East truce",
+      "title": "Middle East live: Israel strikes cars on Lebanese highway south of Beirut",
+      "link": "https://www.france24.com/en/middle-east/20260513-middle-east-live-trump-says-stopping-iran-s-nuclear-program-outweighs-americans-economic-pain",
+      "description": "Israeli strikes targeted two cars on Wednesday on a major highway linking Beirut to southern Lebanon, state media reported, a day after 13 people were killed in attacks on towns in the south. Earlier, US President Donald ⁠Trump said he expected to have a \"long talk\" about the Ira...",
+      "date": "Wed, 13 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran warns US to accept peace plan or risk collapse of Mideast truce",
       "link": "https://www.france24.com/en/middle-east/20260512-iran-us-peace-plan-middle-east-truce-failure",
       "description": "Iran’s chief negotiator said on Tuesday that Washington must accept Tehran’s latest peace plan or risk the collapse of the Middle East truce, after President Donald Trump warned the ceasefire was near failure. The war, triggered by US-Israeli strikes on Iran more than two months ...",
       "date": "Tue, 12 May 2026",
@@ -183,7 +183,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US attorney general defends issuing subpoenas to journalists, citing classified leaks",
+      "title": "Acting US attorney general defends subpoenas for journalists, citing classified leaks",
       "link": "https://www.france24.com/en/americas/20260512-us-attorney-general-defends-press-subpoenas-over-classified-leaks",
       "description": "Acting US Attorney General Todd Blanche on Tuesday defended issuing subpoenas to journalists as part of investigations into leaks of classified information. Blanche did not name any outlet in a post on X, but his remarks came a day after The Wall Street Journal reported receiving...",
       "date": "Tue, 12 May 2026",
@@ -195,7 +195,7 @@
     {
       "title": "Deals and new partnerships at Africa-France summit",
       "link": "https://www.france24.com/en/deals-and-new-partnerships-at-africa-france-summit",
-      "description": "In tonight's edition, sovereignty was the buzzword of Kenyan President William Ruto at the close of the Africa Forward summit in Nairobi. Also, in the biggest change on the ground in months, Rwanda-backed M23 rebels have retreated from seized territory in the DRC. And as the war ...",
+      "description": "In tonight's edition: Sovereignty was the buzzword of Kenyan President William Ruto at the close of the Africa Forward summit in Nairobi. Also, in the biggest change on the ground in months, Rwanda-backed M23 rebels have retreated from seized territory in DR Congo. And as the war...",
       "date": "Tue, 12 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -205,7 +205,7 @@
     {
       "title": "Japanese crisp bags turn black and white due to Iran war",
       "link": "https://www.france24.com/en/tv-shows/business/20260512-japanese-crisp-bags-turn-black-and-white-due-to-iran-war",
-      "description": "Global oil prices rose further with Brent crude climbing near $110 a barrel, as a standoff over the Strait of Hormuz continues with the US and Iran both rejecting the other's ceasefire proposal. Meanwhile, Japanese snack giant Calbee has decided to temporarily switch to black and...",
+      "description": "Global oil prices rose further on Tuesday with Brent crude climbing near $110 a barrel, as a standoff over the Strait of Hormuz continues with the US and Iran both rejecting the other's ceasefire proposal. Meanwhile, Japanese snack giant Calbee has decided to temporarily switch t...",
       "date": "Tue, 12 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -213,19 +213,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump heads to China in bid to boost trade, reduce Iran and Taiwan tensions",
-      "link": "https://www.france24.com/en/asia-pacific/20260512-trump-heads-to-china-in-bid-to-boost-trade-and-reduce-iran-taiwan-tensions",
-      "description": "US President Donald Trump is expected to arrive in Beijing on Wednesday where he will meet with Chinese counterpart Xi Jinping to discuss increasing trade between the two countries. Trump said that the two leaders will also have a \"long talk\" about Iran and that he would speak to...",
-      "date": "Tue, 12 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war live: Trump travels to China as conflict with Tehran looms large",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
-      "description": "Israeli attacks on Lebanon have killed 2,883 people and injured 8,787 since March 2, Lebanon&#039;s Health Ministry says.",
+      "title": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
+      "link": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss",
+      "description": "Trump heads to Beijing for high-stakes talks with Xi Jinping as tensions over the Iran war continue to escalate.",
       "date": "Wed, 13 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -233,44 +223,44 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says he does not need Xi’s help on Iran war as he heads to China",
-      "link": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
-      "description": "Trump gives conflicting messages on prominence of Iran war in upcoming talks with China&#039;s Xi.",
-      "date": "Tue, 12 May 2026",
+      "title": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
+      "link": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
+      "description": "Trump and Xi meet as trade, Taiwan and the Iran war dominate a high-stakes US-China summit.",
+      "date": "Wed, 13 May 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
-      "link": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss",
-      "description": "US president lauds Islamabad, but his Republican ally says he does not trust Pakistan to facilitate Iran diplomacy.",
-      "date": "Tue, 12 May 2026",
+      "title": "Bahrain-led UN resolution on Strait of Hormuz gains support of 112 nations",
+      "link": "https://www.aljazeera.com/news/2026/5/13/bahrain-led-un-resolution-on-strait-of-hormuz-gains-support-of-112-nations?traffic_source=rss",
+      "description": "The resolution calls for free navigation through the strait and an end to Iranian attacks on its Gulf neighbours.",
+      "date": "Wed, 13 May 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "Why is Iran increasingly targeting the UAE in its war messaging?",
-      "link": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
-      "description": "The UAE&#039;s close ties to the US and Israel have placed the Gulf country under Iranian suspicion.",
-      "date": "Tue, 12 May 2026",
+      "title": "Iran war live: World watches as Trump and Xi to hold high-stakes talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
+      "description": "US president says he &#039;doesn’t think about Americans’ financial situation&#039; when it comes to the crippling war on Iran.",
+      "date": "Wed, 13 May 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "Trump skirts question on US ‘red lines’ for Iran ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/trump-skirts-question-on-us-red-lines-for-iran-ceasefire?traffic_source=rss",
-      "description": "Trump skirted a question from a reporter about whether he has a ‘red line’ that would end the ceasefire with Iran.",
-      "date": "Tue, 12 May 2026",
-      "source": "Al Jazeera",
+      "title": "Putin hails Russia's test launch of new Sarmat nuclear missile, calls it 'most powerful'",
+      "link": "https://www.dawn.com/news/1999914/putin-hails-russias-test-launch-of-new-sarmat-nuclear-missile-calls-it-most-powerful",
+      "description": "Russia’s President Vladimir Putin has welcomed the test launch of the new strategic nuclear missile Sarmat, describing it as “the most powerful in the world”. State TV showed Sergei Karakayev, commander of Russia’s strategic missile forces, reporting to Putin on what he said was ...",
+      "date": "Wed, 13 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Ahead of high-stakes visit to Beijing, Trump vows to push Xi to 'open up' China",
@@ -323,19 +313,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Backlash as EU invites Taliban for migrant return talks",
-      "link": "https://www.dawn.com/news/1999784/backlash-as-eu-invites-taliban-for-migrant-return-talks",
-      "description": "BRUSSELS: The European Commission said on Tuesday it has invited Taliban officials to Brussels for talks on returning migrants to Afghanistan — pushing back at criticism of a move fraught with practical and ethical concerns. EU migration officials, in coordination with member sta...",
+      "title": "Iran executes man accused of spying for Israel, allegedly trained by Mossad",
+      "link": "https://www.thehindu.com/news/international/iran-executes-man-accused-of-spying-for-israel-allegedly-trained-by-mossad/article70972975.ece",
+      "description": "Iran executes Ehsan Afrashteh, a spy trained by Mossad, who was arrested and tried for espionage and collaboration with the Zionist regime",
       "date": "Wed, 13 May 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Trump says stopping Iran's nuclear program outweighs Americans' economic pain",
+      "title": "Iran-Israel war LIVE: Pentagon says U.S. cost of Iran war nearing $29 billion",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-13-2026/article70972420.ece",
-      "description": "Iran’s chief negotiator said that Washington must accept Tehran’s latest peace plan or face failure",
+      "description": "Trump says stopping Iran's nuclear program outweighs Americans' economic pain",
+      "date": "Wed, 13 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Going to do whatever is necessary’: Trump on Russian oil waiver; forecasts inflation drop after Iran war",
+      "link": "https://www.thehindu.com/news/international/going-to-do-whatever-is-necessary-trump-on-russian-oil-waiver-forecasts-inflation-drop-after-iran-war/article70973126.ece",
+      "description": "Mr. Trump further claimed that the U.S. economy was poised for what he described as a \"Golden Age,\" adding that the inflationary pressures would ease sharply after the conflict",
+      "date": "Wed, 13 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pentagon says U.S. cost of Iran war nearing $29 billion",
+      "link": "https://www.thehindu.com/news/international/pentagon-says-us-cost-of-iran-war-nearing-29-billion/article70973055.ece",
+      "description": "But the joint staff team and the comptroller team are constantly looking at that estimate, and so now we think it's closer to 29, says Pentagon finance chief Jules Hurst III",
       "date": "Wed, 13 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -363,34 +373,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump embarks on visit to China, focus on trade",
-      "link": "https://www.thehindu.com/news/international/trump-china-visit-xi-jinping-meeting-us-china-trade-negotiations/article70971552.ece",
-      "description": "The U.S. President sought to downplay differences with Chinese President Xi Jinping over Iran and the shadow the conflict is casting on global oil markets",
-      "date": "Tue, 12 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Conflict with Iran could ultimately cost US $1 trln — CNN",
+      "link": "https://tass.com/economy/2130205",
+      "description": "The cost of a single expended Tomahawk missile is currently estimated at $2 mln, Linda Bilmes noted",
+      "date": "Wed, 13 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Kuwait accuses Iran of sending armed Revolutionary Guard team to attack an island in nation",
-      "link": "https://www.thehindu.com/news/international/kuwait-accuses-iran-of-sending-armed-revolutionary-guard-team-to-attack-an-island-in-nation/article70970580.ece",
-      "description": "Kuwait has come under repeated attack by Iran in the war and even during the shaky ceasefire still holding in the region",
-      "date": "Tue, 12 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Moscow ready to support Pakistan's efforts to resolve Iranian conflict — ambassador",
+      "link": "https://tass.com/politics/2130201",
+      "description": "Albert Khorev noted Pakistan’s significant role in resolving the conflict between Iran and the United States",
+      "date": "Wed, 13 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Qatar says Iran should not use Hormuz to 'blackmail' Gulf",
-      "link": "https://www.thehindu.com/news/international/qatar-says-iran-should-not-use-hormuz-to-blackmail-gulf/article70969753.ece",
-      "description": "“Iran should not use this strait as a weapon to pressure or to blackmail the Gulf countries,” Qatar’s Sheikh Mohammed bin Abdulrahman Al Thani said",
-      "date": "Tue, 12 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Sarmat ICBM test shows robust Russian defense industry despite sanctions — expert",
+      "link": "https://tass.com/world/2130199",
+      "description": "Girish Linganna added that developments in strategic weapons technology will push countries like India to further invest in missile defense and deterrence systems",
+      "date": "Wed, 13 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Possible future Iran-US deal to be radically different from JCPOA — expert",
+      "link": "https://tass.com/politics/2130187",
+      "description": "Oleg Akulinichev believes that the US could agree to unfreeze Iran's foreign assets in exchange for a temporary halt to Tehran's uranium enrichment",
+      "date": "Wed, 13 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
