@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15 20:50 UTC",
-  "total": 32,
+  "updated": "2026-05-15 21:47 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
@@ -13,20 +13,20 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Floating armoury' ship reportedly seized by Iran",
-      "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
-      "description": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
-      "date": "Thu, 14 May 2026",
+      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+      "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
+      "date": "Fri, 15 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
-      "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
-      "description": "Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them.",
-      "date": "Wed, 13 May 2026",
+      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "description": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
+      "date": "Thu, 14 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -123,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "What are World Cup 2026 national team base camps and their locations?",
+      "link": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss",
+      "description": "Training and accommodation locations for Argentina, Portugal, Spain, Brazil, England, Iran and other World Cup teams.",
+      "date": "Fri, 15 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Trump calls journalist’s Iran reporting ‘treasonous’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
       "description": "Trump called New York Times journalist reporting on the Iran war as “treasonous” while claiming a &#039;victory&#039;.",
@@ -186,16 +196,6 @@
       "title": "India and UAE sign defence pacts, as Iran war tensions simmer",
       "link": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss",
       "description": "A deal inked during Modi&#039;s visit to the UAE focuses on maritime security, cyberdefence, and military collaboration.",
-      "date": "Fri, 15 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Araghchi: Iran doubts US ‘seriousness’ about talks amid nuclear deadlock",
-      "link": "https://www.aljazeera.com/news/2026/5/15/araghchi_iran_doubts_us_seriousness_about_talks_amid_nuclear_deadlock?traffic_source=rss",
-      "description": "Iran&#039;s FM Abbas Araghchi spoke at a BRICS meeting in India about his \"distrust\" of the US regarding war negotiations.",
       "date": "Fri, 15 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -321,6 +321,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Closed military zone comes into effect in coastal area on border with Lebanon",
+      "link": "https://tass.com/world/2131689",
+      "description": "The decision was made after a situational assessment, the Israel Defense Forces said",
+      "date": "Fri, 15 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israel, Lebanon agree to extend ceasefire for 45 days — US Department of State",
+      "link": "https://tass.com/world/2131683",
+      "description": "Spokesperson Tommy Pigott says the State Department will reconvene the political track of negotiations, and a security track will be launched at the Pentagon with military delegations from both countries",
+      "date": "Fri, 15 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US leader says he did not underestimate Iran during conflict",
+      "link": "https://tass.com/world/2131641",
+      "description": "According to Donald Trump, Washington deliberately chose not to destroy part of Iran’s infrastructure",
+      "date": "Fri, 15 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Risk of major conflict in Middle East persists — Arab League",
+      "link": "https://tass.com/world/2131629",
+      "description": "Arab League’s ambassador to Moscow Walid Hamed Shiltag opined that the risk of a major conflict in the region remained because there was still no definitive agreement between the US and Iran",
+      "date": "Fri, 15 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
