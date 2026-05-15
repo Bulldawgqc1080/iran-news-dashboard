@@ -1,17 +1,7 @@
 {
-  "updated": "2026-05-15 09:37 UTC",
-  "total": 35,
+  "updated": "2026-05-15 11:46 UTC",
+  "total": 37,
   "stories": [
-    {
-      "title": "Tensions flare near Strait of Hormuz as a ship is seized and another is sunk",
-      "link": "https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz",
-      "description": "Tensions are escalating again near the Strait of Hormuz after a ship anchored off the United Arab Emirates was seized and taken toward Iran and another was attacked and sank near the coast of Oman.",
-      "date": "Fri, 15 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
     {
       "title": "'Floating armoury' ship reportedly seized by Iran",
       "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
@@ -143,9 +133,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Trump says he won’t 'be much more patient’ with Iran",
+      "title": "Middle East live: Iran says all vessels can pass through Hormuz, except those at war with Tehran",
       "link": "https://www.france24.com/en/middle-east/20260515-middle-east-live-trump-says-he-won-t-be-much-more-patient-with-iran",
-      "description": "US President Donald Trump ​said he would not be ​much ‌more ⁠patient with ‌Iran as he urged Tehran ⁠to reach a deal ​with Washington. Follow our liveblog for the latest developments in the Middle East.",
+      "description": "Iran's Foreign Minister Abbas Araghchi on Friday said all vessels can pass through the Strait of Hormuz, except those at war with Tehran. Araghchi noted that Iran had \"no trust\" in the US and would negotiate only if Washington is serious about talks. Follow our liveblog for the l...",
       "date": "Fri, 15 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,14 +143,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Abu Dhabi 'doesn't want to appear too much in cooperation with Israel', analyst says",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20260514-abu-dhabi-doesn-t-want-to-appear-too-much-in-cooperation-with-israel-analyst-says",
-      "description": "A renewed escalation in the Strait of Hormuz saw the seizure on Thursday of a ship anchored off the Unites Arab Emirates coast. Earlier, Israeli Prime Minister Benjamin Netanyahu had announced he had quietly visited the UAE during the Israeli-US war with Iran, though the UAE swif...",
-      "date": "Thu, 14 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "India hikes fuel prices as Iran crisis bites",
+      "link": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss",
+      "description": "The world&#039;s third-largest oil importer announced increased fuel prices and austerity measures due to the energy crisis.",
+      "date": "Fri, 15 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump and Xi move towards business-first relationship after Beijing summit",
+      "link": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss",
+      "description": "The two leaders did not resolve differences on key issues like Iran and Taiwan, despite push to extend truce.",
+      "date": "Fri, 15 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "How Xi-Trump summit failed to yield Iran war breakthrough",
@@ -203,30 +203,10 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: China wants swift end to war, Israel escalates in Lebanon",
+      "title": "Iran war live: US, Tehran in ‘deadlock’ over enriched uranium – Araghchi",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
-      "description": "China&#039;s foreign ministry says window for talks must not be lost, Israel steps up assassination strikes in south Lebanon.",
+      "description": "Iran&#039;s FM says he doubts US&#039;s \"seriousness\" in negotiations, confirms he has spoken to Russia on offer to move uranium.",
       "date": "Fri, 15 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Could Iran war trigger a hunger crisis?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
-      "description": "The UN warns disruptions in the Strait of Hormuz could drive up food and fertiliser costs, and worsen global hunger.",
-      "date": "Thu, 14 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘China is gaining from what the US is doing in Iran’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
-      "description": "Geopolitical analyst Steve Okun says says China is benefiting from the war on Iran.",
-      "date": "Thu, 14 May 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -293,6 +273,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "India can play ‘greater role’ for peace in West Asia, says Iranian Foreign Minister Araghchi",
+      "link": "https://www.thehindu.com/news/national/iran-foreign-minister-abbas-araghchi-brics-foreign-ministers-summit-in-new-delhi/article70982792.ece",
+      "description": "Abbas Araghchi said Iran is ready to help pass all vessels through the Strait of Hormuz, adding the situation in Strait of Hormuz is very complicated now",
+      "date": "Fri, 15 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "War worsens Lebanon's economic crisis with job losses, slow business, soaring prices",
       "link": "https://www.thehindu.com/news/international/war-worsens-lebanons-economic-crisis-with-job-losses-slow-business-soaring-prices/article70981715.ece",
       "description": "Lebanon suffered some $70 billion in losses in its financial sector, further compounded by about $11 billion in the 2024 war between Israel and Hezbollah, according to World Bank",
@@ -343,14 +333,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Uneasy truce in Beijing as Trump and Xi discuss trade, Taiwan",
-      "link": "https://www.thehindu.com/news/international/xi-warns-trump-taiwan-issue-could-lead-to-conflict-as-us-china-summit-starts/article70976999.ece",
-      "description": "The White House statement said both countries agreed on the need to keep the Strait of Hormuz open and to support the free flow of energy",
-      "date": "Thu, 14 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "BRICS Foreign Ministers call on Israel to withdraw troops from Lebanon",
+      "link": "https://tass.com/world/2131413",
+      "description": "The ministers recalled the agreement on a ceasefire in Lebanon and called on all parties to strictly adhere to its terms",
+      "date": "Fri, 15 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "China interested in freedom of navigation through Strait of Hormuz — US trade envoy",
+      "link": "https://tass.com/world/2131377",
+      "description": "Jamieson Greer described China’s approach to relations with Iran as \"very pragmatic\"",
+      "date": "Fri, 15 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US approach to Iran shaped by oil concerns — Lavrov",
+      "link": "https://tass.com/politics/2131351",
+      "description": "The Russian foreign minister said it was not Iran that created the problem, including with the Gulf countries",
+      "date": "Fri, 15 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran guarantees safe passage through Hormuz Strait for all vessels after end of war — MFA",
+      "link": "https://tass.com/world/2131305",
+      "description": "Iranian Foreign Minister Abbas Araghchi stressed that complete cessation of hostilities is the only solution",
+      "date": "Fri, 15 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
