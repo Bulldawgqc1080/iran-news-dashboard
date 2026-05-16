@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-16 20:37 UTC",
-  "total": 32,
+  "updated": "2026-05-16 21:38 UTC",
+  "total": 30,
   "stories": [
+    {
+      "title": "Iranian man barely survives bombing, but wants war to go on",
+      "link": "https://www.npr.org/2026/05/16/nx-s1-5820984/iranian-man-barely-survives-bombing-but-wants-war-to-go-on",
+      "description": "An Iranian man who was buried under rubble in US Israel bombing campaign says he wants the war to go on, and destroy the regime.",
+      "date": "Sat, 16 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Iran has been confiscating property from critics of the regime",
       "link": "https://www.npr.org/2026/05/15/nx-s1-5764842/iran-has-been-confiscating-property-from-critics-of-the-regime",
@@ -108,6 +118,16 @@
       "description": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
       "date": "Mon, 11 May 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "FIFA says held positive talks with Iran ahead of World Cup",
+      "link": "https://www.france24.com/en/sport/20260516-fifa-says-it-held-positive-talks-with-iran-ahead-of-world-cup",
+      "description": "FIFA Secretary General Mattias Grafstrom said Saturday he held a constructive meeting with the president of Iran's FA Mehdi Taj regarding Iran’s participation in the World Cup which is set to take place this summer in the United States, Canada, and Mexico.",
+      "date": "Sat, 16 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -281,46 +301,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Some construction work resumes at site of Unit No. 2 of Bushehr plant — Likhachev",
-      "link": "https://tass.com/economy/2131825",
-      "description": "According to Rosatom CEO, the reactor and steam generators for the second power unit is being manufactured as planned",
-      "date": "Sat, 16 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Rosatom sees return of Russian personnel to Bushehr plant premature — Likhachev",
-      "link": "https://tass.com/economy/2131827",
-      "description": "We have no right to decide on the return of personnel to the site in full until the situation is clarified, Likhachev said",
-      "date": "Sat, 16 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Money for Yermak's bail collected, but not transferred due to fear of checks — Rada deputy",
-      "link": "https://tass.com/world/2131833",
-      "description": "However, the deputy Yaroslav Zheleznyak notes, on Friday evening, the State Financial Monitoring Service warned banks that the sources of funds for the bail would be checked and sanctions would follow in case of violation of the rules of financial control, this is why the money r...",
-      "date": "Sat, 16 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Visit of Pakistani interior minister to Iran aimed at agreeing on negotiation paper — TV",
-      "link": "https://tass.com/world/2131831",
-      "description": "The visit of the Pakistani interior minister to Iran is aimed at reaching a specific agreement",
-      "date": "Sat, 16 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
