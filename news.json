@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16 16:44 UTC",
-  "total": 28,
+  "updated": "2026-05-16 17:45 UTC",
+  "total": 32,
   "stories": [
     {
       "title": "Iran has been confiscating property from critics of the regime",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Al Jazeera’s exclusive report from the Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss",
+      "description": "Heavy ship traffic and rising regional tensions over one of the world’s most critical energy routes.",
+      "date": "Sat, 16 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran warns of readiness for war and economic costs as US talks falter",
       "link": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
       "description": "Iranian leaders and TV have ramped up pressure on the US with a stream of messaging to domestic and foreign audiences.",
@@ -146,16 +156,6 @@
       "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
       "link": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
       "description": "Despite Lebanon and Israel extending the ceasefire deal for another 45 days, Israel continues to bomb Lebanon.",
-      "date": "Sat, 16 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
-      "link": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
-      "description": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
       "date": "Sat, 16 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -223,9 +223,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "European countries in talks with Tehran for Hormuz transit: Report",
-      "link": "https://www.thehindu.com/news/international/european-countries-in-talks-with-tehran-for-hormuz-transit-report/article70987957.ece",
-      "description": "Iran has largely blocked shipping through the vital strait since the outbreak of war with the United States and Israel on February 28. A fragile ceasefire has been in place since April 8.",
+      "title": "Iran-Israel war LIVE: Pakistani minister arrives in Tehran to 'facilitate' U.S.-Iran peace talks: media",
+      "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-ceasefire-hezbollah/article70985891.ece",
+      "description": "\"Mohsin Naqvi arrived today in the Islamic Republic of Iran on an official two-day visit as part of Pakistan's ongoing efforts to facilitate talks and promote regional peace,\" reports said",
       "date": "Sat, 16 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -233,9 +233,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Pakistani minister arrives in Tehran to 'facilitate' U.S.-Iran peace talks: media",
-      "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-ceasefire-hezbollah/article70985891.ece",
-      "description": "\"Mohsin Naqvi arrived today in the Islamic Republic of Iran on an official two-day visit as part of Pakistan's ongoing efforts to facilitate talks and promote regional peace,\" reports said",
+      "title": "European countries in talks with Tehran for Hormuz transit: Report",
+      "link": "https://www.thehindu.com/news/international/european-countries-in-talks-with-tehran-for-hormuz-transit-report/article70987957.ece",
+      "description": "Iran has largely blocked shipping through the vital strait since the outbreak of war with the United States and Israel on February 28. A fragile ceasefire has been in place since April 8.",
       "date": "Sat, 16 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -281,6 +281,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Some construction work resumes at site of Unit No. 2 of Bushehr plant — Likhachev",
+      "link": "https://tass.com/economy/2131825",
+      "description": "According to Rosatom CEO, the reactor and steam generators for the second power unit is being manufactured as planned",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Rosatom sees return of Russian personnel to Bushehr plant premature — Likhachev",
+      "link": "https://tass.com/economy/2131827",
+      "description": "We have no right to decide on the return of personnel to the site in full until the situation is clarified, Likhachev said",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Money for Yermak's bail collected, but not transferred due to fear of checks — Rada deputy",
+      "link": "https://tass.com/world/2131833",
+      "description": "However, the deputy Yaroslav Zheleznyak notes, on Friday evening, the State Financial Monitoring Service warned banks that the sources of funds for the bail would be checked and sanctions would follow in case of violation of the rules of financial control, this is why the money r...",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Visit of Pakistani interior minister to Iran aimed at agreeing on negotiation paper — TV",
+      "link": "https://tass.com/world/2131831",
+      "description": "The visit of the Pakistani interior minister to Iran is aimed at reaching a specific agreement",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
