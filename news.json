@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16 12:55 UTC",
-  "total": 31,
+  "updated": "2026-05-16 14:18 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "Iran has been confiscating property from critics of the regime",
@@ -143,26 +143,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Israel strikes southern Lebanon hours after ceasefire extension",
-      "link": "https://www.france24.com/en/middle-east/20260516-middle-east-war-live-israel-lebanon-extend-shaky-ceasefire",
-      "description": "Israel launched new air strikes against Hezbollah in southern Lebanon on Saturday, hours after the two countries agreed to extend a truce following talks in the US. The April 17 ceasefire, which did not end Israeli strikes in Lebanese territory, will be extended for 45 days, said...",
-      "date": "Sat, 16 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Live: Israel and Lebanon agree to extend ceasefire by 45 days, US State Department says",
-      "link": "https://www.france24.com/en/middle-east/20260515-middle-east-live-trump-says-he-won-t-be-much-more-patient-with-iran",
-      "description": "",
-      "date": "Fri, 15 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
       "link": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
       "description": "Despite Lebanon and Israel extending the ceasefire deal for another 45 days, Israel continues to bomb Lebanon.",
@@ -253,6 +233,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Congolese report constant burials as deaths in new Ebola outbreak reach 80",
+      "link": "https://www.thehindu.com/news/international/ebola-outbreak-in-congo-death-toll-updates-may-16-2026/article70987167.ece",
+      "description": "Health officials in Democratic Republic of Congo have intensified emergency response measure after an Ebola outbreak in Ituri province claimed at least 80 lives, raising fears of further spread.",
+      "date": "Sat, 16 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Rising diesel costs from Iran war strain U.S. school budgets",
       "link": "https://www.thehindu.com/news/international/rising-diesel-costs-from-iran-war-strain-us-school-budgets/article70986828.ece",
       "description": "Soaring diesel prices linked to the Iran war are forcing U.S. school districts to tap emergency funds, cut spending and rethink transportation budgets.",
@@ -303,14 +293,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Sri Lanka imposes 50% surcharge on car imports to protect currency from further slide",
-      "link": "https://www.thehindu.com/news/international/sri-lanka-imposes-50-surcharge-on-car-imports-to-protect-currency-from-further-slide/article70986477.ece",
-      "description": "The rupee has seen over 3% depreciation against the dollar by mid this month due to prevailing external pressures — primarily the Iran war — which has led to a massive surge in fuel import bill",
+      "title": "Insurance for ships passing through Strait of Hormuz turned out to be unclaimed — FT",
+      "link": "https://tass.com/world/2131789",
+      "description": "According to the publication, the program did not meet the requirements imposed on vessels transiting the Strait of Hormuz",
       "date": "Sat, 16 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israeli army announces new series of strikes on Hezbollah targets in southern Lebanon",
+      "link": "https://tass.com/world/2131783",
+      "description": "According to the statement, the targets are \"Hezbollah infrastructure sites\"",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US statements about control over Hormuz meant for home audience — Iranian envoy to Minsk",
+      "link": "https://tass.com/world/2131753",
+      "description": "According to Alireza Sanei, the US authorities know that the strait is controlled by Iran",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Attack on Iran aimed at reshaping region’s geopolitical map — ambassador to Belarus",
+      "link": "https://tass.com/world/2131725",
+      "description": "According to Alireza Sanei, the US also sought to undermine or destroy Iran’s missile arsenal and deprive the country of its drone capabilities",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
