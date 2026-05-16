@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16 18:47 UTC",
-  "total": 28,
+  "updated": "2026-05-16 19:55 UTC",
+  "total": 32,
   "stories": [
     {
       "title": "Iran has been confiscating property from critics of the regime",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Accident kills eight people in Thailand raising questions of rail safety",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/accident-kills-eight-people-in-thailand-raising-questions-of-rail-safety?traffic_source=rss",
+      "description": "Devastating railway accident in Bangkok kills at least eight people. And an investigation is underway.",
+      "date": "Sat, 16 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Al Jazeera’s exclusive report from the Strait of Hormuz",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss",
       "description": "Heavy ship traffic and rising regional tensions over one of the world’s most critical energy routes.",
@@ -146,16 +156,6 @@
       "title": "Iran warns of readiness for war and economic costs as US talks falter",
       "link": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
       "description": "Iranian leaders and TV have ramped up pressure on the US with a stream of messaging to domestic and foreign audiences.",
-      "date": "Sat, 16 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
-      "link": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
-      "description": "Despite Lebanon and Israel extending the ceasefire deal for another 45 days, Israel continues to bomb Lebanon.",
       "date": "Sat, 16 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -281,6 +281,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Some construction work resumes at site of Unit No. 2 of Bushehr plant — Likhachev",
+      "link": "https://tass.com/economy/2131825",
+      "description": "According to Rosatom CEO, the reactor and steam generators for the second power unit is being manufactured as planned",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Rosatom sees return of Russian personnel to Bushehr plant premature — Likhachev",
+      "link": "https://tass.com/economy/2131827",
+      "description": "We have no right to decide on the return of personnel to the site in full until the situation is clarified, Likhachev said",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Money for Yermak's bail collected, but not transferred due to fear of checks — Rada deputy",
+      "link": "https://tass.com/world/2131833",
+      "description": "However, the deputy Yaroslav Zheleznyak notes, on Friday evening, the State Financial Monitoring Service warned banks that the sources of funds for the bail would be checked and sanctions would follow in case of violation of the rules of financial control, this is why the money r...",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Visit of Pakistani interior minister to Iran aimed at agreeing on negotiation paper — TV",
+      "link": "https://tass.com/world/2131831",
+      "description": "The visit of the Pakistani interior minister to Iran is aimed at reaching a specific agreement",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
