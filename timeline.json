@@ -1,18 +1,28 @@
 {
-  "updated": "2026-05-15 23:43 UTC",
+  "updated": "2026-05-16 01:55 UTC",
   "total": 13,
   "events": [
     {
+      "date": "2026-05-16",
+      "dateDisplay": "May 16, 2026",
+      "title": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
       "date": "2026-05-15",
       "dateDisplay": "May 15, 2026",
-      "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
-      "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran has been confiscating property from critics of the regime",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5764842/iran-has-been-confiscating-property-from-critics-of-the-regime",
       "sources": [
-        "BBC",
-        "France 24"
+        "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-05-14",
@@ -63,17 +73,6 @@
       "dateDisplay": "May 10, 2026",
       "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
       "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-09",
-      "dateDisplay": "May 09, 2026",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],

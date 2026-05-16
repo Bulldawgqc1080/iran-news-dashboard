@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15 23:43 UTC",
-  "total": 33,
+  "updated": "2026-05-16 01:55 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Iran has been confiscating property from critics of the regime",
@@ -13,7 +13,7 @@
       "bias": "Low"
     },
     {
-      "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
       "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
       "description": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
       "date": "Fri, 15 May 2026",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "description": "Lebanon&#039;s Ministry of Health said Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
+      "date": "Sat, 16 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "What are World Cup 2026 national team base camps and their locations?",
       "link": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss",
       "description": "Training and accommodation locations for Argentina, Portugal, Spain, Brazil, England, Iran and other World Cup teams.",
@@ -203,16 +213,6 @@
       "bias": "Medium"
     },
     {
-      "title": "India and UAE sign defence pacts, as Iran war tensions simmer",
-      "link": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss",
-      "description": "A deal inked during Modi&#039;s visit to the UAE focuses on maritime security, cyberdefence, and military collaboration.",
-      "date": "Fri, 15 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "India, UAE agree on framework for strategic defence partnership during Modi visit",
       "link": "https://www.dawn.com/news/2000469/india-uae-agree-on-framework-for-strategic-defence-partnership-during-modi-visit",
       "description": "India and the United Arab Emirates (UAE) agreed the framework for a strategic defence partnership on Friday during Prime Minister Narendra Modi’s visit to the Gulf nation, the Indian foreign ministry said, as they seek to deepen ties amid the Iran war. India and the UAE also sign...",
@@ -273,10 +273,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel, Lebanon agree to 45-day extension of ceasefire, says U.S.",
+      "title": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
       "link": "https://www.thehindu.com/news/international/israel-lebanon-agree-to-extension-of-ceasefire-says-us/article70984881.ece",
       "description": "It comes after two “productive” days of talks and will be followed by more negotiations on June 2-3, State Department spokesman Tommy Pigott said",
-      "date": "Fri, 15 May 2026",
+      "date": "Sat, 16 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -313,6 +313,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Review | Shida Bazyar’s The Nights Are Quiet in Tehran explores the long afterlife of the Islamic Revolution",
+      "link": "https://www.thehindu.com/books/books-reviews/the-nights-are-quiet-in-tehran-shida-bazyar-islamic-revolution-international-booker/article70981975.ece",
+      "description": "Through the intimate story of a family in exile, this International Booker-shortlisted novel captures the trauma and cost of revolution",
+      "date": "Fri, 15 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "India can play ‘greater role’ for peace in West Asia, says Iranian Foreign Minister Araghchi",
       "link": "https://www.thehindu.com/news/national/iran-foreign-minister-abbas-araghchi-brics-foreign-ministers-summit-in-new-delhi/article70982792.ece",
       "description": "Abbas Araghchi said Iran is ready to help pass all vessels through the Strait of Hormuz, adding the situation in Strait of Hormuz is very complicated now",
@@ -323,14 +333,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "War worsens Lebanon's economic crisis with job losses, slow business, soaring prices",
-      "link": "https://www.thehindu.com/news/international/war-worsens-lebanons-economic-crisis-with-job-losses-slow-business-soaring-prices/article70981715.ece",
-      "description": "Lebanon suffered some $70 billion in losses in its financial sector, further compounded by about $11 billion in the 2024 war between Israel and Hezbollah, according to World Bank",
+      "title": "Tehran demands that US establish peace in Lebanon — Iranian ambassador to Belarus",
+      "link": "https://tass.com/world/2131713",
+      "description": "Alireza Sanei says that Iran's proposals also include the unfreezing of assets \"that have been frozen for many years in banks of various countries\"",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US, Israel could resume strikes on Iran as early as next week — NYT",
+      "link": "https://tass.com/world/2131707",
+      "description": "According to sources cited by the newspaper, US President Donald Trump is considering more aggressive bombing of Iran and a special forces ground operation to extract enriched uranium from Iranian nuclear facilities",
+      "date": "Sat, 16 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says he declined Chinese leader’s offer to help resolve conflict with Iran",
+      "link": "https://tass.com/world/2131699",
+      "description": "The US leader emphasized: \"I also said we don’t need assistance\"",
       "date": "Fri, 15 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Ceasefire extension opens path to stability — Lebanese delegation",
+      "link": "https://tass.com/world/2131697",
+      "description": "According to the statement, Lebanon would continue to engage constructively in the talks and reaffirms \"its unwavering commitment to reaching an agreement that fully restores Lebanon’s national sovereignty and guarantees the safety and return of all its citizens\"",
+      "date": "Fri, 15 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
