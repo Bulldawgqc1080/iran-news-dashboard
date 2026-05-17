@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17 19:59 UTC",
-  "total": 32,
+  "updated": "2026-05-17 20:52 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "Iranian man barely survives bombing, but wants war to go on",
@@ -123,14 +123,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
-      "link": "https://www.france24.com/en/middle-east-israel-attacks-south-lebanon-day-after-ceasefire-extension",
-      "description": "Israel launched a massive series of airstrikes on southern Lebanon on Saturday, despite an extension of the truce between the two countries.",
+      "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+      "link": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
+      "description": "The US president has pressured Iran to concede to demands including dismantling nuclear programme and missile stocks.",
       "date": "Sun, 17 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
+      "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
+      "description": "At least five people have been killed in Israeli air attacks on several locations in southern and eastern Lebanon.",
+      "date": "Sun, 17 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iranian civilians get defence training",
