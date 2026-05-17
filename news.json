@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17 20:52 UTC",
-  "total": 33,
+  "updated": "2026-05-17 21:43 UTC",
+  "total": 30,
   "stories": [
     {
       "title": "Iranian man barely survives bombing, but wants war to go on",
@@ -108,6 +108,16 @@
       "description": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
       "date": "Tue, 12 May 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Drone strike sparks a fire on the edge of UAE nuclear facility",
+      "link": "https://www.france24.com/en/middle-east/20260517-drone-strike-sparks-a-fire-on-the-edge-of-uae-nuclear-facility",
+      "description": "A drone strike sparked a fire near the United Arab Emirates’s Barakah nuclear power plant on Sunday, authorities said, in an attack Abu Dhabi condemned as a threat to regional security. The strike highlighted the possibility of renewed war amid a fragile ceasefire between the Uni...",
+      "date": "Sun, 17 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -291,46 +301,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Trump warns Iran of harder strikes than before if there is no deal",
-      "link": "https://tass.com/world/2132063",
-      "description": "Earlie on Sunday, the US president urged urged Iran to act faster to move to a potential deal",
-      "date": "Sun, 17 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump calls on Iran to act faster on issue of potential deal",
-      "link": "https://tass.com/world/2132047",
-      "description": "The United States and Israel launched a military operation against Iran on February 28",
-      "date": "Sun, 17 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "UAE reserves right to respond to attack on Barakah NPP’s generator — top diplomat",
-      "link": "https://tass.com/world/2132045",
-      "description": "According to the WAM news agency, the top UAE diplomat \"strongly condemned the terror attack\" when a drone struck a generator outside the Barakah NPP’s inner perimeter causing fire to it",
-      "date": "Sun, 17 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Netanyahu discusses Iran with Trump, calls war cabinet meeting — media",
-      "link": "https://tass.com/world/2132041",
-      "description": "Shortly after this conversation, Netanyahu called a meeting of the Israeli war cabinet, which will be held later in the day",
-      "date": "Sun, 17 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
