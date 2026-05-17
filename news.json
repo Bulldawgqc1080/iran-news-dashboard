@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17 10:16 UTC",
-  "total": 33,
+  "updated": "2026-05-17 11:53 UTC",
+  "total": 32,
   "stories": [
     {
       "title": "Iranian man barely survives bombing, but wants war to go on",
@@ -143,16 +143,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Israel strikes Lebanon despite ceasefire, Hezbollah slams ‘dead end’ talks",
-      "link": "https://www.france24.com/en/middle-east/20260517-middle-east-live-uss-ford-returns-from-iran-war-after-longest-deployment-since-vietnam",
-      "description": "Israeli strikes targeted eastern and southern Lebanon on Sunday, state media reported, despite a fragile ceasefire, as a Hezbollah lawmaker called Lebanon's negotiations with Israel a \"dead end\". Follow our liveblog for all the latest updates.",
-      "date": "Sun, 17 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "FIFA holds positive talks with Iran ahead of World Cup",
       "link": "https://www.france24.com/en/sport/20260516-fifa-says-it-held-positive-talks-with-iran-ahead-of-world-cup",
       "description": "FIFA Secretary General Mattias Grafstrom said Saturday he held a constructive meeting with the president of Iran's FA Mehdi Taj regarding Iran’s participation in the World Cup which is set to take place this summer in the United States, Canada, and Mexico.",
@@ -161,6 +151,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "The strike that changed the geometry of war",
+      "link": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
+      "description": "Israel&#039;s attacks on Doha and Tehran demonstrate a new capability that may make warfare more unpredictable.",
+      "date": "Sun, 17 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
@@ -196,16 +196,6 @@
       "title": "FIFA holds ‘positive’ talks with Iranian football officials on World Cup",
       "link": "https://www.aljazeera.com/sports/2026/5/17/fifa-holds-positive-talks-with-iranian-football-officials-on-world-cup?traffic_source=rss",
       "description": "FIFA offers solutions for each of Iran&#039;s concerns before games in US, Iran&#039;s football chief says.",
-      "date": "Sun, 17 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
-      "description": "Iran to reveal its plan for Strait of Hormuz soon as Israel attacks Lebanon and Gaza, killing and wounding dozens.",
       "date": "Sun, 17 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -273,6 +263,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Drone strike causes fire outside nuclear power plant in Abu Dhabi",
+      "link": "https://www.thehindu.com/news/international/a-drone-strike-causes-fire-outside-a-nuclear-power-plant-in-abu-dhabi/article70990120.ece",
+      "description": "The Abu Dhabi media office said in a statement that the fire broke out in an external electrical generator outside the perimeter of the Barakah Nuclear Power Plant in Al Dhafra",
+      "date": "Sun, 17 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: Fire breaks out after drone strike on UAE nuclear power plant: authorities",
+      "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-airstrikes-ceasefire-hezbollah-strait-of-hormuz/article70989557.ece",
+      "description": "Pakistan’s Interior Minister arrived in Tehran on Saturday “to facilitate” Iran-U.S. peace talks",
+      "date": "Sun, 17 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "‘Calm before storm’: Donald Trump’s warning sparks alarm over possible Iran strikes, signals escalation in West Asia",
       "link": "https://www.thehindu.com/news/international/calm-before-storm-donald-trumps-warning-sparks-alarm-over-possible-iran-strikes-signals-escalation-in-west-asia/article70990035.ece",
       "description": "The U.S. President’s message comes as reports suggest his administration is weighing critical decisions on Iran policy",
@@ -286,16 +296,6 @@
       "title": "Israel strikes Lebanon while Hezbollah calls talks ‘dead end’",
       "link": "https://www.thehindu.com/news/international/israel-strikes-lebanon-while-hezbollah-calls-talks-dead-end/article70989999.ece",
       "description": "The latest strikes came after Envoys from Israel and Lebanon held a third round of negotiations in Washington and agreed to extend the ceasefire",
-      "date": "Sun, 17 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war LIVE: Israel strikes south Lebanon day after ceasefire extension",
-      "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-airstrikes-ceasefire-hezbollah-strait-of-hormuz/article70989557.ece",
-      "description": "Pakistan’s Interior Minister arrived in Tehran on Saturday “to facilitate” Iran-U.S. peace talks",
       "date": "Sun, 17 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -317,16 +317,6 @@
       "link": "https://www.thehindu.com/news/national/at-un-india-flags-concerns-over-targeting-of-vessels-in-strait-of-hormuz/article70989596.ece",
       "description": "Mr. Harish's remarks at a special meeting of the United Nations Economic and Social Council (UNECOSOC) on safeguarding energy and supply flows came days after an India-flagged commercial vessel came under attack off the coast of Oman",
       "date": "Sun, 17 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war highlights: Pakistani minister arrives in Tehran to 'facilitate' U.S.-Iran peace talks: media",
-      "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-ceasefire-hezbollah/article70985891.ece",
-      "description": "\"Mohsin Naqvi arrived today in the Islamic Republic of Iran on an official two-day visit as part of Pakistan's ongoing efforts to facilitate talks and promote regional peace,\" reports said",
-      "date": "Sat, 16 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
