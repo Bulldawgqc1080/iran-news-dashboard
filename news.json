@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17 14:21 UTC",
-  "total": 31,
+  "updated": "2026-05-17 15:49 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Iranian man barely survives bombing, but wants war to go on",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
+      "link": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
+      "description": "Authorities say radiation levels remain normal, operations not affected.",
+      "date": "Sun, 17 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "New wave of Israeli strikes pound Lebanon despite ceasefire",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss",
       "description": "New wave of Israeli strikes pound Lebanon despite ceasefire",
@@ -176,16 +186,6 @@
       "title": "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
       "link": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss",
       "description": "Veteran striker Azmoun was not named in the 30-man squad, which will be trimmed to 26 by June 1.",
-      "date": "Sun, 17 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
-      "description": "Iran says it will soon reveal the plan as Trump warns Tehran it will have a &#039;very bad time&#039; if deal not reached soon.",
       "date": "Sun, 17 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,7 +253,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Fire breaks out after drone strike on UAE nuclear power plant: authorities",
+      "title": "Iran-Israel war LIVE: UAE reports drone strike at nuclear power plant as Iran war deadlock endures",
       "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-airstrikes-ceasefire-hezbollah-strait-of-hormuz/article70989557.ece",
       "description": "Pakistan’s Interior Minister arrived in Tehran on Saturday “to facilitate” Iran-U.S. peace talks",
       "date": "Sun, 17 May 2026",
@@ -311,6 +311,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "China reassures US of not providing material support to Iran — official",
+      "link": "https://tass.com/world/2132023",
+      "description": "According to Greer, the United States is not seeking \"to have joint military options with the Chinese\" in the Strait of Hormuz",
+      "date": "Sun, 17 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "UAE defense ministry investigating drone attack on generator near Barakah NPP",
+      "link": "https://tass.com/world/2132021",
+      "description": "Abu Dhabi authorities reported earlier in the day that a fire broke out following a drone strike on a generator near the Barakah NPP",
+      "date": "Sun, 17 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Death toll from Israeli attacks on Lebanon nears 2,990 — health ministry",
+      "link": "https://tass.com/world/2132019",
+      "description": "9,210 people being injured",
+      "date": "Sun, 17 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israel build two covert bases in Iraq for Iran war — media",
+      "link": "https://tass.com/world/2132015",
+      "description": "According to The New York Times, Israel began preparations to build one of the bases in late 2024",
+      "date": "Sun, 17 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
