@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17 23:46 UTC",
-  "total": 34,
+  "updated": "2026-05-18 02:09 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Iranian man barely survives bombing, but wants war to go on",
@@ -11,6 +11,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "description": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
+      "date": "Sun, 17 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Hezbollah drone strike videos show evolving tactics against Israel",
@@ -103,11 +113,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says Iran ceasefire is on 'massive life support'",
-      "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
-      "date": "Tue, 12 May 2026",
-      "source": "BBC",
+      "title": "Trump warns Iran that 'there won't be anything left of them' without peace deal",
+      "link": "https://www.france24.com/en/middle-east/20260518-trump-warns-iran-peace-deal",
+      "description": "On Sunday, US President Donald Trump warned Iran to move quickly towards a peace deal or face destruction, as Washington’s war with Tehran and its allies continues to stall negotiations, drive up energy prices, and fuel instability across the Middle East.",
+      "date": "Mon, 18 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -123,14 +133,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Betting on war: Mysterious traders make millions on well-timed bets on Iran",
-      "link": "https://www.france24.com/en/betting-on-war-mysterious-traders-make-millions-on-well-timed-bets-on-iran",
-      "description": "Did traders have confidential information on the oil market? The US Congress has demanded answers.",
+      "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
+      "description": "Peace talks remain deadlocked as drones hit sites in Saudi Arabia and the UAE.",
+      "date": "Mon, 18 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+      "description": "Pakistan Interior Minister Mohsin Naqvi met Iranian President Masoud Pezeshkian in Tehran",
       "date": "Sun, 17 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
@@ -166,16 +186,6 @@
       "title": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
       "link": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
       "description": "Authorities say radiation levels remain normal, operations not affected.",
-      "date": "Sun, 17 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "New wave of Israeli strikes pound Lebanon despite ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss",
-      "description": "New wave of Israeli strikes pound Lebanon despite ceasefire",
       "date": "Sun, 17 May 2026",
       "source": "Al Jazeera",
       "region": "me",
