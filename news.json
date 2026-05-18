@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-18 14:25 UTC",
-  "total": 34,
+  "updated": "2026-05-18 17:24 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "U.S. and Israel prepare for potential return to full-scale war with Iran",
@@ -11,6 +11,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+      "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+      "description": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
+      "date": "Mon, 18 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
@@ -103,11 +113,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
-      "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-      "description": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
-      "date": "Sun, 10 May 2026",
-      "source": "BBC",
+      "title": "Iran sets up new Strait of Hormuz managing body amid stalled talks with US",
+      "link": "https://www.france24.com/en/iran-sets-up-new-strait-of-hormuz-managing-body-amid-stalled-talks-with-us",
+      "description": "Iran has formed a new body to manage the Strait of Hormuz. It comes as peace talks with the United States appeared to remain stalled. It's not clear what the new body will do, but earlier this month Iranian media said vessels seeking transit would have to apply to it for a permit...",
+      "date": "Mon, 18 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Cuba dreads possible US invasion amid energy blockade",
+      "link": "https://www.france24.com/en/cuba-dreads-of-possible-us-invasion-amid-energy-blockade",
+      "description": "Cuba is alleging that the US is looking for a pretext to invade it, and accuses the Trump administration of fabricating a case to justify the economic sanctions strangling the communist nation. This comes in the wake of a US media report based on classified intelligence claiming ...",
+      "date": "Mon, 18 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -123,24 +143,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US-Iran truce under strain amid stalled talks and attacks on US allies",
-      "link": "https://www.france24.com/en/video/20260518-us-iran-truce-under-strain-amid-stalled-talks-and-attacks-on-us-allies",
-      "description": "Washington and Tehran have been swapping proposals in an effort to end the conflict which broke out on February 28. The two sides have held a single round of talks so far amid a fragile ceasefire in place since April 8. The truce has come under strain following a likely-Iranian a...",
+      "title": "Pakistan’s mediation faces limits as Iran-US tensions deepen",
+      "link": "https://www.aljazeera.com/news/2026/5/18/pakistans-mediation-faces-limits-as-iran-us-tensions-deepen?traffic_source=rss",
+      "description": "Tehran and Washington exchange proposals via Pakistan as military escalation increasingly shadows diplomatic efforts.",
       "date": "Mon, 18 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Number of executed in Iran doubled amid worldwide increase in death penalties",
-      "link": "https://www.france24.com/en/death-sentences-and-executions-on-the-rise-worldwide",
-      "description": "A record increase in the number of death sentences and executions worldwide in 2025. This is what Amnesty International’s recently published annual report reveals. As usual, China accounts for the highest number of cases, thought to be the world's lead executioner. But the humani...",
+      "title": "Could the Iran war trigger the next debt shock?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss",
+      "description": "Government bonds are under pressure and households could soon feel the impact.",
       "date": "Mon, 18 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Former US negotiator with Iran: Trump falling into Vietnam trap",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/18/former-us-negotiator-with-iran-trump-falling-into-vietnam-trap?traffic_source=rss",
+      "description": "Rob Malley argues that current talks have ‘very small chance of success’.",
+      "date": "Mon, 18 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Renewed Israeli attacks kill 7 in Lebanon as death toll exceeds 3,000",
+      "link": "https://www.aljazeera.com/news/2026/5/18/israeli-attacks-kill-at-least-7-in-lebanon-despite-ceasefire-extension?traffic_source=rss",
+      "description": "Attacks come days after Lebanese and Israeli officials agreed to extend a ceasefire by 45 days.",
+      "date": "Mon, 18 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What is the UAE’s Barakah nuclear plant, nearly hit by a drone?",
+      "link": "https://www.aljazeera.com/news/2026/5/18/what-is-the-uaes-barakah-nuclear-plant-nearly-hit-by-a-drone?traffic_source=rss",
+      "description": "The nuclear facility in Abu Dhabi has the capacity to meet one-quarter of the UAE&#039;s electricity needs.",
+      "date": "Mon, 18 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran eyes challenging stock market reopening after lengthy war closure",
@@ -166,56 +216,6 @@
       "title": "Iran sends response to US proposal to end war via mediator Pakistan",
       "link": "https://www.aljazeera.com/news/2026/5/18/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan-2?traffic_source=rss",
       "description": "Iran demands the release of assets frozen abroad, the lifting of sanctions and control over the Strait of Hormuz.",
-      "date": "Mon, 18 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran plans to offer insurance for Hormuz transit: Will it work?",
-      "link": "https://www.aljazeera.com/news/2026/5/18/iran-plans-to-offer-insurance-for-hormuz-transit-will-it-work?traffic_source=rss",
-      "description": "Iran proposes Bitcoin-based ship insurance for the Strait of Hormuz, a move likely to raise global maritime concerns.",
-      "date": "Mon, 18 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says nuclear enrichment rights cannot be ‘negotiated’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iran-says-nuclear-enrichment-rights-cannot-be-negotiated?traffic_source=rss",
-      "description": "Iran’s nuclear enrichment is a right that ‘already exists’, foreign ministry spokesman Esmaeil Baghaei said.",
-      "date": "Mon, 18 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
-      "description": "The US Treasury Secretary says he’s calling ‘the world’ to join the US in imposing sanctions on Iran.",
-      "date": "Mon, 18 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel built two military bases in Iraq before war on Iran: New York Times",
-      "link": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
-      "description": "Israeli forces had been preparing the makeshift sites in western Iraq since late 2024, the US newspaper reported.",
-      "date": "Mon, 18 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/al-jazeera-reports-from-hormuz-island-as-iran-says-it-controls-the-strait?traffic_source=rss",
-      "description": "Al Jazeera has been given exclusive access to Iran’s Hormuz Island.",
       "date": "Mon, 18 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,6 +283,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. Treasury to extend sanction waiver on Russian seaborne oil, source says",
+      "link": "https://www.thehindu.com/news/international/us-extend-sanction-waiver-on-russian-seaborne-oil/article70995346.ece",
+      "description": "The waiver will last another 30 days and was ‌sought by several poor and vulnerable countries cut off from Gulf oil supplies by the Iran war ‌and the closure of the Strait of Hormuz, ‌the ⁠source said.",
+      "date": "Mon, 18 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran submits new proposal, says U.S. open to sanctions relief",
+      "link": "https://www.thehindu.com/news/international/iran-submits-new-proposal-says-us-open-to-sanctions-relief/article70995124.ece",
+      "description": "On May 17, Iran unveiled a new body, the Persian Gulf Strait Authority (PSGA), to control the Strait; according to the new mechanism, all ships seeking to transit the Strait should get a confirmation message, about “ruled and regulations” from the PGSA.",
+      "date": "Mon, 18 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Watch: Clock is ticking for Iran, says Trump | Above the Fold | 18.05.2026",
+      "link": "https://www.thehindu.com/videos/watch-clock-is-ticking-for-iran-says-trump-above-the-fold-18052026/article70995080.ece",
+      "description": "In today’s episode: Trump’s latest warning raises fears of new U.S. strikes on Iran and escalating tensions in West Asia. We also cover PM Modi’s talks with Nordic leaders, V.D. Satheesan taking oath as Kerala’s new Chief Minister, and more.",
+      "date": "Mon, 18 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "U.S. has shown flexibility on Iran maintaining limited nuclear activities, source says",
       "link": "https://www.thehindu.com/news/international/us-has-shown-flexibility-on-iran-maintaining-limited-nuclear-activities-source-says/article70994597.ece",
       "description": "The ‌source said that ‌on ⁠the issue of ⁠Iran’s frozen assets, however, Washington has so far only agreed ​to free ‌one quarter of those assets according to a phased timetable.",
@@ -313,34 +343,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Revised Iranian proposal to end war shared with U.S., Pakistani source says",
-      "link": "https://www.thehindu.com/news/international/revised-iranian-proposal-to-end-war-shared-with-us-pakistani-source-says/article70993778.ece",
-      "description": "Tehran wants compensation ‌for war damage, an end to the U.S. naval blockade, ​a guarantee of no further attacks, and resumption of Iranian oil sales",
+      "title": "Death toll from Israeli attacks on Lebanon exceeds 3,000 — health ministry",
+      "link": "https://tass.com/world/2132577",
+      "description": "According to the report, 9,273 people were injured",
       "date": "Mon, 18 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran officially announces new body to manage Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-officially-announces-new-body-to-manage-strait-of-hormuz/article70993466.ece",
-      "description": "Iran has largely blocked shipping through the vital strait since the outbreak of war with the United States and Israel on February 28",
+      "title": "US to extend sanctions relief on Russian oil transactions for 30 days — Reuters",
+      "link": "https://tass.com/economy/2132569",
+      "description": "As the agency specified, several countries had previously requested the waiver",
       "date": "Mon, 18 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "China committed to not providing material support to Iran: U.S. trade representative Jamieson Greer",
-      "link": "https://www.thehindu.com/news/international/china-committed-to-not-providing-material-support-to-iran-says-trade-representative-jamieson-greer/article70993183.ece",
-      "description": "U.S. trade representative Jamieson Greer says they “have strategic stability with China” and Donald Trump is not seeking to have joint military operations with the Chinese",
+      "title": "Trump may resume operation against Iran if it makes no concessions — TV",
+      "link": "https://tass.com/world/2132559",
+      "description": "According to the source, the US leader’s patience is \"beginning to run out due to a lack of progress\"",
       "date": "Mon, 18 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran ready to hand over enriched uranium to Russia instead of US — Al Hadath",
+      "link": "https://tass.com/world/2132541",
+      "description": "The required conditions were not specified in the media report",
+      "date": "Mon, 18 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
