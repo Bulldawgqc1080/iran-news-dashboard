@@ -1,16 +1,26 @@
 {
-  "updated": "2026-05-18 06:43 UTC",
-  "total": 32,
+  "updated": "2026-05-18 10:55 UTC",
+  "total": 40,
   "stories": [
     {
-      "title": "Iranian man barely survives bombing, but wants war to go on",
-      "link": "https://www.npr.org/2026/05/16/nx-s1-5820984/iranian-man-barely-survives-bombing-but-wants-war-to-go-on",
-      "description": "An Iranian man who was buried under rubble in US Israel bombing campaign says he wants the war to go on, and destroy the regime.",
-      "date": "Sat, 16 May 2026",
+      "title": "U.S. and Iran signal readiness to fight again as weekend tensions mount",
+      "link": "https://www.npr.org/2026/05/18/nx-s1-5825574/u-s-and-iran-signal-readiness-to-fight-again-as-weekend-tensions-mount",
+      "description": "Events over the weekend highlight the risk of renewed war, as the United States and Israel signal they would be ready to fight Iran again.",
+      "date": "Mon, 18 May 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "description": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
+      "date": "Mon, 18 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
@@ -83,9 +93,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
-      "link": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-      "description": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut.",
+      "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
+      "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
+      "description": "Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them.",
       "date": "Wed, 13 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -93,29 +103,69 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "description": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
-      "date": "Tue, 12 May 2026",
+      "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
+      "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "description": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+      "date": "Sun, 10 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "UK promises jets, drones and warship for Strait of Hormuz defence mission",
-      "link": "https://www.bbc.com/news/articles/c5y909grldqo?at_medium=RSS&at_campaign=rss",
-      "description": "More than 40 nations are involved in the mission, which the Ministry of Defence says will begin when conditions allow.",
-      "date": "Tue, 12 May 2026",
-      "source": "BBC",
+      "title": "Us-Iran truce under strain amid stalled talks and attacks on US allies",
+      "link": "https://www.france24.com/en/video/20260518-us-iran-truce-under-strain-amid-stalled-talks-and-attacks-on-us-allies",
+      "description": "Washington and Tehran have been swapping proposals in an effort to end the conflict which broke out on February 28. The two sides have held a single round of talks so far amid a fragile ceasefire in place since April 8. The truce has come under strain following a likely-Iranian a...",
+      "date": "Mon, 18 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Drone strikes on UAE and Saudi Arabia fuel escalation fears",
+      "title": "Death sentences and executions on the rise worldwide",
+      "link": "https://www.france24.com/en/death-sentences-and-executions-on-the-rise-worldwide",
+      "description": "A record increase in the number of death sentences and executions worldwide in 2025. This is what Amnesty International’s recently published annual report reveals. As usual, China accounts for the highest number of cases, thought to be the world's lead executioner. But the humani...",
+      "date": "Mon, 18 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UAE nuclear power plant targeted in likely-Iranian attack",
+      "link": "https://www.france24.com/en/uae-nuclear-power-plant-targeted-in-likely-iranian-attack",
+      "description": "The UAE says a drone strike triggered a fire near a nuclear power plant in Abu Dhabi. There were no reported casualties or radiological release from the strike, whose origin is currently unknown, but all eyes are on Iran. In the wake of the attack, US president Donald Trump is re...",
+      "date": "Mon, 18 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "War against Iran is \"growing more unpopular by the day\" in the US",
+      "link": "https://www.france24.com/en/war-against-iran-is-growing-more-unpopular-by-the-day-in-the-us",
+      "description": "A drone strike close to a UAE nuclear plant raised concerns of an escalation in the conflict. Amid stalled talks, Trump is expected to meet national security advisers to discuss options for military action on May 19 and warned the 'clock is ticking' for Iran. But domestically, th...",
+      "date": "Mon, 18 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "G7 finance ministers meet in Paris as headwinds mount for global economy",
+      "link": "https://www.france24.com/en/tv-shows/business/20260518-g7-finance-ministers-meet-in-paris-as-headwinds-mount-for-global-economy",
+      "description": "Finance ministers and central bankers from the world's top economies are gathering in Paris as the US war on Iran threatens to undermine the global financial system. Meanwhile, inflation tied to the war sparks a rout on bond markets, and the US's busiest commuter rail system shut...",
+      "date": "Mon, 18 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: US-Iran talks continue despite impasse, Tehran says",
       "link": "https://www.france24.com/en/middle-east/20260518-middle-east-war-live-drone-strikes-on-uae-and-saudi-arabia-fuel-escalation-fears",
-      "description": "A drone strike caused a fire at a nuclear power plant in the United Arab Emirates, officials there said on Sunday, while Saudi Arabia reported intercepting three drones, as US President Donald Trump warned that Iran must act \"fast\" after efforts to end the US-Israeli war with Ira...",
+      "description": "Iran said Monday it had responded to a new US proposal aimed at ending the war, adding that talks between Tehran and Washington via mediator Pakistan are ongoing. This comes after drone strikes were reported on US allies in the Gulf on Sunday, including Saudi Arabia and the Unite...",
       "date": "Mon, 18 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -133,14 +183,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Drone strike sparks a fire on the edge of UAE nuclear facility",
-      "link": "https://www.france24.com/en/middle-east/20260517-drone-strike-sparks-a-fire-on-the-edge-of-uae-nuclear-facility",
-      "description": "A drone strike sparked a fire near the United Arab Emirates’s Barakah nuclear power plant on Sunday, authorities said, in an attack Abu Dhabi condemned as a threat to regional security. The strike highlighted the possibility of renewed war amid a fragile ceasefire between the Uni...",
-      "date": "Sun, 17 May 2026",
+      "title": "'Staggering' Iran toll drives up global executions to 40-year high, Amnesty says",
+      "link": "https://www.france24.com/en/asia-pacific/20260518-staggering-iran-toll-drives-up-global-executions-to-40-year-high-amnesty-says",
+      "description": "The number of worldwide executions jumped to their highest level since 1981 in 2025, pushed in part by a \"staggering\" increase in Iran's use of the death penalty, according to Amnesty International on Monday. The UK-based rights group said it had confirmed the executions of at le...",
+      "date": "Mon, 18 May 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
+      "description": "The US Treasury Secretary says he’s calling ‘the world’ to join the US in imposing sanctions on Iran.",
+      "date": "Mon, 18 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel built two military bases in Iraq before war on Iran: New York Times",
+      "link": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
+      "description": "Israeli forces had been preparing the makeshift sites in western Iraq since late 2024, the US newspaper reported.",
+      "date": "Mon, 18 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/al-jazeera-reports-from-hormuz-island-as-iran-says-it-controls-the-strait?traffic_source=rss",
+      "description": "Al Jazeera has been given exclusive access to Iran’s Hormuz Island.",
+      "date": "Mon, 18 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war day 80: Trump issues warning; Tehran ‘ready’ to confront attacks",
+      "link": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
+      "description": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended &#039;ceasefire&#039;.",
+      "date": "Mon, 18 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
@@ -153,54 +243,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
-      "description": "Peace talks remain deadlocked as drones hit sites in Saudi Arabia and the UAE.",
+      "title": "Pakistan condemns drone attack on UAE nuclear power plant",
+      "link": "https://www.dawn.com/news/2001136/pakistan-condemns-drone-attack-on-uae-nuclear-power-plant",
+      "description": "The Foreign Office (FO) on Monday strongly condemned the drone attack on the United Arab Emirates’ nuclear power plant, saying that “such reckless actions carry potentially catastrophic and irreversible consequences for human life, the environment and regional as well as global p...",
       "date": "Mon, 18 May 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
-      "description": "Pakistan Interior Minister Mohsin Naqvi met Iranian President Masoud Pezeshkian in Tehran",
-      "date": "Sun, 17 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-      "link": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
-      "description": "The US president has pressured Iran to concede to demands including dismantling nuclear programme and missile stocks.",
-      "date": "Sun, 17 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
-      "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
-      "description": "At least five people have been killed in Israeli air attacks on several locations in southern and eastern Lebanon.",
-      "date": "Sun, 17 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iranian civilians get defence training",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
-      "description": "Defence training sessions on light weapons were held for Iranian men and women in mosques in several cities.",
-      "date": "Sun, 17 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Israel operated two ‘covert bases’ in Iraqi desert: NYT",
@@ -253,11 +303,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan continues to push for diplomatic solution to Mideast war as Naqvi meets Iranian leaders in Tehran",
-      "link": "https://www.dawn.com/news/2001058/pakistan-continues-to-push-for-diplomatic-solution-to-mideast-war-as-naqvi-meets-iranian-leaders-in-tehran",
-      "description": "https://www.dawn.com/news/2001029",
+      "title": "China committed to not providing material support to Iran: U.S. trade representative Jamieson Greer",
+      "link": "https://www.thehindu.com/news/international/china-committed-to-not-providing-material-support-to-iran-says-trade-representative-jamieson-greer/article70993183.ece",
+      "description": "U.S. trade representative Jamieson Greer says they “have strategic stability with China” and Donald Trump is not seeking to have joint military operations with the Chinese",
       "date": "Mon, 18 May 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-Israel war LIVE: Iran officially announces new body to manage Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-may-18-2026/article70992340.ece",
+      "description": "UAE reports drone strike at nuclear power plant; Saudi Arabia intercepts three drones from Iraqi airspace",
+      "date": "Mon, 18 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran officially announces new body to manage Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-officially-announces-new-body-to-manage-strait-of-hormuz/article70993466.ece",
+      "description": "Iran has largely blocked shipping through the vital strait since the outbreak of war with the United States and Israel on February 28",
+      "date": "Mon, 18 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -266,16 +336,6 @@
       "title": "Deeply concerned: India on drone strike near UAE's Barakah nuclear plant",
       "link": "https://www.thehindu.com/news/national/deeply-concerned-india-on-drone-strike-near-uaes-barakah-nuclear-plant/article70992537.ece",
       "description": "\"India is deeply concerned at the attack targeting the Barakah nuclear facility in the UAE,\" says the Ministry of External Affairs (MEA)",
-      "date": "Mon, 18 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war LIVE: 'Staggering' Iran toll drives up global executions: Amnesty",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-may-18-2026/article70992340.ece",
-      "description": "UAE reports drone strike at nuclear power plant; Saudi Arabia intercepts three drones from Iraqi airspace",
       "date": "Mon, 18 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,24 +363,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S., China, and the search for stability",
-      "link": "https://www.thehindu.com/news/international/us-china-and-the-search-for-stability/article70990240.ece",
-      "description": "Why did Trump visit China amidst its war with Iran? What were the key issues discussed between Trump and Xi? What were the major achievements of the meeting? What does this visit portend for their bilateral relations?",
-      "date": "Sun, 17 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US ammunition stocks running low due to conflict with Iran — experts",
+      "link": "https://tass.com/world/2132297",
+      "description": "Retired Major General John Ferrari did not specify which types of ammunition were running low, but he called the current situation in US arsenals \"a strategic red flag\"",
+      "date": "Mon, 18 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran chief negotiator Ghalibaf appointed to oversee ties with China: media",
-      "link": "https://www.thehindu.com/news/international/iran-chief-negotiator-ghalibaf-appointed-to-oversee-ties-with-china-media/article70991197.ece",
-      "description": "Ghalibaf was appointed to the position at the proposal of Iranian President Masoud Pezeshkian and with the approval of supreme leader Ayatollah Mojtaba Khamenei, according to Tasnim",
-      "date": "Sun, 17 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Press review: US, Israel preparing new strikes against Iran as Ukraine mum on Russia talks",
+      "link": "https://tass.com/pressreview/2132123",
+      "description": "Top stories from the Russian press on Monday, May 18th",
+      "date": "Mon, 18 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranian national football team to take part in 2026 FIFA World Cup — Foreign Ministry",
+      "link": "https://tass.com/world/2132201",
+      "description": "According to the statement, the decision was made based on the evaluation of the Iranian Ministry of Sports and Youth and the Iranian Football Federation",
+      "date": "Mon, 18 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranian military ready to unveil 'new surprises' to the enemy — Foreign Ministry spokesman",
+      "link": "https://tass.com/world/2132199",
+      "description": "Esmail Baghaei said that Tehran is fully prepared for any contingency",
+      "date": "Mon, 18 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
