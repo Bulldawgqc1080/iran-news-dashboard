@@ -1,18 +1,28 @@
 {
-  "updated": "2026-05-20 23:03 UTC",
-  "total": 12,
+  "updated": "2026-05-21 02:06 UTC",
+  "total": 13,
   "events": [
+    {
+      "date": "2026-05-21",
+      "dateDisplay": "May 21, 2026",
+      "title": "Iran war live: Tehran says no surrender to US, diplomacy \u2018wiser\u2019 than war",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-05-20",
       "dateDisplay": "May 20, 2026",
       "title": "Lebanon says 21 killed, including children, in Israeli air strikes",
       "link": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
         "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-05-18",
