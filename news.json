@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-21 20:29 UTC",
-  "total": 28,
+  "updated": "2026-05-21 22:10 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "After the sirens: Lebanon's first responders swing between duty and grief",
@@ -98,6 +98,16 @@
       "description": "The BBC's Tom Bateman asked President Trump about China's willingness to pressure Iran to open the Strait of Hormuz.",
       "date": "Fri, 15 May 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "France annouonces €710 million in new energy aid",
+      "link": "https://www.france24.com/en/tv-shows/business/20260521-france-annouonces-%E2%82%AC710-million-in-new-energy-aid",
+      "description": "French prime minister Sébastien Lecornu announced new support measures to cushion the impact of the energy crisis caused by the war in Iran. The €710 million package includes extending existing support schemes for sectors such as fishing, farming and construction, as well as a ne...",
+      "date": "Thu, 21 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -223,6 +233,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump returns to more definitive tone on controlling Iran's uranium",
+      "link": "https://www.thehindu.com/news/international/trump-returns-to-more-definitive-tone-on-controlling-irans-uranium/article71008004.ece",
+      "description": "Last week, Donald Trump suggested that he might be OK with some 970 pounds of highly enriched uranium believed to be buried beneath Iranian nuclear facilities that were targeted by U.S. military strikes",
+      "date": "Thu, 21 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran-Israel war updates: Iran's Hormuz authority claims control of waters south of UAE port",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-may-21-2026-live-updates/article71004744.ece",
       "description": "Iran warned on Wednesday, May 20, that war in West Asia would spread far beyond the region if the United States and Israel resumed their attacks after President Donald Trump threatened to strike again unless a deal is reached.",
@@ -273,14 +293,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war highlights: Iran examining U.S. proposal, as Trump says in 'final stages' of talks",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-strait-of-hormuz-updates-us-putin-trump-may-20-2026/article71000732.ece",
-      "description": "\"We must strengthen our preparations for an effective and forceful response to any potential attacks,\" said Mr. Ghalibaf in an audio message on his website, adding that \"Iran will never give in to intimidation, under any circumstances.\"",
+      "title": "Palestine withdraws its diplomat’s candidacy for post of UNGA Vice President",
+      "link": "https://tass.com/world/2134761",
+      "description": "The spokeswoman for the office of the 80th session’s president, La Neice Collins, noted that the UN General Assembly’s presidential office has received a nomination for this post from Lebanon",
       "date": "Thu, 21 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israeli attacks result in 3,089 fatalities in Lebanon — Health Ministry",
+      "link": "https://tass.com/world/2134727",
+      "description": "According to the report, 9,397 people were injured",
+      "date": "Thu, 21 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says not trying to intimidate Cuba by sending aircraft carrier to Caribbean Sea",
+      "link": "https://tass.com/world/2134723",
+      "description": "On March 5, the US president announced Washington's intention to develop a further course of action regarding Cuba after the conclusion of military operations against Iran",
+      "date": "Thu, 21 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Washington does not want Iran to charge shipping fees in Strait of Hormuz — Trump",
+      "link": "https://tass.com/world/2134713",
+      "description": "\"It’s an international waterway,\" the US president said",
+      "date": "Thu, 21 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
