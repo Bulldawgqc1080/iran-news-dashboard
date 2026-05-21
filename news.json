@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-21 13:55 UTC",
+  "updated": "2026-05-21 16:33 UTC",
   "total": 31,
   "stories": [
+    {
+      "title": "After the sirens: Lebanon's first responders swing between duty and grief",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief",
+      "description": "Nearly 3,000 people have been killed and nearly 1 million have been displaced the war in southern Lebanon began in March. Nearly 400 have been killed since a ceasefire began in April.",
+      "date": "Thu, 21 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Lebanon says 21 killed, including children, in Israeli air strikes",
       "link": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
@@ -93,6 +103,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war squeezes Europe’s economy as growth slumps, prices surge",
+      "link": "https://www.france24.com/en/europe/20260521-iran-war-squeezes-europe-economy-growth-slumps-prices-surge-energy-shock",
+      "description": "Europe’s economy is slowing sharply as the Iran war drives up energy costs, deepening pressure on households and challenging policy makers. Fresh data for May showed euro zone business activity contracted at its fastest pace in more than two years while inflation pressures intens...",
+      "date": "Thu, 21 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US-Iran diplomacy picks up: What’s the latest?",
+      "link": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss",
+      "description": "Iranian media reported that the Pakistani interior minister is in Iran to help the US and Iran reach a peace deal.",
+      "date": "Thu, 21 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+      "link": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss",
+      "description": "Economics of Hormuz closure are skewed towards Iran, so why won&#039;t the vessels just pay Tehran and sail away?",
+      "date": "Thu, 21 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran World Cup squad members apply for US, Canada visas in Turkiye",
       "link": "https://www.aljazeera.com/sports/2026/5/21/iran-world-cup-squad-members-apply-for-us-canada-visas-in-turkiye?traffic_source=rss",
       "description": "A number of players submitted visa applications in person at the US embassy in Ankara ahead of their training camp.",
@@ -113,48 +153,8 @@
       "bias": "Medium"
     },
     {
-      "title": "Dropped Sardar Azmoun asserts his love for Iran, backs World Cup squad",
-      "link": "https://www.aljazeera.com/sports/2026/5/21/dropped-sardar-azmoun-asserts-his-love-for-iran-backs-world-cup-squad?traffic_source=rss",
-      "description": "Forward wishes &#039;success and pride&#039; to the Iranian team after being excluded from the squad for the 2026 tournament.",
-      "date": "Thu, 21 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What options do the US and Iran have left to bring war to an end?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss",
-      "description": "What options do the US and Iran have left to bring war to an end?",
-      "date": "Thu, 21 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran reviews US proposal to end war as Pakistan steps up mediation efforts",
-      "link": "https://www.aljazeera.com/news/2026/5/21/iran-reviews-us-proposal-to-end-war-as-pakistan-steps-up-mediation-efforts?traffic_source=rss",
-      "description": "Pakistan military chief Asim Munir to travel to Tehran for talks, according to Iranian media reports.",
-      "date": "Thu, 21 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "The economic shock of the Iran war will hit the world in four waves",
-      "link": "https://www.aljazeera.com/opinions/2026/5/21/the-crises-caused-by-the-iran-war-will-hit-the-world-in-four-waves?traffic_source=rss",
-      "description": "The impact of the conflict will not stop at energy price hikes. It will spread to various sectors and last years.",
-      "date": "Thu, 21 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel deports all foreign activists from Gaza flotilla",
-      "link": "https://www.dawn.com/news/2002030/israel-deports-all-foreign-activists-from-gaza-flotilla",
+      "title": "Israel deports all foreign Gaza flotilla activists",
+      "link": "https://www.dawn.com/news/2002030/israel-deports-all-foreign-gaza-flotilla-activists",
       "description": "Israel said on Thursday it had deported all the foreign activists seized by Israeli forces from a Gaza-bound flotilla, following global outcry over their treatment in custody. Israel’s foreign ministry spokesman, Oren Marmorstein, said that “all foreign activists from the PR flot...",
       "date": "Thu, 21 May 2026",
       "source": "Dawn",
@@ -213,7 +213,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Pakistan Army Chief Munir due in Iran as Trump says talks on 'borderline'",
+      "title": "Iran-Israel war LIVE: Iran's Hormuz authority claims control of waters south of UAE port",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-may-21-2026-live-updates/article71004744.ece",
       "description": "Iran warned on Wednesday, May 20, that war in West Asia would spread far beyond the region if the United States and Israel resumed their attacks after President Donald Trump threatened to strike again unless a deal is reached.",
       "date": "Thu, 21 May 2026",
@@ -273,9 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Eurozone public debt to exceed 90% of GDP in 2026, reach euro crisis level in 2027",
-      "link": "https://tass.com/economy/2134549",
-      "description": "The European Commission attributed these figures to rising energy prices caused by the war around Iran, but made no mention of any connection between these numbers and military financing for Ukraine",
+      "title": "Pakistani officials to visit Tehran soon to help broker settlement — top US diplomat",
+      "link": "https://tass.com/world/2134701",
+      "description": "The US president’s preference is to do a good deal, Marco Rubio emphasized",
       "date": "Thu, 21 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -283,9 +283,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Russia’s Paralympics chief says unfriendly countries could move to exclude Russia again",
-      "link": "https://tass.com/sports/2134469",
-      "description": "The International Paralympic Committee lifted sanctions from RPC in 2025",
+      "title": "Iran taking steps to strengthen its defense capabilities, modernize weapons — president",
+      "link": "https://tass.com/world/2134697",
+      "description": "The government provides comprehensive support to the armed forces, Masoud Pezeshkian said",
       "date": "Thu, 21 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -293,9 +293,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Russia ready to help Iran, US reach solution on enriched uranium — MFA",
-      "link": "https://tass.com/politics/2134431",
-      "description": "Maria Zakharova reiterated Russia’s principled position on Iran’s inalienable right to develop a peaceful nuclear program in accordance with the Treaty on the Non-Proliferation of Nuclear Weapons",
+      "title": "Putin, Xi discussed Iranian conflict settlement during tea-drink ceremony — Kremlin",
+      "link": "https://tass.com/politics/2134689",
+      "description": "The Russian president’s visit to China was timed to coincide with the 25th anniversary of \"The Treaty of Good-Neighborliness and Friendly Cooperation\"",
       "date": "Thu, 21 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -303,9 +303,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran asks Pakistan for more time to study US conditions — TV",
-      "link": "https://tass.com/world/2134401",
-      "description": "According to the source, Iran's \"enriched uranium is the main obstacle\" in the indirect talks between Tehran and Washington",
+      "title": "Iranian army ready to respond to any aggression, commander says",
+      "link": "https://tass.com/world/2134617",
+      "description": "Amir Hatami reported that Iranian military forces improve coordination between military branches and enhancing the combat capabilities",
       "date": "Thu, 21 May 2026",
       "source": "TASS",
       "region": "ru",
