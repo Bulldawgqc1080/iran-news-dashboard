@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-22 20:27 UTC",
-  "total": 31,
+  "updated": "2026-05-22 21:56 UTC",
+  "total": 36,
   "stories": [
     {
-      "title": "What life is like in Cuba amid the oil blockade and possible U.S. military action",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5831275/what-life-is-like-in-cuba-amid-the-oil-blockade-and-possible-u-s-military-action",
-      "description": "Raúl Castro's indictment is one of several recent developments raising questions about the possibility of U.S. military action as the U.S. steps up pressure for regime change in Cuba.",
+      "title": "Hunger grows in Gaza as food aid is cut due to higher costs caused by war in Iran",
+      "link": "https://www.npr.org/2026/05/22/nx-s1-5827011/hunger-grows-in-gaza-as-food-aid-is-cut-due-to-higher-costs-caused-by-war-in-iran",
+      "description": "The U.S.-Israeli war against Iran is driving up the cost of food, leading to funding shortfalls and higher expenses for critical food aid in Gaza.",
       "date": "Fri, 22 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -118,6 +118,16 @@
       "description": "The BBC's Tom Bateman asked President Trump about China's willingness to pressure Iran to open the Strait of Hormuz.",
       "date": "Fri, 15 May 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Rubio urges more support from NATO allies to help end Iran war",
+      "link": "https://www.france24.com/en/middle-east/20260522-rubio-urges-more-support-from-nato-allies-help-end-iran-war-mediation-talks-begin",
+      "description": "US Secretary of State Marco Rubio urged more support for US efforts to reopen the Strait of Hormuz, relaying Trump's \"disappointment\" at NATO allies and European partners for failing to step up their efforts to end the Iran war. Rubio made the comments ahead of the arrival of Pak...",
+      "date": "Fri, 22 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -253,6 +263,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Pakistan military chief Asim Munir arrives in Tehran in push to end Iran war",
+      "link": "https://www.thehindu.com/news/international/pakistan-military-chief-asim-munir-arrives-in-tehran-in-push-to-end-iran-war/article71012397.ece",
+      "description": "Iran’s Foreign Ministry spokesman Esmaeil Baqaei, however, said the visit did not necessarily mean “we have reached a turning point or a decisive situation”",
+      "date": "Fri, 22 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran-Israel war LIVE: Pakistan Army Chief Munir reaches Tehran to expedite efforts to end war",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-donald-trump-us-iran-peace-talks-live-updates-may-22-2026/article71009008.ece",
       "description": "U.S. says ‘slight progress’ in Iran talks; EU moves to sanction Iran over Hormuz blockade",
@@ -303,14 +323,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. Navy official says Taiwan arms sales on ‘pause’ over Iran war; Taiwan claims no information from U.S.",
-      "link": "https://www.thehindu.com/news/international/us-navy-official-says-taiwan-arms-sales-on-pause-over-iran-war-taiwan-claims-no-information-from-us/article71009471.ece",
-      "description": "The U.S. is bound ⁠by law to provide Taiwan with the means to defend itself. China has repeatedly called ‌for the U.S. to stop arms sales",
+      "title": "Tehran, Washington not yet close to agreement to end war — Iranian diplomat",
+      "link": "https://tass.com/world/2135317",
+      "description": "Esmaeil Baghaei emphasized that \"the main focus of the negotiations is on ending the war\"",
       "date": "Fri, 22 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Pakistani army commander arrives in Tehran to mediate between Iran, US",
+      "link": "https://tass.com/world/2135311",
+      "description": "According to the report, Pakistan’s efforts are aimed at resolving existing differences",
+      "date": "Fri, 22 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US extends sanctions against Belarusian leadership for another year",
+      "link": "https://tass.com/world/2135297",
+      "description": "The sanctions were imposed in 2006 and expanded on August 9, 2021",
+      "date": "Fri, 22 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "West should consider launching military mission in Strait of Hormuz — Rubio",
+      "link": "https://tass.com/world/2135179",
+      "description": "The US Secretary of State is not sure that this would necessarily be a NATO mission",
+      "date": "Fri, 22 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
