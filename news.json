@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-23 22:41 UTC",
-  "total": 40,
+  "updated": "2026-05-23 23:46 UTC",
+  "total": 36,
   "stories": [
+    {
+      "title": "Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated'",
+      "link": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
+      "description": "President Trump announced the unfinalized deal on social media after talks with Israel and other allies. It aims to end the war and includes two-month negotiations on Iran's nuclear program.",
+      "date": "Sat, 23 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Severe global food crisis could come within the year, says UN agency",
       "link": "https://www.npr.org/2026/05/23/nx-s1-5829924/severe-global-food-crisis-could-come-within-the-year-says-un-agency",
@@ -107,16 +117,6 @@
       "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
       "description": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
       "date": "Wed, 20 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
-      "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
-      "description": "Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them.",
-      "date": "Wed, 13 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -303,9 +303,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
-      "link": "https://www.thehindu.com/news/international/conference-at-un-to-review-nuclear-non-proliferation-treaty-fails-to-reach-agreement/article71015602.ece",
-      "description": "A four-week conference at the United Nations to review the treaty to prevent the spread of nuclear weapons has ended without an agreement, as the United States and Iran spar over Iran’s nuclear program",
+      "title": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
+      "link": "https://www.thehindu.com/news/international/trump-says-agreement-with-iran-largely-negotiated-includes-opening-strait/article71015849.ece",
+      "description": "Iranian Foreign Ministry spokesman Esmaeil Baghaei noted what he called “a trend towards rapprochement,” but said, “it does not necessarily mean that we and the United States will reach an agreement on the important issues”",
       "date": "Sat, 23 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -313,9 +313,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war updates: Iran chief negotiator vows 'crushing' response if U.S. returns to war",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-donald-trump-us-iran-peace-talks-live-updates-may-23-2026/article71013439.ece",
-      "description": "Trump ‘seriously considering’ launching new strikes against Iran: report",
+      "title": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
+      "link": "https://www.thehindu.com/news/international/conference-at-un-to-review-nuclear-non-proliferation-treaty-fails-to-reach-agreement/article71015602.ece",
+      "description": "A four-week conference at the United Nations to review the treaty to prevent the spread of nuclear weapons has ended without an agreement, as the United States and Iran spar over Iran’s nuclear program",
       "date": "Sat, 23 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -361,46 +361,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Death toll in Israel’s attack on Lebanon rises to 3,123 — health ministry",
-      "link": "https://tass.com/world/2135651",
-      "description": "12 people were killed and 109 wounded in the past day",
-      "date": "Sat, 23 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "One-page US-Iran agreement may be published on May 24 — Axios",
-      "link": "https://tass.com/world/2135649",
-      "description": "Correspondent Barak Ravid said, citing his sources, that the mediators want to initiate negotiations on a detailed agreement a few days later",
-      "date": "Sat, 23 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US president says draft future agreement with Iran mostly negotiated",
-      "link": "https://tass.com/world/2135645",
-      "description": "According to Donald Trump, the draft deal is subject to finalization between the US, Iran, and the various other countries on the list",
-      "date": "Sat, 23 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US president to discuss Iran with Persian Gulf leaders on Saturday — TV channel",
-      "link": "https://tass.com/world/2135631",
-      "description": "According to CBS the consultations will take place via videoconference",
-      "date": "Sat, 23 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
