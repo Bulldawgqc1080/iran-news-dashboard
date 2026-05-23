@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-23 20:00 UTC",
-  "total": 34,
+  "updated": "2026-05-23 21:43 UTC",
+  "total": 40,
   "stories": [
+    {
+      "title": "Severe global food crisis could come within the year, says UN agency",
+      "link": "https://www.npr.org/2026/05/23/nx-s1-5829924/severe-global-food-crisis-could-come-within-the-year-says-un-agency",
+      "description": "Maximo Torero, Chief Economist at The Food and Agriculture Organization of the United Nations, warns that the war in Iran is choking the global supply of fertilizer and a food crisis could follow within a year.",
+      "date": "Sat, 23 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Video shows Israeli 'double-tap strike' killed medics and a toddler in Lebanon",
+      "link": "https://www.npr.org/2026/05/23/nx-s1-5832504/video-shows-israeli-double-tap-strike-killed-medics-and-a-toddler-in-lebanon",
+      "description": "In Lebanon, an Israeli 'double tap' killed three medics and four others including a two-year-old girl. A neighbor's video shows what happened.",
+      "date": "Sat, 23 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "What will Trump do next with Iran?",
       "link": "https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision",
@@ -133,7 +153,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Live: 'Fjord' by Romania's Cristian Mungiu wins Palme d'Or at Cannes Film Festival",
+      "title": "'Fjord' by Romania's Cristian Mungiu wins Palme d'Or at Cannes Film Festival",
       "link": "https://www.france24.com/en/culture/20260523-live-cannes-film-festival-closing-ceremony-palme-d-or-announcement",
       "description": "The Norway-set drama \"Fjord\" by Romanian director Cristian Mungiu was awarded the Palme d'Or at the closing ceremony of the 79th Cannes Film Festival as critics hailed a strong field of contenders directed by auteurs from Russia, Iran, Japan and beyond.",
       "date": "Sat, 23 May 2026",
@@ -161,6 +181,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says Iran agreement ‘largely negotiated’, still awaiting finalisation",
+      "link": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
+      "description": "Trump says deal would include re-opening of Strait of Hormuz after call with Middle East leaders.",
+      "date": "Sat, 23 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran move World Cup base from US to Mexico with FIFA approval",
@@ -206,16 +236,6 @@
       "title": "US Secretary of State kicks off India visit, invites Modi to White House",
       "link": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss",
       "description": "US-Israel war with Iran among issues looming large as Rubio expected to seek to mend in ties with New Delhi.",
-      "date": "Sat, 23 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israeli air strike pounds southern Lebanon leaving many injured",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
-      "description": "An Israeli air strike has hit the Al-Baqbouq area north of Tyre in southern Lebanon.",
       "date": "Sat, 23 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -341,6 +361,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US president says draft future agreement with Iran mostly negotiated",
+      "link": "https://tass.com/world/2135645",
+      "description": "According to Donald Trump, the draft deal is subject to finalization between the US, Iran, and the various other countries on the list",
+      "date": "Sat, 23 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US president to discuss Iran with Persian Gulf leaders on Saturday — TV channel",
+      "link": "https://tass.com/world/2135631",
+      "description": "According to CBS the consultations will take place via videoconference",
+      "date": "Sat, 23 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russian envoy praises potential Iran-US truce extension as ‘chance to avoid escalation’",
+      "link": "https://tass.com/politics/2135629",
+      "description": "The world needs peace to avoid a catastrophic, irreversible collapse, Kirill Dmitriev stated",
+      "date": "Sat, 23 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran proposes suspending uranium enrichment above 3.6% for ten years — TV",
+      "link": "https://tass.com/world/2135595",
+      "description": "According to its information, \"Iran has proposed suspending uranium enrichment above 3.6% for ten years\"",
+      "date": "Sat, 23 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
