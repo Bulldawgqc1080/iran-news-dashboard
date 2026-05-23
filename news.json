@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23 21:43 UTC",
+  "updated": "2026-05-23 22:41 UTC",
   "total": 40,
   "stories": [
     {
@@ -27,16 +27,6 @@
       "link": "https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision",
       "description": "Three months since the start of its conflict with Iran, the Trump administration is oscillating between strike threats and diplomatic overtures. Neither path has yielded a clear resolution.",
       "date": "Sat, 23 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Hunger grows in Gaza as food aid is cut due to higher costs caused by war in Iran",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5827011/hunger-grows-in-gaza-as-food-aid-is-cut-due-to-higher-costs-caused-by-war-in-iran",
-      "description": "The U.S.-Israeli war against Iran is driving up the cost of food, leading to funding shortfalls and higher expenses for critical food aid in Gaza.",
-      "date": "Fri, 22 May 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -183,9 +173,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says Iran agreement ‘largely negotiated’, still awaiting finalisation",
+      "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
+      "description": "Funerals were held for paramedics killed by two Israeli air strikes in southern Lebanon on Friday.",
+      "date": "Sat, 23 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
       "link": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
-      "description": "Trump says deal would include re-opening of Strait of Hormuz after call with Middle East leaders.",
+      "description": "US president says deal would include reopening Strait of Hormuz after call with Middle East leaders.",
       "date": "Sat, 23 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -363,6 +363,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Death toll in Israel’s attack on Lebanon rises to 3,123 — health ministry",
+      "link": "https://tass.com/world/2135651",
+      "description": "12 people were killed and 109 wounded in the past day",
+      "date": "Sat, 23 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "One-page US-Iran agreement may be published on May 24 — Axios",
+      "link": "https://tass.com/world/2135649",
+      "description": "Correspondent Barak Ravid said, citing his sources, that the mediators want to initiate negotiations on a detailed agreement a few days later",
+      "date": "Sat, 23 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US president says draft future agreement with Iran mostly negotiated",
       "link": "https://tass.com/world/2135645",
       "description": "According to Donald Trump, the draft deal is subject to finalization between the US, Iran, and the various other countries on the list",
@@ -376,26 +396,6 @@
       "title": "US president to discuss Iran with Persian Gulf leaders on Saturday — TV channel",
       "link": "https://tass.com/world/2135631",
       "description": "According to CBS the consultations will take place via videoconference",
-      "date": "Sat, 23 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russian envoy praises potential Iran-US truce extension as ‘chance to avoid escalation’",
-      "link": "https://tass.com/politics/2135629",
-      "description": "The world needs peace to avoid a catastrophic, irreversible collapse, Kirill Dmitriev stated",
-      "date": "Sat, 23 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran proposes suspending uranium enrichment above 3.6% for ten years — TV",
-      "link": "https://tass.com/world/2135595",
-      "description": "According to its information, \"Iran has proposed suspending uranium enrichment above 3.6% for ten years\"",
       "date": "Sat, 23 May 2026",
       "source": "TASS",
       "region": "ru",
