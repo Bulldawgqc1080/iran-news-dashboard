@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24 02:05 UTC",
-  "total": 40,
+  "updated": "2026-05-24 06:26 UTC",
+  "total": 42,
   "stories": [
     {
       "title": "Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated'",
@@ -41,6 +41,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "description": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
+      "date": "Sat, 23 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran steps up claim to control Strait of Hormuz",
@@ -133,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: Pakistan offers to host next Iran-US peace talks 'very soon'",
+      "link": "https://www.france24.com/en/middle-east/20260524-middle-east-war-live-pakistan-offers-to-host-next-iran-us-peace-talks-very-soon",
+      "description": "Pakistan Prime Minister Shehbaz Sharif said his country hopes to host the next round of Iran-US peace talks, positioning Islamabad at the centre of mediation efforts as President Donald Trump said a largely negotiated agreement could soon reopen the strategically vital Strait of ...",
+      "date": "Sun, 24 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "'Significant movement here in Washington': US and Iran report progress towards deal on ending war",
       "link": "https://www.france24.com/en/significant-movement-here-in-washington-us-and-iran-report-progress-towards-deal-on-ending-war",
       "description": "FRANCE 24 correspondent Fraser Jackson speaks from Washington, DC on the reported progress in the talks on ending the US-Israeli war on Iran.",
@@ -163,14 +183,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran, US and Pakistan report progress in talks on ending war",
-      "link": "https://www.france24.com/en/middle-east/20260523-iran-us-and-pakistan-report-progress-in-talks-on-ending-war",
-      "description": "Washington, Tehran and mediator Islamabad all said on Saturday that progress had been made on ending the US-Israeli war on Iran, with a Pakistani security official saying that a memorandum of understanding was being \"fine-tuned\".",
-      "date": "Sat, 23 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
+      "description": "US president makes announcement after mediator Pakistan holds &#039;highly productive&#039; talks in Tehran.",
+      "date": "Sun, 24 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian sources lay out Iran-US deal details",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
+      "description": "Al Jazeera’s Ali Hashem reveals details of Iran&#039;s position on the potential peace agreement with the US.",
+      "date": "Sun, 24 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
@@ -233,14 +263,44 @@
       "bias": "Medium"
     },
     {
-      "title": "US Secretary of State kicks off India visit, invites Modi to White House",
-      "link": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss",
-      "description": "US-Israel war with Iran among issues looming large as Rubio expected to seek to mend in ties with New Delhi.",
-      "date": "Sat, 23 May 2026",
-      "source": "Al Jazeera",
+      "title": "Gunman killed by US Secret Service after opening fire near White House",
+      "link": "https://www.dawn.com/news/2002729/gunman-killed-by-us-secret-service-after-opening-fire-near-white-house",
+      "description": "A gunman opened fire near the White House on Saturday evening, with US Secret Service agents killing the assailant in a shoot-out during which a bystander was also struck, authorities said. President Donald Trump was in the White House at the time — on a day when he was working t...",
+      "date": "Sun, 24 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Arms sales to Taiwan paused due to Iran war, says US Navy chief",
+      "link": "https://www.dawn.com/news/2002668/arms-sales-to-taiwan-paused-due-to-iran-war-says-us-navy-chief",
+      "description": "WASHINGTON/TAIPEI: US arms sales to Taiwan take years to process and are unrelated to the war with Iran, a source familiar with the matter said, after a senior US official suggested there was a pause due to the need to have enough arms for the conflict. Taiwan, which China views ...",
+      "date": "Sun, 24 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli strike kills five police officers, child in Gaza despite truce",
+      "link": "https://www.dawn.com/news/2002646/israeli-strike-kills-five-police-officers-child-in-gaza-despite-truce",
+      "description": "• Police say site in Al-Tuam hit by two missiles; Hamas calls attack a crime intended to ‘spread chaos’• France bans Israeli minister Itamar Ben-Gvir from entry for mocking flotilla activists GAZA CITY: An Israeli strike killed five police officers and a child in the northern Gaz...",
+      "date": "Sun, 24 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US-Iran deal in sight as CDF wraps up trip",
+      "link": "https://www.dawn.com/news/2002652/us-iran-deal-in-sight-as-cdf-wraps-up-trip",
+      "description": "• ISPR says ‘intensive negotiations’ resulted in ‘encouraging progress’ towards agreement• Trump claims MoU on peace deal ‘largely negotiated’, will only sign when ‘we get everything we want’• Tehran says accord in ‘finalisation’ stage• Ghalibaf asserts Iran has rebuilt military ...",
+      "date": "Sun, 24 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Congressional report details losses of 42 US aircraft in Iran campaign",
@@ -263,49 +323,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "France bans Israeli security minister Ben-Gvir from country",
-      "link": "https://www.dawn.com/news/2002539/france-bans-israeli-security-minister-ben-gvir-from-country",
-      "description": "France announced on Saturday it had banned Israeli National Security Minister Itamar Ben Gvir from entry for a video mocking bound activists seized by Israeli soldiers on a Gaza-bound aid flotilla. “From today, Itamar Ben Gvir is banned from entering French territory” after “his ...",
-      "date": "Sat, 23 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Haj pilgrim numbers surpass 2025 arrivals despite Middle East war",
-      "link": "https://www.dawn.com/news/2002531/haj-pilgrim-numbers-surpass-2025-arrivals-despite-middle-east-war",
-      "description": "Over 1.5 million pilgrims have reached Saudi Arabia from outside the kingdom for the upcoming Haj, according to a Saudi official, exceeding the number of international visitors last year despite the war in the Middle East. The conflict triggered by the US and Israeli strikes on I...",
-      "date": "Sat, 23 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "PM Shehbaz lands in Hangzhou, kicking off 4-day China visit",
-      "link": "https://www.dawn.com/news/2002474/pm-shehbaz-lands-in-hangzhou-kicking-off-4-day-china-visit",
-      "description": "Prime Minister Shehbaz Sharif on Saturday landed in Hangzhou, kicking off his four-day official visit to China. Zhejiang province’s Vice Governor Xu Wenguang received PM Shehbaz at Hangzhou Xiaoshan International Airport upon his arrival, the Prime Minister’s Office (PMO) said. C...",
-      "date": "Sat, 23 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Dar to advance diplomatic push for US-Iran de-escalation at UNSC moot",
-      "link": "https://www.dawn.com/news/2002462/dar-to-advance-diplomatic-push-for-us-iran-de-escalation-at-unsc-moot",
-      "description": "https://www.dawn.com/news/2002440",
-      "date": "Sat, 23 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Iran-Israel war LIVE: Pakistan hopes to host new round of Iran-U.S. talks 'very soon'",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-24-may-2026-trump-peace-deal-pakistan/article71016796.ece",
       "description": "U.S. President Donald Trump said on May 23, that a deal with Iran had been “largely negotiated,” with the proposal including opening the crucial Strait of Hormuz, though the agreement was “subject to finalisation.”",
+      "date": "Sun, 24 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan PM hails Trump's 'extraordinary efforts to pursue peace' in West Asia",
+      "link": "https://www.thehindu.com/news/international/pakistan-pm-hails-trumps-extraordinary-efforts-to-pursue-peace-in-west-asia/article71017012.ece",
+      "description": "U.S. President Trump said in a statement that a ‌memorandum of understanding on a peace deal has been “largely negotiated” with Iran",
+      "date": "Sun, 24 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Positive stride' taking place towards peace deal between Iran and the U.S., says Iran's envoy to Pakistan",
+      "link": "https://www.thehindu.com/news/international/positive-stride-taking-place-towards-peace-deal-between-iran-and-the-us-says-irans-envoy-to-pakistan/article71016972.ece",
+      "description": "Pakistan’s Interior Minister, Mohsin Naqvi, after returning from Tehran, “congratulated me on the achievements of the negotiations with the officials of my country,” says Reza Amiri Moghadam",
       "date": "Sun, 24 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -343,59 +383,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan Army Chief Munir and Iran FM Araghchi hold talks in Tehran to end West Asia conflict",
-      "link": "https://www.thehindu.com/news/international/pakistan-army-chief-munir-and-iran-fm-araghchi-hold-talks-in-tehran-to-end-west-asia-conflict/article71014242.ece",
-      "description": "Pakistan’s Interior Minister Mohsin Naqvi believed to be close to Mr. Munir — was already in Tehran and engaging in talks with top Iranian officials when the Field Marshal arrived, according to the Army",
-      "date": "Sat, 23 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US, Iran to continue talks on nuclear program — Axios",
+      "link": "https://tass.com/world/2135733",
+      "description": "The news portal emphasized that it is unclear whether a deal will lead to a lasting peace agreement that also addresses the nuclear demands of the US president",
+      "date": "Sun, 24 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "U.S. arms sales to Taiwan unrelated to Iran war, source says",
-      "link": "https://www.thehindu.com/news/international/us-arms-sales-to-taiwan-unrelated-to-iran-war-source-says/article71014259.ece",
-      "description": "Taiwan's ⁠government said on Friday it had not received any information about U.S. arms sales delays",
-      "date": "Sat, 23 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Draft US-Iran memorandum stipulates 60-day ceasefire extension — Axios",
+      "link": "https://tass.com/world/2135731",
+      "description": "During the truce, navigation via the Strait of Hormuz will resume, and Iran will be able to sell its oil freely",
+      "date": "Sun, 24 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israeli warplanes attack Lebanon’s southern districts, 17 killed — rescuers",
+      "link": "https://tass.com/world/2135707",
+      "description": "According to the country's emergency response center, 25 more were wounded",
+      "date": "Sun, 24 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Death toll in Israel’s attack on Lebanon rises to 3,123 — health ministry",
       "link": "https://tass.com/world/2135651",
       "description": "12 people were killed and 109 wounded in the past day",
-      "date": "Sat, 23 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "One-page US-Iran agreement may be published on May 24 — Axios",
-      "link": "https://tass.com/world/2135649",
-      "description": "Correspondent Barak Ravid said, citing his sources, that the mediators want to initiate negotiations on a detailed agreement a few days later",
-      "date": "Sat, 23 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US president says draft future agreement with Iran mostly negotiated",
-      "link": "https://tass.com/world/2135645",
-      "description": "According to Donald Trump, the draft deal is subject to finalization between the US, Iran, and the various other countries on the list",
-      "date": "Sat, 23 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US president to discuss Iran with Persian Gulf leaders on Saturday — TV channel",
-      "link": "https://tass.com/world/2135631",
-      "description": "According to CBS the consultations will take place via videoconference",
       "date": "Sat, 23 May 2026",
       "source": "TASS",
       "region": "ru",
