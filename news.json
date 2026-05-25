@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-25 11:41 UTC",
-  "total": 43,
+  "updated": "2026-05-25 14:31 UTC",
+  "total": 48,
   "stories": [
+    {
+      "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
+      "link": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
+      "description": "President Trump says that a deal with Iran to end the war is largely negotiated. And, Pope Leo XIV weighed in today on the rise of AI during his first encyclical.",
+      "date": "Mon, 25 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S.-Iran peace deal emerging, while war threats still loom",
       "link": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
@@ -153,6 +163,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Nuclear issue remains key obstacle in Iran-US deal",
+      "link": "https://www.france24.com/en/nuclear-issue-remains-key-obstacle-in-iran-us-deal",
+      "description": "Simon Mabon, Professor of International Politics and Middle East Studies at Lancaster University, joins FRANCE 24 to discuss the latest developments in the Middle East. While Iran and the United States are still exploring a possible deal to end the conflict, both sides are now do...",
+      "date": "Mon, 25 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East: Deep mistrust clouds US-Iran negotiations",
+      "link": "https://www.france24.com/en/middle-east-deep-mistrust-clouds-us-iran-negotiations",
+      "description": "Rouzbeh Parsi, Adjunct Senior Lecturer at Lund University, is FRANCE 24’s guest to discuss the evolving situation in the Middle East. Iran and the United States are both seeking a possible diplomatic way out of the conflict, but uncertainty remains high amid conflicting signals f...",
+      "date": "Mon, 25 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Uncertainty persists over US-Iran draft agreement",
+      "link": "https://www.france24.com/en/uncertainty-persists-over-us-iran-draft-agreement",
+      "description": "Iran and the United States say progress has been made in talks over a 14-point memorandum of understanding, but both sides insist a final deal is not imminent. While US officials, including Secretary of State Marco Rubio, describe the process as a “work in progress,” Tehran has a...",
+      "date": "Mon, 25 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Ebola outbreak raises fears of wider spread in Central Africa",
       "link": "https://www.france24.com/en/ebola-outbreak-raises-fears-of-wider-spread-in-central-africa",
       "description": "An Ebola outbreak in the Democratic Republic of Congo and Uganda is raising fears of wider spread, with over 900 suspected cases and more than 200 deaths reported in the DRC. Health workers warn the toll is likely higher due to limited testing, while conflict, mistrust, and lack ...",
@@ -203,14 +243,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Iran says agreement with US ‘not imminent’ despite progress",
-      "link": "https://www.france24.com/en/middle-east/20260525-middle-east-war-live-rubio-says-iran-deal-still-possible-monday",
-      "description": "Iran's foreign ministry spokesman Esmaeil Baqaei warned on Monday that an agreement with the US to end the war was “not imminent”, despite Tehran and Washington making progress \"on a large portion of the issues\" in their exchanges. US Secretary of State Marco Rubio earlier said t...",
+      "title": "Could Israel sabotage US-Iran deal?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss",
+      "description": "As the US and Iran move closer to a peace deal, Israel vows to keep striking what it calls regional and nuclear threats.",
       "date": "Mon, 25 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran says deal with US ‘not imminent’ despite progress",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss",
+      "description": "Iran’s FM spokesman Baghaei says a ‘large portion’ of issues with the US have been resolved, but a deal is not imminent.",
+      "date": "Mon, 25 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
+      "link": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss",
+      "description": "China and India are among those ramping up imports of Brazilian crude amid Strait of Hormuz disruptions.",
+      "date": "Mon, 25 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "The world urgently needs a US-Iran deal now",
@@ -253,19 +313,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Rubio says US will find ‘another way’ if Iran talks fail",
+      "title": "Trump says any deal with Iran will be ‘great and meaningful’",
       "link": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail?traffic_source=rss",
-      "description": "US secretary of state says a &#039;pretty solid&#039; deal is on the table in terms of opening up the Strait of Hormuz.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Singapore’s economy beats expectations as gov’t warns of Iran war fallout",
-      "link": "https://www.aljazeera.com/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout?traffic_source=rss",
-      "description": "GDP grows 6 percent year-on-year in first quarter as AI boom outweighs rising energy costs.",
+      "description": "An agreement with Iran will be &#039;great and meaningful&#039; or there will be &#039;no deal&#039;, US president says.",
       "date": "Mon, 25 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -333,6 +383,46 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel-Iran war LIVE: Israel military issues new evacuation warning for 10 Lebanon villages",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-25-may-2026-trump-peace-deal-pakistan/article71019686.ece",
+      "description": "Trump says either 'great and meaningful' deal or 'no deal' with Iran",
+      "date": "Mon, 25 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump demands widespread sign-up to Abraham Accords as part of Iran peace deal",
+      "link": "https://www.thehindu.com/news/international/trump-demands-widespread-sign-up-to-abraham-accords-as-part-of-iran-peace-deal/article71021478.ece",
+      "description": "“After all the work done by the United States to try and pull this very complex puzzle together, it should be mandatory that all of these Countries, at a minimum, simultaneously, sign onto the Abraham Accords”",
+      "date": "Mon, 25 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Chinese President Xi Jinping meets Pakistan PM Sharif as Iran war looms",
+      "link": "https://www.thehindu.com/news/international/chinese-president-xi-jinping-meets-pakistan-pm-sharif-as-iran-war-looms/article71020543.ece",
+      "description": "The Xi-Sharif meeting in Beijing comes amid renewed diplomatic efforts involving Pakistan and China to prevent further escalation in West Asia",
+      "date": "Mon, 25 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran says progress made with U.S., but agreement not imminent",
+      "link": "https://www.thehindu.com/news/international/iran-says-progress-made-with-us-but-agreement-not-imminent/article71020752.ece",
+      "description": "Diplomatic efforts between Iran and the United States appear to be advancing, but disputes over sanctions, maritime control and Iran’s nuclear programme continue to complicate negotiations",
+      "date": "Mon, 25 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran says charging fees for 'navigational services' in Hormuz",
       "link": "https://www.thehindu.com/news/international/iran-says-charging-fees-for-navigational-services-in-hormuz/article71020873.ece",
       "description": "Iran’s remarks come amis growing international concern over Iran’s tightening control over maritime transit through the strategically vital Strait of Hormuz",
@@ -353,49 +443,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Trump says either 'great and meaningful' deal or 'no deal' with Iran",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-25-may-2026-trump-peace-deal-pakistan/article71019686.ece",
-      "description": "U.S. Secretary of State Marco Rubio said that a deal to end the war with Iran could materialise “today”, adding that Israel had the right to defend itself against attack",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran says progress made with U.S., but agreement not imminent",
-      "link": "https://www.thehindu.com/news/international/iran-says-progress-made-with-us-but-agreement-not-imminent/article71020752.ece",
-      "description": "Diplomatic efforts between Iran and the United States appear to be advancing, but disputes over sanctions, maritime control and Iran’s nuclear programme continue to complicate negotiations",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Lebanese President says Israeli withdrawal is ‘non-negotiable’",
-      "link": "https://www.thehindu.com/news/international/lebanese-president-says-israeli-withdrawal-is-non-negotiable/article71020635.ece",
-      "description": "As ceasefire talks continue, Lebanon’s leadership has rejected any long-term Israeli military presence in the south, calling full withdrawal as non negotiable",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Chinese President Xi Jinping meets Pakistan PM Sharif as Iran war looms",
-      "link": "https://www.thehindu.com/news/international/chinese-president-xi-jinping-meets-pakistan-pm-sharif-as-iran-war-looms/article71020543.ece",
-      "description": "The Xi-Sharif meeting in Beijing comes amid renewed diplomatic efforts involving Pakistan and China to prevent further escalation in West Asia",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Gulf nations seek security guarantees in US-Iran talks — newspaper",
-      "link": "https://tass.com/world/2136055",
-      "description": "The Wall Street Journal reported that the missile program had not yet been discussed in talks",
+      "title": "FIFA needs to provide safety guarantees for Iran at 2026 FIFA World Cup — minister",
+      "link": "https://tass.com/world/2136199",
+      "description": "The Iranian football federation earlier voiced approval that the national team’s training base was relocated from the United States to Mexico",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -403,9 +453,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Press review: EU must recognize Ukraine crimes as US-Iran deal unlikely end conflict",
-      "link": "https://tass.com/pressreview/2135931",
-      "description": "Top stories from the Russian press on Monday, May 25th",
+      "title": "Tehran says talks with US must involve mutual concessions",
+      "link": "https://tass.com/world/2136183",
+      "description": "\"Iran will not bow down to the logic of force and threats,\" Parliament’s National Security and Foreign Policy Committee Spokesman Ebrahim Rezaei said",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -413,9 +463,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran works to upgrade military equipment, maintain military capabilities",
-      "link": "https://tass.com/world/2135983",
-      "description": "Commander of the Khatam al-Anbiya Central Headquarters of the Iranian Armed Forces Ali Abdollahi stressed that Iran was determined to continue the fight against its enemies to the end and defeat them",
+      "title": "Pakistani army chief says Iran, US close to striking deal — Chinese foreign ministry",
+      "link": "https://tass.com/world/2136181",
+      "description": "Pakistani Army Chief Field Marshal Asim Munir pledged that Islamabad is sparing no effort to get a deal done between Tehran and Washington",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -423,9 +473,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran sees no need to react to Trump’s social media threats — MFA",
-      "link": "https://tass.com/world/2135975",
-      "description": "Iranian Foreign Ministry Spokesperson Esmaeil Baghaei emphasized that Tehran was focused on promoting and protecting its national interests",
+      "title": "US president says new deal with Iran to be 'exact opposite' of JCPOA",
+      "link": "https://tass.com/world/2136161",
+      "description": "The deal with Iran will either be a great and meaningful one, or there will be no deal, Donald Trump stated",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
