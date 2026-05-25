@@ -1,27 +1,7 @@
 {
-  "updated": "2026-05-25 20:18 UTC",
-  "total": 45,
+  "updated": "2026-05-25 22:00 UTC",
+  "total": 44,
   "stories": [
-    {
-      "title": "Why Israel is unhappy with the latest U.S. negotiations with Iran",
-      "link": "https://www.npr.org/2026/05/25/nx-s1-5833142/why-israel-is-unhappy-with-the-latest-u-s-negotiations-with-iran",
-      "description": "Israeli officials have called the emerging U.S. deal with Iran a \"bad\" deal, over concerns that it does not force Iran to give up its nuclear program at the start.",
-      "date": "Mon, 25 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Residents barred from Lebanon amid Israeli war use satellite images to check on homes",
-      "link": "https://www.npr.org/2026/05/25/nx-s1-5823405/residents-barred-from-lebanon-amid-israeli-war-use-satellite-images-to-check-on-homes",
-      "description": "Residents of a village in southern Lebanon have resorted to buying satellite images to find out whether their homes have been destroyed by Israel.",
-      "date": "Mon, 25 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
     {
       "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
       "link": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
@@ -73,6 +53,16 @@
       "bias": "Low"
     },
     {
+      "title": "Has the U.S. lost the war in Iran?",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5830110/has-the-u-s-lost-the-war-in-iran",
+      "description": "As both the US and Iran signal a peace deal is near, Robert Kagan, a Senior Fellow at the Brookings Institution, says the U.S. will likely come out weaker than before the war.",
+      "date": "Sun, 24 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
       "title": "Deal with US not imminent, Iran says",
       "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
       "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
@@ -86,6 +76,16 @@
       "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
       "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "date": "Mon, 25 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
+      "link": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+      "description": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
       "date": "Mon, 25 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -163,11 +163,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-      "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-      "description": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
-      "date": "Sun, 17 May 2026",
-      "source": "BBC",
+      "title": "Israel pounds Lebanon with fresh air strikes, vows to 'crush' Hezbollah",
+      "link": "https://www.france24.com/en/middle-east/20260525-israel-steps-up-lebanon-strikes-as-netanyahu-escalates-offensive",
+      "description": "Israel intensified air strikes across southern and eastern Lebanon on Monday after Prime Minister Benjamin Netanyahu vowed to “crush” Hezbollah, deepening fears of a wider regional conflict. The escalation comes despite an April ceasefire and as another round of US-Iran talks tak...",
+      "date": "Mon, 25 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -203,24 +203,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Possible Iran-US deal: What we know about the key issues on both sides",
-      "link": "https://www.france24.com/en/middle-east/20260525-possible-iran-us-deal-what-we-know",
-      "description": "The United States and Iran have downplayed prospects for a rapid deal to end the Middle East war, despite signs of progress in talks. Key sticking points remain over Iran’s nuclear programme, control of the Strait of Hormuz, sanctions relief and a possible ceasefire in Lebanon, w...",
+      "title": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
+      "link": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss",
+      "description": "Prime Minister Netanyahu&#039;s order comes despite &#039;ceasefire&#039; agreed with Lebanon last month, which was recently extended.",
       "date": "Mon, 25 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Ebola outbreak raises fears of wider spread in Central Africa",
-      "link": "https://www.france24.com/en/ebola-outbreak-raises-fears-of-wider-spread-in-central-africa",
-      "description": "An Ebola outbreak in the Democratic Republic of Congo and Uganda is raising fears of wider spread, with over 900 suspected cases and more than 200 deaths reported in the DRC. Health workers warn the toll is likely higher due to limited testing, while conflict, mistrust, and lack ...",
+      "title": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-pays-tribute-to-us-troops-killed-in-war-on-iran-on-memorial-day?traffic_source=rss",
+      "description": "US President Donald Trump marked Memorial Day at Arlington National Cemetery, paying tribute to US troops killed.",
       "date": "Mon, 25 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal",
@@ -276,16 +276,6 @@
       "title": "Mexico steps in to host Iran’s World Cup team after US refusal",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/mexico-steps-in-to-host-irans-world-cup-team-after-us-refusal?traffic_source=rss",
       "description": "Mexico says it has agreed to host Iran’s World Cup team after the US declined to allow the squad to stay.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump links Iran negotiations to expansion of Abraham Accords",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss",
-      "description": "US President Donald Trump links Iran negotiations to expansion of Abraham Accords.",
       "date": "Mon, 25 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -413,6 +403,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel attacks over 70 Hezbollah facilities in Lebanon during day",
+      "link": "https://tass.com/world/2136379",
+      "description": "The Israel Defense Forces struck approximately 10 command centers, weapons storage facilities, and additional infrastructure sites used by Hezbollah to advance attacks against IDF soldiers and Israeli civilians",
+      "date": "Mon, 25 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Iran not yielding to US president’s pressure on deal terms — newspaper",
       "link": "https://tass.com/world/2136361",
       "description": "On May 23, the US president stated that the draft of the future agreement with Iran has been largely agreed upon",
@@ -436,16 +436,6 @@
       "title": "Over 30 ships pass through Strait of Hormuz in past day — IRGC Navy",
       "link": "https://tass.com/world/2136357",
       "description": "There were five supertankers among them, the naval forces of the Islamic Revolutionary Guard Corps said",
-      "date": "Mon, 25 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli warplanes attack Palestinian refugee camp in southern Lebanon",
-      "link": "https://tass.com/world/2136355",
-      "description": "The areas of Burj el-Shamali, Al-Maashouq, and Al Madina as Sinaiya were also shelled, resulting in casualties, the NNA news agency reported",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
