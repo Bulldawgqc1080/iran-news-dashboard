@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-25 18:23 UTC",
+  "updated": "2026-05-25 20:18 UTC",
   "total": 45,
   "stories": [
+    {
+      "title": "Why Israel is unhappy with the latest U.S. negotiations with Iran",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5833142/why-israel-is-unhappy-with-the-latest-u-s-negotiations-with-iran",
+      "description": "Israeli officials have called the emerging U.S. deal with Iran a \"bad\" deal, over concerns that it does not force Iran to give up its nuclear program at the start.",
+      "date": "Mon, 25 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Residents barred from Lebanon amid Israeli war use satellite images to check on homes",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5823405/residents-barred-from-lebanon-amid-israeli-war-use-satellite-images-to-check-on-homes",
+      "description": "Residents of a village in southern Lebanon have resorted to buying satellite images to find out whether their homes have been destroyed by Israel.",
+      "date": "Mon, 25 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
       "link": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
@@ -53,19 +73,19 @@
       "bias": "Low"
     },
     {
-      "title": "Has the U.S. lost the war in Iran?",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5830110/has-the-u-s-lost-the-war-in-iran",
-      "description": "As both the US and Iran signal a peace deal is near, Robert Kagan, a Senior Fellow at the Brookings Institution, says the U.S. will likely come out weaker than before the war.",
-      "date": "Sun, 24 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "Deal with US not imminent, Iran says",
       "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
       "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+      "date": "Mon, 25 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "description": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
       "date": "Mon, 25 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -153,16 +173,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Hopefully we can pull it off' - Rubio on Iran deal",
-      "link": "https://www.bbc.com/news/videos/clyppw9gqzwo?at_medium=RSS&at_campaign=rss",
-      "description": "The deal reportedly includes a 60-day ceasefire extension and the reopening of the Strait of Hormuz.",
-      "date": "Mon, 25 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Nuclear issue remains key obstacle in Iran-US deal",
       "link": "https://www.france24.com/en/nuclear-issue-remains-key-obstacle-in-iran-us-deal",
       "description": "Simon Mabon, Professor of International Politics and Middle East Studies at Lancaster University, joins FRANCE 24 to discuss the latest developments in the Middle East. While Iran and the United States are still exploring a possible deal to end the conflict, both sides are now do...",
@@ -213,7 +223,37 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Mexico says it will host Iranian team during 2026 FIFA World Cup",
+      "title": "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal",
+      "link": "https://www.aljazeera.com/news/2026/5/25/trump-dangles-normalisation-amid-pro-israel-criticism-of-possible-iran-deal?traffic_source=rss",
+      "description": "US president says he is &#039;mandatorily requesting&#039; that regional countries establish formal relations with Israel.",
+      "date": "Mon, 25 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanon marks Liberation Day under Israeli bombardment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/lebanon-marks-liberation-day-under-israeli-bombardment?traffic_source=rss",
+      "description": "People in Lebanon have gathered to observe Liberation Day.",
+      "date": "Mon, 25 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "In Lebanon, everything and nothing has changed since 2000",
+      "link": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss",
+      "description": "A local war has gone regional, drawing in Iran and the US, but its root cause is unchanged: Palestine.",
+      "date": "Mon, 25 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
       "link": "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss",
       "description": "Mexican President Claudia Sheinbaum says United States did not want to host Iranian football team during tournament.",
       "date": "Mon, 25 May 2026",
@@ -246,46 +286,6 @@
       "title": "Trump links Iran negotiations to expansion of Abraham Accords",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss",
       "description": "US President Donald Trump links Iran negotiations to expansion of Abraham Accords.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Could Israel sabotage US-Iran deal?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss",
-      "description": "As the US and Iran move closer to a peace deal, Israel vows to keep striking what it calls regional and nuclear threats.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says deal with US ‘not imminent’ despite progress",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss",
-      "description": "Iran’s FM spokesman Baghaei says a ‘large portion’ of issues with the US have been resolved, but a deal is not imminent.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
-      "link": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss",
-      "description": "China and India are among those ramping up imports of Brazilian crude amid Strait of Hormuz disruptions.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "The world urgently needs a US-Iran deal now",
-      "link": "https://www.aljazeera.com/opinions/2026/5/25/the-world-urgently-needs-a-us-iran-deal-now?traffic_source=rss",
-      "description": "Without a deal between Washington and Tehran, the fallout from Strait of Hormuz closure could deepen global crises.",
       "date": "Mon, 25 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -413,9 +413,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says signing Abraham Accords should be part of peace deal with Iran",
-      "link": "https://tass.com/world/2136243",
-      "description": "The US president said it should start with the immediate signing by Saudi Arabia and Qatar",
+      "title": "Iran not yielding to US president’s pressure on deal terms — newspaper",
+      "link": "https://tass.com/world/2136361",
+      "description": "On May 23, the US president stated that the draft of the future agreement with Iran has been largely agreed upon",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -423,9 +423,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Progress in talks on US-Iran deal slows down — WSJ",
-      "link": "https://tass.com/world/2136233",
-      "description": "According to the newspaper, the US side is seeking clear nuclear guarantees from Tehran in advance, while Iran insists that Washingon be more precise regarding the sanctions relief process",
+      "title": "Iranian president orders to restore internet access — agency",
+      "link": "https://tass.com/world/2136359",
+      "description": "According to the international internet monitoring service NetBlocks, internet has been practically inaccessible in Iran for more than 86 days",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -433,9 +433,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Netanyahu admits he cannot influence Trump’s policy on Iran — news agency",
-      "link": "https://tass.com/world/2136223",
-      "description": "The Israeli prime minister held three phone calls with Donald Trump last week and commented on a possible deal only after the third conversation on Sunday, Reuters recalled",
+      "title": "Over 30 ships pass through Strait of Hormuz in past day — IRGC Navy",
+      "link": "https://tass.com/world/2136357",
+      "description": "There were five supertankers among them, the naval forces of the Islamic Revolutionary Guard Corps said",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -443,9 +443,9 @@
       "bias": "Very High"
     },
     {
-      "title": "FIFA needs to provide safety guarantees for Iran at 2026 FIFA World Cup — minister",
-      "link": "https://tass.com/world/2136199",
-      "description": "The Iranian football federation earlier voiced approval that the national team’s training base was relocated from the United States to Mexico",
+      "title": "Israeli warplanes attack Palestinian refugee camp in southern Lebanon",
+      "link": "https://tass.com/world/2136355",
+      "description": "The areas of Burj el-Shamali, Al-Maashouq, and Al Madina as Sinaiya were also shelled, resulting in casualties, the NNA news agency reported",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
