@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26 02:04 UTC",
+  "updated": "2026-05-26 06:36 UTC",
   "total": 44,
   "stories": [
     {
@@ -53,9 +53,9 @@
       "bias": "Low"
     },
     {
-      "title": "US military says it has launched new strikes on southern Iran",
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
       "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-      "description": "The strikes on Iranian missile launch sites and boats were taken in \"self-defence\", US Central Command says.",
+      "description": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators arrive in Qatar for talks to end the war.",
       "date": "Tue, 26 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -153,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran national football team to stay in Mexico during 2026 World Cup",
+      "link": "https://www.france24.com/en/video/20260526-iran-national-football-team-to-stay-in-mexico-during-2026-world-cup",
+      "description": "Iran's national football team will base itself in Mexico during the 2026 FIFA World Cup and travel into the United States only on matchdays, after Mexican President Claudia Sheinbaum said Washington did not want the team staying in the country throughout the tournament.",
+      "date": "Tue, 26 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East live: US carries out 'self-defense' strikes on Iran",
       "link": "https://www.france24.com/en/middle-east/20260526-middle-east-live-us-carries-out-self-defense-strikes-on-iran",
       "description": "",
@@ -163,9 +173,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: US carries out 'self-defence' strikes on Iran",
+      "title": "Middle East live: US targets Iranian vessels, missile sites in new strikes",
       "link": "https://www.france24.com/en/middle-east/20260526-middle-east-live-us-carries-out-self-defense-strikes-on-iran",
-      "description": "US forces have struck missile sites and boats allegedly laying naval mines in southern Iran on Monday, according to United States Central Command. The move threatens to further destabilise a fragile ceasefire as Iranian negotiators arrived in Doha for high-stakes talks aimed at e...",
+      "description": "US forces struck missile sites and vessels allegedly laying naval mines in southern Iran late on Monday, the United States Central Command said. The strikes, which the Pentagon said were taken \"in self-defence\", threaten to further destabilise a fragile ceasefire as Iranian negot...",
       "date": "Tue, 26 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -173,9 +183,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran national football team to stay in Mexico during 2026 World Cup",
+      "title": "Mexico to host Iran's national World Cup team after US refusal",
       "link": "https://www.france24.com/en/sport/20260525-iran-national-football-team-to-stay-in-mexico-during-2026-world-cup",
-      "description": "Iran's national football team will base itself in Mexico during the 2026 FIFA World Cup and travel into the United States only on matchdays, after Mexican President Claudia Sheinbaum said Washington did not want the team staying in the country throughout the tournament.",
+      "description": "Iran's national football team will base itself in Mexico during the 2026 FIFA World Cup and travel into the United States only on matchdays after Mexican President Claudia Sheinbaum said Washington did not want the team staying in the country throughout the tournament.",
       "date": "Mon, 25 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -193,14 +203,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Nuclear issue remains key obstacle in Iran-US deal",
-      "link": "https://www.france24.com/en/nuclear-issue-remains-key-obstacle-in-iran-us-deal",
-      "description": "Simon Mabon, Professor of International Politics and Middle East Studies at Lancaster University, joins FRANCE 24 to discuss the latest developments in the Middle East. While Iran and the United States are still exploring a possible deal to end the conflict, both sides are now do...",
-      "date": "Mon, 25 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "US strikes southern Iran in ‘self defence’ targeting Iranian mine boats",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_reported-us-strikes-southern-iran-in-self-defence-250526?traffic_source=rss",
+      "description": "The US military says it has launched new strikes on southern Iran, targeting Iranian missile sites and boats.",
+      "date": "Tue, 26 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/netanyahu-vows-to-smite-hezbollah-with-overwhelming-force?traffic_source=rss",
+      "description": "Israeli Prime Minister Benjamin Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force.",
+      "date": "Tue, 26 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US military launches strikes on southern Iran amid talks in Qatar",
@@ -263,24 +283,54 @@
       "bias": "Medium"
     },
     {
-      "title": "In Lebanon, everything and nothing has changed since 2000",
-      "link": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss",
-      "description": "A local war has gone regional, drawing in Iran and the US, but its root cause is unchanged: Palestine.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
+      "title": "DPM Dar arrives in New York to attend high-level UNSC debate",
+      "link": "https://www.dawn.com/news/2003210/dpm-dar-arrives-in-new-york-to-attend-high-level-unsc-debate",
+      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar arrived in New York to attend a high-level United Nations Security Council (UNSC) debate, the Foreign Office (FO) said on Tuesday. In a post on the social media platform X, the FO said that Dar will attend the debate, which was...",
+      "date": "Tue, 26 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
-      "link": "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss",
-      "description": "Mexican President Claudia Sheinbaum says United States did not want to host Iranian football team during tournament.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
+      "title": "China, Pakistan reach 'new broad consensus' on boosting ties",
+      "link": "https://www.dawn.com/news/2003203/china-pakistan-reach-new-broad-consensus-on-boosting-ties",
+      "description": "China and Pakistan have reached a new broad consensus on deepening their strategic partnership, according to a joint statement issued by the countries at the end of Prime Minister Shehbaz Sharif’s visit to Beijing. The statement, shared by the Foreign Office (FO) on X, said, “The...",
+      "date": "Tue, 26 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Araghchi to miss UN debate after US denies visa",
+      "link": "https://www.dawn.com/news/2003096/araghchi-to-miss-un-debate-after-us-denies-visa",
+      "description": "WASHINGTON: Ahead of a high-level debate that has acquired even greater significance amid the ongoing conflict in the Middle East, a key player is likely to be absent from the table when the UN Security Council discusses the weakening of the international system this week. The de...",
+      "date": "Tue, 26 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Far-right Israeli ministers push for wider war in Lebanon",
+      "link": "https://www.dawn.com/news/2003095/far-right-israeli-ministers-push-for-wider-war-in-lebanon",
+      "description": "BEIRUT: Two far-right Israeli ministers on Monday called for a major escalation of military operations in Lebanon, including strikes on Beirut, in remarks that underscored growing pressure within Israel’s government to intensify a war that has already taken a heavy toll on Lebano...",
+      "date": "Tue, 26 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pope urges ‘disarming’ of AI in major manifesto",
+      "link": "https://www.dawn.com/news/2003110/pope-urges-disarming-of-ai-in-major-manifesto",
+      "description": "VATICAN CITY: Pope Leo XIV called on Monday for the “disarming” of artificial intelligence in his long-awaited manifesto on the rapidly developing technology, and warned of “new forms of slavery” behind its rise. Pope Leo, the first US pope, warned against “a race for ever more p...",
+      "date": "Tue, 26 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran says progress on many issues with US but agreement not imminent",
@@ -293,59 +343,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Amid Mideast conflict, Indian finance minister calls for focus on '3Fs' — fuel, fertiliser and forex",
-      "link": "https://www.dawn.com/news/2002996/amid-mideast-conflict-indian-finance-minister-calls-for-focus-on-3fs-fuel-fertiliser-and-forex",
-      "description": "Indian Finance Minister Nirmala Sitharaman urged the country on Monday to focus on fuel, fertiliser and foreign exchange and underlined Prime Minister Narendra Modi’s plea to conserve foreign exchange as “very important” amid the Gulf crisis. Earlier this month, Modi called on In...",
-      "date": "Mon, 25 May 2026",
-      "source": "Dawn",
+      "title": "China, Pakistan aim to revamp economic corridor, Gwadar port",
+      "link": "https://www.thehindu.com/news/international/china-pakistan-aim-to-revamp-economic-corridor-gwadar-port/article71023821.ece",
+      "description": "These plans encompass the Khunjerab Pass and an ‌upgrade of the Karakoram Highway, the main overland ​link between China and Pakistan",
+      "date": "Tue, 26 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "China's Xi hails 'unbreakable' ties, praises Pakistan's role in Iran peace efforts as he meets PM Shehbaz",
-      "link": "https://www.dawn.com/news/2002979/chinas-xi-hails-unbreakable-ties-praises-pakistans-role-in-iran-peace-efforts-as-he-meets-pm-shehbaz",
-      "description": "China’s President Xi Jinping hailed Beijing’s “unbreakable” friendship with Pakistan on Monday as he met Prime Minister Shehbaz Sharif in Beijing, seeking to deepen the “all-weather” partnership between the two countries. PM Shehbaz landed in China on Saturday on a four-day offic...",
-      "date": "Mon, 25 May 2026",
-      "source": "Dawn",
+      "title": "What is Abraham Accords and who signed it? Full list of countries",
+      "link": "https://www.thehindu.com/news/international/what-is-abraham-accords-countries-trump-israel-west-asia-iran-peace-deal-26-may-2026/article71023508.ece",
+      "description": "U.S. President Donald Trump called on Muslim-majority nations to sign the Abraham Accords, to normalise relations with Israel as part of ongoing peace efforts with Iran.",
+      "date": "Tue, 26 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Opaque oil deals around Hormuz test the petrodollar",
-      "link": "https://www.dawn.com/news/2002919/opaque-oil-deals-around-hormuz-test-the-petrodollar",
-      "description": "The precise structure of these bilateral and trilateral deals remains largely opaque. But it is highly likely that many are being settled outside the traditional oil trading system, either through currencies other than the US dollar or through informal barter arrangements. The Un...",
-      "date": "Mon, 25 May 2026",
-      "source": "Dawn",
+      "title": "Rubio says Iran deal still possible within days despite U.S. strikes",
+      "link": "https://www.thehindu.com/news/international/rubio-says-iran-deal-still-possible-within-days-despite-us-strikes/article71023611.ece",
+      "description": "Marco Rubio said the Hormuz Strait is going to be open one way or the other, so they need to be open",
+      "date": "Tue, 26 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran ceasefire framework deepens divide in Congress",
-      "link": "https://www.dawn.com/news/2002914/iran-ceasefire-framework-deepens-divide-in-congress",
-      "description": "WASHINGTON: An emerging framework for ending the Iran-US conflict has triggered a sharp split among US lawmakers, with Republicans warning of strategic concessions and Democrats divided over diplomacy and enforcement risks. The proposed arrangement, still unfinalised and subject ...",
-      "date": "Mon, 25 May 2026",
-      "source": "Dawn",
+      "title": "Iran-Israel war LIVE: Hormuz Strait will reopen 'one way or the other', says Rubio",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-26-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71023501.ece",
+      "description": "Israel’s military warned residents of 10 villages, most of them in southern Lebanon, on Monday to evacuate their homes ahead of expected strikes against alleged Hezbollah targets",
+      "date": "Tue, 26 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Four dead as Russia launches hypersonic missile on Kyiv",
-      "link": "https://www.dawn.com/news/2002879/four-dead-as-russia-launches-hypersonic-missile-on-kyiv",
-      "description": "• Multiple buildings damaged, including homes, schools, museums, theatres, and markets• Zelensky describes attack as a ‘genuinely deranged’ strike on civilian infrastructure KYIV: Russia pounded Kyiv with a massive bombardment that killed four people, authorities said Sunday, wit...",
-      "date": "Mon, 25 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war Updates: Explosions heard in Iran, report says Bandar Abbas situation under control",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-25-may-2026-trump-peace-deal-pakistan/article71019686.ece",
-      "description": "Israel military issues new evacuation warning for 10 Lebanon villages; Trump says either 'great and meaningful' deal or 'no deal' with Iran",
+      "title": "Sri Lanka jolts markets with outsized 100-bp rate hike to counter crisis in West Asia",
+      "link": "https://www.thehindu.com/news/international/sri-lanka-jolts-markets-with-outsized-100-bp-rate-hike-to-counter-crisis-in-west-asia/article71023742.ece",
+      "description": "The Central Bank of Sri Lanka (CBSL) raised the overnight policy rate to 8.75% ‌from 7.75%, blaming higher inflation and a depreciating rupee due to the U.S.-Israeli war ‌with Iran",
       "date": "Tue, 26 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -363,44 +403,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran's president orders reopening of international internet access, state media reports",
-      "link": "https://www.thehindu.com/news/international/irans-president-orders-reopening-of-international-internet-access-state-media-reports/article71022650.ece",
-      "description": "Authorities ⁠initially imposed an internet blackout from January 8 in response to nationwide ‌anti-government protests before a new blackout was initiated following the start of U.S. and Israeli strikes against Iran on ‌February 28",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli right-wing Ministers urge Netanyahu to resume Beirut strikes to counter Hezbollah drone attacks",
-      "link": "https://www.thehindu.com/news/international/israeli-right-wing-ministers-urge-netanyahu-to-resume-beirut-strikes-to-counter-hezbollah-drone-attacks/article71022553.ece",
-      "description": "Israeli finance minister Bezalel Smotrich, leader of a small ‌far-right ⁠party in Mr. Netanyahu’s cabinet, has frequently made comments that go beyond official Israeli ⁠policy, including that Israel must annex southern Lebanon and Gaza",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran health official says supreme leader suffered only 'superficial' wounds in U.S.-Israel strike",
-      "link": "https://www.thehindu.com/news/international/iran-health-official-says-supreme-leader-suffered-only-superficial-wounds-in-us-israel-strike/article71022525.ece",
-      "description": "The 56-year-old has not appeared publicly since he was named as Iran's supreme leader on March 8, issuing only written statements, fuelling speculation about his health",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "As Quad Foreign Ministers meet, India-U.S. tensions, U.S.-China re-engagement and Iran war pose challenges",
-      "link": "https://www.thehindu.com/news/national/as-quad-foreign-ministers-meet-india-us-tensions-us-china-re-engagement-and-iran-war-pose-challenges/article71021935.ece",
-      "description": "Foreign Ministers of Australia, India, Japan, U.S. to hold talks on Tuesday (May 26, 2026) morning",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Bulgarian parliament discussing lifting sanctions on Russia — legislator",
+      "link": "https://tass.com/world/2136401",
+      "description": "Angel Georgiev noted that Bulgarian parliament has proposed lifting sanctions on Russian fuel, energy sanctions, and sanctions targeting the maintenance of MiG-29 aircraft",
+      "date": "Tue, 26 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US leader says Iran’s enriched uranium will be destroyed",
@@ -426,16 +436,6 @@
       "title": "Israel attacks over 70 Hezbollah facilities in Lebanon during day",
       "link": "https://tass.com/world/2136379",
       "description": "The Israel Defense Forces struck approximately 10 command centers, weapons storage facilities, and additional infrastructure sites used by Hezbollah to advance attacks against IDF soldiers and Israeli civilians",
-      "date": "Mon, 25 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran not yielding to US president’s pressure on deal terms — newspaper",
-      "link": "https://tass.com/world/2136361",
-      "description": "On May 23, the US president stated that the draft of the future agreement with Iran has been largely agreed upon",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",

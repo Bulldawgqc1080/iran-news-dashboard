@@ -1,27 +1,28 @@
 {
-  "updated": "2026-05-26 02:04 UTC",
+  "updated": "2026-05-26 06:36 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-05-26",
       "dateDisplay": "May 26, 2026",
-      "title": "US military says it has launched new strikes on southern Iran",
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
       "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC",
+        "France 24",
         "Al Jazeera"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-05-25",
       "dateDisplay": "May 25, 2026",
-      "title": "Iran national football team to stay in Mexico during 2026 World Cup",
+      "title": "Mexico to host Iran's national World Cup team after US refusal",
       "link": "https://www.france24.com/en/sport/20260525-iran-national-football-team-to-stay-in-mexico-during-2026-world-cup",
       "sources": [
-        "France 24",
-        "Al Jazeera"
+        "Al Jazeera",
+        "France 24"
       ],
       "sourceCount": 2,
       "type": "govt"
