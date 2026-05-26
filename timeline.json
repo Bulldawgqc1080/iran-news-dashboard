@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26 06:36 UTC",
+  "updated": "2026-05-26 10:39 UTC",
   "total": 15,
   "events": [
     {
@@ -8,30 +8,17 @@
       "title": "US launches new strikes on Iran, targeting missile sites and boats",
       "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "BBC",
-        "France 24",
-        "Al Jazeera"
-      ],
-      "sourceCount": 3,
-      "type": "fact"
-    },
-    {
-      "date": "2026-05-25",
-      "dateDisplay": "May 25, 2026",
-      "title": "Mexico to host Iran's national World Cup team after US refusal",
-      "link": "https://www.france24.com/en/sport/20260525-iran-national-football-team-to-stay-in-mexico-during-2026-world-cup",
-      "sources": [
         "Al Jazeera",
-        "France 24"
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
     },
     {
-      "date": "2026-05-24",
-      "dateDisplay": "May 24, 2026",
-      "title": "Trump says a deal to end war with Iran is near, but many questions remain",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5833093/trump-says-a-deal-to-end-war-with-iran-is-near-but-many-questions-remain",
+      "date": "2026-05-25",
+      "dateDisplay": "May 25, 2026",
+      "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
+      "link": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
       "sources": [
         "NPR News"
       ],
@@ -164,6 +151,17 @@
       "dateDisplay": "May 02, 2026",
       "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
       "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-05-01",
+      "dateDisplay": "May 01, 2026",
+      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
