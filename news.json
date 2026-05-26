@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26 19:53 UTC",
-  "total": 35,
+  "updated": "2026-05-26 21:26 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Prospects fade for imminent end to Iran war as attacks restart",
@@ -183,6 +183,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Did Trump oversell a broken Iran ceasefire deal?",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
+      "description": "The US and Iran appear closer to a broader agreement, but disputes over sanctions relief remain.",
+      "date": "Tue, 26 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/lebanon-latest-netanyahu-vows-escalation-against-hezbollah?traffic_source=rss",
       "description": "Al Jazeera’s Obaida Hitto brings you the latest from southern Lebanon amidst increasing Israeli attacks.",
@@ -216,16 +226,6 @@
       "title": "Iran’s president praises military after US strikes",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss",
       "description": "President Masoud Pezeshkian praised Iran’s military capabilities after the US carried out ‘self-defence’ strikes on Iran",
-      "date": "Tue, 26 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
-      "link": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss",
-      "description": "Findings show Israel holds 1,000sq km of Gaza, Lebanon and Syria under direct military rule.",
       "date": "Tue, 26 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -351,6 +351,36 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Death toll from Israeli attacks on Lebanon reaches 3,213 — Health Ministry",
+      "link": "https://tass.com/world/2137077",
+      "description": "Since the beginning of the military escalation, 9,737 people have been wounded",
+      "date": "Tue, 26 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "EU’s preparing 21st package of sanctions against Russia — von der Leyen",
+      "link": "https://tass.com/world/2136971",
+      "description": "According to the European Commission president, the new package will be aimed at lowering the Russia's population's standard of living",
+      "date": "Tue, 26 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Bulgaria’s economic problems mounting due to lack of dialogue with Russia — MP",
+      "link": "https://tass.com/economy/2136827",
+      "description": "Angel Georgiev said that Bulgaria could have cheaper electricity, but the prices are much higher \"precisely because of the European Commission’s so-called green policy and anti-Russian sanctions\"",
+      "date": "Tue, 26 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
