@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26 13:45 UTC",
-  "total": 36,
+  "updated": "2026-05-26 17:19 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Prospects fade for imminent end to Iran war as attacks restart",
@@ -43,9 +43,29 @@
       "bias": "Low"
     },
     {
+      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+      "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+      "description": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
+      "date": "Tue, 26 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
       "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
       "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
+      "date": "Tue, 26 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Internet starts coming back in Iran after months-long blackout",
+      "link": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
+      "description": "Internet access has been cut off in the country since the start of the war in late February.",
       "date": "Tue, 26 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -123,21 +143,41 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon says 21 killed, including children, in Israeli air strikes",
-      "link": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
-      "description": "Twelve people were killed in a single strike on a house, including three children and three women, Lebanon's state-run news agency says.",
-      "date": "Wed, 20 May 2026",
-      "source": "BBC",
+      "title": "Iran war threatens Sudan's already fragile agricultural sector",
+      "link": "https://www.france24.com/en/iran-war-threatens-sudan-s-already-fragile-agricultural-sector",
+      "description": "As the US's conflict with Iran continues to block crucial shipping lanes, Sudanese farmers are warning it is disrupting food production in an already unstable nation. The country is still in the midst of a war between the army and the RSF paramilitary, and fuel and fertilizer pri...",
+      "date": "Tue, 26 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "British couple on new hunger strike in Iranian jail, family say",
-      "link": "https://www.bbc.com/news/articles/c8e890y14r5o?at_medium=RSS&at_campaign=rss",
-      "description": "Lindsay and Craig Foreman, from East Sussex, have each spent several days refusing food, their family says.",
-      "date": "Wed, 20 May 2026",
-      "source": "BBC",
+      "title": "Israel issues fresh evacuation orders in south Lebanon despite ceasefire",
+      "link": "https://www.france24.com/en/video/20260526-israel-issues-fresh-evacuation-orders-in-south-lebanon-despite-ceasefire",
+      "description": "Israel has issued an evacuation order for residents in the southern Lebanese town of Nabatiyeh, warning of fresh strikes against Hezbollah, despite a ceasefire. It comes after Israeli Prime Minister Benjamin Netanyahu promised to intensify attacks on Lebanon, following the killin...",
+      "date": "Tue, 26 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran looking to 'buy time to rebuild its military' amid talks to end war",
+      "link": "https://www.france24.com/en/iran-looking-to-buy-time-to-rebuild-its-military-amid-talks-to-end-war",
+      "description": "Iran accused the United States of breaching their ceasefire and warned it was ready to retaliate after overnight US strikes targeting Iranian missile sites and mine-laying boats. Despite the strikes, the US is adamant that a deal was within reach, and a top Iranian official deleg...",
+      "date": "Tue, 26 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'How to shoot down an F-18': Videos show Iran militia members training to use anti-aircraft missiles",
+      "link": "https://www.france24.com/en/middle-east/20260526-iran-manpads-basij-training-us-israeli-aircraft",
+      "description": "Iran’s military forces are preparing for a potential new round of US-Israeli attacks by deploying more man-portable air defence systems, or MANPADS, drawing on lessons from the recent war and the downing of multiple US and Israeli aircraft. FRANCE 24 obtained documents and videos...",
+      "date": "Tue, 26 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -163,39 +203,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel strikes Lebanese village and calls up more troops in the region",
-      "link": "https://www.france24.com/en/israel-strikes-lebanese-village-and-calls-up-more-troops-in-the-region",
-      "description": "The Israeli army has issued a fresh set of evacuation orders for 10 villages in Southern Lebanon as it prepares for a new round of military strikes. Israel and the militant group Hezbollah have been trading deadly fire despite a ceasefire. In fact, two far-right Israeli ministers...",
+      "title": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/lebanon-latest-netanyahu-vows-escalation-against-hezbollah?traffic_source=rss",
+      "description": "Al Jazeera’s Obaida Hitto brings you the latest from southern Lebanon amidst increasing Israeli attacks.",
       "date": "Tue, 26 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian fishermen struggle to survive amid Hormuz blockade",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss",
+      "description": "The livelihoods of Iranian fishermen have taken a hit amid the US blockade on Iran’s ports in the Strait of Hormuz.",
+      "date": "Tue, 26 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
+      "link": "https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond?traffic_source=rss",
+      "description": "The US says it struck boats and missile sites in Iran, shortly after both sides had indicated progress in peace talks.",
+      "date": "Tue, 26 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s president praises military after US strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss",
+      "description": "President Masoud Pezeshkian praised Iran’s military capabilities after the US carried out ‘self-defence’ strikes on Iran",
+      "date": "Tue, 26 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
       "link": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss",
       "description": "Findings show Israel holds 1,000sq km of Gaza, Lebanon and Syria under direct military rule.",
-      "date": "Tue, 26 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israeli attacks on eastern Lebanon village kill at least 11 people",
-      "link": "https://www.aljazeera.com/news/2026/5/26/israeli-attacks-on-eastern-lebanon-village-kill-at-least-12-people?traffic_source=rss",
-      "description": "Attacks hit the village of Mashghara in the Bekaa Valley late Monday as Israel intensified its assault across Lebanon.",
-      "date": "Tue, 26 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Anticipation in Iran as talks with US continue amid attacks, war of words",
-      "link": "https://www.aljazeera.com/news/2026/5/26/anticipation-in-iran-as-talks-with-us-continue-amid-attacks-war-of-words?traffic_source=rss",
-      "description": "The markets in Iran predict a breakthrough, but sentiments on the street and among the leadership are divided.",
       "date": "Tue, 26 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -216,16 +266,6 @@
       "title": "Australia-India-Japan-US Quad to build a port, unveil pact on critical minerals",
       "link": "https://www.dawn.com/news/2003217/australia-india-japan-us-quad-to-build-a-port-unveil-pact-on-critical-minerals",
       "description": "The foreign ministers of Australia, India, Japan and the US agreed to jointly build a port in Fiji and signed pacts covering critical minerals and energy security, as they sought to inject fresh energy into the grouping. The brief meeting between the countries’ top diplomats — Au...",
-      "date": "Tue, 26 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "DPM Dar arrives in New York to attend high-level UNSC debate",
-      "link": "https://www.dawn.com/news/2003210/dpm-dar-arrives-in-new-york-to-attend-high-level-unsc-debate",
-      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar arrived in New York to attend a high-level United Nations Security Council (UNSC) debate, the Foreign Office (FO) said on Tuesday. In a post on the social media platform X, the FO said that Dar will attend the debate, which was...",
       "date": "Tue, 26 May 2026",
       "source": "Dawn",
       "region": "me",
@@ -258,6 +298,36 @@
       "description": "BEIRUT: Two far-right Israeli ministers on Monday called for a major escalation of military operations in Lebanon, including strikes on Beirut, in remarks that underscored growing pressure within Israel’s government to intensify a war that has already taken a heavy toll on Lebano...",
       "date": "Tue, 26 May 2026",
       "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pope urges ‘disarming’ of AI in major manifesto",
+      "link": "https://www.dawn.com/news/2003110/pope-urges-disarming-of-ai-in-major-manifesto",
+      "description": "VATICAN CITY: Pope Leo XIV called on Monday for the “disarming” of artificial intelligence in his long-awaited manifesto on the rapidly developing technology, and warned of “new forms of slavery” behind its rise. Pope Leo, the first US pope, warned against “a race for ever more p...",
+      "date": "Tue, 26 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran accuses U.S. of breaking truce after new strikes",
+      "link": "https://www.thehindu.com/news/international/iran-accuses-us-of-breaking-truce-after-new-strikes/article71026498.ece",
+      "description": "Iranian state media reported overnight blasts in the southern port city of Bandar Abbas, near the Strait of Hormuz, and the country’s Revolutionary Guards said its forces had downed a U.S. drone entering its airspace and had fired at an F-35 fighter jet",
+      "date": "Tue, 26 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli strike on village in eastern Lebanon kills 12, as Israel calls up more troops there",
+      "link": "https://www.thehindu.com/news/international/israeli-strike-on-village-in-eastern-lebanon-kills-12-as-israel-calls-up-more-troops-there/article71026475.ece",
+      "description": "The strike hit the village of Mashghara in the Bekaa Valley late May 25, according to the media reports",
+      "date": "Tue, 26 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -301,66 +371,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "China, Pakistan aim to revamp economic corridor, Gwadar port",
-      "link": "https://www.thehindu.com/news/international/china-pakistan-aim-to-revamp-economic-corridor-gwadar-port/article71023821.ece",
-      "description": "These plans encompass the Khunjerab Pass and an ‌upgrade of the Karakoram Highway, the main overland ​link between China and Pakistan",
-      "date": "Tue, 26 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "What is Abraham Accords and who signed it? Full list of countries",
-      "link": "https://www.thehindu.com/news/international/what-is-abraham-accords-countries-trump-israel-west-asia-iran-peace-deal-26-may-2026/article71023508.ece",
-      "description": "U.S. President Donald Trump called on Muslim-majority nations to sign the Abraham Accords, to normalise relations with Israel as part of ongoing peace efforts with Iran.",
-      "date": "Tue, 26 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran to restore Internet access during 24 hours — news agency",
-      "link": "https://tass.com/world/2136713",
-      "description": "The Internet access in Iran is almost completely out for more than 88 days",
-      "date": "Tue, 26 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Rosatom to fulfill all obligations to supply spare parts, fuel for Bushehr NPP",
-      "link": "https://tass.com/economy/2136705",
-      "description": "Iran operate and legally own the first unit of the Bushehr Nuclear Power Plant, Alexey Likhachev noted",
-      "date": "Tue, 26 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russia-China partnership reduces ‘imported’ inflation caused by US-Iran conflict",
-      "link": "https://tass.com/economy/2136647",
-      "description": "VTB First Deputy President and Chairman of the Management Board Dmitry Pyanov noted that the situation in the Middle East had become one of the factors behind the current annualized inflation rate reaching about 2% at the end of April",
-      "date": "Tue, 26 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Lithuania, US discussing possible easing of restrictions on Belarusian potash fertilizers",
-      "link": "https://tass.com/world/2136625",
-      "description": "The Baltic republic’s Foreign Minister Kestutis Budrys recalled that \"sanctions against Belarus and potash fertilizers remained in effect until the end of February 2027",
-      "date": "Tue, 26 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
