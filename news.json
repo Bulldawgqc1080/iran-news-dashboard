@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25 23:54 UTC",
-  "total": 43,
+  "updated": "2026-05-26 02:04 UTC",
+  "total": 44,
   "stories": [
     {
       "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
@@ -13,9 +13,9 @@
       "bias": "Low"
     },
     {
-      "title": "Trump says more countries should normalize ties with Israel in any Iran deal",
+      "title": "U.S. military strikes Iran as Trump says negotiations move forward for deal to end war",
       "link": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
-      "description": "President Trump's latest demand has tempered expectations for an imminent deal to end the war with Iran. Meanwhile, an Iranian delegation arrived in Doha on Monday for more talks.",
+      "description": "The U.S. military announced strikes against Iranian positions just hours after President Trump says more countries should normalize ties with Israel in any Iran deal, tempering expectations of peace.",
       "date": "Mon, 25 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -53,6 +53,16 @@
       "bias": "Low"
     },
     {
+      "title": "US military says it has launched new strikes on southern Iran",
+      "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "description": "The strikes on Iranian missile launch sites and boats were taken in \"self-defence\", US Central Command says.",
+      "date": "Tue, 26 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Deal with US not imminent, Iran says",
       "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
       "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
@@ -66,7 +76,7 @@
       "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
       "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
-      "date": "Mon, 25 May 2026",
+      "date": "Tue, 26 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -143,11 +153,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
-      "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
-      "date": "Wed, 20 May 2026",
-      "source": "BBC",
+      "title": "Middle East live: US carries out 'self-defense' strikes on Iran",
+      "link": "https://www.france24.com/en/middle-east/20260526-middle-east-live-us-carries-out-self-defense-strikes-on-iran",
+      "description": "",
+      "date": "Tue, 26 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: US carries out 'self-defence' strikes on Iran",
+      "link": "https://www.france24.com/en/middle-east/20260526-middle-east-live-us-carries-out-self-defense-strikes-on-iran",
+      "description": "US forces have struck missile sites and boats allegedly laying naval mines in southern Iran on Monday, according to United States Central Command. The move threatens to further destabilise a fragile ceasefire as Iranian negotiators arrived in Doha for high-stakes talks aimed at e...",
+      "date": "Tue, 26 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran national football team to stay in Mexico during 2026 World Cup",
+      "link": "https://www.france24.com/en/sport/20260525-iran-national-football-team-to-stay-in-mexico-during-2026-world-cup",
+      "description": "Iran's national football team will base itself in Mexico during the 2026 FIFA World Cup and travel into the United States only on matchdays, after Mexican President Claudia Sheinbaum said Washington did not want the team staying in the country throughout the tournament.",
+      "date": "Mon, 25 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -173,24 +203,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East: Deep mistrust clouds US-Iran negotiations",
-      "link": "https://www.france24.com/en/middle-east-deep-mistrust-clouds-us-iran-negotiations",
-      "description": "Rouzbeh Parsi, Adjunct Senior Lecturer at Lund University, is FRANCE 24’s guest to discuss the evolving situation in the Middle East. Iran and the United States are both seeking a possible diplomatic way out of the conflict, but uncertainty remains high amid conflicting signals f...",
-      "date": "Mon, 25 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "US military launches strikes on southern Iran amid talks in Qatar",
+      "link": "https://www.aljazeera.com/news/2026/5/26/us-military-launches-strikes-on-southern-iran-amid-talks-in-qatar?traffic_source=rss",
+      "description": "US Central Command announces &#039;self-defence&#039; strikes as Tehran&#039;s top negotiators gather in Qatar for talks.",
+      "date": "Tue, 26 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Uncertainty persists over US-Iran draft agreement",
-      "link": "https://www.france24.com/en/uncertainty-persists-over-us-iran-draft-agreement",
-      "description": "Iran and the United States say progress has been made in talks over a 14-point memorandum of understanding, but both sides insist a final deal is not imminent. While US officials, including Secretary of State Marco Rubio, describe the process as a “work in progress,” Tehran has a...",
-      "date": "Mon, 25 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war live: US strikes Iran’s south, Tehran officials in Qatar for talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks?traffic_source=rss",
+      "description": "Iran&#039;s President Masoud Pezeshkian has ordered the restoration of internet services after months of blocked access.",
+      "date": "Tue, 26 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
@@ -246,26 +276,6 @@
       "title": "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
       "link": "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss",
       "description": "Mexican President Claudia Sheinbaum says United States did not want to host Iranian football team during tournament.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Subdued Lebanon Liberation Day celebrations under new Israeli occupation",
-      "link": "https://www.aljazeera.com/features/2026/5/25/subdued-lebanon-liberation-day-celebrations-under-new-israeli-occupation?traffic_source=rss",
-      "description": "Twenty-six years after Israeli forces were driven out of southern Lebanon, fears of a new occupation have emerged.",
-      "date": "Mon, 25 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Mexico steps in to host Iran’s World Cup team after US refusal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/mexico-steps-in-to-host-irans-world-cup-team-after-us-refusal?traffic_source=rss",
-      "description": "Mexico says it has agreed to host Iran’s World Cup team after the US declined to allow the squad to stay.",
       "date": "Mon, 25 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -333,6 +343,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel-Iran war Updates: Explosions heard in Iran, report says Bandar Abbas situation under control",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-25-may-2026-trump-peace-deal-pakistan/article71019686.ece",
+      "description": "Israel military issues new evacuation warning for 10 Lebanon villages; Trump says either 'great and meaningful' deal or 'no deal' with Iran",
+      "date": "Tue, 26 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. Military carries out ‘self-defence’ strikes in Iran, including on missile launch sites",
+      "link": "https://www.thehindu.com/news/international/us-military-self-defence-strikes-in-iran-missile-launch-sites-may-26-2026/article71023465.ece",
+      "description": "The strikes were done “to protect our troops from threats posed by Iranian forces”, but the military was “using restraint during the ongoing ceasefire”",
+      "date": "Tue, 26 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran's president orders reopening of international internet access, state media reports",
       "link": "https://www.thehindu.com/news/international/irans-president-orders-reopening-of-international-internet-access-state-media-reports/article71022650.ece",
       "description": "Authorities ⁠initially imposed an internet blackout from January 8 in response to nationwide ‌anti-government protests before a new blackout was initiated following the start of U.S. and Israeli strikes against Iran on ‌February 28",
@@ -373,24 +403,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Xi Jinping hails China’s ‘unbreakable’ friendship with Pakistan as he meets PM Shehbaz",
-      "link": "https://www.thehindu.com/news/international/chinese-president-xi-jinping-meets-pakistan-pm-sharif-as-iran-war-looms/article71020543.ece",
-      "description": "Mr. Sharif appreciated China’s support for Pakistan in mediating the U.S.-Iran negotiations, noting that President Xi’s four propositions on the West Asia situation offer guidance for achieving peace",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US leader says Iran’s enriched uranium will be destroyed",
+      "link": "https://tass.com/world/2136397",
+      "description": "Donald Trump also called on the Atomic Energy Commission to be witness to this process",
+      "date": "Tue, 26 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Watch: Iran deal talks advance as Trump signals major breakthrough | Above the Fold | 25.05.2026",
-      "link": "https://www.thehindu.com/videos/watch-iran-deal-talks-advance-as-trump-signals-major-breakthrough-above-the-fold-25052026/article71022268.ece",
-      "description": "From crucial U.S.-Iran talks and another sharp fuel price hike to the Padma Awards 2026, the Thoothukudi sexual assault case verdict - here are the top stories of the day.",
-      "date": "Mon, 25 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US strikes missile launch sites, boats in southern Iran — Fox News, citing CENTCOM",
+      "link": "https://tass.com/world/2136395",
+      "description": "According to the US Central Command, two boats of the Islamic Revolutionary Guard Corps (IRGC) were destroyed in the attack near Bandar Abbas and one missile launch site",
+      "date": "Tue, 26 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Israel attacks over 70 Hezbollah facilities in Lebanon during day",
@@ -406,26 +436,6 @@
       "title": "Iran not yielding to US president’s pressure on deal terms — newspaper",
       "link": "https://tass.com/world/2136361",
       "description": "On May 23, the US president stated that the draft of the future agreement with Iran has been largely agreed upon",
-      "date": "Mon, 25 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian president orders to restore internet access — agency",
-      "link": "https://tass.com/world/2136359",
-      "description": "According to the international internet monitoring service NetBlocks, internet has been practically inaccessible in Iran for more than 86 days",
-      "date": "Mon, 25 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Over 30 ships pass through Strait of Hormuz in past day — IRGC Navy",
-      "link": "https://tass.com/world/2136357",
-      "description": "There were five supertankers among them, the naval forces of the Islamic Revolutionary Guard Corps said",
       "date": "Mon, 25 May 2026",
       "source": "TASS",
       "region": "ru",
