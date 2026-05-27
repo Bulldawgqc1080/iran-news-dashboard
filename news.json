@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27 12:20 UTC",
-  "total": 32,
+  "updated": "2026-05-27 16:31 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Trump gathers Cabinet as he looks to seal deal to end war",
@@ -36,6 +36,16 @@
       "title": "Dozens killed in Lebanon as Israel intensifies strikes",
       "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
       "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
+      "date": "Wed, 27 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
+      "link": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
+      "description": "The government imposed the blackout after the start of the war with the US and Israel in February, cutting most Iranians off from the outside world.",
       "date": "Wed, 27 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -123,14 +133,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran steps up claim to control Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-      "description": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
-      "date": "Thu, 21 May 2026",
-      "source": "BBC",
+      "title": "Iran: Global internet access to reopen after 3-month blackout",
+      "link": "https://www.france24.com/en/video/20260527-iran-global-internet-access-to-reopen-after-3-month-blackout",
+      "description": "🇮🇷 Just an empty gesture? Paymon Azmoudeh weighs in on #Iran’s orders to reopen international internet access after a 3-month blackout. More on #F24Debate ➡️https://go.france24.com/XiV5",
+      "date": "Wed, 27 May 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Critically endangered New Zealand parakeet gets lifeline from randy pair",
+      "link": "https://www.france24.com/en/environment/20260527-twice-extinct-parakeet-gets-lifeline-from-randy-pair",
+      "description": "A critically endangered New Zealand parakeet known as kakariki karaka has seen its numbers surge thanks to a pair of super breeders now responsible for more than 10 percent of the total population. Parents Nacho and Trixie were paired up in 2024 at the Isaac Conservation and Wild...",
+      "date": "Wed, 27 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli strikes kill dozens in southern Lebanon as Netanyahu expands ground campaign",
+      "link": "https://www.france24.com/en/middle-east/20260527-israeli-strikes-kill-31-southern-lebanon-netanyahu-expands-ground-campaign",
+      "description": "Israeli strikes in southern Lebanon killed 31 people and wounded 40 on Tuesday, Lebanon’s health ministry said, including at least four children and three women, as Israel said it was intensifying operations despite a truce with the Iran-backed group Hezbollah.",
+      "date": "Wed, 27 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Israeli strikes hit outskirts of southern Lebanon’s city of Tyre",
+      "link": "https://www.france24.com/en/middle-east/20260527-middle-east-live-new-strikes-threaten-ceasefires-in-iran-lebanon",
+      "description": "Israeli air strikes hit the outskirts of Tyre in southern Lebanon after the army called on residents in and around the city to leave their homes. The Israeli military said it was carrying out strikes on what it described as “command centres” belonging to the militant group Hezbol...",
+      "date": "Wed, 27 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran says US violated ceasefire with strikes near Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260526-iran-says-us-violated-ceasefire-with-strikes-near-hormuz-war",
+      "description": "Iran accused the United States on Tuesday of breaching a fragile ceasefire with strikes near the Strait of Hormuz, threatening efforts to end nearly seven weeks of conflict. Washington said the attacks were defensive, targeting missile sites and vessels allegedly laying mines.",
+      "date": "Tue, 26 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
+      "link": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
+      "description": "Israel issued forced displacement for Lebanon&#039;s southern city of Nabatieh on Tuesday. Why is it focused on this city?",
+      "date": "Wed, 27 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
+      "link": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
+      "description": "The International Monetary Fund warns that Iran war could trigger a spike in global debt levels.",
+      "date": "Wed, 27 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US, Iran have launched multiple attacks during ceasefire: A timeline",
@@ -143,24 +213,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Sanctions fears as Krygyzstan shutters companies suspected of aiding Russia",
-      "link": "https://www.aljazeera.com/news/2026/5/27/kyrgyzstan-russia-tensions?traffic_source=rss",
-      "description": "Crackdown on 50 firms is rooted in Bishkek&#039;s own worries of being sanctioned, say analysts.",
+      "title": "'They just want to make a deal': Trump chairs full cabinet meeting as Iran negotiations heat up",
+      "link": "https://www.dawn.com/news/2003490/they-just-want-to-make-a-deal-trump-chairs-full-cabinet-meeting-as-iran-negotiations-heat-up",
+      "description": "WASHINGTON: United States President Donald Trump while chairing a full cabinet meeting at the White House on Wednesday said that while Iran is very much intent on a deal, his administration is “not satisfied” with the terms. “They just want to make a deal. I dont think they have ...",
       "date": "Wed, 27 May 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israeli air attack kills at least two in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/5/27/israeli-air-attack-kills-at-least-two-in-southern-lebanon?traffic_source=rss",
-      "description": "Israeli forces intensify attacks, issue forced displacement orders for more towns and villages day after killing dozens.",
-      "date": "Wed, 27 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran vows not to let aggression go unanswered after US violates truce",
@@ -176,6 +236,16 @@
       "title": "Haj pilgrims stone the devil in final ritual",
       "link": "https://www.dawn.com/news/2003461/haj-pilgrims-stone-the-devil-in-final-ritual",
       "description": "Muslim faithful took part in the climactic ritual of the annual Haj pilgrimage on Wednesday, symbolically stoning the devil near Makkah. From dawn, crowds of pilgrims gathered in the valley of Mina, southeast of the holy city of Makkah, to throw pebbles at concrete pillars symbol...",
+      "date": "Wed, 27 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US envoy warns Spain to be 'very careful' in deepening ties with China",
+      "link": "https://www.dawn.com/news/2003476/us-envoy-warns-spain-to-be-very-careful-in-deepening-ties-with-china",
+      "description": "Spain must proceed very carefully as it deepens its relationship with China to keep it out of critical sectors such as data, defence and telecommunications where Beijing seeks to dominate, Benjamin Leon, the US Ambassador to Spain, said on Wednesday. In one of his first public sp...",
       "date": "Wed, 27 May 2026",
       "source": "Dawn",
       "region": "me",
@@ -203,29 +273,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Internet partially restored in Iran after months-long shutdown",
-      "link": "https://www.dawn.com/news/2003357/internet-partially-restored-in-iran-after-months-long-shutdown",
-      "description": "PARIS: Iranian authorities partially restored inte­rnet connectivity on Tuesday after an almost three-month shutdown imp­osed after the US-Israel invasion on Feb 28. The shutdown left Iran­ians largely cut off from international networks, with only a domestic intranet working for...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US plans to cut bombers, warships for Nato in crisis",
-      "link": "https://www.dawn.com/news/2003396/us-plans-to-cut-bombers-warships-for-nato-in-crisis",
-      "description": "BERLIN: The US intends to significantly reduce military contributions available to assist European allies in a crisis, including fighter jets, warships and mid-air refuelling aircraft, German news outlet Spiegel reported on Tuesday. The Nato alliance is under unprecedented strain...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war LIVE: Iran Guards official says ‘low’ possibility of renewed war with U.S.",
+      "title": "Iran-Israel war LIVE: Iran says draft deal with U.S. would reopen Hormuz shipping, end naval blockade",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-27-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71027588.ece",
-      "description": "U.S. Senator Lindsey Graham termed “problematic” the role of Pakistan as a mediator in the United States’ war with Iran",
+      "description": "Under the ‌framework, Iran would restore commercial shipping through the Strait of Hormuz ‌to pre-war levels within ‌a ⁠month, while the United States would ⁠withdraw military forces from Iran’s vicinity and lift a naval blockade.",
+      "date": "Wed, 27 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran says U.S., Israel goal still to overthrow Islamic republic",
+      "link": "https://www.thehindu.com/news/international/iran-says-us-israel-goal-still-to-overthrow-islamic-republic/article71030491.ece",
+      "description": "The Ministry said it received intelligence that the U.S. and Israel would seek to \"intensify economic pressure\", create divisions in the country among religious and ethnic groups and carry out sabotage and other \"terrorist operations\".",
+      "date": "Wed, 27 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Hezbollah says clashed with Israeli troops in south Lebanon beyond 'yellow line'",
+      "link": "https://www.thehindu.com/news/international/hezbollah-says-clashed-with-israeli-troops-in-south-lebanon-beyond-yellow-line/article71030380.ece",
+      "description": "Israel stepped up strikes on south and east Lebanon on Tuesday (May 26), issuing evacuation warnings for at least 50 towns and villages and killing at least 31 people, as Hezbollah also kept up its attacks.",
       "date": "Wed, 27 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -263,29 +333,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran accuses U.S. of breaking truce after new strikes",
-      "link": "https://www.thehindu.com/news/international/iran-accuses-us-of-breaking-truce-after-new-strikes/article71026498.ece",
-      "description": "Iranian state media reported overnight blasts in the southern port city of Bandar Abbas, near the Strait of Hormuz, and the country’s Revolutionary Guards said its forces had downed a U.S. drone entering its airspace and had fired at an F-35 fighter jet",
-      "date": "Tue, 26 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli strike on village in eastern Lebanon kills 12, as Israel calls up more troops there",
-      "link": "https://www.thehindu.com/news/international/israeli-strike-on-village-in-eastern-lebanon-kills-12-as-israel-calls-up-more-troops-there/article71026475.ece",
-      "description": "The strike hit the village of Mashghara in the Bekaa Valley late May 25, according to the media reports",
-      "date": "Tue, 26 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russia's proposal to remove Iran's highly enriched uranium ‘on table’ — senior diplomat",
-      "link": "https://tass.com/politics/2137345",
-      "description": "The material can be used to produce fuel for Iranian reactors",
+      "title": "US redirects 109 ships since start of Iran blockade — CENTCOM",
+      "link": "https://tass.com/world/2137447",
+      "description": "The US Central Command stated earlier that it intends to block the movement of all vessels heading for ports in the Islamic Republic",
       "date": "Wed, 27 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -293,29 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US draws up new Iran targets list in case of escalation — NBC",
-      "link": "https://tass.com/world/2137171",
-      "description": "However, the Pentagon’s move does not indicate imminent strikes, the broadcaster highlighted",
-      "date": "Wed, 27 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Republicans warn Trump against hasty deal with Iran — Politico",
-      "link": "https://tass.com/world/2137131",
-      "description": "According to sources cited by the newspaper, the officials fear that the deal terms would be unfavorable for Washington",
-      "date": "Wed, 27 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "White House views Abraham accords as ‘complement’ to Iran deal",
-      "link": "https://tass.com/world/2137113",
-      "description": "Principal Deputy Press Secretary Anna Kelly says the accords \"have provided massive economic benefits to all countries involved and enabled historic cooperation\"",
+      "title": "Vance admits he constantly wonders whether US war with Iran is justified",
+      "link": "https://tass.com/world/2137449",
+      "description": "The US Vice President expressed hope that Iran would agree not to develop nuclear weapons as part of a potential agreement with the United States",
       "date": "Wed, 27 May 2026",
       "source": "TASS",
       "region": "ru",
