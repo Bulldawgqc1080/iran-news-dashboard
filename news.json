@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27 16:31 UTC",
-  "total": 35,
+  "updated": "2026-05-27 19:12 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Trump gathers Cabinet as he looks to seal deal to end war",
@@ -33,9 +33,19 @@
       "bias": "Low"
     },
     {
-      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
+      "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "description": "Israel's military says it struck Hezbollah targets after telling residents it would \"act forcefully\" against the group.",
+      "date": "Wed, 27 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says US 'not satisfied' with Iran deal yet",
+      "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
       "date": "Wed, 27 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -46,6 +56,16 @@
       "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
       "link": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
       "description": "The government imposed the blackout after the start of the war with the US and Israel in February, cutting most Iranians off from the outside world.",
+      "date": "Wed, 27 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
       "date": "Wed, 27 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -113,26 +133,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-      "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-      "description": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
-      "date": "Mon, 25 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "description": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
-      "date": "Sat, 23 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Iran: Global internet access to reopen after 3-month blackout",
       "link": "https://www.france24.com/en/video/20260527-iran-global-internet-access-to-reopen-after-3-month-blackout",
       "description": "🇮🇷 Just an empty gesture? Paymon Azmoudeh weighs in on #Iran’s orders to reopen international internet access after a 3-month blackout. More on #F24Debate ➡️https://go.france24.com/XiV5",
@@ -163,9 +163,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Israeli strikes hit outskirts of southern Lebanon’s city of Tyre",
+      "title": "Middle East war live: Trump says no country will control Hormuz Strait under future Iran deal",
       "link": "https://www.france24.com/en/middle-east/20260527-middle-east-live-new-strikes-threaten-ceasefires-in-iran-lebanon",
-      "description": "Israeli air strikes hit the outskirts of Tyre in southern Lebanon after the army called on residents in and around the city to leave their homes. The Israeli military said it was carrying out strikes on what it described as “command centres” belonging to the militant group Hezbol...",
+      "description": "President Donald Trump on Wednesday told his cabinet that “nobody” would control the Strait of Hormuz under a future settlement with Iran, but maintained that the US would “watch over” the critical waterway. Tehran effectively closed the Strait to commercial shipping in response ...",
       "date": "Wed, 27 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -181,6 +181,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
+      "link": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
+      "description": "US president says Iran can&#039;t &#039;out-wait&#039; him, suggesting that Washington is not satisfied with Tehran&#039;s offers for deal.",
+      "date": "Wed, 27 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
@@ -203,19 +213,19 @@
       "bias": "Medium"
     },
     {
-      "title": "US, Iran have launched multiple attacks during ceasefire: A timeline",
-      "link": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline?traffic_source=rss",
-      "description": "Washington carried out new strikes on southern Iran, while Tehran downed a US drone and fired at a fighter jet.",
+      "title": "Trump cabinet looks forward to progress on Iran deal in 'coming hours, days'",
+      "link": "https://www.dawn.com/news/2003490/trump-cabinet-looks-forward-to-progress-on-iran-deal-in-coming-hours-days",
+      "description": "WASHINGTON: United States President Donald Trump told his cabinet and the media during a meeting at the White House on Wednesday that his administration is “not satisfied” with the terms of a deal with Iran yet, “but we will be”. The session, which is open to reporters, is one of...",
       "date": "Wed, 27 May 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "'They just want to make a deal': Trump chairs full cabinet meeting as Iran negotiations heat up",
-      "link": "https://www.dawn.com/news/2003490/they-just-want-to-make-a-deal-trump-chairs-full-cabinet-meeting-as-iran-negotiations-heat-up",
-      "description": "WASHINGTON: United States President Donald Trump while chairing a full cabinet meeting at the White House on Wednesday said that while Iran is very much intent on a deal, his administration is “not satisfied” with the terms. “They just want to make a deal. I dont think they have ...",
+      "title": "'US-Iran peace deal could benefit entire region,' PM tells Pezeshkian in Eid call",
+      "link": "https://www.dawn.com/news/2003497/us-iran-peace-deal-could-benefit-entire-region-pm-tells-pezeshkian-in-eid-call",
+      "description": "Prime Minister Shehbaz Sharif in a telephonic conversation with Iranian President Masoud Pezeshkian on Wednesday hoped that a peace deal between Iran and the US could be finalised soon. The Prime Minister’s Office in a statement said that President Pezeshkian had telephoned PM Sh...",
       "date": "Wed, 27 May 2026",
       "source": "Dawn",
       "region": "me",
@@ -233,6 +243,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Zelensky asked Trump for air defence munitions: AFP",
+      "link": "https://www.dawn.com/news/2003499/zelensky-asked-trump-for-air-defence-munitions-afp",
+      "description": "Ukrainian President Volodymyr Zelensky has urged the United States to provide more ammunition for its Patriot air defence systems to counter Russian ballistic missiles, according to a document reviewed by AFP on Wednesday. The appeal underscores Ukraine’s almost total reliance on...",
+      "date": "Wed, 27 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "India orders demolition drive along Pakistan border",
+      "link": "https://www.dawn.com/news/2003500/india-orders-demolition-drive-along-pakistan-border",
+      "description": "India’s interior minister has ordered the demolition of illegal buildings within 15 kilometres of the border with Pakistan, his office said Wednesday. Home Minister Amit Shah is known for his hardline stance on national security, illegal migration and transnational crimes. “Amit ...",
+      "date": "Wed, 27 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Haj pilgrims stone the devil in final ritual",
       "link": "https://www.dawn.com/news/2003461/haj-pilgrims-stone-the-devil-in-final-ritual",
       "description": "Muslim faithful took part in the climactic ritual of the annual Haj pilgrimage on Wednesday, symbolically stoning the devil near Makkah. From dawn, crowds of pilgrims gathered in the valley of Mina, southeast of the holy city of Makkah, to throw pebbles at concrete pillars symbol...",
@@ -243,39 +273,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US envoy warns Spain to be 'very careful' in deepening ties with China",
-      "link": "https://www.dawn.com/news/2003476/us-envoy-warns-spain-to-be-very-careful-in-deepening-ties-with-china",
-      "description": "Spain must proceed very carefully as it deepens its relationship with China to keep it out of critical sectors such as data, defence and telecommunications where Beijing seeks to dominate, Benjamin Leon, the US Ambassador to Spain, said on Wednesday. In one of his first public sp...",
+      "title": "Trump says U.S. not satisfied yet on deal with Iran",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-not-satisfied-yet-on-deal-with-iran/article71030748.ece",
+      "description": "Iran is very ​much ‌intent, they want very much to make a deal. ‌So far they ​haven’t gotten there ... we’re ⁠not satisfied with it, but we will ‌be, says U.S. President Donald Trump",
       "date": "Wed, 27 May 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Israel claims it killed new Hamas armed wing chief in Gaza strike",
-      "link": "https://www.dawn.com/news/2003457/israel-claims-it-killed-new-hamas-armed-wing-chief-in-gaza-strike",
-      "description": "Israel said on Wednesday it had killed the new head of Hamas’s armed wing in Gaza, Mohammed Odeh, in a strike the day before, after killing his predecessor in a similar attack this month. Israeli Defence Minister Israel Katz claimed the “commander of the armed wing of the Hamas t...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "FM Dar assures UN chief of Pakistan's 'continued engagement and dialogue' to restore peace in region",
-      "link": "https://www.dawn.com/news/2003453/fm-dar-assures-un-chief-of-pakistans-continued-engagement-and-dialogue-to-restore-peace-in-region",
-      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar, who is on a two-day visit to New York, met United Nations Secretary-General António Guterres, with both sides discussing the situation in the Middle East, the Foreign Office (FO) said on Wednesday. DPM Dar arrived in New York ...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war LIVE: Iran says draft deal with U.S. would reopen Hormuz shipping, end naval blockade",
+      "title": "Iran-Israel war LIVE: Trump says U.S. not satisfied yet on deal with Iran",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-27-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71027588.ece",
-      "description": "Under the ‌framework, Iran would restore commercial shipping through the Strait of Hormuz ‌to pre-war levels within ‌a ⁠month, while the United States would ⁠withdraw military forces from Iran’s vicinity and lift a naval blockade.",
+      "description": "U.S. President Donald Trump says, \"Iran is very ​much ‌intent, they want very much to make a deal. ‌So far, they ​haven’t gotten there ... we’re ⁠not satisfied with it.\"",
       "date": "Wed, 27 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,14 +333,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war highlights: Gulf ⁠powers will ⁠no longer be ​a shield ‌for U.S. bases, Iran's supreme leader says",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-highlights-26-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71023501.ece",
-      "description": "Israel’s military warned residents of 10 villages, most of them in southern Lebanon, on Monday to evacuate their homes ahead of expected strikes against alleged Hezbollah targets",
+      "title": "Trump says no plans to ease sanctions if Iran gives up enriched uranium",
+      "link": "https://tass.com/world/2137553",
+      "description": "The US president said that Tehran will give up the enriched uranium not for sanctions relief",
       "date": "Wed, 27 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump signals possibility of renewed US strikes on Iran",
+      "link": "https://tass.com/world/2137545",
+      "description": "The US leader still assumed that Tehran wants to just make a deal",
+      "date": "Wed, 27 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US redirects 109 ships since start of Iran blockade — CENTCOM",
