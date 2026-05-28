@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-28 01:56 UTC",
-  "total": 38,
+  "updated": "2026-05-28 06:04 UTC",
+  "total": 43,
   "stories": [
     {
-      "title": "Trump says Iran 'negotiating on fumes,' insists midterms won't impact his war strategy",
+      "title": "U.S. conducts another strike against Iran after Trump says Iran is 'negotiating on fumes'",
       "link": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
-      "description": "President Trump is asserting that Iran is \"negotiating on fumes\" and insisting November's midterm elections won't make him rush into a deal to end the nearly 3-month-old conflict that's spurred unease across the global economy.",
+      "description": "U.S. forces have carried out new defensive strikes on an Iran military facility after downing Iranian attack drones. That's according to U.S. officials who were not authorized to comment publicly and spoke on the condition of anonymity.",
       "date": "Wed, 27 May 2026",
       "source": "NPR News",
       "region": "us",
@@ -36,7 +36,7 @@
       "title": "Israel issues evacuation order for swathes of southern Lebanon",
       "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
       "description": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
-      "date": "Wed, 27 May 2026",
+      "date": "Thu, 28 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -133,9 +133,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US carries out strikes in Iran as Revolutionary Guards target US airbase",
+      "link": "https://www.france24.com/en/middle-east/20260528-middle-east-war-live-us-carries-out-strikes-in-iran-targeting-military-site",
+      "description": "",
+      "date": "Thu, 28 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel declares new 'combat zone' in southern Lebanon, orders evacuations",
+      "link": "https://www.france24.com/en/middle-east/20260528-israel-declares-new-combat-zone-in-southern-lebanon-and-orders-evacuations",
+      "description": "Israel expanded its military campaign in southern Lebanon on Wednesday, ordering residents to evacuate areas south of the Zahrani River as strikes intensified despite an April ceasefire. The escalation comes as Israeli officials seek to pressure Hezbollah while avoiding actions i...",
+      "date": "Thu, 28 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East war live: US carries out strikes in Iran targeting military site",
       "link": "https://www.france24.com/en/middle-east/20260528-middle-east-war-live-us-carries-out-strikes-in-iran-targeting-military-site",
-      "description": "The US military on Wednesday conducted its second defensive strike this week against Iran after officials said they observed aggressive activity from the Iranian military. This comes shortly after US President Donald Trump threatened to \"finish the job\" if Tehran didn't agree to ...",
+      "description": "The US military on Thursday conducted its second defensive strike this week against Iran after officials said they observed aggressive activity from the Iranian military. This comes shortly after US President Donald Trump threatened to \"finish the job\" if Tehran didn't agree to a...",
       "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -193,9 +213,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US strikes Iranian site as tensions rise in Strait of Hormuz",
+      "title": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
-      "description": "The Lebanese Health Ministry reports that Israeli attacks have killed 3,269 people since March 2.",
+      "description": "Kuwait&#039;s military says air defences are battling &#039;hostile&#039; missiles and drones, as alarms sound across the country.",
       "date": "Thu, 28 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,14 +273,24 @@
       "bias": "Medium"
     },
     {
-      "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
-      "link": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
-      "description": "US president says Iran can&#039;t &#039;out-wait&#039; him, suggesting that Washington is not satisfied with Tehran&#039;s offers for deal.",
-      "date": "Wed, 27 May 2026",
-      "source": "Al Jazeera",
+      "title": "US strikes Iran, drawing retaliatory attack on American base after Trump dismisses report of Hormuz deal",
+      "link": "https://www.dawn.com/news/2003525/us-strikes-iran-drawing-retaliatory-attack-on-american-base-after-trump-dismisses-report-of-hormuz-deal",
+      "description": "Iran’s Revolutionary Guard said on Thursday it targeted a US airbase after the US military carried out what a Washington official said were strikes targeting an Iranian drone operation near the Strait of Hormuz, hours after President Donald Trump rejected a report he was close to...",
+      "date": "Thu, 28 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Oil prices bounce higher after new US strikes on Iran",
+      "link": "https://www.dawn.com/news/2003523/oil-prices-bounce-higher-after-new-us-strikes-on-iran",
+      "description": "Oil prices bounced higher on Thursday while Asian stocks mostly fell, as new US strikes on Iran marked the latest test of a shaky ceasefire in the Middle East war. The price jumps erased much of Wednesday’s declines on the hopes of an imminent deal to end the conflict that has al...",
+      "date": "Thu, 28 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump cabinet looks forward to progress on Iran deal in 'coming hours, days'",
@@ -303,21 +333,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Haj pilgrims stone the devil in final ritual",
-      "link": "https://www.dawn.com/news/2003461/haj-pilgrims-stone-the-devil-in-final-ritual",
-      "description": "Muslim faithful took part in the climactic ritual of the annual Haj pilgrimage on Wednesday, symbolically stoning the devil near Makkah. From dawn, crowds of pilgrims gathered in the valley of Mina, southeast of the holy city of Makkah, to throw pebbles at concrete pillars symbol...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
+      "title": "Iran-Israel war LIVE: U.S. military conducts another strike against Iran after Trump says Iran 'negotiating on fumes'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-28-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71031841.ece",
+      "description": "The mixed signals have thrown into question talks aimed at formally ending the war that began on February 28 with U.S.-Israeli strikes on Iran",
+      "date": "Thu, 28 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "US envoy warns Spain to be 'very careful' in deepening ties with China",
-      "link": "https://www.dawn.com/news/2003476/us-envoy-warns-spain-to-be-very-careful-in-deepening-ties-with-china",
-      "description": "Spain must proceed very carefully as it deepens its relationship with China to keep it out of critical sectors such as data, defence and telecommunications where Beijing seeks to dominate, Benjamin Leon, the US Ambassador to Spain, said on Wednesday. In one of his first public sp...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
+      "title": "Iran forces fired at four ships attempting to cross Hormuz: state broadcaster",
+      "link": "https://www.thehindu.com/news/international/iran-forces-fired-at-four-ships-attempting-to-cross-hormuz-state-broadcaster/article71031890.ece",
+      "description": "“Four vessels attempted to cross the Strait of Hormuz and enter the Persian Gulf without coordination with the security forces,” IRIB posted on Telegram",
+      "date": "Thu, 28 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -333,9 +363,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: U.S. military strike in eastern Pacific kills two men",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-27-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71027588.ece",
-      "description": "Iran says war unlikely as U.S. President Donald Trump warns he may 'finish the job'; \"Iran is very ​much ‌intent, they want very much to make a deal. ‌So far, they ​haven’t gotten there ... we’re ⁠not satisfied with it,\" Mr. Trump says",
+      "title": "U.S. military conducts another defensive strike against Iran",
+      "link": "https://www.thehindu.com/news/international/us-military-conducts-another-defensive-strike-against-iran/article71031820.ece",
+      "description": "Speaking at the start of a Cabinet meeting, Donald Trump expressed confidence that a deal is nea",
       "date": "Thu, 28 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -343,44 +373,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says U.S. not satisfied yet on deal with Iran",
-      "link": "https://www.thehindu.com/news/international/trump-says-us-not-satisfied-yet-on-deal-with-iran/article71030748.ece",
-      "description": "Iran is very ​much ‌intent, they want very much to make a deal. ‌So far they ​haven’t gotten there ... we’re ⁠not satisfied with it, but we will ‌be, says U.S. President Donald Trump",
-      "date": "Wed, 27 May 2026",
+      "title": "U.S. Military carries out ‘self-defence’ strikes in Iran, including on missile launch sites",
+      "link": "https://www.thehindu.com/news/international/us-military-self-defence-strikes-in-iran-missile-launch-sites-may-26-2026/article71023465.ece",
+      "description": "The strikes were done “to protect our troops from threats posed by Iranian forces”, but the military was “using restraint during the ongoing ceasefire”",
+      "date": "Thu, 28 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says U.S., Israel goal still to overthrow Islamic republic",
-      "link": "https://www.thehindu.com/news/international/iran-says-us-israel-goal-still-to-overthrow-islamic-republic/article71030491.ece",
-      "description": "The Ministry said it received intelligence that the U.S. and Israel would seek to \"intensify economic pressure\", create divisions in the country among religious and ethnic groups and carry out sabotage and other \"terrorist operations\".",
-      "date": "Wed, 27 May 2026",
+      "title": "Iran-Israel war highlights: U.S. military strike in eastern Pacific kills two men",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-27-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71027588.ece",
+      "description": "Iran says war unlikely as U.S. President Donald Trump warns he may 'finish the job'",
+      "date": "Thu, 28 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Hezbollah says clashed with Israeli troops in south Lebanon beyond 'yellow line'",
-      "link": "https://www.thehindu.com/news/international/hezbollah-says-clashed-with-israeli-troops-in-south-lebanon-beyond-yellow-line/article71030380.ece",
-      "description": "Israel stepped up strikes on south and east Lebanon on Tuesday (May 26), issuing evacuation warnings for at least 50 towns and villages and killing at least 31 people, as Hezbollah also kept up its attacks.",
-      "date": "Wed, 27 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US military shots down 4 Iranian drones, hits drone launching site — media",
+      "link": "https://tass.com/world/2137615",
+      "description": "According to a source cited by Axios correspondent Barak Ravid, Iran earlier fired 4 one-way drones at a US commercial ship",
+      "date": "Thu, 28 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "China supports 'active mediation' by Pakistan between U.S.-Iran, says Foreign Minister Wang Yi",
-      "link": "https://www.thehindu.com/news/international/china-supports-active-mediation-by-pakistan-between-us-iran-says-foreign-minister-wang-yi/article71027879.ece",
-      "description": "Chinese Foreign Minister Wang Yi’s remarks came as U.S. Senator Lindsey Graham said in a post on X that Pakistan, as a ‘mediator’ between the U.S. and Iran, is more than ‘problematic’",
+      "title": "US hits military facility in Iran — agency",
+      "link": "https://tass.com/world/2137611",
+      "description": "According to a source cited by Reuters, the target was assessed as posing a threat to US forces and commercial maritime traffic",
+      "date": "Thu, 28 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israel strikes 550 targets in Lebanon since beginning of week, army says",
+      "link": "https://tass.com/world/2137583",
+      "description": "The IDF struck military structures, command centers, and launch sites used by the Hezbollah Shia organization on Wednesday",
       "date": "Wed, 27 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Lebanon’s death toll from Israeli strikes reaches 3,269 — Health Ministry",
+      "link": "https://tass.com/world/2137575",
+      "description": "Another 9,840 people have been injured",
+      "date": "Wed, 27 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
