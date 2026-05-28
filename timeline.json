@@ -1,25 +1,26 @@
 {
-  "updated": "2026-05-28 06:04 UTC",
+  "updated": "2026-05-28 10:43 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-05-28",
       "dateDisplay": "May 28, 2026",
-      "title": "Israel issues evacuation order for swathes of southern Lebanon",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "BBC"
+        "BBC",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-05-27",
       "dateDisplay": "May 27, 2026",
-      "title": "Trump says no one will control Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
+      "title": "U.S. conducts another strike against Iran after Trump says Iran is 'negotiating on fumes'",
+      "link": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
       "sources": [
-        "Al Jazeera"
+        "NPR News"
       ],
       "sourceCount": 1,
       "type": "framing"

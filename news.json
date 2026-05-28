@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-28 06:04 UTC",
-  "total": 43,
+  "updated": "2026-05-28 10:43 UTC",
+  "total": 41,
   "stories": [
+    {
+      "title": "The possible return of Somali pirates poses a new problem for the shipping industry",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5815335/the-possible-return-of-somali-pirates-poses-a-new-problem-for-the-shipping-industry",
+      "description": "As the global economy focuses on the Strait of Hormuz crisis, another shipping crisis looms in the region -- the return of Somali pirates.",
+      "date": "Thu, 28 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Iranians are back online after a monthslong shutdown but face heavy restrictions",
+      "link": "https://www.npr.org/2026/05/28/g-s1-124610/iranians-back-online",
+      "description": "Iranians began to regain internet access after authorities ended a monthslong shutdown. Users said service was slow and spotty in some areas, with apps like YouTube and Instagram heavily restricted.",
+      "date": "Thu, 28 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. conducts another strike against Iran after Trump says Iran is 'negotiating on fumes'",
       "link": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
@@ -23,19 +43,19 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations",
-      "link": "https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health",
-      "description": "The U.S. military has launched new attacks on Iran while talks to end the conflict are ongoing. And, the Department of Justice is using a new tactic in immigration courts to accelerate deportations.",
-      "date": "Tue, 26 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "description": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
+      "date": "Thu, 28 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
-      "title": "Israel issues evacuation order for swathes of southern Lebanon",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "description": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
       "date": "Thu, 28 May 2026",
       "source": "BBC",
       "region": "eu",
@@ -123,19 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
-      "link": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
-      "description": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
-      "date": "Mon, 25 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US carries out strikes in Iran as Revolutionary Guards target US airbase",
-      "link": "https://www.france24.com/en/middle-east/20260528-middle-east-war-live-us-carries-out-strikes-in-iran-targeting-military-site",
-      "description": "",
+      "title": "Lebanon: Massive fireball as Israel strikes city of Tyre",
+      "link": "https://www.france24.com/en/video/20260528-lebanon-massive-fireball-as-israel-strikes-city-of-tyre",
+      "description": "A massive fireball was seen rising into the air Thursday as heavy Israeli strikes pounded Lebanon's southern coastal city of Tyre. The strikes, which come as Muslims celebrate the holiday of Eid al-Adha, followed a warning by Israel that it had declared a new swathe of southern L...",
       "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -143,9 +153,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel declares new 'combat zone' in southern Lebanon, orders evacuations",
-      "link": "https://www.france24.com/en/middle-east/20260528-israel-declares-new-combat-zone-in-southern-lebanon-and-orders-evacuations",
-      "description": "Israel expanded its military campaign in southern Lebanon on Wednesday, ordering residents to evacuate areas south of the Zahrani River as strikes intensified despite an April ceasefire. The escalation comes as Israeli officials seek to pressure Hezbollah while avoiding actions i...",
+      "title": "How Norwegian researchers are using satellite images to track tourism’s environmental impact",
+      "link": "https://www.france24.com/en/tv-shows/the-observers/20260528-norwegian-researchers-satellite-images-track-tourism-environmental-impact",
+      "description": "Norway’s northern Lofoten Islands are attracting an increasing number of tourists, raising concerns about the environmental impact. To help document these effects, Norwegian researchers have launched a new project that utilises satellite images.",
       "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,9 +163,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: US carries out strikes in Iran targeting military site",
-      "link": "https://www.france24.com/en/middle-east/20260528-middle-east-war-live-us-carries-out-strikes-in-iran-targeting-military-site",
-      "description": "The US military on Thursday conducted its second defensive strike this week against Iran after officials said they observed aggressive activity from the Iranian military. This comes shortly after US President Donald Trump threatened to \"finish the job\" if Tehran didn't agree to a...",
+      "title": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal",
+      "link": "https://www.france24.com/en/video/20260528-iran-and-us-trade-air-strikes-after-trump-dismisses-report-of-hormuz-deal",
+      "description": "Iran's Revolutionary Guard targeted a US airbase on Thursday after the US military carried out what a Washington official said were strikes on an Iranian drone operation near the Strait of Hormuz, hours after President Donald Trump rejected a report he was close to a compromise d...",
       "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -163,44 +173,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Where does Europe's far-right turn? Populists look to distance themselves from Trump",
-      "link": "https://www.france24.com/en/where-does-europe-s-far-right-turn-populists-look-to-distance-themselves-from-trump",
-      "description": "If the first thing Europeans think of when they fill up at the pump is Donald Trump's decision to attack Iran, it's little wonder that previously pro-Maga populists are quietly distancing themselves from the president of the United States. In fact, Trump actively campaigning for ...",
-      "date": "Wed, 27 May 2026",
+      "title": "Oil prices on the rise again as US-Iran fighting escalates",
+      "link": "https://www.france24.com/en/tv-shows/business/20260528-oil-prices-on-the-rise-again-as-us-iran-fighting-escalates",
+      "description": "Benchmark prices for crude oil rose on Thursday as Iran said it targeted a US airbase in response to American air strikes. Commercial traffic through the Strait of Hormuz, which had slightly ticked up in previous days, dwindled down to almost nothing again. Also in this edition: ...",
+      "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war drives India’s cockroaches out, but can Modi crush them?",
-      "link": "https://www.france24.com/en/asia-pacific/20260527-iran-war-drives-india-cockroaches-out-but-can-modi-crush-them",
-      "description": "When an Indian student at a US university used AI to create the “Cockroach Janta Party (CPJ)”, a parody political party, it sparked a viral sensation, hitting the zeitgeist in a country that has been particularly affected by the Iran war. As India's youth circumvent bans to expre...",
-      "date": "Wed, 27 May 2026",
+      "title": "US strikes Iran, drawing retaliatory attack on American base",
+      "link": "https://www.france24.com/en/video/20260528-us-strikes-iran-drawing-retaliatory-attack-on-american-base-1",
+      "description": "The United States struck southern Iran on Thursday, drawing retaliation from Tehran against a US military base, in the most serious clashes since an April ceasefire began. The fighting, which drew in US ally Kuwait, threatened to jettison a fragile diplomatic push to forge a peac...",
+      "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "'More than 100,000 people live in this city': Israel urges Tyre residents to leave homes",
-      "link": "https://www.france24.com/en/more-than-100-000-people-live-in-this-city-israel-urges-tyre-residents-to-leave-homes",
-      "description": "FRANCE 24 correspondent Renée Davis reports from Beirut on the Israeli military's call for the population of Tyre in southern Lebanon to leave their homes ahead of a fresh wave of air strikes.",
-      "date": "Wed, 27 May 2026",
+      "title": "Israel strikes Tyre after declaring 'combat zones' in south Lebanon",
+      "link": "https://www.france24.com/en/video/20260528-israel-strikes-tyre-after-declaring-combat-zones-in-south-lebanon-1",
+      "description": "The Israeli military said on Thursday it had begun new strikes on Hezbollah infrastructure around the southern Lebanese city of Tyre after issuing an evacuation warning to its residents. The sweeping warning – the first of its kind since an April 17 ceasefire – came as many Leban...",
+      "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran: Global internet access to reopen after 3-month blackout",
-      "link": "https://www.france24.com/en/video/20260527-iran-global-internet-access-to-reopen-after-3-month-blackout",
-      "description": "🇮🇷 Just an empty gesture? Paymon Azmoudeh weighs in on #Iran’s orders to reopen international internet access after a 3-month blackout. More on #F24Debate ➡️https://go.france24.com/XiV5",
-      "date": "Wed, 27 May 2026",
+      "title": "Trump met with 'laughter and silence' by US allies in Gulf region",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260528-trump-met-with-laughter-and-silence-by-us-allies-in-gulf-region",
+      "description": "PRESS REVIEW – Wednesday, May 27, 2026: First, US President Donald Trump's attempts at finding a deal with Iran are under a lot of scrutiny. Next, the EU is asked to consider the environmental impact of mega data centres, as locals fight back against projects which might harm the...",
+      "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran says it has a new air defence system. How significant is it?",
+      "link": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
+      "description": "Iran’s claimed drone interception has renewed attention on Tehran’s military capabilities after months of bombardment.",
+      "date": "Thu, 28 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
+      "link": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
+      "description": "IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas.",
+      "date": "Thu, 28 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What’s happening on Iran war day 90 as US launches new strikes",
+      "link": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
+      "description": "The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.",
+      "date": "Thu, 28 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
@@ -213,60 +253,10 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
+      "title": "Iran war live: US attacks as Israeli forces cross Lebanon’s Litani River",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
-      "description": "Kuwait&#039;s military says air defences are battling &#039;hostile&#039; missiles and drones, as alarms sound across the country.",
+      "description": "US launches &#039;defensive&#039; strikes on an Iranian military site as the Revolutionary Guard retaliates against a US airbase.",
       "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Markets rally amid hopes of US-Iran deal",
-      "link": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
-      "description": "Markets betting a deal will reopen the Strait of Hormuz and soothe the deep global economic uncertainty.",
-      "date": "Wed, 27 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
-      "description": "Intensification comes while US-Iran indirect talks continue.",
-      "date": "Wed, 27 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says no one will control Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
-      "description": "Donald Trump says he won’t allow Iran to control ⁠the Strait of ⁠Hormuz under the terms of any deal reached with Tehran.",
-      "date": "Wed, 27 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump appears to threaten Oman over Strait of Hormuz impasse",
-      "link": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
-      "description": "The US president warns that Oman, a US ally, &#039;will behave just like everybody else, or we will have to blow them up&#039;.",
-      "date": "Wed, 27 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
-      "link": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss",
-      "description": "Iranians are seeing the price of meat, and other basics, escalate due to the US blockade and sanctions.",
-      "date": "Wed, 27 May 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -343,6 +333,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump appears to threaten to ‘blow up’ ally Oman over Strait of Hormuz control",
+      "link": "https://www.thehindu.com/news/international/trump-appears-to-threaten-to-blow-up-ally-oman-over-strait-of-hormuz-control/article71032429.ece",
+      "description": "The U.S. President said Oman must \"behave\" or he would \"blow them up,\" when he was asked if he would accept a short-term deal to allow Iran and the Gulf state to control the Strait of Hormuz",
+      "date": "Thu, 28 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran forces fired at four ships attempting to cross Hormuz: state broadcaster",
       "link": "https://www.thehindu.com/news/international/iran-forces-fired-at-four-ships-attempting-to-cross-hormuz-state-broadcaster/article71031890.ece",
       "description": "“Four vessels attempted to cross the Strait of Hormuz and enter the Persian Gulf without coordination with the security forces,” IRIB posted on Telegram",
@@ -383,19 +383,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war highlights: U.S. military strike in eastern Pacific kills two men",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-27-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71027588.ece",
-      "description": "Iran says war unlikely as U.S. President Donald Trump warns he may 'finish the job'",
-      "date": "Thu, 28 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US military shots down 4 Iranian drones, hits drone launching site — media",
-      "link": "https://tass.com/world/2137615",
-      "description": "According to a source cited by Axios correspondent Barak Ravid, Iran earlier fired 4 one-way drones at a US commercial ship",
+      "title": "Press review: Gulf states seek US ops limits post Iran as Trump Board of Peace faces doubt",
+      "link": "https://tass.com/pressreview/2137665",
+      "description": "Top stories from the Russian press on Thursday, May 28th",
       "date": "Thu, 28 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -403,9 +393,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US hits military facility in Iran — agency",
-      "link": "https://tass.com/world/2137611",
-      "description": "According to a source cited by Reuters, the target was assessed as posing a threat to US forces and commercial maritime traffic",
+      "title": "US needs years to replenish munitions expended in Iran conflict — experts",
+      "link": "https://tass.com/world/2137837",
+      "description": "According to the research, over a thousand Tomahawk missiles were used in the strikes against Iran",
       "date": "Thu, 28 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -413,20 +403,10 @@
       "bias": "Very High"
     },
     {
-      "title": "Israel strikes 550 targets in Lebanon since beginning of week, army says",
-      "link": "https://tass.com/world/2137583",
-      "description": "The IDF struck military structures, command centers, and launch sites used by the Hezbollah Shia organization on Wednesday",
-      "date": "Wed, 27 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Lebanon’s death toll from Israeli strikes reaches 3,269 — Health Ministry",
-      "link": "https://tass.com/world/2137575",
-      "description": "Another 9,840 people have been injured",
-      "date": "Wed, 27 May 2026",
+      "title": "Iran carries out strike on US airbase — IRGC",
+      "link": "https://tass.com/world/2137647",
+      "description": "According to the report, after a facility near the airport of the Iranian city of Bandar Abbas came under fire, Iran targeted the US airbase from which the attack had been launched",
+      "date": "Thu, 28 May 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
