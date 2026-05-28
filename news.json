@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-28 10:43 UTC",
-  "total": 41,
+  "updated": "2026-05-28 14:27 UTC",
+  "total": 40,
   "stories": [
+    {
+      "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
+      "link": "https://www.npr.org/2026/05/28/g-s1-124621/up-first-newsletter-iran-lebanon-israel-us-war-ebola-congo-food-insecurity-google-polymarket",
+      "description": "The U.S. says it has struck Iran again as peace talks continue to end the conflict. And, the federal government has charged a Google staffer for allegedly using insider information in Polymarket trades.",
+      "date": "Thu, 28 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The possible return of Somali pirates poses a new problem for the shipping industry",
       "link": "https://www.npr.org/2026/05/28/nx-s1-5815335/the-possible-return-of-somali-pirates-poses-a-new-problem-for-the-shipping-industry",
@@ -33,17 +43,7 @@
       "bias": "Low"
     },
     {
-      "title": "Prospects fade for imminent end to Iran war as attacks restart",
-      "link": "https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates",
-      "description": "Israel says it will intensify attacks against Hezbollah in Lebanon and U.S. military struck Iranian boats and missile launch sites as envoys continued negotiations for a deal that would end the three-month war.",
-      "date": "Tue, 26 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
+      "title": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
       "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
       "date": "Thu, 28 May 2026",
@@ -143,6 +143,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Talk to Russia? First, Europe needs to pick an envoy – and know what it wants to say",
+      "link": "https://www.france24.com/en/europe/20260528-talk-to-russia-first-europe-needs-to-pick-an-envoy-%E2%80%93-and-know-what-it-wants-to-say",
+      "description": "With the US bogged down in its war against Iran, Ukraine has been urging Europe to step up and play an active role in negotiations on bringing the Russian invasion to an end. But EU officials say the bloc first needs to be aligned on what it wants to say to Moscow – and who would...",
+      "date": "Thu, 28 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel strikes Beirut southern suburb ahead of crucial Washington talks",
+      "link": "https://www.france24.com/en/video/20260528-israel-strikes-beirut-southern-suburb-ahead-of-crucial-washington-talks",
+      "description": "Israel’s air force carried out an airstrike on a southern suburb of the capital, Beirut, Thursday afternoon, the Israeli military said, further straining a fragile ceasefire a day ahead of crucial negotiations in Washington. The strike hit an apartment building but it was not imm...",
+      "date": "Thu, 28 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran condemns US ceasefire 'violations' after strikes in south",
+      "link": "https://www.france24.com/en/video/20260528-iran-condemns-us-ceasefire-violations-after-strikes-in-south",
+      "description": "Iran condemned on Thursday what it called violations by the United States after its strikes on the southern port city of Bandar Abbas, while vowing to defend its sovereignty. The ministry's spokesman Esmaeil Baqaei said Iran would \"take all necessary measures to defend its nation...",
+      "date": "Thu, 28 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Lebanon: Massive fireball as Israel strikes city of Tyre",
       "link": "https://www.france24.com/en/video/20260528-lebanon-massive-fireball-as-israel-strikes-city-of-tyre",
       "description": "A massive fireball was seen rising into the air Thursday as heavy Israeli strikes pounded Lebanon's southern coastal city of Tyre. The strikes, which come as Muslims celebrate the holiday of Eid al-Adha, followed a warning by Israel that it had declared a new swathe of southern L...",
@@ -183,34 +213,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US strikes Iran, drawing retaliatory attack on American base",
-      "link": "https://www.france24.com/en/video/20260528-us-strikes-iran-drawing-retaliatory-attack-on-american-base-1",
-      "description": "The United States struck southern Iran on Thursday, drawing retaliation from Tehran against a US military base, in the most serious clashes since an April ceasefire began. The fighting, which drew in US ally Kuwait, threatened to jettison a fragile diplomatic push to forge a peac...",
+      "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+      "link": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
+      "description": "The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz.",
       "date": "Thu, 28 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Israel strikes Tyre after declaring 'combat zones' in south Lebanon",
-      "link": "https://www.france24.com/en/video/20260528-israel-strikes-tyre-after-declaring-combat-zones-in-south-lebanon-1",
-      "description": "The Israeli military said on Thursday it had begun new strikes on Hezbollah infrastructure around the southern Lebanese city of Tyre after issuing an evacuation warning to its residents. The sweeping warning – the first of its kind since an April 17 ceasefire – came as many Leban...",
+      "title": "Iran says US must issue multiple-entry visas for its World Cup squad",
+      "link": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
+      "description": "Iran&#039;s delegation will be based in Tijuana, Mexico, and will travel to the US for all three group stage matches.",
       "date": "Thu, 28 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump met with 'laughter and silence' by US allies in Gulf region",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260528-trump-met-with-laughter-and-silence-by-us-allies-in-gulf-region",
-      "description": "PRESS REVIEW – Wednesday, May 27, 2026: First, US President Donald Trump's attempts at finding a deal with Iran are under a lot of scrutiny. Next, the EU is asked to consider the environmental impact of mega data centres, as locals fight back against projects which might harm the...",
+      "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
+      "link": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
+      "description": "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis.",
       "date": "Thu, 28 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran says it has a new air defence system. How significant is it?",
@@ -223,44 +253,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-      "link": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
-      "description": "IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas.",
+      "title": "Dar to meet Rubio in Washington tomorrow: FO",
+      "link": "https://www.dawn.com/news/2003563/dar-to-meet-rubio-in-washington-tomorrow-fo",
+      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar will visit Washington on Friday where he will meet with US Secretary of State and National Security Advisor Marco Rubio, the Ministry of Foreign Affairs said on Thursday. The visit comes as Islamabad is attempting to negotiate ...",
       "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "What’s happening on Iran war day 90 as US launches new strikes",
-      "link": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
-      "description": "The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.",
+      "title": "Pentagon says US military personnel reportedly being targeted using location data",
+      "link": "https://www.dawn.com/news/2003552/pentagon-says-us-military-personnel-reportedly-being-targeted-using-location-data",
+      "description": "US forces deployed to war zones have been targeted using commercially available location data, according to reports fielded by military officials, an illustration of how the global surveillance economy is shaping the battlefield. In a letter shared with Reuters by US Senator Ron ...",
       "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-      "link": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
-      "description": "Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces.",
-      "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: US attacks as Israeli forces cross Lebanon’s Litani River",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
-      "description": "US launches &#039;defensive&#039; strikes on an Iranian military site as the Revolutionary Guard retaliates against a US airbase.",
-      "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "US strikes Iran, drawing retaliatory attack on American base after Trump dismisses report of Hormuz deal",
@@ -303,29 +313,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran vows not to let aggression go unanswered after US violates truce",
-      "link": "https://www.dawn.com/news/2003367/iran-vows-not-to-let-aggression-go-unanswered-after-us-violates-truce",
-      "description": "• Washington says strikes targeted Iranian missile sites, mine-laying boats• Rubio says Iran deal may take ‘a few days’; insists Hormuz will reopen ‘one way or the other’• Iran says US drone downed, F-35 fired at; tanker damaged by external explosion off Oman• Trump to hold Camp ...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
+      "title": "Shaky ceasefire in Iran war challenged again as Kuwait faces a missile attack",
+      "link": "https://www.thehindu.com/news/international/shaky-ceasefire-in-iran-war-challenged-again-as-kuwait-faces-a-missile-attack/article71033574.ece",
+      "description": "Tensions in West Asia escalated again after Kuwait said it intercepted incoming missiles and drones, with the U.S. blaming Iran for breaching a ceasefire",
+      "date": "Thu, 28 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Zelensky asked Trump for air defence munitions: AFP",
-      "link": "https://www.dawn.com/news/2003499/zelensky-asked-trump-for-air-defence-munitions-afp",
-      "description": "Ukrainian President Volodymyr Zelensky has urged the United States to provide more ammunition for its Patriot air defence systems to counter Russian ballistic missiles, according to a document reviewed by AFP on Wednesday. The appeal underscores Ukraine’s almost total reliance on...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-Israel war LIVE: U.S. military conducts another strike against Iran after Trump says Iran 'negotiating on fumes'",
+      "title": "Iran-Israel war LIVE: Iran Guards threaten 'firm response' if U.S. repeats attacks",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-28-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71031841.ece",
       "description": "The mixed signals have thrown into question talks aimed at formally ending the war that began on February 28 with U.S.-Israeli strikes on Iran",
+      "date": "Thu, 28 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli strikes kill at least 14 across southern Lebanon ahead of Washington talks",
+      "link": "https://www.thehindu.com/news/international/israeli-strikes-kill-at-least-14-across-southern-lebanon-ahead-of-washington-talks/article71033349.ece",
+      "description": "Lebanese and Israeli military officials are set to hold their first security talks on Friday in the U.S. capital; the talks have extended a nominal ceasefire that went into effect April 17, although the attacks have since intensified, while sparing the Lebanese capital Beirut.",
       "date": "Thu, 28 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -363,29 +373,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. military conducts another defensive strike against Iran",
-      "link": "https://www.thehindu.com/news/international/us-military-conducts-another-defensive-strike-against-iran/article71031820.ece",
-      "description": "Speaking at the start of a Cabinet meeting, Donald Trump expressed confidence that a deal is nea",
-      "date": "Thu, 28 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. Military carries out ‘self-defence’ strikes in Iran, including on missile launch sites",
-      "link": "https://www.thehindu.com/news/international/us-military-self-defence-strikes-in-iran-missile-launch-sites-may-26-2026/article71023465.ece",
-      "description": "The strikes were done “to protect our troops from threats posed by Iranian forces”, but the military was “using restraint during the ongoing ceasefire”",
-      "date": "Thu, 28 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Press review: Gulf states seek US ops limits post Iran as Trump Board of Peace faces doubt",
-      "link": "https://tass.com/pressreview/2137665",
-      "description": "Top stories from the Russian press on Thursday, May 28th",
+      "title": "Russian-Iranian cooperation aimed at regional peace, stability — Iranian security council",
+      "link": "https://tass.com/world/2137993",
+      "description": "Deputy Secretary of Iran’s Supreme National Security Council Ali Bagheri said that Tehran and Moscow share common views on important international problems",
       "date": "Thu, 28 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -393,9 +383,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US needs years to replenish munitions expended in Iran conflict — experts",
-      "link": "https://tass.com/world/2137837",
-      "description": "According to the research, over a thousand Tomahawk missiles were used in the strikes against Iran",
+      "title": "Japan purchased 720,000 oil barrels from Russia — politician",
+      "link": "https://tass.com/economy/2137945",
+      "description": "This refers to oil, the supplies of which are linked to gas contracts within the framework of the Sakhalin-2 project and which is not subject to anti-Russian sanctions",
       "date": "Thu, 28 May 2026",
       "source": "TASS",
       "region": "ru",
@@ -403,9 +393,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran carries out strike on US airbase — IRGC",
-      "link": "https://tass.com/world/2137647",
-      "description": "According to the report, after a facility near the airport of the Iranian city of Bandar Abbas came under fire, Iran targeted the US airbase from which the attack had been launched",
+      "title": "Israeli military delivers precision strike on Beirut",
+      "link": "https://tass.com/world/2137943",
+      "description": "\"Details to follow,\" the IDF press service said",
       "date": "Thu, 28 May 2026",
       "source": "TASS",
       "region": "ru",
