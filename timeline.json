@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-27 23:08 UTC",
+  "updated": "2026-05-28 01:56 UTC",
   "total": 15,
   "events": [
+    {
+      "date": "2026-05-28",
+      "dateDisplay": "May 28, 2026",
+      "title": "Middle East war live: US carries out strikes in Iran targeting military site",
+      "link": "https://www.france24.com/en/middle-east/20260528-middle-east-war-live-us-carries-out-strikes-in-iran-targeting-military-site",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-05-27",
       "dateDisplay": "May 27, 2026",
@@ -150,17 +161,6 @@
       "dateDisplay": "May 02, 2026",
       "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
       "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-01",
-      "dateDisplay": "May 01, 2026",
-      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],

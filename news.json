@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27 23:08 UTC",
-  "total": 39,
+  "updated": "2026-05-28 01:56 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Trump says Iran 'negotiating on fumes,' insists midterms won't impact his war strategy",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: US carries out strikes in Iran targeting military site",
+      "link": "https://www.france24.com/en/middle-east/20260528-middle-east-war-live-us-carries-out-strikes-in-iran-targeting-military-site",
+      "description": "The US military on Wednesday conducted its second defensive strike this week against Iran after officials said they observed aggressive activity from the Iranian military. This comes shortly after US President Donald Trump threatened to \"finish the job\" if Tehran didn't agree to ...",
+      "date": "Thu, 28 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Where does Europe's far-right turn? Populists look to distance themselves from Trump",
       "link": "https://www.france24.com/en/where-does-europe-s-far-right-turn-populists-look-to-distance-themselves-from-trump",
       "description": "If the first thing Europeans think of when they fill up at the pump is Donald Trump's decision to attack Iran, it's little wonder that previously pro-Maga populists are quietly distancing themselves from the president of the United States. In fact, Trump actively campaigning for ...",
@@ -171,6 +181,26 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
+      "link": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
+      "description": "Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces.",
+      "date": "Thu, 28 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: US strikes Iranian site as tensions rise in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
+      "description": "The Lebanese Health Ministry reports that Israeli attacks have killed 3,269 people since March 2.",
+      "date": "Thu, 28 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Markets rally amid hopes of US-Iran deal",
@@ -293,19 +323,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says U.S. not satisfied yet on deal with Iran",
-      "link": "https://www.thehindu.com/news/international/trump-says-us-not-satisfied-yet-on-deal-with-iran/article71030748.ece",
-      "description": "Iran is very ​much ‌intent, they want very much to make a deal. ‌So far they ​haven’t gotten there ... we’re ⁠not satisfied with it, but we will ‌be, says U.S. President Donald Trump",
-      "date": "Wed, 27 May 2026",
+      "title": "Iran says war unlikely as Trump warns he may ‘finish the job’",
+      "link": "https://www.thehindu.com/news/international/iran-says-war-unlikely-as-trump-warns-he-may-finish-the-job/article71031814.ece",
+      "description": "Iran and the U.S. have traded threats for weeks while negotiating through Pakistani mediation",
+      "date": "Thu, 28 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Trump says U.S. not satisfied yet on deal with Iran",
+      "title": "Iran-Israel war LIVE: U.S. military strike in eastern Pacific kills two men",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-27-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71027588.ece",
-      "description": "U.S. President Donald Trump says, \"Iran is very ​much ‌intent, they want very much to make a deal. ‌So far, they ​haven’t gotten there ... we’re ⁠not satisfied with it.\"",
+      "description": "Iran says war unlikely as U.S. President Donald Trump warns he may 'finish the job'; \"Iran is very ​much ‌intent, they want very much to make a deal. ‌So far, they ​haven’t gotten there ... we’re ⁠not satisfied with it,\" Mr. Trump says",
+      "date": "Thu, 28 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says U.S. not satisfied yet on deal with Iran",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-not-satisfied-yet-on-deal-with-iran/article71030748.ece",
+      "description": "Iran is very ​much ‌intent, they want very much to make a deal. ‌So far they ​haven’t gotten there ... we’re ⁠not satisfied with it, but we will ‌be, says U.S. President Donald Trump",
       "date": "Wed, 27 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -341,56 +381,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan's role as mediator problematic: U.S. senator",
-      "link": "https://www.thehindu.com/news/international/pakistans-role-as-mediator-problematic-us-senator/article71027487.ece",
-      "description": "Lindsey Graham asked Pakistan to respond to U.S. President Donald Trump's call to mediators in the U.S.-Iran war to join the Accords.",
-      "date": "Wed, 27 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel strikes 550 targets in Lebanon since beginning of week, army says",
-      "link": "https://tass.com/world/2137583",
-      "description": "The IDF struck military structures, command centers, and launch sites used by the Hezbollah Shia organization on Wednesday",
-      "date": "Wed, 27 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Lebanon’s death toll from Israeli strikes reaches 3,269 — Health Ministry",
-      "link": "https://tass.com/world/2137575",
-      "description": "Another 9,840 people have been injured",
-      "date": "Wed, 27 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says no plans to ease sanctions if Iran gives up enriched uranium",
-      "link": "https://tass.com/world/2137553",
-      "description": "The US president said that Tehran will give up the enriched uranium not for sanctions relief",
-      "date": "Wed, 27 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump signals possibility of renewed US strikes on Iran",
-      "link": "https://tass.com/world/2137545",
-      "description": "The US leader still assumed that Tehran wants to just make a deal",
-      "date": "Wed, 27 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
