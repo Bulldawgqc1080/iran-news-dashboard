@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-28 14:27 UTC",
-  "total": 40,
+  "updated": "2026-05-28 17:55 UTC",
+  "total": 41,
   "stories": [
+    {
+      "title": "Australian woman charged over travel to Syria to join Islamic State",
+      "link": "https://www.npr.org/2026/05/28/g-s1-124669/australian-woman-charged-over-travel-to-syria-to-join-islamic-state",
+      "description": "The arrest came eight months after she returned to Australia with her children from Lebanon.",
+      "date": "Thu, 28 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
       "link": "https://www.npr.org/2026/05/28/g-s1-124621/up-first-newsletter-iran-lebanon-israel-us-war-ebola-congo-food-insecurity-google-polymarket",
@@ -27,16 +37,6 @@
       "link": "https://www.npr.org/2026/05/28/g-s1-124610/iranians-back-online",
       "description": "Iranians began to regain internet access after authorities ended a monthslong shutdown. Users said service was slow and spotty in some areas, with apps like YouTube and Instagram heavily restricted.",
       "date": "Thu, 28 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. conducts another strike against Iran after Trump says Iran is 'negotiating on fumes'",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
-      "description": "U.S. forces have carried out new defensive strikes on an Iran military facility after downing Iranian attack drones. That's according to U.S. officials who were not authorized to comment publicly and spoke on the condition of anonymity.",
-      "date": "Wed, 27 May 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -143,6 +143,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel carries out strike on Beirut suburbs, first near capital in weeks",
+      "link": "https://www.france24.com/en/video/20260528-israel-carries-out-strike-on-beirut-suburbs-first-near-capital-in-weeks",
+      "description": "An Israeli strike hit a building in the southern suburbs of the Lebanese capital on Thursday, the first strike to hit near Beirut in weeks amid a ceasefire that has failed to halt fighting between Israeli troops and Hezbollah in south ​Lebanon. The Israeli military ‌said it had c...",
+      "date": "Thu, 28 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran: US base targeted in missile strike",
+      "link": "https://www.france24.com/en/video/20260528-iran-us-base-targeted-in-missile-strike",
+      "description": "Iranian state television on Thursday released images it said showed missiles being launched at an American air base from where earlier in the day a strike had been launched on Iran’s port ⁠city of Bandar Abbas. It is the most serious trade of fire since an April ceasefire began a...",
+      "date": "Thu, 28 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Reconnected? Iranians say only 'drip-feed' internet has returned after three-month shutdown",
+      "link": "https://www.france24.com/en/asia-pacific/20260528-reconnected-iranians-say-only-drip-feed-internet-has-returned-after-three-month-shutdown",
+      "description": "After almost three months of being cut off from the world, internet access was partially restored in Iran starting on Tuesday. While some rejoice at finally being reconnected and able to check in on their loved ones, many complain about the persistent slowness in connectivity and...",
+      "date": "Thu, 28 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Talk to Russia? First, Europe needs to pick an envoy – and know what it wants to say",
       "link": "https://www.france24.com/en/europe/20260528-talk-to-russia-first-europe-needs-to-pick-an-envoy-%E2%80%93-and-know-what-it-wants-to-say",
       "description": "With the US bogged down in its war against Iran, Ukraine has been urging Europe to step up and play an active role in negotiations on bringing the Russian invasion to an end. But EU officials say the bloc first needs to be aligned on what it wants to say to Moscow – and who would...",
@@ -173,79 +203,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon: Massive fireball as Israel strikes city of Tyre",
-      "link": "https://www.france24.com/en/video/20260528-lebanon-massive-fireball-as-israel-strikes-city-of-tyre",
-      "description": "A massive fireball was seen rising into the air Thursday as heavy Israeli strikes pounded Lebanon's southern coastal city of Tyre. The strikes, which come as Muslims celebrate the holiday of Eid al-Adha, followed a warning by Israel that it had declared a new swathe of southern L...",
+      "title": "US inflation surges to three-year high amid tensions with Iran",
+      "link": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
+      "description": "Heightened petrol prices led the inflationary pressures, with prices that jumped 5.5 percent in April.",
       "date": "Thu, 28 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "How Norwegian researchers are using satellite images to track tourism’s environmental impact",
-      "link": "https://www.france24.com/en/tv-shows/the-observers/20260528-norwegian-researchers-satellite-images-track-tourism-environmental-impact",
-      "description": "Norway’s northern Lofoten Islands are attracting an increasing number of tourists, raising concerns about the environmental impact. To help document these effects, Norwegian researchers have launched a new project that utilises satellite images.",
+      "title": "Smoke rises over Beirut after Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss",
+      "description": "Footage shows smoke billowing over south Beirut following an Israeli attack on the Lebanese capital.",
       "date": "Thu, 28 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal",
-      "link": "https://www.france24.com/en/video/20260528-iran-and-us-trade-air-strikes-after-trump-dismisses-report-of-hormuz-deal",
-      "description": "Iran's Revolutionary Guard targeted a US airbase on Thursday after the US military carried out what a Washington official said were strikes on an Iranian drone operation near the Strait of Hormuz, hours after President Donald Trump rejected a report he was close to a compromise d...",
+      "title": "US Treasury threatens Oman with sanctions over Hormuz Strait",
+      "link": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss",
+      "description": "US official says Oman should know that Washington &#039;will aggressively target&#039; actors that facilitate tolls in waterway.",
       "date": "Thu, 28 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Oil prices on the rise again as US-Iran fighting escalates",
-      "link": "https://www.france24.com/en/tv-shows/business/20260528-oil-prices-on-the-rise-again-as-us-iran-fighting-escalates",
-      "description": "Benchmark prices for crude oil rose on Thursday as Iran said it targeted a US airbase in response to American air strikes. Commercial traffic through the Strait of Hormuz, which had slightly ticked up in previous days, dwindled down to almost nothing again. Also in this edition: ...",
+      "title": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
+      "link": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss",
+      "description": "Bandar Abbas, which the US has targeted multiple times, occupies a strategically sensitive position in Strait of Hormuz.",
       "date": "Thu, 28 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
       "link": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
       "description": "The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz.",
-      "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says US must issue multiple-entry visas for its World Cup squad",
-      "link": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
-      "description": "Iran&#039;s delegation will be based in Tijuana, Mexico, and will travel to the US for all three group stage matches.",
-      "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
-      "link": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
-      "description": "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis.",
-      "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says it has a new air defence system. How significant is it?",
-      "link": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
-      "description": "Iran’s claimed drone interception has renewed attention on Tehran’s military capabilities after months of bombardment.",
       "date": "Thu, 28 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -313,9 +313,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Shaky ceasefire in Iran war challenged again as Kuwait faces a missile attack",
-      "link": "https://www.thehindu.com/news/international/shaky-ceasefire-in-iran-war-challenged-again-as-kuwait-faces-a-missile-attack/article71033574.ece",
-      "description": "Tensions in West Asia escalated again after Kuwait said it intercepted incoming missiles and drones, with the U.S. blaming Iran for breaching a ceasefire",
+      "title": "U.S.-Iran agree on 60-day ceasefire extension, but Trump must approve: reports | LIVE",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-28-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71031841.ece",
+      "description": "The tentative agreement worked out by the two sides comes at a moment when the fragile ceasefire between the U.S. and Iran appeared to be wavering, U.S. media reported on May 28, 2026.",
       "date": "Thu, 28 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,9 +323,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: Iran Guards threaten 'firm response' if U.S. repeats attacks",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-28-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71031841.ece",
-      "description": "The mixed signals have thrown into question talks aimed at formally ending the war that began on February 28 with U.S.-Israeli strikes on Iran",
+      "title": "U.S.-Iran deal on 60-day ceasefire extension reached, but Trump must approve, source says",
+      "link": "https://www.thehindu.com/news/international/us-iran-deal-ceasefire-extension-donald-trump/article71034669.ece",
+      "description": "The tentative agreement worked out by the two sides comes at a moment when the fragile ceasefire between the U.S. and Iran appeared to be wavering",
+      "date": "Thu, 28 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S., Iran exchange fire threatening peace talks",
+      "link": "https://www.thehindu.com/news/international/shaky-ceasefire-in-iran-war-challenged-again-as-kuwait-faces-a-missile-attack/article71033574.ece",
+      "description": "Washington says it shot down five drones over the Strait of Hormuz while Tehran fires ballistic missiles at American base in Kuwait",
+      "date": "Thu, 28 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. reimposes sanctions on UN expert on Palestinians",
+      "link": "https://www.thehindu.com/news/international/us-reimposes-sanctions-on-un-expert-on-palestinians/article71034468.ece",
+      "description": "A notice on the Treasury Department's website showed that it had reimposed a sanctions designation on Ms. Albanese that blacklists her globally, making it impossible for her to use major credit cards or carry out bank transactions.",
+      "date": "Thu, 28 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen's ex-President Hadi dies in Saudi Arabia",
+      "link": "https://www.thehindu.com/news/international/yemens-ex-president-hadi-dies-in-saudi-arabia/article71034338.ece",
+      "description": "Three days of mourning, with lowered flags and condolence books, was declared to commemorate Hadi, who oversaw a tumultuous period when the Houthis seized large swathes of Yemen, triggering a devastating civil war.",
       "date": "Thu, 28 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -343,59 +373,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump appears to threaten to ‘blow up’ ally Oman over Strait of Hormuz control",
-      "link": "https://www.thehindu.com/news/international/trump-appears-to-threaten-to-blow-up-ally-oman-over-strait-of-hormuz-control/article71032429.ece",
-      "description": "The U.S. President said Oman must \"behave\" or he would \"blow them up,\" when he was asked if he would accept a short-term deal to allow Iran and the Gulf state to control the Strait of Hormuz",
+      "title": "Israel loses influence over US on Iran deal — news portal",
+      "link": "https://tass.com/world/2138149",
+      "description": "AL-Monitor reported that the current draft agreements between the US and Iran do not align with Israel’s interests",
       "date": "Thu, 28 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran forces fired at four ships attempting to cross Hormuz: state broadcaster",
-      "link": "https://www.thehindu.com/news/international/iran-forces-fired-at-four-ships-attempting-to-cross-hormuz-state-broadcaster/article71031890.ece",
-      "description": "“Four vessels attempted to cross the Strait of Hormuz and enter the Persian Gulf without coordination with the security forces,” IRIB posted on Telegram",
+      "title": "Iran, US reach preliminary agreement to hold talks on sanctions, uranium — Axios",
+      "link": "https://tass.com/world/2138125",
+      "description": "According to the portal, the US will commit to discuss sanctions relief and the release of frozen Iranian funds as part of the negotiations",
       "date": "Thu, 28 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran says war unlikely as Trump warns he may ‘finish the job’",
-      "link": "https://www.thehindu.com/news/international/iran-says-war-unlikely-as-trump-warns-he-may-finish-the-job/article71031814.ece",
-      "description": "Iran and the U.S. have traded threats for weeks while negotiating through Pakistani mediation",
+      "title": "US, Iranian negotiators agree on draft memorandum — Axios",
+      "link": "https://tass.com/world/2138081",
+      "description": "According to the sources, US President Donald Trump has yet to give his final approval",
       "date": "Thu, 28 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Russian-Iranian cooperation aimed at regional peace, stability — Iranian security council",
       "link": "https://tass.com/world/2137993",
       "description": "Deputy Secretary of Iran’s Supreme National Security Council Ali Bagheri said that Tehran and Moscow share common views on important international problems",
-      "date": "Thu, 28 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Japan purchased 720,000 oil barrels from Russia — politician",
-      "link": "https://tass.com/economy/2137945",
-      "description": "This refers to oil, the supplies of which are linked to gas contracts within the framework of the Sakhalin-2 project and which is not subject to anti-Russian sanctions",
-      "date": "Thu, 28 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli military delivers precision strike on Beirut",
-      "link": "https://tass.com/world/2137943",
-      "description": "\"Details to follow,\" the IDF press service said",
       "date": "Thu, 28 May 2026",
       "source": "TASS",
       "region": "ru",
