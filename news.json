@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29 05:04 UTC",
-  "total": 38,
+  "updated": "2026-05-29 09:32 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "U.S. and Iran trade strikes. How will this affect deal to end war?",
@@ -51,6 +51,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "description": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+      "date": "Fri, 29 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
@@ -143,19 +153,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Deal with US not imminent, Iran says",
-      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
-      "date": "Mon, 25 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East war live: Vance says US and Iran close to agreement as ceasefire deal reported",
+      "title": "Middle East war live: Israeli strikes put Lebanon's heritage sites in 'serious danger', Beirut says",
       "link": "https://www.france24.com/en/middle-east/20260529-middle-east-war-live-vance-says-us-and-iran-close-to-agreement-as-ceasefire-deal-reported",
-      "description": "US Vice President JD Vance said Thursday that Washington was “not there yet” on an agreement with Iran but that the two sides were close, while also noting that the US retains the ability to significantly set back Tehran’s nuclear programme. The comments came as reports emerged o...",
+      "description": "Israeli strikes on southern Lebanon are putting heritage sites in “serious danger”, warned Beirut's Minister of Culture Ghassan Salamé. \"Bombings fell very close to the ruins of Tyre,\" he said, while adding that the Beaufort Castle was “directly hit”. Follow our liveblog for the ...",
       "date": "Fri, 29 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -163,9 +163,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Fire rips through a dormitory at a girls' school in Kenya",
+      "title": "Fire rips through dormitory at girls' school in Kenya",
       "link": "https://www.france24.com/en/fire-rips-through-a-dormitory-at-a-girls-school-in-kenya",
-      "description": "In tonight's edition, 16 students lose their lives as fire tears through a boarding school in central Kenya. Also, 28th May is World Hunger Day, and it comes as many farmers and families across the continent and around the world are trying to navigate choppy waters caused by the ...",
+      "description": "In tonight's edition, 16 students have lost their lives after a fire tore through a boarding school in central Kenya. Also, May 28 is World Hunger Day, and it comes as many farmers and families across the continent are grappling with the fallout from the closure of the Strait of ...",
       "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -173,9 +173,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US, Iran trade blame over fire exchanges",
+      "title": "US, Iran engage in tit-for-tat attacks",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260528-us-iran-trade-blame-over-fire-exchanges",
-      "description": "Iran and the US took part in tit for tat clashes this Thursday. Tehran said it fired on a US army base in the region, while the US reports striking the Bandar Abbas port in Iran. Later on Thursday, Axios reported that the U.S. ​and Iran had reached agreement ​on a memorandum of u...",
+      "description": "Iran and the US engaged in tit-for-tat clashes this Thursday. Tehran said it fired on an American army base in the region, while the US claimed it had struck Iran’s Bandar Abbas port. Later in the day, Axios reported that Washington and Tehran had reached an agreement to extend t...",
       "date": "Thu, 28 May 2026",
       "source": "France 24",
       "region": "eu",
@@ -193,24 +193,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran: US base targeted in missile strike",
-      "link": "https://www.france24.com/en/video/20260528-iran-us-base-targeted-in-missile-strike",
-      "description": "Iranian state television on Thursday released images it said showed missiles being launched at an American air base from where earlier in the day a strike had been launched on Iran’s port ⁠city of Bandar Abbas. It is the most serious trade of fire since an April ceasefire began a...",
-      "date": "Thu, 28 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Reconnected? Iranians say only 'drip-feed' internet has returned after three-month shutdown",
-      "link": "https://www.france24.com/en/asia-pacific/20260528-reconnected-iranians-say-only-drip-feed-internet-has-returned-after-three-month-shutdown",
-      "description": "After almost three months of being cut off from the world, internet access was partially restored in Iran starting on Tuesday. While some rejoice at finally being reconnected and able to check in on their loved ones, many complain about the persistent slowness in connectivity and...",
-      "date": "Thu, 28 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
+      "link": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss",
+      "description": "US and Iran near a 60-day MoU aimed at reopening the Hormuz strait with talks slated on nuclear and other differences.",
+      "date": "Fri, 29 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Lebanon Latest: Mass evacuations as Israel expands attacks",
@@ -243,29 +233,49 @@
       "bias": "Medium"
     },
     {
-      "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
-      "description": "European Union says sanctioned individuals and groups have violated the rights of Palestinians.",
-      "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
+      "title": "Nato chief vows 'absolute solidarity' with Romania after Russian drone crash injures 2",
+      "link": "https://www.dawn.com/news/2003659/nato-chief-vows-absolute-solidarity-with-romania-after-russian-drone-crash-injures-2",
+      "description": "Nato chief Mark Rutte said on Friday he had assured Romania’s president of the alliance’s “absolute solidarity” as he slammed Russia for a drone crash in the country bordering Ukraine. Nato member Romania said that a drone injured two people in a southeastern city during an overn...",
+      "date": "Fri, 29 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-      "link": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
-      "description": "Restoring pre-war stockpiles of critical US munitions will take at least two years, according to CSIS report.",
-      "date": "Thu, 28 May 2026",
-      "source": "Al Jazeera",
+      "title": "China leaders skip Singapore defence summit headlined by US",
+      "link": "https://www.dawn.com/news/2003655/china-leaders-skip-singapore-defence-summit-headlined-by-us",
+      "description": "Pentagon chief Pete Hegseth is the headline speaker at Asia’s premier defence summit opening on Friday, but China’s top officials are not expected, despite weighty questions like Taiwan and the war in Iran. Beijing’s defence minister is to skip the three-day Shangri-La Dialogue i...",
+      "date": "Fri, 29 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Dar arrives in Washington to meet US Secretary of State Marco Rubio: FO",
+      "link": "https://www.dawn.com/news/2003632/dar-arrives-in-washington-to-meet-us-secretary-of-state-marco-rubio-fo",
+      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Friday arrived in Washington, where he will meet with US Secretary of State and National Security Adviser Marco Rubio, the Foreign Office (FO) said. The development comes as Islamabad is attempting to negotiate a peace pact ...",
+      "date": "Fri, 29 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Pentagon says US military personnel reportedly being targeted using location data",
       "link": "https://www.dawn.com/news/2003552/pentagon-says-us-military-personnel-reportedly-being-targeted-using-location-data",
       "description": "US forces deployed to war zones have been targeted using commercially available location data, according to reports fielded by military officials, an illustration of how the global surveillance economy is shaping the battlefield. In a letter shared with Reuters by US Senator Ron ...",
+      "date": "Thu, 28 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Dar invites overseas Pakistanis in US to 'honour their roots' and invest in the country",
+      "link": "https://www.dawn.com/news/2003561/dar-invites-overseas-pakistanis-in-us-to-honour-their-roots-and-invest-in-the-country",
+      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar has promised that Pakistan’s “best days lie ahead”, highlighting the country’s economic progress and inviting overseas Pakistanis to “honour their roots” and invest. The DPM delivered these remarks while addressing an Eidul Azh...",
       "date": "Thu, 28 May 2026",
       "source": "Dawn",
       "region": "me",
@@ -283,41 +293,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oil prices bounce higher after new US strikes on Iran",
-      "link": "https://www.dawn.com/news/2003523/oil-prices-bounce-higher-after-new-us-strikes-on-iran",
-      "description": "Oil prices bounced higher on Thursday while Asian stocks mostly fell, as new US strikes on Iran marked the latest test of a shaky ceasefire in the Middle East war. The price jumps erased much of Wednesday’s declines on the hopes of an imminent deal to end the conflict that has al...",
-      "date": "Thu, 28 May 2026",
-      "source": "Dawn",
+      "title": "Iran-Israel war LIVE: U.S.-Iran truce deal awaits Trump as strikes test ceasefire",
+      "link": "https://www.thehindu.com/news/international/us-iran-war-news-live-updates-peace-deal-trump-strait-of-hormuz-60-day-truce-29-may-2026/article71035756.ece",
+      "description": "The U.S. sources confirmed reporting by Axios that the two sides had agreed on a memorandum of understanding to prolong the ceasefire and launch negotiations on Iran’s nuclear programme",
+      "date": "Fri, 29 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Trump cabinet looks forward to progress on Iran deal in 'coming hours, days'",
-      "link": "https://www.dawn.com/news/2003490/trump-cabinet-looks-forward-to-progress-on-iran-deal-in-coming-hours-days",
-      "description": "WASHINGTON: United States President Donald Trump told his cabinet and the media during a meeting at the White House on Wednesday that his administration is “not satisfied” with the terms of a deal with Iran yet, “but we will be”. The session, which is open to reporters, is one of...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'US-Iran peace deal could benefit entire region,' PM tells Pezeshkian in Eid call",
-      "link": "https://www.dawn.com/news/2003497/us-iran-peace-deal-could-benefit-entire-region-pm-tells-pezeshkian-in-eid-call",
-      "description": "Prime Minister Shehbaz Sharif in a telephonic conversation with Iranian President Masoud Pezeshkian on Wednesday hoped that a peace deal between Iran and the US could be finalised soon. The Prime Minister’s Office in a statement said that President Pezeshkian had telephoned PM Sh...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran vows not to let aggression go unanswered after US violates truce",
-      "link": "https://www.dawn.com/news/2003367/iran-vows-not-to-let-aggression-go-unanswered-after-us-violates-truce",
-      "description": "• Washington says strikes targeted Iranian missile sites, mine-laying boats• Rubio says Iran deal may take ‘a few days’; insists Hormuz will reopen ‘one way or the other’• Iran says US drone downed, F-35 fired at; tanker damaged by external explosion off Oman• Trump to hold Camp ...",
-      "date": "Wed, 27 May 2026",
-      "source": "Dawn",
+      "title": "Prime Minister Narendra Modi's 'extreme moral cowardice' for standing as Israel's strongest supporter: Congress",
+      "link": "https://www.thehindu.com/news/national/prime-minister-narendra-modis-extreme-moral-cowardice-for-standing-as-israels-strongest-supporter-congress/article71036047.ece",
+      "description": "Prime Minister Modi never condemned the targeted assassination of the Iranian head of state, never condemned the ongoing Israeli genocide in Gaza, says Congress leader Jairam Ramesh",
+      "date": "Fri, 29 May 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -353,30 +343,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel war LIVE: U.S.-Iran truce deal awaits Trump as strikes test ceasefire",
-      "link": "https://www.thehindu.com/news/international/us-iran-war-news-live-updates-peace-deal-trump-strait-of-hormuz-60-day-truce-29-may-2026/article71035756.ece",
-      "description": "The U.S. sources confirmed reporting by Axios that the two sides had agreed on a memorandum of understanding to prolong the ceasefire and launch negotiations on Iran’s nuclear programme",
-      "date": "Fri, 29 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "U.S.-Iran agree on 60-day ceasefire extension, but Trump must approve: reports | Updates",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-28-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71031841.ece",
       "description": "The tentative agreement worked out by the two sides comes at a moment when the fragile ceasefire between the U.S. and Iran appeared to be wavering, U.S. media reported on May 28, 2026.",
       "date": "Fri, 29 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S., Iran exchange fire threatening peace talks",
-      "link": "https://www.thehindu.com/news/international/shaky-ceasefire-in-iran-war-challenged-again-as-kuwait-faces-a-missile-attack/article71033574.ece",
-      "description": "Washington says it shot down five drones over the Strait of Hormuz while Tehran fires ballistic missiles at American base in Kuwait",
-      "date": "Thu, 28 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
