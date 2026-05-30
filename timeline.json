@@ -1,17 +1,30 @@
 {
-  "updated": "2026-05-29 23:02 UTC",
+  "updated": "2026-05-30 01:58 UTC",
   "total": 15,
   "events": [
     {
-      "date": "2026-05-29",
-      "dateDisplay": "May 29, 2026",
-      "title": "Trump says he\u2019s making final decision on Iran deal as Tehran slams \u2018mixture of truth and lies\u2019",
-      "link": "https://www.france24.com/en/middle-east/20260529-trump-says-he-s-making-final-decision-on-iran-deal-as-tehran-slams-mixture-of-truth-and-lies",
+      "date": "2026-05-30",
+      "dateDisplay": "May 30, 2026",
+      "title": "Iran war live: Trump due to make \u2018final determination\u2019 on deal with Tehran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
       "sources": [
-        "France 24"
+        "Al Jazeera"
       ],
       "sourceCount": 1,
       "type": "framing"
+    },
+    {
+      "date": "2026-05-29",
+      "dateDisplay": "May 29, 2026",
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "France 24",
+        "Al Jazeera",
+        "BBC"
+      ],
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-05-28",
@@ -27,8 +40,8 @@
     {
       "date": "2026-05-27",
       "dateDisplay": "May 27, 2026",
-      "title": "Trump says US 'not satisfied' with Iran deal yet",
-      "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+      "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
+      "link": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
@@ -150,17 +163,6 @@
       "dateDisplay": "May 03, 2026",
       "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
       "link": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-02",
-      "dateDisplay": "May 02, 2026",
-      "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
