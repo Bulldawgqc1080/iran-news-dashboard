@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31 11:25 UTC",
-  "total": 33,
+  "updated": "2026-05-31 13:11 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Trump says a ceasefire extension deal with Iran is near, but core issues remain",
@@ -133,7 +133,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Israel captures, plants its flag on medieval castle in southern Lebanon",
+      "title": "Middle East live: Israel raises its flag over medieval castle in southern Lebanon",
       "link": "https://www.france24.com/en/middle-east/20260531-middle-east-live-israel-says-ground-forces-expanding-in-lebanon",
       "description": "Israeli troops have captured and planted their flag on a strategic mountain topped with the Crusader-built Beaufort castle near the city of Nabatiyeh in southern Lebanon, the military said Sunday. It is Israel’s deepest incursion into Lebanon in more than a quarter century. Israe...",
       "date": "Sun, 31 May 2026",
@@ -143,14 +143,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US says 'more than capable' of resuming war, as peace deal remains elusive",
-      "link": "https://www.france24.com/en/us-says-more-than-capable-of-resuming-war-as-peace-deal-remains-elusive",
-      "description": "Pentagon head Pete Hegseth - has said that Washington could restart the war with Iran at any time if it wanted. His remarks follow days of talks and a two-hour meeting in the White House situation room - that has yet to produce a deal between the US and Iran. Analysis by FRANCE 2...",
-      "date": "Sat, 30 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss",
+      "description": "Invading Israeli forces have crossed north of Lebanon&#039;s Litani River and seized the medieval Beaufort Castle.",
+      "date": "Sun, 31 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump tightens terms on Iran war deal, US media say",
@@ -203,7 +203,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
+      "title": "Iran war live: Israel to expand Lebanon invasion; US-Tehran deal in limbo",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
       "description": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
       "date": "Sun, 31 May 2026",
@@ -215,7 +215,7 @@
     {
       "title": "Israel captures Lebanon's medieval Beaufort Castle in 'deepest incursion in 26 years'",
       "link": "https://www.dawn.com/news/2004134/israel-captures-lebanons-medieval-beaufort-castle-in-deepest-incursion-in-26-years",
-      "description": "Israel’s flag flew over the medieval fortress on Beaufort in Lebanon on Sunday as it warned Lebanese civilians to evacuate a large area of the south of the country ahead of stepped-up ground operations. The Associated Press noted that Israel’s capture of the 900-year-old Beaufort...",
+      "description": "Israel captured the medieval fortress on Beaufort in Lebanon on Sunday as it warned Lebanese civilians to flee a large area of the south of the country ahead of a stepped-up ground offensive. The Associated Press noted that Israel’s capture of the 900-year-old Beaufort Castle and...",
       "date": "Sun, 31 May 2026",
       "source": "Dawn",
       "region": "me",
@@ -331,6 +331,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Israel captures Crusader-era fortress of Beaufort in southern Lebanon — minister",
+      "link": "https://tass.com/world/2139187",
+      "description": "Defense Minister Israel Katz noted that this occurred 44 years after the Israeli army first captured Beaufort Castle in 1982 during Operation Peace for Galilee",
+      "date": "Sun, 31 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "NATO members could play role in opening Strait of Hormuz — Military Committee head",
+      "link": "https://tass.com/world/2139177",
+      "description": "NATO is currently not directly involved in resolving issues related to the Strait of Hormuz, NATO Military Committee head Admiral Giuseppe Cavo Dragone said",
+      "date": "Sun, 31 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran promises not to develop or buy nuclear weapons — Trump",
+      "link": "https://tass.com/world/2139155",
+      "description": "The US president clarified that Iran originally said it would not develop nuclear weapons but did not mention purchases",
+      "date": "Sun, 31 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Death toll in Lebanon from Israeli attacks reaches 3,371 — Health Ministry",
+      "link": "https://tass.com/world/2139129",
+      "description": "The number of wounded has reached 10,129",
+      "date": "Sat, 30 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
