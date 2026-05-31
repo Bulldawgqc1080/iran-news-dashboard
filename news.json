@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-31 13:11 UTC",
+  "updated": "2026-05-31 15:10 UTC",
   "total": 37,
   "stories": [
+    {
+      "title": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
+      "link": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
+      "description": "Israel has captured the 12th-century Beaufort castle that overlooks southern Lebanon and northern Israel. The move suggests Israel is planning an extended military presence in Lebanon.",
+      "date": "Sun, 31 May 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump says a ceasefire extension deal with Iran is near, but core issues remain",
       "link": "https://www.npr.org/2026/05/30/nx-s1-5839359/trump-says-a-ceasefire-extension-deal-with-iran-is-near-but-core-issues-remain",
@@ -113,6 +123,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "What is Lebanon's Beaufort Castle, and why have Israeli forces captured it?",
+      "link": "https://www.france24.com/en/what-is-lebanon-s-beaufort-castle-and-why-have-israeli-forces-captured-it",
+      "description": "The Israeli army has taken control of Beaufort castle in Southern Lebanon, crossing over the Litani river, which they had been using as a de facto boundary. Israeli Prime Minister Benjamin Netanyahu called the operation a \"dramatic shift\" in the Israeli offensive in Lebanon. The ...",
+      "date": "Sun, 31 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel seizes strategic Beaufort Castle in Lebanon, issues new evacuation orders",
+      "link": "https://www.france24.com/en/israel-seizes-strategic-beaufort-castle-in-lebanon-issues-new-evacuation-orders",
+      "description": "Israeli troops have captured Beaufort castle in Lebanon, built in Crusader times – and a symbol of Israel's advancement deeper into Lebanese territory. Israeli forces have used it as a base during its two decade occupation of Lebanon. Israel has called on Lebanese civilians to ev...",
+      "date": "Sun, 31 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Three months after the strike, Iranian families still mourn Minab's children",
       "link": "https://www.france24.com/en/three-months-after-the-strike-iranian-families-still-mourn-minab-s-children",
       "description": "Three months after a missile strike destroyed an elementary school in the Iranian city of Minab, killing over a hundred children, a nightly ritual of grief continues for the families. Washington says an investigation into the attack is underway, but for the victim's family, there...",
@@ -141,6 +171,26 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli airstrikes devastate Lebanon’s Tyre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
+      "description": "Video from southern Lebanon shows widespread destruction after Israel repeatedly bombed the city of Tyre.",
+      "date": "Sun, 31 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
+      "link": "https://www.aljazeera.com/news/2026/5/31/israeli-forces-push-past-lebanons-litani-river-how-significant-is-it?traffic_source=rss",
+      "description": "Analysts say Israel is effectively expanding its area of military control northward towards the Zahrani River.",
+      "date": "Sun, 31 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
@@ -196,16 +246,6 @@
       "title": "Panic on beach in northern Israel during Hezbollah strikes",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss",
       "description": "Videos show people on a beach in Nahariya, Israel running for shelter as Hezbollah rockets are launched.",
-      "date": "Sun, 31 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Israel to expand Lebanon invasion; US-Tehran deal in limbo",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
-      "description": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
       "date": "Sun, 31 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,6 +323,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel’s Netanyahu says capturing Beaufort a ‘dramatic shift’ in Lebanon offensive",
+      "link": "https://www.thehindu.com/news/international/israels-netanyahu-says-capturing-beaufort-a-dramatic-shift-in-lebanon-offensive/article71044587.ece",
+      "description": "The capture of the castle marks a major gain for Israel since the latest Israel-Hezbollah war began in early March, and as the two countries that have been in a state of war since Israel was created in 1948 hold direct talks in Washington.",
+      "date": "Sun, 31 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump says Iran has agreed to no nuclear weapons",
       "link": "https://www.thehindu.com/news/international/trump-says-iran-has-agreed-to-no-nuclear-weapons/article71044082.ece",
       "description": "Any tweaks to the proposal could prolong even further an agreement to formally end the West Asia war and open the Strait of Hormuz maritime route after weeks of efforts to secure a deal",
@@ -321,56 +371,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. military fires on Gambia-flagged ship violating Iran blockade",
-      "link": "https://www.thehindu.com/news/international/us-military-fires-on-gambia-flagged-ship-violating-iran-blockade/article71043733.ece",
-      "description": "U.S. Central Command (CENTCOM), which oversees forces in the West Asia region, said the strike occurred on May 29 after the M/V Lian Star failed to respond to more than 20 warnings",
-      "date": "Sun, 31 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel captures Crusader-era fortress of Beaufort in southern Lebanon — minister",
-      "link": "https://tass.com/world/2139187",
-      "description": "Defense Minister Israel Katz noted that this occurred 44 years after the Israeli army first captured Beaufort Castle in 1982 during Operation Peace for Galilee",
-      "date": "Sun, 31 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "NATO members could play role in opening Strait of Hormuz — Military Committee head",
-      "link": "https://tass.com/world/2139177",
-      "description": "NATO is currently not directly involved in resolving issues related to the Strait of Hormuz, NATO Military Committee head Admiral Giuseppe Cavo Dragone said",
-      "date": "Sun, 31 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran promises not to develop or buy nuclear weapons — Trump",
-      "link": "https://tass.com/world/2139155",
-      "description": "The US president clarified that Iran originally said it would not develop nuclear weapons but did not mention purchases",
-      "date": "Sun, 31 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Death toll in Lebanon from Israeli attacks reaches 3,371 — Health Ministry",
-      "link": "https://tass.com/world/2139129",
-      "description": "The number of wounded has reached 10,129",
-      "date": "Sat, 30 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
