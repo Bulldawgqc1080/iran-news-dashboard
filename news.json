@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31 02:14 UTC",
-  "total": 30,
+  "updated": "2026-05-31 06:46 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "Trump says a ceasefire extension deal with Iran is near, but core issues remain",
@@ -113,6 +113,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle east live: Israel says ground forces 'expanding' in Lebanon",
+      "link": "https://www.france24.com/en/middle-east/20260531-middle-east-live-israel-says-ground-forces-expanding-in-lebanon",
+      "description": "Israel's military said on Sunday its forces were 'expanding to additional areas' in Lebanon to strengthen its military position in the south of the country. Israeli troops also captured a strategic mountain topped with a Crusader-built castle near the city of Nabatiyeh, in the de...",
+      "date": "Sun, 31 May 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US says 'more than capable' of resuming war, as peace deal remains elusive",
       "link": "https://www.france24.com/en/us-says-more-than-capable-of-resuming-war-as-peace-deal-remains-elusive",
       "description": "Pentagon head Pete Hegseth - has said that Washington could restart the war with Iran at any time if it wanted. His remarks follow days of talks and a two-hour meeting in the White House situation room - that has yet to produce a deal between the US and Iran. Analysis by FRANCE 2...",
@@ -133,17 +143,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "\"Choose France\" summit to kick off as factory closures multiply",
-      "link": "https://www.france24.com/en/choose-france-summit-to-kick-off-as-factory-closures-multiply",
-      "description": "In France, Emmanuel Macron toured the French factory of German-owned Thermomix kitchen appliances on Friday… one of over 100 industrial and business sites opening to the public this weekend in the leadup to the French President's annual \"Choose France\" summit on Monday. Macron wi...",
-      "date": "Sat, 30 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo",
+      "title": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
       "description": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
       "date": "Sun, 31 May 2026",
@@ -173,20 +173,50 @@
       "bias": "Medium"
     },
     {
-      "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
-      "link": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
-      "description": "Israel’s military has advanced beyond Lebanon&#039;s Litani River for the first time since 2006.",
-      "date": "Sat, 30 May 2026",
-      "source": "Al Jazeera",
+      "title": "Trump claims Iran agreed to no nuclear weapons amid reports of 'tougher' terms sent to Tehran",
+      "link": "https://www.dawn.com/news/2004116/trump-claims-iran-agreed-to-no-nuclear-weapons-amid-reports-of-tougher-terms-sent-to-tehran",
+      "description": "United States President Donald Trump said he had secured guarantees from Iran that it would not develop nuclear weapons, as reports emerged he had sent a tougher peace proposal back to Tehran. Any tweaks to the proposal could prolong even further an agreement to formally end the ...",
+      "date": "Sun, 31 May 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Talks productive, but ‘war not off the table’: US",
+      "link": "https://www.dawn.com/news/2004068/talks-productive-but-war-not-off-the-table-us",
+      "description": "• Pentagon chief says Trump is ‘patient’, wants to make a ‘great deal’ to ensure Iran doesn’t have nukes• US military fires on Gambia-flagged ship ‘violating Iran blockade’• War secretary asserts Iran under pressure to open Strait of Hormuz with or without deal• Iran asks vessels...",
+      "date": "Sun, 31 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel launches South Lebanon strikes after warnings",
+      "link": "https://www.dawn.com/news/2004085/israel-launches-south-lebanon-strikes-after-warnings",
+      "description": "BEIRUT: Israel launched strikes across south Lebanon on Saturday after ordering evacuations from more than a dozen locations a day after its premier said Israeli forces had pushed even deeper into Lebanese territory. Lebanon’s army said a “targeted” Israeli strike wounded two sol...",
+      "date": "Sun, 31 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Islamabad stays in frame for US-Iran deal signing",
+      "link": "https://www.dawn.com/news/2004067/islamabad-stays-in-frame-for-us-iran-deal-signing",
+      "description": "• Diplomats see high chances of final agreement despite hiccups• Insist both sides want to avoid open-ended conflict• Nuclear issues likely to be handled in later negotiations• Ex-envoy Munir Akram says gaps are more about narrative than substance WASHINGTON: Islamabad remains a ...",
+      "date": "Sun, 31 May 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "'US, Pakistan developing true friendship': Hegseth hails Islamabad's role in US-Iran negotiations",
       "link": "https://www.dawn.com/news/2003936/us-pakistan-developing-true-friendship-hegseth-hails-islamabads-role-in-us-iran-negotiations",
-      "description": "United States Secretary of Defense Pete Hegseth on Saturday said Washington and Islamabad were developing a “true friendship” as he lauded Pakistan’s role in the ongoing US-Iran peace negotiations. With Pakistan acting as the official interlocutor between Washington and Tehran in...",
-      "date": "Sat, 30 May 2026",
+      "description": "United States Secretary of Defence Pete Hegseth on Saturday said Washington and Islamabad were developing a “true friendship” as he lauded Pakistan’s role in the ongoing US-Iran peace negotiations. With Pakistan acting as the official interlocutor between Washington and Tehran in...",
+      "date": "Sun, 31 May 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -203,49 +233,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran, Oman discuss strait traffic after Trump threat",
-      "link": "https://www.dawn.com/news/2003853/iran-oman-discuss-strait-traffic-after-trump-threat",
-      "description": "TEHRAN: Iran’s top diplomat said on Friday that Tehran and Muscat have discussed the future administration of the strategic Strait of Hormuz, after US President Donald Trump threatened Oman against cooperating with Iran over control of the vital waterway. Iranian Foreign Minister...",
-      "date": "Sat, 30 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "IMF, World Bank, IEA chiefs warn of fuel scarcity if strait stays closed",
-      "link": "https://www.dawn.com/news/2003814/imf-world-bank-iea-chiefs-warn-of-fuel-scarcity-if-strait-stays-closed",
-      "description": "WASHINGTON: The heads of the International Monetary Fund, World Bank and International Energy Agency warned on Friday of the risks to fuel security during peak demand summer months if oil shipping through the Strait of Hormuz does not return to normal. “Global oil inventories are...",
-      "date": "Sat, 30 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Lebanon talks open as offensive deepens",
-      "link": "https://www.dawn.com/news/2003833/israel-lebanon-talks-open-as-offensive-deepens",
-      "description": "• Military officials meet in Washington to salvage a faltering 45-day ceasefire • Joseph Aoun urges Rubio to prioritise immediate truce • Israeli forces cross Litani River, order mass evacuations WASHINGTON: Lebanese and Israeli military officials met at the Pentagon on Friday to...",
-      "date": "Sat, 30 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran says ‘nothing final’ as Trump weighs deal",
-      "link": "https://www.dawn.com/news/2003852/iran-says-nothing-final-as-trump-weighs-deal",
-      "description": "• US president demands Iran never develop nuclear weapons, wants Hormuz opened without tolls• Tehran rejects Trump’s language, demands release of $12bn in frozen assets• Araghchi accuses US of excessive, shifting demands; Baqaei says no N-talks currently taking place• Vance says ...",
-      "date": "Sat, 30 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war LIVE: Lebanon PM denounces Israeli campaign as fresh strikes hit South",
-      "link": "https://www.thehindu.com/news/international/iran-israel-live-strait-of-hormuz-updates-trump-us-iran-deal-may-31-2026/article71043697.ece",
-      "description": "U.S. says capable of resuming war with Iran as deal remains elusive",
+      "title": "Israeli Army captures strategic castle in Lebanon in deepest incursion into country in 26 years",
+      "link": "https://www.thehindu.com/news/international/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-into-country-in-26-years/article71043919.ece",
+      "description": "The capture of Beaufort Castle near the city of Nabatiyeh came after days of intense fighting and airstrikes in nearby villages, where Israeli troops fought Hezbollah members in the rugged area",
       "date": "Sun, 31 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -253,9 +243,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war highlights: Israeli army issues evacuation orders for seven south Lebanon villages",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-strait-of-hormuz-trump-peace-deal-updates-on-may-30-2026/article71040085.ece",
-      "description": "United States has more than sufficient stockpiles of weapons to resume war with Iran, Pentagon chief Pete Hegseth said",
+      "title": "Israel-Iran war LIVE: Trump says Iran has agreed to no nuclear weapons",
+      "link": "https://www.thehindu.com/news/international/iran-israel-live-strait-of-hormuz-updates-trump-us-iran-deal-may-31-2026/article71043697.ece",
+      "description": "Israeli military says ground operations in Lebanon ‘expanding to additional areas’",
+      "date": "Sun, 31 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "China's factory activity slows in May, raising questions over its economy",
+      "link": "https://www.thehindu.com/news/international/chinas-factory-activity-slows-in-may-raising-questions-over-its-economy/article71043851.ece",
+      "description": "The official manufacturing purchasing managers index moderated to 50 from 50.3 in April, according to the National Bureau of Statistic",
+      "date": "Sun, 31 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. military fires on Gambia-flagged ship violating Iran blockade",
+      "link": "https://www.thehindu.com/news/international/us-military-fires-on-gambia-flagged-ship-violating-iran-blockade/article71043733.ece",
+      "description": "U.S. Central Command (CENTCOM), which oversees forces in the West Asia region, said the strike occurred on May 29 after the M/V Lian Star failed to respond to more than 20 warnings",
       "date": "Sun, 31 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -266,7 +276,7 @@
       "title": "Lebanon PM denounces Israeli campaign as fresh strikes hit south",
       "link": "https://www.thehindu.com/news/international/lebanon-pm-denounces-israeli-campaign-as-fresh-strikes-hit-south/article71042707.ece",
       "description": "A day after Israeli Prime Minister Benjamin Netanyahu said his forces had advanced deeper into Lebanon, his counterpart Nawaf Salam warned the country was facing a \"dangerous\" escalation, and called for \"a swift and real ceasefire\"",
-      "date": "Sat, 30 May 2026",
+      "date": "Sun, 31 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -276,31 +286,51 @@
       "title": "Hormuz | The strait where America stalled",
       "link": "https://www.thehindu.com/profile/hormuz-the-strait-where-america-stalled/article71042506.ece",
       "description": "The waterway connecting the Persian Gulf to the Arabian Sea has emerged as the most consequential battleground of the U.S.-Israeli war on Iran, with Tehran effectively taking control of the route and rattling energy markets and the global economy",
-      "date": "Sat, 30 May 2026",
+      "date": "Sun, 31 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli troops push deeper into Lebanon as two sides start military talks at Pentagon",
-      "link": "https://www.thehindu.com/news/international/israeli-troops-push-deeper-into-lebanon-military-talks-at-pentagon/article71040106.ece",
-      "description": "In Washington, a six-member Lebanese military delegation met with Israeli military officials in the first direct military talks between the two countries in decades",
-      "date": "Sat, 30 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iran promises not to develop or buy nuclear weapons — Trump",
+      "link": "https://tass.com/world/2139155",
+      "description": "The US president clarified that Iran originally said it would not develop nuclear weapons but did not mention purchases",
+      "date": "Sun, 31 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "U.S. warns capable of resuming war with Iran as deal remains elusive",
-      "link": "https://www.thehindu.com/news/international/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive/article71040610.ece",
-      "description": "The U.S. warns of potential war with Iran as diplomatic negotiations falter and tensions escalate over nuclear conditions and regional conflicts",
+      "title": "Death toll in Lebanon from Israeli attacks reaches 3,371 — Health Ministry",
+      "link": "https://tass.com/world/2139129",
+      "description": "The number of wounded has reached 10,129",
       "date": "Sat, 30 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Hezbollah launches 100 rockets, drones at northern Israel — portal",
+      "link": "https://tass.com/world/2139107",
+      "description": "Air raid sirens sounded in 60 settlements",
+      "date": "Sat, 30 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israel braces for possible shelling as its troops advance in Lebanon",
+      "link": "https://tass.com/world/2139101",
+      "description": "The IDF is preparing for the possibility of fire from Lebanon, specifically toward northern Israel",
+      "date": "Sat, 30 May 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
