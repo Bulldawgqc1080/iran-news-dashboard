@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30 23:51 UTC",
-  "total": 34,
+  "updated": "2026-05-31 02:14 UTC",
+  "total": 30,
   "stories": [
     {
       "title": "Trump says a ceasefire extension deal with Iran is near, but core issues remain",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
+      "description": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
+      "date": "Sun, 31 May 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
       "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
       "description": "Pentagon chief Pete Hegseth says US &#039;more than capable&#039; of restarting war if satisfactory deal not reached.",
@@ -166,16 +176,6 @@
       "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
       "link": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
       "description": "Israel’s military has advanced beyond Lebanon&#039;s Litani River for the first time since 2006.",
-      "date": "Sat, 30 May 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "The Iran war is dividing Muslims in the Philippines",
-      "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
-      "description": "Divisive foreign political narratives are being wrongly cast as religious discourse within our Muslim communities.",
       "date": "Sat, 30 May 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -243,10 +243,20 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: Israeli army issues evacuation orders for seven south Lebanon villages",
+      "title": "Israel-Iran war LIVE: Lebanon PM denounces Israeli campaign as fresh strikes hit South",
+      "link": "https://www.thehindu.com/news/international/iran-israel-live-strait-of-hormuz-updates-trump-us-iran-deal-may-31-2026/article71043697.ece",
+      "description": "U.S. says capable of resuming war with Iran as deal remains elusive",
+      "date": "Sun, 31 May 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war highlights: Israeli army issues evacuation orders for seven south Lebanon villages",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-strait-of-hormuz-trump-peace-deal-updates-on-may-30-2026/article71040085.ece",
       "description": "United States has more than sufficient stockpiles of weapons to resume war with Iran, Pentagon chief Pete Hegseth said",
-      "date": "Sat, 30 May 2026",
+      "date": "Sun, 31 May 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -291,56 +301,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Trump to hold high-level White House talks to make 'final determination' on deal with Iran",
-      "link": "https://www.thehindu.com/news/international/trump-meeting-final-decision-on-us-deal-with-iran/article71038561.ece",
-      "description": "According to a U.S. official familiar with the matter, the tentative agreement would continue the ceasefire in the 3-month-old war by 60 days and start a new round of talks on Iran's nuclear programme",
-      "date": "Sat, 30 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Death toll in Lebanon from Israeli attacks reaches 3,371 — Health Ministry",
-      "link": "https://tass.com/world/2139129",
-      "description": "The number of wounded has reached 10,129",
-      "date": "Sat, 30 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Hezbollah launches 100 rockets, drones at northern Israel — portal",
-      "link": "https://tass.com/world/2139107",
-      "description": "Air raid sirens sounded in 60 settlements",
-      "date": "Sat, 30 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel braces for possible shelling as its troops advance in Lebanon",
-      "link": "https://tass.com/world/2139101",
-      "description": "The IDF is preparing for the possibility of fire from Lebanon, specifically toward northern Israel",
-      "date": "Sat, 30 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel intercepts several projectiles launched from Lebanon — IDF",
-      "link": "https://tass.com/world/2139099",
-      "description": "No injuries were reported",
-      "date": "Sat, 30 May 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
