@@ -1,17 +1,20 @@
 {
-  "updated": "2026-06-01 02:41 UTC",
+  "updated": "2026-06-01 08:23 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-06-01",
       "dateDisplay": "Jun 01, 2026",
-      "title": "Middle East live: US pushes Lebanon and Israel on new ceasefire plan, official says",
-      "link": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says",
+      "title": "U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire",
+      "link": "https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates",
       "sources": [
-        "France 24"
+        "BBC",
+        "Al Jazeera",
+        "France 24",
+        "NPR News"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 4,
+      "type": "fact"
     },
     {
       "date": "2026-05-31",
@@ -19,9 +22,9 @@
       "title": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
       "link": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
       "sources": [
-        "NPR News",
+        "BBC",
         "France 24",
-        "BBC"
+        "NPR News"
       ],
       "sourceCount": 3,
       "type": "fact"
@@ -51,8 +54,8 @@
     {
       "date": "2026-05-28",
       "dateDisplay": "May 28, 2026",
-      "title": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "title": "US citizen sentenced in Iranian murder-for-hire plot targeting dissident in New York",
+      "link": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
@@ -71,21 +74,10 @@
       "type": "framing"
     },
     {
-      "date": "2026-05-26",
-      "dateDisplay": "May 26, 2026",
-      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-      "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
       "date": "2026-05-25",
       "dateDisplay": "May 25, 2026",
-      "title": "Deal with US not imminent, Iran says",
-      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "title": "'Hopefully we can pull it off' - Rubio on Iran deal",
+      "link": "https://www.bbc.com/news/videos/clyppw9gqzwo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
@@ -104,21 +96,10 @@
       "type": "framing"
     },
     {
-      "date": "2026-05-21",
-      "dateDisplay": "May 21, 2026",
-      "title": "Iran steps up claim to control Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
       "date": "2026-05-20",
       "dateDisplay": "May 20, 2026",
-      "title": "Lebanon says 21 killed, including children, in Israeli air strikes",
-      "link": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
@@ -163,6 +144,28 @@
       "dateDisplay": "May 06, 2026",
       "title": "Trump's hopes for an Iran peace deal come with caveats",
       "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-05-05",
+      "dateDisplay": "May 05, 2026",
+      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+      "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-05-03",
+      "dateDisplay": "May 03, 2026",
+      "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
+      "link": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],

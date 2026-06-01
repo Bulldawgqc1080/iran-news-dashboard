@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-01 02:41 UTC",
-  "total": 31,
+  "updated": "2026-06-01 08:23 UTC",
+  "total": 37,
   "stories": [
+    {
+      "title": "U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire",
+      "link": "https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates",
+      "description": "The U.S. military says it bombed Iranian radar and drone control sites in Iran after Tehran shot down an American MQ-1 Predator drone this weekend. Kuwait said its air defenses opened fire on Monday.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The terrifying day the U.S.-Iran war reached a sleepy Sri Lankan town",
       "link": "https://www.npr.org/2026/05/31/nx-s1-5820634/the-terrifying-day-the-u-s-iran-war-reached-a-sleepy-sri-lankan-town",
@@ -31,6 +41,26 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+      "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+      "description": "Iran and the US say they have carried out fresh attacks around the Strait of Hormuz, the third known escalation in a week.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "description": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Israel seizes castle in Lebanon as it expands ground offensive",
@@ -63,6 +93,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US citizen sentenced in Iranian murder-for-hire plot targeting dissident in New York",
+      "link": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&at_campaign=rss",
+      "description": "Former truck driver Jonathan Loadholt pleaded guilty to money laundering and stalking in the plot targeting activist Masih Alinejad.",
+      "date": "Thu, 28 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "description": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
+      "date": "Thu, 28 May 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
       "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
@@ -83,59 +133,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
-      "link": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
-      "description": "The government imposed the blackout after the start of the war with the US and Israel in February, cutting most Iranians off from the outside world.",
-      "date": "Wed, 27 May 2026",
+      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+      "link": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
+      "description": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
+      "date": "Thu, 28 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
-      "date": "Wed, 27 May 2026",
-      "source": "BBC",
+      "title": "France and allies intercept sanctioned Russian oil tanker in Atlantic",
+      "link": "https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic",
+      "description": "France and its partners intercepted a Russian oil tanker circumventing sanctions in the Atlantic over the weekend, President Emmanuel Macron said in a social media post on Monday. The Tagor was detained Sunday morning in international waters with the help of Britain and other par...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-      "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-      "description": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
-      "date": "Tue, 26 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Internet starts coming back in Iran after months-long blackout",
-      "link": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
-      "description": "Internet access has been cut off in the country since the start of the war in late February.",
-      "date": "Tue, 26 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US launches new strikes on Iran, targeting missile sites and boats",
-      "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-      "description": "US Central Command says the strikes were taken in \"self-defence\", while Iran reports it downed a US drone that entered its airspace.",
-      "date": "Tue, 26 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East live: US pushes Lebanon and Israel on new ceasefire plan, official says",
+      "title": "Middle East live: US bombs Iranian military sites, Kuwait intercepts drone and missile attacks",
       "link": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says",
-      "description": "US Secretary of ​State Marco Rubio has ​spoken with both Lebanese President Joseph Aoun and ​Israeli Prime ‌Minister Benjamin ⁠Netanyahu on the diplomatic ‌negotiations between Israel and Lebanon, ⁠a US official said on Sunday. Follow our liveblog for the latest updates.",
+      "description": "The US conducted strikes on military sites in Iran’s ‌Goruk and Qeshm Island over the weekend in response to “aggressive Iranian actions”, the military said late ‌Sunday. Meanwhile Kuwaiti air defences on Monday intercepted \"hostile missile and drone attacks\", its military said. ...",
       "date": "Mon, 01 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -163,7 +183,17 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm",
+      "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
+      "link": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
+      "description": "While a peace deal between the US and Iran remains elusive, Israel has deepened its offensive into southern Lebanon.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
       "description": "France requests UN Security Council meeting over Israel&#039;s invasion of Lebanon, as Iran says talks with US continue.",
       "date": "Mon, 01 Jun 2026",
@@ -183,19 +213,39 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran ⁠restores some gas production at South Pars facility",
-      "link": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
-      "description": "Production restored at three offshore platforms after Israeli attacks, Pars Oil and Gas Company CEO tells Iranian media.",
-      "date": "Sun, 31 May 2026",
-      "source": "Al Jazeera",
+      "title": "Tehran responds with air base attack after US strikes Iranian military sites",
+      "link": "https://www.dawn.com/news/2004320/tehran-responds-with-air-base-attack-after-us-strikes-iranian-military-sites",
+      "description": "The US said it struck Iranian military sites at the weekend and Iran’s Revolutionary Guards said on Monday it had targeted a US base in response, the latest in a series of exchanges amid negotiations to end the three-month-old war. The strikes on Iran’s Gulf coast were in respons...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran wary of US intent as Trump ‘toughens deal’",
       "link": "https://www.dawn.com/news/2004234/iran-wary-of-us-intent-as-trump-toughens-deal",
       "description": "• Ghalibaf demands tangible results instead of ‘words and promises’; Araghchi confirms both sides are ‘exchanging messages’• Trump proposes more changes to draft, claims Iran agreed to forgo nuclear ambitions• IRGC maintains Tehran in stronger position after ‘shooting down’ US dr...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US House proposal seeks unprecedented military integration with Israel",
+      "link": "https://www.dawn.com/news/2004235/us-house-proposal-seeks-unprecedented-military-integration-with-israel",
+      "description": "WASHINGTON: A provision tucked into the US House of Representatives’ version of the National Defence Authorisation Act (NDAA) for fiscal year 2027 could significantly deepen military cooperation between the United States and Israel, potentially creating Washington’s closest defen...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Blast in rebel-held Myanmar kills 55",
+      "link": "https://www.dawn.com/news/2004237/blast-in-rebel-held-myanmar-kills-55",
+      "description": "YANGON: At least 55 people were reportedly killed in a blast in Myanmar’s Kaung Tat village, which a rebel army said was caused by the accidental explosion of material stored for use in mining. The Ta’ang National Liberation Army, which has been engaged in bitter fighting with My...",
       "date": "Mon, 01 Jun 2026",
       "source": "Dawn",
       "region": "me",
@@ -223,37 +273,17 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel launches South Lebanon strikes after warnings",
-      "link": "https://www.dawn.com/news/2004085/israel-launches-south-lebanon-strikes-after-warnings",
-      "description": "BEIRUT: Israel launched strikes across south Lebanon on Saturday after ordering evacuations from more than a dozen locations a day after its premier said Israeli forces had pushed even deeper into Lebanese territory. Lebanon’s army said a “targeted” Israeli strike wounded two sol...",
-      "date": "Sun, 31 May 2026",
-      "source": "Dawn",
+      "title": "Iran executes two men accused of leading early 2026 protests",
+      "link": "https://www.thehindu.com/news/international/iran-executes-two-men-accused-of-leading-early-2026-protests/article71047432.ece",
+      "description": "They were among the main ‌perpetrators of an attack on the Jafari Mosque in Tehran",
+      "date": "Mon, 01 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Islamabad stays in frame for US-Iran deal signing",
-      "link": "https://www.dawn.com/news/2004067/islamabad-stays-in-frame-for-us-iran-deal-signing",
-      "description": "• Diplomats see high chances of final agreement despite hiccups• Insist both sides want to avoid open-ended conflict• Nuclear issues likely to be handled in later negotiations• Ex-envoy Munir Akram says gaps are more about narrative than substance WASHINGTON: Islamabad remains a ...",
-      "date": "Sun, 31 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan's 'resolute response' during May 2025 conflict debunked notion of space for war in South Asia: military official",
-      "link": "https://www.dawn.com/news/2004168/pakistans-resolute-response-during-may-2025-conflict-debunked-notion-of-space-for-war-in-south-asia-military-official",
-      "description": "A military official from Pakistan has said that the country’s “resolute response” to India during the May 2025 conflict had effectively debunked the notion of space for war in South Asia. Commander I Corps Lieutenant General Nauman Zakria made these remarks during a special sessi...",
-      "date": "Sun, 31 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: U.S. not to be trusted, says Iran's chief negotiator, as Trump toughens terms",
+      "title": "West Asia war LIVE: Iran really wants to make a deal with the U.S., says Trump",
       "link": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
       "description": "U.S. President Donald Trump has sent back a tougher peace proposal to Iran; Israel continues its attacks in Lebanon and has seized the 900-year-old Beaufort Castle and a strategic ridge in ‌southern Lebanon",
       "date": "Mon, 01 Jun 2026",
@@ -263,9 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war highlights: Iran chief negotiator says no deal with U.S. until Iranian rights secured",
-      "link": "https://www.thehindu.com/news/international/iran-israel-live-strait-of-hormuz-updates-trump-us-iran-deal-may-31-2026/article71043697.ece",
-      "description": "Israeli military says ground operations in Lebanon ‘expanding to additional areas’",
+      "title": "Trump says Iran really wants to make a deal with the U.S.",
+      "link": "https://www.thehindu.com/news/international/trump-says-iran-really-wants-to-make-a-deal-with-the-us/article71047141.ece",
+      "description": "‌Donald Trump’s post comes only hours after the U.S. military said it ‌struck Iranian military sites over the weekend ‌and ⁠Iran’s Revolutionary Guards said they had ⁠targeted a U.S. base in response",
       "date": "Mon, 01 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -283,34 +313,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon says Israeli dawn strike on south killed eight, including three women",
-      "link": "https://www.thehindu.com/news/international/lebanon-says-israeli-dawn-strike-on-south-killed-eight-including-three-women/article71045944.ece",
-      "description": "The massacre committed by the Israeli enemy in a raid on the town of Deir Zahrani, Nabatieh district, at dawn on Sunday...resulted in eight martyrs, including three women, and 19 wounded, including five children and six women, says Ministry in a statement",
-      "date": "Sun, 31 May 2026",
+      "title": "U.S. says it struck Iranian military sites, Tehran responds with air base attack",
+      "link": "https://www.thehindu.com/news/international/us-says-it-struck-iranian-drone-command-sites-at-the-weekend/article71046945.ece",
+      "description": "The U.S. Central ⁠Command said in a post on X that Iran ​had shot down ‌a U.S. MQ-1 drone that was operating over international waters",
+      "date": "Mon, 01 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah",
-      "link": "https://www.thehindu.com/news/international/israels-netanyahu-says-capturing-beaufort-a-dramatic-shift-in-lebanon-offensive/article71044587.ece",
-      "description": "In the latest advance, Israeli troops seized the 900-year-old Beaufort Castle and a strategic ridge in ‌southern Lebanon, ⁠the military said.",
-      "date": "Sun, 31 May 2026",
+      "title": "U.S. proposes new plan to ease Israel-Lebanon tensions amid fighting",
+      "link": "https://www.thehindu.com/news/international/usa-israel-lebanon-hezbollah-ceasefire/article71046857.ece",
+      "description": "The U.S. has proposed that as a ‌first step, the Iranian-backed Hezbollah militant group ‌would ⁠stop all attacks on Israel and ⁠in return Israel would refrain from escalation in Beirut, an official said",
+      "date": "Mon, 01 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says does not trust U.S. as Trump toughens terms",
-      "link": "https://www.thehindu.com/news/international/iran-says-does-not-trust-us-as-trump-toughens-terms/article71045389.ece",
-      "description": "",
-      "date": "Sun, 31 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Netanyahu orders Israeli military to attack Hezbollah targets in Beirut area",
+      "link": "https://tass.com/world/2139457",
+      "description": "According to Tel Aviv, this is in response to Hezbollah’s violations of the ceasefire",
+      "date": "Mon, 01 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump accuses Democrats of obstructing Iran deal",
+      "link": "https://tass.com/world/2139407",
+      "description": "According to the US president, all Americans should \"just sit back and relax\" and trust his policies",
+      "date": "Mon, 01 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "IRGC strikes back at US military base",
+      "link": "https://tass.com/world/2139391",
+      "description": "The military base carried out a nighttime strike on the Iranian island of Sirik, the IRGC said",
+      "date": "Mon, 01 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US strikes Iranian radar, command posts — CENTCOM",
+      "link": "https://tass.com/world/2139389",
+      "description": "According to CENTCOM, the strikes came in response to Iran’s downing of a US MQ-1 drone",
+      "date": "Mon, 01 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
