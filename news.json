@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-01 08:23 UTC",
-  "total": 37,
+  "updated": "2026-06-01 14:48 UTC",
+  "total": 44,
   "stories": [
+    {
+      "title": "U.S. strikes Iranian military sites. And, Trump's $1.8 billion fund faces scrutiny",
+      "link": "https://www.npr.org/2026/06/01/g-s1-125147/up-first-newsletter-iran-us-anti-weaponization-fund-graham-platner-newsmakers",
+      "description": "American aircraft fired on a number of Iranian sites over the weekend, including Qeeshm Island in the Strait of Hormuz. And, Trump's anti-weaponization fund faces scrutiny in Congress and the courts.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire",
       "link": "https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates",
@@ -23,29 +33,19 @@
       "bias": "Low"
     },
     {
-      "title": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
-      "link": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
-      "description": "Israel has captured the 12th-century Beaufort castle that overlooks southern Lebanon and northern Israel. The move suggests Israel is planning an extended military presence in Lebanon.",
-      "date": "Sun, 31 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "description": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
-      "title": "Trump says a ceasefire extension deal with Iran is near, but core issues remain",
-      "link": "https://www.npr.org/2026/05/30/nx-s1-5839359/trump-says-a-ceasefire-extension-deal-with-iran-is-near-but-core-issues-remain",
-      "description": "President Trump has not yet decided whether he'll extend a ceasefire with Iran, and Israel continues to attack targets in Lebanon, in spite of a ceasefire there.",
-      "date": "Sat, 30 May 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+      "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
       "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-      "description": "Iran and the US say they have carried out fresh attacks around the Strait of Hormuz, the third known escalation in a week.",
+      "description": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
       "date": "Mon, 01 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -133,18 +133,58 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
-      "link": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
-      "description": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
-      "date": "Thu, 28 May 2026",
-      "source": "BBC",
+      "title": "Live: Israeli military issues evacuation warning for Beirut's southern suburbs",
+      "link": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says",
+      "description": "",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "France and allies intercept sanctioned Russian oil tanker in Atlantic",
-      "link": "https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic",
+      "title": "UN Security Council to meet as Israel pushes deeper into Lebanon",
+      "link": "https://www.france24.com/en/video/20260601-un-security-council-to-meet-as-israel-pushes-deeper-into-lebanon",
+      "description": "The United Nations Security Council is expected to hold an emergency meeting Monday after Israel said it would resume strikes on Beirut's southern suburbs as it carries out the deepest incursion into Lebanese territory in two decades.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Most extreme right-wing fringes of Netanyahu govt call for far greater military action in Lebanon'",
+      "link": "https://www.france24.com/en/most-extreme-right-wing-fringes-of-netanyahu-govt-call-for-far-greater-military-action-in-lebanon",
+      "description": "Nadia Massih is pleased to welcome Dr Filippo Dionigi, Senior Lecturer of International Relations specialized in Middle Eastern politics at the University of Bristol. As Israeli forces push deeper into southern Lebanon than at any point since the end of their occupation in 2000, ...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Chaotic scenes' in Beirut after Netanyahu orders strikes",
+      "link": "https://www.france24.com/en/video/20260601-chaotic-scenes-in-beirut-after-netanyahu-orders-strikes",
+      "description": "Israeli Prime Minister Benjamin Netanyahu on Monday ordered ​the military to attack targets in the Lebanese capital Beirut's southern suburbs, a Hezbollah stronghold known as Dahiyeh, prompting residents to scramble to flee the area. France 24's correspondent in Beirut, Renée Dav...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Kuwait intercepts drones, missiles as US and Iran trade fire",
+      "link": "https://www.france24.com/en/video/20260601-kuwait-intercepts-drones-missiles-as-us-and-iran-trade-fire",
+      "description": "Kuwait's air defences intercepted missile and drone attacks, the military said Monday, after the US said it had struck Iranian military sites at the weekend and Iran's Revolutionary Guards said it had targeted a US base in response.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Russian oil tanker intercepted by France and allies in Atlantic",
+      "link": "https://www.france24.com/en/video/20260601-russian-oil-tanker-intercepted-by-france-and-allies-in-atlantic",
       "description": "France and its partners intercepted a Russian oil tanker circumventing sanctions in the Atlantic over the weekend, President Emmanuel Macron said in a social media post on Monday. The Tagor was detained Sunday morning in international waters with the help of Britain and other par...",
       "date": "Mon, 01 Jun 2026",
       "source": "France 24",
@@ -153,9 +193,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: US bombs Iranian military sites, Kuwait intercepts drone and missile attacks",
-      "link": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says",
-      "description": "The US conducted strikes on military sites in Iran’s ‌Goruk and Qeshm Island over the weekend in response to “aggressive Iranian actions”, the military said late ‌Sunday. Meanwhile Kuwaiti air defences on Monday intercepted \"hostile missile and drone attacks\", its military said. ...",
+      "title": "Is Israel seeking free reign from US in Lebanon?",
+      "link": "https://www.france24.com/en/is-israel-seeking-free-reign-from-us-in-lebanon",
+      "description": "Israeli Prime Minister Benjamin Netanyahu vowed to push deeper into Lebanon after his military took over the medieval castle of Beaufort on Sunday, calling it a \"dramatic shift\" in the campaign against Hezbollah. According to France 24’s correspondent in Jerusalem, it follow repo...",
       "date": "Mon, 01 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -163,50 +203,80 @@
       "bias": "Low-Med"
     },
     {
-      "title": "What is Lebanon's Beaufort Castle, and why have Israeli forces captured it?",
-      "link": "https://www.france24.com/en/what-is-lebanon-s-beaufort-castle-and-why-have-israeli-forces-captured-it",
-      "description": "The Israeli army has taken control of Beaufort castle in Southern Lebanon, crossing over the Litani river, which they had been using as a de facto boundary. Israeli Prime Minister Benjamin Netanyahu called the operation a \"dramatic shift\" in the Israeli offensive in Lebanon. The ...",
-      "date": "Sun, 31 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Residents flee Beirut’s southern suburbs as Israel orders strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes?traffic_source=rss",
+      "description": "Videos show gridlocked traffic in the southern suburbs of Beirut as residents rushed to evacuate the Dahiyeh area.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Israel seizes strategic Beaufort Castle in Lebanon, issues new evacuation orders",
-      "link": "https://www.france24.com/en/israel-seizes-strategic-beaufort-castle-in-lebanon-issues-new-evacuation-orders",
-      "description": "Israeli troops have captured Beaufort castle in Lebanon, built in Crusader times – and a symbol of Israel's advancement deeper into Lebanese territory. Israeli forces have used it as a base during its two decade occupation of Lebanon. Israel has called on Lebanese civilians to ev...",
-      "date": "Sun, 31 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
+      "link": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss",
+      "description": "The fortress, a historical battleground, is playing a central role in Israel’s military campaign against Hezbollah.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes?traffic_source=rss",
+      "description": "Kuwait activated its air defences after what its foreign ministry later described as a ‘heinous Iranian attack’.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "French navy, backed by the UK, intercepts Russian oil tanker",
+      "link": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss",
+      "description": "According to France, the tanker, which had sailed from Murmansk, was trying to &#039;skirt international sanctions&#039;.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US, Iran trade new attacks amid talks: Here’s what we know",
+      "link": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss",
+      "description": "Washington and Tehran are attacking each other despite a ceasefire that came into effect on April 8.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s IRGC launches retaliatory strike after US attacks",
+      "link": "https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks?traffic_source=rss",
+      "description": "Kuwait, which hosts US forces, says its defence systems intercepted missiles and drones amid sirens across the country.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanese start fleeing south Beirut after Israel says will target the area",
+      "link": "https://www.aljazeera.com/news/2026/6/1/washington-proposes-roadmap-for-de-escalation-in-lebanon-us-official?traffic_source=rss",
+      "description": "The Israeli government says it has given the army orders to attack the southern suburbs of the capital.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
       "link": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
       "description": "While a peace deal between the US and Iran remains elusive, Israel has deepened its offensive into southern Lebanon.",
       "date": "Mon, 01 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
-      "description": "France requests UN Security Council meeting over Israel&#039;s invasion of Lebanon, as Iran says talks with US continue.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "The largest Israeli advance into Lebanon in years",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
-      "description": "Israel’s military presence in southern Lebanon has expanded dramatically.",
-      "date": "Sun, 31 May 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -273,9 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran executes two men accused of leading early 2026 protests",
-      "link": "https://www.thehindu.com/news/international/iran-executes-two-men-accused-of-leading-early-2026-protests/article71047432.ece",
-      "description": "They were among the main ‌perpetrators of an attack on the Jafari Mosque in Tehran",
+      "title": "West Asia war LIVE: Iran suspends talks with U.S. over Israel’s Lebanon strikes",
+      "link": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
+      "description": "U.S. President Donald Trump has sent back a tougher peace proposal to Iran; Israel continues its attacks in Lebanon and has seized the 900-year-old Beaufort Castle and a strategic ridge in ‌southern Lebanon",
       "date": "Mon, 01 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -283,9 +353,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran really wants to make a deal with the U.S., says Trump",
-      "link": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
-      "description": "U.S. President Donald Trump has sent back a tougher peace proposal to Iran; Israel continues its attacks in Lebanon and has seized the 900-year-old Beaufort Castle and a strategic ridge in ‌southern Lebanon",
+      "title": "Iran suspends talks with U.S. over Israel’s Lebanon strikes",
+      "link": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece",
+      "description": "If the Houthis, Iran’s allies in Yemen, open a new front in the conflict, one obvious target would be ​the Bab El Mandeb ‌Strait off the coast of Yemen, a key shipping chokepoint and narrow passageway that controls sea traffic towards the Suez Canal",
+      "date": "Mon, 01 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "French Navy, backed by U.K., intercepted sanctioned tanker from Russia: French President Emmanuel Macron",
+      "link": "https://www.thehindu.com/news/international/france-intercepts-russian-oil-tanker-shadow-fleet-sanctions/article71048086.ece",
+      "description": "France, with support from the U.K., intercepted a Russian-linked oil tanker in the Atlantic Ocean, stepping up efforts to enforce sanctions and disrupt the “shadow fleet” used by Moscow to sustain oil exports and finance its war in Ukraine",
+      "date": "Mon, 01 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel orders strikes on Beirut’s southern suburbs as Hezbollah rockets hit northern Israel",
+      "link": "https://www.thehindu.com/news/international/israel-orders-strikes-on-beiruts-southern-suburbs-as-hezbollah-rockets-hit-northern-israel/article71047946.ece",
+      "description": "Israel’s government has ordered strikes on the southern suburbs of Beirut, as Hezbollah fired rockets at northern Israel including the outskirts of coastal city of Haifa",
+      "date": "Mon, 01 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran executes two men accused of leading early 2026 protests",
+      "link": "https://www.thehindu.com/news/international/iran-executes-two-men-accused-of-leading-early-2026-protests/article71047432.ece",
+      "description": "They were among the main ‌perpetrators of an attack on the Jafari Mosque in Tehran",
       "date": "Mon, 01 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,39 +403,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
-      "link": "https://www.thehindu.com/news/international/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-in-26-years/article71046766.ece",
-      "description": "The taking of Beaufort castle, near the city of Nabatiyeh, followed days of airstrikes and intense fighting in nearby villages between Israeli troops and Hezbollah militants",
-      "date": "Mon, 01 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. says it struck Iranian military sites, Tehran responds with air base attack",
-      "link": "https://www.thehindu.com/news/international/us-says-it-struck-iranian-drone-command-sites-at-the-weekend/article71046945.ece",
-      "description": "The U.S. Central ⁠Command said in a post on X that Iran ​had shot down ‌a U.S. MQ-1 drone that was operating over international waters",
-      "date": "Mon, 01 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. proposes new plan to ease Israel-Lebanon tensions amid fighting",
-      "link": "https://www.thehindu.com/news/international/usa-israel-lebanon-hezbollah-ceasefire/article71046857.ece",
-      "description": "The U.S. has proposed that as a ‌first step, the Iranian-backed Hezbollah militant group ‌would ⁠stop all attacks on Israel and ⁠in return Israel would refrain from escalation in Beirut, an official said",
-      "date": "Mon, 01 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Netanyahu orders Israeli military to attack Hezbollah targets in Beirut area",
-      "link": "https://tass.com/world/2139457",
-      "description": "According to Tel Aviv, this is in response to Hezbollah’s violations of the ceasefire",
+      "title": "Turkey condemns Israel’s actions in Lebanon, accusing it of destabilizing region",
+      "link": "https://tass.com/world/2139697",
+      "description": "The Turkish Foreign Ministry stated that the international community, particularly the UN Security Council, should take concrete steps without delay to bring an end to Israel’s attacks and occupation in Lebanon",
       "date": "Mon, 01 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -343,9 +413,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump accuses Democrats of obstructing Iran deal",
-      "link": "https://tass.com/world/2139407",
-      "description": "According to the US president, all Americans should \"just sit back and relax\" and trust his policies",
+      "title": "Draft agreement with US provides for formalizing deal through UNSC — Iranian MFA",
+      "link": "https://tass.com/world/2139679",
+      "description": "Spokesperson Esmaeil Baghaei said the sides are still at the stage of discussing basic principles",
       "date": "Mon, 01 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,9 +423,9 @@
       "bias": "Very High"
     },
     {
-      "title": "IRGC strikes back at US military base",
-      "link": "https://tass.com/world/2139391",
-      "description": "The military base carried out a nighttime strike on the Iranian island of Sirik, the IRGC said",
+      "title": "Naval blockade, Lebanon war expose US failure to respect ceasefire — Iranian official",
+      "link": "https://tass.com/world/2139659",
+      "description": "Mohammad-Bagher Ghalibaf pointed out that in the end, the US and Israel would have to pay the price for their choices",
       "date": "Mon, 01 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -363,9 +433,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US strikes Iranian radar, command posts — CENTCOM",
-      "link": "https://tass.com/world/2139389",
-      "description": "According to CENTCOM, the strikes came in response to Iran’s downing of a US MQ-1 drone",
+      "title": "Russia hopes Lebanon prevents new bout of civil unrest — deputy foreign minister",
+      "link": "https://tass.com/politics/2139653",
+      "description": "According to Georgy Borisenko, the Lebanese crisis also has an internal political dimension",
       "date": "Mon, 01 Jun 2026",
       "source": "TASS",
       "region": "ru",
