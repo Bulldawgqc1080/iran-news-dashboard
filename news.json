@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01 14:48 UTC",
-  "total": 44,
+  "updated": "2026-06-01 19:50 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "U.S. strikes Iranian military sites. And, Trump's $1.8 billion fund faces scrutiny",
@@ -13,9 +13,9 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire",
+      "title": "U.S. bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait",
       "link": "https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates",
-      "description": "The U.S. military says it bombed Iranian radar and drone control sites in Iran after Tehran shot down an American MQ-1 Predator drone this weekend. Kuwait said its air defenses opened fire on Monday.",
+      "description": "The U.S. says it has bombed radar and drone sites in Iran after Tehran shot down an American drone over the weekend. Iran then said it targeted American soldiers in Kuwait with missiles, which the U.S. says it shot down on Monday.",
       "date": "Mon, 01 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -33,9 +33,19 @@
       "bias": "Low"
     },
     {
+      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "description": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
       "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "description": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
+      "description": "Thousands flee the Hezbollah stronghold of Dahieh after Benjamin Netanyahu says it will be targeted in response to attacks on Israeli civilians.",
       "date": "Mon, 01 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -123,11 +133,61 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says it targeted American base after fresh US strikes",
-      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "date": "Thu, 28 May 2026",
-      "source": "BBC",
+      "title": "Trump says Israel and Hezbollah have agreed to dial back fighting",
+      "link": "https://www.france24.com/en/video/20260601-trump-says-israel-and-hezbollah-have-agreed-to-dial-back-fighting",
+      "description": "US President Donald Trump said Monday he had persuaded Israel and Hezbollah to de-escalate, with Prime Minister Benjamin Netanyahu agreeing not to send troops to southern Beirut and the Lebanese militant group promising to stop attacks. Reporting from Jerusalem, FRANCE 24's Noga ...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Not Western version of democracy': 147 constituencies allegedly excluded from Ethiopia's election",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260601-ethiopia-not-western-democracy-exclusion-of-tigray-amhara-oromia-147-alleged-constituencies",
+      "description": "As Ethiopians head to the polls, François Picard is pleased to welcome Jervin Naidoo, Political Analyst at Oxford Economics Africa. While official narratives emphasise stability and democratic progress, significant portions of the country remain excluded from voting, raising conc...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Forever at war? US, Iran trade blows as Israel pushes deeper into Lebanon",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260601-forever-at-war-us-iran-trade-blows-as-israel-pushes-deeper-into-lebanon",
+      "description": "About that four-week campaign that the Pentagon promised… Overnight volleys between Iran and the United States met by many with a shrug…so often has the current ceasefire been violated. Even the deal in the works is mostly to roll over that fragile truce and open more talks… not ...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Live: Trump says Netanyahu agreed not to send Israeli troops to Beirut",
+      "link": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says",
+      "description": "",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Beaufort Castle: Israel hoists flag over castle in southern Lebanon",
+      "link": "https://www.france24.com/en/video/20260601-beaufort-castle-israel-hoists-flag-over-castle-in-southern-lebanon",
+      "description": "Israeli forces have seized Lebanon’s Beaufort Castle, a medieval fortress overlooking the country’s south, as part of an expanded offensive against Hezbollah. The takeover, announced on Sunday, marks a significant escalation in the conflict and comes despite an ongoing ceasefire ...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Netanyahu orders new strikes on southern suburbs of Beirut",
+      "link": "https://www.france24.com/en/video/20260601-netanyahu-orders-new-strikes-on-southern-suburbs-of-beirut",
+      "description": "Israel’s government ordered strikes on the southern suburbs of Beirut on Monday, a day after its ground forces reached their deepest point in Lebanon in 26 years and as Hezbollah fired rockets at northern Israel, including the outskirts of the coastal city of Haifa.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -153,59 +213,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Most extreme right-wing fringes of Netanyahu govt call for far greater military action in Lebanon'",
-      "link": "https://www.france24.com/en/most-extreme-right-wing-fringes-of-netanyahu-govt-call-for-far-greater-military-action-in-lebanon",
-      "description": "Nadia Massih is pleased to welcome Dr Filippo Dionigi, Senior Lecturer of International Relations specialized in Middle Eastern politics at the University of Bristol. As Israeli forces push deeper into southern Lebanon than at any point since the end of their occupation in 2000, ...",
-      "date": "Mon, 01 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'Chaotic scenes' in Beirut after Netanyahu orders strikes",
-      "link": "https://www.france24.com/en/video/20260601-chaotic-scenes-in-beirut-after-netanyahu-orders-strikes",
-      "description": "Israeli Prime Minister Benjamin Netanyahu on Monday ordered ​the military to attack targets in the Lebanese capital Beirut's southern suburbs, a Hezbollah stronghold known as Dahiyeh, prompting residents to scramble to flee the area. France 24's correspondent in Beirut, Renée Dav...",
-      "date": "Mon, 01 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Kuwait intercepts drones, missiles as US and Iran trade fire",
-      "link": "https://www.france24.com/en/video/20260601-kuwait-intercepts-drones-missiles-as-us-and-iran-trade-fire",
-      "description": "Kuwait's air defences intercepted missile and drone attacks, the military said Monday, after the US said it had struck Iranian military sites at the weekend and Iran's Revolutionary Guards said it had targeted a US base in response.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russian oil tanker intercepted by France and allies in Atlantic",
-      "link": "https://www.france24.com/en/video/20260601-russian-oil-tanker-intercepted-by-france-and-allies-in-atlantic",
-      "description": "France and its partners intercepted a Russian oil tanker circumventing sanctions in the Atlantic over the weekend, President Emmanuel Macron said in a social media post on Monday. The Tagor was detained Sunday morning in international waters with the help of Britain and other par...",
-      "date": "Mon, 01 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Is Israel seeking free reign from US in Lebanon?",
-      "link": "https://www.france24.com/en/is-israel-seeking-free-reign-from-us-in-lebanon",
-      "description": "Israeli Prime Minister Benjamin Netanyahu vowed to push deeper into Lebanon after his military took over the medieval castle of Beaufort on Sunday, calling it a \"dramatic shift\" in the campaign against Hezbollah. According to France 24’s correspondent in Jerusalem, it follow repo...",
-      "date": "Mon, 01 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Residents flee Beirut’s southern suburbs as Israel orders strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes?traffic_source=rss",
-      "description": "Videos show gridlocked traffic in the southern suburbs of Beirut as residents rushed to evacuate the Dahiyeh area.",
+      "title": "Israeli strike damages hospital in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
+      "description": "An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment.",
       "date": "Mon, 01 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -213,9 +223,9 @@
       "bias": "Medium"
     },
     {
-      "title": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
-      "link": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss",
-      "description": "The fortress, a historical battleground, is playing a central role in Israel’s military campaign against Hezbollah.",
+      "title": "Lebanon’s social grocery store fighting rising costs and displacement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanons-social-grocery-store-fighting-rising-costs-and-displacement?traffic_source=rss",
+      "description": "‘Man wa Salwa’ is a community-run social grocery store helping hundreds of families access affordable essentials.",
       "date": "Mon, 01 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -223,9 +233,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes?traffic_source=rss",
-      "description": "Kuwait activated its air defences after what its foreign ministry later described as a ‘heinous Iranian attack’.",
+      "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
+      "link": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks?traffic_source=rss",
+      "description": "Iranian officials demand &#039;ceasefire on all fronts&#039; as Israel deepens Lebanon invasion and threatens to bomb Beirut.",
       "date": "Mon, 01 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -233,49 +243,9 @@
       "bias": "Medium"
     },
     {
-      "title": "French navy, backed by the UK, intercepts Russian oil tanker",
-      "link": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss",
-      "description": "According to France, the tanker, which had sailed from Murmansk, was trying to &#039;skirt international sanctions&#039;.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US, Iran trade new attacks amid talks: Here’s what we know",
-      "link": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss",
-      "description": "Washington and Tehran are attacking each other despite a ceasefire that came into effect on April 8.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran’s IRGC launches retaliatory strike after US attacks",
-      "link": "https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks?traffic_source=rss",
-      "description": "Kuwait, which hosts US forces, says its defence systems intercepted missiles and drones amid sirens across the country.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Lebanese start fleeing south Beirut after Israel says will target the area",
-      "link": "https://www.aljazeera.com/news/2026/6/1/washington-proposes-roadmap-for-de-escalation-in-lebanon-us-official?traffic_source=rss",
-      "description": "The Israeli government says it has given the army orders to attack the southern suburbs of the capital.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
-      "link": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
-      "description": "While a peace deal between the US and Iran remains elusive, Israel has deepened its offensive into southern Lebanon.",
+      "title": "Lebanon latest: Israel captures more land in the south",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanon-latest-israel-captures-more-land-in-the-south?traffic_source=rss",
+      "description": "Al Jazeera’s Zeina Khodr brings you the latest from Lebanon as Israel expands its occupation there.",
       "date": "Mon, 01 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -343,9 +313,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran suspends talks with U.S. over Israel’s Lebanon strikes",
-      "link": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
-      "description": "U.S. President Donald Trump has sent back a tougher peace proposal to Iran; Israel continues its attacks in Lebanon and has seized the 900-year-old Beaufort Castle and a strategic ridge in ‌southern Lebanon",
+      "title": "Watch: Iran suspends talks as Israel widens Lebanon offensive | Above the Fold | 01.06.2026",
+      "link": "https://www.thehindu.com/videos/watch-iran-suspends-talks-as-israel-widens-lebanon-offensive-above-the-fold-01062026/article71049667.ece",
+      "description": "From West Bengal’s cabinet expansion to while Israel’s military pushes deeper into Lebanon amid ceasefire talks, we look at the major stories of the day. We also look at key changes to UPI and LPG distribution, the hostage crisis in Manipur, the start of SIR enumeration in four S...",
       "date": "Mon, 01 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -356,6 +326,16 @@
       "title": "Iran suspends talks with U.S. over Israel’s Lebanon strikes",
       "link": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece",
       "description": "If the Houthis, Iran’s allies in Yemen, open a new front in the conflict, one obvious target would be ​the Bab El Mandeb ‌Strait off the coast of Yemen, a key shipping chokepoint and narrow passageway that controls sea traffic towards the Suez Canal",
+      "date": "Mon, 01 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: Iran suspends talks with U.S. over Israel’s Lebanon strikes",
+      "link": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
+      "description": "U.S. President Donald Trump has sent back a tougher peace proposal to Iran; Israel continues its attacks in Lebanon and has seized the 900-year-old Beaufort Castle and a strategic ridge in ‌southern Lebanon",
       "date": "Mon, 01 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -393,19 +373,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says Iran really wants to make a deal with the U.S.",
-      "link": "https://www.thehindu.com/news/international/trump-says-iran-really-wants-to-make-a-deal-with-the-us/article71047141.ece",
-      "description": "‌Donald Trump’s post comes only hours after the U.S. military said it ‌struck Iranian military sites over the weekend ‌and ⁠Iran’s Revolutionary Guards said they had ⁠targeted a U.S. base in response",
-      "date": "Mon, 01 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Turkey condemns Israel’s actions in Lebanon, accusing it of destabilizing region",
-      "link": "https://tass.com/world/2139697",
-      "description": "The Turkish Foreign Ministry stated that the international community, particularly the UN Security Council, should take concrete steps without delay to bring an end to Israel’s attacks and occupation in Lebanon",
+      "title": "Trump says talks with Iran proceeding ‘at rapid pace’",
+      "link": "https://tass.com/world/2139851",
+      "description": "The Iranian news agency reported earlier that Tehran had suspended indirect talks and exchanges of messages with US representatives",
       "date": "Mon, 01 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -413,9 +383,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Draft agreement with US provides for formalizing deal through UNSC — Iranian MFA",
-      "link": "https://tass.com/world/2139679",
-      "description": "Spokesperson Esmaeil Baghaei said the sides are still at the stage of discussing basic principles",
+      "title": "Trump to continue blockade of Iran if talks terminated — TV",
+      "link": "https://tass.com/world/2139831",
+      "description": "According to the US leader, this does not mean a resumption of hostilities",
       "date": "Mon, 01 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -423,9 +393,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Naval blockade, Lebanon war expose US failure to respect ceasefire — Iranian official",
-      "link": "https://tass.com/world/2139659",
-      "description": "Mohammad-Bagher Ghalibaf pointed out that in the end, the US and Israel would have to pay the price for their choices",
+      "title": "Iran not to tolerate further naval blockade, escalation in Lebanon — adviser to Khamenei",
+      "link": "https://tass.com/world/2139819",
+      "description": "Mohsen Rezaee warned that the patience of the Armed Forces of the Islamic Republic of Iran was not unlimited",
       "date": "Mon, 01 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -433,9 +403,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Russia hopes Lebanon prevents new bout of civil unrest — deputy foreign minister",
-      "link": "https://tass.com/politics/2139653",
-      "description": "According to Georgy Borisenko, the Lebanese crisis also has an internal political dimension",
+      "title": "Trump faces mounting political crisis — CNN",
+      "link": "https://tass.com/world/2139755",
+      "description": "According to the TV channel, one of the most serious problems remains finding a way out of the conflict with Iran",
       "date": "Mon, 01 Jun 2026",
       "source": "TASS",
       "region": "ru",
