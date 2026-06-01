@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31 23:55 UTC",
-  "total": 30,
+  "updated": "2026-06-01 02:41 UTC",
+  "total": 31,
   "stories": [
     {
       "title": "The terrifying day the U.S.-Iran war reached a sleepy Sri Lankan town",
@@ -43,10 +43,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-      "date": "Sat, 30 May 2026",
+      "title": "Trump seeking edits to US-Iran deal, US media report",
+      "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+      "description": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+      "date": "Sun, 31 May 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: US pushes Lebanon and Israel on new ceasefire plan, official says",
+      "link": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says",
+      "description": "US Secretary of ​State Marco Rubio has ​spoken with both Lebanese President Joseph Aoun and ​Israeli Prime ‌Minister Benjamin ⁠Netanyahu on the diplomatic ‌negotiations between Israel and Lebanon, ⁠a US official said on Sunday. Follow our liveblog for the latest updates.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "What is Lebanon's Beaufort Castle, and why have Israeli forces captured it?",
       "link": "https://www.france24.com/en/what-is-lebanon-s-beaufort-castle-and-why-have-israeli-forces-captured-it",
       "description": "The Israeli army has taken control of Beaufort castle in Southern Lebanon, crossing over the Litani river, which they had been using as a de facto boundary. Israeli Prime Minister Benjamin Netanyahu called the operation a \"dramatic shift\" in the Israeli offensive in Lebanon. The ...",
@@ -153,14 +163,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Three months after the strike, Iranian families still mourn Minab's children",
-      "link": "https://www.france24.com/en/three-months-after-the-strike-iranian-families-still-mourn-minab-s-children",
-      "description": "Three months after a missile strike destroyed an elementary school in the Iranian city of Minab, killing over a hundred children, a nightly ritual of grief continues for the families. Washington says an investigation into the attack is underway, but for the victim's family, there...",
-      "date": "Sun, 31 May 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
+      "description": "France requests UN Security Council meeting over Israel&#039;s invasion of Lebanon, as Iran says talks with US continue.",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "The largest Israeli advance into Lebanon in years",
@@ -181,6 +191,16 @@
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Iran wary of US intent as Trump ‘toughens deal’",
+      "link": "https://www.dawn.com/news/2004234/iran-wary-of-us-intent-as-trump-toughens-deal",
+      "description": "• Ghalibaf demands tangible results instead of ‘words and promises’; Araghchi confirms both sides are ‘exchanging messages’• Trump proposes more changes to draft, claims Iran agreed to forgo nuclear ambitions• IRGC maintains Tehran in stronger position after ‘shooting down’ US dr...",
+      "date": "Mon, 01 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Israel captures Lebanon's medieval Beaufort Castle in 'deepest incursion in 26 years'",
@@ -233,11 +253,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'US, Pakistan developing true friendship': Hegseth hails Islamabad's role in US-Iran negotiations",
-      "link": "https://www.dawn.com/news/2003936/us-pakistan-developing-true-friendship-hegseth-hails-islamabads-role-in-us-iran-negotiations",
-      "description": "United States Secretary of Defence Pete Hegseth on Saturday said Washington and Islamabad were developing a “true friendship” as he lauded Pakistan’s role in the ongoing US-Iran peace negotiations. With Pakistan acting as the official interlocutor between Washington and Tehran in...",
-      "date": "Sun, 31 May 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: U.S. not to be trusted, says Iran's chief negotiator, as Trump toughens terms",
+      "link": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
+      "description": "U.S. President Donald Trump has sent back a tougher peace proposal to Iran; Israel continues its attacks in Lebanon and has seized the 900-year-old Beaufort Castle and a strategic ridge in ‌southern Lebanon",
+      "date": "Mon, 01 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war highlights: Iran chief negotiator says no deal with U.S. until Iranian rights secured",
+      "link": "https://www.thehindu.com/news/international/iran-israel-live-strait-of-hormuz-updates-trump-us-iran-deal-may-31-2026/article71043697.ece",
+      "description": "Israeli military says ground operations in Lebanon ‘expanding to additional areas’",
+      "date": "Mon, 01 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
+      "link": "https://www.thehindu.com/news/international/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-in-26-years/article71046766.ece",
+      "description": "The taking of Beaufort castle, near the city of Nabatiyeh, followed days of airstrikes and intense fighting in nearby villages between Israeli troops and Hezbollah militants",
+      "date": "Mon, 01 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -246,16 +286,6 @@
       "title": "Lebanon says Israeli dawn strike on south killed eight, including three women",
       "link": "https://www.thehindu.com/news/international/lebanon-says-israeli-dawn-strike-on-south-killed-eight-including-three-women/article71045944.ece",
       "description": "The massacre committed by the Israeli enemy in a raid on the town of Deir Zahrani, Nabatieh district, at dawn on Sunday...resulted in eight martyrs, including three women, and 19 wounded, including five children and six women, says Ministry in a statement",
-      "date": "Sun, 31 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel-Iran war LIVE: Iran chief negotiator says no deal with U.S. until Iranian rights secured",
-      "link": "https://www.thehindu.com/news/international/iran-israel-live-strait-of-hormuz-updates-trump-us-iran-deal-may-31-2026/article71043697.ece",
-      "description": "Israeli military says ground operations in Lebanon ‘expanding to additional areas’",
       "date": "Sun, 31 May 2026",
       "source": "The Hindu",
       "region": "me",
@@ -276,26 +306,6 @@
       "title": "Iran says does not trust U.S. as Trump toughens terms",
       "link": "https://www.thehindu.com/news/international/iran-says-does-not-trust-us-as-trump-toughens-terms/article71045389.ece",
       "description": "",
-      "date": "Sun, 31 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says Iran has agreed to no nuclear weapons",
-      "link": "https://www.thehindu.com/news/international/trump-says-iran-has-agreed-to-no-nuclear-weapons/article71044082.ece",
-      "description": "Any tweaks to the proposal could prolong even further an agreement to formally end the West Asia war and open the Strait of Hormuz maritime route after weeks of efforts to secure a deal",
-      "date": "Sun, 31 May 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Hormuz | The strait where America stalled",
-      "link": "https://www.thehindu.com/profile/hormuz-the-strait-where-america-stalled/article71042506.ece",
-      "description": "The waterway connecting the Persian Gulf to the Arabian Sea has emerged as the most consequential battleground of the U.S.-Israeli war on Iran, with Tehran effectively taking control of the route and rattling energy markets and the global economy",
       "date": "Sun, 31 May 2026",
       "source": "The Hindu",
       "region": "me",

@@ -1,15 +1,26 @@
 {
-  "updated": "2026-05-31 23:55 UTC",
+  "updated": "2026-06-01 02:41 UTC",
   "total": 15,
   "events": [
+    {
+      "date": "2026-06-01",
+      "dateDisplay": "Jun 01, 2026",
+      "title": "Middle East live: US pushes Lebanon and Israel on new ceasefire plan, official says",
+      "link": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-05-31",
       "dateDisplay": "May 31, 2026",
       "title": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
       "link": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
       "sources": [
-        "France 24",
         "NPR News",
+        "France 24",
         "BBC"
       ],
       "sourceCount": 3,
@@ -152,17 +163,6 @@
       "dateDisplay": "May 06, 2026",
       "title": "Trump's hopes for an Iran peace deal come with caveats",
       "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-05",
-      "dateDisplay": "May 05, 2026",
-      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-      "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
