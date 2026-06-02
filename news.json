@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02 14:40 UTC",
-  "total": 37,
+  "updated": "2026-06-02 18:30 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
@@ -23,9 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "description": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
+      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+      "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+      "description": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
       "date": "Tue, 02 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -37,6 +37,26 @@
       "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
       "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
       "date": "Mon, 01 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "British couple lose Iran jail sentence appeal, family says",
+      "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
+      "description": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "description": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
+      "date": "Tue, 02 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -103,21 +123,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US citizen sentenced in Iranian murder-for-hire plot targeting dissident in New York",
-      "link": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&at_campaign=rss",
-      "description": "Former truck driver Jonathan Loadholt pleaded guilty to money laundering and stalking in the plot targeting activist Masih Alinejad.",
-      "date": "Thu, 28 May 2026",
-      "source": "BBC",
+      "title": "US, Iran: Washington keeps 'chasing the perfect war'",
+      "link": "https://www.france24.com/en/video/20260602-us-iran-washington-keeps-chasing-the-perfect-war",
+      "description": "No lessons learned:The Quincy Institute's Adam Weinstein tells #F24Debate Washington keeps chasing the fantasy of a 'quick and easy' war abroad ➡️https://f24.my/BxciRead the full article⤵️https://quincyinst.org/2026/05/06/washington-is-still-chasing-the-perfect-war/",
+      "date": "Tue, 02 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Israel hits Lebanese capital in 'targeted strike'",
-      "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-      "description": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
-      "date": "Thu, 28 May 2026",
-      "source": "BBC",
+      "title": "REPLAY: Rubio faces Senate grilling over Trump's foreign policy",
+      "link": "https://www.france24.com/en/video/20260602-replay-rubio-faces-senate-grilling-over-trump-s-foreign-policy",
+      "description": "Secretary of State Marco Rubio told lawmakers Tuesday in his first public testimony since the Iran war began that the Iranians have agreed to negotiate on nuclear points that they had not been willing to address in the past but would not offer an assessment on what those talks mi...",
+      "date": "Tue, 02 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -153,6 +173,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
+      "link": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
+      "description": "Tehran has agreed to discuss previously off-limits aspects of its nuclear file, US State Secretary tells lawmakers.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Scene of damaged hospital after Israeli strike in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/scene-of-damaged-hospital-after-israeli-strike-in-southern-lebanon?traffic_source=rss",
+      "description": "Al Jazeera’s Obaida Hitto is at the scene of Jabal Amel Hospital, which was ‘significantly damaged’ in Israeli attacks.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Israeli attacks on Lebanon continue after Trump saying they’d stop",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-attacks-on-lebanon-continue-after-trump-saying-theyd-stop?traffic_source=rss",
       "description": "Israeli air strikes on southern Lebanon have continued, a day after US President said the ‘shooting’ would stop",
@@ -163,54 +203,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
-      "link": "https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss",
-      "description": "The deadly attacks raise concerns about the reported agreement on the cessation of hostilities.",
+      "title": "Iran willing to negotiate ‘aspects’ of nuclear programme, Rubio says amid escalating scrutiny over war",
+      "link": "https://www.dawn.com/news/2004681/iran-willing-to-negotiate-aspects-of-nuclear-programme-rubio-says-amid-escalating-scrutiny-over-war",
+      "description": "WASHINGTON: US Secretary of State Marco Rubio on Tuesday told lawmakers that Iran had agreed to begin limited negotiations over its nuclear programme, marking what he described as a tentative but meaningful shift in Tehran’s posture as the United States-led conflict continues to ...",
       "date": "Tue, 02 Jun 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says Israel, Hezbollah to stop fighting: What we know",
-      "link": "https://www.aljazeera.com/news/2026/6/2/trump-says-israel-hezbollah-to-stop-fighting-what-we-know?traffic_source=rss",
-      "description": "Netanyahu agrees to halt operations near Beirut; Hezbollah to stop attacks on Israel under new truce arrangement.",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How the war has made Iran’s water crisis worse",
-      "link": "https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse?traffic_source=rss",
-      "description": "Attacks on desalination plants and other water infrastructure by US and Israel have further added to the water woes.",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "World Cup: No ICE deployment; extra security for Iran games in Los Angeles",
-      "link": "https://www.aljazeera.com/sports/2026/6/2/world-cup-no-ice-deployment-extra-security-for-iran-games-in-los-angeles?traffic_source=rss",
-      "description": "Federal agents will be present during the World Cup, but immigration enforcement will not occur, county sheriff says.",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How does Iran’s leadership view the emerging deal with the US?",
-      "link": "https://www.aljazeera.com/news/2026/6/2/how-does-irans-leadership-view-the-emerging-deal-with-the-us-2?traffic_source=rss",
-      "description": "Iranian authorities reject capitulation, but there are subtle differences between various factions.",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump loses his temper with Netanyahu in expletive-laden call on Israel's escalation in Lebanon: report",
@@ -263,19 +263,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US House proposal seeks unprecedented military integration with Israel",
-      "link": "https://www.dawn.com/news/2004235/us-house-proposal-seeks-unprecedented-military-integration-with-israel",
-      "description": "WASHINGTON: A provision tucked into the US House of Representatives’ version of the National Defence Authorisation Act (NDAA) for fiscal year 2027 could significantly deepen military cooperation between the United States and Israel, potentially creating Washington’s closest defen...",
-      "date": "Mon, 01 Jun 2026",
-      "source": "Dawn",
+      "title": "Israel kills 8 in southern Lebanon, a day after Trump said Israel and Hezbollah to de-escalate",
+      "link": "https://www.thehindu.com/news/international/israel-kills-8-in-southern-lebanon-a-day-after-trump-said-israel-and-hezbollah-to-de-escalate/article71054347.ece",
+      "description": "Israel threatened on June 1 to strike Beirut's southern suburbs, causing panic in the Lebanese capital as thousands fled to safer areas and Hezbollah fired rockets at northern Israel",
+      "date": "Tue, 02 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran’s inflation hits World War II levels, deepening economic pain",
-      "link": "https://www.thehindu.com/news/international/iran-economic-crisis-inflation-rial-collapse-2026/article71052646.ece",
-      "description": "Iran’s annual inflation rate reached a record high in May, its highest level since World War II, amid economic turmoil, a weakened currency, and concerns over renewed conflict",
+      "title": "Rubio says Mojtaba Khamenei alive and ‘increasingly engaging’",
+      "link": "https://www.thehindu.com/news/international/rubio-says-mojtaba-khamenei-alive-and-increasingly-engaging/article71054237.ece",
+      "description": "U.S. Secretary of State Marco Rubio expressed hope for a deal with Iran, while insisting that Tehran must severely limit its nuclear program in order to see sanctions lifted.",
       "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -293,9 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon's U.S. Embassy says Hezbollah accepted U.S. proposal on 'mutual cessation of attacks'",
-      "link": "https://www.thehindu.com/news/international/lebanons-us-embassy-says-hezbollah-accepted-us-proposal-on-mutual-cessation-of-attacks/article71050096.ece",
-      "description": "The Lebanese authorities received confirmation of Hezbollah's acceptance of the U.S. proposal providing for a mutual cessation of attacks, an Embassy statement published by Lebanese President Joseph Aoun's office said.",
+      "title": "Watch: Iran-U.S. deal uncertain | Mufti calls for Ladakh-like J&K unity | Above the Fold | 02.06.2026",
+      "link": "https://www.thehindu.com/videos/watch-iran-us-deal-uncertain-mufti-calls-for-ladakh-like-jk-unity-above-the-fold-02062026/article71054031.ece",
+      "description": "From stalled Iran ceasefire talks and reports of a Trump-Netanyahu clash to Mehbooba Mufti’s appeal to New Delhi and Myanmar President U Min Aung Hlaing’s India visit - here are our top stories.",
       "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,9 +303,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Beaufort Castle captured by Israel: Why is the Lebanon fortress important?",
-      "link": "https://www.thehindu.com/news/international/lebanon-beaufort-castle-history-and-capture-by-israel-explained/article71051159.ece",
-      "description": "The Hezbollah troops said that their fighters were still actively battling Israeli troops near Beaufort Castle, describing the situation as a “battle of attrition.”",
+      "title": "Netanyahu faces criticism after U.S. President Donald Trump halts Israeli strikes on Beirut",
+      "link": "https://www.thehindu.com/news/international/israeli-rivals-criticise-netanyahu-over-trump-ceasefire-push/article71052874.ece",
+      "description": "Israeli Prime Minister Benjamin Netanyahu is facing criticism from political rivals after U.S. President Donald Trump announced a halt to planned Israeli attacks on Hezbollah",
       "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -313,9 +313,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oil prices fall amid Trump’s talks with Iran",
-      "link": "https://www.thehindu.com/business/markets/oil-prices-fall-amid-trumps-talks-with-iran/article71051244.ece",
-      "description": "Brent crude futures lost 75 cents, or 0.79%, to $94.23 a barrel, while U.S. West Texas Intermediate fell 85 ‌cents, or 0.92%, to $91.31 a barrel",
+      "title": "Iran’s inflation hits World War II levels, deepening economic pain",
+      "link": "https://www.thehindu.com/news/international/iran-economic-crisis-inflation-rial-collapse-2026/article71052646.ece",
+      "description": "Iran’s annual inflation rate reached a record high in May, its highest level since World War II, amid economic turmoil, a weakened currency, and concerns over renewed conflict",
       "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,19 +323,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel launches strikes on Lebanon’s Beirut after Hezbollah fires missiles to enter West Asia conflict",
-      "link": "https://www.thehindu.com/news/international/israel-hezbollah-strike-significant-escalation/article70693650.ece",
-      "description": "Hezbollah said its strikes were carried out in retaliation for the killing of Iran’s supreme leader, Ali Khamenei, and for “repeated Israeli aggressions”",
-      "date": "Tue, 02 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran, US exchange no messages for several days — agency",
-      "link": "https://tass.com/world/2140247",
-      "description": "According to Fars, the last message from Tehran signaled the need for a ceasefire in Lebanon",
+      "title": "Rubio not ruling out extension of carveout for Russian oil sanctions",
+      "link": "https://tass.com/world/2140447",
+      "description": "The US Secretary of State stressed that the decision would be made by the US Department of the Treasury",
       "date": "Tue, 02 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -343,9 +333,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran issues permits for passage through Strait of Hormuz round-the-clock — TV",
-      "link": "https://tass.com/world/2140225",
-      "description": "The press service of the naval forces of the Islamic Revolutionary Guard Corps said earlier that twenty-four ships crossed the Strait of Hormuz with the permission of the Iranian authorities during the past day",
+      "title": "Second stage of US-Iran negotiations may take 30-90 days — Rubio",
+      "link": "https://tass.com/world/2140423",
+      "description": "According to the US State Secretary, a team of experts will have to meet to work out the details",
       "date": "Tue, 02 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,9 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Merz considers support for Kiev, sanctions to be 'right way' to end conflict",
-      "link": "https://tass.com/world/2140195",
-      "description": "Germany will not weaken its efforts to support Ukraine, the German chancellor said",
+      "title": "Russia, US do not discuss sanctions in their dialogue to address irritants — MFA",
+      "link": "https://tass.com/politics/2140417",
+      "description": "According to Alexander Gusarov, Moscow proceeds from the fact that Washington and other Western capitals themselves must mature to the point of understanding the inconsistency and futility of such self-imposed prohibitions",
       "date": "Tue, 02 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -363,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Press review: Israel attack in Lebanon sparks war as Hormuz crisis may hit global finance",
-      "link": "https://tass.com/pressreview/2139995",
-      "description": "Top stories from the Russian press on Tuesday, June 2nd",
+      "title": "Death toll from Israeli attacks on Lebanon nears 3,470 — health ministry",
+      "link": "https://tass.com/world/2140411",
+      "description": "10,577 people have been injured since the outbreak of the armed escalation on March 2",
       "date": "Tue, 02 Jun 2026",
       "source": "TASS",
       "region": "ru",
