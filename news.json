@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02 00:05 UTC",
-  "total": 37,
+  "updated": "2026-06-02 05:21 UTC",
+  "total": 44,
   "stories": [
     {
       "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
@@ -45,7 +45,7 @@
     {
       "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
       "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "description": "Israel's PM Netanyahu warns that strikes on Beirut will go ahead if Hezbollah does not abide by the US proposal.",
+      "description": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon.",
       "date": "Mon, 01 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -143,6 +143,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: Israeli military intercepts projectiles from Lebanon",
+      "link": "https://www.france24.com/en/middle-east/20260602-middle-east-war-live-israeli-military-intercepts-projectiles-from-lebanon",
+      "description": "Tensions along the Israel-Lebanon border continued early on Tuesday as Israeli air defences intercepted incoming projectiles, despite US President Donald Trump’s claim that he had brokered an end to fighting between Israel and Hezbollah. Follow our liveblog for the latest updates...",
+      "date": "Tue, 02 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US says Israel and Hezbollah agree to dial back fighting as tensions escalate",
+      "link": "https://www.france24.com/en/middle-east/20260602-us-says-israel-and-hezbollah-agree-to-dial-back-fighting-as-tensions-escalate",
+      "description": "Tensions between Israel and Hezbollah intensified on Monday, after US President Donald Trump said the two sides had agreed to dial back fighting following talks with Israeli Prime Minister Benjamin Netanyahu and indirect communication with Hezbollah.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump reconsiders $1.8 billion ally compensation fund amid Republican backlash",
       "link": "https://www.france24.com/en/americas/20260601-trump-reconsiders-1-8-billion-ally-compensation-fund-amid-republican-backlash",
       "description": "President Donald Trump was said to be reconsidering a controversial $1.8 billion compensation fund on Monday, created as part of a settlement with the IRS, amid legal challenges and growing opposition from Republicans. The Justice Department has paused implementation following a ...",
@@ -165,7 +185,7 @@
     {
       "title": "Senegal's ousted prime minister says his party will not participate in new government",
       "link": "https://www.france24.com/en/africa/20260601-senegal-s-ousted-prime-minister-says-his-party-will-not-participate-in-new-government",
-      "description": "Senegal's Pastef political party will not participate in the country's new ​government, Ousmane Sonko, the recently ousted prime minister and party president, said on Monday,raising the prospect of further political turmoil amid a ​daunting debt ‌crisis.",
+      "description": "Senegal's Pastef political party will not participate in the country's new ​government, Ousmane Sonko, the recently ousted prime minister and party president, said on Monday, raising the prospect of further political turmoil amid a ​daunting debt ‌crisis.",
       "date": "Mon, 01 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -203,24 +223,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Forever at war? US, Iran trade blows as Israel pushes deeper into Lebanon",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20260601-forever-at-war-us-iran-trade-blows-as-israel-pushes-deeper-into-lebanon",
-      "description": "About that four-week campaign that the Pentagon promised… Overnight volleys between Iran and the United States met by many with a shrug…so often has the current ceasefire been violated. Even the deal in the works is mostly to roll over that fragile truce and open more talks… not ...",
-      "date": "Mon, 01 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Rafael Grossi: the next Iran nuclear deal will look very different",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/aje-onl-nf_qt_grossi-on-new-iran-nuclear-deal-020626?traffic_source=rss",
+      "description": "IAEA Director General Rafael Grossi says the 2015 Iran nuclear deal is no longer a workable model.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Live: Trump says Netanyahu agreed not to send Israeli troops to Beirut",
-      "link": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says",
-      "description": "",
-      "date": "Mon, 01 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Google parent Alphabet to sell $80bn in stock to fund AI plans",
+      "link": "https://www.aljazeera.com/economy/2026/6/2/google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans?traffic_source=rss",
+      "description": "US tech giant says fundraising drive includes deal to sell $10bn of stock to Berkshire Hathaway.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "President Trump attempts to end hostilities in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss",
+      "description": "US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
+      "description": "Israeli National Security Minister Ben-Gvir says &#039;time&#039; to say &#039;no&#039; to Trump and continue striking Hezbollah in Lebanon.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
@@ -243,14 +283,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Lebanon’s social grocery store fighting rising costs and displacement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanons-social-grocery-store-fighting-rising-costs-and-displacement?traffic_source=rss",
-      "description": "‘Man wa Salwa’ is a community-run social grocery store helping hundreds of families access affordable essentials.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "Trump loses his temper with Netanyahu in expletive-laden call on Israel's escalation in Lebanon: report",
+      "link": "https://www.dawn.com/news/2004600/trump-loses-his-temper-with-netanyahu-in-expletive-laden-call-on-israels-escalation-in-lebanon-report",
+      "description": "United States President Donald Trump lashed out at Israeli Prime Minister Benjamin Netanyahu over the latter’s escalation in Lebanon in an expletive-laden phone call on Monday, according to American news outlet Axios. The report cited two US officials and a third source briefed o...",
+      "date": "Tue, 02 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'The bridge between confrontation and peace': Pakistan calls for stronger mediation efforts to prevent conflicts",
+      "link": "https://www.dawn.com/news/2004541/the-bridge-between-confrontation-and-peace-pakistan-calls-for-stronger-mediation-efforts-to-prevent-conflicts",
+      "description": "UNITED NATIONS: Pakistan on Monday renewed its call for restraint, de-escalation and a return to diplomacy in the ongoing Middle East crisis, saying that dialogue and mediation remain the only sustainable path to resolving conflicts. Addressing the UN General Assembly during a de...",
+      "date": "Tue, 02 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "France bans Israel from weapons show",
+      "link": "https://www.dawn.com/news/2004526/france-bans-israel-from-weapons-show",
+      "description": "TEL AVIV: France has barred Israeli officials from attending a major weapons show in Paris and imposed restrictions on companies from the country exhibiting there. The French defence ministry said on Monday Israeli companies would be limited to showing equipment and materials rel...",
+      "date": "Tue, 02 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Tehran responds with air base attack after US strikes Iranian military sites",
@@ -283,94 +343,104 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Blast in rebel-held Myanmar kills 55",
-      "link": "https://www.dawn.com/news/2004237/blast-in-rebel-held-myanmar-kills-55",
-      "description": "YANGON: At least 55 people were reportedly killed in a blast in Myanmar’s Kaung Tat village, which a rebel army said was caused by the accidental explosion of material stored for use in mining. The Ta’ang National Liberation Army, which has been engaged in bitter fighting with My...",
-      "date": "Mon, 01 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel captures Lebanon's medieval Beaufort Castle in 'deepest incursion in 26 years'",
-      "link": "https://www.dawn.com/news/2004134/israel-captures-lebanons-medieval-beaufort-castle-in-deepest-incursion-in-26-years",
-      "description": "Israel captured the medieval fortress on Beaufort in Lebanon on Sunday as it warned Lebanese civilians to flee a large area of the south of the country ahead of a stepped-up ground offensive. The Associated Press noted that Israel’s capture of the 900-year-old Beaufort Castle and...",
-      "date": "Sun, 31 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump claims Iran agreed to no nuclear weapons amid reports of 'tougher' terms sent to Tehran",
-      "link": "https://www.dawn.com/news/2004116/trump-claims-iran-agreed-to-no-nuclear-weapons-amid-reports-of-tougher-terms-sent-to-tehran",
-      "description": "United States President Donald Trump said he had secured guarantees from Iran that it would not develop nuclear weapons, as reports emerged he had sent a tougher peace proposal back to Tehran. Any tweaks to the proposal could prolong even further an agreement to formally end the ...",
-      "date": "Sun, 31 May 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: Trump says Netanyahu agreed not to send troops to Beirut",
-      "link": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
-      "description": "Likewise, through highly placed Representatives, I had a very good call with Hezbollah, and they agreed that all shooting will stop -- That Israel will not attack them, and they will not attack Israel, says U.S. President Donald Trump",
-      "date": "Mon, 01 Jun 2026",
+      "title": "Beaufort Castle captured by Israel: Why is the Lebanon fortress important?",
+      "link": "https://www.thehindu.com/news/international/lebanon-beaufort-castle-history-and-capture-by-israel-explained/article71051159.ece",
+      "description": "The Hezbollah troops said that their fighters were still actively battling Israeli troops near Beaufort Castle, describing the situation as a “battle of attrition”",
+      "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon's U.S. Embassy says Hezbollah accepted U.S. proposal on 'mutual cessation of attacks'",
-      "link": "https://www.thehindu.com/news/international/lebanons-us-embassy-says-hezbollah-accepted-us-proposal-on-mutual-cessation-of-attacks/article71050096.ece",
-      "description": "The Lebanese authorities received confirmation of Hezbollah's acceptance of the U.S. proposal providing for a mutual cessation of attacks, an Embassy statement published by Lebanese President Joseph Aoun's office said.",
-      "date": "Mon, 01 Jun 2026",
+      "title": "West Asia war LIVE: Israel military says intercepted projectiles from Lebanon",
+      "link": "https://www.thehindu.com/news/international/iran-israel-usa-war-peace-deal-attack-on-hezbollah-lebanon-strait-of-hormuz-june-2-2026/article71050939.ece",
+      "description": "U.S. President Donald Trump said Israel and Hezbollah had agreed to stop fighting, adding that Iran talks were moving rapidly after seeming to falter over Israel’s Lebanon offensive",
+      "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran suspends talks with U.S. over Israel’s Lebanon strikes",
-      "link": "https://www.thehindu.com/news/international/iran-us-israel-war-strait-of-hormuz-blockade/article71049122.ece",
-      "description": "If the Houthis, Iran’s allies in Yemen, open a new front in the conflict, one obvious target would be ​the Bab El Mandeb ‌Strait off the coast of Yemen, a key shipping chokepoint and narrow passageway that controls sea traffic towards the Suez Canal",
-      "date": "Mon, 01 Jun 2026",
+      "title": "Marco Rubio to testify before Congress for the first time since the start of the Iran war",
+      "link": "https://www.thehindu.com/news/international/marco-rubio-to-testify-before-congress-for-the-first-time-since-the-start-of-the-iran-war/article71051122.ece",
+      "description": "The former Republican senator will sit before House and Senate committees to make the State Department's annual budget request",
+      "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Watch: Iran suspends talks as Israel widens Lebanon offensive | Above the Fold | 01.06.2026",
-      "link": "https://www.thehindu.com/videos/watch-iran-suspends-talks-as-israel-widens-lebanon-offensive-above-the-fold-01062026/article71049667.ece",
-      "description": "From West Bengal’s cabinet expansion to while Israel’s military pushes deeper into Lebanon amid ceasefire talks, we look at the major stories of the day. We also look at key changes to UPI and LPG distribution, the hostage crisis in Manipur, the start of SIR enumeration in four S...",
-      "date": "Mon, 01 Jun 2026",
+      "title": "Benjamin Netanyahu calls off Lebanon raid after ‘heated’ call with Donald Trump",
+      "link": "https://www.thehindu.com/news/international/benjamin-netanyahu-calls-off-lebanon-raid-after-heated-call-with-donald-trump/article71051047.ece",
+      "description": "Trump’s phone calls with Mr. Netanyahu came after Iran threatened to end the negotiations with the U.S. over Israel’s attacks on Lebanon",
+      "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "French Navy, backed by U.K., intercepted sanctioned tanker from Russia: French President Emmanuel Macron",
-      "link": "https://www.thehindu.com/news/international/france-intercepts-russian-oil-tanker-shadow-fleet-sanctions/article71048086.ece",
-      "description": "France, with support from the U.K., intercepted a Russian-linked oil tanker in the Atlantic Ocean, stepping up efforts to enforce sanctions and disrupt the “shadow fleet” used by Moscow to sustain oil exports and finance its war in Ukraine",
-      "date": "Mon, 01 Jun 2026",
+      "title": "Israel military says intercepted projectiles from Lebanon",
+      "link": "https://www.thehindu.com/news/international/israel-military-says-intercepted-projectiles-from-lebanon/article71050915.ece",
+      "description": "Israel military said it identified a “suspicious aerial target” that later fell in Israeli territory near the Lebanese border",
+      "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Israel orders strikes on Beirut’s southern suburbs as Hezbollah rockets hit northern Israel",
-      "link": "https://www.thehindu.com/news/international/israel-orders-strikes-on-beiruts-southern-suburbs-as-hezbollah-rockets-hit-northern-israel/article71047946.ece",
-      "description": "Israel’s government has ordered strikes on the southern suburbs of Beirut, as Hezbollah fired rockets at northern Israel including the outskirts of coastal city of Haifa",
-      "date": "Mon, 01 Jun 2026",
+      "title": "The Iran war and the uncertain future of the expats",
+      "link": "https://www.thehindu.com/news/national/the-iran-war-and-the-uncertain-future-of-the-expats/article70734077.ece",
+      "description": "The Gulf will continue to matter for India, but the old certainty of the “Gulf dream” has been shaken",
+      "date": "Tue, 02 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Lebanon ceasefire became cover for further aggression — Russian envoy to UN",
+      "link": "https://tass.com/politics/2139963",
+      "description": "According to Vasily Nebenzya, while the international community awaited the next round of talks scheduled, \"the Israelis continued to methodically expand their occupation zone\"",
+      "date": "Tue, 02 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russia strongly condemns Israel's aggression against Lebanon — Russian envoy",
+      "link": "https://tass.com/politics/2139961",
+      "description": "Vasily Nebenzya noted that Moscow demands the immediate withdrawal of Israeli troops from Lebanese lands",
+      "date": "Tue, 02 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran-US agreement could be finalized next week — Trump",
+      "link": "https://tass.com/world/2139941",
+      "description": "The American leader pointed out that he had not agreed to the previous version of the document because he still has to get a few more points\" to be included in the memorandum",
+      "date": "Mon, 01 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Lebanese parliament speaker tells US that Hezbollah is ready for ceasefire — media",
+      "link": "https://tass.com/world/2139883",
+      "description": "US officials said they don’t think that Israeli Prime Minister Benjamin Netanyahu would agree on a total ceasefire",
+      "date": "Mon, 01 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
