@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-02 05:21 UTC",
+  "updated": "2026-06-02 10:00 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-06-02",
       "dateDisplay": "Jun 02, 2026",
-      "title": "Middle East war live: Israeli military intercepts projectiles from Lebanon",
-      "link": "https://www.france24.com/en/middle-east/20260602-middle-east-war-live-israeli-military-intercepts-projectiles-from-lebanon",
+      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
@@ -16,22 +16,21 @@
     {
       "date": "2026-06-01",
       "dateDisplay": "Jun 01, 2026",
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
+      "link": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza",
       "sources": [
-        "France 24",
-        "BBC"
+        "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-05-31",
       "dateDisplay": "May 31, 2026",
-      "title": "The terrifying day the U.S.-Iran war reached a sleepy Sri Lankan town",
-      "link": "https://www.npr.org/2026/05/31/nx-s1-5820634/the-terrifying-day-the-u-s-iran-war-reached-a-sleepy-sri-lankan-town",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
