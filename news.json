@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-03 17:55 UTC",
+  "updated": "2026-06-03 20:47 UTC",
   "total": 37,
   "stories": [
     {
-      "title": "Iran and the U.S. trade strikes in the Persian Gulf, further testing the ceasefire",
-      "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
-      "description": "Kuwait briefly shut the country's main airport after Iranian drones heavily damaged it and killed one person, the latest in a series of attacks by Iran and the U.S. that have tested a fragile truce.",
+      "title": "Trump confirms calling Netanyahu 'crazy,' says they still get along",
+      "link": "https://www.npr.org/2026/06/03/g-s1-125631/trump-confirms-calling-netanyahu-crazy-says-they-still-get-along",
+      "description": "The president also acknowledged that he cursed at the Israeli leader in a heated phone call in which he told Benjamin Netanyahu not to bomb the Lebanese capital Beirut.",
       "date": "Wed, 03 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -13,14 +13,24 @@
       "bias": "Low"
     },
     {
-      "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza",
-      "description": "Trumps says Israel and Hezbollah will stop fighting after Iran stops talks with U.S. over Israeli operations in southern Lebanon, Gaza",
-      "date": "Mon, 01 Jun 2026",
+      "title": "Iran strikes Kuwait's main airport and kills 1 as ceasefire is tested again",
+      "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
+      "description": "Kuwait briefly shut its main airport after Iranian drones struck a passenger terminal, the latest in back-and-forth attacks by Iran and the U.S. that test a fragile ceasefire.",
+      "date": "Wed, 03 Jun 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "description": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
@@ -113,16 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "description": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
-      "date": "Sun, 31 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Months after the regime crackdown, Iranians search for missing protesters",
       "link": "https://www.france24.com/en/middle-east/20260603-months-after-the-regime-crackdown-iranians-search-for-missing-protesters",
       "description": "The deadly crackdown on the December 2025-January 2026 anti-regime protests saw many Iranians killed, tracked or detained. The US-Israel war on Iran has intensified the repression, but it has not stopped families from trying to trace their missing loved ones or from seeking justi...",
@@ -173,6 +173,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel’s decades-long history of invading Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israels-decades-long-history-of-invading-lebanon?traffic_source=rss",
+      "description": "Israel has invaded Lebanon for the sixth time in 48 years. Al Jazeera’s Hala Al Shami outlines this history.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran faces a new energy imbalance, but its options are limited",
+      "link": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
+      "description": "Iran’s government weighs limited energy control options in a strained economy, with the war impacting production.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
+      "link": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
+      "description": "The attacks test a US-mediated deal to curb Israel-Hezbollah attacks, and new Israel-Lebanon talks in Washington.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
       "link": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
       "description": "US president acknowledges he had harsh words for Netanyahu over Lebanon attacks but says he &#039;likes&#039; the Israeli leader.",
@@ -183,34 +213,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran’s World Cup squad to depart for Mexico on June 6 despite US visa delay",
-      "link": "https://www.aljazeera.com/sports/2026/6/3/irans-world-cup-squad-to-depart-for-mexico-on-june-6-despite-us-visa-delay?traffic_source=rss",
-      "description": "Squad&#039;s visas for the US haven&#039;t been issued, with Marco Rubio saying IRGC-linked members won&#039;t be allowed to &#039;embed&#039;.",
+      "title": "Rubio declares US operation against Iran over, claims Washington achieved military objectives",
+      "link": "https://www.dawn.com/news/2004963/rubio-declares-us-operation-against-iran-over-claims-washington-achieved-military-objectives",
+      "description": "WASHINGTON: US Secretary of State Marco Rubio told lawmakers on Wednesday that Washington’s military campaign against Iran, codenamed “Operation Epic Fury”, had concluded and that any subsequent American military action would be defensive in nature rather than part of an ongoing ...",
       "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why is France so invested in the future of Lebanon?",
-      "link": "https://www.aljazeera.com/news/2026/6/3/why-is-france-so-invested-in-the-future-of-lebanon?traffic_source=rss",
-      "description": "Analysts say France is hoping to reassert its diminishing influence in the region.",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage?traffic_source=rss",
-      "description": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "'I was a little bit perturbed': Trump confirms expletive-laden phone call with Netanyahu",
@@ -263,11 +273,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran willing to negotiate ‘aspects’ of nuclear programme, Rubio says amid escalating scrutiny over war",
-      "link": "https://www.dawn.com/news/2004681/iran-willing-to-negotiate-aspects-of-nuclear-programme-rubio-says-amid-escalating-scrutiny-over-war",
-      "description": "WASHINGTON: US Secretary of State Marco Rubio on Tuesday told lawmakers that Iran had agreed to begin limited negotiations over its nuclear programme, marking what he described as a tentative but meaningful shift in Tehran’s posture as the United States-led conflict continues to ...",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Dawn",
+      "title": "Iran's Foreign Minister warns any attack on Beirut will trigger 'full-scale resumption of war'",
+      "link": "https://www.thehindu.com/news/international/irans-foreign-minister-warns-any-attack-on-beirut-will-trigger-full-scale-resumption-of-war/article71058592.ece",
+      "description": "Iran has repeatedly insisted that any deal to end the wider West Asia war — which its ally Hezbollah joined on March 2 — must also halt the fighting in Lebanon.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. sanctions alleged rebel commanders in DR Congo",
+      "link": "https://www.thehindu.com/news/international/us-sanctions-alleged-rebel-commanders-in-dr-congo/article71058523.ece",
+      "description": "The sanctions target Gustave Kubwayo, alleged to be the commander of FDLR, and John Imani Nzenze, alleged to be the March 23 (M23) commander and chief of intelligence, says the U.S. Treasury in a statement",
+      "date": "Wed, 03 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -313,29 +333,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "At least 63 injured, one killed in Iran’s attack on Kuwait: Health Ministry",
-      "link": "https://www.thehindu.com/news/international/iran-attackon-kuwait-kills-injures-several-people/article71056844.ece",
-      "description": "At least 63 people were injured and one person was killed after an Iranian attack struck Kuwait, damaging infrastructure including the country’s main airport, according to Kuwaiti authorities",
-      "date": "Wed, 03 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iranian attack targeting international airport kills at least 1; several wounded, says Kuwait",
-      "link": "https://www.thehindu.com/news/international/iran-drone-missile-attack-forces-kuwait-airport-to-shut-down-june-3-2026-updates/article71055848.ece",
-      "description": "The attack caused “severe ‌damage” ⁠to the airport’s ⁠T1 building, the report said, citing the General Civil ​Aviation Authority",
-      "date": "Wed, 03 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Tehran only strikes back at targets used by US to attack Iran — Araghchi",
-      "link": "https://tass.com/world/2141029",
-      "description": "The Islamic Republic’s Foreign Minister warned that any aggression against Iran would be met with a resolute response",
+      "title": "Israel ready to resume military operations against Iran any time — general staff",
+      "link": "https://tass.com/world/2141093",
+      "description": "Eyal Zamir says the navy is playing a crucial role in Israel's ability \"to deliver a decisive blow against the terrorist regime\"",
       "date": "Wed, 03 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -343,9 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "VTB chief announces growing interest in Russia from Chinese, Persian Gulf investors",
-      "link": "https://tass.com/economy/2140933",
-      "description": "Andrey Kostin noted that the Russian market needed foreign investors",
+      "title": "Iran-US contacts continue, sides reviewing drafts they exchanged — Araghchi",
+      "link": "https://tass.com/world/2141069",
+      "description": "Asked whether the negotiation process had been suspended because of the situation in Lebanon, Araghchi said that \"external factors do influence the talks.\"",
       "date": "Wed, 03 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump believes 'there would be no Israel' without his help",
-      "link": "https://tass.com/world/2140927",
-      "description": "The US leader stressed that the decision to launch the military operation against Iran was entirely his own",
+      "title": "Iran wants no war, but ready to sustain it for long — foreign minister",
+      "link": "https://tass.com/world/2141071",
+      "description": "The United States and Israel launched a military operation against Iran on February 28",
       "date": "Wed, 03 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -363,9 +363,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iranian attack on Kuwait’s airport leaves over 60 people injured — Health Ministry",
-      "link": "https://tass.com/world/2140915",
-      "description": "One person was killed in the attack",
+      "title": "Iran ready to strike Israel should it attack Beirut — foreign minister",
+      "link": "https://tass.com/military-operation/2141065",
+      "description": "However, Araghchi said on Tuesday that contacts between Iran and the United States had not been interrupted and that both sides were reviewing texts exchanged earlier",
       "date": "Wed, 03 Jun 2026",
       "source": "TASS",
       "region": "ru",
