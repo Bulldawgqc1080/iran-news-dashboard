@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-03 02:41 UTC",
-  "total": 33,
+  "updated": "2026-06-03 07:30 UTC",
+  "total": 40,
   "stories": [
+    {
+      "title": "Iran fires missiles in Kuwait and Bahrain, U.S. strikes Iran facility",
+      "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
+      "description": "The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
       "link": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza",
@@ -23,9 +33,39 @@
       "bias": "Low"
     },
     {
+      "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "description": "Kuwait says its international airport has been badly damaged by Iranian drones, and traffic is suspended.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade",
+      "link": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss",
+      "description": "The uncertainty has weighed heavily on the 20,000 seafarers trapped in the Iran war zone.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
       "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
       "description": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "British couple lose Iran jail sentence appeal, family says",
+      "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
+      "description": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
       "date": "Tue, 02 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -37,16 +77,6 @@
       "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
       "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
       "date": "Mon, 01 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "British couple lose Iran jail sentence appeal, family says",
-      "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-      "description": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
-      "date": "Tue, 02 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -103,29 +133,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump seeking edits to US-Iran deal, US media report",
-      "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
-      "description": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
-      "date": "Sun, 31 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "description": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
-      "date": "Fri, 29 May 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East war live: US military says it intercepted Iranian missile and drone attacks",
+      "title": "US military says it intercepted Iranian missile and drone attacks in Gulf",
       "link": "https://www.france24.com/en/middle-east/20260603-middle-east-war-live-us-military-says-it-intercepted-iranian-missile-and-drone-attacks",
-      "description": "The US military said on Tuesday that it had intercepted and defeated a series of Iranian missile and drone attacks targeting regional neighbours, including Kuwait and Bahrain, while also carrying out self-defence strikes on Iran’s Qeshm Island, according to US Central Command. Fo...",
+      "description": "",
+      "date": "Wed, 03 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Iranian drone attack on Kuwait airport causes injuries, suspends flights",
+      "link": "https://www.france24.com/en/middle-east/20260603-middle-east-war-live-us-military-says-it-intercepted-iranian-missile-and-drone-attacks",
+      "description": "Kuwait on Wednesday said an Iranian drone and missile attack had targeted the country’s international airport and ‌caused injuries as well ‌as flight suspensions and diversions. The attack comes just hours after Iran and the United States traded missile attacks in the region. Fol...",
       "date": "Wed, 03 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -163,6 +183,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
+      "link": "https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks?traffic_source=rss",
+      "description": "Rubio says the US will lift sanctions on Iran only if it gives up enriched uranium, rejecting a Hormuz-linked deal.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Accident on Kuwait motorway as Iranian missiles fly overhead",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/accident-on-kuwait-motorway-as-iranian-missiles-fly-overhead?traffic_source=rss",
+      "description": "Video shows a car accident occurring on a road in Kuwait City as missiles flew overhead.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy?traffic_source=rss",
+      "description": "Hawkish voices in Israel have accused Prime Minister Benjamin Netanyahu of holding back on bombing Beirut.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
       "description": "The US military says it carried out ‘self-defence’ strikes on Iran’s Qeshm Island.",
@@ -173,9 +223,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US hits Iran’s Qeshm, says Tehran targeted Kuwait, Bahrain",
+      "title": "Iran war live: Strikes shut down Kuwait airport with several wounded",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss",
-      "description": "US President Trump reported to lash out at Israeli PM Netanyahu over Israel’s threat to strike Beirut suburbs.",
+      "description": "The US military earlier said all Iranian drones and missiles failed to strike their intended targets.",
       "date": "Wed, 03 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -193,30 +243,10 @@
       "bias": "Medium"
     },
     {
-      "title": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
-      "link": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss",
-      "description": "What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon.",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
-      "description": "US Secretary of State Marco Rubio says Iran’s Supreme Leader Mojtaba Khamenei is increasingly engaging in negotiations.",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran willing to negotiate ‘aspects’ of nuclear programme, Rubio says amid escalating scrutiny over war",
-      "link": "https://www.dawn.com/news/2004681/iran-willing-to-negotiate-aspects-of-nuclear-programme-rubio-says-amid-escalating-scrutiny-over-war",
-      "description": "WASHINGTON: US Secretary of State Marco Rubio on Tuesday told lawmakers that Iran had agreed to begin limited negotiations over its nuclear programme, marking what he described as a tentative but meaningful shift in Tehran’s posture as the United States-led conflict continues to ...",
-      "date": "Tue, 02 Jun 2026",
+      "title": "Hostilities flare in Gulf as US-Iran talks at a stalemate",
+      "link": "https://www.dawn.com/news/2004866/hostilities-flare-in-gulf-as-us-iran-talks-at-a-stalemate",
+      "description": "Gulf hostilities flared again on Wednesday, with a missile attack damaging Kuwait’s airport and the US military carrying out strikes near the Strait of Hormuz, as diplomacy between Washington and Tehran showed little progress. The latest flare-up, which sent oil prices up more th...",
+      "date": "Wed, 03 Jun 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -227,6 +257,26 @@
       "link": "https://www.dawn.com/news/2004785/fighting-rages-in-lebanon-despite-trumps-claims",
       "description": "• Axios’ account of expletive-laden shouting match between Trump and Netanyahu dominates discourse• Israel strikes hospital in historic Tyre as Beirut, Tel Aviv continue talks in Washington BEIRUT / WASHINGTON: Israel and Hezbollah continued to exchange fire on Tuesday, despite U...",
       "date": "Wed, 03 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump names inexperienced ally as intelligence director",
+      "link": "https://www.dawn.com/news/2004772/trump-names-inexperienced-ally-as-intelligence-director",
+      "description": "Bill Pulte WASHINGTON: President Donald Trump appointed a loyalist with no national security experience as head of US intelligence on Tuesday — and said he would also retain his existing jobs overseeing federal housing and mortgage policies. Federal Housing Finance Agency chief B...",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran willing to negotiate ‘aspects’ of nuclear programme, Rubio says amid escalating scrutiny over war",
+      "link": "https://www.dawn.com/news/2004681/iran-willing-to-negotiate-aspects-of-nuclear-programme-rubio-says-amid-escalating-scrutiny-over-war",
+      "description": "WASHINGTON: US Secretary of State Marco Rubio on Tuesday told lawmakers that Iran had agreed to begin limited negotiations over its nuclear programme, marking what he described as a tentative but meaningful shift in Tehran’s posture as the United States-led conflict continues to ...",
+      "date": "Tue, 02 Jun 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -253,29 +303,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "France bans Israel from weapons show",
-      "link": "https://www.dawn.com/news/2004526/france-bans-israel-from-weapons-show",
-      "description": "TEL AVIV: France has barred Israeli officials from attending a major weapons show in Paris and imposed restrictions on companies from the country exhibiting there. The French defence ministry said on Monday Israeli companies would be limited to showing equipment and materials rel...",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Tehran responds with air base attack after US strikes Iranian military sites",
-      "link": "https://www.dawn.com/news/2004320/tehran-responds-with-air-base-attack-after-us-strikes-iranian-military-sites",
-      "description": "The US said it struck Iranian military sites at the weekend and Iran’s Revolutionary Guards said on Monday it had targeted a US base in response, the latest in a series of exchanges amid negotiations to end the three-month-old war. The strikes on Iran’s Gulf coast were in respons...",
-      "date": "Mon, 01 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: U.S. military says it has ‘defeated’ Iran missile, drone attacks in Gulf",
+      "title": "West Asia war LIVE: Kuwait airport reportedly attacked by Iran drones and missiles",
       "link": "https://www.thehindu.com/news/international/west-asia-war-usa-israel-attack-on-iran-lebanon-hezbollah-june-3-2026/article71055298.ece",
-      "description": "Iran Guards said that they have attacked the U.S. Fifth ‌Fleet headquarters and ​an airbase ⁠and helicopters in a regional country using missiles and ‌drones, in response to ‌what it described as ⁠a U.S. attack on an a communications tower south ​of Qeshm ‌Island",
+      "description": "Kuwait's international airport has reportedly been struck by Iranian drone and missile attacks, causing injuries and forcing authorities to divert flights",
+      "date": "Wed, 03 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran drone and missile attack hits Kuwait airport, state news agency says",
+      "link": "https://www.thehindu.com/news/international/iran-drone-missile-attack-forces-kuwait-airport-to-shut-down-june-3-2026-updates/article71055848.ece",
+      "description": "The attack caused \"severe ‌damage\" ⁠to the airport's ⁠T1 building, the report said, citing the General Civil ​Aviation Authority",
       "date": "Wed, 03 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -286,6 +326,16 @@
       "title": "U.S. military says it has ‘defeated’ Iran missile, drone attacks in Gulf",
       "link": "https://www.thehindu.com/news/international/usa-iran-war-missile-drone-attack-on-kuwait-bahrain-june-3-2026/article71055303.ece",
       "description": "U.S. Central Command also denied claims by Iran’s Revolutionary Guards that they had struck the headquarters of the U.S. Navy’s Fifth Fleet in Bahrain and a separate air base in the region",
+      "date": "Wed, 03 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Beaufort Castle captured by Israel: Why is the Lebanon fortress important?",
+      "link": "https://www.thehindu.com/news/international/lebanon-beaufort-castle-history-and-capture-by-israel-explained/article71051159.ece",
+      "description": "The Hezbollah troops said that their fighters were still actively battling Israeli troops near Beaufort Castle, describing the situation as a “battle of attrition.”",
       "date": "Wed, 03 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -313,24 +363,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war highlights: Iran has not yet sent its response to the U.S. in talks, says report",
-      "link": "https://www.thehindu.com/news/international/iran-israel-usa-war-peace-deal-attack-on-hezbollah-lebanon-strait-of-hormuz-june-2-2026/article71050939.ece",
-      "description": "U.S. President Donald Trump said Israel and Hezbollah had agreed to stop fighting, adding that Iran talks were moving rapidly after seeming to falter over Israel’s Lebanon offensive",
+      "title": "Kuwait Airport suspends operations following Iranian attack — authorities",
+      "link": "https://tass.com/world/2140565",
+      "description": "According to Kuwait’s Directorate General of Civil Aviation, the attack caused casualties and serious damage to some of the airport facilities",
       "date": "Wed, 03 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Israel kills 8 in southern Lebanon, a day after Trump said Israel and Hezbollah to de-escalate",
-      "link": "https://www.thehindu.com/news/international/israel-kills-8-in-southern-lebanon-a-day-after-trump-said-israel-and-hezbollah-to-de-escalate/article71054347.ece",
-      "description": "Israel threatened on June 1 to strike Beirut's southern suburbs, causing panic in the Lebanese capital as thousands fled to safer areas and Hezbollah fired rockets at northern Israel",
+      "title": "Enriched uranium removal from Iran to Russia should be seen as good solution — US expert",
+      "link": "https://tass.com/world/2140527",
+      "description": "\"Whether the enriched uranium is transported to Russia or is down blended with other material within Iran, they are both good solutions to what is a looming nuclear proliferation problem,\" Thomas Countryman said",
+      "date": "Wed, 03 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US military in Kuwait repels attack by Iranian drones — CENTCOM",
+      "link": "https://tass.com/world/2140523",
+      "description": "US Central Command air defenses successfully downed multiple drones and ensured no American personnel or assets were harmed",
+      "date": "Wed, 03 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump wants to formalize Iran's nuclear program concessions in memorandum — TV",
+      "link": "https://tass.com/world/2140509",
+      "description": "According to the TV channel, Iranian negotiators verbally assured the United States that the Islamic Republic would eventually agree to a number of conditions regarding its nuclear program, but Donald Trump considered these guarantees insufficient",
       "date": "Tue, 02 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }

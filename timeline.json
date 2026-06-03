@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-03 02:41 UTC",
-  "total": 15,
+  "updated": "2026-06-03 07:30 UTC",
+  "total": 12,
   "events": [
     {
       "date": "2026-06-03",
       "dateDisplay": "Jun 03, 2026",
-      "title": "US says it attacked Iran\u2019s Qeshm Island; Tehran targets Kuwait, Bahrain",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
+      "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera"
+        "Al Jazeera",
+        "BBC"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-06-02",
@@ -80,17 +81,6 @@
       "type": "framing"
     },
     {
-      "date": "2026-05-25",
-      "dateDisplay": "May 25, 2026",
-      "title": "'Hopefully we can pull it off' - Rubio on Iran deal",
-      "link": "https://www.bbc.com/news/videos/clyppw9gqzwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
       "date": "2026-05-23",
       "dateDisplay": "May 23, 2026",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
@@ -139,28 +129,6 @@
       "dateDisplay": "May 10, 2026",
       "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
       "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-06",
-      "dateDisplay": "May 06, 2026",
-      "title": "Trump's hopes for an Iran peace deal come with caveats",
-      "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-05",
-      "dateDisplay": "May 05, 2026",
-      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-      "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
