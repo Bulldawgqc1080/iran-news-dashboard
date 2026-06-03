@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-03 07:30 UTC",
-  "total": 40,
+  "updated": "2026-06-03 12:28 UTC",
+  "total": 38,
   "stories": [
     {
-      "title": "Iran fires missiles in Kuwait and Bahrain, U.S. strikes Iran facility",
+      "title": "Iran and the US trade strikes in the Persian Gulf, further testing the ceasefire",
       "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
-      "description": "The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response.",
+      "description": "Kuwait briefly shut the country's main airport after Iranian drones heavily damaged it and killed one person, the latest in a series of attacks by Iran and the U.S. that have tested a fragile truce.",
       "date": "Wed, 03 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -35,7 +35,7 @@
     {
       "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
       "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "description": "Kuwait says its international airport has been badly damaged by Iranian drones, and traffic is suspended.",
+      "description": "Kuwait says one person is dead after drones hit civilian buildings including its international airport.",
       "date": "Wed, 03 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -133,6 +133,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel strikes hospital in southern Lebanon",
+      "link": "https://www.france24.com/en/israel-strikes-hospital-in-southern-lebanon",
+      "description": "Israel continues to hit targets in Lebanon despite a partial US-brokered ceasefire in place. Lebanese and Israeli diplomats are in Washington for the fourth round of direct talks, but those negotiations have been strongly opposed by Hezbollah. Pressure also mounting within Netany...",
+      "date": "Wed, 03 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "New round of Israel-Lebanon talks opens after Israeli strikes",
+      "link": "https://www.france24.com/en/new-round-of-israel-lebanon-talks-opens-after-israeli-strikes",
+      "description": "The ambassadors of Israel and Lebanon began a new round of direct talks in Washington on after US President Donald Trump said he had received commitments to de-escalation from both sides. The fourth meeting between representatives of the two countries, which do not have diplomati...",
+      "date": "Wed, 03 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Kuwait airport hit by Iranian drones as US and Iran trade fire",
+      "link": "https://www.france24.com/en/kuwait-airport-hit-by-iranian-drones-as-us-iran-talks-stall",
+      "description": "The fragile ceasefire in the US Iran war was tested overnight as Tehran launched a series of drone and missile attacks on Kuwait, hitting and severely damaging its international airport. Kuwaiti authorities have insisted that missiles are being intercepted while the US has launch...",
+      "date": "Wed, 03 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US military says it intercepted Iranian missile and drone attacks in Gulf",
       "link": "https://www.france24.com/en/middle-east/20260603-middle-east-war-live-us-military-says-it-intercepted-iranian-missile-and-drone-attacks",
       "description": "",
@@ -143,104 +173,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Iranian drone attack on Kuwait airport causes injuries, suspends flights",
-      "link": "https://www.france24.com/en/middle-east/20260603-middle-east-war-live-us-military-says-it-intercepted-iranian-missile-and-drone-attacks",
-      "description": "Kuwait on Wednesday said an Iranian drone and missile attack had targeted the country’s international airport and ‌caused injuries as well ‌as flight suspensions and diversions. The attack comes just hours after Iran and the United States traded missile attacks in the region. Fol...",
+      "title": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again?",
+      "link": "https://www.aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again?traffic_source=rss",
+      "description": "Secretary of State Rubio tells US lawmakers the war on Iran is over, amid recent attacks on Iran and Gulf countries.",
       "date": "Wed, 03 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel’s invasion of southern Lebanon devastates centuries of history",
+      "link": "https://www.aljazeera.com/news/2026/6/3/israels-invasion-of-southern-lebanon-devastates-centuries-of-history?traffic_source=rss",
+      "description": "From Phoenician temples to Crusader castles, heritage sites bear the brunt of Israel&#039;s expanding military offensive.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Hezbollah video shows attack on Israeli troops at Lebanon’s Beaufort Castle",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle?traffic_source=rss",
+      "description": "Hezbollah has released drone video showing attacks targeting Israeli forces occupying Beaufort Castle",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US ‘disables’ ship allegedly bound for Iranian port",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-disables-ship-allegedly-bound-for-iranian-port?traffic_source=rss",
+      "description": "US Central Command released video of it targeting a tanker that it says was en route to Iran’s Kharg Island in the Gulf.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian drone attack kills one in Kuwait after US strikes Qeshm Island",
+      "link": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss",
+      "description": "Gulf country&#039;s airport is hit as clashes go on with diplomacy between Washington and Tehran showing little progress.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "'I was a little bit perturbed': Trump confirms expletive-laden phone call with Netanyahu",
+      "link": "https://www.dawn.com/news/2004906/i-was-a-little-bit-perturbed-trump-confirms-expletive-laden-phone-call-with-netanyahu",
+      "description": "US President Donald Trump has confirmed that he had lashed out at Israeli Prime Minister Benjamin Netanyahu over the latter’s escalation in Lebanon in a recent expletive-laden phone call. On Monday, American news outlet Axios reported citing sources that Trump called Netanyahu “c...",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Trump's acknowledgment of Hezbollah 'utterly humiliating' for Netanyahu",
-      "link": "https://www.france24.com/en/trump-s-acknowledgment-of-hezbollah-utterly-humiliating-for-netanyahu",
-      "description": "Israel continued to strike southern Lebanon on Tuesday as Iran-backed Hezbollah attacked its troops there despite an apparent Washington-brokered de-escalation deal and a fourth round of US-hosted talks between Lebanon and Israel. FRANCE 24's Jerusalem correspondent Noga Tarnopol...",
-      "date": "Tue, 02 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US, Iran: Washington keeps 'chasing the perfect war'",
-      "link": "https://www.france24.com/en/video/20260602-us-iran-washington-keeps-chasing-the-perfect-war",
-      "description": "No lessons learned:The Quincy Institute's Adam Weinstein tells #F24Debate Washington keeps chasing the fantasy of a 'quick and easy' war abroad ➡️https://f24.my/BxciRead the full article⤵️https://quincyinst.org/2026/05/06/washington-is-still-chasing-the-perfect-war/",
-      "date": "Tue, 02 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "REPLAY: Rubio faces Senate grilling over Trump's foreign policy",
-      "link": "https://www.france24.com/en/video/20260602-replay-rubio-faces-senate-grilling-over-trump-s-foreign-policy",
-      "description": "Secretary of State Marco Rubio told lawmakers Tuesday in his first public testimony since the Iran war began that the Iranians have agreed to negotiate on nuclear points that they had not been willing to address in the past but would not offer an assessment on what those talks mi...",
-      "date": "Tue, 02 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
-      "link": "https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks?traffic_source=rss",
-      "description": "Rubio says the US will lift sanctions on Iran only if it gives up enriched uranium, rejecting a Hormuz-linked deal.",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Accident on Kuwait motorway as Iranian missiles fly overhead",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/accident-on-kuwait-motorway-as-iranian-missiles-fly-overhead?traffic_source=rss",
-      "description": "Video shows a car accident occurring on a road in Kuwait City as missiles flew overhead.",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy?traffic_source=rss",
-      "description": "Hawkish voices in Israel have accused Prime Minister Benjamin Netanyahu of holding back on bombing Beirut.",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
-      "description": "The US military says it carried out ‘self-defence’ strikes on Iran’s Qeshm Island.",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Strikes shut down Kuwait airport with several wounded",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss",
-      "description": "The US military earlier said all Iranian drones and missiles failed to strike their intended targets.",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-      "link": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
-      "description": "Analysts say &#039;strategic leaks&#039; aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran.",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "Hostilities flare in Gulf as US-Iran talks at a stalemate",
@@ -253,9 +243,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Fighting rages in Lebanon despite Trump’s claims",
-      "link": "https://www.dawn.com/news/2004785/fighting-rages-in-lebanon-despite-trumps-claims",
-      "description": "• Axios’ account of expletive-laden shouting match between Trump and Netanyahu dominates discourse• Israel strikes hospital in historic Tyre as Beirut, Tel Aviv continue talks in Washington BEIRUT / WASHINGTON: Israel and Hezbollah continued to exchange fire on Tuesday, despite U...",
+      "title": "Trump names inexperienced ally as intelligence director",
+      "link": "https://www.dawn.com/news/2004772/trump-names-inexperienced-ally-as-intelligence-director",
+      "description": "Bill Pulte WASHINGTON: President Donald Trump appointed a loyalist with no national security experience as head of US intelligence on Tuesday — and said he would also retain his existing jobs overseeing federal housing and mortgage policies. Federal Housing Finance Agency chief B...",
       "date": "Wed, 03 Jun 2026",
       "source": "Dawn",
       "region": "me",
@@ -263,9 +253,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump names inexperienced ally as intelligence director",
-      "link": "https://www.dawn.com/news/2004772/trump-names-inexperienced-ally-as-intelligence-director",
-      "description": "Bill Pulte WASHINGTON: President Donald Trump appointed a loyalist with no national security experience as head of US intelligence on Tuesday — and said he would also retain his existing jobs overseeing federal housing and mortgage policies. Federal Housing Finance Agency chief B...",
+      "title": "Fighting rages in Lebanon despite Trump’s claims",
+      "link": "https://www.dawn.com/news/2004785/fighting-rages-in-lebanon-despite-trumps-claims",
+      "description": "• Axios’ account of expletive-laden shouting match between Trump and Netanyahu dominates discourse• Israel strikes hospital in historic Tyre as Beirut, Tel Aviv continue talks in Washington BEIRUT / WASHINGTON: Israel and Hezbollah continued to exchange fire on Tuesday, despite U...",
       "date": "Wed, 03 Jun 2026",
       "source": "Dawn",
       "region": "me",
@@ -293,16 +283,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'The bridge between confrontation and peace': Pakistan calls for stronger mediation efforts to prevent conflicts",
-      "link": "https://www.dawn.com/news/2004541/the-bridge-between-confrontation-and-peace-pakistan-calls-for-stronger-mediation-efforts-to-prevent-conflicts",
-      "description": "UNITED NATIONS: Pakistan on Monday renewed its call for restraint, de-escalation and a return to diplomacy in the ongoing Middle East crisis, saying that dialogue and mediation remain the only sustainable path to resolving conflicts. Addressing the UN General Assembly during a de...",
-      "date": "Tue, 02 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "West Asia war LIVE: Kuwait airport reportedly attacked by Iran drones and missiles",
       "link": "https://www.thehindu.com/news/international/west-asia-war-usa-israel-attack-on-iran-lebanon-hezbollah-june-3-2026/article71055298.ece",
       "description": "Kuwait's international airport has reportedly been struck by Iranian drone and missile attacks, causing injuries and forcing authorities to divert flights",
@@ -313,9 +293,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran drone and missile attack hits Kuwait airport, state news agency says",
+      "title": "At least 63 injured, one killed in Iran’s attack on Kuwait: Health Ministry",
+      "link": "https://www.thehindu.com/news/international/iran-attackon-kuwait-kills-injures-several-people/article71056844.ece",
+      "description": "At least 63 people were injured and one person was killed after an Iranian attack struck Kuwait, damaging infrastructure including the country’s main airport, according to Kuwaiti authorities",
+      "date": "Wed, 03 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian attack targeting international airport kills at least 1; several wounded, says Kuwait",
       "link": "https://www.thehindu.com/news/international/iran-drone-missile-attack-forces-kuwait-airport-to-shut-down-june-3-2026-updates/article71055848.ece",
-      "description": "The attack caused \"severe ‌damage\" ⁠to the airport's ⁠T1 building, the report said, citing the General Civil ​Aviation Authority",
+      "description": "The attack caused “severe ‌damage” ⁠to the airport’s ⁠T1 building, the report said, citing the General Civil ​Aviation Authority",
       "date": "Wed, 03 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -353,19 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. sanctions Iran's largest crypto exchange over IRGC links",
-      "link": "https://www.thehindu.com/news/international/us-sanctions-irans-largest-crypto-exchange-over-irgc-links/article71054476.ece",
-      "description": "The report also ⁠revealed how Nobitex continued operating even after the government-imposed internet shutdown, processing millions of dollars of transactions",
-      "date": "Wed, 03 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Kuwait Airport suspends operations following Iranian attack — authorities",
-      "link": "https://tass.com/world/2140565",
-      "description": "According to Kuwait’s Directorate General of Civil Aviation, the attack caused casualties and serious damage to some of the airport facilities",
+      "title": "Many US companies to return to Russia after conflict ends — AmCham chief",
+      "link": "https://tass.com/economy/2140781",
+      "description": "The sanctions will not change until the conflict end, Robert Agee said",
       "date": "Wed, 03 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -373,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Enriched uranium removal from Iran to Russia should be seen as good solution — US expert",
-      "link": "https://tass.com/world/2140527",
-      "description": "\"Whether the enriched uranium is transported to Russia or is down blended with other material within Iran, they are both good solutions to what is a looming nuclear proliferation problem,\" Thomas Countryman said",
+      "title": "US businesses have yet to see easing of sanctions pressure on Russia — AmCham chief",
+      "link": "https://tass.com/economy/2140775",
+      "description": "Robert Agee stressed that the majority of American companies had remained in Russia and were operating well and successfully",
       "date": "Wed, 03 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -383,9 +363,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US military in Kuwait repels attack by Iranian drones — CENTCOM",
-      "link": "https://tass.com/world/2140523",
-      "description": "US Central Command air defenses successfully downed multiple drones and ensured no American personnel or assets were harmed",
+      "title": "Second US-Russian presidents’ summit to improve relations between two states — AmCham",
+      "link": "https://tass.com/economy/2140765",
+      "description": "Robert Agee noted that despite the fact that there was dialogue, the level of sanctions had not yet changed",
       "date": "Wed, 03 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -393,10 +373,10 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump wants to formalize Iran's nuclear program concessions in memorandum — TV",
-      "link": "https://tass.com/world/2140509",
-      "description": "According to the TV channel, Iranian negotiators verbally assured the United States that the Islamic Republic would eventually agree to a number of conditions regarding its nuclear program, but Donald Trump considered these guarantees insufficient",
-      "date": "Tue, 02 Jun 2026",
+      "title": "Moldova must abandon sanctions against Russia — politician",
+      "link": "https://tass.com/world/2140751",
+      "description": "According to Igor Dodon, Chisinau should return to the platforms that the Moldovan authorities decided to abandon, namely the CIS and the EAEU",
+      "date": "Wed, 03 Jun 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
