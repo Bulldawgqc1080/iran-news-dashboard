@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04 00:27 UTC",
-  "total": 41,
+  "updated": "2026-06-04 05:49 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Trump confirms calling Netanyahu 'crazy,' says they still get along",
@@ -13,9 +13,9 @@
       "bias": "Low"
     },
     {
-      "title": "Iran strikes Kuwait's main airport and kills 1 as ceasefire is tested again",
+      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
       "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
-      "description": "Kuwait briefly shut its main airport after Iranian drones struck a passenger terminal, the latest in back-and-forth attacks by Iran and the U.S. that test a fragile ceasefire.",
+      "description": "Kuwait says Iranian drones have heavily damaged a passenger terminal at its main airport, killing one person, wounding dozens and briefly closing the airfield. Iran denies damaging the airport.",
       "date": "Wed, 03 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -23,9 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks",
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
       "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "description": "In a statement, the US State Department said both countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage.\"",
+      "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
       "date": "Thu, 04 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -173,6 +173,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Indonesia’s rupiah falls to record low against US dollar",
+      "link": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar?traffic_source=rss",
+      "description": "Currency plunge comes as energy shock from the Iran war casts a cloud over Southeast Asian economies.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
+      "description": "Lebanon&#039;s Health Ministry reports that 3,516 people have now been killed by Israeli attacks on the country since March.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss",
       "description": "Trump says he wants to keep talks on the conflict in Lebanon separate from negotiations over the war with Iran.",
@@ -233,24 +253,44 @@
       "bias": "Medium"
     },
     {
-      "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
-      "link": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
-      "description": "The attacks test a US-mediated deal to curb Israel-Hezbollah attacks, and new Israel-Lebanon talks in Washington.",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "Israel, Lebanon agree to conditional ceasefire",
+      "link": "https://www.dawn.com/news/2005110/israel-lebanon-agree-to-conditional-ceasefire",
+      "description": "Israel and Lebanon agreed on Wednesday to implement a ceasefire but said it would require a “complete cessation” of fire by Hezbollah, according to a joint statement after US-led talks in Washington. The two sides, which do not have formal diplomatic relations, also agreed to cre...",
+      "date": "Thu, 04 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
-      "link": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
-      "description": "US president acknowledges he had harsh words for Netanyahu over Lebanon attacks but says he &#039;likes&#039; the Israeli leader.",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "US House passes resolution calling for end to war on Iran, rebuking Trump",
+      "link": "https://www.dawn.com/news/2005046/us-house-passes-resolution-calling-for-end-to-war-on-iran-rebuking-trump",
+      "description": "The Republican-led US House of Representatives approved a resolution on Wednesday to block President Donald Trump from continuing the war against Iran, reflecting growing concern among members of his party about the three-month-old conflict. The House voted 215 to 208, as four Re...",
+      "date": "Thu, 04 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Khamenei’s funeral likely in late June, says official",
+      "link": "https://www.dawn.com/news/2005021/khameneis-funeral-likely-in-late-june-says-official",
+      "description": "IRAN’s former supreme leader Ayatollah Ali Khamenei’s funeral will likely be held toward the end of the current Iranian calendar month of Khordad, which ends on June 21, an official of Tehran’s local government said on Tuesday. Mohammad Ali Tavakolizadeh said the Revolutionary Gu...",
+      "date": "Thu, 04 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "India set for $2bn drone order in biggest buy",
+      "link": "https://www.dawn.com/news/2005028/india-set-for-2bn-drone-order-in-biggest-buy",
+      "description": "NEW DELHI: India is likely to order more than $2 billion worth of military drones from domestic firms this year in its biggest such purchase, an industry body working with the government said, as global and regional conflicts boost demand. The plans are in advanced stages with de...",
+      "date": "Thu, 04 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Rubio declares US operation against Iran over, claims Washington achieved military objectives",
@@ -273,50 +313,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel plans major expansion of West Bank settlements on occupied Palestinian land",
-      "link": "https://www.dawn.com/news/2004930/israel-plans-major-expansion-of-west-bank-settlements-on-occupied-palestinian-land",
-      "description": "Israel’s hardline finance minister announced on Wednesday a major expansion by more than 2,000 homes of three Jewish settlements in the occupied West Bank that Palestinians hope will be part of a future independent state. Most nations consider Israeli settlements there to be ille...",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Hostilities flare in Gulf as US-Iran talks at a stalemate",
-      "link": "https://www.dawn.com/news/2004866/hostilities-flare-in-gulf-as-us-iran-talks-at-a-stalemate",
-      "description": "Gulf hostilities flared again on Wednesday, with a missile attack damaging Kuwait’s airport and the US military carrying out strikes near the Strait of Hormuz, as diplomacy between Washington and Tehran showed little progress. The latest flare-up, which sent oil prices up more th...",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump names inexperienced ally as intelligence director",
-      "link": "https://www.dawn.com/news/2004772/trump-names-inexperienced-ally-as-intelligence-director",
-      "description": "Bill Pulte WASHINGTON: President Donald Trump appointed a loyalist with no national security experience as head of US intelligence on Tuesday — and said he would also retain his existing jobs overseeing federal housing and mortgage policies. Federal Housing Finance Agency chief B...",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Fighting rages in Lebanon despite Trump’s claims",
-      "link": "https://www.dawn.com/news/2004785/fighting-rages-in-lebanon-despite-trumps-claims",
-      "description": "• Axios’ account of expletive-laden shouting match between Trump and Netanyahu dominates discourse• Israel strikes hospital in historic Tyre as Beirut, Tel Aviv continue talks in Washington BEIRUT / WASHINGTON: Israel and Hezbollah continued to exchange fire on Tuesday, despite U...",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: Trump says Iran talks could yield result this weekend",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-usa-israel-attack-on-iran-lebanon-hezbollah-june-3-2026/article71055298.ece",
-      "description": "\"I hear the negotiation itself is going very well, actually,\" Mr. Trump told reporters, adding of a potential deal, \"It could happen... over the weekend.\"",
-      "date": "Wed, 03 Jun 2026",
+      "title": "West Asia war LIVE: Israeli military says air raid alarms sounded in northern Israel",
+      "link": "https://www.thehindu.com/news/international/usa-iran-war-updates-israel-lebanon-ceasefire-hezbollah-june-4-2026/article71059457.ece",
+      "description": "Israel and Lebanon agree on ceasefire; Trump says he wants to separate talks on Lebanon and the war in Iran but Tehran warns that any attack on Beirut would trigger a \"full-scale resumption\" of the war",
+      "date": "Thu, 04 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -326,7 +326,17 @@
       "title": "Iran's Foreign Minister warns any attack on Beirut will trigger 'full-scale resumption of war'",
       "link": "https://www.thehindu.com/news/international/irans-foreign-minister-warns-any-attack-on-beirut-will-trigger-full-scale-resumption-of-war/article71058592.ece",
       "description": "Iran has repeatedly insisted that any deal to end the wider West Asia war — which its ally Hezbollah joined on March 2 — must also halt the fighting in Lebanon.",
-      "date": "Wed, 03 Jun 2026",
+      "date": "Thu, 04 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war highlights: Trump says Iran talks could yield result this weekend",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-usa-israel-attack-on-iran-lebanon-hezbollah-june-3-2026/article71055298.ece",
+      "description": "\"I hear the negotiation itself is going very well, actually,\" Mr. Trump told reporters, adding of a potential deal, \"It could happen... over the weekend.\"",
+      "date": "Thu, 04 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -361,56 +371,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. President Trump confirms he called Netanyahu ‘crazy’ in phone call",
-      "link": "https://www.thehindu.com/news/international/trump-confirms-he-called-netanyahu-crazy-during-phone-call-over-lebanon-conflict/article71057121.ece",
-      "description": "President Donald Trump confirmed that he called Israeli Prime Minister Benjamin Netanyahu “crazy” during a phone conversation over Israel’s military actions in Lebanon and efforts to negotiate a ceasefire with Iran",
-      "date": "Wed, 03 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says Iran ready to give up nuclear arms development, acquisition",
-      "link": "https://tass.com/world/2141133",
-      "description": "The US president reiterated that he had initially discussed only Iran's renunciation of nuclear weapons development",
-      "date": "Thu, 04 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "During talks in US, Lebanon and Israel agree on implementing ceasefire",
-      "link": "https://tass.com/world/2141129",
-      "description": "The ceasefire is contingent on a complete cessation of Hezbollah fire and the evacuation of all operatives from the South Litani Sector",
-      "date": "Wed, 03 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump sees possibility for deal with Iran regardless of situation in Lebanon",
-      "link": "https://tass.com/world/2141123",
-      "description": "According to the US president, Washington recently held contacts with the Hezbollah movement for the first time",
-      "date": "Wed, 03 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Preliminary US-Iran agreement envisages joint uranium removal — Trump",
-      "link": "https://tass.com/world/2141117",
-      "description": "The US president said that there was an agreement to \"go into sometime in the not too distant future,\" answering a corresponding question",
-      "date": "Wed, 03 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
