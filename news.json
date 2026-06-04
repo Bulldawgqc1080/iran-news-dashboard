@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04 09:41 UTC",
-  "total": 36,
+  "updated": "2026-06-04 12:37 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Trump confirms calling Netanyahu 'crazy,' says they still get along",
@@ -26,6 +26,16 @@
       "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
       "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
       "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Defiance in Beirut's Hezbollah stronghold during fragile ceasefire",
+      "link": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC correspondent John Sudworth reports from the Beirut stronghold of Hezbollah support, Dahieh.",
       "date": "Thu, 04 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -83,16 +93,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
       "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
       "description": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
@@ -103,9 +103,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands flee the Hezbollah stronghold of Dahieh after Benjamin Netanyahu says it will be targeted in response to attacks on Israeli civilians.",
+      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
       "date": "Mon, 01 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -113,9 +113,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
-      "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-      "description": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands flee the Hezbollah stronghold of Dahieh after Benjamin Netanyahu says it will be targeted in response to attacks on Israeli civilians.",
       "date": "Mon, 01 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -173,14 +173,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Months after the regime crackdown, Iranians search for missing protesters",
-      "link": "https://www.france24.com/en/middle-east/20260603-months-after-the-regime-crackdown-iranians-search-for-missing-protesters",
-      "description": "The deadly crackdown on the December 2025-January 2026 anti-regime protests saw many Iranians killed, tracked or detained. The US-Israel war on Iran has intensified the repression, but it has not stopped families from trying to trace their missing loved ones or from seeking justi...",
-      "date": "Wed, 03 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Mehdi Taremi: Iran’s journey to the 2026 World Cup",
+      "link": "https://www.aljazeera.com/video/game-theory/2026/6/4/mehdi-taremi-irans-journey-to-the-2026-world-cup?traffic_source=rss",
+      "description": "Iranian footballer Mehdi Taremi talks to Al Jazeera ahead of one of the most politically charged World Cups in history.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel and Lebanon agree on ceasefire framework in US-led talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israel-and-lebanon-agree-on-ceasefire-framework-in-us-led-talks?traffic_source=rss",
+      "description": "The US announced an Israel-Lebanon ceasefire framework, but Hezbollah&#039;s absence leaves questions over enforcement.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US House votes to end Trump’s Iran war: Does it matter?",
+      "link": "https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter?traffic_source=rss",
+      "description": "Four Republicans join Democrats in rare rebuke of president. But Congress still far from able to stop further attacks.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Video: US House of Representatives votes to block further war on Iran",
@@ -213,34 +233,14 @@
       "bias": "Medium"
     },
     {
-      "title": "What the US-Israel war on Iran will not change in the Middle East",
-      "link": "https://www.aljazeera.com/opinions/2026/6/4/what-the-us-israel-war-on-iran-will-not-change-in-the-middle-east?traffic_source=rss",
-      "description": "The war may redraw alliances and shift balances of power, but geography, Palestine and political identity will endure.",
+      "title": "Iran's supreme leader says adversaries using 'hybrid warfare' aimed at creating divisions",
+      "link": "https://www.dawn.com/news/2005155/irans-supreme-leader-says-adversaries-using-hybrid-warfare-aimed-at-creating-divisions",
+      "description": "Iran’s Supreme Leader Ayatollah Mojtaba Khamenei said on Thursday that his country’s adversaries had turned to “hybrid warfare”, aimed at creating divisions among Iranians, after receiving a “decisive blow”. Mojtaba, who has not appeared publicly since being named as the supreme ...",
       "date": "Thu, 04 Jun 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Indonesia’s rupiah falls to record low against US dollar",
-      "link": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar?traffic_source=rss",
-      "description": "Currency plunge comes as energy shock from the Iran war casts a cloud over Southeast Asian economies.",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Israel attack injuries several after new Lebanon ceasefire",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
-      "description": "Lebanon&#039;s Health Ministry reports 3,516 people have now been killed in Israeli attacks since March.",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Israel, Lebanon agree to conditional ceasefire",
@@ -293,11 +293,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Rubio declares US operation against Iran over, claims Washington achieved military objectives",
-      "link": "https://www.dawn.com/news/2004963/rubio-declares-us-operation-against-iran-over-claims-washington-achieved-military-objectives",
-      "description": "WASHINGTON: US Secretary of State Marco Rubio told lawmakers on Wednesday that Washington’s military campaign against Iran, codenamed “Operation Epic Fury”, had concluded and that any subsequent American military action would be defensive in nature rather than part of an ongoing ...",
-      "date": "Wed, 03 Jun 2026",
-      "source": "Dawn",
+      "title": "Iranian-French cartoonist and filmmaker Marjane Satrapi dies at 56",
+      "link": "https://www.thehindu.com/news/international/persepolis-creator-marjane-satrapi-dies-at-56/article71060865.ece",
+      "description": "President Emmanuel Macron and his wife Brigitte Macron “pay tribute to a remarkable artist who transformed an Iranian childhood into a universal fable,” a statement said.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: Iran's Khamenei says dealt enemies 'decisive blow' in West Asian war",
+      "link": "https://www.thehindu.com/news/international/usa-iran-war-updates-israel-lebanon-ceasefire-hezbollah-june-4-2026/article71059457.ece",
+      "description": "Israel and Lebanon agree on ceasefire; Trump says he wants to separate talks on Lebanon and the war in Iran but Tehran warns that any attack on Beirut would trigger a \"full-scale resumption\" of the war",
+      "date": "Thu, 04 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -306,16 +316,6 @@
       "title": "Israel far-right Minister slams ceasefire with Lebanon as 'serious mistake'",
       "link": "https://www.thehindu.com/news/international/israel-far-right-minister-slams-ceasefire-with-lebanon-as-serious-mistake/article71060107.ece",
       "description": "\"The ceasefire is a serious mistake and the pipe dreams of advisers are dragging the Prime Minister (Benjamin Netanyahu) to wrong decisions,\" Ben Gvir wrote on X",
-      "date": "Thu, 04 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: Lebanon reports Israeli strikes after conditional ceasefire announcement",
-      "link": "https://www.thehindu.com/news/international/usa-iran-war-updates-israel-lebanon-ceasefire-hezbollah-june-4-2026/article71059457.ece",
-      "description": "Israel and Lebanon agree on ceasefire; Trump says he wants to separate talks on Lebanon and the war in Iran but Tehran warns that any attack on Beirut would trigger a \"full-scale resumption\" of the war",
       "date": "Thu, 04 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -346,16 +346,6 @@
       "title": "Brazil takes a historic HDI leap with focused planning and public spending",
       "link": "https://www.thehindu.com/news/international/brazil-takes-a-historic-hdi-leap-with-focused-planning-and-public-spending/article71057526.ece",
       "description": "UN report reveals the country’s cash-transfer scheme has played a key role in raising its Human Development Index score from 0.744 in 2012 to 0.805 in 2024, on a scale from 0 to 1; as Brazil enters election cycle, the far-right narrative that the scheme discourages people from wo...",
-      "date": "Thu, 04 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran's Foreign Minister warns any attack on Beirut will trigger 'full-scale resumption of war'",
-      "link": "https://www.thehindu.com/news/international/irans-foreign-minister-warns-any-attack-on-beirut-will-trigger-full-scale-resumption-of-war/article71058592.ece",
-      "description": "Iran has repeatedly insisted that any deal to end the wider West Asia war — which its ally Hezbollah joined on March 2 — must also halt the fighting in Lebanon.",
       "date": "Thu, 04 Jun 2026",
       "source": "The Hindu",
       "region": "me",
