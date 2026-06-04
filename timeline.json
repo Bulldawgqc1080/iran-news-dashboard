@@ -1,18 +1,19 @@
 {
-  "updated": "2026-06-04 12:37 UTC",
+  "updated": "2026-06-04 16:16 UTC",
   "total": 13,
   "events": [
     {
       "date": "2026-06-04",
       "dateDisplay": "Jun 04, 2026",
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel and Lebanon reach an agreement, but ceasefire stalls",
+      "link": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
       "sources": [
-        "Al Jazeera",
+        "NPR News",
+        "France 24",
         "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-06-03",
@@ -20,8 +21,8 @@
       "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
       "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
       "sources": [
-        "BBC",
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"

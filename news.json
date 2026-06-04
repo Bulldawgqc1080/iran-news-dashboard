@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-04 12:37 UTC",
+  "updated": "2026-06-04 16:16 UTC",
   "total": 35,
   "stories": [
+    {
+      "title": "Israel and Lebanon reach an agreement, but ceasefire stalls",
+      "link": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
+      "description": "The U.N. peacekeeping mission for Lebanon, known as UNIFIL, said one peacekeeper was killed and others were wounded when they came under mortar fire in southeastern Lebanon.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump confirms calling Netanyahu 'crazy,' says they still get along",
       "link": "https://www.npr.org/2026/06/03/g-s1-125631/trump-confirms-calling-netanyahu-crazy-says-they-still-get-along",
@@ -23,9 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
       "date": "Thu, 04 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -33,9 +43,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Defiance in Beirut's Hezbollah stronghold during fragile ceasefire",
+      "title": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
       "link": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
       "description": "BBC correspondent John Sudworth reports from the Beirut stronghold of Hezbollah support, Dahieh.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
+      "link": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
+      "description": "The French-Iranian author and illustrator was known for her graphic novel series and Oscar-nominated film.",
+      "date": "Thu, 04 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
       "date": "Thu, 04 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -103,29 +133,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands flee the Hezbollah stronghold of Dahieh after Benjamin Netanyahu says it will be targeted in response to attacks on Israeli civilians.",
-      "date": "Mon, 01 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "French-Iranian author Marjane Satrapi dead at 56",
-      "link": "https://www.france24.com/en/europe/20260604-french-iranian-author-marjane-satrapi-dead-56",
-      "description": "",
+      "title": "Trump slams 'unpatriotic' US House vote to end Iran war",
+      "link": "https://www.france24.com/en/video/20260604-trump-slams-unpatriotic-us-house-vote-to-end-iran-war",
+      "description": "President Donald Trump on Thursday slammed a vote in the US House seeking to order the withdrawal of American troops from the Iran war, suggesting the \"unpatriotic\" move disrupted negotiations with Tehran. The largely symbolic vote came \"right in the middle of my final negotiatio...",
       "date": "Thu, 04 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -133,9 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies of 'sadness' at 56",
-      "link": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-      "description": "French-Iranian author and illustrator Marjane Satrapi, best known for the book and film “Persopolis”, has died of \"sadness\", members of her entourage said Thursday. She was 56.",
+      "title": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon",
+      "link": "https://www.france24.com/en/video/20260604-hezbollah-rejects-latest-ceasefire-agreement-as-israeli-strikes-kill-4-in-lebanon",
+      "description": "Hezbollah on Thursday rejected the latest ceasefire agreement between Israel and the Lebanese government, and the militant group demanded a complete Israeli withdrawal from Lebanon as more fighting there hampered efforts to end the Iran war. The Hezbollah announcement came as Isr...",
       "date": "Thu, 04 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -143,9 +153,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel announces continued operations in south Lebanon – hours after renewing ceasefire",
-      "link": "https://www.france24.com/en/middle-east/20260604-israel-and-lebanon-agree-to-renew-ceasefire-condition-hezbollah-holds-fire",
-      "description": "Israel will continue its operations in southern Lebanon for now and will not withdraw from the country despite Wednesday’s conditional ceasefire after US-mediated talks, Israeli Defence Minister Israel Katz said Thursday. Lebanese state media reported Israeli strikes on the count...",
+      "title": "France's ban on Israeli weapons at Eurosatory 'shameful', says economy minister",
+      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260604-france-s-ban-on-israeli-weapons-at-eurosatory-shameful-says-economy-minister",
+      "description": "Speaking to FRANCE 24, Nir Barkat, Israel's economy minister called France's decision to ban Israeli offensive weapons from the Eurosatory defence fair \"shameful\", warning that Israel would \"bypass France\" to reach its customers. He argued Israel had \"no choice but to eliminate\" ...",
       "date": "Thu, 04 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,29 +163,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says no 'tangible progress' in war talks, Trump says deal close",
-      "link": "https://www.france24.com/en/middle-east/20260603-iran-says-no-tangible-progress-in-war-talks-trump-says-deal-close",
-      "description": "Iran's foreign minister said on Wednesday that negotiations to end the Middle East war had made \"no tangible progress\" after fresh US and Iranian strikes tested a fragile ceasefire. Kuwaiti officials said an Iranian drone strike on Kuwait International Airport killed one person a...",
-      "date": "Wed, 03 Jun 2026",
+      "title": "Strait of Hormuz oil crisis: An opportunity for Syria?",
+      "link": "https://www.france24.com/en/tv-shows/middle-east-matters/20260604-strait-of-hormuz-oil-crisis-an-opportunity-for-syria",
+      "description": "In the show this week, we look at how Syria could benefit from the oil crisis triggered by tensions in the Strait of Hormuz. After Iran effectively closed the strategic waterway, Syria's Mediterranean port of Baniyas found itself emerging as a hub for crude oil transported overla...",
+      "date": "Thu, 04 Jun 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Iran’s Khamenei warns against internal division after ‘enemy’s defeat’",
-      "link": "https://www.france24.com/en/middle-east/20260603-middle-east-war-live-israel-and-lebanon-agree-to-implement-a-ceasefire",
-      "description": "Iran’s Supreme Leader Mojtaba Khamenei on Thursday announced “the enemy’s defeat on the battleground” but warned Iranians against internal division. Khamenei has not been seen in public since he was reportedly injured in the US-Israeli strikes that killed his father, Ali Khamenei...",
-      "date": "Wed, 03 Jun 2026",
+      "title": "Israel strikes Lebanon despite 'last chance' ceasefire deal",
+      "link": "https://www.france24.com/en/video/20260604-israel-strikes-lebanon-despite-last-chance-ceasefire-deal",
+      "description": "Israel will continue to strike Lebanon for the time being and won't be withdrawing from the south, Defence Minister Israel Katz said on Thursday, after Lebanon and Israel agreed to a ceasefire contingent on Hezbollah halting attacks. The United States announced Lebanon and Israel...",
+      "date": "Thu, 04 Jun 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Mehdi Taremi: Iran’s journey to the 2026 World Cup",
-      "link": "https://www.aljazeera.com/video/game-theory/2026/6/4/mehdi-taremi-irans-journey-to-the-2026-world-cup?traffic_source=rss",
-      "description": "Iranian footballer Mehdi Taremi talks to Al Jazeera ahead of one of the most politically charged World Cups in history.",
+      "title": "Iranian-French artist Marjane Satrapi, author of 'Persepolis,' dies at 56",
+      "link": "https://www.france24.com/en/video/20260604-iranian-french-artist-marjane-satrapi-author-of-persepolis-dies-at-56",
+      "description": "French cartoonist and filmmaker Marjane Satrapi, a prominent advocate for women's rights and author of “Persepolis,” has died at 56, the French presidency said Thursday. Satrapi is best-known for her monochrome autobiographical comic book and film “Persepolis,” a coming-of-age ta...",
+      "date": "Thu, 04 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel's defence minister says military operations in Lebanon will continue despite ceasefire",
+      "link": "https://www.france24.com/en/video/20260604-israel-s-defence-minister-says-military-operations-in-lebanon-will-continue-despite-ceasefire",
+      "description": "Israel's ​military will continue to carry out operations in Lebanon for the time being and will not be withdrawing from the country, Defence Minister Israel ​Katz said on Thursday, despite the announcement of a new ceasefire. Israel and Lebanon on Wednesday agreed to a new ceasef...",
+      "date": "Thu, 04 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
+      "link": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss",
+      "description": "Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.",
       "date": "Thu, 04 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -183,9 +213,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel and Lebanon agree on ceasefire framework in US-led talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israel-and-lebanon-agree-on-ceasefire-framework-in-us-led-talks?traffic_source=rss",
-      "description": "The US announced an Israel-Lebanon ceasefire framework, but Hezbollah&#039;s absence leaves questions over enforcement.",
+      "title": "Lebanon’s latest truce: What is different from the April agreement?",
+      "link": "https://www.aljazeera.com/news/2026/6/4/lebanons-latest-truce-what-is-different-from-the-april-agreement?traffic_source=rss",
+      "description": "The ceasefire&#039;s prospects appear uncertain before its implementation has even started.",
       "date": "Thu, 04 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -193,39 +223,9 @@
       "bias": "Medium"
     },
     {
-      "title": "US House votes to end Trump’s Iran war: Does it matter?",
-      "link": "https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter?traffic_source=rss",
-      "description": "Four Republicans join Democrats in rare rebuke of president. But Congress still far from able to stop further attacks.",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Video: US House of Representatives votes to block further war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/video-us-house-of-representatives-votes-to-block-further-war-on-iran?traffic_source=rss",
-      "description": "Republican-led US House of Representatives passed a resolution to halt any further push of the war on Iran.",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel and Lebanon agree to conditional ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire?traffic_source=rss",
-      "description": "Deal is made through US-brokered talks in Washington, DC, that did not include Hezbollah.",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss",
-      "description": "Israel carries out drone attacks on Lebanon after agreeing to renew ceasefire as Tehran defends attacks on Gulf nations.",
+      "title": "Iran footballers describe how war with US-Israel affects their World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/6/4/iran-footballers-describe-how-war-with-us-israel-affects-their-world-cup?traffic_source=rss",
+      "description": "Iran national players Saeid Ezatolahi and Mohammad Ghorbani talk about how war is overshadowing a World Cup dream.",
       "date": "Thu, 04 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,9 +253,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "FO rejects reports of Dar sharing information on Iran's nuclear programme during meeting with Rubio",
-      "link": "https://www.dawn.com/news/2005140/fo-rejects-reports-of-dar-sharing-information-on-irans-nuclear-programme-during-meeting-with-rubio",
-      "description": "The Foreign Office (FO) on Thursday refuted reports that Deputy Prime Minister and Foreign Minister Ishaq Dar shared any information regarding Iran’s nuclear programme during a meeting with United States Secretary of State Marco Rubio. Dar met with Rubio on May 29 during a brief ...",
+      "title": "FO rejects reports of Dar sharing intelligence on Iran's nuclear programme during meeting with Rubio",
+      "link": "https://www.dawn.com/news/2005140/fo-rejects-reports-of-dar-sharing-intelligence-on-irans-nuclear-programme-during-meeting-with-rubio",
+      "description": "The Foreign Office (FO) on Thursday refuted reports that Deputy Prime Minister and Foreign Minister Ishaq Dar shared any intelligence regarding Iran’s nuclear programme during a meeting with United States Secretary of State Marco Rubio. Dar met with Rubio on May 29 during a brief...",
       "date": "Thu, 04 Jun 2026",
       "source": "Dawn",
       "region": "me",
@@ -293,9 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iranian-French cartoonist and filmmaker Marjane Satrapi dies at 56",
-      "link": "https://www.thehindu.com/news/international/persepolis-creator-marjane-satrapi-dies-at-56/article71060865.ece",
-      "description": "President Emmanuel Macron and his wife Brigitte Macron “pay tribute to a remarkable artist who transformed an Iranian childhood into a universal fable,” a statement said.",
+      "title": "Watch: TMC crisis: loyalists back Mamata, rebels stand firm | Above the Fold | 04.06.2026",
+      "link": "https://www.thehindu.com/videos/watch-tmc-crisis-loyalists-back-mamata-rebels-stand-firm-above-the-fold-04062026/article71062312.ece",
+      "description": "From the deepening rift within the Trinamool Congress in West Bengal to the U.S. House vote on the Iran war and the latest developments in the deadly Delhi fire tragedy, here are the top stories of the day on Above the Fold.",
       "date": "Thu, 04 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,9 +303,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran's Khamenei says dealt enemies 'decisive blow' in West Asian war",
+      "title": "West Asia war LIVE: Trump slams 'unpatriotic' U.S. House vote to end Iran war",
       "link": "https://www.thehindu.com/news/international/usa-iran-war-updates-israel-lebanon-ceasefire-hezbollah-june-4-2026/article71059457.ece",
-      "description": "Israel and Lebanon agree on ceasefire; Trump says he wants to separate talks on Lebanon and the war in Iran but Tehran warns that any attack on Beirut would trigger a \"full-scale resumption\" of the war",
+      "description": "Hezbollah rejects the latest ceasefire agreement as Israeli strikes kill four in Lebanon; demands 'comprehensive' ceasefire, Israeli withdrawal from Lebanon",
+      "date": "Thu, 04 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian-French cartoonist and filmmaker Marjane Satrapi dies at 56",
+      "link": "https://www.thehindu.com/news/international/persepolis-creator-marjane-satrapi-dies-at-56/article71060865.ece",
+      "description": "President Emmanuel Macron and his wife Brigitte Macron “pay tribute to a remarkable artist who transformed an Iranian childhood into a universal fable,” a statement said.",
       "date": "Thu, 04 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -336,16 +346,6 @@
       "title": "WatchIran denies striking Kuwait airport, blames US Patriot misfire",
       "link": "https://www.thehindu.com/shorts/watch-iran-denies-strikingkuwaitairport-blames-us-patriot-misfire/article71060099.ece",
       "description": "",
-      "date": "Thu, 04 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Brazil takes a historic HDI leap with focused planning and public spending",
-      "link": "https://www.thehindu.com/news/international/brazil-takes-a-historic-hdi-leap-with-focused-planning-and-public-spending/article71057526.ece",
-      "description": "UN report reveals the country’s cash-transfer scheme has played a key role in raising its Human Development Index score from 0.744 in 2012 to 0.805 in 2024, on a scale from 0 to 1; as Brazil enters election cycle, the far-right narrative that the scheme discourages people from wo...",
       "date": "Thu, 04 Jun 2026",
       "source": "The Hindu",
       "region": "me",
