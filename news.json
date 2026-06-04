@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03 22:57 UTC",
-  "total": 34,
+  "updated": "2026-06-04 00:27 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "Trump confirms calling Netanyahu 'crazy,' says they still get along",
@@ -23,10 +23,10 @@
       "bias": "Low"
     },
     {
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "title": "Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks",
       "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "description": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
-      "date": "Wed, 03 Jun 2026",
+      "description": "In a statement, the US State Department said both countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage.\"",
+      "date": "Thu, 04 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -123,6 +123,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran says no 'tangible progress' in war talks, Trump says deal close",
+      "link": "https://www.france24.com/en/middle-east/20260603-iran-says-no-tangible-progress-in-war-talks-trump-says-deal-close",
+      "description": "Iran's foreign minister said on Wednesday that negotiations to end the Middle East war had made \"no tangible progress\" after fresh US and Iranian strikes tested a fragile ceasefire. Kuwaiti officials said an Iranian drone strike on Kuwait International Airport killed one person a...",
+      "date": "Wed, 03 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Israel and Lebanon agree to implement conditional ceasefire",
+      "link": "https://www.france24.com/en/middle-east/20260603-middle-east-war-live-israel-and-lebanon-agree-to-implement-a-ceasefire",
+      "description": "Israel and Lebanon agreed Wednesday to renew their fragile ceasefire and create a number of “pilot” security zones inside Lebanon from which Hezbollah militants would be banned. In a joint statement released after a fourth round of US-mediated talks at the State Department, the t...",
+      "date": "Wed, 03 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Months after the regime crackdown, Iranians search for missing protesters",
       "link": "https://www.france24.com/en/middle-east/20260603-months-after-the-regime-crackdown-iranians-search-for-missing-protesters",
       "description": "The deadly crackdown on the December 2025-January 2026 anti-regime protests saw many Iranians killed, tracked or detained. The US-Israel war on Iran has intensified the repression, but it has not stopped families from trying to trace their missing loved ones or from seeking justi...",
@@ -153,24 +173,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel and Hezbollah exchange fire amid new talks in Washington",
-      "link": "https://www.france24.com/en/israel-and-hezbollah-exchange-fire-amid-new-talks-in-washington",
-      "description": "Lebanon said Israeli strikes on June 3 killed at least nine people in the country's south, while the Israeli army says it has intercepted a \"hostile aircraft\" in its northern regions. This comes as a new round of talks is to be held in Washington. FRANCE 24's Renée Davis in Beiru...",
+      "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss",
+      "description": "Trump says he wants to keep talks on the conflict in Lebanon separate from negotiations over the war with Iran.",
       "date": "Wed, 03 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump denies impasse in Iran talks after fresh strikes on Gulf countries",
-      "link": "https://www.france24.com/en/trump-denies-impasse-in-iran-talks-after-fresh-strikes-on-gulf-countries",
-      "description": "The ceasefire with Iran is being further tested after Iranian drones hit a terminal building in Kuwait. It forced the country to close down the airport briefly and one person was killed and at least 63 injured, according to the Kuwaiti health ministry. Meanwhile, talks with the U...",
+      "title": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss",
+      "description": "Kuwait has released surveillance footage of what it says shows an Iranian drone strike on Kuwait International Airport.",
       "date": "Wed, 03 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US House passes Iran war powers resolution in rare pushback against Trump",
+      "link": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
+      "description": "Four Republicans allied with Democrats to pass bill to rein in Trump, though it is likely to face a presidential veto.",
+      "date": "Wed, 03 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Kuwait labels Iran attack ‘heinous aggression’",
@@ -341,6 +371,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says Iran ready to give up nuclear arms development, acquisition",
+      "link": "https://tass.com/world/2141133",
+      "description": "The US president reiterated that he had initially discussed only Iran's renunciation of nuclear weapons development",
+      "date": "Thu, 04 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "During talks in US, Lebanon and Israel agree on implementing ceasefire",
+      "link": "https://tass.com/world/2141129",
+      "description": "The ceasefire is contingent on a complete cessation of Hezbollah fire and the evacuation of all operatives from the South Litani Sector",
+      "date": "Wed, 03 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump sees possibility for deal with Iran regardless of situation in Lebanon",
+      "link": "https://tass.com/world/2141123",
+      "description": "According to the US president, Washington recently held contacts with the Hezbollah movement for the first time",
+      "date": "Wed, 03 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Preliminary US-Iran agreement envisages joint uranium removal — Trump",
+      "link": "https://tass.com/world/2141117",
+      "description": "The US president said that there was an agreement to \"go into sometime in the not too distant future,\" answering a corresponding question",
+      "date": "Wed, 03 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }

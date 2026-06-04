@@ -1,18 +1,28 @@
 {
-  "updated": "2026-06-03 22:57 UTC",
-  "total": 12,
+  "updated": "2026-06-04 00:27 UTC",
+  "total": 13,
   "events": [
+    {
+      "date": "2026-06-04",
+      "dateDisplay": "Jun 04, 2026",
+      "title": "Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks",
+      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-06-03",
       "dateDisplay": "Jun 03, 2026",
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump confirms calling Netanyahu 'crazy,' says they still get along",
+      "link": "https://www.npr.org/2026/06/03/g-s1-125631/trump-confirms-calling-netanyahu-crazy-says-they-still-get-along",
       "sources": [
-        "Al Jazeera",
-        "BBC"
+        "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-06-02",
