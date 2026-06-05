@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-04 23:02 UTC",
-  "total": 13,
+  "updated": "2026-06-05 02:11 UTC",
+  "total": 14,
   "events": [
+    {
+      "date": "2026-06-05",
+      "dateDisplay": "Jun 05, 2026",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "sourceCount": 2,
+      "type": "govt"
+    },
     {
       "date": "2026-06-04",
       "dateDisplay": "Jun 04, 2026",
@@ -9,8 +21,8 @@
       "link": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
       "sources": [
         "NPR News",
-        "Al Jazeera",
-        "BBC"
+        "BBC",
+        "Al Jazeera"
       ],
       "sourceCount": 3,
       "type": "fact"
