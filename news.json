@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-06 02:45 UTC",
-  "total": 35,
+  "updated": "2026-06-06 06:20 UTC",
+  "total": 39,
   "stories": [
+    {
+      "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
+      "link": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
+      "description": "The exchange of strikes comes as the Trump administration ramps up pressure on Iran to make a deal to end the conflict.",
+      "date": "Sat, 06 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
       "link": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
@@ -113,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: US military says Iran launched seven ballistic missiles at Kuwait, Bahrain",
+      "link": "https://www.france24.com/en/middle-east/20260606-middle-east-live-us-military-says-iran-launched-seven-ballistic-missiles-at-kuwait-bahrain",
+      "description": "US military officials on Saturday said Iran launched seven ballistic missiles toward the neighboring Gulf nations of Kuwait and Bahrain, with US forces intercepting six of the missiles and a seventh failing to reach its target. Iran's Revolutionary Guards said they had hit \"enemy...",
+      "date": "Sat, 06 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Ukraine: Dear Putin, Lebanon: A Crude Call, Colombia's 'Tiger'",
       "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260605-ukraine-dear-putin-lebanon-a-crude-call-colombia-s-tiger",
       "description": "In a week where a renewed ceasefire was proclaimed between Israel and Lebanon, a deal that hinges on the complete cessation of attacks from the Iranian backed militants Hezbollah and withdrawal from the south of the country.",
@@ -153,27 +173,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Is this safety ?': Life in a Beirut displacement camp",
-      "link": "https://www.france24.com/en/video/20260605-is-this-safety-life-in-a-beirut-displacement-camp",
-      "description": "🇱🇧 \"Is this safety?\" Jenan Habash has been living in a displacement camp on the Beirut waterfront for three months — one of 175 tents with no running water or sanitation. A single mother from Baalbek, she fled with her two daughters, aged 5 and 10.",
-      "date": "Fri, 05 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "AI feature film on Iran’s protest movement makes festival history",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260605-ai-feature-film-on-iran-s-protest-movement-makes-festival-history",
-      "description": "A film about Iran's protest movement is making cinema history. \"Dreams of Violets\" is the first fully AI-generated feature film ever selected by a major international film festival. The 75-minute drama will premiere at New York's Tribeca Festival next week. Created by Iranian-Bri...",
-      "date": "Fri, 05 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war live: US strikes Iranian radar sites; Kuwait comes under attack",
+      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
       "description": "The United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel&#039;s attacks on the country.",
       "date": "Sat, 06 Jun 2026",
@@ -233,9 +233,39 @@
       "bias": "Medium"
     },
     {
+      "title": "US, Iran exchange strikes in Gulf in latest flare-up",
+      "link": "https://www.dawn.com/news/2005618/us-iran-exchange-strikes-in-gulf-in-latest-flare-up",
+      "description": "New attacks in the Middle East on Friday threatened to unravel an already fragile US-Iran ceasefire. Weeks of complex talks marked by threats and flare-ups of violence have failed to secure a deal to end the war and reopen the Strait of Hormuz, a key conduit for global energy flo...",
+      "date": "Sat, 06 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "UN widens aid plea as Israel continues to hammer Lebanon",
       "link": "https://www.dawn.com/news/2005555/un-widens-aid-plea-as-israel-continues-to-hammer-lebanon",
       "description": "• Israeli attacks kill 12 people in Tyre and Nabatieh• Iran reiterates support for Hezbollah• Lebanese president accuses Tehran of treating his country as bargaining chip in deal with US BEIRUT: Israeli air strikes intensified across southern Lebanon on Friday, killing seven peop...",
+      "date": "Sat, 06 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Senate blocks spy programme renewal over Trump’s intel chief pick",
+      "link": "https://www.dawn.com/news/2005565/senate-blocks-spy-programme-renewal-over-trumps-intel-chief-pick",
+      "description": "WASHINGTON: US senators blocked legislation renewing a major foreign surveillance authority on Friday after President Donald Trump’s choice of a loyalist housing official as acting intelligence chief upended a bipartisan deal. The protest was led by Democrats objecting that Bill ...",
+      "date": "Sat, 06 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Ireland bans entry of two Israeli ministers",
+      "link": "https://www.dawn.com/news/2005568/ireland-bans-entry-of-two-israeli-ministers",
+      "description": "DUBLIN: Ireland announced on Friday it has banned Israeli National Security Minister Itamar Ben Gvir and Finance Minister Bezalel Smotrich from entering the country, slamming their behaviour towards pro-Palestinian activists. Justice Minister Jim O’Callaghan “has instructed immig...",
       "date": "Sat, 06 Jun 2026",
       "source": "Dawn",
       "region": "me",
@@ -263,39 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Democrats seek Senate Republican support to limit Trump’s war powers",
-      "link": "https://www.dawn.com/news/2005214/democrats-seek-senate-republican-support-to-limit-trumps-war-powers",
-      "description": "WASHINGTON: Three senior Democratic leaders urged their colleagues in the US Senate on Thursday to support the move to prevent President Donald Trump from continuing the war against Iran without congressional approval. Democratic Whip Katherine Clark, Minority Leader Hakeem Jeffr...",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran's supreme leader says adversaries using 'hybrid warfare' aimed at creating divisions",
-      "link": "https://www.dawn.com/news/2005155/irans-supreme-leader-says-adversaries-using-hybrid-warfare-aimed-at-creating-divisions",
-      "description": "Iran’s Supreme Leader Ayatollah Mojtaba Khamenei said on Thursday that his country’s adversaries had turned to “hybrid warfare”, aimed at creating divisions among Iranians, after receiving a “decisive blow”. Mojtaba, who has not appeared publicly since being named as the supreme ...",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel, Lebanon agree to conditional ceasefire",
-      "link": "https://www.dawn.com/news/2005110/israel-lebanon-agree-to-conditional-ceasefire",
-      "description": "Israel and Lebanon agreed on Wednesday to implement a ceasefire but said it would require a “complete cessation” of fire by Hezbollah, according to a joint statement after US-led talks in Washington. The two sides, which do not have formal diplomatic relations, also agreed to cre...",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-6-2026/article71068325.ece",
-      "description": "Kuwait says it’s responding to ‘hostile’ missile and drone attacks; Trump says Iran has ‘22%’ of missiles left",
+      "title": "Trump says Iran has ‘22%’ of missiles left",
+      "link": "https://www.thehindu.com/news/international/trump-says-iran-has-22-of-missiles-left/article71068303.ece",
+      "description": "That figure for Iran's missile stockpile is higher than one of 18% Mr. Trump gave in May",
       "date": "Sat, 06 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,9 +303,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says Iran has ‘22%’ of missiles left",
-      "link": "https://www.thehindu.com/news/international/trump-says-iran-has-22-of-missiles-left/article71068303.ece",
-      "description": "That figure for Iran's missile stockpile is higher than one of 18% Mr. Trump gave in May",
+      "title": "West Asia war LIVE: U.S. military says Iran launched 7 missiles at Kuwait, Bahrain",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-6-2026/article71068325.ece",
+      "description": "Kuwait says it’s responding to ‘hostile’ missile and drone attacks; U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
+      "date": "Sat, 06 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-shot-down-iranian-drones-launched-toward-strait-of-hormuz/article71067819.ece",
+      "description": "The exchange of strikes comes as the Trump administration ramps up pressure on Iran to make a deal to end the conflict",
       "date": "Sat, 06 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -333,16 +343,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/us-military-says-it-shot-down-iranian-drones-launched-toward-strait-of-hormuz/article71067819.ece",
-      "description": "It was the latest in back-and-forth attacks that have strained the tenuous ceasefire in the war and efforts to reach a deal to extend that truce.",
-      "date": "Fri, 05 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "​Incomplete truce: On the Israel-Lebanon ceasefire",
       "link": "https://www.thehindu.com/opinion/editorial/incomplete-truce-on-the-israel-lebanon-ceasefire/article71064864.ece",
       "description": "Israel has to pull back troops from Lebanon for peace to take hold",
@@ -351,6 +351,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan remains in touch with Russia on Iran — ambassador",
+      "link": "https://tass.com/world/2143391",
+      "description": "Faisal Niaz Tirmizi also noted that Pakistani permanent representative in New York is constantly in touch with his counterpart in the Security Council",
+      "date": "Sat, 06 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US led over 100 vessels via Strait of Hormuz in May — NYT",
+      "link": "https://tass.com/world/2143385",
+      "description": "Passage through this waterway remains dangerous for ships against the backdrop of stalled US-Iranian reconciliation talks, the newspaper said",
+      "date": "Sat, 06 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Pakistan ready to offer platform for Iran-US talks — ambassador",
+      "link": "https://tass.com/world/2143377",
+      "description": "Pakistani Ambassador to Russia Faisal Niaz Tirmizi opined that Pakistan as a host country is acceptable to both Iran as well as the United States",
+      "date": "Sat, 06 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran severely damaged US air ops center in Qatar — magazine",
+      "link": "https://tass.com/world/2143369",
+      "description": "According to the magazine, proximity to Iran and overall vulnerability of the facility have raised questions of whether it should be rebuilt",
+      "date": "Sat, 06 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
