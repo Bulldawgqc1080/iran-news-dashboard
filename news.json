@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-06 09:16 UTC",
+  "updated": "2026-06-06 11:15 UTC",
   "total": 35,
   "stories": [
+    {
+      "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
+      "link": "https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers",
+      "description": "The Israeli military confirmed hitting a vehicle and said the incident is being reviewed. Lebanon's President Joseph Aoun called the strike \"a flagrant violation to Lebanese sovereignty and international law.\"",
+      "date": "Sat, 06 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
       "link": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
@@ -13,14 +23,14 @@
       "bias": "Low"
     },
     {
-      "title": "Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
-      "link": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
-      "description": "The U.N. peacekeeping mission for Lebanon, known as UNIFIL, said one peacekeeper was killed and others were wounded when they came under mortar fire in southeastern Lebanon.",
-      "date": "Thu, 04 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "description": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+      "date": "Sat, 06 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
@@ -113,16 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "description": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
-      "date": "Tue, 02 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Several soldiers killed in Israeli strike on Lebanon",
       "link": "https://www.france24.com/en/several-soldiers-killed-in-israeli-strike-on-lebanon",
       "description": "Several soldiers have been killed in an Israeli strike on a vehicle in south Lebanon, Beirut's military said Saturday, days after the two countries announced a conditional truce following talks in the United States. FRANCE 24's Antonia Kerrigan reports from Beirut.",
@@ -163,6 +163,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
+      "link": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
+      "description": "Activists claim sanctions fail to reflect either the depth of violence or state complicity in settler attacks.",
+      "date": "Sat, 06 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
       "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
       "description": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain.",
@@ -185,7 +195,7 @@
     {
       "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
-      "description": "The United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel&#039;s attacks on the country.",
+      "description": "Israel kills two Lebanese army officers, one soldier, and issues more forced displacement orders for southern Lebanon.",
       "date": "Sat, 06 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -216,16 +226,6 @@
       "title": "Trump hails jobs surge, says Iran talks ‘going well’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
       "description": "Trump hailed jobs growth before pivoting to Iran, saying negotiations with Tehran \"seem to be going quite well\".",
-      "date": "Fri, 05 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Is the latest US ceasefire deal for Lebanon meaningless?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
-      "description": "Israel and Hezbollah continue fighting after truce announcement.",
       "date": "Fri, 05 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -293,9 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Bahrain says targeted by Iran, denounces ‘blatant aggression’",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-6-2026/article71068325.ece",
-      "description": "Kuwait says it’s responding to ‘hostile’ missile and drone attacks; U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
+      "title": "Sanctions threat to India would ‘boomerang’ under PM Modi's leadership: Putin",
+      "link": "https://www.thehindu.com/news/international/sanctions-threat-to-india-would-boomerang-under-pm-modis-leadership-putin/article71069320.ece",
+      "description": "“India always acts as a sovereign country, and under the leadership of Prime Minister Modi, any potential threats of sanctions would boomerang immediately,” Mr. Putin said",
       "date": "Sat, 06 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -306,6 +306,16 @@
       "title": "Bahrain, Kuwait targeted by fresh Iran salvoes",
       "link": "https://www.thehindu.com/news/international/bahrain-kuwait-targeted-by-fresh-iran-salvoes/article71069149.ece",
       "description": "Bahrain, home to the headquarters of the U.S. Fifth Fleet, denounced the attacks against its territory and neighbouring Kuwait",
+      "date": "Sat, 06 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: Bahrain says targeted by Iran, denounces ‘blatant aggression’",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-6-2026/article71068325.ece",
+      "description": "Kuwait says it’s responding to ‘hostile’ missile and drone attacks; U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
       "date": "Sat, 06 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -336,16 +346,6 @@
       "title": "Lebanon considers largest amnesty in 35 years amid protests",
       "link": "https://www.thehindu.com/news/international/lebanon-considers-largest-amnesty-in-35-years-amid-protests/article71068759.ece",
       "description": "Lebanon's largest amnesty since the end of its devastating 1975-90 civil war is expected to occur in the coming weeks, once Parliament approves it and the President signs it",
-      "date": "Sat, 06 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "​Incomplete truce: On the Israel-Lebanon ceasefire",
-      "link": "https://www.thehindu.com/opinion/editorial/incomplete-truce-on-the-israel-lebanon-ceasefire/article71064864.ece",
-      "description": "Israel has to pull back troops from Lebanon for peace to take hold",
       "date": "Sat, 06 Jun 2026",
       "source": "The Hindu",
       "region": "me",
