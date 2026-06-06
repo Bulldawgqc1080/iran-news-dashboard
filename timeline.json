@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-05 23:57 UTC",
-  "total": 14,
+  "updated": "2026-06-06 02:45 UTC",
+  "total": 15,
   "events": [
+    {
+      "date": "2026-06-06",
+      "dateDisplay": "Jun 06, 2026",
+      "title": "Iran war live: US strikes Iranian radar sites; Kuwait comes under attack",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-06-05",
       "dateDisplay": "Jun 05, 2026",
@@ -19,8 +30,8 @@
       "title": "Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
       "link": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
       "sources": [
-        "NPR News",
-        "BBC"
+        "BBC",
+        "NPR News"
       ],
       "sourceCount": 2,
       "type": "govt"

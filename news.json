@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05 23:57 UTC",
-  "total": 34,
+  "updated": "2026-06-06 02:45 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
@@ -173,6 +173,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war live: US strikes Iranian radar sites; Kuwait comes under attack",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
+      "description": "The United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel&#039;s attacks on the country.",
+      "date": "Sat, 06 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
       "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
       "description": "Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.",
@@ -223,6 +233,26 @@
       "bias": "Medium"
     },
     {
+      "title": "UN widens aid plea as Israel continues to hammer Lebanon",
+      "link": "https://www.dawn.com/news/2005555/un-widens-aid-plea-as-israel-continues-to-hammer-lebanon",
+      "description": "• Israeli attacks kill 12 people in Tyre and Nabatieh• Iran reiterates support for Hezbollah• Lebanese president accuses Tehran of treating his country as bargaining chip in deal with US BEIRUT: Israeli air strikes intensified across southern Lebanon on Friday, killing seven peop...",
+      "date": "Sat, 06 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war fuels global hunger crises: WFP",
+      "link": "https://www.dawn.com/news/2005553/middle-east-war-fuels-global-hunger-crises-wfp",
+      "description": "GENEVA: The Middle East conflict is pushing millions of people closer to hunger, as rising fuel and transport costs drive up food prices while funding shortfalls force aid agencies to scale back assistance, the UN World Food Programme said on Friday. Joint US-Israeli strikes on I...",
+      "date": "Sat, 06 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US Congress moves to tighten oversight of military affairs",
       "link": "https://www.dawn.com/news/2005463/us-congress-moves-to-tighten-oversight-of-military-affairs",
       "description": "WASHINGTON: The US Congress is moving to tighten oversight of Pentagon leadership decisions and limit unilateral military action against Iran, in a rare bipartisan effort that underscores renewed tensions over presidential war powers and civilian control of the military. On Thurs...",
@@ -263,21 +293,41 @@
       "bias": "Low-Med"
     },
     {
-      "title": "FO rejects reports of Dar sharing intelligence on Iran's nuclear programme during meeting with Rubio",
-      "link": "https://www.dawn.com/news/2005140/fo-rejects-reports-of-dar-sharing-intelligence-on-irans-nuclear-programme-during-meeting-with-rubio",
-      "description": "The Foreign Office (FO) on Thursday refuted reports that Deputy Prime Minister and Foreign Minister Ishaq Dar shared any intelligence regarding Iran’s nuclear programme during a meeting with United States Secretary of State Marco Rubio. Dar met with Rubio on May 29 during a brief...",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-6-2026/article71068325.ece",
+      "description": "Kuwait says it’s responding to ‘hostile’ missile and drone attacks; Trump says Iran has ‘22%’ of missiles left",
+      "date": "Sat, 06 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "US House passes resolution calling for end to war on Iran, rebuking Trump",
-      "link": "https://www.dawn.com/news/2005046/us-house-passes-resolution-calling-for-end-to-war-on-iran-rebuking-trump",
-      "description": "The Republican-led US House of Representatives approved a resolution on Wednesday to block President Donald Trump from continuing the war against Iran, reflecting growing concern among members of his party about the three-month-old conflict. The House voted 215 to 208, as four Re...",
-      "date": "Thu, 04 Jun 2026",
-      "source": "Dawn",
+      "title": "Trump says Iran has ‘22%’ of missiles left",
+      "link": "https://www.thehindu.com/news/international/trump-says-iran-has-22-of-missiles-left/article71068303.ece",
+      "description": "That figure for Iran's missile stockpile is higher than one of 18% Mr. Trump gave in May",
+      "date": "Sat, 06 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel-Iran war highlights: U.S. strikes Iran radar sites after Iranian drone launch",
+      "link": "https://www.thehindu.com/news/international/israel-iran-war-live-updates-june-5-2026-hezbollah-lebanon-news-strait-of-hormuz/article71063774.ece",
+      "description": "The U.S. military shot down ‌all of ​the Iranian drones, saying they “posed ⁠an immediate threat to ‌regional maritime traffic.”",
+      "date": "Sat, 06 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war highlights: Trump slams 'unpatriotic' U.S. House vote to end Iran war",
+      "link": "https://www.thehindu.com/news/international/usa-iran-war-updates-israel-lebanon-ceasefire-hezbollah-june-4-2026/article71059457.ece",
+      "description": "Hezbollah rejects the latest ceasefire agreement as Israeli strikes kill four in Lebanon; demands 'comprehensive' ceasefire, Israeli withdrawal from Lebanon",
+      "date": "Sat, 06 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -293,49 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Iran war LIVE: U.S. strikes Iran radar sites after Iranian drone launch",
-      "link": "https://www.thehindu.com/news/international/israel-iran-war-live-updates-june-5-2026-hezbollah-lebanon-news-strait-of-hormuz/article71063774.ece",
-      "description": "The U.S. military shot down ‌all of ​the Iranian drones, saying they “posed ⁠an immediate threat to ‌regional maritime traffic.”",
-      "date": "Fri, 05 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "​Incomplete truce: On the Israel-Lebanon ceasefire",
       "link": "https://www.thehindu.com/opinion/editorial/incomplete-truce-on-the-israel-lebanon-ceasefire/article71064864.ece",
       "description": "Israel has to pull back troops from Lebanon for peace to take hold",
-      "date": "Fri, 05 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "UN doubles appeal for Lebanon aid to nearly $640 mn amid Israel war",
-      "link": "https://www.thehindu.com/news/international/un-doubles-appeal-for-lebanon-aid-to-nearly-640-mn-amid-israel-war/article71067167.ece",
-      "description": "Three months into the war, the United Nations warned that a \"humanitarian catastrophe\" was looming in Lebanon, with a quarter of its population needing aid",
-      "date": "Fri, 05 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel strikes southern Lebanon after evacuation warnings to several villages",
-      "link": "https://www.thehindu.com/news/international/israel-strikes-southern-lebanon-after-evacuation-warnings-to-several-villages/article71067117.ece",
-      "description": "Israel’s air force has struck parts of southern Lebanon, and the military issued evacuation warnings for nine villages",
-      "date": "Fri, 05 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Seven killed as Israel strikes in south Lebanon’s Tyre: civil defence",
-      "link": "https://www.thehindu.com/news/international/seven-killed-as-israel-strikes-in-south-lebanons-tyre-civil-defence/article71064664.ece",
-      "description": "Israeli military issued new evacuation warnings for nine southern Lebanese towns and villages, with Lebanon’s state-run National News Agency reporting people were fleeing",
       "date": "Fri, 05 Jun 2026",
       "source": "The Hindu",
       "region": "me",
