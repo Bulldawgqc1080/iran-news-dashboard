@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07 15:17 UTC",
-  "total": 34,
+  "updated": "2026-06-07 17:03 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
@@ -13,30 +13,10 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
-      "link": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
-      "description": "The exchange of strikes comes as the Trump administration ramps up pressure on Iran to make a deal to end the conflict.",
-      "date": "Sat, 06 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "description": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
-      "date": "Sat, 06 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "date": "Sat, 06 Jun 2026",
+      "title": "Israel strikes Beirut suburb days after US-brokered truce",
+      "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+      "description": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
+      "date": "Sun, 07 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -73,10 +53,20 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "date": "Fri, 05 Jun 2026",
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "description": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+      "date": "Sat, 06 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "date": "Sat, 06 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -123,6 +113,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war: 100 days on, a costly stalemate",
+      "link": "https://www.france24.com/en/video/20260607-iran-war-100-days",
+      "description": "One hundred days after US President Trump launched Operation Epic Fury against Iran, the conflict has lasted far longer than expected, causing more than 7,000 deaths, mass displacement, and severe economic disruption driven by the near-closure of the Strait of Hormuz and soaring ...",
+      "date": "Sun, 07 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran heads to World Cup in Mexico amid bitter visa standoff with Washington",
       "link": "https://www.france24.com/en/iran-heads-to-world-cup-in-mexico-amid-bitter-visa-standoff-with-washington",
       "description": "Iran's World Cup squad is expected to arrive in Mexico early Sunday under the shadow of a bitter diplomatic row between Tehran and Washington, after the United States refused to issue visas for some team support staff.",
@@ -141,6 +141,56 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+      "link": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
+      "description": "Iranian officials have indicated the release of funds would build &#039;trust&#039; needed to reach lasting deal ending war.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Al Jazeera reports from Beirut after Israeli attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
+      "description": "Multiple explosions have hit Beirut’s southern suburbs as Israel launches new attacks, claiming to target Hezbollah.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
+      "link": "https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss",
+      "description": "Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
+      "link": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
+      "description": "Iranian delegation arrives at their World Cup base camp a day after several members were denied visas by the US.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s World Cup team arrives in Mexico as US visa row continues",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss",
+      "description": "Iran’s national football team has arrived in Mexico ahead of its World Cup matches in the US.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
@@ -173,14 +223,14 @@
       "bias": "Medium"
     },
     {
-      "title": "100 days into Iran war, Americans face higher prices",
-      "link": "https://www.aljazeera.com/economy/2026/6/7/100-days-into-iran-war-americans-face-higher-prices?traffic_source=rss",
-      "description": "On average, US households have spent $750 more in expenses due to the war, hitting middle and lower-income people hard.",
+      "title": "Opec+ approves fourth oil output quota hike since Hormuz closure",
+      "link": "https://www.dawn.com/news/2005888/opec-approves-fourth-oil-output-quota-hike-since-hormuz-closure",
+      "description": "Opec+ agreed on Sunday on a fourth increase in its oil output targets in as many months, even though the US war with Iran is still preventing several of the group’s members from pumping more. The war has cut oil flows via the Strait of Hormuz, creating the world’s biggest-ever su...",
       "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Naqvi takes CDF’s message to Tehran amid stalemate",
@@ -233,11 +283,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Hundreds join protest led by India's viral 'Cockroach Party'",
-      "link": "https://www.dawn.com/news/2005616/hundreds-join-protest-led-by-indias-viral-cockroach-party",
-      "description": "Hundreds of young students gathered in New Delhi on Saturday for the first street protest by the satirical “Cockroach People’s Party” over alleged irregularities in recent major examinations. Carrying paper cockroach masks and pamphlets, the protesters called for the resignation ...",
-      "date": "Sat, 06 Jun 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: Iran's top negotiator threatens U.S. targets over Lebanon escalation",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
+      "description": "U.S. says it destroyed two Iranian drones targeting Hormuz shipping; Pakistan’s Interior Minister Mohsin Naqvi in Tehran to push for peace amidst rising tensions",
+      "date": "Sun, 07 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "OPEC+ to make small oil output quota hike for July",
+      "link": "https://www.thehindu.com/news/international/opec-set-for-fourth-oil-quotahike-since-hormuz-closure-sources-say/article71072671.ece",
+      "description": "This is a fourth increase in oil output targets in as many months, even though the U.S. war with Iran is still preventing several of the ‌group's members from pumping more",
+      "date": "Sun, 07 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -246,16 +306,6 @@
       "title": "Would not unfreeze Iran's assets ahead before deal is done, Trump says",
       "link": "https://www.thehindu.com/news/international/would-not-unfreeze-irans-assets-ahead-before-deal-is-done-trump-says/article71073349.ece",
       "description": "He also said that he was not demanding that ‌Lebanon be a part ​of a short-term deal with ⁠Tehran",
-      "date": "Sun, 07 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: Pakistan’s Interior Minister meets Iran FM in Tehran with ‘message’; discusses status of peace talks",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
-      "description": "U.S. says it destroyed two Iranian drones targeting Hormuz shipping; Pakistan’s Interior Minister Mohsin Naqvi in Tehran to push for peace amidst rising tensions",
       "date": "Sun, 07 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -293,14 +343,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan Interior Minister visits Tehran for third time in weeks amid U.S.-Iran tensions",
-      "link": "https://www.thehindu.com/news/international/pakistan-interior-minister-visits-tehran-for-third-time-in-weeks-amid-us-iran-tensions/article71071110.ece",
-      "description": "During his visit, Mr. Naqvi will hold talks with various top officials, including Iranian Foreign Minister Abbas Araghchi, Iran's semi-official news agency Tasnim reported.",
+      "title": "Iran warns Israel of retaliation after its attack on Beirut — MP",
+      "link": "https://tass.com/world/2143765",
+      "description": "\"Look at the sky over the occupied lands tonight,\" spokesman for the Iranian Parliamentary National Security and Foreign Policy Committee Ebrahim Rezaei wrote on X",
       "date": "Sun, 07 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump says ground operation against Iran is unlikely",
@@ -326,16 +376,6 @@
       "title": "US, Iran may have already reached accord on final version of agreement — Fidan",
       "link": "https://tass.com/world/2143743",
       "description": "Turkey is doing everything we can to help them to reach an agreement, Turkish Foreign Minister said",
-      "date": "Sun, 07 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to transfer Iranian assets to its Persian Gulf allies — Reuters",
-      "link": "https://tass.com/world/2143641",
-      "description": "The United States will make Iranian assets available to Gulf allies to support rebuilding and repairs for future damage caused by Iran\"",
       "date": "Sun, 07 Jun 2026",
       "source": "TASS",
       "region": "ru",
