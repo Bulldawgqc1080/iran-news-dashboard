@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-07 19:04 UTC",
-  "total": 36,
+  "updated": "2026-06-07 20:58 UTC",
+  "total": 39,
   "stories": [
+    {
+      "title": "Israel hits Beirut's suburbs in retaliatory attack against Hezbollah",
+      "link": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
+      "description": "The attack comes after Hezbollah struck Israel's military with fighter drones, according to Prime Minister Benjamin Netanyahu's office.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Israel says Iran launched a missile at it, in a first during fragile ceasefire",
+      "link": "https://www.npr.org/2026/06/07/g-s1-126816/israel-iran-missile-ceasefire",
+      "description": "The attack would be the first since a fragile ceasefire took effect in early April, complicating mediation efforts for a deal to end the war.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Israel strikes Beirut suburb days after US-brokered truce",
       "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
@@ -26,16 +46,6 @@
       "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
       "link": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
       "description": "The French-Iranian author and illustrator was known for her graphic novel series and Oscar-nominated film.",
-      "date": "Thu, 04 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
       "date": "Thu, 04 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -103,6 +113,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "British couple lose Iran jail sentence appeal, family says",
+      "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
+      "description": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
+      "date": "Tue, 02 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Live: Israel reports missiles from Iran in first bombardment since fragile ceasefire",
+      "link": "https://www.france24.com/en/middle-east/20260607-middle-east-live-us-downs-two-iranian-drones-targeting-hormuz-shipping-traffic",
+      "description": "",
+      "date": "Sun, 07 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran war: 100 days on, a costly stalemate",
       "link": "https://www.france24.com/en/video/20260607-iran-war-100-days",
       "description": "One hundred days after US President Trump launched Operation Epic Fury against Iran, the conflict has lasted far longer than expected, causing more than 7,000 deaths, mass displacement, and severe economic disruption driven by the near-closure of the Strait of Hormuz and soaring ...",
@@ -121,6 +151,46 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran fires missiles at Israel after it attacked Beirut",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
+      "description": "Videos show missiles over Israel as the Israeli military says Iran launched a new wave of attacks.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran losing patience with Israel and US over ceasefire violations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss",
+      "description": "Iran’s patience has reached its limit with the continuous violations of the ‘ceasefire’.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian World Cup excitement dulled by war and economic crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
+      "description": "Iranian World Cup excitement dulled by war and economic crisis.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
+      "description": "Ibrahim Moussawi says Hezbollah stepped in after diplomacy and the Lebanese state failed.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
@@ -156,46 +226,6 @@
       "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
       "link": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
       "description": "Iranian delegation arrives at their World Cup base camp a day after several members were denied visas by the US.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran’s World Cup team arrives in Mexico as US visa row continues",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss",
-      "description": "Iran’s national football team has arrived in Mexico ahead of its World Cup matches in the US.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss",
-      "description": "It’s hard to assume that ‘anything positive’ for Lebanon can come from its talks with Israel, argues analyst Imad Harb.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
-      "link": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss",
-      "description": "Talks and attacks have continued for months, and could last much longer without a breakthrough.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel strikes southern suburbs of Lebanon’s capital Beirut",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israel-strikes-southern-suburbs-of-lebanons-capital-beirut?traffic_source=rss",
-      "description": "Videos show the aftermath of an Israeli attack on Beirut&#039;s southern suburbs, with multiple explosions reported.",
       "date": "Sun, 07 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,9 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel strikes Beirut's southern suburbs days after ceasefire agreement",
-      "link": "https://www.thehindu.com/news/international/israel-strikes-beiruts-southern-suburbs-days-after-ceasefire-agreement/article71073978.ece",
-      "description": "There was no immediate word of casualties",
+      "title": "West Asia war LIVE: Israel army says territory being targeted by Iranian missiles",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
+      "description": "Iran's Revolutionary Guards said that Sunday night's missile attack on Israel was a \"warning\" after the Israeli strike on Beirut earlier in the day",
       "date": "Sun, 07 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -273,9 +303,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran's top negotiator threatens U.S. targets over Lebanon escalation",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
-      "description": "U.S. says it destroyed two Iranian drones targeting Hormuz shipping; Pakistan’s Interior Minister Mohsin Naqvi in Tehran to push for peace amidst rising tensions",
+      "title": "Israel says Iran launches missiles at it in first such bombardment since ceasefire in April",
+      "link": "https://www.thehindu.com/news/international/iran-missile-attacks-on-israel/article71074231.ece",
+      "description": "“The Israeli army must stop its attacks on southern Lebanon and the suburbs, and if it expands its attacks to that region or responds to Iran’s action, it will face more devastating and regrettable blows,” said General Ali Abollahi, the head of the Khatam al-Anbiya command.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel strikes Beirut's southern suburbs days after ceasefire agreement",
+      "link": "https://www.thehindu.com/news/international/israel-strikes-beiruts-southern-suburbs-days-after-ceasefire-agreement/article71073978.ece",
+      "description": "There was no immediate word of casualties",
       "date": "Sun, 07 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -313,49 +353,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Beaufort Castle | Besieged history",
-      "link": "https://www.thehindu.com/news/international/beaufort-castle-besieged-history/article71070927.ece",
-      "description": "A 12th-century hilltop castle has emerged as a key strategic flashpoint in Israel’s war with Hezbollah in occupied southern Lebanon",
+      "title": "Israel says intercepted all missiles launched from Iran",
+      "link": "https://tass.com/world/2143795",
+      "description": "According to the Israeli military, additional launches fired toward Israel have been identified",
       "date": "Sun, 07 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "IDF identifies two missile launches from Iran in 15 minutes",
+      "link": "https://tass.com/world/2143789",
+      "description": "The strikes targeted areas in northern Israel, where air raid warnings were issued",
+      "date": "Sun, 07 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Death toll from Israeli attacks on Lebanon exceeds 3,610 — health ministry",
+      "link": "https://tass.com/world/2143785",
+      "description": "At least 20 people died and 82 more were injured after Israeli airstrikes on southern Lebanon during the past day",
+      "date": "Sun, 07 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "New attacks on Beirut make US, Israeli bases legitimate targets for Iran — MP",
       "link": "https://tass.com/world/2143775",
       "description": "Through the naval blockade and violations of the agreements regarding Lebanon, they have shown that they only understand the language of force, Iranian parliament speaker Mohammad Bagher Ghalibaf said",
-      "date": "Sun, 07 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran warns Israel of retaliation after its attack on Beirut — MP",
-      "link": "https://tass.com/world/2143765",
-      "description": "\"Look at the sky over the occupied lands tonight,\" spokesman for the Iranian Parliamentary National Security and Foreign Policy Committee Ebrahim Rezaei wrote on X",
-      "date": "Sun, 07 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says ground operation against Iran is unlikely",
-      "link": "https://tass.com/world/2143753",
-      "description": "US President also said that he doesn’t consider the US contingent of around 50,000 soldiers deployed to the Middle East to be \"in danger\"",
-      "date": "Sun, 07 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to take out Iran’s enriched uranium, regardless of talks’ outcome — Trump",
-      "link": "https://tass.com/world/2143751",
-      "description": "\"And we will go with them, or without them. But we won’t have people shooting at us,\" US President said",
       "date": "Sun, 07 Jun 2026",
       "source": "TASS",
       "region": "ru",
