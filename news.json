@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07 22:03 UTC",
-  "total": 42,
+  "updated": "2026-06-07 23:57 UTC",
+  "total": 43,
   "stories": [
     {
       "title": "Trump is remaking U.S. policy in Latin America",
@@ -138,6 +138,16 @@
       "description": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
       "date": "Tue, 02 Jun 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Nuclear powers increasing deployment of warheads, SIPRI warns",
+      "link": "https://www.france24.com/en/europe/20260607-nuclear-powers-increasing-deployment-of-warheads-sipri-warns",
+      "description": "The world’s nuclear-armed states are increasingly moving warheads from storage onto operational delivery systems, raising the risk of conflict despite a gradual decline in overall stockpiles, researchers warned on Monday. SIPRI said geopolitical rivalry and a new arms build-up co...",
+      "date": "Sun, 07 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -323,9 +333,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Israel army says territory being targeted by Iranian missiles",
+      "title": "West Asia war LIVE: Iran launches missiles at Israel for the first time since the April ceasefire",
       "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
-      "description": "Iran's Revolutionary Guards said that Sunday night's missile attack on Israel was a \"warning\" after the Israeli strike on Beirut earlier in the day",
+      "description": "Israel military chief vows to strike Iran 'with force as soon as greenlight is given'; Iran's Revolutionary Guards said that the missile attack on Israel was a \"warning\" after the Israeli strike on Beirut on Sunday",
       "date": "Sun, 07 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -336,6 +346,16 @@
       "title": "Israel says Iran launches missiles at it in first such bombardment since ceasefire in April",
       "link": "https://www.thehindu.com/news/international/iran-missile-attacks-on-israel/article71074231.ece",
       "description": "“The Israeli army must stop its attacks on southern Lebanon and the suburbs, and if it expands its attacks to that region or responds to Iran’s action, it will face more devastating and regrettable blows,” said General Ali Abollahi, the head of the Khatam al-Anbiya command.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s top negotiator threatens U.S. targets over Lebanon escalation",
+      "link": "https://www.thehindu.com/news/international/irans-top-negotiator-threatens-us-targets-over-lebanon-escalation/article71074175.ece",
+      "description": "The comments from ​Iran’s ‌Parliament speaker, Mohammad Baqer Qalibaf, follow Israeli attacks on the southern ‌suburbs of Lebanon’s capital, ​a stronghold of Iran’s ally ⁠Hezbollah.",
       "date": "Sun, 07 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -373,14 +393,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. says shot down Iran drones in fresh escalation",
-      "link": "https://www.thehindu.com/news/international/us-says-shot-down-iran-drones-in-fresh-escalation/article71072392.ece",
-      "description": "U.S. CENTCOM said it destroyed two Iranian drones \"that threatened international maritime traffic in the Strait of Hormuz\", hours after announcing it struck four other drones and coastal surveillance radar sites",
+      "title": "Israeli military ready to strike Iran upon receiving orders — General Staff",
+      "link": "https://tass.com/world/2143813",
+      "description": "According to Eyal Zamir, the military has not yet received such an order",
       "date": "Sun, 07 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran threatens even more massive strikes if Israel retaliates — military command",
+      "link": "https://tass.com/world/2143811",
+      "description": "Israel's state broadcaster Kan earlier stated that the country intended to respond to missile strikes from Iranian territory",
+      "date": "Sun, 07 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump says ‘not happy’ about Israel’s attack on Beirut — media",
@@ -396,26 +426,6 @@
       "title": "Trump calls on Iran to stop attacking Israel, get back to talks — media",
       "link": "https://tass.com/world/2143805",
       "description": "The US president says Washington and Tehran are close to a deal",
-      "date": "Sun, 07 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel says intercepted all missiles launched from Iran",
-      "link": "https://tass.com/world/2143795",
-      "description": "According to the Israeli military, additional launches fired toward Israel have been identified",
-      "date": "Sun, 07 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IDF identifies two missile launches from Iran in 15 minutes",
-      "link": "https://tass.com/world/2143789",
-      "description": "The strikes targeted areas in northern Israel, where air raid warnings were issued",
       "date": "Sun, 07 Jun 2026",
       "source": "TASS",
       "region": "ru",
