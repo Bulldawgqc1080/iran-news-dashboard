@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-07 20:58 UTC",
-  "total": 39,
+  "updated": "2026-06-07 22:03 UTC",
+  "total": 42,
   "stories": [
+    {
+      "title": "Trump is remaking U.S. policy in Latin America",
+      "link": "https://www.npr.org/2026/06/07/nx-s1-5845137/trump-is-remaking-u-s-policy-in-latin-america",
+      "description": "Military strikes, sanctions and political pressure are becoming hallmarks of Trump's Latin America policy. NPR's Adrian Florido speaks with historian Greg Grandin about what's driving the shift.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Pakistani workers say their faith cost them their jobs in the UAE",
+      "link": "https://www.npr.org/2026/06/07/nx-s1-5832548/pakistani-workers-say-their-faith-cost-them-their-jobs-in-the-uae",
+      "description": "Shia Muslims from Pakistan say they're being deported from the UAE shortly after the Iran war began.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Israel hits Beirut's suburbs in retaliatory attack against Hezbollah",
       "link": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
@@ -123,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran launches missiles at Israel in first bombardment since fragile ceasefire",
+      "link": "https://www.france24.com/en/middle-east/20260607-iran-launches-missiles-at-israel-in-first-bombardment-since-fragile-ceasefire",
+      "description": "Air raid sirens sounded in Israel on Sunday night as its military worked to intercept barrages of incoming Iranian missiles for the first time since a fragile ceasefire took effect in early April. The Iranian missile attack was in retaliation for deadly Israeli strikes in Beirut'...",
+      "date": "Sun, 07 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Live: Israel reports missiles from Iran in first bombardment since fragile ceasefire",
       "link": "https://www.france24.com/en/middle-east/20260607-middle-east-live-us-downs-two-iranian-drones-targeting-hormuz-shipping-traffic",
       "description": "",
@@ -151,6 +181,46 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
+      "link": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss",
+      "description": "Iran&#039;s attack on Israel aims to restore deterrence but avoid return to war.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Videos show missiles launched from Iran into Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
+      "description": "Iranian media has released video showing missiles being launched towards Israel.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
+      "description": "Iranian state TV broadcast scenes of celebration in Tehran as missiles flew overhead en route to Israel.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
+      "link": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
+      "description": "Iran&#039;s IRGC says the barrage of missiles is &#039;a warning&#039; to Israel amid its ongoing siege of Lebanon.",
+      "date": "Sun, 07 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran fires missiles at Israel after it attacked Beirut",
@@ -186,46 +256,6 @@
       "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
       "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
       "description": "Ibrahim Moussawi says Hezbollah stepped in after diplomacy and the Lebanese state failed.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
-      "link": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
-      "description": "Iranian officials have indicated the release of funds would build &#039;trust&#039; needed to reach lasting deal ending war.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Al Jazeera reports from Beirut after Israeli attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
-      "description": "Multiple explosions have hit Beirut’s southern suburbs as Israel launches new attacks, claiming to target Hezbollah.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
-      "link": "https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss",
-      "description": "Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
-      "link": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
-      "description": "Iranian delegation arrives at their World Cup base camp a day after several members were denied visas by the US.",
       "date": "Sun, 07 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -353,6 +383,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump says ‘not happy’ about Israel’s attack on Beirut — media",
+      "link": "https://tass.com/world/2143807",
+      "description": "According to the US leader, Israel’s strikes on the Lebanese capital city had not been coordinated with the US",
+      "date": "Sun, 07 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump calls on Iran to stop attacking Israel, get back to talks — media",
+      "link": "https://tass.com/world/2143805",
+      "description": "The US president says Washington and Tehran are close to a deal",
+      "date": "Sun, 07 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Israel says intercepted all missiles launched from Iran",
       "link": "https://tass.com/world/2143795",
       "description": "According to the Israeli military, additional launches fired toward Israel have been identified",
@@ -366,26 +416,6 @@
       "title": "IDF identifies two missile launches from Iran in 15 minutes",
       "link": "https://tass.com/world/2143789",
       "description": "The strikes targeted areas in northern Israel, where air raid warnings were issued",
-      "date": "Sun, 07 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Death toll from Israeli attacks on Lebanon exceeds 3,610 — health ministry",
-      "link": "https://tass.com/world/2143785",
-      "description": "At least 20 people died and 82 more were injured after Israeli airstrikes on southern Lebanon during the past day",
-      "date": "Sun, 07 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "New attacks on Beirut make US, Israeli bases legitimate targets for Iran — MP",
-      "link": "https://tass.com/world/2143775",
-      "description": "Through the naval blockade and violations of the agreements regarding Lebanon, they have shown that they only understand the language of force, Iranian parliament speaker Mohammad Bagher Ghalibaf said",
       "date": "Sun, 07 Jun 2026",
       "source": "TASS",
       "region": "ru",
