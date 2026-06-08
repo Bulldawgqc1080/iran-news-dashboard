@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-08 03:29 UTC",
-  "total": 40,
+  "updated": "2026-06-08 08:43 UTC",
+  "total": 45,
   "stories": [
+    {
+      "title": "Israel and Iran trade strikes, threatening to drag region back to full-scale war",
+      "link": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
+      "description": "Israel and Iran traded fire early Monday in retaliatory strikes that threatened to drag the wider Middle East back into a full-scale war, while Yemen's Houthi rebels warned they would target Israel-affiliated ships in the Red Sea.",
+      "date": "Mon, 08 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump is remaking U.S. policy in Latin America",
       "link": "https://www.npr.org/2026/06/07/nx-s1-5845137/trump-is-remaking-u-s-policy-in-latin-america",
@@ -153,9 +163,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East war live: Israeli military strikes targets across Iran",
+      "title": "Middle East war live: Israel and Iran trade air strikes, massive blast heard in Tehran",
       "link": "https://www.france24.com/en/middle-east/20260608-middle-east-war-live-israel-plans-to-strike-iran-with-force-once-given-green-light",
-      "description": "Israel conducted strikes early on Monday against military targets in western and central Iran, hours after Iran fired a salvo of missiles at Israeli targets in retaliation for an attack on Beirut’s southern suburbs. Meanwhile, Iran's Revolutionary Guards said they were attacking ...",
+      "description": "Israel and Iran traded strikes early Israel on Monday in retaliatory attacks that threatened to drag the Middle East back into a regional war. As the hostilities pursued, a massive blast rocked central Tehran, followed by repeated explosions believed to be from air defence system...",
       "date": "Mon, 08 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -203,6 +213,66 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel and Iran exchange attacks as ceasefire falters",
+      "link": "https://www.aljazeera.com/news/2026/6/8/israel-and-iran-exchange-attacks-as-ceasefire-falters?traffic_source=rss",
+      "description": "In effort to contain escalation, US President Donald Trump spoke with Israel&#039;s Benjamin Netanyahu, US media reported.",
+      "date": "Mon, 08 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How Lebanon and Iran’s war of words became backdrop for latest Israel war",
+      "link": "https://www.aljazeera.com/features/2026/6/8/how-lebanon-and-irans-war-of-words-became-backdrop-for-latest-israel-war?traffic_source=rss",
+      "description": "Iran had warned that talks could be stopped and attacks would resume if Israel continued to hit Lebanon.",
+      "date": "Mon, 08 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war day 101: Tensions escalate as Iran and Israel trade air attacks",
+      "link": "https://www.aljazeera.com/news/2026/6/8/iran-war-day-101-tensions-escalate-as-iran-and-israel-trade-air-attacks?traffic_source=rss",
+      "description": "Tensions have escalated between Iran and Israel while ongoing diplomatic efforts have failed to yield lasting peace.",
+      "date": "Mon, 08 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Missiles intercepted over occupied East Jerusalem and West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/missiles-intercepted-over-occupied-east-jerusalem-and-west-bank-2?traffic_source=rss",
+      "description": "The Israeli army said it intercepted missiles launched from Iran on Monday in response to attacks from Israel.",
+      "date": "Mon, 08 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Satellite images show destruction of the US-Israel war on Iran",
+      "link": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran?traffic_source=rss",
+      "description": "From Iranian naval ports to US military bases across the Gulf, Al Jazeera shows 15 sites before and after the attacks.",
+      "date": "Mon, 08 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Debris reported in Jordan after Iranian missiles aimed at Israel intercepte",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/aje-onl-nf_debris-reported-in-jordan-after-iranian-missiles-070626?traffic_source=rss",
+      "description": "Missiles believed fired from Iran toward Israel were seen over Jordan, with one reportedly intercepted.",
+      "date": "Mon, 08 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Oppenheimer: Trump holds the reins on Netanyahu’s escalation options",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/oppenheimer-trump-holds-the-reins-on-netanyahus-escalation-options?traffic_source=rss",
       "description": "Israeli PM Benjamin Netanyahu has incentives to escalate tensions with Iran but is constrained by US President Trump.",
@@ -223,64 +293,44 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Explosions in Tehran, Isfahan as Israel launches attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
-      "description": "Escalation comes after Israel attacked Lebanon&#039;s capital, Beirut, killing at least two people and wounding 20.",
+      "title": "Earthquake of magnitude 7.8 strikes off southern Philippines, 15 feared killed",
+      "link": "https://www.dawn.com/news/2006083/earthquake-of-magnitude-78-strikes-off-southern-philippines-15-feared-killed",
+      "description": "At least 15 people were feared dead in the southern Philippines on Monday after a powerful magnitude 7.8 earthquake struck off the island of Mindanao, triggering tsunami warnings across several countries. The quake came early in the morning as schools were reopening in the Philip...",
       "date": "Mon, 08 Jun 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
-      "link": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss",
-      "description": "Iran&#039;s attack on Israel aims to restore deterrence but avoid return to war.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "'Let's call it quits': Trump storms out of tense, rain-plagued interview when confronted over election fraud claims",
+      "link": "https://www.dawn.com/news/2006093/lets-call-it-quits-trump-storms-out-of-tense-rain-plagued-interview-when-confronted-over-election-fraud-claims",
+      "description": "United States President Donald Trump lasted through probing questions about his Iran war strategy and repeated weather disruptions during an interview with US broadcaster NBC — but angrily stormed out when confronted over his unfounded claims of election fraud. “You’re a one-side...",
+      "date": "Mon, 08 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Videos show missiles launched from Iran into Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
-      "description": "Iranian media has released video showing missiles being launched towards Israel.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "Israel, Iran trade fire despite Trump's call for restraint",
+      "link": "https://www.dawn.com/news/2006073/israel-iran-trade-fire-despite-trumps-call-for-restraint",
+      "description": "Israel and Iran traded fire on Monday, seriously testing a fragile truce and threatening hopes for a deal to end the Middle East war. The new attacks, including a strike on an Iranian petrochemical complex, came hours after US President Donald Trump called on Israel to refrain fr...",
+      "date": "Mon, 08 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
-      "description": "Iranian state TV broadcast scenes of celebration in Tehran as missiles flew overhead en route to Israel.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "Iran launches first attack on Israel since truce",
+      "link": "https://www.dawn.com/news/2006023/iran-launches-first-attack-on-israel-since-truce",
+      "description": "• Salvo comes after Tel Aviv strikes Beirut; IRGC warns of broader response in case of further aggression • Trump urges Netanyahu not to retaliate after Iranian strikes, says ‘each of them had their fun’ • Claims both sides very close to peace deal, ‘wouldn’t want to blow it up’ ...",
+      "date": "Mon, 08 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
-      "link": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
-      "description": "Iran&#039;s IRGC says the barrage of missiles is &#039;a warning&#039; to Israel amid its ongoing siege of Lebanon.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran fires missiles at Israel after it attacked Beirut",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
-      "description": "Videos show missiles over Israel as the Israeli military says Iran launched a new wave of attacks.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Tehran vows payback after Israel attacks Beirut despite truce",
@@ -303,49 +353,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Opec+ approves fourth oil output quota hike since Hormuz closure",
-      "link": "https://www.dawn.com/news/2005888/opec-approves-fourth-oil-output-quota-hike-since-hormuz-closure",
-      "description": "Opec+ agreed on Sunday on a fourth increase in its oil output targets in as many months, even though the US war with Iran is still preventing several of the group’s members from pumping more. The war has cut oil flows via the Strait of Hormuz, creating the world’s biggest-ever su...",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Naqvi takes CDF’s message to Tehran amid stalemate",
-      "link": "https://www.dawn.com/news/2005791/naqvi-takes-cdfs-message-to-tehran-amid-stalemate",
-      "description": "• IRNA says ‘important message’ meant for Iran’s supreme leader• Interior minister receives instructions from PM before departure ISLAMABAD: Pakistan on Saturday stepped up efforts to break the impasse in the US-Iran dialogue, with Interior Minister Mohsin Naqvi arriving in Tehra...",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli strike kills three soldiers in south Lebanon",
-      "link": "https://www.dawn.com/news/2005762/israeli-strike-kills-three-soldiers-in-south-lebanon",
-      "description": "BEIRUT: An Israeli strike on a military vehicle in southern Lebanon killed three soldiers, the Lebanese military said on Saturday, laying bare Israel’s continued aggression just days after the countries discussed a conditional truce during talks in the United States. Israel has l...",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Ukraine fires wave of drones at Russia on last day of key forum",
-      "link": "https://www.dawn.com/news/2005787/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-forum",
-      "description": "A cargo vessel identified as NATRA, damaged by a Ukrainian drone at an undefined location in Azov sea.—Reuters SAINT PETERSBURG/BRUSSELS: Ukraine fired hundreds of drones at Russia early on Saturday, leaving one person dead and setting an oil depot ablaze on the final day of the ...",
-      "date": "Sun, 07 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: Iran closes airspace around Tehran’s Imam Khomeini International Airport",
+      "title": "West Asia war LIVE: Massive blast heard in Tehran as Israel, Iran trade fire for first time since truce",
       "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-beirut-strikes-strait-of-hormuz-live-updates-june-8-2026/article71074947.ece",
-      "description": "Oil ⁠prices were up more than $2 a barrel after Israel launched renewed strikes on Lebanon despite a truce between the two countries",
+      "description": "Israel and Iran exchanged attacks on June 8, 2026 for the first time since a ceasefire in the West Asia war took effect two months ago",
       "date": "Mon, 08 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -353,9 +363,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran-Israel tensions escalate over Lebanon | Timeline",
-      "link": "https://www.thehindu.com/news/international/iran-israel-tensions-escalate-over-lebanon-timeline/article71074941.ece",
-      "description": "Iran has fired missiles at Israel, marking the first such attack in two months since a ceasefire",
+      "title": "Donald Trump dismisses idea that Iran betrays his ‘no new wars’ campaign message",
+      "link": "https://www.thehindu.com/news/international/donald-trump-dismisses-idea-that-iran-betrays-his-no-new-wars-campaign-message/article71075350.ece",
+      "description": "‘I don't like these endless wars; this is not an endless war; we've been doing this for three months,” says U.S. President Donald Trump",
+      "date": "Mon, 08 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel, Iran trade strikes, threatening to drag region back to full-scale war",
+      "link": "https://www.thehindu.com/news/international/iran-missile-attacks-on-israel/article71074231.ece",
+      "description": "Israeli authorities said two waves of Iranian missiles targeted the country and urged the public to seek shelter. Explosions could be heard in central Israel as Israeli air defences sought to intercept the incoming Iranian fire",
       "date": "Mon, 08 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -373,9 +393,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel says it has struck Iran after taking missile fire",
-      "link": "https://www.thehindu.com/news/international/iran-missile-attacks-on-israel/article71074231.ece",
-      "description": "Iranian state television reported the sound of explosions being heard in Isfahan, Karaj, Tabriz and Tehran, without immediately elaborating",
+      "title": "Iran-Israel tensions escalate over Lebanon | Timeline",
+      "link": "https://www.thehindu.com/news/international/iran-israel-tensions-escalate-over-lebanon-timeline/article71074941.ece",
+      "description": "Iran has fired missiles at Israel, marking the first such attack in two months since a ceasefire",
       "date": "Mon, 08 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -393,14 +413,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war updates: Iran launches missiles at Israel",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
-      "description": "Israel military chief vows to strike Iran 'with force as soon as greenlight is given'; Iran's Revolutionary Guards said that the missile attack on Israel was a \"warning\" after the Israeli strike on Beirut on Sunday",
+      "title": "Iran carries out strikes on energy facilities in Israel’s Haifa — IRGC",
+      "link": "https://tass.com/world/2143907",
+      "description": "The Islamic Revolutionary Guard Corps warned that enemy attacks on energy infrastructure could have dangerous consequences for the whole global economy",
       "date": "Mon, 08 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israeli army announces end of large-scale strike on Iran",
+      "link": "https://tass.com/world/2143905",
+      "description": "According to the Israeli military, dozens of Israeli Air Force fighter jets targeted \"strategic defense systems\"",
+      "date": "Mon, 08 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran confident Israel coordinates military operations with US — MFA",
+      "link": "https://tass.com/world/2143901",
+      "description": "According to Iranian Foreign Ministry Spokesperson Esmaeil Baghaei, it happens despite the opposite statements of US officials",
+      "date": "Mon, 08 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Explosions heard in central Israel after Iran launches another missile attack",
+      "link": "https://tass.com/world/2143897",
+      "description": "Air raid alerts were also issued in some areas in northern Israel",
+      "date": "Mon, 08 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
