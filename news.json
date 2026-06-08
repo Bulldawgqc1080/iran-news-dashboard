@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08 21:42 UTC",
-  "total": 41,
+  "updated": "2026-06-08 23:06 UTC",
+  "total": 43,
   "stories": [
     {
       "title": "The Strait of Hormuz's 3-month closure could set a dangerous precedent, experts worry",
@@ -41,6 +41,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+      "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "description": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
+      "date": "Mon, 08 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
@@ -133,11 +143,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "description": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
-      "date": "Tue, 02 Jun 2026",
-      "source": "BBC",
+      "title": "Israel and Iran step back from further strikes after renewed clashes",
+      "link": "https://www.france24.com/en/middle-east/20260608-israel-and-iran-step-back-from-further-strikes-after-renewed-clashes",
+      "description": "Israel and Iran appeared to pull back from further military action on Monday after exchanging fire for the first time since a US-brokered ceasefire two months ago. Both sides warned they would retaliate if attacked again, while regional powers and the Trump administration pushed ...",
+      "date": "Mon, 08 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "EU Taliban invite 'the wrong signal to anyone that is using power as a means of suppression'",
+      "link": "https://www.france24.com/en/eu-taliban-invite-the-wrong-signal-to-anyone-that-is-using-power-as-a-means-of-suppression",
+      "description": "Human rights groups are raising the alarm after the European Commission invited Taliban officials to Brussels to discuss migrant deportations. More than 80 groups are asking the European Commission to reverse course, saying that the move risks normalizing a regime that has banned...",
+      "date": "Mon, 08 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump 'can influence pace, scale and political boundaries of Israeli action', analyst says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260608-trump-can-influence-pace-scale-and-political-boundaries-of-israeli-action-analyst-says",
+      "description": "Speaking with FRANCE 24's Monte Francis, Negah Angha, Visiting Fellow at King’s College London and Former Senior Advisor at the National Ssecurity Council under the Biden administration, says that US President Donald Trump \"is wanting to signal to Iran that he can deliver Israel ...",
+      "date": "Mon, 08 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -193,24 +223,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanese 'stuck between a rock and a hard place' as Israel strikes south of country",
-      "link": "https://www.france24.com/en/lebanese-stuck-between-a-rock-and-a-hard-place-as-israel-strikes-south-of-country",
-      "description": "Despite Lebanese authorities insisting on the ceasefire, many in Lebanon criticise them for bending the knee to the US. The Hezbollah is also criticised for starting the conflict and siding with Iran, a decision that has impacted almost a third of the country. FRANCE 24's Renée D...",
+      "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
+      "link": "https://www.aljazeera.com/news/2026/6/8/un-human-rights-leader-calls-for-cuba-sanctions-to-be-lifted-immediately?traffic_source=rss",
+      "description": "Volker Turk, the UN&#039;s high commissioner for human rights, warns that &#039;children are dying&#039; as result of US oil blockade.",
       "date": "Mon, 08 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran halts strikes against Israel, Netanyahu stuck between Trump and ministers",
-      "link": "https://www.france24.com/en/iran-halts-strikes-against-israel-netanyahu-stuck-between-trump-and-ministers",
-      "description": "Iran's military command on June 8 announced it was halting its operation against Israel. It comes after the two sides exchanged fire for the first time since a truce took effect on April 8. Despite this, strikes on Israel from Hezbollah are still ongoing, as FRANCE 24's Noga Tarn...",
-      "date": "Mon, 08 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "EU planning to add to $1.5 trillion sanctions hit on Russia",
