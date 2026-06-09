@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-09 16:24 UTC",
+  "updated": "2026-06-09 19:05 UTC",
   "total": 38,
   "stories": [
     {
-      "title": "Trump says pilots are fine after U.S. helicopter crashes near Strait of Hormuz",
+      "title": "Trump vows to respond after Iran downed a U.S. Army helicopter near Strait of Hormuz",
       "link": "https://www.npr.org/2026/06/09/nx-s1-5851482/trump-pilots-us-helicopter-crash",
-      "description": "A U.S. Army Apache attack helicopter crashed near the Strait of Hormuz, with President Trump saying the two crew members on board were \"fine\" after the incident. Trump also expressed optimism over negotiations with Iran.",
+      "description": "A drone boat rescued two Army aviators who were aboard the Apache attack helicopter when it went down near the Strait of Hormuz.",
       "date": "Tue, 09 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -21,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Trump says Iran shot down US helicopter and vows to respond",
+      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "description": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+      "date": "Tue, 09 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
@@ -43,9 +53,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-      "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "description": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
+      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+      "description": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News.",
       "date": "Tue, 09 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -63,10 +73,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
-      "link": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
-      "description": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.",
-      "date": "Mon, 08 Jun 2026",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+      "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "description": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
+      "date": "Tue, 09 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -113,11 +123,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "date": "Sat, 06 Jun 2026",
-      "source": "BBC",
+      "title": "France bans Israeli minister Smotrich in coordinated sanctions push",
+      "link": "https://www.france24.com/en/france-bans-israeli-minister-smotrich-in-coordinated-sanctions-push",
+      "description": "France Tuesday banned Israel's far-right Finance Minister Bezalel Smotrich from entering the country, as part of coordinated sanctions with other countries over settler violence against Palestinians. FRANCE 24's Noga Tarnopolsky reports from Jerusalem.",
+      "date": "Tue, 09 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -163,9 +173,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Did Netanyahu really ‘defy’ Trump in bombing Iran?",
-      "link": "https://www.aljazeera.com/news/2026/6/9/did-netanyahu-really-defy-trump-in-bombing-iran?traffic_source=rss",
-      "description": "Experts say the latest confrontation has laid bare growing divisions between the two leaders.",
+      "title": "‘Anything but normal’: Uncertainty as Iranians try to get by amid US war",
+      "link": "https://www.aljazeera.com/news/2026/6/9/anything-but-normal-uncertainty-as-iranians-try-to-get-by-amid-us-war?traffic_source=rss",
+      "description": "War damage and blockade have worsened economic conditions for many struggling Iranians.",
+      "date": "Tue, 09 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
+      "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
+      "description": "US president says although the pilots were rescued, Washington &#039;must, of necessity, respond to this attack&#039;.",
       "date": "Tue, 09 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -196,26 +216,6 @@
       "title": "Hundred days of Israel’s latest war on Lebanon",
       "link": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss",
       "description": "Israel&#039;s second intensification of its war on Lebanon within two years has reached 100 days, killing thousands.",
-      "date": "Tue, 09 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
-      "description": "The worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.",
-      "date": "Tue, 09 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says US has revoked World Cup ticket allocation for their supporters",
-      "link": "https://www.aljazeera.com/sports/2026/6/9/iran-says-us-have-revoked-world-cup-ticket-allocation-for-their-supporters?traffic_source=rss",
-      "description": "Iranian players and support staff got US visas and landed in Mexico on Sunday for the World Cup, but now fans in doubt.",
       "date": "Tue, 09 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,9 +283,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Israel army calls for evacuation of Lebanon's Tyre, surrounding areas",
+      "title": "West Asia war LIVE: Trump says U.S. \"must\" respond after Iran downs Apache helicopter",
       "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-9-2026/article71079114.ece",
       "description": "Israeli Prime Minister Benjamin Netanyahu announced that the “fire on that front is contained” hours after Tehran said it had stopped its military action",
+      "date": "Tue, 09 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says U.S. \"must\" respond after Iran downs Apache helicopter",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-must-respond-after-iran-downs-apache-helicopter/article71082257.ece",
+      "description": "In a statement, Mr. Trump said he had been informed, \"that last night the Iranians shot down one of our highly sophisticated Apache Helicopters while patrolling over the Strait of Hormuz\"",
+      "date": "Tue, 09 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Indian entities on latest EU sanctions package on Russia",
+      "link": "https://www.thehindu.com/news/international/indian-entities-on-latest-eu-sanctions-package-on-russia/article71082069.ece",
+      "description": "The proposed package focuses on energy, crypto and financial services and trade, including fisheries, European Commission President Ursula Von der Leyen said",
+      "date": "Tue, 09 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Hezbollah urges Hezbollah to mend ties with Iran",
+      "link": "https://www.thehindu.com/news/international/hezbollah-urges-hezbollah-to-mend-ties-with-iran/article71082084.ece",
+      "description": "\"We call on the Lebanese authorities to seize the opportunity available and correct their official relationship with the Islamic republic in a way that serves the interest of both states,\" says Hezbollah",
       "date": "Tue, 09 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -313,69 +343,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran, Israel say hostilities on hold after first attacks since truce",
-      "link": "https://www.thehindu.com/news/international/iran-israel-say-hostilities-on-hold-after-first-attacks-since-truce/article71079336.ece",
-      "description": "Israeli Prime Minister Benjamin Netanyahu announced that the “fire on that front is contained” hours after Tehran said it had stopped its military action",
+      "title": "US, Iran discuss 15-year ban on uranium enrichment under nuclear deal — media",
+      "link": "https://tass.com/world/2144687",
+      "description": "The US initially pushed for a 20-year ban, while Iran proposed a 10-year period",
       "date": "Tue, 09 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran blames U.S. for latest exchanges of fire with Israel",
-      "link": "https://www.thehindu.com/news/international/iran-blames-us-for-latest-exchanges-of-fire-with-israel/article71076010.ece",
-      "description": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei accused the United States of exacerbating tensions following overnight exchanges of fire between Iran and Israel, warning that such incidents threaten to destabilize an already fraught diplomatic landscape.",
+      "title": "US struck Kuwait with copied Iranian drone to sell it air defense systems — diplomat",
+      "link": "https://tass.com/world/2144685",
+      "description": "The Kuwaiti Civil Aviation Authority said on June 3 that the passenger terminal T1 at Kuwait International Airport has been attacked by drones and missiles launched from Iran",
       "date": "Tue, 09 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Netanyahu acknowledges halt in fighting with Iran but vows to respond 'with force' to future attacks",
-      "link": "https://www.thehindu.com/news/international/netanyahu-acknowledges-halt-in-fighting-with-iran-but-vows-to-respond-with-force-to-future-attacks/article71077940.ece",
-      "description": "In a videotaped statement, Mr. Netanyahu said the fighting stopped after Israel \"hit the terror regime in Tehran.” But he said if Iran “makes the mistake and returns to attacking us, we will respond with force,”",
+      "title": "European Commission proposes adding Patriarch Kirill to 21st sanctions package — TV",
+      "link": "https://tass.com/world/2144681",
+      "description": "EU foreign policy chief Kaja Kallas said the package would add 170 individuals and entities to the sanctions list, but did not disclose specific names",
       "date": "Tue, 09 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Israel ready to resume operations in Iran — top brass",
       "link": "https://tass.com/world/2144635",
       "description": "The IDF is prepared to return and deliver another severe and far-reaching strike against Iran, Chief of the General Staff of the Israeli Army Lieutenant General Eyal Zamir stressed",
-      "date": "Tue, 09 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Withdrawal from NPT not in Iran’s interests neither now nor in future — Russian MFA",
-      "link": "https://tass.com/world/2144611",
-      "description": "Ambassador-at-Large Andrey Belousov said there are many reasons for this",
-      "date": "Tue, 09 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Death toll from Israeli attacks on Lebanon rises to 3,666 — Health Ministry",
-      "link": "https://tass.com/world/2144595",
-      "description": "According to the report, another 133 people were injured and hospitalized",
-      "date": "Tue, 09 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "European Commission unveils proposals on 21st anti-Russian sanction package",
-      "link": "https://tass.com/world/2144591",
-      "description": "This sanctions package will be the biggest one over the last two years",
       "date": "Tue, 09 Jun 2026",
       "source": "TASS",
       "region": "ru",
