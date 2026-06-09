@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09 13:36 UTC",
-  "total": 37,
+  "updated": "2026-06-09 16:24 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Trump says pilots are fine after U.S. helicopter crashes near Strait of Hormuz",
@@ -21,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "description": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
+      "date": "Tue, 09 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
@@ -113,11 +123,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-      "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "description": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
-      "date": "Wed, 03 Jun 2026",
-      "source": "BBC",
+      "title": "Israel continues strikes on Beirut suburb",
+      "link": "https://www.france24.com/en/video/20260609-israel-continues-strikes-on-beirut-suburb",
+      "description": "🔴 🇮🇱 🇱🇧 Israeli strikes on Sunday targeting the Beirut suburb of #Dahiyeh, located to the south of #Lebanon's capital, killed two people and injured at least 20 others, prompting Iran to conduct retaliatory strikes. FRANCE 24 journalists Antonia Kerrigan, Elena Volochine and Hala...",
+      "date": "Tue, 09 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "World Cup tickets for Iran fans revoked days before tournament, says country's federation",
+      "link": "https://www.france24.com/en/sport/20260609-world-cup-tickets-for-iran-fans-revoked-days-before-tournament-says-ffiri-federation",
+      "description": "Iran's allocation of fan tickets for the group stage of the World Cup has been revoked just days before the start of the tournament, the country's football federation said Tuesday, in the latest controversy surrounding the Iranian squad as it prepares to play its group matches on...",
+      "date": "Tue, 09 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "World Cup overshadowed by US travel restrictions and the war in Iran",
+      "link": "https://www.france24.com/en/world-cup-overshadowed-by-us-travel-restrictions-and-the-war-in-iran",
+      "description": "A Somali referee has been prevented from officiating at the World Cup after he was refused entry into the US. This comes as many fans having bought tickets for the competitions have also seen their visa demands refused, and Iran's football federation claims its ticket allocation ...",
+      "date": "Tue, 09 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -133,34 +163,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump remains optimistic peace deal can be reached despite Middle East flare-up",
-      "link": "https://www.france24.com/en/trump-remains-optimistic-peace-deal-can-be-reached-despite-middle-east-flare-up",
-      "description": "While Iran and Israel have stopped trading fire against each other, Israeli forces continue to attack Lebanon, a move viewed as a redline by Tehran. Diplomacy is ongoing, with the US President once again claiming a deal is in reach 'within days'.",
+      "title": "Did Netanyahu really ‘defy’ Trump in bombing Iran?",
+      "link": "https://www.aljazeera.com/news/2026/6/9/did-netanyahu-really-defy-trump-in-bombing-iran?traffic_source=rss",
+      "description": "Experts say the latest confrontation has laid bare growing divisions between the two leaders.",
       "date": "Tue, 09 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "In Beirut's Hezbollah-controlled suburbs, war with Israel comes at a price for residents",
-      "link": "https://www.france24.com/en/in-beirut-s-hezbollah-controlled-suburbs-war-with-israel-comes-at-a-price-for-residents",
-      "description": "Escalation in the regional conflict on June 7 was triggered by a deadly Israeli strike on the South Beirut suburb of Dahiyeh, a neighbourhood governed by the Islamist militant group Hezbollah, Israel’s declared enemy in this war. A team of France 24 journalists went there the fol...",
+      "title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
+      "description": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting.",
       "date": "Tue, 09 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Netanyahu comes out of Iran flare-up a 'humiliated, failed war leader'",
-      "link": "https://www.france24.com/en/netanyahu-comes-out-of-iran-flare-up-a-humiliated-failed-war-leader",
-      "description": "Iran and Israel said hostilities between the two countries were to be put on hold, after a flare-up which threatened the already fragile ceasefire in the region. In Israel, the country was put on hold following strikes from Iran and Hezbollah, with anger over Benjamin Netanyahu s...",
-      "date": "Tue, 09 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israel attacks Tyre in Lebanon, tells all residents to leave",
@@ -196,16 +216,6 @@
       "title": "Iran says US has revoked World Cup ticket allocation for their supporters",
       "link": "https://www.aljazeera.com/sports/2026/6/9/iran-says-us-have-revoked-world-cup-ticket-allocation-for-their-supporters?traffic_source=rss",
       "description": "Iranian players and support staff got US visas and landed in Mexico on Sunday for the World Cup, but now fans in doubt.",
-      "date": "Tue, 09 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says Iran deal in ‘final throes’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-says-iran-deal-in-final?traffic_source=rss",
-      "description": "Donald Trump said that he&#039;s in the &#039;final throes&#039; of a deal with Iran.",
       "date": "Tue, 09 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -333,9 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "EU to restrict high-performance alloys exports as part of anti-Russian sanctions — Kallas",
-      "link": "https://tass.com/world/2144571",
-      "description": "According to the EU top diplomat, the import of car parts, several precious-metals ores and chemicals will also be restricted",
+      "title": "Israel ready to resume operations in Iran — top brass",
+      "link": "https://tass.com/world/2144635",
+      "description": "The IDF is prepared to return and deliver another severe and far-reaching strike against Iran, Chief of the General Staff of the Israeli Army Lieutenant General Eyal Zamir stressed",
       "date": "Tue, 09 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -343,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "EC proposes largest sanctions package against Russia in two years — Kallas",
-      "link": "https://tass.com/world/2144557",
-      "description": "According to the EU top diplomat, the list will include more than 170 positions",
+      "title": "Withdrawal from NPT not in Iran’s interests neither now nor in future — Russian MFA",
+      "link": "https://tass.com/world/2144611",
+      "description": "Ambassador-at-Large Andrey Belousov said there are many reasons for this",
       "date": "Tue, 09 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,9 +363,9 @@
       "bias": "Very High"
     },
     {
-      "title": "EU to sanction ninety Russian banks — Reuters",
-      "link": "https://tass.com/world/2144525",
-      "description": "According to the report, the measure will bring the number of Russian banks under sanctions to a half of all Russian financial institutions engaged in international transactions",
+      "title": "Death toll from Israeli attacks on Lebanon rises to 3,666 — Health Ministry",
+      "link": "https://tass.com/world/2144595",
+      "description": "According to the report, another 133 people were injured and hospitalized",
       "date": "Tue, 09 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -363,9 +373,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Organizers of 2026 FIFA World Cup withdraw Iran’s ticket allocation — agency",
-      "link": "https://tass.com/sports/2144511",
-      "description": "All Iranian football fans who have already finalized their travel plans will now be unable to attend matches supporting their national team",
+      "title": "European Commission unveils proposals on 21st anti-Russian sanction package",
+      "link": "https://tass.com/world/2144591",
+      "description": "This sanctions package will be the biggest one over the last two years",
       "date": "Tue, 09 Jun 2026",
       "source": "TASS",
       "region": "ru",
