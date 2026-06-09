@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-09 01:59 UTC",
+  "updated": "2026-06-09 06:10 UTC",
   "total": 44,
   "stories": [
+    {
+      "title": "Trump says pilots are fine after U.S. helicopter crashes near Strait of Hormuz",
+      "link": "https://www.npr.org/2026/06/09/nx-s1-5851482/trump-pilots-us-helicopter-crash",
+      "description": "A U.S. Army Apache attack helicopter crashed near the Strait of Hormuz, with President Trump saying the two crew members on board were \"fine\" after the incident. Trump also expressed optimism over negotiations with Iran.",
+      "date": "Tue, 09 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The Strait of Hormuz's 3-month closure could set a dangerous precedent, experts worry",
       "link": "https://www.npr.org/2026/06/08/nx-s1-5848001/the-strait-of-hormuzs-3-month-closure-could-set-a-dangerous-precedent-experts-worry",
@@ -23,30 +33,10 @@
       "bias": "Low"
     },
     {
-      "title": "After trading missile fire, Israel and Iran pull back — for now",
-      "link": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
-      "description": "The missile exchange marked a major escalation in the already tense region. But Israel and Iran both say they will stop attacking each other, with conditions.",
-      "date": "Mon, 08 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump is remaking U.S. policy in Latin America",
-      "link": "https://www.npr.org/2026/06/07/nx-s1-5845137/trump-is-remaking-u-s-policy-in-latin-america",
-      "description": "Military strikes, sanctions and political pressure are becoming hallmarks of Trump's Latin America policy. NPR's Adrian Florido speaks with historian Greg Grandin about what's driving the shift.",
-      "date": "Sun, 07 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
       "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
       "description": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
-      "date": "Mon, 08 Jun 2026",
+      "date": "Tue, 09 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -143,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: Israeli strikes kill at least 14 in southern Lebanon",
+      "link": "https://www.france24.com/en/middle-east/20260609-middle-east-live-israeli-strikes-kill-14-in-southern-lebanon",
+      "description": "Israeli strikes on south Lebanon killed at least 14 people on Monday, the Lebanese health ministry said, after Iran threatened to attack Israel again if it continued bombing the country. The Iran-backed Hezbollah meanwhile said it had targeted Israeli troops inside Lebanon, but d...",
+      "date": "Tue, 09 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel and Iran step back from further strikes after renewed clashes",
       "link": "https://www.france24.com/en/middle-east/20260608-israel-and-iran-step-back-from-further-strikes-after-renewed-clashes",
       "description": "Israel and Iran appeared to pull back from further military action on Monday after exchanging fire for the first time since a US-brokered ceasefire two months ago. Both sides warned they would retaliate if attacked again, while regional powers and the Trump administration pushed ...",
@@ -203,14 +203,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Once Trump accepted Iranian 14-point proposal as basis of talks, he gave Iran political initiative'",
-      "link": "https://www.france24.com/en/once-trump-accepted-iranian-14-point-proposal-as-basis-of-talks-he-gave-iran-political-initiative",
-      "description": "Carys Garland is pleased to welcome Scott Lucas, Professor of American Studies and International Politics at the Clinton Institute, University College Dublin. Amid the latest escalation between Iran, Israel, and the US, Lucas warns that both Tehran and Jerusalem are increasingly ...",
-      "date": "Mon, 08 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Israel kills 14 in southern Lebanon after trading fire with Iran",
+      "link": "https://www.aljazeera.com/news/2026/6/9/israel-kills-14-in-southern-lebanon-after-trading-fire-with-iran?traffic_source=rss",
+      "description": "Killings come as Iran warned of &#039;crushing blows&#039; if Israeli attacks continued in Lebanon, including in the south.",
+      "date": "Tue, 09 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel intensifies strikes in southern Lebanon killing 12 people",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_israel-strikes-lebanon-moments-before-on-air-090626?traffic_source=rss",
+      "description": "Al Jazeera’s Obaida Hitto reports on the strikes he witnessed in and around Tyre.",
+      "date": "Tue, 09 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump warns Netanyahu: ‘You’ll be on your own’ if attacks on Iran continue",
+      "link": "https://www.aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue?traffic_source=rss",
+      "description": "Trump&#039;s warning comes as Israel and Iran pause attacks and indirect talks to reach a peace deal continue.",
+      "date": "Tue, 09 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "UN questions legality of Israeli forced evacuation orders in Lebanon",
@@ -263,24 +283,44 @@
       "bias": "Medium"
     },
     {
-      "title": "Could Iran and the US play each other at the World Cup?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/could-iran-and-the-us-play-each-other-at-the-world-cup?traffic_source=rss",
-      "description": "Could Iran and the US play each other at the World Cup?",
-      "date": "Mon, 08 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "Pakistan demands 'verifiable, non-reversible' action by Afghan Taliban against terrorists, envoy tells UNSC",
+      "link": "https://www.dawn.com/news/2006316/pakistan-demands-verifiable-non-reversible-action-by-afghan-taliban-against-terrorists-envoy-tells-unsc",
+      "description": "WASHINGTON: Pakistan told the UN Security Council on Monday that Islamabad’s demand from the Afghan Taliban was simple and clear: “verifiable and non-reversible action“ against terrorist groups operating from Afghan territory. Addressing a UNSC meeting, Pakistan’s Permanent Repre...",
+      "date": "Tue, 09 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "‘We basically lost’: Tel Aviv residents react after Israel-Iran strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/we-basically-lost-tel-aviv-residents-react-after-israel-iran-strikes?traffic_source=rss",
-      "description": "Residents in Tel Aviv voiced mixed reactions after a day of missile exchanges between Israel and Iran.",
-      "date": "Mon, 08 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "Lebanese army commander calls on CDF Munir, discusses regional security environment",
+      "link": "https://www.dawn.com/news/2006324/lebanese-army-commander-calls-on-cdf-munir-discusses-regional-security-environment",
+      "description": "The Lebanese army commander held a meeting with Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir on Tuesday, during which the two exchanged views on the evolving regional security environment. The military’s media affairs wing said in a statement that Leba...",
+      "date": "Tue, 09 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran, Israel pause attacks ‘on Trump’s urging’",
+      "link": "https://www.dawn.com/news/2006259/iran-israel-pause-attacks-on-trumps-urging",
+      "description": "• US president tells Netanyahu to be careful or ‘you will be on your own’• Israel hits petrochemical complex following Iranian missile barrages to avenge Beirut strikes• Tehran warns of stronger response if Lebanon attacks continue• Pezeshkian insists his country is still at nego...",
+      "date": "Tue, 09 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Lebanon defence minister says Israel violated Lebanon truce nearly 3,500 times",
+      "link": "https://www.dawn.com/news/2006315/lebanon-defence-minister-says-israel-violated-lebanon-truce-nearly-3500-times",
+      "description": "https://www.dawn.com/news/2006246",
+      "date": "Tue, 09 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Major quake off Philippines kills at least 31, dozen still missing",
@@ -303,41 +343,51 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran halts military operations against Israel, warns of harsher attacks if strikes on Lebanon persist",
-      "link": "https://www.dawn.com/news/2006111/iran-halts-military-operations-against-israel-warns-of-harsher-attacks-if-strikes-on-lebanon-persist",
-      "description": "Iran on Monday said it was ending its latest military operation against Israel after the first exchanges of fire between the foes since a shaky ceasefire began, but warned it could inflict a more “crushing” response. United States President Donald Trump earlier on Monday told bot...",
-      "date": "Mon, 08 Jun 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: Trump says in 'final throes' of West Asia peace deal",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-9-2026/article71079114.ece",
+      "description": "Israeli Prime Minister Benjamin Netanyahu announced that the “fire on that front is contained” hours after Tehran said it had stopped its military action",
+      "date": "Tue, 09 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "'Let's call it quits': Trump storms out of tense, rain-plagued interview when confronted over election fraud claims",
-      "link": "https://www.dawn.com/news/2006093/lets-call-it-quits-trump-storms-out-of-tense-rain-plagued-interview-when-confronted-over-election-fraud-claims",
-      "description": "United States President Donald Trump lasted through probing questions about his Iran war strategy and repeated weather disruptions during an interview with US broadcaster NBC — but angrily stormed out when confronted over his unfounded claims of election fraud. “You’re a one-side...",
-      "date": "Mon, 08 Jun 2026",
-      "source": "Dawn",
+      "title": "Iran, Israel say hostilities on hold after first attacks since truce",
+      "link": "https://www.thehindu.com/news/international/iran-israel-say-hostilities-on-hold-after-first-attacks-since-truce/article71079336.ece",
+      "description": "Israeli Prime Minister Benjamin Netanyahu announced that the “fire on that front is contained” hours after Tehran said it had stopped its military action",
+      "date": "Tue, 09 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Israel, Iran trade fire despite Trump's call for restraint",
-      "link": "https://www.dawn.com/news/2006073/israel-iran-trade-fire-despite-trumps-call-for-restraint",
-      "description": "Israel and Iran traded fire on Monday, seriously testing a fragile truce and threatening hopes for a deal to end the Middle East war. The new attacks, including a strike on an Iranian petrochemical complex, came hours after US President Donald Trump called on Israel to refrain fr...",
-      "date": "Mon, 08 Jun 2026",
-      "source": "Dawn",
+      "title": "U.S. crew rescued after helicopter goes down near Strait Of Hormuz: report",
+      "link": "https://www.thehindu.com/news/international/crew-rescued-after-us-helicopter-goes-down-near-strait-of-hormuz-report/article71079206.ece",
+      "description": "It was ​not immediately clear ⁠whether the Apache was ‌shot down by Iranian fire, experienced mechanical failure or encountered some ‌other problem",
+      "date": "Tue, 09 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran launches first attack on Israel since truce",
-      "link": "https://www.dawn.com/news/2006023/iran-launches-first-attack-on-israel-since-truce",
-      "description": "• Salvo comes after Tel Aviv strikes Beirut; IRGC warns of broader response in case of further aggression • Trump urges Netanyahu not to retaliate after Iranian strikes, says ‘each of them had their fun’ • Claims both sides very close to peace deal, ‘wouldn’t want to blow it up’ ...",
-      "date": "Mon, 08 Jun 2026",
-      "source": "Dawn",
+      "title": "Iran blames U.S. for latest exchanges of fire with Israel",
+      "link": "https://www.thehindu.com/news/international/iran-blames-us-for-latest-exchanges-of-fire-with-israel/article71076010.ece",
+      "description": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei accused the United States of exacerbating tensions following overnight exchanges of fire between Iran and Israel, warning that such incidents threaten to destabilize an already fraught diplomatic landscape.",
+      "date": "Tue, 09 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Netanyahu acknowledges halt in fighting with Iran but vows to respond 'with force' to future attacks",
+      "link": "https://www.thehindu.com/news/international/netanyahu-acknowledges-halt-in-fighting-with-iran-but-vows-to-respond-with-force-to-future-attacks/article71077940.ece",
+      "description": "In a videotaped statement, Mr. Netanyahu said the fighting stopped after Israel \"hit the terror regime in Tehran.” But he said if Iran “makes the mistake and returns to attacking us, we will respond with force,”",
+      "date": "Tue, 09 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -353,90 +403,40 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war updates: Netanyahu acknowledges halt in fighting with Iran but vows to respond 'with force' to future attacks",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-beirut-strikes-strait-of-hormuz-live-updates-june-8-2026/article71074947.ece",
-      "description": "The U.S. President says that the Strait of Hormuz blockade will continue until a 'final deal' is reached",
-      "date": "Mon, 08 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US’ Apache helicopter crashes near Strait of Hormuz — NYT",
+      "link": "https://tass.com/emergencies/2144339",
+      "description": "The cause of the accident is currently unclear, the newspaper reported",
+      "date": "Tue, 09 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Germany’s standing in international order under scrutiny after UNSC loss",
-      "link": "https://www.thehindu.com/news/international/germanys-standing-in-international-order-under-scrutiny-after-unsc-loss/article71077217.ece",
-      "description": "The country has failed to win a non-permanent seat on the UNSC for the first time. Its selective application of international law vis-à-vis Ukraine and Iran, and its cautious and often wavering approach towards Israel, might have led smaller nations to lose faith in it",
-      "date": "Mon, 08 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Zaporozhye nuke ready to share its experience in combat conditions with Bushehr — director",
+      "link": "https://tass.com/economy/2144337",
+      "description": "Yury Chernichuk says the plant will be able to provide some consultations to any nuclear power plant in the world",
+      "date": "Tue, 09 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Netanyahu acknowledges halt in fighting with Iran but vows to respond 'with force' to future attacks",
-      "link": "https://www.thehindu.com/news/international/netanyahu-acknowledges-halt-in-fighting-with-iran-but-vows-to-respond-with-force-to-future-attacks/article71077940.ece",
-      "description": "In a videotaped statement, Mr. Netanyahu said the fighting stopped after Israel \"hit the terror regime in Tehran.” But he said if Iran “makes the mistake and returns to attacking us, we will respond with force,”",
-      "date": "Mon, 08 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran blames U.S. for latest exchanges of fire with Israel",
-      "link": "https://www.thehindu.com/news/international/iran-blames-us-for-latest-exchanges-of-fire-with-israel/article71076010.ece",
-      "description": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei accused the United States of exacerbating tensions following overnight exchanges of fire between Iran and Israel, warning that such incidents threaten to destabilize an already fraught diplomatic landscape.",
-      "date": "Mon, 08 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Yemen's Houthis declare 'total ban' on Israeli ships in Red Sea",
-      "link": "https://www.thehindu.com/news/international/yemens-houthis-declare-total-ban-on-israeli-ships-in-red-sea/article71075490.ece",
-      "description": "The Houthis, who joined the West Asia war in support of Iran in March, had not announced a missile attack on Israel since a fragile ceasefire began on April 8",
-      "date": "Mon, 08 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Zaporozhye nuke in more vulnerable position than Bushehr plant — director",
+      "link": "https://tass.com/society/2144331",
+      "description": "Yury Chernichuk explained this by the fact that the enemy is located a few kilometers from the station",
+      "date": "Tue, 09 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US to continue to seek deal with Iran regardless of Israel's position — Vance",
       "link": "https://tass.com/world/2144307",
       "description": "The vice president says this is in the best interest of the US",
       "date": "Tue, 09 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Earthquake of magnitude 4.9 hits Iran",
-      "link": "https://tass.com/emergencies/2144303",
-      "description": "The epicenter of the tremors was located 113 km northeast of Bandar Abbas",
-      "date": "Tue, 09 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says US, Iran may sign deal in next two weeks",
-      "link": "https://tass.com/world/2144301",
-      "description": "According to the US president, Iran is ready to forego nuclear weapons",
-      "date": "Tue, 09 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump tells Netanyahu he could lose support if Iran situation escalates — Axios",
-      "link": "https://tass.com/world/2144285",
-      "description": "The US president said, as cited by the news portal, that Israel only notified the US of the impending strikes on Iran shortly before their launch",
-      "date": "Mon, 08 Jun 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
