@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11 00:07 UTC",
-  "total": 45,
+  "updated": "2026-06-11 05:19 UTC",
+  "total": 44,
   "stories": [
     {
       "title": "U.S. military says it's striking 'multiple targets' in Iran in 2nd day of renewed fire",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israeli strikes kill 12 in Lebanon as Netanyahu urges fight against Hezbollah",
+      "link": "https://www.france24.com/en/middle-east/20260611-israeli-strikes-kill-12-in-lebanon-as-netanyahu-urges-fight-against-hezbollah",
+      "description": "Lebanon's health ministry said Israeli airstrikes in southern Lebanon killed 12 people on Wednesday, as Israeli Prime Minister Benjamin Netanyahu urged Lebanese citizens to join Israel's fight against Hezbollah. A border town said two municipal employees detained by Israeli force...",
+      "date": "Thu, 11 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran announces closure of Strait of Hormuz after US attacks",
       "link": "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-announces-closure-of-strait-of-hormuz-after-us-attacks",
       "description": "",
@@ -143,9 +153,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Iran says will target any vessel traffic in Strait of Hormuz",
+      "title": "Middle East live: US launches new strikes on Iran as Tehran says Strait of Hormuz closed",
       "link": "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-announces-closure-of-strait-of-hormuz-after-us-attacks",
-      "description": "Iran's military command said Thursday it will target any ship transiting the Strait of Hormuz, after it struck two vessels attempting to pass through the strategic waterway. Follow our liveblog for the latest updates.",
+      "description": "The United States launched a second round of airstrikes on Iran into Thursday morning after President Donald Trump warned that Tehran would “pay the price” for stalled negotiations. Iran said it had closed the Strait of Hormuz in response to US attacks and launched its own strike...",
       "date": "Wed, 10 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -203,19 +213,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "World Cup '26: 'FIFA could never have envisaged how complicated, sensitive this tournament would be'",
-      "link": "https://www.france24.com/en/video/20260610-world-cup-26-fifa-could-never-have-envisaged-how-complicated-sensitive-this-tournament-would-be",
-      "description": "Genie Godula is pleased to welcome Simon Chadwick, Professor of AfroEurasian Sport and Specialist of 21st century global sport. On the eve of the FIFA World Cup, Chadwick offers a sobering assessment of the political realities surrounding the world's biggest sporting event amid t...",
-      "date": "Wed, 10 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war live: US launches attacks on ‘multiple’ Iranian targets",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
-      "description": "Tehran remains defiant amid US attacks, orders complete closure of Strait of Hormuz to all vessels.",
+      "title": "Dahiyeh crowds rally in favour of Iranian support against Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/dahiyeh-crowds-rally-in-favour-of-iranian-support-against-israel?traffic_source=rss",
+      "description": "Dahiyeh crowds rally in favour of Iranian support against Israel.",
       "date": "Thu, 11 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -223,9 +223,39 @@
       "bias": "Medium"
     },
     {
-      "title": "US bombs Iran after Trump threat, Tehran closes Hormuz Strait to all ships",
+      "title": "Which World Cup teams, players and officials were denied US visas, entry?",
+      "link": "https://www.aljazeera.com/sports/2026/6/11/which-world-cup-teams-players-and-officials-were-denied-us-visas-entry?traffic_source=rss",
+      "description": "Top Somali referee Omar Artan latest victim of stringent US travel policies after Iranian squad&#039;s visas were delayed.",
+      "date": "Thu, 11 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran announces closure of Strait of Hormuz following US strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
+      "description": "Iranian officials say the Strait of Hormuz has been closed in response to US strikes.",
+      "date": "Thu, 11 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Tehran targets Bahrain, Kuwait, Jordan after new US strikes",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
+      "description": "Iran remains defiant amid US attacks, orders complete closure of Strait of Hormuz to all vessels.",
+      "date": "Thu, 11 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran attacks Bahrain, Kuwait, Jordan and Hormuz ships after new US strikes",
       "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
-      "description": "Explosions hit Qeshm Island, ports along Strait of Hormuz after Trump threatens to hit Iran &#039;very hard&#039;.",
+      "description": "Tehran claims attacks on bases in Bahrain, Kuwait and Jordan, as US strikes Karaj and ports in Strait of Hormuz.",
       "date": "Wed, 10 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,44 +283,44 @@
       "bias": "Medium"
     },
     {
-      "title": "Israeli strike on a car kills two in Sidon, Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss",
-      "description": "An Israeli strike on a vehicle in the southern Lebanese city of Sidon killed two people and sparked a fire.",
-      "date": "Wed, 10 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "US, Iran hit each other again as hopes for quick peace deal fade",
+      "link": "https://www.dawn.com/news/2006839/us-iran-hit-each-other-again-as-hopes-for-quick-peace-deal-fade",
+      "description": "The United States launched fresh attacks against Iran on Thursday, prompting Tehran to retaliate, as US leaders accused their counterparts of dragging out negotiations for a deal to end the three-month war. The second straight day of tit-for-tat strikes, with Iran targeting US ba...",
+      "date": "Thu, 11 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Why Lebanon remains caught up in the Israel-Iran conflict",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/6/10/aje-onl-aj_tt_irn_next100day-100626?traffic_source=rss",
-      "description": "The Israel-Iran ceasefire may be holding, but for many in Lebanon, the war continues.",
-      "date": "Wed, 10 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "US, Iran trade threats after tit-for-tat strikes",
+      "link": "https://www.dawn.com/news/2006788/us-iran-trade-threats-after-tit-for-tat-strikes",
+      "description": "• Trump warns will ‘hit Iran hard’ again; says PM Shehbaz, CDF Munir convinced him to give Tehran ‘a break’• Pezeshkian vows Tehran will ‘stand firm’ amid threats; spox calls out ‘ceasefire violations’ by Washington• IRGC says US bases in Kuwait, Jordan struck; US bombs Iranian t...",
+      "date": "Thu, 11 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran says it will ‘not hesitate’ to defend itself after latest clashes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-says-it-will-not-hesitate-to-defend-itself-after-latest-clashes?traffic_source=rss",
-      "description": "Iran’s Foreign Ministry said overnight clashes in the Gulf between Tehran and Washington showed how Iran will respond.",
-      "date": "Wed, 10 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "IAEA asks Iran to ‘declare enriched uranium stocks’",
+      "link": "https://www.dawn.com/news/2006783/iaea-asks-iran-to-declare-enriched-uranium-stocks",
+      "description": "VIENNA: The UN nuclear watchdog’s 35-nation Board of Governors passed a US-backed resolution on Wednesday telling Iran to declare its remaining enriched uranium stocks and let inspectors verify them, which could complicate Washington’s talks with Tehran. The move came within hour...",
+      "date": "Thu, 11 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Trump warns of more attacks on Iran after US Apache helicopter downing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-warns-of-more-attacks-on-iran-after-us-apache-helicopter-downing?traffic_source=rss",
-      "description": "Trump warns of more attacks on Iran after US Apache helicopter downing",
-      "date": "Wed, 10 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "UN to send mission to Lebanon for collecting abuse evidence",
+      "link": "https://www.dawn.com/news/2006780/un-to-send-mission-to-lebanon-for-collecting-abuse-evidence",
+      "description": "GENEVA: The UN rights chief said on Wednesday he would send a mission to Lebanon to collect evidence on alleged rights abuses. “Accountability cannot be overstated. Prompt and independent investigations into alleged violations of international humanitarian law must be conducted,”...",
+      "date": "Thu, 11 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Saudi Arabia launches new national carrier Riyadh Air despite Middle East conflict, delays",
@@ -313,60 +343,40 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan strikes terrorist hideouts along Afghan border, kills 26 militants: minister",
-      "link": "https://www.dawn.com/news/2006597/pakistan-strikes-terrorist-hideouts-along-afghan-border-kills-26-militants-minister",
-      "description": "Pakistan has carried out strikes on terrorist hideouts along its border with Afghanistan and killed 26 terrorists, Information Minister Attaullah Tarar said on Wednesday. “In the aftermath of recent terrorist incidents in Pakistan […] precise and calibrated strikes were carried o...",
-      "date": "Wed, 10 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran targets American bases in Jordan and the Gulf after fresh US strikes near Hormuz",
-      "link": "https://www.dawn.com/news/2006586/iran-targets-american-bases-in-jordan-and-the-gulf-after-fresh-us-strikes-near-hormuz",
-      "description": "Iran’s Revolutionary Guards said they had carried out attacks against a US base in Jordan and 21 other targets in the Gulf on Wednesday in retaliation for American strikes around ​the Strait of Hormuz. The clashes mark one of the biggest exchanges in hostilities since the two cou...",
-      "date": "Wed, 10 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "UK, allies slap sanctions against Israeli network over violence in occupied West Bank",
-      "link": "https://www.dawn.com/news/2006565/uk-allies-slap-sanctions-against-israeli-network-over-violence-in-occupied-west-bank",
-      "description": "https://www.dawn.com/news/2006531",
-      "date": "Wed, 10 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli ministers call for bombing Beirut after Hezbollah attacks",
-      "link": "https://www.dawn.com/news/2006567/israeli-ministers-call-for-bombing-beirut-after-hezbollah-attacks",
-      "description": "https://www.dawn.com/news/2006535",
-      "date": "Wed, 10 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran says will target any vessel traffic in Strait of Hormuz after U.S. strikes in latest escalation",
-      "link": "https://www.thehindu.com/news/international/iran-says-will-target-any-vessel-traffic-in-strait-of-hormuz-after-us-strikes/article71086716.ece",
-      "description": "U.S. Central Command said in a social media post that the military is striking \"multiple targets in Iran\" and that it's being done \"in response to Iran's unwarranted and continued aggression\".",
-      "date": "Wed, 10 Jun 2026",
+      "title": "West Asia war LIVE: Kuwait temporarily closes airspace after Iranian attacks",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-israel-us-iran-war-strait-of-hormuz-mojtaba-khamenei-donald-trump-benjamin-netanyahu-june-11-2026/article71087443.ece",
+      "description": "The U.S. military denied Iran's claim that the Strait of Hormuz had been fully closed in response to the latest U.S. strikes",
+      "date": "Thu, 11 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran announces closure of Strait of Hormuz after U.S. attacks",
+      "title": "Iran says ‘will target’ any vessel traffic in Strait of Hormuz after U.S. strikes in latest escalation",
+      "link": "https://www.thehindu.com/news/international/iran-says-will-target-any-vessel-traffic-in-strait-of-hormuz-after-us-strikes/article71086716.ece",
+      "description": "U.S. Central Command said in a social media post that the military is striking “multiple targets in Iran” and that it's being done “in response to Iran's unwarranted and continued aggression”.",
+      "date": "Thu, 11 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. military strikes ‘multiple targets’ in Iran in second day of renewed fire",
+      "link": "https://www.thehindu.com/news/international/us-military-strikes-multiple-targets-in-iran-in-second-day-of-renewed-fire/article71087454.ece",
+      "description": "The U.S. Central Command issued a statement saying its forces targeted \"Iranian military surveillance capabilities, communication systems and air defense sites across Iran\"",
+      "date": "Thu, 11 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war updates: Iran announces closure of Strait of Hormuz after U.S. attacks",
       "link": "https://www.thehindu.com/news/international/iran-us-israel-war-live-updates-donald-trump-benjamin-netanyahu-mojtaba-khamenei-ceasefire-strait-of-hormuz-oil-prices-june-10-2026/article71083282.ece",
       "description": "Two 'violating ships' attempting passage through Hormuz hit, Iranian media says; Iran's UN ambassador Amir Saeid Iravani rejected Trump's threat, saying \"no sustainable deal can be reached through threats, intimidation, or the use of force.\"",
-      "date": "Wed, 10 Jun 2026",
+      "date": "Thu, 11 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -393,59 +403,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Tehran will ‘pay the price’, says Trump after U.S., Iran exchange strikes",
-      "link": "https://www.thehindu.com/news/international/trump-says-iran-has-taken-too-long-to-negotiate-will-pay-the-price/article71084910.ece",
-      "description": "“We are gonna be attacking them, attacking them very hard,” Mr. Trump told reporters on Wednesday. “We hit them hard yesterday, and we are going to hit them again hard today”",
-      "date": "Wed, 10 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Gulf countries call on UNSC to hold Iran accountable for attacks against them",
+      "link": "https://tass.com/world/2145303",
+      "description": "The top Gulf Cooperation Council diplomats placed full responsibility for the hostile actions \"and their grave repercussions on the security of the region, international navigation and energy supplies\"",
+      "date": "Thu, 11 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Watch: U.S. and Iran exchange strikes in major escalation | Above the Fold | 10.06.2026",
-      "link": "https://www.thehindu.com/videos/watch-us-and-iran-exchange-strikes-in-major-escalation-above-the-fold-10062026/article71086161.ece",
-      "description": "From Iran’s retaliation against U.S. military facilities and escalating tensions in West Asia to the Congress’s battle over Meenakshi Natarajan’s Rajya Sabha nomination, fresh turmoil within the TMC, Mamata Banerjee’s meeting with Sonia Gandhi - Top stories of the day.",
-      "date": "Wed, 10 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iran attacks US facilities in Middle East following US strikes — agency",
+      "link": "https://tass.com/world/2145293",
+      "description": "According to the news agency, Iran has attacked the Harir airbase in Iraqi Kurdistan, disabling a military radar",
+      "date": "Thu, 11 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "CENTCOM denied closure of Strait of Hormuz",
+      "link": "https://tass.com/world/2145291",
+      "description": "The US Central Command also said that not a single US ship had been struck in the Strait",
+      "date": "Thu, 11 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran closes Strait of Hormuz for all vessels — tops brass",
       "link": "https://tass.com/world/2145271",
       "description": "The naval forces of Iran’s Islamic Revolutionary Guard Corps said that they have already hit two vessels trying to pass through the Strait",
-      "date": "Wed, 10 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Gulf countries slam Iranian attacks as closing 'doors of dialogue'",
-      "link": "https://tass.com/world/2145263",
-      "description": "According to the Gulf Cooperation Council Ministerial Council, \"these hostile acts do not serve any understanding or rapprochement, but rather distance peoples from one another\"",
-      "date": "Wed, 10 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US effectively using ceasefire with Iran, refining intel data — Pentagon chief",
-      "link": "https://tass.com/world/2145259",
-      "description": "This process has significantly improved compared to the beginning of the war with Iran, Pete Hegseth said",
-      "date": "Wed, 10 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Series of explosions reported from several Iranian localities — agency",
-      "link": "https://tass.com/world/2145257",
-      "description": "Apart from that, clashes between the US and Iranian naval forces were reported",
       "date": "Wed, 10 Jun 2026",
       "source": "TASS",
       "region": "ru",
