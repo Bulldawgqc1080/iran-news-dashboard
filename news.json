@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12 14:31 UTC",
+  "updated": "2026-06-12 17:29 UTC",
   "total": 36,
   "stories": [
     {
@@ -31,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Iran says deal to end fighting with US has 'never been closer'",
+      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "description": "Both Iran and Pakistan say a deal has never been closer - echoing US President Donald Trump's statement on Thursday.",
+      "date": "Fri, 12 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "US and Iran exchange strikes across Middle East for second day in a row",
@@ -123,11 +133,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "description": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
-      "date": "Sun, 07 Jun 2026",
-      "source": "BBC",
+      "title": "Iran-linked group claims hack of FBI drones, threatens World Cup, monitor reports",
+      "link": "https://www.france24.com/en/americas/20260612-iran-linked-group-claims-hack-of-fbi-drones-threatens-world-cup-monitor-reports",
+      "description": "An Iran-linked hacker group called Handala claimed to have breached FBI drones and threatened to target the 2026 World Cup, monitoring group SITE said Friday.",
+      "date": "Fri, 12 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -153,14 +163,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Anger swells in Albania over Trump-linked resort project",
-      "link": "https://www.france24.com/en/video/20260612-anger-swells-in-albania-over-trump-linked-resort-project",
-      "description": "Thousands of protesters marched through Albania's capital on Thursday, the latest in a series of demonstrations against a planned resort linked to the Trump family. For over a week, daily demonstrations have been held in Tirana against the project connected to US President Donald...",
+      "title": "Pakistan says ‘final, agreed upon’ text of Iran war ceasefire deal reached",
+      "link": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss",
+      "description": "This is a breaking news story.",
       "date": "Fri, 12 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
+      "link": "https://www.aljazeera.com/news/2026/6/12/dishonorable-trump-says-leaked-iran-ceasefire-terms-fake?traffic_source=rss",
+      "description": "Trump decries &#039;dishonorable people&#039; after reports Iran made few concessions in deal US has said could be soon signed.",
+      "date": "Fri, 12 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Are Iran, US really close to a breakthrough ‘deal’?",
@@ -176,26 +196,6 @@
       "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
       "link": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
       "description": "The attacks come as Iranian media reports that a draft peace deal with the US would include ending the war in Lebanon.",
-      "date": "Fri, 12 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
-      "link": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss",
-      "description": "Israeli zone extends into Lebanon&#039;s maritime territory, raising fears that it could become a long-term &#039;resource grab&#039;.",
-      "date": "Fri, 12 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Video: What Iran’s football fans think about the World Cup",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-what-irans-football-fans-think-about-the-world-cup?traffic_source=rss",
-      "description": "What’s it like supporting your team in a World Cup hosted by a country that’s at war with yours?",
       "date": "Fri, 12 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,9 +263,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia War LIVE: Netanyahu says in 'full agreement' with Trump for Iran not to acquire nuclear weapons",
+      "title": "U.S. plans to slash fighter jets, warships to NATO in Europe: report",
+      "link": "https://www.thehindu.com/news/international/us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-report/article71095020.ece",
+      "description": "U.S. President Donald Trump has called the alliance a \"paper tiger\" and its members \"cowards\" in frustration that they have not joined the U.S.-Israeli war against Iran",
+      "date": "Fri, 12 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia War LIVE: Iran FM Araghchi says Islamabad MoU has 'never been closer'",
       "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-bandar-abbas-strikes-strait-of-hormuz-mojtaba-khamenei-donald-trump-tehran-deal-june-12-2026/article71092034.ece",
-      "description": "U.S. forces shoot down two Iranian attack drones, an official says; Iran said it had not reached a final decision on a deal with Washington after U.S. President Donald Trump announced a \"great settlement\" to end the war",
+      "description": "Trump accuses Iran of attacking Indian ships, says it's 'totally unacceptable'",
+      "date": "Fri, 12 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "A deal with U.S. ‘has never been closer’, says Iran",
+      "link": "https://www.thehindu.com/news/international/deal-with-the-us-has-never-been-closer-says-iran/article71094747.ece",
+      "description": "Foreign Minister Abbas Araghchi’s comments came after Iran’s Mehr news agency, citing a source close to the country’s negotiating team, claimed that the deal would see “the release of $24 billion of Iran’s blocked funds during the 60-day final negotiation period”",
       "date": "Fri, 12 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,24 +323,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says hasn’t reached a final decision on deal with U.S.",
-      "link": "https://www.thehindu.com/news/international/trump-us-iran-deal-iran-strike/article71091212.ece",
-      "description": "The Tasnim news agency noted that Mr. Trump had announced a deal was imminent 38 times in the previous two months.",
+      "title": "Trump claims draft deal published in Iranian media is incorrect",
+      "link": "https://tass.com/world/2145857",
+      "description": "US President also accused Iran of trying to attack Indian ships in the Strait of Hormuz",
       "date": "Fri, 12 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war updates: Iran says hasn't reached a final decision on deal with U.S.",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-israel-us-iran-war-strait-of-hormuz-mojtaba-khamenei-donald-trump-benjamin-netanyahu-june-11-2026/article71087443.ece",
-      "description": "U.S. President Donald Trump withdrew his threat of further strikes against Iran on Thursday and said a deal with Tehran to end the war could be signed in coming days.",
-      "date": "Fri, 12 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran publishes 14-point conflict settlement memorandum with US — Mehr",
@@ -346,16 +356,6 @@
       "title": "Trump cannot imagine US-Iran would not sign settlement",
       "link": "https://tass.com/world/2145745",
       "description": "The US president said that Iranian authorities want to sign the deal \"as much as I do, or more\"",
-      "date": "Thu, 11 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says he discussed Iran deal with global leaders",
-      "link": "https://tass.com/world/2145741",
-      "description": "In particular, the US president spoke to the leaders of Israel, Qatar, the UAE, Saudi Arabia, Bahrain, and Kuwait",
       "date": "Thu, 11 Jun 2026",
       "source": "TASS",
       "region": "ru",
