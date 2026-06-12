@@ -1,15 +1,26 @@
 {
-  "updated": "2026-06-11 23:12 UTC",
+  "updated": "2026-06-12 02:29 UTC",
   "total": 15,
   "events": [
+    {
+      "date": "2026-06-12",
+      "dateDisplay": "Jun 12, 2026",
+      "title": "Iran football team trains in Mexico as World Cup campaign begins",
+      "link": "https://www.france24.com/en/sport/20260612-iran-football-team-trains-in-mexico-as-world-cup-campaign-begins",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-06-11",
       "dateDisplay": "Jun 11, 2026",
       "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
       "link": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
       "sources": [
-        "France 24",
-        "NPR News"
+        "NPR News",
+        "France 24"
       ],
       "sourceCount": 2,
       "type": "govt"
@@ -151,17 +162,6 @@
       "dateDisplay": "May 20, 2026",
       "title": "Hezbollah drone strike videos show evolving tactics against Israel",
       "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-17",
-      "dateDisplay": "May 17, 2026",
-      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-      "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
