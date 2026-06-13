@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-13 09:49 UTC",
-  "total": 35,
+  "updated": "2026-06-13 11:45 UTC",
+  "total": 40,
   "stories": [
+    {
+      "title": "Trump travels to France for the 52nd G7 Summit",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit",
+      "description": "President Trump heads to France for the G7 as the war in Iran continues to dominate global discussions.",
+      "date": "Sat, 13 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
       "link": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
@@ -15,7 +25,7 @@
     {
       "title": "U.S. and Iran peace deal within reach, Pakistan's prime minister says",
       "link": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
-      "description": "The U.S. and Iran appeared closer to reaching a peace deal on Friday, as a sequence a social media posts signaled progress. President Trump had previously been amping up his rhetoric against Iran.",
+      "description": "The U.S. and Iran appeared closer to reaching a peace deal on Friday, as a sequence of social media posts signaled progress. President Trump had previously been amping up his rhetoric against Iran.",
       "date": "Thu, 11 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -23,9 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
       "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "description": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+      "description": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
       "date": "Sat, 13 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -123,6 +133,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Albanian PM rallies support as Trump-linked resort row festers",
+      "link": "https://www.france24.com/en/video/20260613-albanian-pm-rallies-support-as-trump-linked-resort-row-festers",
+      "description": "As Albanian Prime Minister Edi Rama appeared at a rally of jubilant supporters on Friday in Tirana, thousands were already filling a nearby boulevard, repeating daily calls for his resignation.",
+      "date": "Sat, 13 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Three Indian sailors died in US strike off Oman",
+      "link": "https://www.france24.com/en/video/20260613-three-indian-sailors-died-in-us-strike-off-oman",
+      "description": "Three Indian sailors have died in a U.S. military operation to halt a tanker off Oman as part of Washington's efforts to blockade Iran-linked shipping, Indian authorities said on Thursday.",
+      "date": "Sat, 13 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran peace deal looms while new military action flares near Strait of Hormuz",
+      "link": "https://www.france24.com/en/video/20260613-iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz",
+      "description": "The United States and Iran signaled on Friday that an agreement ​to end their war was close, with a senior U.S. administration official saying both sides had agreed on a text and that Washington expects to sign an initial deal in the coming days.",
+      "date": "Sat, 13 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East war live: Lebanon reports new Israeli strikes in south after IDF warning",
       "link": "https://www.france24.com/en/middle-east/20260612-middle-east-live-iran-says-us-war-deal-could-be-signed-remotely-in-coming-days",
       "description": "Lebanese state media reported fresh Israeli strikes on the country's south on Saturday shortly after the Israeli army called on residents in 20 towns and villages, including many near Nabatieh city, to leave their homes. The US military said overnight it had “downed” several Iran...",
@@ -153,6 +193,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel attacks Lebanon despite being included in potential peace deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss",
+      "description": "Israel has continued to attack Lebanon, despite Iran saying it was included in a potential memorandum of understanding.",
+      "date": "Sat, 13 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
       "link": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
       "description": "US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.",
@@ -173,9 +223,9 @@
       "bias": "Medium"
     },
     {
-      "title": "One killed as Israel hits south Lebanon, issues forced displacement orders",
+      "title": "Five killed as Israel hits south Lebanon, issues forced displacement orders",
       "link": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
-      "description": "The Israeli military has ordered residents of 20 Lebanese towns and villages to leave their homes immediately.",
+      "description": "The Israeli military has threatened residents of 20 Lebanese towns and villages to leave their homes immediately.",
       "date": "Sat, 13 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,9 +303,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon reports Israeli strikes in south after evacuation warning",
-      "link": "https://www.thehindu.com/news/international/lebanon-reports-israeli-strikes-in-south-after-evacuation-warning/article71097122.ece",
-      "description": "Israeli airstrikes hit several areas covered by the warning, including the villages of Rihan and Sujud, located not far from Nabatieh",
+      "title": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
+      "link": "https://www.thehindu.com/news/international/iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-burial-set-for-july-9/article71097431.ece",
+      "description": "Khamenei, was ‌killed in ​Israeli and U.S. strikes ⁠on Iran in February",
       "date": "Sat, 13 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -263,9 +313,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Lebanon reports Israeli strikes in south after evacuation warning",
+      "title": "West Asia war LIVE: Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
       "link": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-usa-iran-ceasefire-israel-lebanon-attacks-strait-of-hormuz-june-13-2026/article71096410.ece",
       "description": "U.S. says downed multiple Iranian drones; Trump accuses Iran of attacking Indian ships and Tehran rejects charge as ‘baseless’",
+      "date": "Sat, 13 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Lebanon reports Israeli strikes in south after evacuation warning",
+      "link": "https://www.thehindu.com/news/international/lebanon-reports-israeli-strikes-in-south-after-evacuation-warning/article71097122.ece",
+      "description": "Israeli airstrikes hit several areas covered by the warning, including the villages of Rihan and Sujud, located not far from Nabatieh",
       "date": "Sat, 13 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -296,16 +356,6 @@
       "title": "​Strategic stalemate: On the U.S.-Iran conflict",
       "link": "https://www.thehindu.com/opinion/editorial/strategic-stalemate-on-the-us-iran-conflict/article71094036.ece",
       "description": "The U.S. should lift the blockade before asking Iran to open the Strait of Hormuz",
-      "date": "Sat, 13 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Donald Trump accuses Iran of attacking Indian ships; Tehran rejects charge as ‘baseless’",
-      "link": "https://www.thehindu.com/news/international/donald-trump-accuses-iran-of-attacking-indian-ships-tehran-rejects-charge-as-baseless/article71096477.ece",
-      "description": "Three vessels with Indian crew came under attack off the Oman coast this week. One of them resulted in the death of three Indian seafarers on June 10, 2026",
       "date": "Sat, 13 Jun 2026",
       "source": "The Hindu",
       "region": "me",
