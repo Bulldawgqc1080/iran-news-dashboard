@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-14 08:06 UTC",
-  "total": 42,
+  "updated": "2026-06-14 11:21 UTC",
+  "total": 41,
   "stories": [
+    {
+      "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
+      "link": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet",
+      "description": "Britain is investigating a sanctioned tanker that is suspected of being part of the Russian \"shadow fleet,\" shipping oil in violation of international sanctions over Moscow's war on Ukraine.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
       "link": "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal",
@@ -143,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran: US, ​Pakistani leaders predict Sunday signing of peace framework",
+      "link": "https://www.france24.com/en/video/20260614-iran-us-pakistani-leaders-predict-sunday-signing-of-peace-framework",
+      "description": "U.S. and Pakistani leaders forecast a Sunday signing of a long-elusive framework agreement to end months of fighting between the United States and Iran, but Tehran cast doubt over the timing and hardline protesters in Iran voiced opposition.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "World Cup 2026: Australia stun Turkey after selection gamble pays off",
       "link": "https://www.france24.com/en/sport/20260614-world-cup-2026-australia-stun-turkey-after-selection-gamble-pays-off",
       "description": "Australia defeated Turkey 2-0 on Saturday at Vancouver's BC Place Stadium thanks to a goal in each half by Nestory Irankunda and Connor Metcalfe.",
@@ -163,44 +183,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon reports Israeli strikes in south and east amid broad evacuation warnings",
-      "link": "https://www.france24.com/en/middle-east/20260613-lebanon-reports-israeli-strikes-in-south-and-east-amid-broad-evacuation-warnings",
-      "description": "The Israeli army on Saturday issued evacuation warnings for the southern city of Nabatieh and more than 20 other locations across Lebanon as strikes were reported in the country's south and east. The latest strikes came as the US and Iran indicated they were close to reaching a d...",
-      "date": "Sat, 13 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Israel accuses Hezbollah of ceasefire violation, issues displacement orders",
+      "link": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
+      "description": "Israel warns of attacks as Iran insists Lebanon must be included in any peace deal with the United States.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran: Will a peace deal with the US be reached soon?",
-      "link": "https://www.france24.com/en/video/20260613-iran-will-a-peace-deal-with-the-us-be-reached-soon",
-      "description": "Pakistani Prime Minister Shehbaz Sharif said a deal aimed at ending the war was closer than \"ever before\" and expected to be finalized within 24 hours. Pakistan was preparing for the electronic signing of the agreement, to be followed immediately by technical-level talks next wee...",
-      "date": "Sat, 13 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
-      "link": "https://www.france24.com/en/video/20260613-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-warnings",
-      "description": "Lebanon reported Israeli strikes on the country's south on Saturday as the Israeli army issued evacuation warnings for more than 20 locations including the city of Nabatieh ahead of raids there. Our correspondent Renée Davis tells us more.",
-      "date": "Sat, 13 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US-Iran peace agreement: A reason to be optimistic?",
-      "link": "https://www.france24.com/en/video/20260613-us-iran-peace-agreement-a-reason-to-be-optimistic",
-      "description": "The United States and Iran are close to signing an agreement aimed at ending their war, three regional officials told The Associated Press on Friday. A senior U.S. official said the tentative deal includes terms for removing and destroying nuclear material from Iran. France 24's ...",
-      "date": "Sat, 13 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
+      "link": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
+      "description": "US says a deal to stop the war on Iran could be signed as early as Sunday. Tehran, however, disputes the timeline.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Signing of US-Iran deal not on Trump’s public schedule",
@@ -243,20 +243,10 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
+      "title": "Iran war live: Trump says deal to be signed today; Israel hits south Beirut",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
       "description": "US and Iran appear close to signing the first stage of a peace deal, the two sides differ on when it will be signed.",
       "date": "Sun, 14 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss",
-      "description": "Explosions shook southern Lebanon on Saturday as Israel continued its attacks.",
-      "date": "Sat, 13 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -323,7 +313,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Trump says U.S.-Iran deal to be signed today, Hormuz to open afterward",
+      "title": "West Asia war LIVE: Iran media says Tehran 'not yet' taken final decision on U.S. peace deal",
       "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-ceasefire-peace-deal-donald-trump-mojtaba-khamenei-benjamin-netanyahu-june-14-2026/article71100124.ece",
       "description": "U.S. and Iran have released conflicting information about the contents of the deal, as each seeks to show it emerged from the war with the upper hand",
       "date": "Sun, 14 Jun 2026",
@@ -383,6 +373,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Qatari negotiators arrive in Tehran to finalize agreement that ends US-Iran conflict",
+      "link": "https://tass.com/world/2146177",
+      "description": "The agreement to end the conflict, which has been raging for more than three months, can be signed as early as Sunday, according to Reuters",
+      "date": "Sun, 14 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Representatives of United States and Iran may meet in Switzerland next week — TV",
       "link": "https://tass.com/world/2146109",
       "description": "Pakistani Foreign Minister Ishaq Dar plans to travel to Switzerland soon to prepare for the meeting, whose agenda is not specified",
@@ -406,16 +406,6 @@
       "title": "US-Iran peace deal signing, opening of Strait of Hormuz planned for June 14 — Trump",
       "link": "https://tass.com/world/2146087",
       "description": "After that the Strait of Hormuz will be fully unblocked, said US President",
-      "date": "Sat, 13 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Number of victims of Israeli strikes on Lebanon increases to 3,756 — Health Ministry",
-      "link": "https://tass.com/world/2146095",
-      "description": "The Israeli Air Force has killed 45 people and injured 149 in the last 48 hours, the ministry said",
       "date": "Sat, 13 Jun 2026",
       "source": "TASS",
       "region": "ru",
