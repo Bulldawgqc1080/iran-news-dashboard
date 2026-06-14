@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14 15:40 UTC",
-  "total": 44,
+  "updated": "2026-06-14 17:07 UTC",
+  "total": 43,
   "stories": [
     {
       "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
@@ -153,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump vows Mideast deal is on, calls for no more attacks",
+      "link": "https://www.france24.com/en/video/20260614-trump-vows-mideast-deal-is-on-calls-for-no-more-attacks",
+      "description": "US President Donald Trump on Sunday said Israeli strikes on Beirut \"should not have happened\" as he vowed a regional peace deal was at hand, though he did not confirm his earlier claim it would be signed during the day. France 24's Noga Tarnopolsky tells us more.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Beirut strikes: 'No point' in talks if US cannot uphold 'commitments'",
       "link": "https://www.france24.com/en/video/20260614-beirut-strikes-no-point-in-talks-if-us-cannot-uphold-commitments",
       "description": "Iranian chief negotiator Mohammad Bagher Ghalibaf said on Sunday there was \"no point\" in continuing peace talks with the United States after its ally Israel attacked Beirut's southern suburbs.",
@@ -193,19 +203,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Iran questions US willingness to fulfill commitments after Israel attack on Beirut",
-      "link": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
-      "description": "Iran’s ⁠top ​negotiator on Sunday questioned the United States willingness to fulfill its commitments after Israel ​attacked ⁠Beirut’s southern suburbs. In a post on X, Baqer Qalibaf referred to the ongoing peace negotiations between Tehran and Washington and warned that “if you ...",
+      "title": "Al Jazeera reports from Israeli attack site in southern Beirut",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
+      "description": "Al Jazeera reports from the site of an Israeli attack on a residential building in southern Beirut.",
       "date": "Sun, 14 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump condemns Israel attack on Beirut, says Iran deal still close",
+      "title": "Analyst says what attacks on Lebanon could mean for potential US-Iran deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal?traffic_source=rss",
+      "description": "Israeli affairs analyst Dan Perry explains how the US, Israel and Iran may react as they get closer to an agreement.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump condemns Israel’s attack on Beirut, says Iran deal still close",
       "link": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
-      "description": "Trump says there should be &#039;no more attacks&#039; by Israel or Hezbollah on &#039;special day&#039; when deal could be signed.",
+      "description": "Donald Trump says there should be &#039;no more attacks&#039; by Israel or Hezbollah on &#039;special day&#039; when deal could be signed.",
       "date": "Sun, 14 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -246,36 +266,6 @@
       "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
       "link": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
       "description": "US says a deal to stop the war on Iran could be signed as early as Sunday. Tehran, however, disputes the timeline.",
-      "date": "Sun, 14 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Signing of US-Iran deal not on Trump’s public schedule",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss",
-      "description": "Signing of US-Iran deal not on Trump’s public schedule.",
-      "date": "Sun, 14 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
-      "link": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
-      "description": "Trump says a deal to stop the Iran war could be signed as early as Sunday, but Tehran downplays his optimism.",
-      "date": "Sun, 14 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
-      "link": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss",
-      "description": "Australia secure win in Group D courtesy of goals from Nestory Irankunda and Connor Metcalfe.",
       "date": "Sun, 14 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -343,9 +333,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran says draft U.S. deal includes oil sanctions waiver, nuclear limits and asset release",
+      "title": "Obama says Trump Iran deal will not improve on his pact",
+      "link": "https://www.thehindu.com/news/international/obama-says-trump-iran-deal-will-not-improve-on-his-pact/article71101992.ece",
+      "description": "Obama said his own deal \"had worked for a long stretch of time before... the United States pulled out of it.\"",
+      "date": "Sun, 14 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: 'No point' in peace talks if U.S. fails to uphold commitments, says Iran chief negotiator",
       "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-ceasefire-peace-deal-donald-trump-mojtaba-khamenei-benjamin-netanyahu-june-14-2026/article71100124.ece",
-      "description": "Iran media says Tehran 'not yet' taken final decision on U.S. peace deal; U.S. and Iran have released conflicting information about the contents of the deal, as each seeks to show it emerged from the war with the upper hand",
+      "description": "Iran says draft U.S. deal includes oil sanctions waiver, nuclear limits and asset release; Iran media says Tehran 'not yet' taken final decision on U.S. peace deal",
       "date": "Sun, 14 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -387,16 +387,6 @@
       "link": "https://www.thehindu.com/news/international/pakistan-pm-shehbaz-says-final-text-of-us-iran-peace-deal-agreed-upon/article71096649.ece",
       "description": "Iran says signing of agreement “in coming days could not be ruled out”, though it cautions that no date has been set",
       "date": "Sun, 14 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Will not allow illegal oil shipments from Iran, U.S. tells India",
-      "link": "https://www.thehindu.com/news/international/violations-of-us-blockade-in-strait-of-hormuz-will-not-be-tolerated-rubio-tells-jaishankar/article71098045.ece",
-      "description": "U.S. Secretary of State Rubio’s warning came during discussions with Minister Jaishankar; three Indian sailors were killed recently in U.S. attacks; Rubio says ships should follow U.S. instructions",
-      "date": "Sat, 13 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
