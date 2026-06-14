@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14 17:07 UTC",
-  "total": 43,
+  "updated": "2026-06-14 19:06 UTC",
+  "total": 42,
   "stories": [
     {
       "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
@@ -13,9 +13,9 @@
       "bias": "Low"
     },
     {
-      "title": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
+      "title": "Trump condemns Israeli strike in Beirut, warning attacks threaten deal on U.S-Iran war",
       "link": "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal",
-      "description": "Pakistan's prime minister, a key mediator in U.S.-Iran talks to end the war, said Saturday that a peace deal was closer \"than ever before,\" and could be finalized \"in the next 24 hours.\"",
+      "description": "Trump said Israel's attack on Beirut Sunday \"should not have happened,\" but maintained that the U.S. was still \"very close to a Deal\" to end the war with Iran.",
       "date": "Sun, 14 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -53,9 +53,9 @@
       "bias": "Low"
     },
     {
-      "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+      "title": "Israeli military says Hezbollah targets struck in Beirut",
       "link": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-      "description": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+      "description": "Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
       "date": "Sun, 14 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -183,24 +183,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran: US, ​Pakistani leaders predict Sunday signing of peace framework",
-      "link": "https://www.france24.com/en/video/20260614-iran-us-pakistani-leaders-predict-sunday-signing-of-peace-framework",
-      "description": "U.S. and Pakistani leaders forecast a Sunday signing of a long-elusive framework agreement to end months of fighting between the United States and Iran, but Tehran cast doubt over the timing and hardline protesters in Iran voiced opposition.",
+      "title": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
+      "description": "Trump has commented on Truth Social, condemning Israeli attacks on Beirut as the cease fire is to be extended.",
       "date": "Sun, 14 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "World Cup 2026: Australia stun Turkey after selection gamble pays off",
-      "link": "https://www.france24.com/en/sport/20260614-world-cup-2026-australia-stun-turkey-after-selection-gamble-pays-off",
-      "description": "Australia defeated Turkey 2-0 on Saturday at Vancouver's BC Place Stadium thanks to a goal in each half by Nestory Irankunda and Connor Metcalfe.",
-      "date": "Sun, 14 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Al Jazeera reports from Israeli attack site in southern Beirut",
@@ -333,6 +323,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal",
+      "link": "https://www.thehindu.com/news/international/trump-warns-israel-and-iran-not-to-blow-it-after-new-strikes-threaten-emerging-ceasefire-deal/article71102137.ece",
+      "description": "Trump, who had said the deal could be signed on Sunday (June 14, 2026), has pressed Israeli Prime Minister Benjamin Netanyahu to stop hitting Lebanon hard while a deal is near, but the prime minister has defied him",
+      "date": "Sun, 14 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Obama says Trump Iran deal will not improve on his pact",
       "link": "https://www.thehindu.com/news/international/obama-says-trump-iran-deal-will-not-improve-on-his-pact/article71101992.ece",
       "description": "Obama said his own deal \"had worked for a long stretch of time before... the United States pulled out of it.\"",
@@ -383,14 +383,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says Iran deal to be signed on Sunday; Tehran sets no timeline",
-      "link": "https://www.thehindu.com/news/international/pakistan-pm-shehbaz-says-final-text-of-us-iran-peace-deal-agreed-upon/article71096649.ece",
-      "description": "Iran says signing of agreement “in coming days could not be ruled out”, though it cautions that no date has been set",
+      "title": "Israel should not have attacked Beirut ahead of US-Iran deal — Trump",
+      "link": "https://tass.com/world/2146233",
+      "description": "Israel has the right to defend itself against threats, but the attack it was responding to was very small and meaningless, US President said",
       "date": "Sun, 14 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump calls on Israel, Hezbollah to stop attacks not to break down US-Iran deal",
+      "link": "https://tass.com/world/2146229",
+      "description": "We are very close to a Deal that will bring peace to the region, US President said",
+      "date": "Sun, 14 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US confident deal with Iran be signed on June 14 — US diplomat",
@@ -406,26 +416,6 @@
       "title": "Israel notifies US before striking Beirut — media",
       "link": "https://tass.com/world/2146213",
       "description": "This was reported by Axios and Israel's Channel 12 correspondent Barak Ravid, citing sources",
-      "date": "Sun, 14 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel’s new attacks on Lebanon may derail Iran-US talks — Iranian parliament speaker",
-      "link": "https://tass.com/world/2146209",
-      "description": "The Zionists' invasion of Dahieh proved once again that America lacks either the will to fulfill its commitments or the ability to do so, Iranian parliament speaker Mohammad Bagher Ghalibaf said",
-      "date": "Sun, 14 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Hezbollah commander killed in Israeli strike against Beirut — TV",
-      "link": "https://tass.com/world/2146205",
-      "description": "According to the Lebanese health ministry, four other people were wounded",
       "date": "Sun, 14 Jun 2026",
       "source": "TASS",
       "region": "ru",
