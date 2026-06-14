@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-14 03:25 UTC",
-  "total": 40,
+  "updated": "2026-06-14 08:06 UTC",
+  "total": 42,
   "stories": [
+    {
+      "title": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal",
+      "description": "Pakistan's prime minister, a key mediator in U.S.-Iran talks to end the war, said Saturday that a peace deal was closer \"than ever before,\" and could be finalized \"in the next 24 hours.\"",
+      "date": "Sun, 14 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
       "link": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
@@ -33,6 +43,16 @@
       "bias": "Low"
     },
     {
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president's comments come as Iran says an exact date has not been decided.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
       "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
       "description": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
@@ -43,29 +63,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US and Iran exchange strikes across Middle East for second day in a row",
-      "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-      "description": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
-      "date": "Thu, 11 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Israeli strikes in southern Lebanon kill 17, reports say",
       "link": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
       "description": "Nine of them were killed in a series of attacks in the town of Tayr Debba, according to Lebanon's state news agency.",
-      "date": "Wed, 10 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US strikes Iran in response to downing of military helicopter",
-      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "description": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
       "date": "Wed, 10 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -133,6 +133,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel strikes Beirut suburb days after US-brokered truce",
+      "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+      "description": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
+      "date": "Sun, 07 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "World Cup 2026: Australia stun Turkey after selection gamble pays off",
+      "link": "https://www.france24.com/en/sport/20260614-world-cup-2026-australia-stun-turkey-after-selection-gamble-pays-off",
+      "description": "Australia defeated Turkey 2-0 on Saturday at Vancouver's BC Place Stadium thanks to a goal in each half by Nestory Irankunda and Connor Metcalfe.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East war live: Trump says Iran deal to be signed Sunday",
+      "link": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
+      "description": "US and Pakistani leaders predicted a Sunday signing of an agreement to end the war against Iran, with US President Donald Trump saying the critical Strait of Hormuz would be \"open to all\" immediately after. Iranian foreign ministry spokesman Esmaeil Baghaei had said earlier on Sa...",
+      "date": "Sun, 14 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Lebanon reports Israeli strikes in south and east amid broad evacuation warnings",
       "link": "https://www.france24.com/en/middle-east/20260613-lebanon-reports-israeli-strikes-in-south-and-east-amid-broad-evacuation-warnings",
       "description": "The Israeli army on Saturday issued evacuation warnings for the southern city of Nabatieh and more than 20 other locations across Lebanon as strikes were reported in the country's south and east. The latest strikes came as the US and Iran indicated they were close to reaching a d...",
@@ -173,24 +203,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "🔴 Live : Iran says signing of Islamabad memorandum will not take place on Sunday",
-      "link": "https://www.france24.com/en/middle-east/20260612-middle-east-live-iran-says-us-war-deal-could-be-signed-remotely-in-coming-days",
-      "description": "",
-      "date": "Sat, 13 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Signing of US-Iran deal not on Trump’s public schedule",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss",
+      "description": "Signing of US-Iran deal not on Trump’s public schedule.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran peace deal: \"Lebanon is the one to chart its own path forward\"",
-      "link": "https://www.france24.com/en/video/20260613-iran-peace-deal-lebanon-is-the-one-to-chart-its-own-path-forward",
-      "description": "Pakistan's prime minister said on Friday that the United States and Iran had agreed on the wording of a deal aimed at ending their war in the Middle East, and that mediators were working with both sides to finalise an agreement. We discuss the developments with Lebanon's Social A...",
-      "date": "Sat, 13 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+      "link": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+      "description": "Trump says a deal to stop the Iran war could be signed as early as Sunday, but Tehran downplays his optimism.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
+      "link": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss",
+      "description": "Australia secure win in Group D courtesy of goals from Nestory Irankunda and Connor Metcalfe.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Why is the price of gold trending down?",
@@ -223,29 +263,29 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
-      "link": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss",
-      "description": "Both sides have indicated a deal to end the war is close, but have diverged on details and timeline for a breakthrough.",
-      "date": "Sat, 13 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US President Trump says US-Iran deal to be signed tomorrow",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss",
-      "description": "US President Donald Trump says a deal between Washington and Tehran will be signed on Sunday.",
-      "date": "Sat, 13 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Islamabad MoU nears finalisation as US, Iran clash on signing date",
       "link": "https://www.dawn.com/news/2007680/islamabad-mou-nears-finalisation-as-us-iran-clash-on-signing-date",
       "description": "• Shehbaz hopes deal will pave way for lasting peace, says Pakistan preparing for ‘electronic signing’• Trump claims signing scheduled for today; threatens Iran; official says Washington to take part in de-mining• Iran states deal close but rules out signing today; negotiators no...",
+      "date": "Sun, 14 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Five killed in air strikes as Israel flouts Lebanon ceasefire",
+      "link": "https://www.dawn.com/news/2007658/five-killed-in-air-strikes-as-israel-flouts-lebanon-ceasefire",
+      "description": "BEIRUT: Israeli air raids across southern Lebanon killed five people as attacks continued on Saturday despite a United States-brokered ceasefire. Lebanon’s National News Agency (NNA) reported that one person was killed in an air strike targeting the town of Maarakeh, in the Tyre ...",
+      "date": "Sun, 14 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Khamenei’s funeral to begin on July 4",
+      "link": "https://www.dawn.com/news/2007655/khameneis-funeral-to-begin-on-july-4",
+      "description": "DUBAI: The funeral for Iran’s late Supreme Leader Ayatollah Ali Khamenei will begin in Tehran on July 4 and conclude with his burial in his hometown, the northeastern holy city of Mashhad, on July 9, state media reported on Saturday. Khamenei was killed on the first day of Israel...",
       "date": "Sun, 14 Jun 2026",
       "source": "Dawn",
       "region": "me",
@@ -283,29 +323,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Any attempt to block water will have 'far-reaching consequences', warns FO after Indian minister's remarks",
-      "link": "https://www.dawn.com/news/2006857/any-attempt-to-block-water-will-have-far-reaching-consequences-warns-fo-after-indian-ministers-remarks",
-      "description": "The Foreign Office on Thursday warned that any deliberate attempt to block water essential to Pakistan’s survival and development would have “far-reaching consequences”. “Any such act would be treated with utmost seriousness and could possibly amount to an act of war under Articl...",
-      "date": "Thu, 11 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "IAEA asks Iran to ‘declare enriched uranium stocks’",
-      "link": "https://www.dawn.com/news/2006783/iaea-asks-iran-to-declare-enriched-uranium-stocks",
-      "description": "VIENNA: The UN nuclear watchdog’s 35-nation Board of Governors passed a US-backed resolution on Wednesday telling Iran to declare its remaining enriched uranium stocks and let inspectors verify them, which could complicate Washington’s talks with Tehran. The move came within hour...",
-      "date": "Thu, 11 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "West Asia war LIVE: Trump says U.S.-Iran deal to be signed today, Hormuz to open afterward",
       "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-ceasefire-peace-deal-donald-trump-mojtaba-khamenei-benjamin-netanyahu-june-14-2026/article71100124.ece",
       "description": "U.S. and Iran have released conflicting information about the contents of the deal, as each seeks to show it emerged from the war with the upper hand",
+      "date": "Sun, 14 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war highlights: Trump says U.S.-Iran deal to be signed Sunday",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-usa-iran-ceasefire-israel-lebanon-attacks-strait-of-hormuz-june-13-2026/article71096410.ece",
+      "description": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
       "date": "Sun, 14 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -317,16 +347,6 @@
       "link": "https://www.thehindu.com/news/international/pakistan-pm-shehbaz-says-final-text-of-us-iran-peace-deal-agreed-upon/article71096649.ece",
       "description": "Iran says signing of agreement “in coming days could not be ruled out”, though it cautions that no date has been set",
       "date": "Sun, 14 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war highlights: Trump says U.S.-Iran deal to be signed Sunday",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-usa-iran-ceasefire-israel-lebanon-attacks-strait-of-hormuz-june-13-2026/article71096410.ece",
-      "description": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
-      "date": "Sat, 13 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
