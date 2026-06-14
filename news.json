@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-14 20:58 UTC",
+  "updated": "2026-06-14 22:06 UTC",
   "total": 40,
   "stories": [
+    {
+      "title": "As Iranians wait for a peace agreement, their economy is fraying",
+      "link": "https://www.npr.org/2026/06/14/nx-s1-5854607/as-iranians-wait-for-a-peace-agreement-their-economy-is-fraying",
+      "description": "Many Iranians say they can no longer afford the lives they once had. Writer and historian Arash Azizi talks with NPR's Adrian Florido about the economic pressures reshaping daily life.",
+      "date": "Sun, 14 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
       "link": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet",
@@ -37,16 +47,6 @@
       "link": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit",
       "description": "President Trump heads to France for the G7 as the war in Iran continues to dominate global discussions.",
       "date": "Sat, 13 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
-      "link": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
-      "description": "Trump canceled new Iran strikes and signaled that a peace deal could come soon, but Iran says it hasn't been finalized. And, the U.S. men's soccer team plays its first 2026 World Cup match today.",
-      "date": "Fri, 12 Jun 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -153,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Pakistan's prime minister says US and Iran have reached ceasefire deal",
+      "link": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
+      "description": "",
+      "date": "Sun, 14 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran’s World Cup team arrive in United States",
       "link": "https://www.france24.com/en/sport/20260614-iran-world-cup-team-arrive-united-states-los-angeles-warusa",
       "description": "Iran’s World Cup team touched down on American soil on Sunday, arriving at Los Angeles International Airport after a short flight from their base camp in Mexico. This is the first time in the cup’s nearly 100-year history that a host nation receives a country it is at war with.",
@@ -233,16 +243,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump condemns Israel’s attack on Beirut as Iran says US responsible",
-      "link": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
-      "description": "Trump calls for no more attacks, says deal to end war still close, as Iranian officials vow strong response.",
-      "date": "Sun, 14 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "UK intercepts Russian shadow fleet vessel in Channel: defence ministry",
       "link": "https://www.dawn.com/news/2007796/uk-intercepts-russian-shadow-fleet-vessel-in-channel-defence-ministry",
       "description": "British forces on Sunday intercepted a sanctioned oil tanker belonging to Russia’s shadow fleet in the English Channel, the defence ministry said, in a six-hour operation hailed by Kyiv. Navy commandos boarded the ship under cover of darkness by fast-roping from a helicopter in t...",
@@ -303,6 +303,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S., Iran reach peace deal, signing set for Friday, Pakistan says",
+      "link": "https://www.thehindu.com/news/international/us-iran-reach-peace-deal-signing-set-for-friday-pakistan-says/article71102525.ece",
+      "description": "Trump said on Sunday that a peace deal with Iran is “now complete,” announcing the Strait of Hormuz is open and the United States will lift its naval blockade",
+      "date": "Sun, 14 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "West Asia war LIVE: Israel strikes in Beirut delays U.S.-Iran peace deal by few hours, say reports",
       "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-ceasefire-peace-deal-donald-trump-mojtaba-khamenei-benjamin-netanyahu-june-14-2026/article71100124.ece",
       "description": "Iran says draft U.S. deal includes oil sanctions waiver, nuclear limits and asset release; Iran media says Tehran 'not yet' taken final decision on U.S. peace deal",
@@ -346,16 +356,6 @@
       "title": "Iran says draft U.S. deal includes oil sanctions waiver, nuclear limits and asset release",
       "link": "https://www.thehindu.com/news/international/iran-says-draft-us-deal-includes-oil-sanctions-waiver-nuclear-limits-and-asset-release/article71101083.ece",
       "description": "Iran and the U.S. draft a deal easing sanctions and addressing nuclear issues within 60 days.",
-      "date": "Sun, 14 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war highlights: Trump says U.S.-Iran deal to be signed Sunday",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-usa-iran-ceasefire-israel-lebanon-attacks-strait-of-hormuz-june-13-2026/article71096410.ece",
-      "description": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
       "date": "Sun, 14 Jun 2026",
       "source": "The Hindu",
       "region": "me",
