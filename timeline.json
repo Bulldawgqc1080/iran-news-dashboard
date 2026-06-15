@@ -1,15 +1,26 @@
 {
-  "updated": "2026-06-15 00:00 UTC",
+  "updated": "2026-06-15 04:44 UTC",
   "total": 15,
   "events": [
+    {
+      "date": "2026-06-15",
+      "dateDisplay": "Jun 15, 2026",
+      "title": "Crude oil futures drop after Trump promises an Iran deal will be signed Friday",
+      "link": "https://www.npr.org/2026/06/14/nx-s1-5858115/oil-prices-trump-iran-deal",
+      "sources": [
+        "NPR News"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-06-14",
       "dateDisplay": "Jun 14, 2026",
       "title": "The U.S. and Iran announce a deal to end the war",
       "link": "https://www.npr.org/2026/06/14/nx-s1-5858099/us-iran-trump-deal-end-war-hormuz",
       "sources": [
-        "NPR News",
-        "France 24"
+        "France 24",
+        "NPR News"
       ],
       "sourceCount": 2,
       "type": "govt"
@@ -151,17 +162,6 @@
       "dateDisplay": "May 23, 2026",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
       "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-20",
-      "dateDisplay": "May 20, 2026",
-      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
-      "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
