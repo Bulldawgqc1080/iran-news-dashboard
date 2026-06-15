@@ -1,37 +1,37 @@
 {
-  "updated": "2026-06-15 04:44 UTC",
+  "updated": "2026-06-15 10:49 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-06-15",
       "dateDisplay": "Jun 15, 2026",
-      "title": "Crude oil futures drop after Trump promises an Iran deal will be signed Friday",
-      "link": "https://www.npr.org/2026/06/14/nx-s1-5858115/oil-prices-trump-iran-deal",
+      "title": "Trump says deal has been reached to end the war with Iran",
+      "link": "https://www.npr.org/2026/06/15/nx-s1-5857654/trump-says-deal-has-been-reached-to-end-the-war-with-iran",
       "sources": [
-        "NPR News"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-06-14",
-      "dateDisplay": "Jun 14, 2026",
-      "title": "The U.S. and Iran announce a deal to end the war",
-      "link": "https://www.npr.org/2026/06/14/nx-s1-5858099/us-iran-trump-deal-end-war-hormuz",
-      "sources": [
-        "France 24",
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
     },
     {
+      "date": "2026-06-14",
+      "dateDisplay": "Jun 14, 2026",
+      "title": "Israeli military says Hezbollah targets struck in Beirut",
+      "link": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
       "date": "2026-06-13",
       "dateDisplay": "Jun 13, 2026",
-      "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
-      "link": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
@@ -50,8 +50,8 @@
     {
       "date": "2026-06-09",
       "dateDisplay": "Jun 09, 2026",
-      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
-      "link": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
@@ -70,32 +70,10 @@
       "type": "framing"
     },
     {
-      "date": "2026-06-07",
-      "dateDisplay": "Jun 07, 2026",
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-06-06",
-      "dateDisplay": "Jun 06, 2026",
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
       "date": "2026-06-04",
       "dateDisplay": "Jun 04, 2026",
-      "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
-      "link": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
+      "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
@@ -162,6 +140,28 @@
       "dateDisplay": "May 23, 2026",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
       "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-05-20",
+      "dateDisplay": "May 20, 2026",
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-05-17",
+      "dateDisplay": "May 17, 2026",
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
