@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-15 20:20 UTC",
-  "total": 43,
+  "updated": "2026-06-15 22:54 UTC",
+  "total": 46,
   "stories": [
+    {
+      "title": "U.S. and Iran reach an agreement, but details remain scant",
+      "link": "https://www.npr.org/2026/06/15/nx-s1-5858868/u-s-and-iran-reach-an-agreement-but-details-remain-scant",
+      "description": "President Trump says a deal had been reached to prolong a ceasefire with Iran and open the Strait of Hormuz, but many challenges remain.",
+      "date": "Mon, 15 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Crude oil is cheaper as markets embrace news of a U.S.-Iran deal",
+      "link": "https://www.npr.org/2026/06/15/nx-s1-5858100/crude-oil-is-cheaper-as-markets-embrace-news-of-a-u-s-iran-deal",
+      "description": "Crude oil prices are falling as oil markets react to President Trump saying the U.S. and Iran have agreed on a framework for reopening the Strait of Hormuz.",
+      "date": "Mon, 15 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Lead negotiator on 2015 Iran nuclear deal weighs in on what's next for Trump's deal",
+      "link": "https://www.npr.org/2026/06/15/nx-s1-5858933/lead-negotiator-on-2015-iran-nuclear-deal-weighs-in-on-whats-next-for-trumps-deal",
+      "description": "NPR's Ailsa Chang talks with Wendy Sherman, the lead U.S. negotiator on the 2015 Iran nuclear agreement, about the road ahead for U.S. negotiators aiming to strike a new deal to end the Iran war.",
+      "date": "Mon, 15 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump announces deal to end war in Iran. And, how to stay safe in deadly heat",
       "link": "https://www.npr.org/2026/06/15/g-s1-128145/up-first-newsletter-iran-war-g7-summit-ufc-fight",
@@ -16,16 +46,6 @@
       "title": "U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz",
       "link": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
       "description": "The deal is a major breakthrough in the conflict that set the Middle East aflame and shook the global economy. However, it did not resolve critical issues set aside for further negotiations.",
-      "date": "Mon, 15 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump celebrates 80th birthday with Iran deal and UFC fights at the White House",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5858610/trump-birthday-ufc-white-house",
-      "description": "President Donald Trump marked his 80th birthday on Sunday by hailing an initial agreement to end the war in Iran and staging a cage-fighting show on the White House's storied South Lawn.",
       "date": "Mon, 15 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war 'has been a strategic disaster for the State of Israel', analyst says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260615-iran-war-has-been-a-strategic-disaster-for-the-state-of-israel-analyst-says",
+      "description": "Israeli Prime Minister Benjamin Netanyahu is on a collision course with Donald Trump as the U.S. president seeks to extricate himself from the war, with both men's goals unmet and Israeli military operations tied down in Lebanon. Speaking with FRANCE 24's Sharon Gaffney, Aaron Da...",
+      "date": "Mon, 15 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran deal: Trump is back to square one, but the cards are now in Tehran’s favor",
       "link": "https://www.france24.com/en/middle-east/20260615-iran-deal-trump-back-square-one-but-the-cards-now-tehran-favour",
       "description": "The signing of the Islamabad Memorandum of Understanding (MoU) between the US and Iran on Monday has been welcomed by the international community after a devastating three-month war. The agreement was announced on June 14, President Donald Trump’s birthday, but the biggest benefi...",
@@ -203,14 +233,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Confusion in Lebanon over US-Iran deal",
-      "link": "https://www.france24.com/en/video/20260615-confusion-in-lebanon-over-us-iran-deal",
-      "description": "Fighting in southern Lebanon abated on Monday after the announcement of a US-Iran deal to end the wider conflict, but local authorities warned displaced people not to rush home and Israel said it would not withdraw its troops from the area amid confusion over exactly what the ter...",
+      "title": "Journalist hit by Israeli strike while reporting in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
+      "description": "A journalist for Press TV has been hit by shrapnel while filming a report on Israeli attacks in southern Lebanon.",
       "date": "Mon, 15 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran vs New Zealand live: World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss",
+      "description": "Follow our live build-up, protest news, score, team sheets, score, photos and text commentary stream from Los Angeles.",
+      "date": "Mon, 15 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump touts Iran deal and Ukraine ambition as he arrives at G7",
+      "link": "https://www.aljazeera.com/news/2026/6/15/trump-touts-iran-deal-and-ukraine-ambition-as-he-arrives-at-g7?traffic_source=rss",
+      "description": "Amid G7 tensions, Trump says Iran agreement is a step towards peace in the Middle East and beyond.",
+      "date": "Mon, 15 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Netanyahu says Israel won’t leave occupied land in Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss",
+      "description": "Israel&#039;s occupation of territory in Lebanon and Syria will continue, PM Netanyahu said, despite US deal with Iran.",
+      "date": "Mon, 15 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What Israeli leaders are saying about US-Iran ‘peace deal’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/what-israeli-leaders-are-saying-about-us-iran-peace?traffic_source=rss",
+      "description": "Israel’s political leaders, including Itamar Ben-Gvir and Bezalel Smotrich, have reacted to the US-Iran agreement.",
+      "date": "Mon, 15 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir",
@@ -226,46 +296,6 @@
       "title": "As deal is agreed with US, not all in Iran are convinced that peace is here",
       "link": "https://www.aljazeera.com/economy/2026/6/15/as-deal-is-agreed-with-us-not-all-in-iran-are-convinced-that-peace-is-here?traffic_source=rss",
       "description": "Iranians are sceptical that a US-Iran agreement will end their hardships.",
-      "date": "Mon, 15 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Mass return to southern Lebanon following US-Iran agreement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/mass-return-to-southern-lebanon-following-us-iran-agreement?traffic_source=rss",
-      "description": "Mass return to southern Lebanon following US-Iran agreement",
-      "date": "Mon, 15 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran vs New Zealand: World Cup team news, start, lineups and where to watch",
-      "link": "https://www.aljazeera.com/sports/2026/6/15/iran-vs-new-zealand-world-cup-team-news-start-lineups-and-where-to-watch?traffic_source=rss",
-      "description": "After uncertainty over their participation and a disrupted build-up, Iran are set to begin their World Cup campaign.",
-      "date": "Mon, 15 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says Iran deal ‘all signed’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss",
-      "description": "US President Donald Trump has said the agreement with Iran is &#039;all signed&#039;.",
-      "date": "Mon, 15 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Lebanon Latest: Cautious optimism after ceasefire deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-aje_onl_lebanon_wrap-150626?traffic_source=rss",
-      "description": "Relief and cautious optimism in southern Lebanon as a US-Iran ceasefire takes hold.",
       "date": "Mon, 15 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -393,39 +423,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US-Iran memorandum general in nature — JD Vance",
+      "link": "https://tass.com/world/2146887",
+      "description": "The US vice president says that the details of the agreement will be worked out during technical negotiations",
+      "date": "Mon, 15 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Conflict around Strait of Hormuz to be resolved this year — Belarusian leader",
+      "link": "https://tass.com/world/2146873",
+      "description": "According to Alexander Lukashenko, there are objective reasons that compel the US to stop its military pressure on Iran",
+      "date": "Mon, 15 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Lukashenko says conflict with Iran is US’ ‘fatal mistake’",
+      "link": "https://tass.com/world/2146869",
+      "description": "When asked whether the US acted on its own or was pushed into this by an ally, the Belarusian president said the Americans could not have made such a decision if they hadn’t wanted that",
+      "date": "Mon, 15 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Israel will not let Iran get nuclear weapons regardless of deal with US — Netanyahu",
       "link": "https://tass.com/world/2146863",
       "description": "The prime minister added that Israel was saved from the threat of nuclear destruction",
-      "date": "Mon, 15 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Belarusian president says countries of the world should get rid of their nuke arsenals",
-      "link": "https://tass.com/world/2146851",
-      "description": "During the interview Alexander Lukashenko was asked whether the US-Israeli attack on Iran under the pretext of trying to prevent Tehran from obtaining nuclear weapons could spur other countries to secretly pursue nuclear weapons programs to defend themselves against such attacks",
-      "date": "Mon, 15 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Now that deal with Iran is done, US to focus on Ukraine — Trump",
-      "link": "https://tass.com/world/2146843",
-      "description": "The US president confirmed plans to discuss the Ukrainian peace process at a joint news conference with French President Emmanuel Macron on the sidelines of the G7 summit",
-      "date": "Mon, 15 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Strait of Hormuz demining may take up to 50 days — agency",
-      "link": "https://tass.com/world/2146831",
-      "description": "According to the sources, only after the strait is cleared of mines will insurers, shipping operators and oil companies consider the waters there safe for navigation",
       "date": "Mon, 15 Jun 2026",
       "source": "TASS",
       "region": "ru",
