@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-17 10:51 UTC",
-  "total": 41,
+  "updated": "2026-06-17 14:22 UTC",
+  "total": 45,
   "stories": [
+    {
+      "title": "Trump to face questions at G7 press conference. And, Tuesday's primary results",
+      "link": "https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries",
+      "description": "Trump has touted his tentative agreement with Iran at the G7 summit. Today, he is expected to field questions at a press conference as the summit wraps up. And, a look at Tuesday's primary election results.",
+      "date": "Wed, 17 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump's Iran agreement dominates G7 but big questions remain",
       "link": "https://www.npr.org/2026/06/17/nx-s1-5860782/trumps-iran-agreement-dominates-g7-but-big-questions-remain",
@@ -43,19 +53,19 @@
       "bias": "Low"
     },
     {
-      "title": "G7 allies scramble to put Ukraine back atop Trump's agenda as war drags on",
-      "link": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
-      "description": "U.S. allies at the Group of Seven summit are pushing the war in Ukraine back on President Donald Trump's agenda. The Iran conflict has recently overshadowed the war in Ukraine.",
-      "date": "Tue, 16 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
       "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
       "description": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+      "date": "Wed, 17 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "description": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
       "date": "Wed, 17 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -143,11 +153,51 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oil prices fall and shares jump after US-Iran deal announced",
-      "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-      "description": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
-      "date": "Mon, 15 Jun 2026",
-      "source": "BBC",
+      "title": "Trump doesn't rule out strikes on Iran despite agreement, looks to support Ukraine",
+      "link": "https://www.france24.com/en/video/20260617-trump-doesn-t-rule-out-strikes-on-iran-despite-agreement-looks-to-support-ukraine",
+      "description": "The G7 summit has focused on the future of AI, and the memorandum of understanding between the US and Iran. As it comes to a close, its French host is hailing it as the most successful summit in years. Among its successes is bringing Trump behind Ukraine, as he changes his postur...",
+      "date": "Wed, 17 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Despite agreement, G7 looks to decrease Strait of Hormuz reliance",
+      "link": "https://www.france24.com/en/despite-agreement-g7-looks-to-decrease-strait-of-hormuz-reliance",
+      "description": "A main topic of discussion among European leaders at the G7 summit has to do with decreasing the global reliance on the Strait of Hormuz. Iran’s success in shuttering the critical waterway has sparked fears that Tehran could use it as an ongoing bargaining chip if a ceasefire and...",
+      "date": "Wed, 17 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'End of an Era': Facing an increasingly adversarial US, Europe embraces proactive defence strategy",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260617-end-of-an-era-facing-an-increasingly-adversarial-us-europe-embraces-proactive-defence-strategy",
+      "description": "François Picard is pleased to welcome François Heisbourg, Chair of the International Institute for Strategic Studies. He argues that the apparent Iran-related \"peace deal\" announced by Donald Trump remains opaque, incomplete, and potentially unstable, with crucial details unresol...",
+      "date": "Wed, 17 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "FRANCE 24 Exclusive: what Strait of Hormuz locals think of the Iran-US deal",
+      "link": "https://www.france24.com/en/france-24-exclusive-what-strait-of-hormuz-locals-think-of-the-iran-us-deal",
+      "description": "Since the US-Israel strikes on Iran began on February 28th the Strait of Hormuz has effectively been blocked - a key strategy by Iran that upended global oil supplies and pressured its opponents. But what has it meant for the seafarers stranded there? Or those who call its island...",
+      "date": "Wed, 17 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "France looks to exchange its 'support to Iran deal with increased US support to Ukraine'",
+      "link": "https://www.france24.com/en/france-looks-to-exchange-its-support-to-iran-deal-with-increased-us-support-to-ukraine",
+      "description": "France is launching a charm operation on the US. Macron is hoping to get increased support to Ukraine and bring back US sanctions on Russia and Putin, with France hoping to seal the deal during a dinner in the sumptuous palace of Versailles on June 17. FRANCE 24's Philip Turle te...",
+      "date": "Wed, 17 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -183,34 +233,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli strikes on Lebanon likely to continue 'until we get any clarity' on US-Iran agreement",
-      "link": "https://www.france24.com/en/israeli-strikes-on-lebanon-likely-to-continue-until-we-get-any-clarity-on-us-iran-agreement",
-      "description": "Israeli forces carried out airstrikes on several areas in south Lebanon on June 17 despite an agreement on a peace deal in the Middle East war that includes Lebanon. But the contents of the deal have yet to be revealed, although the US has confirmed Israel will not have to withdr...",
+      "title": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss",
+      "description": "US President Donald Trump has accused his predecessor Barack Obama of ‘bribing’ Iran to agree to the 2015 nuclear deal.",
       "date": "Wed, 17 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Middle East live: Details of US-Iran peace agreement begin to emerge",
-      "link": "https://www.france24.com/en/middle-east/20260617-middle-east-live-us-iran-memorandum-details-to-be-released-soon",
-      "description": "A $300 billion reconstruction fund financed by the Gulf states, waiving sanctions on Iranian oil and a 60-day ceasefire extension to discuss Iran’s nuclear programme are all reportedly part of the memorandum of understanding agreed upon by Washington and Tehran this week. Follow ...",
+      "title": "Israeli air strikes on Lebanon continue despite US-Iran deal",
+      "link": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss",
+      "description": "There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped.",
       "date": "Wed, 17 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Brazil Supreme Court convicts Bolsonaro's son for courting US help during coup trial",
-      "link": "https://www.france24.com/en/americas/20260617-brazil-supreme-court-eduardo-bolsonaro-over-us-sanctions-push",
-      "description": "Brazil's Supreme Court on Tuesday sentenced Eduardo Bolsonaro in absentia to four years and two months in prison for seeking US sanctions against Brazil during his father's coup trial. Prosecutors said he threatened judicial authorities by lobbying for sanctions if proceedings ag...",
+      "title": "China pledges new humanitarian aid packages for Lebanon and Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/china-pledges-new-humanitarian-aid-packages-for-lebanon-and-iran?traffic_source=rss",
+      "description": "China pledges new humanitarian aid packages for Lebanon and Iran.",
       "date": "Wed, 17 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iranian tankers exit US blockade zone before talks to end war",
@@ -236,16 +286,6 @@
       "title": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
       "link": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz?traffic_source=rss",
       "description": "Brent crude drops to lowest price since early March, before signing of framework deal to end US-Israel war on Iran.",
-      "date": "Wed, 17 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-      "link": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss",
-      "description": "Iran warns of a &#039;harsh response&#039; as Lebanon attacks test the US deal and strain Trump-Netanyahu ties.",
       "date": "Wed, 17 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -313,9 +353,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. President Donald Trump to wrap G7 summit facing skepticism at home, jitters overseas over his plan to end Iran war",
-      "link": "https://www.thehindu.com/news/international/us-president-donald-trump-to-wrap-g7-summit-facing-skepticism-at-home-jitters-overseas-over-his-plan-to-end-iran-war/article71112465.ece",
-      "description": "U.S. President Donald Trump is also expected to meet with Indian Prime Minister Narendra Modi at a choppy moment in the U.S.-India relationship",
+      "title": "West Asia LIVE: Opening Hormuz will be ‘massive step forward’, says NATO chief",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-peace-deal-israel-lebanon-strait-of-hormuz-live-updates-june-17-2026/article71111807.ece",
+      "description": "Donald ‌Trump issued a rare public rebuke of Israel's military tactics in ​Lebanon targeting Hezbollah militants",
       "date": "Wed, 17 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,9 +363,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia LIVE: Opening Hormuz will be ‘massive step forward’, says NATO chief",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-peace-deal-israel-lebanon-strait-of-hormuz-live-updates-june-17-2026/article71111807.ece",
-      "description": "Donald ‌Trump issued a rare public rebuke of Israel's military tactics in ​Lebanon targeting Hezbollah militants",
+      "title": "G7 leaders back Ukraine, plan greater pressure on Russia",
+      "link": "https://www.thehindu.com/news/international/g7-leaders-back-ukraine-plan-greater-pressure-on-russia/article71112849.ece",
+      "description": "The G7 leaders also welcomed the preliminary peace deal between ‌the ⁠United States and Iran, which Mr. Trump signed on the eve of the summit, and said they ⁠are ready to contribute to its implementation",
+      "date": "Wed, 17 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "The U.S.-Iran ‘peace deal’ confronts spoiler Israel",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-us-iran-peace-deal-confronts-spoiler-israel/article71110182.ece",
+      "description": "Lasting U.S.-Iran peace may depend on Tel Aviv’s willingness to adapt",
       "date": "Wed, 17 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -343,9 +393,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump celebrates 80th birthday with Iran deal and UFC cage fight at White House",
-      "link": "https://www.thehindu.com/news/international/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-at-white-house/article71103305.ece",
-      "description": "Donald Trump and UFC chief Dana White walked together from the Oval Office to the Blue Room Balcony to survey the Octagon and stood for the National Anthem as fighter jets thundered overhead. The crowd chanted “USA! USA!”",
+      "title": "A nation determined to endure and overcome",
+      "link": "https://www.thehindu.com/opinion/op-ed/a-nation-determined-to-endure-and-overcome/article71110593.ece",
+      "description": "In the 1970s, the U.S. actually encouraged Iran to develop nuclear power arguing that the country would eventually run out of oil",
       "date": "Wed, 17 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -353,9 +403,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "G7 Summit 2026 begins in Évian: Key leaders, dates, and venue details",
-      "link": "https://www.thehindu.com/news/international/g7-summit-2026-begins-in-evian-key-leaders-countries-dates-and-venue-details/article71104781.ece",
-      "description": "World leaders have convened at Évian-les-Bains, France, for the 52nd G7 Summit, amid heightened geopolitical tensions following a historic peace deal between the United States and Iran.",
+      "title": "Several Israeli strikes hit south Lebanon",
+      "link": "https://www.thehindu.com/news/international/several-israeli-strikes-hit-south-lebanon/article71112744.ece",
+      "description": "Lebanon's Health Ministry raised the death toll in Israeli attacks since the war broke out to 3826, as rescuers pull more bodies from the rubble",
       "date": "Wed, 17 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -363,19 +413,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Elon Musk's AI tool Grok was used in strikes against Iran, says U.S. government",
-      "link": "https://www.thehindu.com/sci-tech/technology/elon-musks-ai-tool-grok-was-used-in-strikes-against-iran-says-us-government/article71111925.ece",
-      "description": "At the end of February, the U.S. government terminated its contracts with Anthropic after it refused to allow its tools to be used for fully automated strikes or the mass surveillance of Americans",
-      "date": "Wed, 17 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran to gain 'unprecedented benefits' from memorandum with US — Israeli TV",
-      "link": "https://tass.com/world/2147671",
-      "description": "Regarding the release of Iranian funds, the memorandum stipulates that the United States undertakes to make frozen Iranian assets available for use after the implementation of the memorandum of understanding",
+      "title": "Bulgaria is against certain anti-Russian sanctions — Foreign Minister",
+      "link": "https://tass.com/world/2147801",
+      "description": "According to Velislava Petrova-Chamova, Sofia does not support sanctions that inflict damage to EU member-countries",
       "date": "Wed, 17 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -383,9 +423,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US-Iran deal includes creation of $300 bln private fund — Reuters",
-      "link": "https://tass.com/world/2147595",
-      "description": "According to the report, more than half of that amount already secured through investor commitments",
+      "title": "Lavrov reaffirms Iran support, Russia’s readiness to assist in conflict settlement",
+      "link": "https://tass.com/politics/2147775",
+      "description": "The Russian foreign minister expressed support for the understandings reached through the effective mediation efforts of Pakistan and Qatar aimed at de-escalating tensions in the region",
       "date": "Wed, 17 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -393,9 +433,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US discusses charging vessels for transit through Strait of Hormuz — Politico",
-      "link": "https://tass.com/world/2147511",
-      "description": "Around 500 vessels, including 220 oil tankers, remain in the Persian Gulf near the entrance to the Strait of Hormuz awaiting safe passage",
+      "title": "Russian Helicopters to supply 21 civilian helicopters to Iran",
+      "link": "https://tass.com/defense/2147773",
+      "description": "Iran is a long-standing partner of Rostec and Russian Helicopters, CEO of the holding Nikolay Kolesov said",
       "date": "Wed, 17 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -403,9 +443,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Japan bought about 364,000 barrels of Russian oil in May",
-      "link": "https://tass.com/economy/2147507",
-      "description": "The purchases concerned oil linked to gas supply contracts under the Sakhalin-2 project, which is exempt from anti-Russian sanctions",
+      "title": "Trump promises G7 concessions on Ukraine in exchange for help with Iran deal — Politico",
+      "link": "https://tass.com/world/2147737",
+      "description": "According to a diplomatic source, there are very high expectations that Donald Trump will support Ukraine",
       "date": "Wed, 17 Jun 2026",
       "source": "TASS",
       "region": "ru",
