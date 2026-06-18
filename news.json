@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-18 07:25 UTC",
-  "total": 46,
+  "updated": "2026-06-18 11:43 UTC",
+  "total": 44,
   "stories": [
+    {
+      "title": "Trump signs agreement with Iran. And, the president's approval hits record lows",
+      "link": "https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval",
+      "description": "Trump signed a preliminary agreement with Iran yesterday to end the war and open the Strait of Hormuz. And, the president's approval rating has hit a record low, according to a new NPR poll.",
+      "date": "Thu, 18 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Here's how much the Iran war cost -- and how its effects will linger",
       "link": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade",
@@ -16,26 +26,6 @@
       "title": "Trump to face questions at G7 press conference. And, Tuesday's primary results",
       "link": "https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries",
       "description": "Trump has touted his tentative agreement with Iran at the G7 summit. Today, he is expected to field questions at a press conference as the summit wraps up. And, a look at Tuesday's primary election results.",
-      "date": "Wed, 17 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump signs preliminary agreement with Iran, after releasing details",
-      "link": "https://www.npr.org/2026/06/17/nx-s1-5860782/trump-iran-agreement-g7",
-      "description": "The Trump administration shared the details of the preliminary agreement to end the war with Iran on Wednesday. President Trump later said he had signed it, during a dinner with French President Emmanuel Macron.",
-      "date": "Wed, 17 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump expected to face questions about Iran war as he wraps up G7 summit",
-      "link": "https://www.npr.org/2026/06/17/nx-s1-5860655/trump-expected-to-face-questions-about-iran-war-as-he-wraps-up-g7-summit",
-      "description": "President Trump's G7 summit meetings with world leaders conclude in a news conference, with questions likely to address an uncertain agreement to end war with Iran and U.S. support for Ukraine.",
       "date": "Wed, 17 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -143,9 +133,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Tehran and Washington sign interim peace deal to end US-Israeli war on Iran",
-      "link": "https://www.france24.com/en/middle-east/20260618-tehran-and-washington-sign-interim-peace-deal-to-end-us-israeli-war-on-iran",
-      "description": "President Donald Trump and his Iranian counterpart Masoud Pezeshkian on Wednesday signed an interim deal to end the US-Israeli war on Iran. The two countries now have 60 days to hammer out a lasting agreement that would see Tehran diluting its enriched uranium stocks in exchange ...",
+      "title": "Iran-US: Donald Trump signs peace memorandum in Versailles",
+      "link": "https://www.france24.com/en/video/20260618-iran-us-donald-trump-signs-peace-memorandum-in-versailles",
+      "description": "Donald Trump put his signature to the memorandum of understanding during a candlelit dinner at the Palace of Versailles following a G7 summit.",
       "date": "Thu, 18 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,9 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "G7 hails unity on Russia as Trump signals tougher line on Moscow",
-      "link": "https://www.france24.com/en/europe/20260618-g7-unity-russia-trump-tougher-line-moscow",
-      "description": "G7 leaders welcomed growing unity on Wednesday in efforts to increase pressure on Russia to end the war in Ukraine, amid signs US President Donald Trump is taking a tougher line on Moscow. Later, at the candlelit dinner in Versailles, Trump signed a memorandum of understanding wi...",
+      "title": "Tehran comes out as the 'winner' of the initial US - Iran deal",
+      "link": "https://www.france24.com/en/tehran-comes-out-as-the-winner-of-the-initial-us-iran-deal",
+      "description": "The US and Iran have signed an agreement paving the way to an end of the war between the two countries and starting a 60-day negotiating clock to reach a final deal. Although US President Donald Trump has hailed the deal a success, it has been met with criticism as many denounce ...",
       "date": "Thu, 18 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -163,64 +153,84 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Trump, Pezeshkian sign US-Iran interim deal",
+      "title": "'Catastrophic capitulation': Why US and Israel are the biggest losers in Iran deal",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260618-catastrophic-capitulation-why-us-and-israel-are-the-biggest-losers-in-iran-deal",
+      "description": "PRESS REVIEW – Thursday, June 18: An Israeli paper slams the US's deal with Iran as a \"catastrophic capitulation\". While Trump sees the US as the big winner, the press says Iran's chokehold on the Strait of Hormuz shows that it has set a new status quo. Also, EU leaders scramble ...",
+      "date": "Thu, 18 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "🔴 Middle East live: Switzerland says talks between US and Iran still planned for Friday",
       "link": "https://www.france24.com/en/middle-east/20260617-middle-east-live-trump-iran-s-president-sign-deal-to-end-mideast-war",
-      "description": "President Donald Trump and Iranian President Masoud Pezeshkian signed a deal Wednesday meant to end the Middle East war, with Tehran agreeing to dilute its enriched uranium in return for large-scale economic relief. Trump put his signature to the memorandum of understanding durin...",
-      "date": "Wed, 17 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump has signed Iran deal, says US official",
-      "link": "https://www.france24.com/en/live-news/20260617-trump-has-signed-iran-deal-says-us-official",
       "description": "",
-      "date": "Wed, 17 Jun 2026",
+      "date": "Thu, 18 Jun 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "A World Cup of exclusion? US immigration policies weigh on FIFA tournament",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20260617-a-world-cup-of-exclusion-us-immigration-policies-weigh-on-fifa-tournament",
-      "description": "The Iranian football team have this week criticised their treatment in the US, with the team's head coach saying they're being 'oppressed' at the World Cup. Iran - one of four countries that have been hit by a travel ban - have faced restrictions, visa complications, and logistic...",
-      "date": "Wed, 17 Jun 2026",
+      "title": "New US Fed chair vows reforms as central bank signals rate hikes on horizon",
+      "link": "https://www.france24.com/en/new-us-fed-chair-vows-reforms-as-central-bank-signals-rate-hikes-on-horizon",
+      "description": "As widely expected, policymakers at the the US Federal Reserve have kept interest rates unchanged. But in a clear change of tone from previous meetings, Fed officials said they expected raising interest rates later this year rather than lowering them, to tame rising inflation. Th...",
+      "date": "Thu, 18 Jun 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Thomas Partey denied entry into Canada and sidelined for sexual abuse allegation",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260617-thomas-partey-denied-entry-into-canada-and-sidelined-for-sexual-abuse-allegation",
-      "description": "First, a Canadian court dismissed his appeal aghast the government's refusal of his visa last week. Then, Kenyan president William Ruto was among the world leaders attending the G7 summit. And, men in Northern Benin are being forced to confront uncomfortable realitites aabotu the...",
-      "date": "Wed, 17 Jun 2026",
+      "title": "Mixed reactions over US-Iran deal in Lebanon",
+      "link": "https://www.france24.com/en/mixed-reactions-over-us-iran-deal-in-lebanon",
+      "description": "Although the US-Iran deal brings hope to Lebanon, reactions remain mixed. Lebanon may be mentioned in the first paragraph, it is not included in the $300 billion reconstruction fund despite the south of the country having been totally destroyed, and Israeli strikes have not stopp...",
+      "date": "Thu, 18 Jun 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Misleading images turn Iran’s World Cup debut into a political flashpoint",
-      "link": "https://www.france24.com/en/misleading-images-turn-iran-s-world-cup-debut-into-a-political-flashpoint",
-      "description": "As Iran began its World Cup campaign amidst a tense political climate, a wave of misleading images and claims spread online about the team making political statements. One photo falsely claimed to show an Iranian player carrying a pink school backpack in tribute to Iranian school...",
-      "date": "Wed, 17 Jun 2026",
+      "title": "Iran deal 'worst policy blunder in decades': criticism spreads across US political spectrum",
+      "link": "https://www.france24.com/en/video/20260618-iran-deal-worst-policy-blunder-in-decades-criticism-spreads-across-us-political-spectrum-1",
+      "description": "US President Donald Trump and his Iranian counterpart, President Masoud Pezeshkian, have both now signed the memorandum of understanding, designed to bring the conflict in the middle east to a close. The document, which consists of 14 points, has not yet been released, but offici...",
+      "date": "Thu, 18 Jun 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Diluting uranium, oil sales: What's in the draft US-Iran deal?",
-      "link": "https://www.france24.com/en/middle-east/20260617-diluting-uranium-oil-sales-what-draft-us-iran-deal",
-      "description": "Senior US officials on Wednesday disclosed the contents of a draft memorandum of understanding with Iran, ending days of secrecy ahead of a planned signing ceremony on Friday. The document outlines an immediate ceasefire, steps toward lifting US sanctions, the restoration of comm...",
-      "date": "Wed, 17 Jun 2026",
+      "title": "Pentagon chief Hegseth tells NATO US will review its military presence in Europe",
+      "link": "https://www.france24.com/en/americas/20260618-pentagon-chief-hegseth-tells-nato-us-will-review-its-military-presence-in-europe",
+      "description": "US Defence Secretary Pete Hegseth told a group of NATO defence ministers Thursday that Washington will be carrying out a sweeping review of its military presence in Europe. The Pentagon chief slammed what he called the \"shameful\" refusal by some European countries to refuse the U...",
+      "date": "Thu, 18 Jun 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations?traffic_source=rss",
+      "description": "Several countries welcome deal, as IAEA chief says &#039;now the technical work starts&#039; on Iran&#039;s nuclear programme.",
+      "date": "Thu, 18 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
+      "link": "https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect?traffic_source=rss",
+      "description": "Iran and the US say a deal to end the conflict is in force, but questions remain over its implementation.",
+      "date": "Thu, 18 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US must ‘force’ Israel to change its policy on Lebanon",
@@ -273,39 +283,29 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Pakistan says MoU in effect after Trump, Pezeshkian signing",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
-      "description": "US officials say the deal includes an end to war in Lebanon and the reopening of the Strait of Hormuz.",
+      "title": "Hegseth hails defence progress by Nato allies, says some must 'do more'",
+      "link": "https://www.dawn.com/news/2008848/hegseth-hails-defence-progress-by-nato-allies-says-some-must-do-more",
+      "description": "United States Secretary of Defence Pete Hegseth on Thursday hailed progress by North Atlantic Treaty Organisation (Nato) allies to meet defence spending vows, but said some must “do more”, as he struck a conciliatory tone at an alliance meeting. “Many countries following through,...",
       "date": "Thu, 18 Jun 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump to Netanyahu: Use a ‘softer’ touch on Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss",
-      "description": "US President Donald Trump has encouraged Israeli Prime Minister Benjamin Netanyahu to use a ‘softer touch’ in Lebanon.",
-      "date": "Wed, 17 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says it’s ‘unfair’ for Iran to lack ballistic missiles",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles?traffic_source=rss",
-      "description": "President Donald Trump says it’s ‘unfair’ for Iran to lack ballistic missiles if other regional countries have them.",
-      "date": "Wed, 17 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Modi reports US-India trade progress after Trump meeting",
       "link": "https://www.dawn.com/news/2008828/modi-reports-us-india-trade-progress-after-trump-meeting",
       "description": "Indian Prime Minister Narendra Modi said there had been “significant progress” in long-running talks with Washington for a trade deal, according to a statement issued on Thursday after his meeting with United States President Donald Trump. The leaders met on the sidelines of the ...",
+      "date": "Thu, 18 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Oil falls further on Mideast deal, but Fed outlook knocks equities",
+      "link": "https://www.dawn.com/news/2008870/oil-falls-further-on-mideast-deal-but-fed-outlook-knocks-equities",
+      "description": "Oil prices tumbled further Thursday after US President Donald Trump and his Iranian counterpart signed off on a deal to end their war and reopen the Strait of Hormuz to tanker and cargo traffic. European and Asian stock markets were mixed, with some major indexes retreating after...",
       "date": "Thu, 18 Jun 2026",
       "source": "Dawn",
       "region": "me",
@@ -343,29 +343,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Elon Musk's AI tool Grok was used in strikes against Iran, US govt says in legal briefing",
-      "link": "https://www.dawn.com/news/2008531/elon-musks-ai-tool-grok-was-used-in-strikes-against-iran-us-govt-says-in-legal-briefing",
-      "description": "Elon Musk’s artificial intelligence tool Grok was used in strikes against Iran, the United States government revealed in a legal briefing seen Tuesday by AFP. The June 15 brief defends the gas turbines used by a giant data centre belonging to the trillionaire’s company xAI, which...",
-      "date": "Wed, 17 Jun 2026",
-      "source": "Dawn",
+      "title": "Elon Musk's AI tool Grok was used in strikes against Iran, says U.S. government",
+      "link": "https://www.thehindu.com/sci-tech/technology/elon-musks-ai-tool-grok-was-used-in-strikes-against-iran-says-us-government/article71111925.ece",
+      "description": "At the end of February, the U.S. government terminated its contracts with Anthropic after it refused to allow its tools to be used for fully automated strikes or the mass surveillance of Americans",
+      "date": "Thu, 18 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran can start selling oil once deal is signed",
-      "link": "https://www.dawn.com/news/2008452/iran-can-start-selling-oil-once-deal-is-signed",
-      "description": "• US officials say banking, transportation and insurance services to facilitate the sales will also resume• Switzerland to hold signing of peace accord in mountainside resort of Burgenstock• US naval blockade of Hormuz ‘lifted’ as Iran reports ships sailing through• Deal proposes...",
-      "date": "Wed, 17 Jun 2026",
-      "source": "Dawn",
+      "title": "‘Iranian missiles are only for firing’: Tehran says defence capabilities not part of talks with U.S.",
+      "link": "https://www.thehindu.com/news/international/iranian-missiles-are-only-for-firing-tehran-says-defence-capabilities-not-part-of-talks-with-us/article71117192.ece",
+      "description": "\"Our missiles do not like at all to be talked about by anyone,\" Foreign Ministry spokesperson Esmaeil Baqaei said in an interview with Iranian state television",
+      "date": "Thu, 18 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia LIVE: Switzerland says talks planned for June 19 between Iran and U.S.",
+      "title": "West Asia LIVE: Iran says missile programme not part of talks with U.S.",
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-israel-conflict-strait-of-hormuz-washington-tehran-sign-peace-deal-live-updates-june-18-2026/article71116282.ece",
-      "description": "Pakistan says that the deal to end the war in Iran is taking immediate effect' after both sides have signed it",
+      "description": "Switzerland confirmed that \"initial negotiations\" on implementing a U.S.-Iran memorandum of understanding on ending the war in West Asia were planned to take place at a Swiss resort complex on Friday, June 19",
       "date": "Thu, 18 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -373,19 +373,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump, Iran’s President sign deal to end West Asia war",
-      "link": "https://www.thehindu.com/news/international/us-iran-confirm-deal-signed-to-end-west-asia-war/article71115548.ece",
-      "description": "Trump put his signature to the memorandum of understanding during dinner with French President Emmanuel Macron",
-      "date": "Thu, 18 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran-U.S. MoU opens doors for Iran to stake claims in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-us-mou-opens-doors-for-iran-to-stake-claims-in-strait-of-hormuz/article71116518.ece",
-      "description": "While Iran had presented a toll on the Strait of Hormuz as a means of funding post-war reconstruction, the agreement provides for a separate massive reconstruction fund in addition to oil-sale revenues",
+      "title": "Watch: Telegram under fire: NTA’s crackdown explained | Above the Fold | 17.06.2026",
+      "link": "https://www.thehindu.com/videos/shows/watch-telegram-under-fire-ntas-crackdown-explained-above-the-fold-17062026/article71114722.ece",
+      "description": "Telegram challenges its temporary NEET block, fresh details emerge on the U.S.-Iran ceasefire deal, and Messi makes World Cup history with a hat-trick - Top stories of the day.",
       "date": "Thu, 18 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -403,16 +393,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Full text of MoU between the United States and Iran",
-      "link": "https://www.thehindu.com/news/international/text-of-us-iran-memorandum-of-understanding-released-by-us/article71115228.ece",
-      "description": "The following is the text of the U.S.-Iran memorandum of understanding, as read out by a senior U.S. official to reporters on Wednesday",
-      "date": "Thu, 18 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Trump threatens ‘dropping bombs’ if Iran doesn’t ‘behave’",
       "link": "https://www.thehindu.com/news/international/trump-threatens-dropping-bombs-if-iran-doesnt-behave/article71114967.ece",
       "description": "The U.S. President said the Iran memorandum of understanding did not include immediate sanctions relief for Iran",
@@ -423,9 +403,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US won’t participate in $300 billion Iran reconstruction fund — TV",
-      "link": "https://tass.com/world/2148139",
-      "description": "According to the report, there's going to be a $300 billion fund where Gulf neighbors will invest in rebuilding Iran",
+      "title": "Russia, ASEAN to explore ways to improve cooperation under sanctions — business council",
+      "link": "https://tass.com/economy/2148313",
+      "description": "Speaking about the overall dynamics of investment relations between Russia and ASEAN countries in recent years, Dato' Sharon Wardini Mohdzani noted that there were certain challenges for Russian investors",
       "date": "Thu, 18 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -433,9 +413,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Pakistani PM confirms entering into force of US-Iran memorandum",
-      "link": "https://tass.com/world/2148119",
-      "description": "The memorandum has been endorsed by Shehbaz Sharif as the mediator",
+      "title": "Bulgaria will not allow anti-Russian sanctions that harm its economy — PM",
+      "link": "https://tass.com/world/2148265",
+      "description": "Rumen Radev noted that the EU had already adopted 20 sanctions packages, but said that \"they have had no impact whatsoever on the course of the war\"",
       "date": "Thu, 18 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -443,9 +423,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump mulls licenced production of US missiles in Europe — agency",
-      "link": "https://tass.com/economy/2148101",
-      "description": "According to the news agency, the US has burned through its stocks during the Iran conflict and it will take time to boost production",
+      "title": "Russia welcomes agreement to end US-Iran conflict — Foreign Ministry",
+      "link": "https://tass.com/politics/2148205",
+      "description": "Russia also commend the dedicated and effective efforts of Pakistani and Qatari mediators in facilitating negotiations and working toward a peaceful resolution, the Russian Foreign Ministry added",
       "date": "Thu, 18 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -453,9 +433,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Lebanon’s death toll from Israeli strikes reaches 3,884 Health Ministry",
-      "link": "https://tass.com/world/2148071",
-      "description": "Rescuers continue to clear rubble in some areas, so the number of dead and injured may rise",
+      "title": "Iran, US to hold talks on June 19 in Switzerland — news agency",
+      "link": "https://tass.com/world/2148175",
+      "description": "The US and Iran, along with mediators Pakistan and Qatar and other involved countries will meet at Burgenstock",
       "date": "Thu, 18 Jun 2026",
       "source": "TASS",
       "region": "ru",
