@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19 17:10 UTC",
-  "total": 43,
+  "updated": "2026-06-19 19:23 UTC",
+  "total": 44,
   "stories": [
     {
       "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
@@ -41,6 +41,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "description": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "date": "Fri, 19 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah",
@@ -133,11 +143,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "description": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
-      "date": "Tue, 16 Jun 2026",
-      "source": "BBC",
+      "title": "G7 & Co: Who rules the new world ?",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260619-g7-co-who-rules-the-new-world",
+      "description": "In a week that an interim peace agreement WAS signed between the US and Iran bringing a temporary end to the conflict and the beginning of a sixty day window to negotiate the many unresolved issues.",
+      "date": "Fri, 19 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -193,14 +203,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Uncertainty remains amid postponed US-Iran talks and continued fighting in Lebanon",
-      "link": "https://www.france24.com/en/uncertainty-remains-amid-postponed-us-iran-talks-and-continued-fighting-in-lebanon",
-      "description": "Switzerland has announced that talks planned between the US and Iran - are postponed. Iran's supreme leader voiced scepticism over the deal after it was signed and US Vice President JD Vance cancelled his trip to Geneva. Meanwhile, in Lebanon, fighting continued between the Israe...",
+      "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
+      "link": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss",
+      "description": "Mehdi Hasan goes Head to Head with former Pentagon official David Des Roches on the Iran war.",
       "date": "Fri, 19 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How is the Iran-US agreement being viewed in Israel?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/19/how-is-the-iran-us-agreement-being-viewed-in-israel?traffic_source=rss",
+      "description": "Washington rebukes right-wing Israeli ministers for criticism.",
+      "date": "Fri, 19 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israeli air strikes hit Lebanon minutes after new ceasefire",
@@ -256,16 +276,6 @@
       "title": "As Lebanon tests US-Iran deal, Trump must rein in Netanyahu, analysts say",
       "link": "https://www.aljazeera.com/news/2026/6/19/as-lebanon-tests-us-iran-deal-trump-must-rein-in-netanyahu-analysts-say?traffic_source=rss",
       "description": "Israel&#039;s invasion and attacks in Lebanon pose &#039;greatest vulnerability&#039; to US-Iran diplomacy, says analyst Trita Parsi.",
-      "date": "Fri, 19 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Afghanistan strikes targets in Pakistan, raising cross-border tension",
-      "link": "https://www.aljazeera.com/news/2026/6/19/afghanistan-strikes-targets-in-pakistan-raising-cross-border-tension?traffic_source=rss",
-      "description": "The strikes are the latest threat to the fragile ceasefire between Afghanistan and Pakistan.",
       "date": "Fri, 19 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -393,39 +403,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Macron believes EU cannot mediate in Ukrainian settlement",
+      "link": "https://tass.com/world/2149169",
+      "description": "The French president said the European Union cannot be an intermediary, as it supports Ukraine and has imposed sanctions against Russia",
+      "date": "Fri, 19 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says he personally persuaded Israel to accept new ceasefire with Lebanon",
+      "link": "https://tass.com/world/2149163",
+      "description": "CBS News, citing its sources among US officials, reported earlier that the ceasefire between Israel and Lebanon had been reinstated by mutual agreement of the parties",
+      "date": "Fri, 19 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Death toll from Israeli attacks on Lebanon reaches 3,980 — Health Ministry",
+      "link": "https://tass.com/world/2149139",
+      "description": "According to the ministry, Israel continues bombing settlements in southern Lebanon and the Beqaa Valley in the east of the country",
+      "date": "Fri, 19 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Media jumping the gun reporting US-Israel rift , Russian expert says",
       "link": "https://tass.com/society/2149129",
       "description": "As Sergey Lebedev noted, the office of Israeli Prime Minister Benjamin Netanyahu has made it clear it does not intend to comply with the US-Iran agreement, particularly regarding Lebanon",
-      "date": "Fri, 19 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian Foreign Ministry denies media reports of closure of Strait of Hormuz",
-      "link": "https://tass.com/world/2149123",
-      "description": "According to the statement, the Iranian armed forces \"have taken the necessary measures to ensure the safe passage of merchant vessels through the Strait of Hormuz\"",
-      "date": "Fri, 19 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "'Nuclear section' of Iran-US memorandum poses biggest risks to its implementation — expert",
-      "link": "https://tass.com/politics/2149115",
-      "description": "Marat Zembatov expressed cautious optimism about the possibility of extending negotiations if necessary",
-      "date": "Fri, 19 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says will be able to persuade Israel not to attack Lebanon",
-      "link": "https://tass.com/world/2149079",
-      "description": "The US leader noted that Israel had \"a lot of respect\" for him",
       "date": "Fri, 19 Jun 2026",
       "source": "TASS",
       "region": "ru",
