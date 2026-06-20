@@ -1,18 +1,28 @@
 {
-  "updated": "2026-06-19 23:58 UTC",
-  "total": 11,
+  "updated": "2026-06-20 03:36 UTC",
+  "total": 12,
   "events": [
+    {
+      "date": "2026-06-20",
+      "dateDisplay": "Jun 20, 2026",
+      "title": "Lebanese influencer organises World Cup event amid Israel\u2019s attack on Leban",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/lebanese-influencer-organises-world-cup-event-amid-israels-attack-on-leban?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-06-19",
       "dateDisplay": "Jun 19, 2026",
       "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
       "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
         "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-06-18",
