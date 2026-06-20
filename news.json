@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-20 14:58 UTC",
+  "updated": "2026-06-20 16:17 UTC",
   "total": 46,
   "stories": [
     {
-      "title": "Fighting persists in Lebanon despite a ceasefire as U.S.-Iran deal is under threat",
+      "title": "Iran says Strait of Hormuz shut as US-Iran talks set for Sunday in Switzerland",
       "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
-      "description": "Israeli strikes on southern Lebanon on Saturday killed at least seven people, including two children, hours after reports emerged of a ceasefire agreement.",
+      "description": "Iran said it had closed the strait after Israel struck Lebanon Saturday, violating the US-Iran memorandum of understanding signed earlier this week.",
       "date": "Sat, 20 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -43,6 +43,16 @@
       "bias": "Low"
     },
     {
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "description": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
+      "date": "Sat, 20 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
       "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
       "description": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
@@ -76,16 +86,6 @@
       "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
       "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "description": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
-      "date": "Thu, 18 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "What Iran and US get from deal and why both could struggle to keep it",
-      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
       "date": "Thu, 18 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -155,7 +155,7 @@
     {
       "title": "Trump says Italy's Meloni asked 'over and over' for a photo with him as diplomatic spat escalates",
       "link": "https://www.france24.com/en/middle-east/20260620-trump-says-italy-s-meloni-asked-over-and-over-for-a-photo-with-him-as-diplomatic-spat-escalates",
-      "description": "US President Donald Trump turned up the heat on a diplomatic row with Italian Prime Minister Giorgia Meloni on Saturday, accusing her of repeatedly seeking a photograph with him at the G7 summit and blaming the clash between the two heads of state on tensions over Iran and NATO.",
+      "description": "US President Donald Trump turned up the heat on a diplomatic row with Italian Prime Minister Giorgia Meloni on Saturday, accusing her of repeatedly seeking a photograph with him at the G7 summit and blaming the clash between the two heads of state on tensions over Iran and NATO. ...",
       "date": "Sat, 20 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -223,6 +223,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss",
+      "description": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments.",
+      "date": "Sat, 20 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Where do Iran’s political factions stand on the US peace deal?",
       "link": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss",
       "description": "Iran&#039;s rival political camps are locking horns over a memorandum of understanding with the US.",
@@ -283,19 +293,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Israeli strikes kill 32 in Lebanon, putting US-Iran peace talks in peril",
+      "title": "Israeli strikes kill 32 in Lebanon, putting US-Iran talks in peril",
       "link": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss",
-      "description": "US ⁠Vice ⁠President JD Vance and other envoys travelling to Switzerland after talks with Iran were postponed.",
-      "date": "Sat, 20 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
-      "description": "Iran presses US over Lebanon as Israeli strikes test fragile ceasefire and broader peace efforts.",
+      "description": "Mediator Pakistan says ⁠follow-up ​talks between Iran ⁠and US set for Sunday in Burgenstock, Switzerland.",
       "date": "Sat, 20 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -363,7 +363,17 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE updates: Iran closes Strait of Hormuz over ceasefire violations, reports say",
+      "title": "Three Indian-flagged oil tankers transit through Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/three-indian-flagged-oil-tankers-transit-through-strait-of-hormuz/article71126778.ece",
+      "description": "3 Indian-flagged crude oil tankers, carrying over 8.6 Lakh MT of cargo with 94 Indian crew members have successfully transited the Strait of Hormuz today and are en route to India, Union Minister Sarbananda Sonowal said",
+      "date": "Sat, 20 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE updates: Peace talks with Iran on track; Witkoff, Kushner in Switzerland, says Vance",
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-deal-live-updates-june-20-2026/article71124892.ece",
       "description": "Talks between the U.S. and Iran were called off on June 19 after intense fighting between Israel and Hezbollah in southern Lebanon",
       "date": "Sat, 20 Jun 2026",
@@ -373,9 +383,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran’s military command says Strait of Hormuz is closed again over ‘enemy’s breach of promise’",
+      "title": "Iran says it closed Strait of Hormuz as Israeli strikes on Lebanon continue",
       "link": "https://www.thehindu.com/news/international/iran-closes-strait-of-hormuz-us-israel-ceasefire-violations/article71126114.ece",
-      "description": "Iran’s top ​joint military ‌command ‌warned that further measures ​would be taken if “aggression” ⁠continued",
+      "description": "Pakistan, which mediated the U.S.-Iran ceasefire, said “technical talks” between the two sides were set to restart in Geneva on Sunday (June 21, 2026)",
       "date": "Sat, 20 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -413,19 +423,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon state media says five dead in fresh Israeli strikes on south",
-      "link": "https://www.thehindu.com/news/international/israeli-airstrikes-in-southern-lebanon-despite-ceasefire/article71125205.ece",
-      "description": "The state-run National News Agency (NNA) reported Israeli airstrikes on more than a dozen south Lebanon locations after midnight and into Saturday, June 20 morning",
-      "date": "Sat, 20 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran says delegation to visit Switzerland to demand compliance with memorandum",
-      "link": "https://tass.com/world/2149327",
-      "description": "Iranian Foreign Ministry Spokesman Esmaeil Baghaei said the delegation will leave for Switzerland later on Saturday",
+      "title": "Death toll from Israeli attacks exceeds 4,000 since start of escalation in Lebanon",
+      "link": "https://tass.com/world/2149349",
+      "description": "12,121 people have been wounded",
       "date": "Sat, 20 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -433,9 +433,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran warns ships not to approach Strait of Hormuz",
-      "link": "https://tass.com/world/2149325",
-      "description": "Otherwise, their safety will be at risk, the IRGC Navy said in a statement",
+      "title": "Speaker of Iranian Majlis, foreign minister go to Switzerland as part of delegation",
+      "link": "https://tass.com/world/2149343",
+      "description": "The delegation also included Deputy Oil Minister and Head of the National Oil Company Hamid Bord, Deputy Foreign Minister Kazem Gharibabadi and Iranian Foreign Ministry Spokesman Esmaeil Baghaei",
       "date": "Sat, 20 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -443,9 +443,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran to retaliate if US reneges on obligations under memorandum — Foreign Ministry",
-      "link": "https://tass.com/world/2149323",
-      "description": "Earlier on Saturday, Tehran closed the Strait of Hormuz citing Israel’s ongoing aggression against Lebanon in violation of the memorandum",
+      "title": "US-Iran technical consultations to be held in Switzerland on June 21 — Pakistan",
+      "link": "https://tass.com/world/2149333",
+      "description": "Representatives of the United States and Iran, as well as mediators from Pakistan and Qatar, will take part in the discussion, the Pakistani Foreign Ministry said",
       "date": "Sat, 20 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -453,9 +453,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US inability to influence Israel fraught with jeopardizing memorandum — Iran",
-      "link": "https://tass.com/world/2149321",
-      "description": "Iran has fulfilled its obligations, while the other side was obliged to make sure that the Zionist regime maintains a ceasefire in Lebanon, Iranian Foreign Ministry spokesman Esmaeil Baghaei said",
+      "title": "Witkoff, Kushner already dealing with technical issues of negotiations with Iran — Vance",
+      "link": "https://tass.com/world/2149329",
+      "description": "US Vice President noted that the United States now considers navigation in the Strait of Hormuz and the elimination of Iran's nuclear program, including exports of enriched uranium from the Islamic Republic, to be a priority",
       "date": "Sat, 20 Jun 2026",
       "source": "TASS",
       "region": "ru",

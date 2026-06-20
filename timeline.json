@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-20 14:58 UTC",
-  "total": 12,
+  "updated": "2026-06-20 16:17 UTC",
+  "total": 11,
   "events": [
     {
       "date": "2026-06-20",
       "dateDisplay": "Jun 20, 2026",
-      "title": "Iran closes Strait of Hormuz despite ceasefire after continued Israeli strikes in Lebanon",
-      "link": "https://www.france24.com/en/iran-closes-strait-of-hormuz-despite-ceasefire-after-continued-israeli-strikes-in-lebanon",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24"
+        "France 24",
+        "BBC"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-06-19",
@@ -117,17 +118,6 @@
       "dateDisplay": "May 27, 2026",
       "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
       "link": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-05-23",
-      "dateDisplay": "May 23, 2026",
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
