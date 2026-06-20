@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-20 20:09 UTC",
+  "updated": "2026-06-20 21:58 UTC",
   "total": 46,
   "stories": [
+    {
+      "title": "Iran claims Hormuz closure, U.S. says ships still passing",
+      "link": "https://www.npr.org/2026/06/20/nx-s1-5864209/iran-claims-hormuz-closure-u-s-says-ships-still-passing",
+      "description": "Iran says it has closed the Strait of Hormuz again. The U.S. military says traffic is still flowing. NPR's Jane Arraf reports from Beirut.",
+      "date": "Sat, 20 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
       "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
@@ -33,14 +43,14 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking",
-      "link": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz",
-      "description": "The U.S. is allowing ships to enter and exit Iranian ports and coastal areas as the countries move to a new phase of negotiations over the next 60 days.",
-      "date": "Thu, 18 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon",
+      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "description": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
+      "date": "Sat, 20 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
@@ -133,11 +143,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UN experts demand Iranians free Foremans",
-      "link": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
-      "description": "They said proceedings against Lindsay and Craig Foreman had been marked by grave irregularities.",
-      "date": "Wed, 17 Jun 2026",
-      "source": "BBC",
+      "title": "Iran says closed Strait of Hormuz as US deal hits obstacle ahead of Swiss talks",
+      "link": "https://www.france24.com/en/middle-east/20260620-iran-says-closed-strait-of-hormuz-as-us-deal-hits-obstacle-ahead-of-swiss-talks",
+      "description": "Iran said Saturday it had closed the Strait of Hormuz in response to Israel’s military campaign in Lebanon, while warning that upcoming talks with the United States in Switzerland are unlikely to advance unless the fighting stops. President Donald Trump countered by threatening U...",
+      "date": "Sat, 20 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -213,14 +223,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Hezbollah-Israel flare-up in Lebanon despite ceasefire announced by the USA",
-      "link": "https://www.france24.com/en/hezbollah-israel-flare-up-in-lebanon-despite-ceasefire-announced-by-the-usa",
-      "description": "US officials have announced that a ceasefire is in effect between Israel and Hezbollah. President Donald Trump claimed he had asked Israel for the ceasefire. However, it seems to be more on paper than reality: attacks and retaliation from both sides continued to flare following i...",
+      "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
+      "link": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
+      "description": "The US-Iran memorandum of understanding does not rule out future tolls in the strait after an initial 60-day period.",
       "date": "Sat, 20 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
@@ -286,16 +296,6 @@
       "title": "Where do Iran’s political factions stand on the US peace deal?",
       "link": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss",
       "description": "Iran&#039;s rival political camps are locking horns over a memorandum of understanding with the US.",
-      "date": "Sat, 20 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "UK condemns Israeli minister over inflammatory Lebanon remarks",
-      "link": "https://www.aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks?traffic_source=rss",
-      "description": "UK foreign secretary slams Israeli minister&#039;s inflammatory remarks amid regional tensions and fragile ceasefire.",
       "date": "Sat, 20 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -423,39 +423,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Vance departs for Switzerland for talks with Iran — aide",
+      "link": "https://tass.com/world/2149391",
+      "description": "The US vice president said earlier on Saturday that he could travel to Switzerland \"within a couple of days\"",
+      "date": "Sat, 20 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Pakistan’s PM, army commander go to Switzerland for US-Iran talks",
+      "link": "https://tass.com/world/2149389",
+      "description": "The Pakistani Foreign Ministry said earlier that technical consultations between the US and Iran would take place in Burgenstock on June 21",
+      "date": "Sat, 20 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says US may charge ships for passage through Strait of Hormuz",
+      "link": "https://tass.com/world/2149385",
+      "description": "The US president added that this would happen if Washington and Tehran did not reach final agreements",
+      "date": "Sat, 20 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Three Indian crude oil tankers clear Strait of Hormuz — shipping minister",
       "link": "https://tass.com/economy/2149371",
       "description": "According to Minister of Ports, Shipping and Waterways Sarbananda Sonowal, the vessels carry more than 860,000 tons of crude, and 94 Indian sailors",
-      "date": "Sat, 20 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel government orders army to cease fire in Lebanon, but remain in position — TV",
-      "link": "https://tass.com/world/2149357",
-      "description": "The Israeli army will continue to hold its positions in southern Lebanon along the so-called Yellow Line",
-      "date": "Sat, 20 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "CNN: Vance may travel to Switzerland for talks with Iran as early as today",
-      "link": "https://tass.com/world/2149353",
-      "description": "According to the TV channel, the exact time of Vance's departure has not yet been determined",
-      "date": "Sat, 20 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Death toll from Israeli attacks exceeds 4,000 since start of escalation in Lebanon",
-      "link": "https://tass.com/world/2149349",
-      "description": "12,121 people have been wounded",
       "date": "Sat, 20 Jun 2026",
       "source": "TASS",
       "region": "ru",
