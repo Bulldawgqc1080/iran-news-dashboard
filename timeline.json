@@ -1,19 +1,29 @@
 {
-  "updated": "2026-06-20 23:06 UTC",
-  "total": 11,
+  "updated": "2026-06-21 02:36 UTC",
+  "total": 12,
   "events": [
+    {
+      "date": "2026-06-21",
+      "dateDisplay": "Jun 21, 2026",
+      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-06-20",
       "dateDisplay": "Jun 20, 2026",
-      "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
-      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
+      "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
       "sources": [
-        "France 24",
-        "BBC",
+        "NPR News",
         "Al Jazeera"
       ],
-      "sourceCount": 3,
-      "type": "fact"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-06-19",
