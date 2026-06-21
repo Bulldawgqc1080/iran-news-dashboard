@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21 07:23 UTC",
+  "updated": "2026-06-21 10:58 UTC",
   "total": 12,
   "events": [
     {
@@ -9,22 +9,22 @@
       "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "Al Jazeera",
+        "France 24",
         "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-06-20",
       "dateDisplay": "Jun 20, 2026",
-      "title": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
-      "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
+      "title": "Iran claims Hormuz closure, U.S. says ships still passing",
+      "link": "https://www.npr.org/2026/06/20/nx-s1-5864209/iran-claims-hormuz-closure-u-s-says-ships-still-passing",
       "sources": [
-        "Al Jazeera",
         "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-06-19",
