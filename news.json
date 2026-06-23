@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23 03:33 UTC",
-  "total": 36,
+  "updated": "2026-06-23 07:37 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "UK PM Keir Starmer resigns. And, US and Iran agree to roadmap for final deal",
@@ -16,16 +16,6 @@
       "title": "Child injuries soar in Israeli air strikes in Lebanon",
       "link": "https://www.npr.org/2026/06/22/nx-s1-5841887/child-injuries-soar-in-israeli-air-strikes-in-lebanon",
       "description": "The number of children injured by Israeli air strikes have soared since they began in March. One family is dealing with the physical -- and emotional trauma -- of a young girl struck in April.",
-      "date": "Mon, 22 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "China hits back at U.S. sanctions restricting its exports to American defense firms",
-      "link": "https://www.npr.org/2026/06/22/nx-s1-5866202/china-sanctions-restricting-exports",
-      "description": "China on Monday announced sanctions on 10 American military-related companies in response to a recent U.S. move that bars some leading Chinese tech companies from defense contracts.",
       "date": "Mon, 22 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Lebanon war damage estimated at $1.3 billion, but who will foot the bill?",
+      "link": "https://www.france24.com/en/lebanon-damage-estimated-at-1-3-billion-but-who-will-foot-the-bill",
+      "description": "Massive destruction in southern Lebanon in the latest Israel-Hezbollah war is estimated at around $1.38 billion, according to a UN agency and a Lebanese research centre. Reporting from Beirut, FRANCE 24’s Renée Davis notes that while the US-Iran deal includes a proposed $300 bill...",
+      "date": "Tue, 23 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East live: Iran says Strait of Hormuz will be administered by Tehran",
       "link": "https://www.france24.com/en/middle-east/20260623-middle-east-live-iran-says-strait-of-hormuz-will-be-administered-by-tehran",
       "description": "Iran’s chief negotiator Mohammad Bagher Ghalibaf said on Tuesday that the Strait of Hormuz will be administered by Tehran following US-Iran talks in Switzerland, as negotiations continue over regional security arrangements and the future of the key shipping route. Follow our live...",
@@ -173,14 +173,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US-Iran peace deal 'won't even come close to the expansive detailed Obama agreement'",
-      "link": "https://www.france24.com/en/us-iran-peace-deal-won-t-even-come-close-to-the-expansive-detailed-obama-agreement",
-      "description": "Nadia Massih welcomes Larry Sabato, Director of the University of Virginia Center for Politics. JD Vance is hailing \"good progress\" on US-Iran peace talks, following President Trump's threats to hit Iran \"harder than ever before\". Sabato reminds us that this war is \"almost univer...",
-      "date": "Mon, 22 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Why Iran’s President Pezeshkian is heading to Pakistan after US talks",
+      "link": "https://www.aljazeera.com/news/2026/6/23/why-irans-president-pezeshkian-is-heading-to-pakistan-after-us-iran-talks?traffic_source=rss",
+      "description": "This is Pezeshkian&#039;s first overseas trip since Iran war began, and comes a day after the high-stakes Switzerland talks.",
+      "date": "Tue, 23 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Conservative radio host defends Trump, says he’s better than Vance",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/conservative-radio-host-defends-trump-says-hes-better-than-vance?traffic_source=rss",
+      "description": "Prominent conservative radio host, spoke at the International Policy Summit to defend Trump’s handling of the Iran war.",
+      "date": "Tue, 23 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
@@ -193,14 +203,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
+      "title": "Iran war live: Ghalibaf says US to release $12bn in frozen Iranian funds",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss",
-      "description": "US says the decisions follow Iran&#039;s commitment to allow international nuclear inspections.",
+      "description": "Trump says released funds will be used to buy US produce, a claim Tehran rejected immediately.",
       "date": "Tue, 23 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Diplomats scramble as doubts persist over Lebanon truce",
+      "link": "https://www.dawn.com/news/2010142/diplomats-scramble-as-doubts-persist-over-lebanon-truce",
+      "description": "• US, Qatari officials engage Lebanese president, discuss creation of ‘deconfliction cell’• Ceasefire largely holds; isolated Israeli fire, drone activity, warning shots reported BEIRUT: A ceasefire largely held in Lebanon on Monday, marking the longest lull in three months of wa...",
+      "date": "Tue, 23 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Headway in Swiss talks as US allows Iran to sell its oil",
@@ -243,16 +263,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Diplomats scramble as doubts persist over Lebanon truce",
-      "link": "https://www.dawn.com/news/2010142/diplomats-scramble-as-doubts-persist-over-lebanon-truce",
-      "description": "• US, Qatari officials engage Lebanese president, discuss creation of ‘deconfliction cell’• Ceasefire largely holds; isolated Israeli fire, drone activity, warning shots reported BEIRUT: A ceasefire largely held in Lebanon on Monday, marking the longest lull in three months of wa...",
-      "date": "Tue, 23 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Iran President Masoud Pezeshkian to visit Pakistan on Tuesday: FO",
       "link": "https://www.dawn.com/news/2010038/iran-president-masoud-pezeshkian-to-visit-pakistan-on-tuesday-fo",
       "description": "Iran’s President Masoud Pezeshkian will undertake an official visit to Pakistan tomorrow, the Foreign Office (FO) said on Monday. During his visit, which is at the invitation of Prime Minister Shehbaz Sharif, the president will be accompanied by a high-level delegation, including...",
@@ -263,9 +273,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE updates: Ghalibaf says Hormuz will be administered by Iran",
+      "title": "Iran chief negotiator says Hormuz will be administered by Tehran: state media",
+      "link": "https://www.thehindu.com/news/international/iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state-media/article71136105.ece",
+      "description": "In a video posted to Mr. Ghalibaf's Telegram account, he said the talks at the luxury Swiss resort of Burgenstock produced \"good achievements\"",
+      "date": "Tue, 23 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump allies defend him to Israelis anxious over Iran deal",
+      "link": "https://www.thehindu.com/news/international/trump-allies-defend-him-to-israelis-anxious-over-iran-deal/article71136395.ece",
+      "description": "The U.S.-Israeli relationship has been on a roller coaster, from the ​early confidence they shared after their joint attack on Iran to public disagreements between Donald Trump and Prime Minister Benjamin Netanyahu over how ⁠to end the four-month-old war",
+      "date": "Tue, 23 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE updates: New Lebanon-Israel talks to begin, in shadow of U.S.-Iran deal",
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-washington-tehran-peace-talks-strait-of-hormuz-live-updates-june-23-2026/article71135989.ece",
       "description": "Iran and the United States agreed on June 22 to set up communication lines to keep the vital shipping route open and end fighting in Lebanon",
+      "date": "Tue, 23 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pentagon seeks $80 billion from Congress for Iran war",
+      "link": "https://www.thehindu.com/news/international/pentagon-seeks-80-billion-from-congress-for-iran-war/article71136234.ece",
+      "description": "The White House has requested a remarkable $1.5 trillion for the Pentagon – a nearly 50% increase over the current fiscal year's funding levels",
       "date": "Tue, 23 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -287,36 +327,6 @@
       "link": "https://www.thehindu.com/news/international/vance-says-talks-with-iranian-officials-set-good-foundation-for-a-deal-to-end-the-war/article71135816.ece",
       "description": "Vice President JD Vance says his lengthy talks with senior Iranian officials in Switzerland created a good foundation for a final deal to end the Iran war",
       "date": "Tue, 23 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "‘Will do what I have to do’ if Iran does not stick to deal: Trump",
-      "link": "https://www.thehindu.com/news/international/will-do-what-i-have-to-do-if-iran-does-not-stick-to-deal-trump/article71135131.ece",
-      "description": "Mr. Trump ​said Iran was supposed to use the ⁠money being unfrozen to buy food exclusively from the United States",
-      "date": "Mon, 22 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "What is downblending, the process at the heart of Trump’s Iran agreement?",
-      "link": "https://www.thehindu.com/sci-tech/science/what-is-downblending-the-process-at-the-heart-of-trumps-iran-agreement/article71118479.ece",
-      "description": "The international community’s trust in Iran’s promise to not pursue a nuclear weapon depends on how well it implements downblending in the coming months",
-      "date": "Mon, 22 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. and Iran conclude high-level talks in Switzerland, mediators say",
-      "link": "https://www.thehindu.com/news/international/us-and-iran-conclude-high-level-talks-in-switzerland-mediators-say/article71131554.ece",
-      "description": "A joint statement from mediating nations ​Qatar and Pakistan said the U.S. and Iran agreed to a roadmap toward a final deal within 60 days",
-      "date": "Mon, 22 Jun 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
