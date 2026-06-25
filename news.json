@@ -1,42 +1,22 @@
 {
-  "updated": "2026-06-25 06:39 UTC",
-  "total": 40,
+  "updated": "2026-06-25 10:09 UTC",
+  "total": 36,
   "stories": [
+    {
+      "title": "Trump airs grievances with NATO chief over alliance's lack of Iran war support",
+      "link": "https://www.npr.org/2026/06/25/nx-s1-5869806/trump-airs-grievances-with-nato-chief-over-alliances-lack-of-iran-war-support",
+      "description": "President Trump met with NATO Secretary General Mark Rutte Wednesday, where he shared his frustrations with the lack of support he's received from allies on the Iran war.",
+      "date": "Thu, 25 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.N. nuclear chief says inspectors will visit Iran, but Iran says only after final deal",
       "link": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
       "description": "The head of the U.N.'s atomic agency said Iran's nuclear enrichment sites would be inspected as part of the interim deal. Iran insists any such visit would only come after a final deal.",
       "date": "Wed, 24 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
-      "link": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
-      "description": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
-      "date": "Tue, 23 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Who would pay for Trump's proposed $300 billion Iran reconstruction fund?",
-      "link": "https://www.npr.org/2026/06/23/nx-s1-5866577/iran-trump-deal-300-billion-obama",
-      "description": "It's still unclear who would fund a proposed $300 billion reconstruction plan for Iran. Former National Security Adviser Jake Sullivan called the whole approach \"something entirely new.\"",
-      "date": "Tue, 23 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
-      "link": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
-      "description": "As U.S.-Iran talks continued, a break in the shipping bottleneck through the Strait of Hormuz appeared to be in the works.",
-      "date": "Tue, 23 Jun 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -143,6 +123,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Rubio seeks to reassure Gulf states over Iran deal",
+      "link": "https://www.france24.com/en/video/20260625-rubio-seeks-to-reassure-gulf-states-over-iran-deal",
+      "description": "US Secretary of State Marco Rubio promised Gulf allies on Wednesday that Washington would protect their interests as it seeks to hammer out a final settlement of the Middle East war in talks with Iran. Rubio is on a regional tour to reassure the Gulf states, which were targeted b...",
+      "date": "Thu, 25 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Maritime traffic picks up in Strait of Hormuz, but uncertainty lingers",
+      "link": "https://www.france24.com/en/tv-shows/business/20260625-maritime-traffic-picks-up-in-strait-of-hormuz-but-uncertainty-lingers",
+      "description": "Oil prices continue their slide on Thursday as traffic through the Hormuz Strait has picked up over the past few days. Uncertainty lingers for the shipping industry, though, as disagreements over a potential toll to pass through the Strait could be a stumbling block in US-Iran ta...",
+      "date": "Thu, 25 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East live: Iran warns against attempts to cross Strait of Hormuz without authorisation",
       "link": "https://www.france24.com/en/middle-east/20260625-middle-east-live-trump-seeks-88-billion-in-extra-funding-mostly-for-iran-war",
       "description": "Iran's Revolutionary Guards said Thursday they would take \"appropriate measures\" against vessels attempting to sail through the Strait of Hormuz without Tehran's authorisation. The warning comes as top US diplomat Marco Rubio visits Bahrain after promising Gulf allies that Washin...",
@@ -153,90 +153,50 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Rubio assures Gulf allies US will protect interests in Iran peace talks",
-      "link": "https://www.france24.com/en/middle-east/20260624-rubio-gulf-allies-us-iran-peace-talks",
-      "description": "Secretary of State Marco Rubio was in Bahrain on Thursday to assure Gulf allies that Washington would protect their interests as it pursues a final settlement with Iran. Earlier, President Donald Trump said talks were progressing well, while requesting nearly $88 billion in suppl...",
-      "date": "Wed, 24 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "US says Iran will buy its goods: What could US-Iran trade look like?",
+      "link": "https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like?traffic_source=rss",
+      "description": "Before the 1979 revolution in Iran, Washington and Tehran had close trade ties. Could a peace deal revive them?",
+      "date": "Thu, 25 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump says NATO allies ‘let down’ US by not backing Iran war",
-      "link": "https://www.france24.com/en/europe/20260624-trump-nato-allies-let-down-us-not-backing-iran-war",
-      "description": "Trump told NATO Secretary General Mark Rutte on Wednesday he was disappointed that alliance members did not back the US military campaign against Iran, saying Washington had \"demolished\" Iran without needing assistance. Rutte defended allies, noting that 4,000-5,000 US aircraft o...",
-      "date": "Wed, 24 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran warns against Hormuz crossings without authorisation",
+      "link": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
+      "description": "An oil tanker navigates the strait, reportedly hugging the western coast, despite threats from Revolutionary Guards.",
+      "date": "Thu, 25 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "US in 'panic' at prospect of Gulf States going it alone, analyst says",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20260624-us-in-panic-at-prospect-of-gulf-states-going-it-alone-analyst-says",
-      "description": "Secretary of State Marco Rubio promised the United States' Gulf allies that Washington would protect their interests as it seeks to hammer out a final settlement of the Middle East war in talks with Iran. Speaking with FRANCE 24's Sharon Gaffney, independent journalist and author...",
-      "date": "Wed, 24 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
+      "link": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
+      "description": "Iran&#039;s Revolutionary Guard warns against alternative route in Strait of Hormuz as top US diplomat to meet Gulf leaders.",
+      "date": "Thu, 25 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Power outages and melting roads: Heatwave strains French infrastructure",
-      "link": "https://www.france24.com/en/power-outages-and-melting-roads-heatwave-strains-french-infrastructure",
-      "description": "Power outages, train delays, and melting roads - the heatwave is straining France's infrastructure. Electricity provider EDF says it has had to reduce its nuclear power output, but that it still has enough capacity to meet demand. Also in the show - the UN's International Maritim...",
-      "date": "Wed, 24 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "ICC judges sue Trump over sanctions, call measures unlawful",
+      "link": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss",
+      "description": "Judges argue sanctions aimed to punish and coerce ICC decisions on US and Israeli war crimes cases.",
+      "date": "Thu, 25 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iranians mark first Ashura since Khamenei’s killing in the US-Iran war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/iranians-mark-first-ashura-since-khameneis-killing-in-the-us-iran-war?traffic_source=rss",
       "description": "Thousands gathered in Tehran on the eve of Ashura, the first since the killing of Iranian supreme leader Ali Khamenei.",
       "date": "Thu, 25 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
-      "description": "NATO chief Mark Rutte visited the White House to ease tensions with Trump ahead of next month&#039;s NATO summit.",
-      "date": "Thu, 25 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
-      "description": "Rubio promises to protect Gulf interests in talks with Iran, as Israel says it will not withdraw from southern Lebanon.",
-      "date": "Thu, 25 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
-      "link": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
-      "description": "NATO chief Mark Rutte points to use of US bases in Europe as he stresses support for US war on Iran.",
-      "date": "Wed, 24 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
-      "link": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
-      "description": "The request is likely to face an uphill battle in Congress, which voted a day earlier to rein in Trump&#039;s war powers.",
-      "date": "Wed, 24 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -303,9 +263,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: U.S. promises to protect Gulf states' interests in Iran talks",
+      "title": "Any deal with Iran will ensure security of Gulf allies: Rubio",
+      "link": "https://www.thehindu.com/news/international/any-deal-with-iran-will-ensure-security-of-gulf-allies-rubio/article71145658.ece",
+      "description": "The U.S. Secretary of State’s three-day tour of ​the Gulf is the first high-level diplomatic mission ‌since the U.S.-Iran framework agreement last week to end the conflict",
+      "date": "Thu, 25 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: As IRGC issue warning, Rubio says Hormuz tolls could 'spread like contagion' to other waterways",
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-25-2026/article71144582.ece",
-      "description": "Tehran has emerged emboldened from the war, vowing not to relinquish control of the Strait of Hormuz and going so far as to call its initial deal with Washington to stop the fighting \"a declaration of America's defeat",
+      "description": "On deal with Iran, Rubio said open for peace without undermining security of U.S., its allies; he is in Bahrain for a Gulf Cooperation Council meeting",
+      "date": "Thu, 25 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Oman opens temporary Strait of Hormuz shipping routes, says no tolls will be charged",
+      "link": "https://www.thehindu.com/news/international/oman-opens-temporary-strait-of-hormuz-shipping-routes-says-no-tolls-will-be-charged/article71141157.ece",
+      "description": "In ‌coordination with the International Maritime Organization, Oman established temporary maritime corridors to help ships leave the area safely amid heightened security risks",
+      "date": "Thu, 25 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Strait of Hormuz: How months of closure creates challenges for ships",
+      "link": "https://www.thehindu.com/business/Economy/strait-of-hormuz-how-months-of-closure-creates-challenges-for-ships/article71145152.ece",
+      "description": "Even if shipping traffic resumes through the Strait of Hormuz, hundreds of vessels that have spent weeks or months waiting at anchor must first overcome a range of technical, operational and human challenges before returning to normal trade",
+      "date": "Thu, 25 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S.-Iran deal may leave Netanyahu as biggest casualty: analysts",
+      "link": "https://www.thehindu.com/news/international/us-iran-deal-may-leave-netanyahu-as-biggest-casualty-analysts/article71145083.ece",
+      "description": "“Not only did he lose the war with Iran, ​he has also lost Trump as a friend. He is now isolated not only ‌internationally, but locked in a major dispute with Trump,” a former Netanyahu adviser says",
       "date": "Thu, 25 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,80 +323,40 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war updates on June 24, 2026: Iran has told U.S. no tolls being sought at Strait of Hormuz, says Donald Trump",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-peace-deal-donald-trump-strait-of-hormuz-updates-june-24-2026/article71140307.ece",
-      "description": "Iran says deal to end West Asia war 'declaration of U.S. defeat'; Marco Rubio in UAE to ease concerns over tentative Iran deal; Iran's nuclear sites likely to be inspected",
+      "title": "Nearly 60% of US residents doubt effectiveness of memorandum with Iran — poll",
+      "link": "https://tass.com/society/2151377",
+      "description": "According to a Quinnipiac University poll, 48% of respondents believe that the US provides excessive support to Israel",
       "date": "Thu, 25 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "White House asks Congress for $87.6 billion for Iran war, aid to U.S. farmers, tackling Ebola crisis",
-      "link": "https://www.thehindu.com/news/international/white-house-asks-congress-for-876-billion-for-iran-war-aid-to-us-farmers-tackling-ebola-crisis/article71143693.ece",
-      "description": "The request is mostly for Operation Epic Fury, but it also includes a range of other items including aid to American farmers, help for the Ebola crisis in Africa and other needs closer to home",
-      "date": "Wed, 24 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says it may never be known who was at fault for strike on girls' school in Iran",
-      "link": "https://www.thehindu.com/news/international/trump-says-it-may-never-be-known-who-was-at-fault-for-strike-on-girls-school-in-iran/article71143766.ece",
-      "description": "",
-      "date": "Wed, 24 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "IAEA chief says Iran inspections will go ahead, working on modalities",
-      "link": "https://www.thehindu.com/news/international/iaea-chief-says-iran-inspections-will-go-ahead-working-on-modalities/article71143294.ece",
-      "description": "",
-      "date": "Wed, 24 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Lebanon, Israel, US discussing boundaries of ‘pilot zones’ in southern Lebanon",
-      "link": "https://tass.com/world/2151227",
-      "description": "The project of the zones was proposed by the US during the fourth round of talks in Washington on June 2 and 3",
-      "date": "Wed, 24 Jun 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Trump says values Russia, China, Turkey’s non-interference into war against Iran",
-      "link": "https://tass.com/world/2151211",
-      "description": "The US president called the decision \"pretty amazing\"",
-      "date": "Wed, 24 Jun 2026",
+      "title": "Press review: Rutte visits Washington to ease NATO tensions and Trump blocked on Iran war",
+      "link": "https://tass.com/pressreview/2151289",
+      "description": "Top stories from the Russian press on Thursday, June 25th",
+      "date": "Thu, 25 Jun 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Trump says school in Iran’s Minab was not attacked by US forces",
-      "link": "https://tass.com/world/2151207",
-      "description": "The US president added that \"there were a lot of missiles being fired at that time\"",
-      "date": "Wed, 24 Jun 2026",
+      "title": "US considers charges for passage through Strait of Hormuz unacceptable — Rubio",
+      "link": "https://tass.com/world/2151343",
+      "description": "The US secretary of state claimed that international waterways do not belong to any nation state",
+      "date": "Thu, 25 Jun 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "US seeks $672 million for removal of Iranian uranium, nuclear inspections — TV",
-      "link": "https://tass.com/world/2151205",
-      "description": "According to sources cited by Fox News, the amount is part of a broader $80 billion supplemental funding request",
-      "date": "Wed, 24 Jun 2026",
+      "title": "US hopes to reach agreements with Iran through constructive dialogue — secretary of state",
+      "link": "https://tass.com/world/2151337",
+      "description": "According to Marco Rubio, Washington believes that it would lead to a positive outcome",
+      "date": "Thu, 25 Jun 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
