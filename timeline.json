@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-24 23:57 UTC",
-  "total": 8,
+  "updated": "2026-06-25 02:44 UTC",
+  "total": 9,
   "events": [
+    {
+      "date": "2026-06-25",
+      "dateDisplay": "Jun 25, 2026",
+      "title": "Middle East live: Trump seeks $88 billion in extra funding, mostly for Iran war",
+      "link": "https://www.france24.com/en/middle-east/20260625-middle-east-live-trump-seeks-88-billion-in-extra-funding-mostly-for-iran-war",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-06-24",
       "dateDisplay": "Jun 24, 2026",
@@ -9,11 +20,10 @@
       "link": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
       "sources": [
         "BBC",
-        "NPR News",
-        "Al Jazeera"
+        "NPR News"
       ],
-      "sourceCount": 3,
-      "type": "fact"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-06-23",
