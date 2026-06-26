@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-26 20:25 UTC",
-  "total": 36,
+  "updated": "2026-06-26 22:01 UTC",
+  "total": 35,
   "stories": [
     {
-      "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel",
-      "description": "A United Nations agency paused the evacuation of ships through the Strait of Hormuz on Thursday after the British military said a vessel was hit by a projectile off the coast of Oman following the passage of several tankers that used a route backed by the U.N.",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
       "date": "Fri, 26 Jun 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
@@ -103,11 +103,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah",
-      "link": "https://www.bbc.co.uk/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
-      "date": "Fri, 19 Jun 2026",
-      "source": "BBC",
+      "title": "Middle East War: US strikes Iran after Trump says ceasefire was violated",
+      "link": "https://www.france24.com/en/middle-east/20260626-middle-east-war-us-strikes-iran-trump-ceasefire-violated",
+      "description": "The US struck Iran on Friday to respond to a drone attack on a cargo ship in the Strait of Hormuz, a provocation that US President Donald Trump said violated the ceasefire. The British military said Thursday that a vessel was hit by a projectile off Oman. This comes at a fragile ...",
+      "date": "Fri, 26 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US strikes Iran after Trump says ceasefire was violated",
+      "link": "https://www.france24.com/en/live-news/20260626-us-strikes-iran-after-trump-says-ceasefire-was-violated",
+      "description": "",
+      "date": "Fri, 26 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -133,19 +143,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "VivaTech 2026: Space race hits new heights with reusable technology",
-      "link": "https://www.france24.com/en/vivatech-2026-space-race-hits-new-heights-with-reusable-technology",
-      "description": "Space loomed large over the 2026 VivaTech festival. Startups and technology giants alike have entered the new space economy – a sector previously dominated by government agencies. FRANCE 24’s Business Editor Kate Moody sat down with Marta Oliveira, Co-founder and Chief Operations...",
+      "title": "US strikes Iran in response to drone strike on commercial ship",
+      "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
+      "description": "The new strikes come in response to an Iranian drone attack on the Ever Lovely in the Strait of Hormuz.",
       "date": "Fri, 26 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Hezbollah will not support Israel-Lebanon framework deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah-rejects-israel-lebanon-framework-deal-260626?traffic_source=rss",
+      "description": "Al Jazeera brings you the latest from Beirut as the US announces a framework agreement between Israel and Lebanon.",
+      "date": "Fri, 26 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
-      "description": "Fragile US-Iran ceasefire tested as drone strike off Oman draws stern warning from the US president.",
+      "description": "US Central Command forces conduct strikes against Iran in &#039;response&#039; to attack on commercial ship, Ever Lovely.",
       "date": "Fri, 26 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -166,36 +186,6 @@
       "title": "US announces framework agreement between Israel and Lebanon",
       "link": "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss",
       "description": "US Secretary of State Marco Rubio has announced the deal after talks in Washington, DC, calling it a &#039;first step&#039;.",
-      "date": "Fri, 26 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Hezbollah: Israel must ‘unconditionally’ leave Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah_israel-must-unconditionally-leave-lebanon-260626?traffic_source=rss",
-      "description": "Hezbollah says Israel has \"no option\" but to “unconditionally” withdraw from southern Lebanon and other occupied areas.",
-      "date": "Fri, 26 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
-      "link": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss",
-      "description": "A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.",
-      "date": "Fri, 26 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
-      "link": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
-      "description": "Tehran rejects US-GCC pressure over missiles, the Strait of Hormuz and regional armed groups.",
       "date": "Fri, 26 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,9 +253,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Rubio announces framework agreement between Israel and Lebanon after talks in Washington",
+      "title": "West Asia war LIVE: U.S. military conducts strikes against Iran",
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-26-2026/article71149347.ece",
-      "description": "Taiwanese shipping operator Evergreen Marine said one of its container ships was hit by an “unidentified object” in the Strait of Hormuz, but the crew, vessel and cargo were “unharmed”",
+      "description": "U.S. says it struck Iran targets after attack on cargo ship",
       "date": "Fri, 26 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,9 +313,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran refutes reports of direct line of communication with US on Strait of Hormuz",
-      "link": "https://tass.com/world/2152201",
-      "description": "According to the IRGC, the Strait of Hormuz belongs to Iran and \"the United States has no connection to it\"",
+      "title": "US servicemen confirm strikes on Iran",
+      "link": "https://tass.com/world/2152243",
+      "description": "US aircraft struck Iranian missile and drone depots, as well as coastal radar facilities",
       "date": "Fri, 26 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -333,9 +323,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Serbia's NIS requests extension of US Treasury license beyond July 1",
-      "link": "https://tass.com/economy/2152185",
-      "description": "NIS shareholders have been forced to sell their assets because they have come under US sanctions",
+      "title": "Explosions rock Iran's southern coast near Strait of Hormuz — news agency",
+      "link": "https://tass.com/world/2152241",
+      "description": "The explosion was caused by a shell striking one of the piers in the Iranian city of Sirik",
       "date": "Fri, 26 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -343,9 +333,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Oman looking at charging fees for passage through Strait of Hormuz — media",
-      "link": "https://tass.com/world/2152177",
-      "description": "According to the agency, the Omani authorities warned European officials that navigation in the strait would never be as it was before the war",
+      "title": "Lebanese president hails framework agreement with Israel",
+      "link": "https://tass.com/world/2152237",
+      "description": "Joseph Aoun thanked the US administration led by President Donald Trump for arranging and hosting the talks with Israel and \"support for Lebanon’s stance\"",
       "date": "Fri, 26 Jun 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,9 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "International Weightlifting Federation lifts sanctions against Russia, Belarus",
-      "link": "https://tass.com/sports/2152159",
-      "description": "The decision follows the recent recommendations of the IOC regarding the principles of neutrality in sport",
+      "title": "Trump again accuses Iran of violating ceasefire, declines to say whether US would respond",
+      "link": "https://tass.com/world/2152231",
+      "description": "The US leader noted that Iranian forces allegedly attacked a ship sailing through the Strait of Hormuz with drones on Thursday",
       "date": "Fri, 26 Jun 2026",
       "source": "TASS",
       "region": "ru",
