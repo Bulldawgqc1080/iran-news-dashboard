@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26 18:21 UTC",
-  "total": 33,
+  "updated": "2026-06-26 20:25 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
@@ -23,6 +23,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "description": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
+      "date": "Fri, 26 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
       "description": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
@@ -33,10 +43,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "description": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
-      "date": "Tue, 23 Jun 2026",
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+      "date": "Fri, 26 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -103,11 +113,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
-      "link": "https://www.bbc.co.uk/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
-      "description": "JD Vance has not travelled to Switzerland as the Israeli military said it was targeting Hezbollah and that four of its own soldiers had been killed.",
-      "date": "Fri, 19 Jun 2026",
-      "source": "BBC",
+      "title": "Brexit Britain: Sunlit Uplands or a Toad in the Harrow?",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260626-brexit-britain-sunlit-uplands-or-a-toad-in-the-harrow",
+      "description": "Political change in Britain has dominated the headlines, with Keir Starmer’s resignation paving the way for Andy Burnham, as the country also marks ten years since the Brexit vote. Fresh peace talks between the US and Iran have begun amid continuing tensions and sharply different...",
+      "date": "Fri, 26 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East War: Lebanon, Israel and US sign framework agreement in Washington",
+      "link": "https://www.france24.com/en/middle-east/20260626-lebanon-israel-us-sign-framework-agreement-in-washington",
+      "description": "",
+      "date": "Fri, 26 Jun 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -123,9 +143,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
+      "description": "Fragile US-Iran ceasefire tested as drone strike off Oman draws stern warning from the US president.",
+      "date": "Fri, 26 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel, Lebanon sign framework deal after US-mediated talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/israel-lebanon-sign-framework-deal-after-us-mediated-talks?traffic_source=rss",
+      "description": "US Secretary of State Marco Rubio announced a US-mediated framework agreement between Israel and Lebanon.",
+      "date": "Fri, 26 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US announces framework agreement between Israel and Lebanon",
       "link": "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss",
-      "description": "US Secretary of State Marco Rubio has announced the deal after talks unfolded in Washington, DC.",
+      "description": "US Secretary of State Marco Rubio has announced the deal after talks in Washington, DC, calling it a &#039;first step&#039;.",
       "date": "Fri, 26 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -156,16 +196,6 @@
       "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
       "link": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
       "description": "Tehran rejects US-GCC pressure over missiles, the Strait of Hormuz and regional armed groups.",
-      "date": "Fri, 26 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Hezbollah demands Israel leave Lebanon ‘unconditionally’ as US talks extend",
-      "link": "https://www.aljazeera.com/news/2026/6/26/hezbollah-demands-israel-leave-lebanon-unconditionally-as-us-talks-extend?traffic_source=rss",
-      "description": "As Lebanon-Israel strive for agreement, Hezbollah chief Naim Qassem accepts &#039;no normalisation&#039; and &#039;no gains for Israel&#039;",
       "date": "Fri, 26 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -293,6 +323,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran refutes reports of direct line of communication with US on Strait of Hormuz",
+      "link": "https://tass.com/world/2152201",
+      "description": "According to the IRGC, the Strait of Hormuz belongs to Iran and \"the United States has no connection to it\"",
+      "date": "Fri, 26 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Serbia's NIS requests extension of US Treasury license beyond July 1",
+      "link": "https://tass.com/economy/2152185",
+      "description": "NIS shareholders have been forced to sell their assets because they have come under US sanctions",
+      "date": "Fri, 26 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Oman looking at charging fees for passage through Strait of Hormuz — media",
       "link": "https://tass.com/world/2152177",
       "description": "According to the agency, the Omani authorities warned European officials that navigation in the strait would never be as it was before the war",
@@ -306,26 +356,6 @@
       "title": "International Weightlifting Federation lifts sanctions against Russia, Belarus",
       "link": "https://tass.com/sports/2152159",
       "description": "The decision follows the recent recommendations of the IOC regarding the principles of neutrality in sport",
-      "date": "Fri, 26 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump accuses Iran of violating ceasefire with US",
-      "link": "https://tass.com/world/2152153",
-      "description": "The US leader did not threaten Iran",
-      "date": "Fri, 26 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US releases crew of seized Iranian vessel — agency",
-      "link": "https://tass.com/world/2152107",
-      "description": "According to the report, the crew were handed over to a representative of the Iranian consulate in Pakistan’s Karachi",
       "date": "Fri, 26 Jun 2026",
       "source": "TASS",
       "region": "ru",
