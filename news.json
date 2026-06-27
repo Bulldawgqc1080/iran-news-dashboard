@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-26 23:53 UTC",
-  "total": 35,
+  "updated": "2026-06-27 02:05 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "US conducts strikes on Iran after attack on cargo ship",
       "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "date": "Fri, 26 Jun 2026",
+      "date": "Sat, 27 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -103,9 +103,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East War: US strikes Iran after Trump says ceasefire was violated",
+      "title": "Middle East War: US and Iran trade strikes putting new strain on Mideast ceasefire",
       "link": "https://www.france24.com/en/middle-east/20260626-middle-east-war-us-strikes-iran-trump-ceasefire-violated",
-      "description": "The US struck Iran on Friday to respond to a drone attack on a cargo ship in the Strait of Hormuz, a provocation that US President Donald Trump said violated the ceasefire. The British military said Thursday that a vessel was hit by a projectile off Oman. This comes at a fragile ...",
+      "description": "The United States and Iran traded military strikes after Washington on Friday accused Tehran of attacking a cargo ship, jeopardizing a fragile ceasefire as diplomats struggle to contain the Middle East war. Follow our liveblog for the latest updates.",
       "date": "Fri, 26 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -143,6 +143,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump justifies strikes on Iran amid ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
+      "description": "The US has struck Iran in retaliation for what it says was an Iranian attack on a ship in the Strait of Hormuz.",
+      "date": "Sat, 27 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
+      "description": "Iran&#039;s IRGC says it targeted US military in region after Trump administration launched attack on the country.",
+      "date": "Sat, 27 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "What is the framework agreement signed by Israel and Lebanon?",
       "link": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon?traffic_source=rss",
       "description": "Deal comes after months of US-brokered direct talks, but Israel continues to occupy Lebanese land.",
@@ -176,16 +196,6 @@
       "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
       "description": "US Central Command forces conduct strikes against Iran in &#039;response&#039; to attack on commercial ship, Ever Lovely.",
-      "date": "Fri, 26 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel, Lebanon sign framework deal after US-mediated talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/israel-lebanon-sign-framework-deal-after-us-mediated-talks?traffic_source=rss",
-      "description": "US Secretary of State Marco Rubio announced a US-mediated framework agreement between Israel and Lebanon.",
       "date": "Fri, 26 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,9 +263,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: U.S. military conducts strikes against Iran",
+      "title": "West Asia war LIVE: U.S. and Iran trade strikes, putting new strain on ceasefire",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
+      "description": "Israel, Lebanon sign framework agreement with U.S. in ‘first step’ toward peace, says Rubio",
+      "date": "Sat, 27 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war updates on June 26, 2026",
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-26-2026/article71149347.ece",
       "description": "U.S. says it struck Iran targets after attack on cargo ship",
+      "date": "Sat, 27 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. and Iran trade strikes putting new strain on West Asia ceasefire",
+      "link": "https://www.thehindu.com/news/international/us-strike-on-iran-donald-trump-hormuz-strait-june-27-2026/article71152185.ece",
+      "description": "U.S. Central Command said the military struck missile and drone locations and coastal radar sites in Iran",
+      "date": "Sat, 27 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel, Lebanon sign framework agreement with U.S. in ‘first step’ toward peace, Rubio says",
+      "link": "https://www.thehindu.com/news/international/israel-lebanon-framework-agreement-united-states-june-26-2026/article71152028.ece",
+      "description": "The officials did not share details on the agreement that was signed by Yechiel Leiter, the Israeli Ambassador to the United States, and Nada Hamadeh, Ambassador of Lebanon to the United States",
       "date": "Fri, 26 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -263,9 +303,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. strikes Iran to respond to attack on ship that Trump says violated ceasefire",
-      "link": "https://www.thehindu.com/news/international/us-strike-on-iran-donald-trump-hormuz-strait-june-27-2026/article71152185.ece",
-      "description": "U.S. Central Command said the military struck missile and drone locations and coastal radar sites in Iran",
+      "title": "How Trump’s posts on Iran zigzagged during the war",
+      "link": "https://www.thehindu.com/news/international/how-trumps-posts-on-iran-zigzagged-during-the-war/article71150861.ece",
+      "description": "U.S. President’s social media messaging reveals how his rhetoric on the Islamic Republic repeatedly swung between warnings of destruction, calls for regime change and overtures of diplomacy; four months since the conflict unfolded, whether strategy or contradiction, it is difficu...",
       "date": "Fri, 26 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -283,34 +323,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "IMO pauses its Gulf vessel evacuation plan after Iran attacks ship",
-      "link": "https://www.thehindu.com/news/international/imo-pauses-its-gulf-vessel-evacuation-plan-after-iran-attacks-ship/article71151704.ece",
-      "description": "The attack followed a joint declaration by the Gulf Cooperation Council (GCC) states, including Oman, after a meeting attended by the United States, stating that there should be no “tolls, fees, or attempts to assert control over the strait.”",
-      "date": "Fri, 26 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Western attempts strangle Russia financially, economically fail — diplomat",
+      "link": "https://tass.com/politics/2152269",
+      "description": "Russian Foreign Ministry’s Ambassador-at-Large Alexander Trofimov stressed that Russia has withstood the sanctions-driven economic blitzkrieg thanks to the consistent efforts of the government, society, and the business community",
+      "date": "Sat, 27 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Hezbollah chief says Israel must 'unconditionally' leave Lebanon",
-      "link": "https://www.thehindu.com/news/international/hezbollah-chief-says-israel-must-unconditionally-leave-lebanon/article71150390.ece",
-      "description": "Lebanese authorities reported six deaths in Israeli attacks this week.",
-      "date": "Fri, 26 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middlemen offer Iranian oil to Indian refiners after U.S. waiver, sources say",
-      "link": "https://www.thehindu.com/business/Industry/middlemen-offer-iranian-oil-to-indian-refiners-after-us-waiver-sources-say/article71150587.ece",
-      "description": "NIOC is telling Indian buyers that Iranian crude would be $3 to $4 a barrel cheaper ‌than similar regional grades on a landed basis, they said",
-      "date": "Fri, 26 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Netanyahu praises agreement on Lebanon as 'blow to Iran,' vows not to withdraw troops",
+      "link": "https://tass.com/world/2152263",
+      "description": "According to the Israeli Prime Minister, the most important thing is that Israel remains in the security zone in southern Lebanon",
+      "date": "Sat, 27 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US ready to discuss disagreements with Iran, but to respond to violence — JD Vance",
@@ -326,26 +356,6 @@
       "title": "US servicemen confirm strikes on Iran",
       "link": "https://tass.com/world/2152243",
       "description": "US aircraft struck Iranian missile and drone depots, as well as coastal radar facilities",
-      "date": "Fri, 26 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Explosions rock Iran's southern coast near Strait of Hormuz — news agency",
-      "link": "https://tass.com/world/2152241",
-      "description": "The explosion was caused by a shell striking one of the piers in the Iranian city of Sirik",
-      "date": "Fri, 26 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Lebanese president hails framework agreement with Israel",
-      "link": "https://tass.com/world/2152237",
-      "description": "Joseph Aoun thanked the US administration led by President Donald Trump for arranging and hosting the talks with Israel and \"support for Lebanon’s stance\"",
       "date": "Fri, 26 Jun 2026",
       "source": "TASS",
       "region": "ru",
