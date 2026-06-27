@@ -1,17 +1,18 @@
 {
-  "updated": "2026-06-27 02:05 UTC",
+  "updated": "2026-06-27 06:19 UTC",
   "total": 10,
   "events": [
     {
       "date": "2026-06-27",
       "dateDisplay": "Jun 27, 2026",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "title": "U.S. strikes Iran in response to a drone attack on a ship",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
       "sources": [
-        "BBC"
+        "BBC",
+        "NPR News"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-06-26",
@@ -19,9 +20,9 @@
       "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
       "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
       "sources": [
+        "BBC",
         "Al Jazeera",
-        "France 24",
-        "BBC"
+        "France 24"
       ],
       "sourceCount": 3,
       "type": "fact"
