@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28 06:52 UTC",
-  "total": 43,
+  "updated": "2026-06-28 09:51 UTC",
+  "total": 45,
   "stories": [
     {
       "title": "New strikes test the Iran ceasefire",
@@ -133,9 +133,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Iran threatens a 'complete halt' in talks with US following exchange of fire",
-      "link": "https://www.france24.com/en/middle-east/20260628-middle-east-live-iran-threatens-a-completely-halt-in-talks-with-us-following-exchange-of-fire",
-      "description": "Iran's Revolutionary Guard threatened a 'complete halt' in negotiations with the US to end the war if Washington continued its attacks. Iran said it had earlier targeted US forces in Bahrain and Kuwait overnight Sunday in response to US strikes on 10 Iranian sites. Follow our liv...",
+      "title": "Israel attacks Lebanon despite truce",
+      "link": "https://www.france24.com/en/israel-attacks-lebanon-despite-truce",
+      "description": "Despite the signing of a new framework agreement on Friday aimed at ending the conflict, fighting has continued in Lebanon. On Sunday, the Israeli military said it had killed Hezbollah militants and struck a rocket launcher near Nabatieh in southern Lebanon, while the Iran-backed...",
       "date": "Sun, 28 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -143,7 +143,27 @@
       "bias": "Low-Med"
     },
     {
-      "title": "World Cup 2026: Algeria, Austria advance after draw as Iran crash out in group stage",
+      "title": "Iran targets Gulf states in response to US strikes, testing fragile ceasefire",
+      "link": "https://www.france24.com/en/iran-targets-gulf-states-in-response-to-us-strikes-testing-fragile-ceasefire",
+      "description": "Despite a fragile ceasefire, tensions between the United States and Iran remain high, with both sides accusing each other of violating the truce. Tehran says it has carried out a third consecutive day of retaliatory strikes against US military sites in the Middle East, while Wash...",
+      "date": "Sun, 28 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Iran targets Bahrain and Kuwait in response to US strikes",
+      "link": "https://www.france24.com/en/middle-east/20260628-middle-east-live-iran-threatens-a-completely-halt-in-talks-with-us-following-exchange-of-fire",
+      "description": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts to reopen the Strait...",
+      "date": "Sun, 28 Jun 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "World Cup 2026: Algeria and Austria advance after dramatic draw, knock Iran out of group stage",
       "link": "https://www.france24.com/en/sport/20260628-world-cup-2026-algeria-austria-advance-after-draw-as-iran-crash-out-in-group-stage",
       "description": "Austria fought back to salvage a dramatic 3-3 draw with Algeria in their final World Cup Group J match on Saturday, with two stoppage-time goals securing both teams a place in the Round of 32 and eliminating Iran. Argentina topped the group, while Austria finished second and Alge...",
       "date": "Sun, 28 Jun 2026",
@@ -193,14 +213,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US-Iran ceasefire threatened by renewed strikes",
-      "link": "https://www.france24.com/en/us-iran-ceasefire-threatened-by-renewed-strikes",
-      "description": "The Israeli military carried out an air strike Saturday on the Nabatiyeh area of southern Lebanon, a day after the US announced a framework agreement between Israel and Lebanon. The news comes as Tehran accused the Washington of a \"blatant violation\" of the peace deal after the l...",
-      "date": "Sat, 27 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss",
+      "description": "Knockout matches begin with South Africa vs Canada as Iran exit, Africa make history, Messi-Ronaldo final hopes rise.",
+      "date": "Sun, 28 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
+      "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
+      "description": "US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
+      "date": "Sun, 28 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/late-drama-ends-irans-hopes-of-reaching-world-cup-knockouts-for-first-time?traffic_source=rss",
+      "description": "Austria&#039;s 3-3 draw with Algeria ultimately decides Iran&#039;s fate as Team Melli crash out of the 2026 World Cup.",
+      "date": "Sun, 28 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
@@ -213,7 +253,7 @@
       "bias": "Medium"
     },
     {
-      "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
+      "title": "World Cup: Messi sends Argentina top, England to face DR Congo, Iran out",
       "link": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
       "description": "Lionel Messi scored his sixth goal of the 2026 World Cup, Harry Kane sent England top of their group, and Iran exited.",
       "date": "Sun, 28 Jun 2026",
@@ -253,24 +293,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss",
-      "description": "Israeli Defence Minister Israel Katz says the military has been ordered to prepare for an ‘extended stay’ in Lebanon.",
-      "date": "Sat, 27 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "Trump threatens to annihilate Iran after tit-for-tat attacks, recriminations over peace deal violations",
+      "link": "https://www.dawn.com/news/2011386/trump-threatens-to-annihilate-iran-after-tit-for-tat-attacks-recriminations-over-peace-deal-violations",
+      "description": "Tehran said on Sunday it carried out a third day of retaliatory strikes against US attacks on Iranian territory, as both accused the other of violating their fragile ceasefire, straining negotiations meant to end the Middle East war. The exchanges underscored the fragility of a P...",
+      "date": "Sun, 28 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us?traffic_source=rss",
-      "description": "Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.",
-      "date": "Sat, 27 Jun 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Lebanon hit by Israel again despite signing peace deal",
@@ -323,19 +353,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US Senate reverses course on president’s war powers",
-      "link": "https://www.dawn.com/news/2010880/us-senate-reverses-course-on-presidents-war-powers",
-      "description": "• President lashes out at Republicans during a closed-door Capitol Hill lunch over earlier votes• Senators Bill Cassidy, Rand Paul shift positions following White House intervention• Administration seeks $70bn for war, needs Democrats to pass 60-vote barrier WASHINGTON: The US Se...",
-      "date": "Fri, 26 Jun 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: Iran attacks Bahrain, Kuwait following U.S. strikes",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+      "description": "The U.S. military says it struck 10 targets in Iran as ceasefire is strained by second day of attacks",
+      "date": "Sun, 28 Jun 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran attacks Bahrain, Kuwait following U.S. strikes",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
-      "description": "The U.S. military says it struck 10 targets in Iran as ceasefire is strained by second day of attacks",
+      "title": "DGS withdraws restriction on the movement of Indian ships in the Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/national/dgs-withdraws-restriction-on-the-movement-of-indian-ships-in-the-strait-of-hormuz/article71157312.ece",
+      "description": "The advisory against deploying Indian seafarers in the conflict zones also stands withdrawn",
+      "date": "Sun, 28 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran attacks Bahrain, Kuwait following U.S. strikes, threatens to end talks to end war",
+      "link": "https://www.thehindu.com/news/international/iran-attacks-bahrain-kuwait-following-us-strikes-threatens-to-end-talks-to-end-war/article71157259.ece",
+      "description": "An interim deal between the U.S. and Iran to end the war called for the Strait, which once saw a fifth of the world's oil and natural gas pass through it, to see transits resume",
       "date": "Sun, 28 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -373,24 +413,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war highlights: U.S. conducts further strikes against 'multiple targets' in Iran",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
-      "description": "Lebanon's President hopes U.S. will press Israel to withdraw from southern areas",
+      "title": "Iranian attack damages residential building — Bahraini Interior Ministry",
+      "link": "https://tass.com/world/2152553",
+      "description": "There were no casualties",
       "date": "Sun, 28 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Netanyahu plans ‘broad national govt.’ after Israel vote",
-      "link": "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
-      "description": "He also hailed the U.S.-brokered agreement with Lebanon, calling it a historic achievement that dealt a blow to arch-foes Iran and Hezbollah",
-      "date": "Sat, 27 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US attacks violate agreements with Tehran — Iranian MFA",
@@ -416,16 +446,6 @@
       "title": "Series of explosions heard near Iran’s Sirik, Qeshm",
       "link": "https://tass.com/world/2152511",
       "description": "Several projectiles hit a telecom tower on Sirik and landed in the village of Masen on Qeshm",
-      "date": "Sun, 28 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IRGC delivers retaliatory strike on key US infrastructure in Kuwait, Bahrain",
-      "link": "https://tass.com/world/2152505",
-      "description": "The IRGC also warned that Tehran’s future response to potential US aggression will be even more decisive",
       "date": "Sun, 28 Jun 2026",
       "source": "TASS",
       "region": "ru",
