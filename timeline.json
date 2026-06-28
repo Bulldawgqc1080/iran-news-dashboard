@@ -1,28 +1,30 @@
 {
-  "updated": "2026-06-28 02:26 UTC",
+  "updated": "2026-06-28 06:52 UTC",
   "total": 11,
   "events": [
     {
       "date": "2026-06-28",
       "dateDisplay": "Jun 28, 2026",
-      "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+      "title": "US strikes Iran again as Tehran hits Bahrain and Kuwait",
+      "link": "https://www.france24.com/en/middle-east/20260628-us-strikes-more-targets-in-iran-as-fragile-ceasefire-comes-under-renewed-strain",
       "sources": [
-        "Al Jazeera"
+        "Al Jazeera",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-06-27",
       "dateDisplay": "Jun 27, 2026",
-      "title": "How is framework agreement with Lebanon viewed in Israel?",
-      "link": "https://www.aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss",
+      "title": "New strikes test the Iran ceasefire",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5869562/new-strikes-test-the-iran-ceasefire",
       "sources": [
-        "Al Jazeera"
+        "NPR News",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-06-26",
