@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 03:56 UTC",
+  "updated": "2026-06-29 08:50 UTC",
   "total": 37,
   "stories": [
     {
@@ -23,6 +23,26 @@
       "bias": "Low"
     },
     {
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+      "description": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
+      "date": "Mon, 29 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "description": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "date": "Sun, 28 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
       "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
       "description": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
@@ -43,9 +63,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "description": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
+      "date": "Fri, 26 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
       "link": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
       "description": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
+      "date": "Fri, 26 Jun 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
       "date": "Fri, 26 Jun 2026",
       "source": "BBC",
       "region": "eu",
@@ -57,16 +97,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
       "description": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
       "date": "Wed, 24 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-      "date": "Fri, 26 Jun 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -93,36 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "description": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-      "date": "Tue, 23 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "description": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
-      "date": "Mon, 22 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "link": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "description": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
-      "date": "Sat, 20 Jun 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "US says Iran talks to continue, with 'both sides' pausing strikes",
       "link": "https://www.france24.com/en/middle-east/20260629-middle-east-live-lebanon-rejects-us%E2%80%93israel-framework-hezbollah-asserts-right-to-self-defence",
       "description": "",
@@ -135,7 +135,7 @@
     {
       "title": "Middle East live: US says Iran talks to continue, with 'both sides' pausing strikes",
       "link": "https://www.france24.com/en/middle-east/20260629-middle-east-live-lebanon-rejects-us%E2%80%93israel-framework-hezbollah-asserts-right-to-self-defence",
-      "description": "The United States and Iran will continue their talks aimed at ending the Middle East war, a US official said on Sunday, adding that both sides will stand down after recent clashes. This comes hours after Lebanese Parliament Speaker Nabih Berri rejected a US–Israel–Lebanon framewo...",
+      "description": "The United States and Iran will continue their talks aimed at ending the Middle East war, a US official said on Sunday, adding that both sides will stand down after recent clashes. Lebanese Parliament Speaker Nabih Berri rejected a US–Israel–Lebanon framework deal, calling it “an...",
       "date": "Mon, 29 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -145,7 +145,7 @@
     {
       "title": "Iran attacks Bahrain and Kuwait, threatens to halt talks after fresh US strikes",
       "link": "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait",
-      "description": "Iran launched fresh drone and missile attacks on Bahrain and Kuwait on Sunday after new US airstrikes, while warning it would completely halt negotiations and close the Strait of Hormuz if Washington continues its attacks.",
+      "description": "Iran launched fresh drone and missile attacks on Bahrain and Kuwait on Sunday after new US air strikes, warning that it would completely halt negotiations and close the Strait of Hormuz again if the attacks continue.",
       "date": "Sun, 28 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -173,14 +173,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "New US-Iran exchange of attacks threatens ceasefire",
-      "link": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire",
-      "description": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts to reopen the Strait...",
-      "date": "Sun, 28 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Israel triggers huge explosion in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss",
+      "description": "A massive explosion triggered by the Israeli military shook the southern Lebanese village of Majdal Zoun.",
+      "date": "Mon, 29 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+      "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
+      "description": "Brent crude edges up as tit-for-tat strikes hinder return to normality in key waterway.",
+      "date": "Mon, 29 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
@@ -203,14 +213,14 @@
       "bias": "Medium"
     },
     {
-      "title": "US and Iran trade strikes days after peace agreement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
-      "description": "Just days after signing a memorandum of understanding, the US and Iran have traded strikes.",
-      "date": "Sun, 28 Jun 2026",
-      "source": "Al Jazeera",
+      "title": "Iran and US agree to halt attacks and renew talks, US official says",
+      "link": "https://www.dawn.com/news/2011596/iran-and-us-agree-to-halt-attacks-and-renew-talks-us-official-says",
+      "description": "Iran and the United States agreed to halt recent hostilities in the Gulf and renew talks regarding their dispute over the Strait of Hormuz, a US official said on Sunday, raising hopes of saving an interim peace deal that was under pressure from days of tit-for-tat strikes. The ex...",
+      "date": "Mon, 29 Jun 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "US weighs shifting Gulf bases after strikes",
@@ -246,7 +256,7 @@
       "title": "Aramco helicopter crash kills 14 in Saudi Arabia",
       "link": "https://www.dawn.com/news/2011406/aramco-helicopter-crash-kills-14-in-saudi-arabia",
       "description": "A helicopter crash in Saudi Arabia killed 14 Saudi citizens on Sunday, the kingdom’s official press agency reported, adding that the aircraft belonged to state oil giant Aramco. The Saudi Press Agency, citing an official at the energy ministry, reported the helicopter crashed in ...",
-      "date": "Sun, 28 Jun 2026",
+      "date": "Mon, 29 Jun 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -263,39 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon hit by Israel again despite signing peace deal",
-      "link": "https://www.dawn.com/news/2011244/lebanon-hit-by-israel-again-despite-signing-peace-deal",
-      "description": "• Israeli defence minister warns Iran against ‘undermining’ Lebanon agreement• Hezbollah rejects framework pact, says it should be replaced by Islamabad MoU JERUSALEM / WASHINGTON: Israe­­li forces carried out drone and air strikes in southern Lebanon on Saturday, Lebanon’s state...",
-      "date": "Sun, 28 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Putin says Russia needs more air defence capability, tackling fuel issues",
-      "link": "https://www.thehindu.com/news/international/putin-says-russia-needs-more-air-defence-capability-tackling-fuel-issues/article71159024.ece",
-      "description": "The Russian President said he is expecting U.S. negotiators to come to Moscow once they are less busy with Iran",
-      "date": "Mon, 29 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: U.S. says Iran talks to continue, 'both sides' standing down after clashes",
+      "title": "West Asia war LIVE: Iran, Oman hold first Hormuz Joint Committee meeting, discuss future management of Strait",
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-ceasefire-live-updates-june-29-2026/article71159879.ece",
       "description": "The U.S. and Iran have traded strikes in recent days despite a fragile June 17 MoU aimed at ending the conflict",
-      "date": "Mon, 29 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Netanyahu plans ‘broad national govt.’ after Israel vote",
-      "link": "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
-      "description": "He also hailed the U.S.-brokered agreement with Lebanon, calling it a historic achievement that dealt a blow to arch-foes Iran and Hezbollah",
       "date": "Mon, 29 Jun 2026",
       "source": "The Hindu",
       "region": "me",
@@ -313,6 +293,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. says Iran talks to continue, ‘both sides’ pausing strikes",
+      "link": "https://www.thehindu.com/news/international/us-iran-agree-to-halt-strikes-doha-talks-this-week-report-updates/article71159846.ece",
+      "description": "Washington and Tehran will resume talks in Qatar on June 30, according to government sources",
+      "date": "Mon, 29 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Putin says Russia needs more air defence capability, tackling fuel issues",
+      "link": "https://www.thehindu.com/news/international/putin-says-russia-needs-more-air-defence-capability-tackling-fuel-issues/article71159024.ece",
+      "description": "The Russian President said he is expecting U.S. negotiators to come to Moscow once they are less busy with Iran",
+      "date": "Mon, 29 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Netanyahu plans ‘broad national govt.’ after Israel vote",
+      "link": "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
+      "description": "He also hailed the U.S.-brokered agreement with Lebanon, calling it a historic achievement that dealt a blow to arch-foes Iran and Hezbollah",
+      "date": "Mon, 29 Jun 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
       "link": "https://www.thehindu.com/news/international/israel-destroys-hezbollah-underground-infrastructure-in-southern-lebanon/article71159206.ece",
       "description": "The U.S. was informed ahead of the attack, which targeted a 200-meter (656-ft)-long tunnel in the ‌town of Majdal Zoun, according to the statement from Israeli PM Netanyahu ‌and Defence Minister Israel Katz",
@@ -323,50 +333,40 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran attacks Bahrain, Kuwait following U.S. strikes, threatens to end talks to end war",
-      "link": "https://www.thehindu.com/news/international/iran-attacks-bahrain-kuwait-following-us-strikes-threatens-to-end-talks-to-end-war/article71157259.ece",
-      "description": "An interim deal between the U.S. and Iran to end the war called for the Strait, which once saw a fifth of the world's oil and natural gas pass through it, to see transits resume",
+      "title": "Iran, Qatar agree to unfreeze $6 bln in Iranian assets in emirate — Pezeshkian",
+      "link": "https://tass.com/world/2152845",
+      "description": "The Iranian president said the necessary work to return the remaining portion of the funds is also continuing",
       "date": "Mon, 29 Jun 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israeli army strikes three Hezbollah command centers in response to ceasefire violations",
+      "link": "https://tass.com/world/2152839",
+      "description": "The IDF attacks targeted the areas of Nabatieh and Mayfadoun in southern Lebanon",
+      "date": "Mon, 29 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "War with Iran increases risk of US, Israel using nuclear weapons — Taylor Greene",
+      "link": "https://tass.com/world/2152811",
+      "description": "The former US House of Representatives member emphasized that the situation in the Middle East could spiral out of control",
+      "date": "Mon, 29 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Relations between Russia, China should evolve without regard to secondary sanctions",
       "link": "https://tass.com/politics/2152793",
       "description": "Deputy General Director of the Russian International Affairs Council Dmitry Kiku added that a new page in relations between the two countries is needed",
       "date": "Mon, 29 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel announced destruction of underground Hezbollah facility",
-      "link": "https://tass.com/world/2152779",
-      "description": "Israel notified the US and the American representative in Lebanon in advance of the operation, according to a statement by Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz",
-      "date": "Mon, 29 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "United States, Iran agreed to stop strikes — Axios",
-      "link": "https://tass.com/world/2152763",
-      "description": "Washington and Tehran also reached an agreement to hold consultations in Doha on Tuesday",
-      "date": "Sun, 28 Jun 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iraq ready to host meeting between Iran, Gulf Arab nations — top diplomat",
-      "link": "https://tass.com/world/2152687",
-      "description": "According to Hussein, as Iraq maintains \"perfect relations with the United States,\" Baghdad \"expresses its readiness to help both Tehran and Washington put an end to the war between them.\"",
-      "date": "Sun, 28 Jun 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
