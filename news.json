@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29 12:56 UTC",
-  "total": 35,
+  "updated": "2026-06-29 16:33 UTC",
+  "total": 39,
   "stories": [
     {
       "title": "U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE",
@@ -13,9 +13,19 @@
       "bias": "Low"
     },
     {
-      "title": "Trump says U.S. and Iran to meet in Qatar after weekend attacks",
+      "title": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
       "link": "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks",
       "description": "President Trump said talks with Iran would resume Tuesday in Qatar, despite the two sides trading attacks in the Gulf over the weekend. Iran did not confirm whether it will participate.",
+      "date": "Mon, 29 Jun 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Former Iran nuclear deal negotiator on what U.S.-Iran 'new normal' looks like",
+      "link": "https://www.npr.org/2026/06/29/nx-s1-5873990/us-iran-ceasefire-new-normal-gulf-flareups",
+      "description": "NPR's Leila Fadel asks former national security adviser and 2015 Iran deal negotiator Jake Sullivan about ceasefire talks amid new strikes by the U.S. and Iran.",
       "date": "Mon, 29 Jun 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,9 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "China, EU commerce ministers meet amid widening trade imbalance",
-      "link": "https://www.france24.com/en/tv-shows/business/20260629-china-eu-commerce-ministers-meet-amid-widening-trade-imbalance",
-      "description": "EU Trade Commissioner Maros Sefcovic and his Chinese counterpart are meeting in Brussels as Europe prepares countermeasures to battle a flood of cheap imports. Also, oil prices climb after a weekend of renewed strikes between the US and Iran, and South Korea unveils a massive new...",
+      "title": "Middle East live: Trump says Iran talks to be held in Qatar, but Tehran denies it",
+      "link": "https://www.france24.com/en/middle-east/20260629-middle-east-live-lebanon-rejects-us%E2%80%93israel-framework-hezbollah-asserts-right-to-self-defence",
+      "description": "",
       "date": "Mon, 29 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -143,9 +153,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Craze for XXL snacks raises obesity fears in China",
-      "link": "https://www.france24.com/en/video/20260629-craze-for-xxl-snacks-raises-obesity-fears-in-china",
-      "description": "In China, a massive surge in junk food and snacks has sparked a new trend: giant retail stores dedicated entirely to XXL-sized snacks. But the craze is raising serious questions about obesity, in a country where 19 percent of children are now overweight.",
+      "title": "Why Oman has become a key diplomatic player in Mideast war",
+      "link": "https://www.france24.com/en/video/20260629-why-oman-has-become-a-key-diplomatic-player-in-mideast-war",
+      "description": "Iran said Monday it had held its first meeting with Oman on managing the Strait of Hormuz since it signed a preliminary deal to end the Middle East war with the United States. It comes as French President Emmanuel Macron is set to host the Sultan of Oman at the Elysée Palace on M...",
       "date": "Mon, 29 Jun 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,49 +163,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Sultan of Oman to meet France's Macron with spotlight on Strait of Hormuz",
-      "link": "https://www.france24.com/en/video/20260629-sultan-of-oman-to-meet-france-s-macron-with-spotlight-on-strait-of-hormuz",
-      "description": "French President Emmanuel Macron is set to host the Sultan of Oman at the Elysée Palace this Monday as he kicks off a two-day visit to France. The two leaders are expected to discuss regional security amid escalations in Iran and particularly securing the toll-free reopening of t...",
-      "date": "Mon, 29 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel says detonates Hezbollah tunnel, strikes south Lebanon",
-      "link": "https://www.france24.com/en/video/20260629-israel-says-detonates-hezbollah-tunnel-strikes-south-lebanon",
-      "description": "The Israeli army destroyed an extensive tunnel built by Hezbollah in southern Lebanon, Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz said Sunday, with Lebanese state media reporting strikes in the area. The attacks came despite a trilateral framework agreemen...",
-      "date": "Mon, 29 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US says Iran talks to resume after both sides agree to halt strikes",
-      "link": "https://www.france24.com/en/video/20260629-us-says-iran-talks-to-resume-after-both-sides-agree-to-halt-strikes",
-      "description": "Iran and the United States agreed to halt recent hostilities in the Gulf and renew talks regarding their dispute over the Strait of Hormuz, a U.S. official said on Sunday, raising hopes of saving an interim peace deal that was under pressure from days of tit-for-tat strikes. Axio...",
-      "date": "Mon, 29 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'A lot of uncertainty' as Washington says US, Iran to resume talks",
-      "link": "https://www.france24.com/en/video/20260629-a-lot-of-uncertainty-as-washington-says-us-iran-to-resume-talks",
-      "description": "Washington and Tehran have agreed to halt a new series of tit-for-tat strikes and renew talks aimed at ending the Middle East war, a US official said Sunday. The recent strikes had threatened to upend the interim deal in place between the US and Iran, but even with the talks set ...",
-      "date": "Mon, 29 Jun 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
-      "link": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
-      "description": "The White House denied a split between the two officials who have historically held diverging foreign policy positions.",
+      "title": "US petrol prices ease despite ongoing uncertainties with Iran",
+      "link": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
+      "description": "US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.",
       "date": "Mon, 29 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -203,9 +173,9 @@
       "bias": "Medium"
     },
     {
-      "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
-      "description": "Former US Ambassador to Oman Richard Schmierer says recent US-Iran military exchanges appear to have run their course.",
+      "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
+      "link": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss",
+      "description": "The US-Iran MoU acts as a state-to-state framework managing mutual pain, not a definitive end to regional conflict.",
       "date": "Mon, 29 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -213,9 +183,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel triggers huge explosion in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss",
-      "description": "A massive explosion triggered by the Israeli military shook the southern Lebanese village of Majdal Zoun.",
+      "title": "Lebanon Latest: Israel strikes as Hezbollah condemns new deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-aje_onl_lebanon_wrap-290626?traffic_source=rss",
+      "description": "Israeli strikes continue as the new Israel-Lebanon agreement faces opposition.",
       "date": "Mon, 29 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -223,14 +193,54 @@
       "bias": "Medium"
     },
     {
-      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
-      "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
-      "description": "Brent crude edges up as tit-for-tat strikes hinder return to normality in key waterway.",
+      "title": "Lebanon’s displaced begin to return home, but some have nowhere to go",
+      "link": "https://www.aljazeera.com/features/2026/6/29/lebanons-displaced-begin-to-return-home-but-some-have-nowhere-to-go?traffic_source=rss",
+      "description": "Thousands in Lebanon attempt to return home, yet rampant destruction leaves many trapped in displacement centres.",
       "date": "Mon, 29 Jun 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Why the Arab League could not stop Israel’s genocide",
+      "link": "https://www.aljazeera.com/opinions/2026/6/29/why-the-arab-league-could-not-stop-israels-genocide?traffic_source=rss",
+      "description": "Arab governments are constrained by dependency, regime survival and fear of empowering Iran-aligned rivals.",
+      "date": "Mon, 29 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump announces meeting with Iran in Qatar despite military skirmishes",
+      "link": "https://www.aljazeera.com/news/2026/6/29/trump-announces-meeting-with-iran-in-qatar-despite-military-skirmishes?traffic_source=rss",
+      "description": "US president says talks will take place on Tuesday, but Tehran has not confirmed the negotiations in Doha.",
+      "date": "Mon, 29 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
+      "link": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
+      "description": "China and Sudan signed off on a waiver of $50m as Sudan’s military-led government seeks support amid Western sanctions.",
+      "date": "Mon, 29 Jun 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel-Lebanon deal may entrench stalemate rather than end war, analysts say",
+      "link": "https://www.dawn.com/news/2011664/israel-lebanon-deal-may-entrench-stalemate-rather-than-end-war-analysts-say",
+      "description": "A security deal between Israel and Lebanon risks entrenching a stalemate rather than resolving Tel Aviv’s underlying conflict with Hezbollah by tying its pullout from southern Lebanon to the group’s disarmament, a condition regional analysts and politicians say is unattainable. A...",
+      "date": "Mon, 29 Jun 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Turkiye must be 'included' in Europe security structures: Erdogan ahead of Nato summit",
@@ -277,16 +287,6 @@
       "link": "https://www.dawn.com/news/2011502/swiss-talks-hang-in-the-balance-as-tit-for-tat-strikes-rattle-mideast",
       "description": "• US hits Iranian targets after tankers come under fire• IRGC hits US bases in Kuwait, Bahrain in retaliation• Negotiators expected to meet in Doha this week to discuss Hormuz control• Araghchi asserts sovereignty over vital waterway; seeks collective security framework for Gulf ...",
       "date": "Mon, 29 Jun 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran's supreme leader says legal cases must be pursued against US, Israel over 'child killings, war crimes'",
-      "link": "https://www.dawn.com/news/2011424/irans-supreme-leader-says-legal-cases-must-be-pursued-against-us-israel-over-child-killings-war-crimes",
-      "description": "Iran’s Supreme Leader Ayatollah Mojtaba Khamenei said on Sunday that legal cases must be pursued against the US and Israel over “child killings and war crimes” in Iran. Mojtaba, who has not appeared publicly since being named as the supreme leader on March 8, made these remarks i...",
-      "date": "Sun, 28 Jun 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -351,6 +351,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Number of ships crossing Strait of Hormuz on decline for third consecutive day",
+      "link": "https://tass.com/world/2153123",
+      "description": "In all, a total of 108 ships crossed the Strait of Hormuz between June 26 and 28",
+      "date": "Mon, 29 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran, China unlikely to be thrilled about creation of Trump Route in Armenia — Russian MFA",
+      "link": "https://tass.com/politics/2153075",
+      "description": "According to Mikhail Galuzin, recent events demonstrate that the prospects for implementing the Trump Route project are mixed",
+      "date": "Mon, 29 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Witkoff, Kushner to travel to Doha for talks with Iran this week — White House",
+      "link": "https://tass.com/world/2153045",
+      "description": "Press Secretary Karoline Leavitt added that technical talks will also be held in Doha",
+      "date": "Mon, 29 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Senior Iranian diplomat denies reports of consultations with US in Doha on June 30",
+      "link": "https://tass.com/world/2152957",
+      "description": "Consultations with Qatar continue as usual, Kazem Gharibabadi said",
+      "date": "Mon, 29 Jun 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
