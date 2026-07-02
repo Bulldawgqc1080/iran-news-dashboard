@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-02 19:07 UTC",
-  "total": 30,
+  "updated": "2026-07-02 20:52 UTC",
+  "total": 33,
   "stories": [
+    {
+      "title": "Are the wars in Ukraine and Iran showing the limits of global powers?",
+      "link": "https://www.npr.org/2026/07/02/nx-s1-5877615/are-the-wars-in-ukraine-and-iran-showing-the-limits-of-global-powers",
+      "description": "We look at the Russian attacks on Kyiv and the overall state of the wars between Russia and Ukraine and the U.S. and Iran.",
+      "date": "Thu, 02 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
       "link": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
@@ -113,6 +123,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Austria-Algeria draw sparks World Cup match fixing allegations online",
+      "link": "https://www.france24.com/en/austria-algeria-draw-sparks-world-cup-match-fixing-allegations-online",
+      "description": "Austria and Algeria's dramatic 3-3 World Cup draw sparked online claims the match was fixed to send both teams into the knockout stage at Iran's expense. Conspiracy theories, misleading videos and fake FIFA notices have fuelled the speculation, with some dubbing it the \"Disgrace ...",
+      "date": "Thu, 02 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump administration renews pressure on International Criminal Court",
+      "link": "https://www.aljazeera.com/news/2026/7/2/trump-administration-renews-pressure-on-international-criminal-court?traffic_source=rss",
+      "description": "The US says it will reject any effort by court to assert authority over citizens, days after judges sue over sanctions.",
+      "date": "Thu, 02 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "The last time Iran held a funeral for the Supreme Leader",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss",
+      "description": "An estimated 10 million mourners attended Iran’s first Supreme Leader’s funeral in 1989.",
+      "date": "Thu, 02 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
       "link": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
       "description": "Despite Iranian attacks, several GCC states continue to speak with Tehran in effort to mend ties and forge cooperation.",
@@ -126,16 +166,6 @@
       "title": "US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip",
       "link": "https://www.aljazeera.com/news/2026/7/2/us-wants-intervention-syria-signals-diplomacy-after-fm-lebanon-trip?traffic_source=rss",
       "description": "Syrian Foreign Minister al-Shaibani met Hezbollah ally Berri during visit, as Trump calls for Syria to disarm group.",
-      "date": "Thu, 02 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
-      "link": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss",
-      "description": "Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.",
       "date": "Thu, 02 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,6 +293,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Learning personally from Putin about Russia’s foreign policy important for Turkey — Fidan",
+      "link": "https://tass.com/world/2154751",
+      "description": "The Foreign Minister added that it is important for Turkey to understand Russia’s position on the \"ongoing peace process in the Caucasus,\" positions and opinions on Palestine, Gaza, Lebanon, and Syria",
+      "date": "Thu, 02 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US offers Iran access to frozen funds for free Hormuz Strait passage",
+      "link": "https://tass.com/world/2154753",
+      "description": "Iran rejected the proposal, insisting on its right to control the Strait of Hormuz, while its military also threatened tough measures against vessels that do not use routes approved by Tehran, The Wall Street Journal noted",
+      "date": "Thu, 02 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Saudi Arabia sent largest oil shipment in four months through Hormuz",
       "link": "https://tass.com/economy/2154697",
       "description": "This indicates an increase in Saudi Arabia's oil exports after the United States and Iran agreed in June to resume maritime transit through the Strait of Hormuz, Bloomberg said",
@@ -276,26 +326,6 @@
       "title": "Pilgrims arrive in Tehran for farewell ceremony for Ali Khamenei",
       "link": "https://tass.com/world/2154691",
       "description": "According to the Iranian authorities, several million pilgrims are expected in Tehran",
-      "date": "Thu, 02 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Lebanon and Syria establish High Committee for Cooperation and Security",
-      "link": "https://tass.com/world/2154685",
-      "description": "\"The committee's work will be aimed at developing trade and economic ties and establishing mutual understanding in the field of security,\" Lebanese Prime Minister Nawaf Salam",
-      "date": "Thu, 02 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russia ready to assist Iran, US in reaching long-term agreement — diplomat",
-      "link": "https://tass.com/politics/2154675",
-      "description": "Russia's Acting Permanent Representative to the UN Anna Yevstigneyeva reiterated Russia’s updated concept of collective security for the Persian Gulf area, which was handed over to its Arab and Iranian partners in late May",
       "date": "Thu, 02 Jul 2026",
       "source": "TASS",
       "region": "ru",
