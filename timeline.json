@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-04 01:59 UTC",
+  "updated": "2026-07-04 05:48 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-07-04",
       "dateDisplay": "Jul 04, 2026",
-      "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
+      "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
       "sources": [
-        "Al Jazeera"
+        "France 24",
+        "NPR News"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-07-03",
@@ -20,11 +21,10 @@
       "link": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
       "sources": [
         "France 24",
-        "NPR News",
-        "Al Jazeera"
+        "NPR News"
       ],
-      "sourceCount": 3,
-      "type": "fact"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-07-02",
