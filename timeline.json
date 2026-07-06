@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-06 02:09 UTC",
+  "updated": "2026-07-06 06:59 UTC",
   "total": 14,
   "events": [
     {
       "date": "2026-07-06",
       "dateDisplay": "Jul 06, 2026",
-      "title": "Iran war live: Tehran prepares for Ali Khamenei\u2019s funeral procession",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
+      "title": "Khamenei funeral procession begins in Tehran, draws massive crowds of mourners",
+      "link": "https://www.france24.com/en/middle-east/20260706-khamenei-funeral-procession-begins-in-tehran-draws-massive-crowds-of-mourners",
       "sources": [
-        "Al Jazeera"
+        "Al Jazeera",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-07-05",
@@ -19,12 +20,11 @@
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
       "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24",
-        "Al Jazeera",
-        "BBC"
+        "BBC",
+        "France 24"
       ],
-      "sourceCount": 3,
-      "type": "fact"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-07-04",
