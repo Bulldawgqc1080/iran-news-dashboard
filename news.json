@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-06 06:59 UTC",
-  "total": 36,
+  "updated": "2026-07-06 11:38 UTC",
+  "total": 31,
   "stories": [
-    {
-      "title": "Iran begins week of funeral celebrations for Khamenei",
-      "link": "https://www.npr.org/2026/07/04/nx-s1-5877738/iran-begins-week-of-funeral-celebrations-for-khamenei",
-      "description": "Foreign dignitaries are gathering in Iran for a week of funeral ceremonies for Ayatollah Ali Khamenei, more than four months after he was killed in U.S.-Israeli airstrikes.",
-      "date": "Sat, 04 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
     {
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
       "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
@@ -37,6 +27,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "description": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
       "date": "Sun, 05 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC travels to the city of Bandar Abbas - the first time journalists from a UK broadcaster have been to the Iranian side of the strait.",
+      "date": "Thu, 02 Jul 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -103,11 +103,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-      "date": "Fri, 26 Jun 2026",
-      "source": "BBC",
+      "title": "'Genuine admiration and emotion' in Tehran's streets as Iran mourns supreme leader",
+      "link": "https://www.france24.com/en/genuine-admiration-and-emotion-in-tehran-s-streets-as-iran-mourns-supreme-leader",
+      "description": "Vast crowds have gathered for the funeral procession of Iran's slain supreme leader Ali Khamenei in Tehran on July 6, with authorities estimating millions were on the streets. The final public tribute is expected to last around 10 hours. FRANCE 24's Reza Sayah tells us more on wh...",
+      "date": "Mon, 06 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -123,69 +123,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Some Lebanese Christian villages 'asked to be annexed to Israel', Netanyahu says",
-      "link": "https://www.france24.com/en/middle-east/20260705-netanyahu-says-lebanese-christian-villages-sought-annexation-by-israel",
-      "description": "Israeli Prime Minister Benjamin Netanyahu said on Sunday that some Christian villages in southern Lebanon had asked to be annexed by Israel for protection from Hezbollah, a claim made as he reaffirmed that Israeli troops would remain in southern Lebanon for as long as necessary.",
-      "date": "Sun, 05 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Could islamist fighters take Timbuktu?",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu",
-      "description": "Mali's military junta is facing one of its most serious security challenges in months. A wave of coordinated attacks by the jihadist group JNIM and its Tuareg ally, the FLA, has targeted army positions across the north of the country, raising fresh questions about the government'...",
-      "date": "Sun, 05 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Why Iran's unseen leader remains in the shadows",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260705-why-iran-s-unseen-leader-remains-in-the-shadows",
-      "description": "The images emerging from Tehran are striking. Tens of thousands of mourners dressed in black have gathered at the Imam Khomeini Grand Mosalla for the funeral and lying in state of Ayatollah Ali Khamenei, following his assassination on the opening day of a war between Iran and the...",
-      "date": "Sun, 05 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran's new Supreme Leader Mojtaba Khamenei absent from mass funeral for father",
-      "link": "https://www.france24.com/en/asia-pacific/20260705-iran-new-supreme-leader-mojtaba-khamenei-absent-from-mass-funeral-for-father",
-      "description": "Ayatollah Ali Khamenei’s son and successor was not among the family members and thousands of mourners who turned out Sunday for a second day of ceremonies to honour Iran’s late supreme leader. Mojtaba Khamenei has remained out of the public eye since he was wounded in the strike ...",
-      "date": "Sun, 05 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Tour de France stage to go ahead with changes as fires ravage southern Europe",
-      "link": "https://www.france24.com/en/france/20260705-tour-de-france-stage-under-threat-due-to-forest-fires-official",
-      "description": "An \"adapted\" format of the third stage of the Tour de France will go ahead on Monday after wildfires sweeping southern France put the cycling stage in jeopardy, a top official said Sunday. The blaze, which has already scorched 1,500 hectares near the Pyrenees, is part of a wider ...",
-      "date": "Sun, 05 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran needs to 'normalise relations with the US somehow' to save economy, expert says",
-      "link": "https://www.france24.com/en/iran-needs-to-normalise-relations-with-the-us-somehow-to-save-economy-expert-says",
-      "description": "Iranian leaders joined prayers Sunday over the casket of late supreme leader Ali Khamenei during a second day of funeral ceremonies. Arash Azizi, contribuing writer at the Atlantic, said Iran needs to \"normalise relations with the US somehow\" as he pointed to the economy which is...",
-      "date": "Sun, 05 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-      "link": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
-      "description": "The move underscores growing scrutiny of the conflict mineral trade fuelling violence in eastern DR Congo.",
+      "title": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
+      "link": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss",
+      "description": "Enormous crowds gather in Tehran for third day to mourn amid calls for revenge against the US and Israel.",
       "date": "Mon, 06 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -193,9 +133,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Khamenei’s funeral procession under way in Tehran",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
-      "description": "The funeral procession is expected to last 10-12 hours and has drawn crowds of hundreds of thousands of mourners.",
+      "title": "Funeral procession for Iran’s slain Supreme Leader Ali Khamenei under way",
+      "link": "https://www.aljazeera.com/gallery/2026/7/6/funeral-procession-for-irans-slain-supreme-leader-ali-khamenei-under-way?traffic_source=rss",
+      "description": "Iranians mourn along procession route before burial in Mashhad during weeklong ceremonies.",
       "date": "Mon, 06 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -203,9 +143,29 @@
       "bias": "Medium"
     },
     {
-      "title": "Funeral procession of Iran's assassinated supreme leader begins in Tehran as huge crowds expected",
-      "link": "https://www.dawn.com/news/2013346/funeral-procession-of-irans-assassinated-supreme-leader-begins-in-tehran-as-huge-crowds-expected",
-      "description": "The funeral procession for Iran’s supreme leader Ayatollah Ali Khamenei began in Tehran on Monday, state television reported, as authorities prepared for crowds that could rival those that turned out for his predecessor nearly four decades ago. Attention remains focused on Khamen...",
+      "title": "Khamenei’s funeral procession moves through Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/khameneis-funeral-procession-moves-through-tehran?traffic_source=rss",
+      "description": "Crowds filled the streets of Tehran as the funeral procession for Iran’s Supreme Leader, Ayatollah Ali Khamenei, began.",
+      "date": "Mon, 06 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "President Zardari to depart on 4-day official visit to Kyrgyzstan today: FO",
+      "link": "https://www.dawn.com/news/2013361/president-zardari-to-depart-on-4-day-official-visit-to-kyrgyzstan-today-fo",
+      "description": "President Asif Ali Zardari will head to Kyrgyzstan on Monday for a four-day official visit, according to the Foreign Office (FO). Accompanied by a high-level delegation, President Zardari will undertake the visit at the invitation of the Kyrgyz Republic’s President Sadyr Zhaparov...",
+      "date": "Mon, 06 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Millions gather as funeral procession of Iran's assassinated supreme leader begins in Tehran",
+      "link": "https://www.dawn.com/news/2013346/millions-gather-as-funeral-procession-of-irans-assassinated-supreme-leader-begins-in-tehran",
+      "description": "Vast crowds gathered for the funeral procession of Iran’s assassinated supreme leader Ayatollah Ali Khamenei in Tehran on Monday, with authorities estimating millions were on the streets in numbers that could rival those of his predecessor’s farewell nearly four decades ago. Auth...",
       "date": "Mon, 06 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -253,19 +213,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Turkiye eyes F110 fighter jet engines as Trump comes to town",
-      "link": "https://www.dawn.com/news/2013133/turkiye-eyes-f110-fighter-jet-engines-as-trump-comes-to-town",
-      "description": "US President Donald Trump’s visit to Ankara for the North Atlantic Treaty Organisation (Nato) summit could help secure Turkiye’s acquisition of dozens of fighter jet engines, but won’t resolve the F-35 dispute that has soured ties, analysts say. The July 7-8 summit, which is bein...",
-      "date": "Sun, 05 Jul 2026",
-      "source": "Dawn",
+      "title": "Ayatollah Ali Khamenei funeral: Mourners throng procession in Tehran",
+      "link": "https://www.thehindu.com/news/international/ayatollah-ali-khamenei-funeral-mourners-throng-procession-in-tehran/article71189061.ece",
+      "description": "As the funeral has gone on, however, there have increasingly been calls from mourners to avenge Ayatollah Ali Khamenei's death",
+      "date": "Mon, 06 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia War LIVE: Convoy carrying Ayatollah Ali Khamenei's body begins journey across Tehran",
+      "title": "West Asia War LIVE: Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei",
       "link": "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-6-2026-khamenei-funeral-ceremonies/article71187769.ece",
-      "description": "Thousands had filled the Grand Mosalla, where they paid their respects to Khamenei and four family members, all killed on February 28 in Israeli airstrikes based on U.S. intelligence",
+      "description": "The coffins will be taken through the streets of Tehran on their way to Mehrabad International Airport over a 12-hour journey",
+      "date": "Mon, 06 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "JD Vance slams Israeli officials who criticised U.S.-Iran deal, deepening rift between allies",
+      "link": "https://www.thehindu.com/news/international/jd-vance-slams-israeli-officials-who-criticised-us-iran-deal-deepening-rift-between-allies/article71120670.ece",
+      "description": "“Donald J Trump is the only head of state in the entire world who is sympathetic to the nation of Israel at this moment in time,” U.S. Vice President JD Vance said during a news briefing at the White House on Thursday, June 18, 2026",
       "date": "Mon, 06 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,29 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Performer calls for Trump's death at funeral for Iran's late supreme leader",
-      "link": "https://www.thehindu.com/news/international/performer-calls-for-trumps-death-at-funeral-for-irans-late-supreme-leader/article71185134.ece",
-      "description": "Mohammad Rasouli, a poet, drew calls of “Death to America!” and “Death to Israel!” Speaking to the crowd, Mr. Rasouli asked, referring to Trump: “Why is the most bastard man in the world still alive?” That drew cheers",
-      "date": "Sun, 05 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran holds funeral for Ali Khamenei: Who is attending?",
-      "link": "https://www.thehindu.com/news/international/ali-khamenei-funeral-iran-who-is-attending-full-list/article71177346.ece",
-      "description": "Ayatollah Ali Khamenei was killed on February 28, 2026, in joint precision strikes by the US and Israeli militaries. The airstrikes killed Khamenei as well as other members of his family.",
-      "date": "Sun, 05 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Kuwait establishes $100 mln fund to deal with emergencies after conflict with Iran",
-      "link": "https://tass.com/world/2156051",
-      "description": "The fund is intended to create a mechanism that will allow state funds to be allocated as quickly as possible for repairs to strategically important infrastructure damaged during military operations or other unforeseen circumstances",
+      "title": "Tehran holds funeral procession for Khamenei, his family",
+      "link": "https://tass.com/world/2156161",
+      "description": "Security for the event was ensured by several thousand police officers and military personnel",
       "date": "Mon, 06 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -333,9 +283,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Mass farewell procession for Khamenei to begin early Monday in Tehran",
-      "link": "https://tass.com/society/2155995",
-      "description": "According to authorities, 15-20 million people are expected to take part in the event",
+      "title": "World faces period of elevated key interest rates amid aftermath of Iran war — Bloomberg",
+      "link": "https://tass.com/economy/2156113",
+      "description": "The Bloomberg Economics report also highlights inflation risks stemming from the aftermath of an energy crisis triggered by a halt in shipping through the Strait of Hormuz during a war involving Iran",
       "date": "Mon, 06 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -343,20 +293,20 @@
       "bias": "Very High"
     },
     {
-      "title": "West to fail to defeat Russia and Iran, IRGC deputy commander tells TASS",
-      "link": "https://tass.com/world/2155945",
-      "description": "Relations between Iran and Russia are in the nature of a strategic partnership, General Hossein Maroufi said",
-      "date": "Sun, 05 Jul 2026",
+      "title": "Mass farewell procession for Ali Khamenei begins in Tehran",
+      "link": "https://tass.com/world/2156081",
+      "description": "Ali Khamenei’s body will be carried in a funeral procession from Enghelab Street to Azadi Square",
+      "date": "Mon, 06 Jul 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "More than 1 million people offer prayers for Khamenei at Tehran's main mosque",
-      "link": "https://tass.com/world/2155951",
-      "description": "Taking into account all the Iranians who came to the common prayer, but remained on the streets and squares leading to Mosalla, there were about several million people",
-      "date": "Sun, 05 Jul 2026",
+      "title": "Serbia will never impose sanctions against Russia — minister",
+      "link": "https://tass.com/world/2156079",
+      "description": "Nenad Popovic stressed that the country is under immense pressure",
+      "date": "Mon, 06 Jul 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
