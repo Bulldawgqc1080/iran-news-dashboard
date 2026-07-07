@@ -1,17 +1,19 @@
 {
-  "updated": "2026-07-07 03:25 UTC",
+  "updated": "2026-07-07 07:27 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-07-07",
       "dateDisplay": "Jul 07, 2026",
-      "title": "Iran war live: Khamenei\u2019s body arrives in Qom; Hamas cedes Gaza governance",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
+      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
       "sources": [
+        "NPR News",
+        "France 24",
         "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-07-06",
@@ -19,8 +21,8 @@
       "title": "Huge crowds of mourners join a funeral procession for Iran's Ayatollah Ali Khamenei",
       "link": "https://www.npr.org/2026/07/06/nx-s1-5877741/ayatollahs-funeral-procession-begins-in-iran",
       "sources": [
-        "NPR News",
-        "BBC"
+        "BBC",
+        "NPR News"
       ],
       "sourceCount": 2,
       "type": "govt"

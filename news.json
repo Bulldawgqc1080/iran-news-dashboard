@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-07 03:25 UTC",
+  "updated": "2026-07-07 07:27 UTC",
   "total": 30,
   "stories": [
+    {
+      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
+      "description": "Iranian state television said the tanker came under attack after ignoring warnings but did not directly claim the assault.",
+      "date": "Tue, 07 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Huge crowds of mourners join a funeral procession for Iran's Ayatollah Ali Khamenei",
       "link": "https://www.npr.org/2026/07/06/nx-s1-5877741/ayatollahs-funeral-procession-begins-in-iran",
@@ -11,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+      "description": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
+      "date": "Tue, 07 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
@@ -103,11 +123,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US strikes Iran after attack on cargo ship",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "date": "Sat, 27 Jun 2026",
-      "source": "BBC",
+      "title": "Oil tanker hit by 'unknown projectile' off Omani coast near Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260707-oil-tanker-hit-by-unknown-projectile-off-omani-coast-near-strait-of-hormuz",
+      "description": "A tanker was struck Monday by an \"unknown projectile\" off the coast of Oman, in the Strait of Hormuz region, according to the British maritime agency UKMTO.",
+      "date": "Tue, 07 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -123,19 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'His resilience, his words, his character': Mourners grieve late supreme leader Khamenei",
-      "link": "https://www.france24.com/en/asia-pacific/20260706-his-resilience-his-words-his-character-mourners-grieve-late-supreme-leader-khamenei",
-      "description": "A sea of mourners filled the streets of Tehran on Monday for the funeral procession of late supreme leader Ayatollah Ali Khamenei. FRANCE 24 spoke to some of those who had travelled across the country to pay their respects for the man who led the Islamic Republic for almost four ...",
-      "date": "Mon, 06 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war live: Khamenei’s body arrives in Qom; Hamas cedes Gaza governance",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
-      "description": "Iran holds huge funeral for slain supreme leader as Hamas paves way for a technocratic committee to take over in Gaza.",
+      "title": "Khamenei’s coffin arrives in holy city of Qom",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_khameneis-coffin-arrives-in-holy-city-of-qom-070726?traffic_source=rss",
+      "description": "Tens of thousands of mourners gather in Qom for a funeral service for Iran’s late Supreme Leader Ali Khamenei.",
       "date": "Tue, 07 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -143,14 +153,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Influencers say they’re ‘honoured’ to attend Khamenei funeral",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss",
-      "description": "Several social media influencers travelled to Iran for the state funeral of Supreme Leader Ali Khamenei.",
-      "date": "Mon, 06 Jul 2026",
+      "title": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
+      "link": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
+      "description": "Iran&#039;s TV claims the tanker ignored warnings, but no direct responsibility for the attack has been declared.",
+      "date": "Tue, 07 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Oil tanker hit by 'unknown projectile' in Strait of Hormuz region, says maritime agency",
+      "link": "https://www.dawn.com/news/2013561/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-region-says-maritime-agency",
+      "description": "An “unknown projectile” struck and caused a fire on an oil tanker off the coast of Oman near the Strait of Hormuz on Monday, British maritime security agency United Kingdom Maritime Trade Operations (UKMTO) said. The incident occurred near one of the world’s most important energy...",
+      "date": "Tue, 07 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Pakistan taking on mantle of mediation for war-torn Libya",
@@ -203,19 +223,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Millions gather as funeral procession of Iran's assassinated supreme leader begins in Tehran",
-      "link": "https://www.dawn.com/news/2013346/millions-gather-as-funeral-procession-of-irans-assassinated-supreme-leader-begins-in-tehran",
-      "description": "Vast crowds gathered for the funeral procession of Iran’s assassinated supreme leader Ayatollah Ali Khamenei in Tehran on Monday, with authorities estimating millions were on the streets in numbers that could rival those of his predecessor’s farewell nearly four decades ago. Auth...",
-      "date": "Mon, 06 Jul 2026",
-      "source": "Dawn",
+      "title": "West Asia War LIVE: LNG tanker attacked after ignoring warnings, says Iran state television",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-7-2026-khamenei-funeral-ceremonies/article71191969.ece",
+      "description": "The tanker set ablaze after being hit by a projectile hit near Limah, Oman, in the strait, said the United Kingdom Maritime Trade Operations Centre",
+      "date": "Tue, 07 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia War LIVE: Tanker hit by projectile in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-7-2026-khamenei-funeral-ceremonies/article71191969.ece",
-      "description": "The tanker set ablaze after being hit by a projectile hit near Limah, Oman, in the strait, said the United Kingdom Maritime Trade Operations Centre",
+      "title": "The last revolutionary of Iran",
+      "link": "https://www.thehindu.com/news/international/the-view-from-india-the-last-revolutionary-of-iran/article71189173.ece",
+      "description": "",
       "date": "Tue, 07 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -263,39 +283,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "JD Vance slams Israeli officials who criticised U.S.-Iran deal, deepening rift between allies",
-      "link": "https://www.thehindu.com/news/international/jd-vance-slams-israeli-officials-who-criticised-us-iran-deal-deepening-rift-between-allies/article71120670.ece",
-      "description": "“Donald J Trump is the only head of state in the entire world who is sympathetic to the nation of Israel at this moment in time,” U.S. Vice President JD Vance said during a news briefing at the White House on Thursday, June 18, 2026",
-      "date": "Mon, 06 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US believes Iran attacked vessels in Strait of Hormuz twice on Monday — news outlet",
+      "link": "https://tass.com/world/2156591",
+      "description": "Axios emhasized that the US will likely respond by striking targets in Iran",
+      "date": "Tue, 07 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Israel insists on Hamas disarmament, demilitarization of Gaza — foreign minister",
       "link": "https://tass.com/world/2156533",
       "description": "Hamas seeks to replicate the ‘Hezbollah model’ in Gaza, Gideon Saar said",
-      "date": "Mon, 06 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US poised to escalate tensions with Iran again - expert",
-      "link": "https://tass.com/world/2156447",
-      "description": "Ivan Timofeyev pointed out that Iran remained a formidable adversary for the United States",
-      "date": "Mon, 06 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US rhetoric indicates growing departure from Ukraine agreements — Russian diplomat",
-      "link": "https://tass.com/politics/2156431",
-      "description": "According to Sergey Ryabkov, the pressure of sanctions on Russia is not just being maintained but is intensifying",
       "date": "Mon, 06 Jul 2026",
       "source": "TASS",
       "region": "ru",
