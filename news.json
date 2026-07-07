@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07 20:44 UTC",
-  "total": 32,
+  "updated": "2026-07-07 22:04 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "IOC moves to allow more Russian athletes back into the Olympic games",
@@ -103,11 +103,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-      "description": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-      "date": "Sat, 27 Jun 2026",
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC travels to the city of Bandar Abbas - the first time journalists from a UK broadcaster have been to the Iranian side of the strait.",
+      "date": "Thu, 02 Jul 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US launches strikes on Iran after ships attacked in Strait of Hormuz",
+      "link": "https://www.france24.com/en/live-news/20260707-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
+      "description": "",
+      "date": "Tue, 07 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Viral AI fakes flood social media as Iran mourns Khamenei",
+      "link": "https://www.france24.com/en/viral-ai-fakes-flood-social-media-as-iran-mourns-khamenei-1",
+      "description": "Iran drew huge crowds for former Supreme Leader Ayatollah Ali Khamenei's funeral procession in Tehran, documented by international news agencies. But alongside genuine images pf mourners, AI-generated videos and photos falsely claiming to show the event have spread widely online....",
+      "date": "Tue, 07 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -121,6 +141,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US says strikes launched as explosions heard in southern Iran",
+      "link": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
+      "description": "US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.",
+      "date": "Tue, 07 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
@@ -283,9 +313,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Qatari foreign ministry hands note of protest to Iranian diplomat over LNG tanker attack",
-      "link": "https://tass.com/world/2157121",
-      "description": "In the note, Doha demanded that Tehran immediately cease actions that undermine stability in the region, provide immediate clarifications regarding the incident and take measures to prevent similar incidents in the future",
+      "title": "US begins striking Iran — CENTCOM",
+      "link": "https://tass.com/world/2157175",
+      "description": "According to the US military, the strikes were carried out in response to attacks by the Islamic Republic on three vessels in the Strait of Hormuz",
       "date": "Tue, 07 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -293,9 +323,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Qatar demands Iran stop threatening shipping after tanker attack — Foreign Ministry",
-      "link": "https://tass.com/world/2157059",
-      "description": "Official spokesman for the emirate's Ministry of Foreign Affairs Majid bin Mohammed Al-Ansari emphasized that Doha holds Tehran \"fully legally responsible for this attack, as well as for any damage and consequences\"",
+      "title": "Saudi Foreign Ministry reports attack on its tanker by Iran in Strait of Hormuz",
+      "link": "https://tass.com/world/2157167",
+      "description": "The ministry said that Tehran would be held fully responsible for the consequences of such attacks",
       "date": "Tue, 07 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -303,9 +333,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Lifting of Turkey sanctions, assessment of talk with Putin: Trump's comments",
-      "link": "https://tass.com/world/2157003",
-      "description": "The US leader praised a July 4 telephone conversation with Russian President Vladimir Putin, adding that both Moscow and Kiev are committed to a settlement in Ukraine",
+      "title": "US threatens Iran with consequences over alleged attacks in Strait of Hormuz — Reuters",
+      "link": "https://tass.com/world/2157161",
+      "description": "A US administration official told the news agency that US negotiators were still working towards the final peace agreement in good faith",
       "date": "Tue, 07 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -313,9 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US to lift sanctions against Turkey — Trump",
-      "link": "https://tass.com/world/2156977",
-      "description": "Negotiations between the American and Turkish leaders are taking place on the sidelines of the NATO summit",
+      "title": "Coffin with late Iranian supreme leader's body delivered to Iraq — agency",
+      "link": "https://tass.com/society/2157159",
+      "description": "The Iranian delegation that will take part in the funeral rites will be led by President Masoud Pezeshkian",
       "date": "Tue, 07 Jul 2026",
       "source": "TASS",
       "region": "ru",
