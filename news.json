@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-08 19:04 UTC",
-  "total": 41,
+  "updated": "2026-07-08 20:54 UTC",
+  "total": 45,
   "stories": [
+    {
+      "title": "Trump threatens Iran as NATO summit wraps",
+      "link": "https://www.npr.org/2026/07/08/nx-s1-5886102/trump-threatens-iran-as-nato-summit-wraps",
+      "description": "President Trump threatened more strikes against Iran after saying he believes the ceasefire is dead at the end of the NATO summit.",
+      "date": "Wed, 08 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
       "link": "https://www.npr.org/2026/07/08/g-s1-132474/up-first-newsletter-trump-iran-ceasefire-nato-graham-platner-ioc-russia",
@@ -143,6 +153,46 @@
       "bias": "Low-Med"
     },
     {
+      "title": "IMF lowers 2026 global growth forecast to 3% but projects rebound in 2027",
+      "link": "https://www.france24.com/en/tv-shows/business/20260708-imf-lowers-2026-global-growth-forecast-to-3-but-projects-rebound-in-2027",
+      "description": "The IMF has cut its global growth forecast for the second time this year, flagging \"uncertainty and risks\" brought on by the war in Iran. Spanish Prime Minister Pedro Sanchez responds to threats from Donald Trump that the US will cut off all trade with his country. And, the heatw...",
+      "date": "Wed, 08 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "🔴Live: US military carrying out fresh strikes against Iran after Trump says peace deal is ‘over’",
+      "link": "https://www.france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
+      "description": "",
+      "date": "Wed, 08 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says will 'cut off all trade with Spain' over NATO contribution row",
+      "link": "https://www.france24.com/en/trump-says-will-cut-off-all-trade-with-spain-over-nato-contribution-row",
+      "description": "US President Donald Trump threatened Wednesday to halt all trade with Spain amid a bitter row over Madrid's defence spending and failure to help Washington with the Iran war. \"Spain is a wasted cause. We don't want to do any trade business with Spain anymore,\" Trump said as he ar...",
+      "date": "Wed, 08 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Can NATO survive Trump's changes of heart?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260708-can-nato-survive-trump-s-changes-of-heart",
+      "description": "These days, every official visit, every summit that involves the President of the United States seems like a mad scramble to keep the leader of the Atlantic Alliance on board. But what if it’s just too late? Last month, leaders left France thanking their lucky stars that Donald T...",
+      "date": "Wed, 08 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Regime supporters and opposition share AI-generated images of Khamenei’s funeral",
       "link": "https://www.france24.com/en/middle-east/20260708-regime-supporters-opposition-share-ai-generated-images-khamenei-funeral",
       "description": "Both supporters of the Iranian regime and members of the opposition have been sharing AI-generated images of funeral services held in early July for Iran's late supreme leader Ayatollah Ali Khamenei – killed during a US-Israeli strike on February 28.",
@@ -173,14 +223,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
-      "link": "https://www.france24.com/en/video/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks",
-      "description": "President Donald Trump threw a summit of NATO leaders into disarray on Wednesday as he demanded the United States cut trade ties with Spain and made renewed claims on Greenland, irking another NATO ally Denmark. He also said an interim agreement to end the war with Iran was \"over...",
+      "title": "Five key takeaways from the NATO summit in Ankara",
+      "link": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
+      "description": "Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges to expand defence budgets and Ukraine support",
       "date": "Wed, 08 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump says US ‘may take over Kharg Island’: Here’s what you need to know",
+      "link": "https://www.aljazeera.com/news/2026/7/8/trump-says-us-may-take-over-kharg-island-heres-what-you-need-to-know?traffic_source=rss",
+      "description": "Kharg Island, pivotal to Iran&#039;s oil exports, becomes focal point as Trump renews threats amid rising Gulf tensions.",
+      "date": "Wed, 08 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
+      "description": "More than a million mourners packed streets in Najaf, Iraq for Iranian Supreme Leader Ali Khamenei’s funeral procession.",
+      "date": "Wed, 08 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target",
@@ -216,36 +286,6 @@
       "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
       "link": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
       "description": "Travel stocks plunged as fuel costs rise, United Airlines fell 3 percent, while energy stocks saw gains.",
-      "date": "Wed, 08 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
-      "description": "US President Donald Trump says the US will ‘probably’ carry out another round of strikes on Iran on Wednesday night.",
-      "date": "Wed, 08 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/down-with-the-usa-us-influencer-jackson-hinkle-attends-khameneis-funera?traffic_source=rss",
-      "description": "‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funeral",
-      "date": "Wed, 08 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran’s supreme leader’s coffin arrives in Najaf",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss",
-      "description": "Thousands of mourners thronged Najaf as the coffin of the late supreme leader moved through the city.",
       "date": "Wed, 08 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
