@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09 17:45 UTC",
-  "total": 39,
+  "updated": "2026-07-09 19:19 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "The U.S. launches new airstrikes on Iran and Tehran fires back at Gulf Arab states",
@@ -173,6 +173,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US expands Iran strikes Iran hitting fishing piers near nuclear plant",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss",
+      "description": "Iranian officials say US strikes across Bushehr province damaged civilian infrastructure",
+      "date": "Thu, 09 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Will NATO get involved in securing Strait of Hormuz?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/7/9/will-nato-get-involved-in-securing-strait-of-hormuz?traffic_source=rss",
       "description": "Iran war overshadows defence alliance&#039;s summit in Turkiye.",
@@ -213,29 +223,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Videos show interception of Iranian missiles in skies over Jordan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/videos-show-interception-of-iranian-missiles-in-skies-over-jordan?traffic_source=rss",
-      "description": "Sirens blared in several cities in Jordan as Iranian missiles were intercepted.",
-      "date": "Thu, 09 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’",
-      "link": "https://www.aljazeera.com/news/2026/7/9/mediator-pakistan-says-renewed-us-iran-conflict-is-in-no-ones-interest?traffic_source=rss",
-      "description": "Islamabad urges both sides to honour their MoU as renewed attacks raise fears of a wider regional conflict.",
-      "date": "Thu, 09 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "'Only revenge': Iran mourners defiant at Khamenei burial",
-      "link": "https://www.dawn.com/news/2014150/only-revenge-iran-mourners-defiant-at-khamenei-burial",
-      "description": "Braving sweltering heat and calling for revenge, Iranians massed on Thursday for the burial of assassinated supreme leader Ali Khamenei in his hometown of Mashhad. An Israeli strike assassinated Khamenei in late February on the first day of the Middle East war. Thousands of peopl...",
+      "title": "Funeral prayers offered for supreme leader Ali Khamenei in Iran's Mashhad",
+      "link": "https://www.dawn.com/news/2014150/funeral-prayers-offered-for-supreme-leader-ali-khamenei-in-irans-mashhad",
+      "description": "The funeral prayers for assassinated supreme leader Ali Khamenei were offered late on Thursday as hundreds of thousands of mourners, braving sweltering heat and calling for revenge, massed in his hometown of Mashhad. An Israeli strike assassinated Khamenei in late February on the...",
       "date": "Thu, 09 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -293,6 +283,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Amnesty urges investigating Israeli attacks on Lebanon as ‘war crimes’",
+      "link": "https://www.thehindu.com/news/international/amnesty-urges-investigating-israeli-attacks-on-lebanon-as-war-crimes/article71203835.ece",
+      "description": "Amnesty said it reached out to Israeli authorities, who said that some of the attacks \"were carried out against Hezbollah military objectives\", while others were \"referred for examination\".",
+      "date": "Thu, 09 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "West Asia war LIVE: New U.S., Iran fighting erupts ahead of Khamenei burial",
       "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-strikes-strait-of-hormuz-oil-price-donald-trump-mojtaba-khamenei-netanyahu-peace-deal/article71200749.ece",
       "description": "The renewed hostilities, triggered by tensions over the Strait of Hormuz, sparked concerns of a return to full-scale war after an April ceasefire and a June U.S.-Iran accord ended five weeks of conflict",
@@ -343,49 +343,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia War highlights: Trump says fresh strikes on Iran retribution for attacks on ships",
-      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-after-iran-strikes-strait-of-hormuz-donald-trump-netanyahu-mojtaba-lebanon-hezboallah-peace-deal/article71196409.ece",
-      "description": "Donald Trump said U.S. would hit Iran \"hard\", though he expected the latest military flare-up to end quickly and left the door open to more talks",
+      "title": "US warplanes again detected circling over Persian Gulf",
+      "link": "https://tass.com/world/2158379",
+      "description": "Besides, two more planes are flying over the Persian Gulf coast and two - over the neutral waters of the Gulf of Oman",
       "date": "Thu, 09 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Some Iranian missiles fired at US bases in Middle East reached targets — WSJ",
+      "link": "https://tass.com/world/2158367",
+      "description": "US officials claimed the attacks had caused minor damage and no casualties",
+      "date": "Thu, 09 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "At least million people arrive in Mashhad to attend Khamenei’s funeral",
+      "link": "https://tass.com/world/2158363",
+      "description": "Apart from Iranians, who arrived from all over the country, people with flags of Pakistan, Lebanon and Palestine could also be seen in the crowd",
+      "date": "Thu, 09 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran was able to ‘smash’ US, Israel, despite NATO involvement in conflict — MP",
       "link": "https://tass.com/world/2158299",
       "description": "Alaeddin Boroujerdi highlighted that the Americans saw it as their goal to interfere in the affairs of every independent country and bring war to it",
-      "date": "Thu, 09 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel troops to stay in south Lebanon until Hezbollah fully disarms — defense minister",
-      "link": "https://tass.com/world/2158267",
-      "description": "In Israel Katz's words, Israel \"did not ask permission from any party to enter Lebanon, and we do not need permission to remain in Lebanon\"",
-      "date": "Thu, 09 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran uses Soviet-era fighter jets to provide security at Khamenei's funeral",
-      "link": "https://tass.com/world/2158247",
-      "description": "The jets conducted patrols to secure the airspace over Mashhad as part of heightened security measures",
-      "date": "Thu, 09 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "International Modern Pentathlon Union lifts sanctions against Russia — sports chief",
-      "link": "https://tass.com/sports/2158231",
-      "description": "The International Olympic Committee earlier recommended lifting restrictions on the participation of Russian athletes in all international tournaments",
       "date": "Thu, 09 Jul 2026",
       "source": "TASS",
       "region": "ru",
