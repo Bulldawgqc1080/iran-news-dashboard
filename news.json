@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10 16:13 UTC",
-  "total": 37,
+  "updated": "2026-07-10 18:15 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "‘Weaker’? Mojtaba Khamenei’s absence from father’s funeral may signal shifting role for Iran leader",
+      "link": "https://www.france24.com/en/asia-pacific/20260710-mojtaba-khamenei-s-absence-from-his-father-s-funeral-could-signal-shifting-role-for-iran-leader",
+      "description": "Iran's new Supreme Leader Mojtaba Khamenei has not been seen in public since he was wounded in the US-Israeli air strikes that killed his father and wife – even at their week-long funeral ceremonies this week. While his injuries and the threat of assassination could well have pla...",
+      "date": "Fri, 10 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel warns US of alleged Iran plot to assassinate Trump",
       "link": "https://www.france24.com/en/israel-warns-us-of-alleged-iran-plot-to-assassinate-trump",
       "description": "Israel has warned the United States of an alleged Iranian plot to assassinate Donald Trump, adding to tensions after fresh US strikes on Iran cast further doubt over ceasefire efforts. FRANCE 24 correspondent Noga Tarnopolsky says it is unclear how seriously Washington views the ...",
@@ -183,29 +193,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss",
+      "description": "Iran has not responded to Trump&#039;s latest claim, which comes as new attacks threaten the full resumption of war.",
+      "date": "Fri, 10 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Who is Fadel Shaker? Lebanese pop star released on bail",
+      "link": "https://www.aljazeera.com/news/2026/7/10/who-is-fadel-shaker-lebanese-pop-star-released-on-bail?traffic_source=rss",
+      "description": "In 2012, singing star Shaker quit his music career, before being accused of joining an armed group in Lebanon.",
+      "date": "Fri, 10 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Israeli drones strike Lebanon despite US-brokered framework deal",
       "link": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss",
       "description": "The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians.",
-      "date": "Fri, 10 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
-      "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss",
-      "description": "Sources suggest that the ceasefire can be revived amid a lull in fighting and backroom diplomacy.",
-      "date": "Fri, 10 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US-Iran war: Will peace talks resume, and when?",
-      "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss",
-      "description": "While Trump said the MoU with Iran is &#039;over&#039;, US officials have reaffirmed Washington&#039;s commitment to continue talks.",
       "date": "Fri, 10 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -273,9 +283,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran will respond against Israel if infrastructure attacked, security official says",
+      "title": "Mysterious strikes target Iran after U.S. air attacks",
+      "link": "https://www.thehindu.com/news/international/mysterious-strikes-target-iran-after-us-air-attacks/article71207953.ece",
+      "description": "Israel, which under Prime Minister Benjamin Netanyahu has engaged in an intense campaign against Iran, has not attacked the Islamic Republic since June.",
+      "date": "Fri, 10 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran has asked to continue talks, and the U.S. agreed, Trump says",
+      "link": "https://www.thehindu.com/news/international/iran-has-asked-to-continue-talks-and-the-us-agreed-trump-says/article71207807.ece",
+      "description": "The two nations reached an interim deal last month to end ‌a four-month conflict that has throttled worldwide energy supplies",
+      "date": "Fri, 10 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: Iran has asked to continue talks, and the U.S. agreed, Trump says",
       "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-ali-khamenei-funeral-ceremony-burial-military-strikes-donald-trump-mojtaba-khamenei-ceasefire-deal/article71205094.ece",
-      "description": "Fighting picked up again this week between the U.S. and Iran in the most significant exchange of fire since the two sides signed a memorandum of understanding on June 17",
+      "description": "The U.S. and ​Iran traded strikes this week, with the ⁠Iranian armed forces launching attacks on U.S. military infrastructure in Gulf states ‌on July 9, 2026 following U.S. strikes on Iran’s southern coastal and eastern provinces.",
       "date": "Fri, 10 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -313,59 +343,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Amnesty urges investigating Israeli attacks on Lebanon as ‘war crimes’",
-      "link": "https://www.thehindu.com/news/international/amnesty-urges-investigating-israeli-attacks-on-lebanon-as-war-crimes/article71203835.ece",
-      "description": "Amnesty said it reached out to Israeli authorities, who said that some of the attacks \"were carried out against Hezbollah military objectives\", while others were \"referred for examination\".",
-      "date": "Thu, 09 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "EU would not rush to admit Serbia even if it joins anti-Russian sanctions — Vucic",
+      "link": "https://tass.com/world/2158857",
+      "description": "The Serbian leader revealed that the key condition for being admitted to the EU had always been joining the anti-Russian sanctions",
+      "date": "Fri, 10 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran Health Ministry says 14 killed in two days of U.S. strikes",
-      "link": "https://www.thehindu.com/news/international/iran-health-ministry-reports-casualities-over-us-strikes/article71201364.ece",
-      "description": "Tehran's Health Ministry reported that 14 people were killed and 78 injured",
-      "date": "Thu, 09 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US early warning aircraft spotted near Persian Gulf",
+      "link": "https://tass.com/world/2158855",
+      "description": "Additionally, the source reported that around five US Boeing KC-135R Stratotankers and Boeing KC-46A Pegasus military transport tankers are presently overhead in the waters of the Persian Gulf and the Gulf of Oman",
+      "date": "Fri, 10 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says he ordered unprecedented strike against Iran if he is assassinated",
+      "link": "https://tass.com/world/2158837",
+      "description": "The US leader said that Iran had allegedly been trying to kill him for many years",
+      "date": "Fri, 10 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran warns US it will retaliate to its attacks — senior security official",
       "link": "https://tass.com/world/2158769",
       "description": "Mohammad Bagher Zolghadr stressed that Israel, \"that is behind these atrocities\", would not escape retaliation either",
-      "date": "Fri, 10 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US does not want Israel to participate in latest round of conflict with Iran — CNN",
-      "link": "https://tass.com/world/2158765",
-      "description": "According to the TV channel, the United States fears losing control over how the conflict progresses",
-      "date": "Fri, 10 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Attacks on any nuclear plants, including Zaporozhye, Kursk, Bushehr unacceptable — Grossi",
-      "link": "https://tass.com/world/2158743",
-      "description": "The IAEA director general noted that the agency is not currently observing or confirming any direct attack on the nuclear power plant in Bushehr, Iran",
-      "date": "Fri, 10 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Qatari mediators arrive in Iran to help ease Tehran-Washington tensions",
-      "link": "https://tass.com/world/2158737",
-      "description": "According to the report, the consultations are being held in coordination with the United States",
       "date": "Fri, 10 Jul 2026",
       "source": "TASS",
       "region": "ru",
