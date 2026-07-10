@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-10 05:52 UTC",
-  "total": 39,
+  "updated": "2026-07-10 08:58 UTC",
+  "total": 38,
   "stories": [
+    {
+      "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
+      "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
+      "description": "Back-and-forth attacks have repeatedly threatened the ceasefire, but Thursday's appeared bigger all around.",
+      "date": "Fri, 10 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
       "link": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit",
@@ -27,16 +37,6 @@
       "link": "https://www.npr.org/2026/07/09/g-s1-132670/us-iran-strikes",
       "description": "The United States launched new airstrikes against Iran early Thursday, and Tehran responded by targeting U.S.-allied Mideast countries, raising fears of resuming war.",
       "date": "Thu, 09 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump threatens Iran as NATO summit wraps",
-      "link": "https://www.npr.org/2026/07/08/nx-s1-5886102/trump-threatens-iran-as-nato-summit-wraps",
-      "description": "President Trump threatened more strikes against Iran after saying he believes the ceasefire is dead at the end of the NATO summit.",
-      "date": "Wed, 08 Jul 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -143,9 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US-Iran conflict escalates as fresh missile strikes threaten Middle East ceasefire",
-      "link": "https://www.france24.com/en/middle-east/20260710-us-iran-conflict-escalates-missile-strikes-threaten-middle-east-ceasefire",
-      "description": "The United States launched fresh airstrikes on Iran early Thursday, prompting Tehran to fire missiles at Bahrain, Qatar, Kuwait and Jordan, targeting countries hosting US forces, officials said. The exchanges threatened a fragile interim ceasefire aimed at ending the Middle East ...",
+      "title": "Iran had 'specific' plan to kill Trump, US media report citing Israeli intel",
+      "link": "https://www.france24.com/en/americas/20260710-iran-had-specific-plan-kill-trump-us-media-israeli-intel",
+      "description": "Iran planned to kill US President Donald Trump in a fresh plot unveiled by Israel, several US media outlets report. According to Israeli intelligence, the plan was “specific” and may explain why Trump chose to switch planes when leaving the NATO summit in Turkey earlier this week...",
       "date": "Fri, 10 Jul 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,9 +153,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Live: Iran buries Khamenei after new fighting with US erupts",
+      "title": "US-Iran conflict escalates as fresh missile strikes threaten Middle East ceasefire",
+      "link": "https://www.france24.com/en/middle-east/20260710-us-iran-conflict-escalates-missile-strikes-threaten-middle-east-ceasefire",
+      "description": "The United States launched fresh air strikes on Iran early Thursday, prompting Tehran to fire missiles at its neighbours Bahrain, Qatar, Kuwait and Jordan hosting US military forces, officials said. The exchanges threatened a fragile interim ceasefire aimed at ending the Middle E...",
+      "date": "Fri, 10 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Live: Iran buries Ali Khamenei after new fighting with US erupts",
       "link": "https://www.france24.com/en/middle-east/20260709-live-iran-buries-khamenei-after-new-fighting-with-us-erupts",
-      "description": "Iran on Friday laid to rest its former supreme leader Ali Khamenei over four months after his killing in an airstrike, as two days of US and Iranian attacks raised fears of a return to all-out war. Khamenei's flag-covered coffin was carried aloft into the shrine of Imam Reza in h...",
+      "description": "Iran on Friday laid to rest Ayatollah Ali Khamenei, more than four months after his death in an air strike, as two days of US and Iranian attacks raised fears of a return to all-out war. Khamenei's flag-covered coffin was carried into the shrine of Imam Reza in his home city of M...",
       "date": "Thu, 09 Jul 2026",
       "source": "France 24",
       "region": "eu",
@@ -163,14 +173,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran claims US strike hit near nuclear powerplant",
-      "link": "https://www.france24.com/en/iran-claims-us-strike-hit-near-nuclear-powerplant",
-      "description": "The United States and Iran are continuing to trade strikes on July 9 for a second straight day. after President Donald Trump said the ceasefire between the two countries was \"dead\". According to Iran's health ministry, the two days of US attacks have killed at least 14 people and...",
-      "date": "Thu, 09 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "The US is building a new pressure architecture against Iran",
+      "link": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
+      "description": "Trump’s NATO diplomacy is part of a wider effort to weaken Tehran by reshaping the region around it.",
+      "date": "Fri, 10 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran says strikes hit southern areas, but US denies it carried attacks",
@@ -207,26 +217,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss",
       "description": "American official says technical talks with Tehran continue and the United States wants to pursue diplomacy.",
       "date": "Fri, 10 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
-      "link": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss",
-      "description": "Clashing interpretations of vague memorandum of understanding language on Hormuz at heart of escalation, analysts say.",
-      "date": "Thu, 09 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US military denies involvement after explosions heard in Iran",
-      "link": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
-      "description": "Iranian media report loud explosions in several locations as Israeli officials say war is &#039;not over&#039;.",
-      "date": "Thu, 09 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -293,6 +283,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel shared intel about ‘new’ Iran plot to kill Trump: reports",
+      "link": "https://www.thehindu.com/news/international/israel-shared-intel-about-new-iran-plot-to-kill-trump-reports/article71205507.ece",
+      "description": "The reports come as renewed U.S. and Iranian attacks raise fears of a return to all-out war and after Trump’s puzzling use of an old plane to depart from Türkiye after the NATO summit",
+      "date": "Fri, 10 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "West Asia war LIVE: Iran buries Khamenei after new fighting with U.S. erupts",
       "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-ali-khamenei-funeral-ceremony-burial-military-strikes-donald-trump-mojtaba-khamenei-ceasefire-deal/article71205094.ece",
       "description": "Khamenei’s flag-covered coffin was carried aloft into the shrine of Imam Reza in his home city of Mashhad in eastern Iran as a sea of people waited outside and listened to prayers",
@@ -343,19 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. launches new airstrikes on Iran; Tehran fires back at 3 Gulf Arab states",
-      "link": "https://www.thehindu.com/news/international/us-launches-new-strikes-on-iran-after-trump-vows-to-hit-hard/article71199867.ece",
-      "description": "Both the United States and Iran said they had hit dozens of targets in the initial wave of attacks",
-      "date": "Thu, 09 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Japan supports anti-Russian sanctions, but maintaining ties is important — senior diplomat",
-      "link": "https://tass.com/world/2158435",
-      "description": "According to Takeshi Akahori, Tokyo \"will act accordingly, based on what serves its national interests\"",
+      "title": "Over 800 commercial vessels pass through Strait of Hormuz since early May — US command",
+      "link": "https://tass.com/world/2158525",
+      "description": "The US Central Command also denied claims by Iranian state media that commercial vessel traffic through the Strait of Hormuz is currently limited to a route approved by Tehran",
       "date": "Fri, 10 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -363,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US prepared for potential strikes on Iran, conducting diplomacy for now — TV",
-      "link": "https://tass.com/world/2158429",
-      "description": "US officials told CNN that the situation is dynamic",
+      "title": "New US strikes on Iran receive unofficial designation Operation \"Bitch Slap\" — NYP",
+      "link": "https://tass.com/world/2158517",
+      "description": "According to the publication, such a designation indicates that some administration officials expect a \"painful but brief\" military action",
       "date": "Fri, 10 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -373,20 +363,20 @@
       "bias": "Very High"
     },
     {
-      "title": "Technical talks between US, Iran continue — Reuters",
-      "link": "https://tass.com/world/2158421",
-      "description": "The news agency said, citing a US official, that Washington is still committed to finding a solution with Iran",
-      "date": "Thu, 09 Jul 2026",
+      "title": "US finds itself in strategic dead end in situation with Iran — expert",
+      "link": "https://tass.com/world/2158495",
+      "description": "None of the Washington administration's approaches to Tehran have worked, Richard N. Haass said",
+      "date": "Fri, 10 Jul 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Naval base in southeastern Iran comes under attack — news agency",
-      "link": "https://tass.com/world/2158411",
-      "description": "Governor of the Konarak County Mohammad Younes Haqqani says the attack, which was carried out in two stages, using fighter jets, resulted in two explosions",
-      "date": "Thu, 09 Jul 2026",
+      "title": "Israel shared intelligence on alleged Iranian plot to assassinate Trump with US — WSJ",
+      "link": "https://tass.com/world/2158489",
+      "description": "According to the newspaper, the intelligence could prompt the United States to take a tougher stance and further escalate the conflict with Iran",
+      "date": "Fri, 10 Jul 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
