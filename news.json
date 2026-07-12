@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-12 01:29 UTC",
-  "total": 33,
+  "updated": "2026-07-12 05:14 UTC",
+  "total": 32,
   "stories": [
+    {
+      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
+      "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
+      "description": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates.",
+      "date": "Sun, 12 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
@@ -143,9 +153,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+      "title": "Iran war live: Tehran attacks Jordan, Gulf states after US bombardment",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
-      "description": "Explosions heard in the port cities of Bandar Abbas, Sirik, Chabahar, Bandar-e Deyr and Asaluyeh as US attacks continue.",
+      "description": "Iran targets Jordan and Gulf states after US bombs Iranian cities including Bandar Abbas, Sirik and Chabahar",
       "date": "Sun, 12 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -153,30 +163,40 @@
       "bias": "Medium"
     },
     {
-      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-      "link": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
-      "description": "Analysts say door to diplomacy still open despite exchange of attacks and threats.",
-      "date": "Sat, 11 Jul 2026",
-      "source": "Al Jazeera",
+      "title": "Iran thanks Pakistan for abstaining from vote allowing UNSC meeting on nuclear programme",
+      "link": "https://www.dawn.com/news/2014810/iran-thanks-pakistan-for-abstaining-from-vote-allowing-unsc-meeting-on-nuclear-programme",
+      "description": "https://www.dawn.com/news/2014760",
+      "date": "Sun, 12 Jul 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
-      "link": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
-      "description": "US decision to delist Syria as a &#039;state sponsor of terrorism&#039; prompts cautious optimism among businesses and citizens.",
-      "date": "Sat, 11 Jul 2026",
-      "source": "Al Jazeera",
+      "title": "US team in Beirut to discuss Israeli withdrawal",
+      "link": "https://www.dawn.com/news/2014761/us-team-in-beirut-to-discuss-israeli-withdrawal",
+      "description": "• Israeli strikes continue in southern Lebanon despite truce• Visiting US lawmaker Ro Khanna detained by armed Israeli settlers in occupied West Bank BEIRUT/ TURMUS AYYA: A US military delegation met with Lebanon’s army in Beirut to discuss the implementation of Israel’s withdraw...",
+      "date": "Sun, 12 Jul 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran's Supreme Leader Mojtaba Khamenei vows revenge for assassinated father",
       "link": "https://www.dawn.com/news/2014642/irans-supreme-leader-mojtaba-khamenei-vows-revenge-for-assassinated-father",
       "description": "Iran’s Supreme Leader Ayatollah Mojtaba Khamenei on Saturday vowed revenge for the US-Israeli killing of his father and predecessor, hours after President Donald Trump warned against any attempt to assassinate him. Both sides dialled up the rhetoric after exchanges of fire this w...",
       "date": "Sat, 11 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US launches new strikes on Iran after container ship hit in Hormuz; IRGC announces closure of vital strait",
+      "link": "https://www.dawn.com/news/2014807/us-launches-new-strikes-on-iran-after-container-ship-hit-in-hormuz-irgc-announces-closure-of-vital-strait",
+      "description": "The US military said it launched another round of strikes on Iran — the third in a week — after the Islamic Revolutionary Guard Corps struck a container ship travelling through the Strait of Hormuz on Sunday. Iranian state media has reported explosions in a number of port cities ...",
+      "date": "Sun, 12 Jul 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -193,41 +213,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Security concerns swirl over Trump’s Qatar-gifted plane",
-      "link": "https://www.dawn.com/news/2014518/security-concerns-swirl-over-trumps-qatar-gifted-plane",
-      "description": "WASHINGTON: US President Donald Trump faces questions about the security of his new Air Force One plane gifted by Qatar, after he took an older jet home from a Nato summit this week. The billionaire president has barely been able to contain his excitement over the retrofitted Boe...",
-      "date": "Sat, 11 Jul 2026",
+      "title": "Editorial: Holding the US-Iran truce together needs restraint from both sides, isolation of spoilers like Israel",
+      "link": "https://www.dawn.com/news/2014820/editorial-holding-the-us-iran-truce-together-needs-restraint-from-both-sides-isolation-of-spoilers-like-israel",
+      "description": "https://www.dawn.com/news/2014795/mixed-messaging",
+      "date": "Sun, 12 Jul 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "15 killed in Philippines as biggest typhoon in decades nears Taiwan",
-      "link": "https://www.dawn.com/news/2014525/15-killed-in-philippines-as-biggest-typhoon-in-decades-nears-taiwan",
-      "description": "KEELUNG: Fifteen people were killed in landslides in the Philippines and thousands in Taiwan were evacuated from their homes as the biggest typhoon in decades neared the region on Friday. Typhoon Bavi is expected to pound Taiwan’s north and east, as well as Japan’s remote southwe...",
-      "date": "Sat, 11 Jul 2026",
-      "source": "Dawn",
+      "title": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-is-striking-iran-in-response-to-attack-on-civilian-vessel-in-strait-of-hormuz/article71212985.ece",
+      "description": "The United States is imposing a heavy cost by continuing to degrade Iran's ability to attack civilian mariners and commercial ships freely transiting the strait, the American military said.",
+      "date": "Sun, 12 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "US to oversee Israeli pullout from Lebanon",
-      "link": "https://www.dawn.com/news/2014280/us-to-oversee-israeli-pullout-from-lebanon",
-      "description": "• Beirut demands Israeli withdrawal before Rome talks on July 15-16• Official says US-backed pilot zones to place Lebanese army in control within days• Amnesty calls for Israeli strikes on civilians to be investigated as war crimes BEIRUT: A US delegation is expected to arrive in...",
-      "date": "Fri, 10 Jul 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Assassinated Iranian supreme leader Ayatollah Khamenei laid to rest in Mashhad",
-      "link": "https://www.dawn.com/news/2014323/assassinated-iranian-supreme-leader-ayatollah-khamenei-laid-to-rest-in-mashhad",
-      "description": "Iran’s assassinated supreme leader Ayatollah Ali Khamenei was buried in the country’s holiest shrine, state media said early on Friday, after huge crowds gathered for his funeral with his son and successor, Ayatollah Mojtaba Khamenei, still hidden from public view. The burial in ...",
-      "date": "Fri, 10 Jul 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: U.S. launches strikes on Iran after attack on civilian vessel in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
+      "description": "U.S. Central Command said a short time later that its forces began a third round of strikes against Iran. There were explosions in Bandar Abbas and Sirik, two towns along the shores of the strait, Iran state media reported.",
+      "date": "Sun, 12 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -273,29 +283,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan PM Sharif holds talks with Iran, Qatar leaders to revive stalled U.S.-Iran negotiations",
-      "link": "https://www.thehindu.com/news/international/pakistan-pm-sharif-holds-talks-with-iran-qatar-leaders-to-revive-stalled-us-iran-negotiations/article71209502.ece",
-      "description": "In his conversation with Iranian President Masoud Pezeshkian, Mr. Sharif expressed “deep concern over the recent escalation in tensions in the region” and underscored the urgent need to “restore regional peace and stability”",
-      "date": "Sat, 11 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw open calls for his killing",
-      "link": "https://www.thehindu.com/news/international/trump-threatens-iran-after-ayatollah-ali-khameneis-funeral-saw-open-calls-for-his-killing/article71209403.ece",
-      "description": "Donald Trump that the U.S. military would “completely decimate and destroy all areas of Iran",
-      "date": "Sat, 11 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Over 10 blasts heard in Iranian city of Bandar-e-Jask — IRIB",
-      "link": "https://tass.com/world/2159073",
-      "description": "The US military previously confirmed the start of another wave of strikes against targets in Iran",
+      "title": "US perceived possible threat to Trump from Iran as not entirely credible — WSJ",
+      "link": "https://tass.com/world/2159119",
+      "description": "At the same time, the US president used an older jet to return home from the NATO summit in Turkey",
       "date": "Sun, 12 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -303,9 +293,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Multiple explosions heard in several Iranian cities — IRIB",
-      "link": "https://tass.com/world/2159069",
-      "description": "The report attributed the blasts in Chabahar to attacks of a terrorist group supported by the US",
+      "title": "US completes series of strikes on Iran, third this week — CENTCOM",
+      "link": "https://tass.com/world/2159105",
+      "description": "The attack was carried out in connection with Iran’s attack on a commercial ship in the Strait of Hormuz",
       "date": "Sun, 12 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -313,9 +303,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Explosion heard on Iran’s Qeshm island",
-      "link": "https://tass.com/world/2159067",
-      "description": "Earlier reports said multiple blasts were heard in the cities of Bushehr and Asaluyeh",
+      "title": "UAE air defenses repel missile, drone attack from Iran — ministry",
+      "link": "https://tass.com/world/2159097",
+      "description": "The news came shortly after Iran’s Press TV channel reported that the Islamic Republic had started its attacks against US targets in the Middle East",
       "date": "Sun, 12 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -323,10 +313,10 @@
       "bias": "Very High"
     },
     {
-      "title": "US delivers strikes on Iranian targets in Strait of Hormuz area — Axios journalist",
-      "link": "https://tass.com/world/2159061",
-      "description": "Barak Ravid says the strikes are being carried out in response to shots earlier fired by the IRGC at a commercial ship in the area",
-      "date": "Sat, 11 Jul 2026",
+      "title": "Civil defense sirens activated in Bahrain, residents told to take shelter — ministry",
+      "link": "https://tass.com/world/2159095",
+      "description": "Iran’s Press TV channel previously reported that the Islamic Republic had started its attacks against US targets in the Middle East",
+      "date": "Sun, 12 Jul 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
