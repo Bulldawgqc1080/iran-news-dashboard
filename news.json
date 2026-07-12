@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11 23:41 UTC",
-  "total": 32,
+  "updated": "2026-07-12 01:29 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
@@ -23,10 +23,10 @@
       "bias": "Low"
     },
     {
-      "title": "Iran says Strait of Hormuz closed 'until further notice'",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "description": "The IRGC says it fired a warning shot at a vessel in the strait and is warning the US not to respond with \"aggression\".",
-      "date": "Sat, 11 Jul 2026",
+      "description": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "date": "Sun, 12 Jul 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -133,14 +133,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump and Iran's supreme leader trade threats as mediators try to save deal",
-      "link": "https://www.france24.com/en/middle-east/20260711-trump-and-iran-s-supreme-leader-trade-threats-as-mediators-try-to-save-deal",
-      "description": "US and Iranian leaders traded threats on Saturday, after exchanges of fire rocked an interim agreement aimed at ending the war. US President Donald Trump threatened further missile attacks against Iran, and Tehran's Supreme Leader Mojtaba Khamenei vowed revenge for the killing of...",
-      "date": "Sat, 11 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
+      "description": "Regional mediators are stepping up efforts to prevent further escalation between Iran and the US.",
+      "date": "Sun, 12 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+      "description": "Explosions heard in the port cities of Bandar Abbas, Sirik, Chabahar, Bandar-e Deyr and Asaluyeh as US attacks continue.",
+      "date": "Sun, 12 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
@@ -283,39 +293,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Europe may agree to tolls for maritime traffic in Strait of Hormuz — newspaper",
-      "link": "https://tass.com/world/2159053",
-      "description": "According to sources cited by The Guardian, European governments believe that the payment should be voluntary and regulated by the UN International Maritime Organization",
-      "date": "Sat, 11 Jul 2026",
+      "title": "Over 10 blasts heard in Iranian city of Bandar-e-Jask — IRIB",
+      "link": "https://tass.com/world/2159073",
+      "description": "The US military previously confirmed the start of another wave of strikes against targets in Iran",
+      "date": "Sun, 12 Jul 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Islamic Revolutionary Guard Corps fires warning shots at ship in Strait of Hormuz",
-      "link": "https://tass.com/world/2159051",
-      "description": "Due to the incident, the strait has been closed until further notice, the IRGC says",
-      "date": "Sat, 11 Jul 2026",
+      "title": "Multiple explosions heard in several Iranian cities — IRIB",
+      "link": "https://tass.com/world/2159069",
+      "description": "The report attributed the blasts in Chabahar to attacks of a terrorist group supported by the US",
+      "date": "Sun, 12 Jul 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Oman suggests organizing two separate maritime routes in Strait of Hormuz — TV",
-      "link": "https://tass.com/world/2159045",
-      "description": "According to CNN sources, each of the routes can be controlled separately",
-      "date": "Sat, 11 Jul 2026",
+      "title": "Explosion heard on Iran’s Qeshm island",
+      "link": "https://tass.com/world/2159067",
+      "description": "Earlier reports said multiple blasts were heard in the cities of Bushehr and Asaluyeh",
+      "date": "Sun, 12 Jul 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "No US officials attending consultations on Iran in Oman — CBS",
-      "link": "https://tass.com/world/2159039",
-      "description": "Jennifer Jacobs, a reporter for the channel, says the Americans will keep up a remote conversation with Omanis and Qataris during the negotiations",
+      "title": "US delivers strikes on Iranian targets in Strait of Hormuz area — Axios journalist",
+      "link": "https://tass.com/world/2159061",
+      "description": "Barak Ravid says the strikes are being carried out in response to shots earlier fired by the IRGC at a commercial ship in the area",
       "date": "Sat, 11 Jul 2026",
       "source": "TASS",
       "region": "ru",
