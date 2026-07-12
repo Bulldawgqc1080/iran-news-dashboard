@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12 05:14 UTC",
-  "total": 32,
+  "updated": "2026-07-12 07:56 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
@@ -35,7 +35,7 @@
     {
       "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "description": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "description": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
       "date": "Sun, 12 Jul 2026",
       "source": "BBC",
       "region": "eu",
@@ -133,6 +133,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Live : US launches strikes in response to Iranian attacks on ships in Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+      "description": "",
+      "date": "Sun, 12 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Live: US launches strikes after Iran fires on ship in Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+      "description": "The US military launched fresh strikes on Iran after it set a container ship ablaze on Sunday. The defence ministries of the United Arab Emirates and Qatar both said they were Tehran intercepting incoming Iranian fire. Read our blog to follow the events as they unfold.",
+      "date": "Sun, 12 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Mojtaba Khamenei: Iran supreme leader vows revenge for father's killing",
       "link": "https://www.france24.com/en/video/20260711-mojtaba-khamenei-iran-supreme-leader-vows-revenge-for-father-s-killing",
       "description": "Iran's supreme leader Mojtaba Khamenei on Saturday vowed revenge for the US-Israeli killing of his father and predecessor, hours after President Donald Trump warned against any attempt to assassinate him.",
@@ -141,6 +161,36 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "IRGC vows ‘crushing response’ to any further US attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss",
+      "description": "IRGC vows ‘crushing response’ to any further US attacks",
+      "date": "Sun, 12 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
+      "description": "US forces have launched a third round of strikes on Iran in a week.",
+      "date": "Sun, 12 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran launches attacks across the Gulf after more US strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
+      "description": "Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar.",
+      "date": "Sun, 12 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
@@ -155,7 +205,7 @@
     {
       "title": "Iran war live: Tehran attacks Jordan, Gulf states after US bombardment",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
-      "description": "Iran targets Jordan and Gulf states after US bombs Iranian cities including Bandar Abbas, Sirik and Chabahar",
+      "description": "Fears grow of further US-Iran escalation after largest tit-for-tat attacks yet during the ceasefire.",
       "date": "Sun, 12 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -183,6 +233,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump's critic-turned-ally US Senator Lindsey Graham dies at 71",
+      "link": "https://www.dawn.com/news/2014843/trumps-critic-turned-ally-us-senator-lindsey-graham-dies-at-71",
+      "description": "US Senator Lindsey Graham passed away on Saturday evening after a brief and sudden illness, the communications director for his office said in a post on X early on Sunday. Graham, 71, was a prominent Republican senator from South Carolina. Earlier in his career, he was a vocal cr...",
+      "date": "Sun, 12 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran's Supreme Leader Mojtaba Khamenei vows revenge for assassinated father",
       "link": "https://www.dawn.com/news/2014642/irans-supreme-leader-mojtaba-khamenei-vows-revenge-for-assassinated-father",
       "description": "Iran’s Supreme Leader Ayatollah Mojtaba Khamenei on Saturday vowed revenge for the US-Israeli killing of his father and predecessor, hours after President Donald Trump warned against any attempt to assassinate him. Both sides dialled up the rhetoric after exchanges of fire this w...",
@@ -193,9 +253,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US launches new strikes on Iran after container ship hit in Hormuz; IRGC announces closure of vital strait",
-      "link": "https://www.dawn.com/news/2014807/us-launches-new-strikes-on-iran-after-container-ship-hit-in-hormuz-irgc-announces-closure-of-vital-strait",
-      "description": "The US military said it launched another round of strikes on Iran — the third in a week — after the Islamic Revolutionary Guard Corps struck a container ship travelling through the Strait of Hormuz on Sunday. Iranian state media has reported explosions in a number of port cities ...",
+      "title": "US launches fresh strikes on Iran; Tehran says Strait of Hormuz closed; Gulf states hit",
+      "link": "https://www.dawn.com/news/2014807/us-launches-fresh-strikes-on-iran-tehran-says-strait-of-hormuz-closed-gulf-states-hit",
+      "description": "The US military launched fresh strikes on Iran after the latter struck a container ship on Sunday ‌while Tehran said it had again closed the Strait of Hormuz and escalated attacks on US facilities in states across the Gulf. A series of attacks between the US and Iran over the pas...",
       "date": "Sun, 12 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -213,11 +273,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Editorial: Holding the US-Iran truce together needs restraint from both sides, isolation of spoilers like Israel",
-      "link": "https://www.dawn.com/news/2014820/editorial-holding-the-us-iran-truce-together-needs-restraint-from-both-sides-isolation-of-spoilers-like-israel",
-      "description": "https://www.dawn.com/news/2014795/mixed-messaging",
+      "title": "U.S. delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal: official",
+      "link": "https://www.thehindu.com/news/international/us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal-official/article71211532.ece",
+      "description": "Under a framework agreement reached on June 26, Israel will gradually withdraw from areas of southern Lebanon where it has deployed troops to fight Hezbollah, the Iran-backed Shia movement",
       "date": "Sun, 12 Jul 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Mojtaba vows revenge for father’s killing after Trump’s new threat",
+      "link": "https://www.thehindu.com/news/international/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/article71210345.ece",
+      "description": "‘Vengeance is the will of our nation and must inevitably be carried out,’ says Iran’s Supreme Leader in a written message; earlier Trump had said any attempt to assassinate him would lead the U.S. to ‘completely decimate’ Iran",
+      "date": "Sun, 12 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -227,26 +297,6 @@
       "link": "https://www.thehindu.com/news/international/us-military-says-it-is-striking-iran-in-response-to-attack-on-civilian-vessel-in-strait-of-hormuz/article71212985.ece",
       "description": "The United States is imposing a heavy cost by continuing to degrade Iran's ability to attack civilian mariners and commercial ships freely transiting the strait, the American military said.",
       "date": "Sun, 12 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: U.S. launches strikes on Iran after attack on civilian vessel in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
-      "description": "U.S. Central Command said a short time later that its forces began a third round of strikes against Iran. There were explosions in Bandar Abbas and Sirik, two towns along the shores of the strait, Iran state media reported.",
-      "date": "Sun, 12 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal: official",
-      "link": "https://www.thehindu.com/news/international/us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal-official/article71211532.ece",
-      "description": "Under a framework agreement reached on June 26, Israel will gradually withdraw from areas of southern Lebanon where it has deployed troops to fight Hezbollah, the Iran-backed Shia movement",
-      "date": "Sat, 11 Jul 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -263,9 +313,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Mojtaba vows revenge for father’s killing after Trump’s new threat",
-      "link": "https://www.thehindu.com/news/international/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/article71210345.ece",
-      "description": "‘Vengeance is the will of our nation and must inevitably be carried out,’ says Iran’s Supreme Leader in a written message; earlier Trump had said any attempt to assassinate him would lead the U.S. to ‘completely decimate’ Iran",
+      "title": "Iran’s Supreme Leader vows revenge for father’s killing",
+      "link": "https://www.thehindu.com/shorts/irans-supreme-leader-vows-revenge-for-fathers-killing/article71210726.ece",
+      "description": "",
       "date": "Sat, 11 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -273,9 +323,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran’s Supreme Leader vows revenge for father’s killing",
-      "link": "https://www.thehindu.com/shorts/irans-supreme-leader-vows-revenge-for-fathers-killing/article71210726.ece",
-      "description": "",
+      "title": "Pakistan PM Sharif holds talks with Iran, Qatar leaders to revive stalled U.S.-Iran negotiations",
+      "link": "https://www.thehindu.com/news/international/pakistan-pm-sharif-holds-talks-with-iran-qatar-leaders-to-revive-stalled-us-iran-negotiations/article71209502.ece",
+      "description": "In his conversation with Iranian President Masoud Pezeshkian, Mr. Sharif expressed “deep concern over the recent escalation in tensions in the region” and underscored the urgent need to “restore regional peace and stability”",
       "date": "Sat, 11 Jul 2026",
       "source": "The Hindu",
       "region": "me",
