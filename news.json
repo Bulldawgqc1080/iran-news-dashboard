@@ -1,22 +1,12 @@
 {
-  "updated": "2026-07-13 05:24 UTC",
-  "total": 38,
+  "updated": "2026-07-13 08:44 UTC",
+  "total": 40,
   "stories": [
     {
-      "title": "U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz",
+      "title": "U.S. launches new strikes on Iran and Tehran attacks U.S. allies in the Gulf",
       "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
-      "description": "The U.S. and Iran have been exchanging strikes, with the U.S. military saying it hit 140 targets in Iran, while Iran said it responded with fire toward Jordan and other Gulf states.",
+      "description": "The U.S. and Iran exchanged fire for the third weekend in a row, with strikes stretching into Monday as Iran responded to U.S. attacks by targeting U.S. allies in the region.",
       "date": "Sun, 12 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
-      "description": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
-      "date": "Sat, 11 Jul 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -27,6 +17,26 @@
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
       "date": "Sun, 12 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "description": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
+      "date": "Sat, 11 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US and Iran trade attacks as Khamenei is buried",
+      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "description": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+      "date": "Fri, 10 Jul 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -93,29 +103,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "description": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-      "date": "Mon, 06 Jul 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/crlwwwyy70do?at_medium=RSS&at_campaign=rss",
-      "description": "Three women and one man were travelling in a car after visiting their family home, Lebanese state media reported.",
-      "date": "Mon, 06 Jul 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "description": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+      "title": "How Iran's new regime is very different to what came before",
+      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "description": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
       "date": "Sun, 05 Jul 2026",
       "source": "BBC",
       "region": "eu",
@@ -123,9 +113,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: US strikes Iran as Gulf states targeted in flareup over Hormuz",
+      "title": "🔴 Iran claims strikes against Oman, Bahrain, Kuwait and Jordan. Follow our live coverage",
       "link": "https://www.france24.com/en/middle-east/20260712-middle-east-live-us-strikes-iran-gulf-states-targeted-strait-hormuz",
-      "description": "The US military on Sunday said it had launched a new wave of attacks against Iran, after renewed fighting over the Strait of Hormuz saw several of Washington's Gulf allies targeted by incoming fire. The flare-up is the latest to undermine an interim agreement between Washington a...",
+      "description": "",
+      "date": "Mon, 13 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel sets October 27 election widely seen as referendum on Netanyahu's leadership",
+      "link": "https://www.france24.com/en/middle-east/20260713-israel-october-27-election-netanyahu-gaza-war",
+      "description": "Israel's parliament on Sunday said it had set the country's national elections for October 27, the latest date permitted by law, which will allow the ruling coalition to complete a full four-term. Prime Minister Benjamin Netanyahu, the country's longest-serving premier, announced...",
+      "date": "Mon, 13 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Iran's Revolutionary Guards claim strikes against Oman, Bahrain",
+      "link": "https://www.france24.com/en/middle-east/20260712-middle-east-live-us-strikes-iran-gulf-states-targeted-strait-hormuz",
+      "description": "Iran's Revolutionary Guards claimed strikes against Jordan, Bahrain, Kuwait and Oman in response a new wave of US attacks on Iran, state media reported Monday. The flare-up is the latest to undermine an interim agreement between Washington and Tehran aimed at ending the war which...",
       "date": "Sun, 12 Jul 2026",
       "source": "France 24",
       "region": "eu",
@@ -151,6 +161,36 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss",
+      "description": "Retired US General Mark Kimmitt warns renewed attacks in the Strait of Hormuz could push the US and Iran",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
+      "link": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss",
+      "description": "Putting all the blame on the Iranian president covers up tensions between competing factions in Tehran.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss",
+      "description": "Iran launches attacks on Gulf states, targeting US military assets in Bahrain, Kuwait, and Jordan.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
@@ -203,24 +243,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel releases video of huge detonations in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
-      "description": "The Israeli military has released video showing huge explosions and detonations in villages in southern Lebanon.",
-      "date": "Sun, 12 Jul 2026",
-      "source": "Al Jazeera",
+      "title": "US launches fresh strikes on Iran, Tehran targets American assets in Gulf states in flareup over Hormuz",
+      "link": "https://www.dawn.com/news/2015083/us-launches-fresh-strikes-on-iran-tehran-targets-american-assets-in-gulf-states-in-flareup-over-hormuz",
+      "description": "The United States struck Iran on Monday for a second day running, drawing Tehran’s reprisals against US allies in the Gulf as the foes battle over the status of the strategic Strait of Hormuz. The flare-up is the latest to undermine an interim agreement between Washington and Teh...",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-says-almost-a-dozen-enemy-projectiles-targeted-qeshm-island?traffic_source=rss",
-      "description": "New explosions have been heard in Bandar Abbas and Qeshm Island.",
-      "date": "Sun, 12 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
@@ -273,19 +303,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US team in Beirut to discuss Israeli withdrawal",
-      "link": "https://www.dawn.com/news/2014761/us-team-in-beirut-to-discuss-israeli-withdrawal",
-      "description": "• Israeli strikes continue in southern Lebanon despite truce• Visiting US lawmaker Ro Khanna detained by armed Israeli settlers in occupied West Bank BEIRUT/ TURMUS AYYA: A US military delegation met with Lebanon’s army in Beirut to discuss the implementation of Israel’s withdraw...",
-      "date": "Sun, 12 Jul 2026",
-      "source": "Dawn",
+      "title": "Why Iran insists on controlling the Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/why-iran-insists-on-controlling-the-strait-of-hormuz/article71216413.ece",
+      "description": "In the MoU, the U.S. has made several concessions to Iran. It lifted its maritime blockade, issued a sanctions waiver for Iranian crude and other petroleum products and also promised that Iran would get access to some of its frozen funds",
+      "date": "Mon, 13 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: U.S. military bases in Jordan, Bahrain, Kuwait struck by IRGC",
+      "title": "No EU agreement yet on 21st Russian sanctions package, says EU foreign ‌policy ⁠chief Kaja Kallas",
+      "link": "https://www.thehindu.com/news/international/no-eu-agreement-yet-on-21st-russian-sanctions-package-says-eu-foreign-policy-chief-kaja-kallas/article71216270.ece",
+      "description": "EU countries hoping to get 250 listings agreed before a meeting of ‌EU Foreign Affairs Ministers ​in Brussels says EU foreign ‌policy ⁠chief Kaja Kallas",
+      "date": "Mon, 13 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: IRGC claims strikes against Oman and Bahrain",
       "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-attacks-strait-of-hormuz-donald-trump-mojtaba-khamenei-cenctom-irgc-ceasefire-deal/article71215794.ece",
-      "description": "Iran's Revolutionary Guards said they had struck U.S. military targets and bases in Jordan, Bahrain and Kuwait, state media reported",
+      "description": "Iran’s Revolutionary Guards said they destroyed radar systems in Oman and targeted U.S. military facilities on the southern edge of Manama",
+      "date": "Mon, 13 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. hits Iran as Gulf states targeted in flare-up over Hormuz",
+      "link": "https://www.thehindu.com/news/international/us-hits-iran-as-gulf-states-targeted-in-flare-up-over-hormuz/article71216183.ece",
+      "description": "Iran responded to the latest U.S. attacks by targeting Gulf nations, with the powerful Revolutionary Guards announcing new strikes on Bahrain, Jordan and Kuwait, according to state media reports",
+      "date": "Mon, 13 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Jordan says it shot down four missiles launched by Iran",
+      "link": "https://www.thehindu.com/news/international/jordan-says-it-shot-down-four-missiles-launched-by-iran/article71216119.ece",
+      "description": "Iran earlier had claimed an attack targeting Jordan, which hosts U.S. military forces",
       "date": "Mon, 13 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,49 +363,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war updates: Projectiles hit Iran's Gulf island of Qeshm, state media says",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
-      "description": "U.S. attacks Iran over ship being hit in Hormuz; Tehran responds by hitting Arab states",
-      "date": "Sun, 12 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. attacks Iran over ship being hit in Hormuz; Tehran lashes out again at Gulf Arab states",
-      "link": "https://www.thehindu.com/news/international/us-attacks-iran-over-ship-being-hit-in-hormuz-tehran-lashes-out-again-at-gulf-arab-states/article71214332.ece",
-      "description": "",
-      "date": "Sun, 12 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. military says ‘traffic is flowing’ in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/us-military-says-traffic-is-flowing-in-strait-of-hormuz/article71214266.ece",
-      "description": "The United States Central Command said the strait “remains an international waterway. U.S. forces are positioned and prepared to keep it that way”",
-      "date": "Sun, 12 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan Deputy PM Dar calls for de-escalation in West Asia",
-      "link": "https://www.thehindu.com/news/international/pakistan-deputy-pm-dar-calls-for-de-escalation-in-west-asia/article71213601.ece",
-      "description": "The escalation happened days after President Donald Trump said that the deal with Iran is over",
-      "date": "Sun, 12 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US completes latest wave of strikes on Iran — CENTCOM",
-      "link": "https://tass.com/world/2159273",
-      "description": "Dozens of targets at multiple locations were destroyed",
+      "title": "Iran to oppose attempts to turn Hormuz Strait into security threat — MFA",
+      "link": "https://tass.com/world/2159361",
+      "description": "Iranian Foreign Ministry Spokesman Esmaeil Baghaei stated that the United States’ statement on providing military escorts for commercial vessels highlighted Washington’s determination to maintain instability in the region",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,9 +373,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran attacks US base in Jordan with missiles, drones — IRGC",
-      "link": "https://tass.com/world/2159269",
-      "description": "Iran's Islamic Revolutionary Guard Corps said the strikes on Jordan marked only the first phase of its \"retaliation operation,\" which it said is still underway",
+      "title": "Iran seeking to turn military conflict with US into economic one — expert",
+      "link": "https://tass.com/world/2159357",
+      "description": "Mehran Kamrava highlighted that Iran was keenly aware of the fact that it could not match the United States and Israel militarily",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -363,9 +383,9 @@
       "bias": "Very High"
     },
     {
-      "title": "At least 13 Iranian cities come under US strikes — media",
-      "link": "https://tass.com/world/2159261",
-      "description": "No information on casualties from the airstrikes has been reported, according to NourNews agency",
+      "title": "US uses naval drones for first time in new attack on Iran — CENTCOM",
+      "link": "https://tass.com/world/2159333",
+      "description": "The US Central Command once again asserted that Iran \"does not control\" the Strait of Hormuz",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -373,9 +393,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US troops accuse commanders of negligence over Iranian drone threat",
-      "link": "https://tass.com/world/2159257",
-      "description": "US commanders deny the allegations and maintain that the military facility was adequately protected, The Washington Post reported",
+      "title": "Mediators hold another series of talks on de-escalation with Iran, US — AP",
+      "link": "https://tass.com/world/2159309",
+      "description": "In particular, Pakistani Foreign Minister Ishaq Dar held a phone call with his Iranian counterpart, Abbas Araghchi",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",

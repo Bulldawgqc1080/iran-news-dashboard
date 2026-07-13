@@ -1,26 +1,27 @@
 {
-  "updated": "2026-07-13 05:24 UTC",
+  "updated": "2026-07-13 08:44 UTC",
   "total": 13,
   "events": [
     {
       "date": "2026-07-13",
       "dateDisplay": "Jul 13, 2026",
-      "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
+      "title": "\ud83d\udd34 Iran claims strikes against Oman, Bahrain, Kuwait and Jordan. Follow our live coverage",
+      "link": "https://www.france24.com/en/middle-east/20260712-middle-east-live-us-strikes-iran-gulf-states-targeted-strait-hormuz",
       "sources": [
+        "France 24",
         "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-07-12",
       "dateDisplay": "Jul 12, 2026",
-      "title": "U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz",
+      "title": "U.S. launches new strikes on Iran and Tehran attacks U.S. allies in the Gulf",
       "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
       "sources": [
         "NPR News",
-        "BBC"
+        "France 24"
       ],
       "sourceCount": 2,
       "type": "govt"
@@ -28,10 +29,21 @@
     {
       "date": "2026-07-11",
       "dateDisplay": "Jul 11, 2026",
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
+      "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-07-10",
+      "dateDisplay": "Jul 10, 2026",
+      "title": "US and Iran trade attacks as Khamenei is buried",
+      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
@@ -70,21 +82,10 @@
       "type": "framing"
     },
     {
-      "date": "2026-07-06",
-      "dateDisplay": "Jul 06, 2026",
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
       "date": "2026-07-05",
       "dateDisplay": "Jul 05, 2026",
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "title": "How Iran's new regime is very different to what came before",
+      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
