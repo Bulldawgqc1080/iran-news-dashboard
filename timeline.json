@@ -1,15 +1,26 @@
 {
-  "updated": "2026-07-12 23:41 UTC",
-  "total": 12,
+  "updated": "2026-07-13 01:47 UTC",
+  "total": 13,
   "events": [
+    {
+      "date": "2026-07-13",
+      "dateDisplay": "Jul 13, 2026",
+      "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-07-12",
       "dateDisplay": "Jul 12, 2026",
       "title": "U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz",
       "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
       "sources": [
-        "BBC",
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
