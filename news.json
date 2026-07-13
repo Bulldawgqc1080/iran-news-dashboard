@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-13 19:09 UTC",
-  "total": 40,
+  "updated": "2026-07-13 20:47 UTC",
+  "total": 38,
   "stories": [
     {
-      "title": "Trump says the U.S. is back to blockading Iran and will charge ships a toll in Hormuz",
+      "title": "Trump says the U.S. will blockade Iran again and charge ships a toll in Hormuz",
       "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
       "description": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
       "date": "Mon, 13 Jul 2026",
@@ -31,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
@@ -123,11 +133,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "description": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
-      "date": "Wed, 08 Jul 2026",
-      "source": "BBC",
+      "title": "Trump reimposes Iran naval blockade, threatens Hormuz fees",
+      "link": "https://www.france24.com/en/trump-reimposes-iran-naval-blockade-threatens-hormuz-fees",
+      "description": "President Donald Trump reimposed a US naval blockade on Iranian ports on Monday and vowed hefty fees for ships transiting the Strait of Hormuz, as Tehran mockingly pledged to charge a lower rate for passage through the strategic waterway. FRANCE 24's Jennie Shin speaks with Aaron...",
+      "date": "Mon, 13 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -143,34 +153,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East War: Iran claims strikes on US bases in multiple countries",
-      "link": "https://www.france24.com/en/video/20260713-middle-east-war-iran-claims-strikes-on-us-bases-in-multiple-countries",
-      "description": "🔎 Iran's Revolutionary Guards on Monday said they had hit US military bases in countries across the Middle East in retaliation for American attacks on targets across Iran. Both US and Iran claim control over the Strait of Hormuz. In a telephone interview with Fox News on Monday, ...",
+      "title": "US keeping the Strait of Hormuz open is ‘a massive force problem’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-keeping-the-strait-of-hormuz-open-is-a-massive-force?traffic_source=rss",
+      "description": "Former NATO analyst says Trump&#039;s push for a naval blockade in the Strait of Hormuz would mean a huge military operation.",
       "date": "Mon, 13 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran launches drone, missile attacks on dissident bases in Iraqi Kurdistan",
-      "link": "https://www.france24.com/en/middle-east/20260713-iran-launches-drone-missile-attacks-kurdish-dissident-bases-iraq",
-      "description": "Iran's military forces recently carried out heavy air strikes on bases belonging to Iranian Kurdish militia groups in Iraqi Kurdistan. These unprecedented attacks underscore Tehran’s fear that these militias could become more offensive amid the instability fuelled by the war with...",
+      "title": "UK designates IRGC as terrorist organisation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss",
+      "description": "The UK government has designated Iran’s Revolutionary Guard Corps (IRGC) as a terrorist organisation under new powers.",
       "date": "Mon, 13 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "France's combat helicopters train ahead of Bastille day parade",
-      "link": "https://www.france24.com/en/france-s-combat-helicopters-train-ahead-of-bastille-day-parade",
-      "description": "In less than 24 hours, a fleet of tiger helicopters will fly over Paris during the July 14 parade. They are among the French Army’s most formidable combat aircraft. Four of them were, in fact, recently on a mission in the Middle East. They destroyed several Iranian Shahed drones ...",
-      "date": "Mon, 13 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "UK to list Iran’s IRGC as ‘terror’ threat",
@@ -203,7 +203,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iraqi PM heads to US seeking balance between security and economy",
+      "title": "Iraqi PM arrives in US seeking balance between security and economy",
       "link": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
       "description": "PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.",
       "date": "Mon, 13 Jul 2026",
@@ -216,26 +216,6 @@
       "title": "Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls",
       "link": "https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls?traffic_source=rss",
       "description": "Iran rejects any US control over strait as both sides trade attacks in major threat to negotiations to end their war.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What is the EU’s plan to cut trade with illegal Israeli settlements?",
-      "link": "https://www.aljazeera.com/news/2026/7/13/what-is-the-eus-plan-to-cut-trade-with-illegal-israeli-settlements?traffic_source=rss",
-      "description": "Foreign ministers&#039; meeting comes months after the EU imposed sanctions on Israel over West Bank settlement construction.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "EU sanctions nine people over alleged Russian cyber-spying campaign",
-      "link": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign?traffic_source=rss",
-      "description": "EU announces sanctions on nine individuals and four entities over alleged years-long cyber-espionage campaign.",
       "date": "Mon, 13 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -303,6 +283,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "West Asia war LIVE: Trump says U.S. is reinstating maritime blockade on Iran",
+      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-attacks-strait-of-hormuz-donald-trump-mojtaba-khamenei-cenctom-irgc-ceasefire-deal/article71215794.ece",
+      "description": "The United States used one-way attack sea drones in combat for the first time to strike the Iranian port of Bandar Abbas",
+      "date": "Mon, 13 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "EU, U.K. hit Russia with joint sanctions over cyber attacks",
       "link": "https://www.thehindu.com/news/international/eu-uk-hit-russia-with-joint-sanctions-over-cyber-attacks/article71218775.ece",
       "description": "The move comes as Western officials warn Russia has stepped up its \"hybrid\" campaign to destabilise Europe over four years into the war on Ukraine.",
@@ -316,16 +306,6 @@
       "title": "Yemen government says attacked Sanaa airport, reviving dormant conflict",
       "link": "https://www.thehindu.com/news/international/yemen-government-says-attacked-sanaa-airport-reviving-dormant-conflict/article71218767.ece",
       "description": "The government said it had wanted to prevent an Iranian plane from landing in the capital, after failing to convince a Houthi delegation that went to Tehran for the late Iranian Supreme Leader’s funeral to board a Yemenia flight instead.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: Trump says U.S. is reinstating maritime blockade on Iran",
-      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-attacks-strait-of-hormuz-donald-trump-mojtaba-khamenei-cenctom-irgc-ceasefire-deal/article71215794.ece",
-      "description": "The United States used one-way attack sea drones in combat for the first time to strike the Iranian port of Bandar Abbas",
       "date": "Mon, 13 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -363,39 +343,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump notifies US Congress about resuming warfare in Iran — NYT",
+      "link": "https://tass.com/world/2159779",
+      "description": "The letter was sent to US lawmakers on July 10, the report says",
+      "date": "Mon, 13 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Yemeni Houthis report attacking Abha Airport in Saudi Arabia",
+      "link": "https://tass.com/world/2159777",
+      "description": "According to the Houthis, the attack was conducted in response to Saudi Arabia’s strike on Sanaa Airport",
+      "date": "Mon, 13 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US to resume blockade of Iran’s seaports on July 14 — CENTCOM",
+      "link": "https://tass.com/world/2159767",
+      "description": "US forces will enforce the blockade against vessels transiting to or from Iranian ports and coastal areas",
+      "date": "Mon, 13 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Iran to remain guardian of Strait of Hormuz — foreign minister",
       "link": "https://tass.com/world/2159757",
       "description": "Abbas Araghchi also commented on US President Donald Trump’s plans to seize control over the waterway and to levy a security toll of 20%",
-      "date": "Mon, 13 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US wants to control Strait of Hormuz, receive 20% of cargo costs — Trump",
-      "link": "https://tass.com/world/2159705",
-      "description": "\"All other countries will have fair and open use of the Strait,\" the US president said",
-      "date": "Mon, 13 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran and Russia need working groups to monitor joint projects — Iranian president",
-      "link": "https://tass.com/world/2159753",
-      "description": "Masoud Pezeshkian emphasized that Iran and Russia are strategic partners and reliable friends",
-      "date": "Mon, 13 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Sanctions on Russia start triggering legal warfare within Western business, expert says",
-      "link": "https://tass.com/politics/2159749",
-      "description": "Ilya Grashchenkov noted that the financial cost of anti-Russian policies is now shifting from abstract markets to specific corporations",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",
