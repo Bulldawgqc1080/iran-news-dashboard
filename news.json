@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-13 17:04 UTC",
-  "total": 42,
+  "updated": "2026-07-13 19:09 UTC",
+  "total": 40,
   "stories": [
     {
-      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
+      "title": "Trump says the U.S. is back to blockading Iran and will charge ships a toll in Hormuz",
       "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
-      "description": "The move comes after the U.S. and Iran exchanged fire for the third weekend in a row, raising the specter of a return to all-out war after a shaky ceasefire took effect in June.",
+      "description": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
       "date": "Mon, 13 Jul 2026",
       "source": "NPR News",
       "region": "us",
@@ -173,14 +173,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran: Rising regional power or too weak to make peace?",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260713-iran-rising-regional-power-or-too-weak-to-make-peace",
-      "description": "PRESS REVIEW – Monday, July 13: Papers analyse Iran's strategy against the United States. In Japan, a quiet refuge has emerged for Russian spies. And finally, the story of a dog and its \"emotional support duck\"...",
+      "title": "UK to list Iran’s IRGC as ‘terror’ threat",
+      "link": "https://www.aljazeera.com/news/2026/7/13/uk-to-list-irans-irgc-as-terror-threat?traffic_source=rss",
+      "description": "London debuts new powers targeting state proxies after accusing Iranian outfit of engineering anti-Semitic attacks.",
       "date": "Mon, 13 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
@@ -243,26 +243,6 @@
       "bias": "Medium"
     },
     {
-      "title": "March to July: What’s different as US-Iran fighting escalates again?",
-      "link": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
-      "description": "With ceasefire in shambles and both sides exchanging tit-for-tat attacks, is the region again plunging into all-out war?",
-      "date": "Mon, 13 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Yemen government says its forces attacked Sanaa airport",
-      "link": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
-      "description": "Gov&#039;t says its forces struck Sanaa airport to prevent an Iranian aircraft from landing there.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Middle East rocked by heaviest attacks since US-Iran April ceasefire",
       "link": "https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire",
       "description": "The Middle East has been rocked by US and Iranian attacks of a scale unseen since an April ceasefire, as fighting over the strategic Strait of Hormuz threatened to derail efforts to permanently end the war. As the US attacks on Iran continued on Monday, Tehran said it would stop ...",
@@ -273,9 +253,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump administration launches effort to isolate International Criminal Court",
-      "link": "https://www.dawn.com/news/2015154/trump-administration-launches-effort-to-isolate-international-criminal-court",
-      "description": "The Trump administration is launching an effort to dismantle what it calls the threat to United States sovereignty by the International Criminal Court (ICC), a State Department official said on Monday. President Donald Trump and other US officials, such as former President George...",
+      "title": "Yemen govt says hit Sanaa airport, Houthis attack Saudi Arabia",
+      "link": "https://www.dawn.com/news/2015162/yemen-govt-says-hit-sanaa-airport-houthis-attack-saudi-arabia",
+      "description": "Yemen’s Houthis targeted Saudi Arabia on Monday, hours after the rebels accused the kingdom of attacking Sanaa airport — the biggest flare-up in years between the two sides that threatens to upend a frozen conflict. The Saudi-backed Yemeni government claimed responsibility for th...",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Rubio lashes out at International Criminal Court, accuses it of 'waging war' against US",
+      "link": "https://www.dawn.com/news/2015154/rubio-lashes-out-at-international-criminal-court-accuses-it-of-waging-war-against-us",
+      "description": "US Secretary of State Marco Rubio on Monday accused the International Criminal Court (ICC) of threatening American sovereignty and “waging a war” against the country. “The ICC and its friends are waging a war against our country — not with bullets or missiles but with statutes, c...",
       "date": "Mon, 13 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -313,11 +303,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Former Qatari emir Sheikh Hamad bin Khalifa Al Thani dies at 74; Pakistan to observe day of mourning on Monday",
-      "link": "https://www.dawn.com/news/2014840/former-qatari-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pakistan-to-observe-day-of-mourning-on-monday",
-      "description": "Qatar’s government on Sunday announced the death of former leader Sheikh Hamad bin Khalifa Al Thani, who led the country from 1995 to 2013. He was 74, according to a government website. “With hearts steadfast in faith in God’s decree and destiny, the Bureau of the Emir mourns the...",
-      "date": "Sun, 12 Jul 2026",
-      "source": "Dawn",
+      "title": "EU, U.K. hit Russia with joint sanctions over cyber attacks",
+      "link": "https://www.thehindu.com/news/international/eu-uk-hit-russia-with-joint-sanctions-over-cyber-attacks/article71218775.ece",
+      "description": "The move comes as Western officials warn Russia has stepped up its \"hybrid\" campaign to destabilise Europe over four years into the war on Ukraine.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen government says attacked Sanaa airport, reviving dormant conflict",
+      "link": "https://www.thehindu.com/news/international/yemen-government-says-attacked-sanaa-airport-reviving-dormant-conflict/article71218767.ece",
+      "description": "The government said it had wanted to prevent an Iranian plane from landing in the capital, after failing to convince a Houthi delegation that went to Tehran for the late Iranian Supreme Leader’s funeral to board a Yemenia flight instead.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -363,29 +363,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "No EU agreement yet on 21st Russian sanctions package, says EU foreign ‌policy ⁠chief Kaja Kallas",
-      "link": "https://www.thehindu.com/news/international/no-eu-agreement-yet-on-21st-russian-sanctions-package-says-eu-foreign-policy-chief-kaja-kallas/article71216270.ece",
-      "description": "EU countries hoping to get 250 listings agreed before a meeting of ‌EU Foreign Affairs Ministers ​in Brussels says EU foreign ‌policy ⁠chief Kaja Kallas",
-      "date": "Mon, 13 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Why Iran insists on controlling the Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/why-iran-insists-on-controlling-the-strait-of-hormuz/article71216413.ece",
-      "description": "In the MoU, the U.S. has made several concessions to Iran. It lifted its maritime blockade, issued a sanctions waiver for Iranian crude and other petroleum products and also promised that Iran would get access to some of its frozen funds",
-      "date": "Mon, 13 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russia, Iran discuss joint projects in gas industry — Russian Energy Ministry",
-      "link": "https://tass.com/economy/2159729",
-      "description": "The parties also discussed the advancement in preparing bilateral cooperation agreements",
+      "title": "Iran to remain guardian of Strait of Hormuz — foreign minister",
+      "link": "https://tass.com/world/2159757",
+      "description": "Abbas Araghchi also commented on US President Donald Trump’s plans to seize control over the waterway and to levy a security toll of 20%",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -393,9 +373,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Brent crude jumps over 5% following Trump's pledge to reinstate blockade on Iranian ports",
-      "link": "https://tass.com/economy/2159707",
-      "description": "As of 5:21 p.m. Moscow time, Brent crude was up 5.29%, trading at $80.03 per barrel",
+      "title": "US wants to control Strait of Hormuz, receive 20% of cargo costs — Trump",
+      "link": "https://tass.com/world/2159705",
+      "description": "\"All other countries will have fair and open use of the Strait,\" the US president said",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -403,9 +383,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iranian attacks on Arab countries violate international law — LAS secretary general",
-      "link": "https://tass.com/world/2159625",
-      "description": "Nabil Fahmy stated that an infringement on the sovereignty of any Arab state required a unified and firm position from all alliance members",
+      "title": "Iran and Russia need working groups to monitor joint projects — Iranian president",
+      "link": "https://tass.com/world/2159753",
+      "description": "Masoud Pezeshkian emphasized that Iran and Russia are strategic partners and reliable friends",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -413,9 +393,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Houthis blame Riyadh for the strikes on Sanaa airport",
-      "link": "https://tass.com/world/2159589",
-      "description": "The Foreign Ministry in the Houthi government has regarded the attack on the airport as a declaration of war",
+      "title": "Sanctions on Russia start triggering legal warfare within Western business, expert says",
+      "link": "https://tass.com/politics/2159749",
+      "description": "Ilya Grashchenkov noted that the financial cost of anti-Russian policies is now shifting from abstract markets to specific corporations",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",
