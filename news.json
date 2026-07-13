@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-13 14:01 UTC",
+  "updated": "2026-07-13 17:04 UTC",
   "total": 42,
   "stories": [
+    {
+      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
+      "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
+      "description": "The move comes after the U.S. and Iran exchanged fire for the third weekend in a row, raising the specter of a return to all-out war after a shaky ceasefire took effect in June.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
       "link": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
@@ -21,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+      "description": "Within hours of the latest US attacks, Iran said it had struck US military assets in Kuwait, Jordan, Bahrain and Oman.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "UK bans support for Iran's Islamic Revolutionary Guard Corps",
@@ -113,11 +133,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "description": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
-      "date": "Tue, 07 Jul 2026",
-      "source": "BBC",
+      "title": "EU, UK slap sanctions on Russian spies and hackers over cyberattacks",
+      "link": "https://www.france24.com/en/europe/20260713-eu-and-uk-slap-sanctions-on-russian-spies-and-hackers-over-cyberattacks",
+      "description": "The EU and Britain on Monday imposed coordinated sanctions on Russian military intelligence officials and private companies over a major cyberespionage campaign targeting European infrastructure in a bid to destabilise the EU and its partners.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -163,34 +183,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How heatwaves are changing France's real-estate market",
-      "link": "https://www.france24.com/en/tv-shows/business/20260713-how-heatwaves-are-changing-france-s-real-estate-market",
-      "description": "Crude oil prices surge as renewed US-Iran strikes fuel market fears. In France, real-estate agents say property buyers are changing priorities as heatwaves become more frequent. And Cuba suffers another nationwide blackout amid the impact of US sanctions.",
+      "title": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
+      "link": "https://www.aljazeera.com/economy/2026/7/13/us-imposes-new-sanctions-on-cuba-tourism-ministry-state-owned-companies?traffic_source=rss",
+      "description": "The US Treasury Department posted the new directive on its website on Monday.",
       "date": "Mon, 13 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Strait of Hormuz 'back to square one' as US-Iran flare-up brings uncertainty",
-      "link": "https://www.france24.com/en/strait-of-hormuz-back-to-square-one-as-us-iran-flare-up-brings-uncertainty",
-      "description": "The renewed hostilities in the Middle East followed a renewed exchange of fire. It comes as negotiators struggle to reach a lasting peace deal to keep the crucial Strait of Hormuz open. Although the Strait is not being completely shut down, Iran has been striking ships adopting a...",
+      "title": "Trump: US will ‘take over’ Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz?traffic_source=rss",
+      "description": "President Donald Trump has said the US will ‘take over’ the Strait of Hormuz, accusing Iran of breaking the deal.",
       "date": "Mon, 13 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "US-Iran talks to end war on the line amid renewed strikes",
-      "link": "https://www.france24.com/en/us-iran-talks-to-end-war-on-the-line-amid-renewed-strikes",
-      "description": "The US has launched more strikes in Iran, for a third major attack between July 12 and July 13 in the Middle East. It comes just hours after the US launched some of its largest air strikes against Iran since US President Donald Trump declared the ceasefire over. Iran announced it...",
+      "title": "Iraqi PM heads to US seeking balance between security and economy",
+      "link": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
+      "description": "PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.",
       "date": "Mon, 13 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls",
+      "link": "https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls?traffic_source=rss",
+      "description": "Iran rejects any US control over strait as both sides trade attacks in major threat to negotiations to end their war.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What is the EU’s plan to cut trade with illegal Israeli settlements?",
+      "link": "https://www.aljazeera.com/news/2026/7/13/what-is-the-eus-plan-to-cut-trade-with-illegal-israeli-settlements?traffic_source=rss",
+      "description": "Foreign ministers&#039; meeting comes months after the EU imposed sanctions on Israel over West Bank settlement construction.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "EU sanctions nine people over alleged Russian cyber-spying campaign",
+      "link": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign?traffic_source=rss",
+      "description": "EU announces sanctions on nine individuals and four entities over alleged years-long cyber-espionage campaign.",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "March to July: What’s different as US-Iran fighting escalates again?",
@@ -213,59 +263,29 @@
       "bias": "Medium"
     },
     {
-      "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
-      "link": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss",
-      "description": "Pressure from EU member states to impose sanctions has increased in recent months amid escalating settler violence.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "New Iran strikes on Gulf as US attacks escalate: What we know",
-      "link": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss",
-      "description": "Iran targets its Gulf neighbours in third round of tit-for-tat attacks with US in a week.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US and Iran trade strikes as ceasefire comes under growing strain",
-      "link": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
-      "description": "Iran&#039;s IRGC says it attacked sites linked to the US military in Kuwait, Bahrain and Oman after latest US bombardment.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss",
-      "description": "Retired US General Mark Kimmitt warns renewed attacks in the Strait of Hormuz could push the US and Iran",
-      "date": "Mon, 13 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
-      "link": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss",
-      "description": "Putting all the blame on the Iranian president covers up tensions between competing factions in Tehran.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Middle East rocked by heaviest attacks since US-Iran ceasefire",
-      "link": "https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-ceasefire",
+      "title": "Middle East rocked by heaviest attacks since US-Iran April ceasefire",
+      "link": "https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire",
       "description": "The Middle East has been rocked by US and Iranian attacks of a scale unseen since an April ceasefire, as fighting over the strategic Strait of Hormuz threatened to derail efforts to permanently end the war. As the US attacks on Iran continued on Monday, Tehran said it would stop ...",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump administration launches effort to isolate International Criminal Court",
+      "link": "https://www.dawn.com/news/2015154/trump-administration-launches-effort-to-isolate-international-criminal-court",
+      "description": "The Trump administration is launching an effort to dismantle what it calls the threat to United States sovereignty by the International Criminal Court (ICC), a State Department official said on Monday. President Donald Trump and other US officials, such as former President George...",
+      "date": "Mon, 13 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Ambassador Siddiqui presents credentials to ECO secretary general in Tehran, reaffirms Pakistan's commitment",
+      "link": "https://www.dawn.com/news/2015157/ambassador-siddiqui-presents-credentials-to-eco-secretary-general-in-tehran-reaffirms-pakistans-commitment",
+      "description": "Ambassador Imran Ahmed Siddiqui on Monday presented his credentials to the secretary general of the Economic Cooperation Organisation (ECO) as Pakistan’s permanent representative to the organisation in Tehran. The ECO is an intergovernmental organisation that promotes economic co...",
       "date": "Mon, 13 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -303,29 +323,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan expresses 'deep concern' over Middle East escalation, urges all sides to exercise restraint",
-      "link": "https://www.dawn.com/news/2014857/pakistan-expresses-deep-concern-over-middle-east-escalation-urges-all-sides-to-exercise-restraint",
-      "description": "Pakistan on Sunday expressed its “deep concern” over the ongoing escalation in the Middle East and urged all sides to exercise restraint after the United States and Iran traded fresh strikes, with Gulf countries also coming under attack. In a statement, the Foreign Office (FO) sa...",
-      "date": "Sun, 12 Jul 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran thanks Pakistan for abstaining from vote allowing UNSC meeting on nuclear programme",
-      "link": "https://www.dawn.com/news/2014810/iran-thanks-pakistan-for-abstaining-from-vote-allowing-unsc-meeting-on-nuclear-programme",
-      "description": "https://www.dawn.com/news/2014760",
-      "date": "Sun, 12 Jul 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: West Asia rocked by heaviest attacks since Iran-U.S. ceasefire",
+      "title": "West Asia war LIVE: Trump says U.S. is reinstating maritime blockade on Iran",
       "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-attacks-strait-of-hormuz-donald-trump-mojtaba-khamenei-cenctom-irgc-ceasefire-deal/article71215794.ece",
-      "description": "Iran’s Revolutionary Guards said they destroyed radar systems in Oman and targeted U.S. military facilities on the southern edge of Manama",
+      "description": "The United States used one-way attack sea drones in combat for the first time to strike the Iranian port of Bandar Abbas",
+      "date": "Mon, 13 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says U.S. will blockade Iran in Strait of Hormuz and will charge ships for safe passage",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-will-blockade-iran-in-strait-of-hormuz-and-will-charge-ships-for-safe-passage/article71218305.ece",
+      "description": "Trump said on social media that Iranian ships will no longer be able to travel through the Strait and America would charge a 20% toll on eligible cargo, as the conflict with Iran has intensified after peace talks failed to deliver meaningful progress.",
       "date": "Mon, 13 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -373,14 +383,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. hits Iran as Gulf states targeted in flare-up over Hormuz",
-      "link": "https://www.thehindu.com/news/international/us-hits-iran-as-gulf-states-targeted-in-flare-up-over-hormuz/article71216183.ece",
-      "description": "Iran responded to the latest U.S. attacks by targeting Gulf nations, with the powerful Revolutionary Guards announcing new strikes on Bahrain, Jordan and Kuwait, according to state media reports",
+      "title": "Russia, Iran discuss joint projects in gas industry — Russian Energy Ministry",
+      "link": "https://tass.com/economy/2159729",
+      "description": "The parties also discussed the advancement in preparing bilateral cooperation agreements",
       "date": "Mon, 13 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Brent crude jumps over 5% following Trump's pledge to reinstate blockade on Iranian ports",
+      "link": "https://tass.com/economy/2159707",
+      "description": "As of 5:21 p.m. Moscow time, Brent crude was up 5.29%, trading at $80.03 per barrel",
+      "date": "Mon, 13 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iranian attacks on Arab countries violate international law — LAS secretary general",
@@ -396,26 +416,6 @@
       "title": "Houthis blame Riyadh for the strikes on Sanaa airport",
       "link": "https://tass.com/world/2159589",
       "description": "The Foreign Ministry in the Houthi government has regarded the attack on the airport as a declaration of war",
-      "date": "Mon, 13 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "UK designates Iran’s IRGC as terrorist organization — Sky News",
-      "link": "https://tass.com/world/2159547",
-      "description": "The British government explained its move by saying the elite Iranian army unit is allegedly involved in the intimidation of critics of the Islamic Republic on UK soil",
-      "date": "Mon, 13 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "EU sanctions VK, Max messenger",
-      "link": "https://tass.com/world/2159521",
-      "description": "The EU said the sanctions against VK were imposed because the company is the parent of Communication Platform LLC, the developer of the national Max messenger",
       "date": "Mon, 13 Jul 2026",
       "source": "TASS",
       "region": "ru",
