@@ -1,11 +1,21 @@
 {
-  "updated": "2026-07-15 13:07 UTC",
-  "total": 42,
+  "updated": "2026-07-15 15:16 UTC",
+  "total": 38,
   "stories": [
     {
-      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "title": "The U.S. and Iran standoff over the Strait of Hormuz intensifies",
       "link": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
       "description": "Iran threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz.",
+      "date": "Wed, 15 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Retired vice admiral on whether the U.S. can control the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5893471/retired-vice-admiral-on-whether-the-u-s-can-control-the-strait-of-hormuz",
+      "description": "Can the U.S. control the Strait of Hormuz? NPR's A Martínez asks retired Vice Admiral Kevin Donegan, who commanded the Navy's Fifth Fleet and the Combined Maritime Forces in the Middle East.",
       "date": "Wed, 15 Jul 2026",
       "source": "NPR News",
       "region": "us",
@@ -23,24 +33,14 @@
       "bias": "Low"
     },
     {
-      "title": "The U.S. is back to blockading Iran as the Strait of Hormuz standoff escalates",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
-      "description": "The U.S. military says it's begun its blockade of ships entering or exiting Iran's ports, as Iran vows to assert its own control over the critical Strait of Hormuz.",
-      "date": "Tue, 14 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Pakistan urges restraint as its Mideast deal unravels",
-      "link": "https://www.npr.org/2026/07/13/nx-s1-5891718/pakistan-urges-restraint-as-its-mideast-deal-unravels",
-      "description": "Pakistan urges restraint as Iran and the U.S. clash and a memorandum of understanding unravels.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "description": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+      "date": "Wed, 15 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
@@ -133,11 +133,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
-      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "description": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
-      "date": "Sat, 11 Jul 2026",
-      "source": "BBC",
+      "title": "Briton jailed in Iran given additional two-year sentence, family says",
+      "link": "https://www.france24.com/en/video/20260715-briton-jailed-in-iran-given-additional-two-year-sentence-family-says",
+      "description": "The family ⁠of British ​couple Craig and Lindsay Foreman, who are serving a 10-year ​prison sentence in Iran on espionage charges that they deny, said on Wednesday that a judge had extended Craig Foreman's ​sentence ‌by two years for speaking to the ⁠media. The couple were arrest...",
+      "date": "Wed, 15 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -163,54 +163,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "EU, UK hit Russia with joint sanctions over cyber attacks",
-      "link": "https://www.france24.com/en/video/20260715-eu-uk-hit-russia-with-joint-sanctions-over-cyber-attacks",
-      "description": "The European Union and Britain targeted Russia Monday with coordinated sanctions over cyber attacks in Europe, accusing Moscow's FSB intelligence agency over involvement in digital strikes. Russia in response slammed the accusations as \"baseless\".",
+      "title": "How US-Iran escalation will test Iraq’s balancing act",
+      "link": "https://www.aljazeera.com/economy/2026/7/15/how-us-iran-escalation-will-test-iraqs-balancing-act?traffic_source=rss",
+      "description": "The Iraqi PM visited the White House to deepen economic ties, as Iraq-based allies of Iran threatened to fight the US.",
       "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran threatens to cut off major vital seaways in response to Trump's renewed blockade",
-      "link": "https://www.france24.com/en/middle-east/20260715-iran-threatens-to-cut-off-major-vital-seaways-in-response-to-trump-s-renewed-blockade",
-      "description": "After closing the Strait of Hormuz, Tehran on Wednesday threatened to shut additional energy export routes including the Bab el-Mandeb gateway to the Red Sea, a major global shipping route through which Saudi Arabia exports its oil. The warning comes after the US launched a fresh...",
+      "title": "Legal challenge says Trump ICC sanctions tread on US citizens’ rights",
+      "link": "https://www.aljazeera.com/news/2026/7/15/legal-challenge-says-trump-icc-sanctions-tread-on-us-citizens-rights?traffic_source=rss",
+      "description": "Groups charge that sanctions against ICC, Palestinian rights organisations stifle freedom of speech and expression.",
       "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Lebanon, Israel hold US-brokered talks in Rome",
-      "link": "https://www.france24.com/en/video/20260715-lebanon-israel-hold-us-brokered-talks-in-rome",
-      "description": "Lebanon and Israel resumed talks on Tuesday in the Italian capital, with Beirut hoping for progress towards securing an Israeli withdrawal from south Lebanon under a US-brokered agreement, although expectations for swift progress were low.",
+      "title": "US strikes marine control tower in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/us-strikes-marine-control-tower-in-iran?traffic_source=rss",
+      "description": "US strikes marine control tower in Iran",
       "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran 'still has the military capability to create chaos in the region'",
-      "link": "https://www.france24.com/en/video/20260715-iran-still-has-the-military-capability-to-create-chaos-in-the-region",
-      "description": "Days of retaliatory strikes across the Middle East by Iran show that American claims to have largely knocked out Tehran’s military capabilities in the initial phase of the war are false, says France 24’s Kethevane Gorjestani, with Iran still clearly possessing the means “to creat...",
+      "title": "As the US restarts war on Iran, is its weapons stockpile running low?",
+      "link": "https://www.aljazeera.com/news/2026/7/15/as-the-us-restarts-war-on-iran-is-its-weapons-stockpile-running-low?traffic_source=rss",
+      "description": "The US has expended a significant number of munitions since the war began in February.",
       "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "🔴 Middle East live: More than 30 killed in recent US strikes on Iran, Tehran says",
-      "link": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
-      "description": "",
-      "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Could the US take control of Iran’s southern islands?",
@@ -226,36 +216,6 @@
       "title": "What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/what-are-the-israeli-withdrawal-pilot-zones-in-southern-lebanon?traffic_source=rss",
       "description": "What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?",
-      "date": "Wed, 15 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran launches attacks across region as US strikes continue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue?traffic_source=rss",
-      "description": "Iran attacked Kuwait, Bahrain, and Jordan on Tuesday night, claiming to destroy the US Fifth Fleet’s command centre.",
-      "date": "Wed, 15 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
-      "link": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss",
-      "description": "Less than a month after signing an MoU as a step towards peace, the US reinstates a naval blockade on Iranian ports.",
-      "date": "Wed, 15 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
-      "link": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
-      "description": "Oil prices rise as the US renews a blockade on Iranian ports and carries out a wave of air strikes.",
       "date": "Wed, 15 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -323,9 +283,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia War LIVE: Body of Indian sailor missing after Oman ship attack found",
+      "title": "West Asia War LIVE: U.S. says 90-minute airstrikes target Greater Tunb Island, strategic point in Strait of Hormuz",
       "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-washington-strikes-tehran-donald-trump-peace-deal-strait-of-hormuz-live-updates-july-15-2026/article71223849.ece",
-      "description": "Over 260 people wounded in latest U.S. airstrikes on Iran; Tehran attacks Jordan as U.S. reimposes its blockade on Iran",
+      "description": "U.S. Central Command said the strikes further degraded Iran's ability to attack commercial shipping in the Strait of Hormuz",
+      "date": "Wed, 15 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. says 90-minute airstrikes target Greater Tunb Island, strategic point in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/us-airstrikes-iran-greater-tunb-island-strait-of-hormuz/article71226116.ece",
+      "description": "U.S. Central Command said the strikes further degraded Iran's ability to attack commercial shipping in the Strait of Hormuz",
       "date": "Wed, 15 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -373,19 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump withdraws planned 20% levy on Hormuz ships; attacks intensify",
-      "link": "https://www.thehindu.com/news/international/trump-withdraws-planned-20-levy-on-hormuz-ships-calls-for-trade-deals-with-gulf-countries-instead/article71222372.ece",
-      "description": "The U.S. carried out another wave of strikes ahead of its planned reimposition of a blockade on Iran’s ports",
-      "date": "Tue, 14 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Kremlin briefing covers US sanctions plans against Russia, Baltic ‘fearmongering’",
-      "link": "https://tass.com/politics/2160613",
-      "description": "Dmitry Peskov revealed that Moscow had received signals through existing channels that the US was ready to resume work on the Ukraine settlement after the Iran situation was resolved",
+      "title": "Trump suggests findings of investigation into strike on school in Iran may never see light",
+      "link": "https://tass.com/world/2160687",
+      "description": "The US president doesn't think there can be a conclusive report",
       "date": "Wed, 15 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -393,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Oil supply recovery to take 2-3 months even if Strait of Hormuz reopens — IMF",
-      "link": "https://tass.com/economy/2160605",
-      "description": "A longer-term concern is that prolonged production halts could cause permanent output losses, the report said",
+      "title": "Much of capacity to contain energy crisis exhausted — IMF",
+      "link": "https://tass.com/economy/2160661",
+      "description": "As tensions flare again in the Strait of Hormuz, that room is now smaller and shrinking further as spare capacity has been deployed, demand has compressed, and inventories have been drawn down",
       "date": "Wed, 15 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -403,9 +363,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Rostec develops critically needed materials despite sanctions — PM Mishustin",
-      "link": "https://tass.com/economy/2160491",
-      "description": "The Russian Prime Minister stressed that achievements in high-tech industries have a direct impact not only on industry and digitalization, but also on the country's overall economy and on people's quality of life",
+      "title": "Iran operation could cost US $100 billion — NBC",
+      "link": "https://tass.com/world/2160639",
+      "description": "Some sources estimate that repairing US military infrastructure in Bahrain alone could cost around $1 billion",
       "date": "Wed, 15 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -413,9 +373,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Press review: US, Iran vie for Hormuz leverage as Russia, US conclude ISS program by 2030",
-      "link": "https://tass.com/pressreview/2160415",
-      "description": "Top stories from the Russian press on Wednesday, July 15th",
+      "title": "Israel fears US may let Iran nuclear issue fall by the wayside — portal",
+      "link": "https://tass.com/world/2160635",
+      "description": "The publication noted that Benjamin Netanyahu plans to hold talks with Donald Trump on July 19 and try to convince the US leader to focus on Iran's nuclear and missile programs",
       "date": "Wed, 15 Jul 2026",
       "source": "TASS",
       "region": "ru",
