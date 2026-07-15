@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-15 09:48 UTC",
+  "updated": "2026-07-15 11:19 UTC",
   "total": 42,
   "stories": [
+    {
+      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+      "description": "Iran threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz.",
+      "date": "Wed, 15 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
       "link": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
@@ -36,16 +46,6 @@
       "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
       "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
       "description": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
-      "link": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
-      "description": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
       "date": "Mon, 13 Jul 2026",
       "source": "NPR News",
       "region": "us",
@@ -153,6 +153,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "🔴 Middle East live: US military launches fresh 'wave of strikes' on Iran",
+      "link": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
+      "description": "",
+      "date": "Wed, 15 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "EU, UK hit Russia with joint sanctions over cyber attacks",
+      "link": "https://www.france24.com/en/video/20260715-eu-uk-hit-russia-with-joint-sanctions-over-cyber-attacks",
+      "description": "The European Union and Britain targeted Russia Monday with coordinated sanctions over cyber attacks in Europe, accusing Moscow's FSB intelligence agency over involvement in digital strikes. Russia in response slammed the accusations as \"baseless\".",
+      "date": "Wed, 15 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran threatens to cut off major vital seaways in response to Trump's renewed blockade",
       "link": "https://www.france24.com/en/middle-east/20260715-iran-threatens-to-cut-off-major-vital-seaways-in-response-to-trump-s-renewed-blockade",
       "description": "After closing the Strait of Hormuz, Tehran on Wednesday threatened to shut additional energy export routes including the Bab el-Mandeb gateway to the Red Sea, a major global shipping route through which Saudi Arabia exports its oil. The warning comes after the US launched a fresh...",
@@ -197,26 +217,6 @@
       "link": "https://www.france24.com/en/asia-pacific/20260715-china-s-economic-growth-slows-to-weakest-pace-in-over-three-years",
       "description": "Economic reports on Wednesday found that Chinese growth has sunk to the slowest pace in over three years. Despite benefitting from the global AI boom, the country has not managed to offset the slump due to a struggling property sector, drop in domestic spending and trade disrupti...",
       "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East live: More than 30 killed in recent US strikes, Tehran says",
-      "link": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
-      "description": "An Iranian government spokesperson on Wednesday said more than 30 civilians were killed in US air strikes targeting the country’s southern region in “recent days”. Tehran was quick to retaliate with Jordan, Kuwait and Bahrain all reporting attacks. The strike exchanges come as th...",
-      "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US military reimposes naval blockade on Iranian ports, launches new strikes",
-      "link": "https://www.france24.com/en/middle-east/20260714-us-military-reimposes-naval-blockade-on-iranian-ports-launches-new-strikes",
-      "description": "US forces on Tuesday reimposed a naval blockade to prevent ships from sailing to or from Iran's ports and conducted strikes against the country for a fourth day in response to Tehran's attacks on commercial ships passing through the Strait of Hormuz and on Gulf facilities.",
-      "date": "Tue, 14 Jul 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
@@ -383,6 +383,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Rostec develops critically needed materials despite sanctions — PM Mishustin",
+      "link": "https://tass.com/economy/2160491",
+      "description": "The Russian Prime Minister stressed that achievements in high-tech industries have a direct impact not only on industry and digitalization, but also on the country's overall economy and on people's quality of life",
+      "date": "Wed, 15 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Press review: US, Iran vie for Hormuz leverage as Russia, US conclude ISS program by 2030",
+      "link": "https://tass.com/pressreview/2160415",
+      "description": "Top stories from the Russian press on Wednesday, July 15th",
+      "date": "Wed, 15 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Iran conflict could devalue Donald Trump’s second presidential term — FT",
       "link": "https://tass.com/world/2160451",
       "description": "Defense strategy expert at the Center for a New American Security think-tank in Washington Becca Wasser noted that escalation to de-escalate had not proven to be very successful in the past",
@@ -396,26 +416,6 @@
       "title": "China opposes US bill imposing sanctions on buyers of Russian fossil fuels",
       "link": "https://tass.com/world/2160453",
       "description": "Chinese Foreign Ministry Spokesman Lin Jian emphasized that Beijing would take all necessary measures to protect legal rights and interests of Chinese companies",
-      "date": "Wed, 15 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "FACTBOX: Key details of revised US sanctions bill targeting Russia",
-      "link": "https://tass.com/world/2160431",
-      "description": "The bill targets the five largest buyers of Russian energy, including China and India",
-      "date": "Wed, 15 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Oil exports from Persian Gulf region total 15 mln bpd — US energy secretary",
-      "link": "https://tass.com/economy/2160409",
-      "description": "According to US Energy Secretary Chris Wright, the figure stood at about 20 mln barrels per day before the conflict with Iran began",
       "date": "Wed, 15 Jul 2026",
       "source": "TASS",
       "region": "ru",
