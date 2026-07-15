@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 11:19 UTC",
+  "updated": "2026-07-15 13:07 UTC",
   "total": 42,
   "stories": [
     {
@@ -36,16 +36,6 @@
       "title": "Pakistan urges restraint as its Mideast deal unravels",
       "link": "https://www.npr.org/2026/07/13/nx-s1-5891718/pakistan-urges-restraint-as-its-mideast-deal-unravels",
       "description": "Pakistan urges restraint as Iran and the U.S. clash and a memorandum of understanding unravels.",
-      "date": "Mon, 13 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
-      "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
-      "description": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
       "date": "Mon, 13 Jul 2026",
       "source": "NPR News",
       "region": "us",
@@ -153,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump threatens strikes on Iran's bridges and power plants",
+      "link": "https://www.france24.com/en/trump-threatens-to-hit-iranian-infrastructure-if-no-deal",
+      "description": "President Donald Trump on Tuesday reimposed a naval blockade of all Iranian ports and threatened to hit power plants and bridges next week unless Tehran resumes negotiations, in the latest U.S. escalation of the conflict.",
+      "date": "Wed, 15 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "🔴 Middle East live: US military launches fresh 'wave of strikes' on Iran",
       "link": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
       "description": "",
@@ -213,14 +213,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "China's economic growth slows to weakest pace in over three years",
-      "link": "https://www.france24.com/en/asia-pacific/20260715-china-s-economic-growth-slows-to-weakest-pace-in-over-three-years",
-      "description": "Economic reports on Wednesday found that Chinese growth has sunk to the slowest pace in over three years. Despite benefitting from the global AI boom, the country has not managed to offset the slump due to a struggling property sector, drop in domestic spending and trade disrupti...",
+      "title": "Could the US take control of Iran’s southern islands?",
+      "link": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss",
+      "description": "Operation would be a dramatic military spectacle but would carry costs analysts doubt Washington is willing to incur.",
       "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/what-are-the-israeli-withdrawal-pilot-zones-in-southern-lebanon?traffic_source=rss",
+      "description": "What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?",
+      "date": "Wed, 15 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran launches attacks across region as US strikes continue",
@@ -246,16 +256,6 @@
       "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
       "link": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
       "description": "Oil prices rise as the US renews a blockade on Iranian ports and carries out a wave of air strikes.",
-      "date": "Wed, 15 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How Iran’s southern coast is bearing the brunt of US attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss",
-      "description": "Donald Trump says the US is going to bomb Iran’s civilian infrastructure if there is no deal by next week.",
       "date": "Wed, 15 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -383,6 +383,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Kremlin briefing covers US sanctions plans against Russia, Baltic ‘fearmongering’",
+      "link": "https://tass.com/politics/2160613",
+      "description": "Dmitry Peskov revealed that Moscow had received signals through existing channels that the US was ready to resume work on the Ukraine settlement after the Iran situation was resolved",
+      "date": "Wed, 15 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Oil supply recovery to take 2-3 months even if Strait of Hormuz reopens — IMF",
+      "link": "https://tass.com/economy/2160605",
+      "description": "A longer-term concern is that prolonged production halts could cause permanent output losses, the report said",
+      "date": "Wed, 15 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Rostec develops critically needed materials despite sanctions — PM Mishustin",
       "link": "https://tass.com/economy/2160491",
       "description": "The Russian Prime Minister stressed that achievements in high-tech industries have a direct impact not only on industry and digitalization, but also on the country's overall economy and on people's quality of life",
@@ -396,26 +416,6 @@
       "title": "Press review: US, Iran vie for Hormuz leverage as Russia, US conclude ISS program by 2030",
       "link": "https://tass.com/pressreview/2160415",
       "description": "Top stories from the Russian press on Wednesday, July 15th",
-      "date": "Wed, 15 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran conflict could devalue Donald Trump’s second presidential term — FT",
-      "link": "https://tass.com/world/2160451",
-      "description": "Defense strategy expert at the Center for a New American Security think-tank in Washington Becca Wasser noted that escalation to de-escalate had not proven to be very successful in the past",
-      "date": "Wed, 15 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "China opposes US bill imposing sanctions on buyers of Russian fossil fuels",
-      "link": "https://tass.com/world/2160453",
-      "description": "Chinese Foreign Ministry Spokesman Lin Jian emphasized that Beijing would take all necessary measures to protect legal rights and interests of Chinese companies",
       "date": "Wed, 15 Jul 2026",
       "source": "TASS",
       "region": "ru",
