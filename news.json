@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16 01:27 UTC",
-  "total": 37,
+  "updated": "2026-07-16 04:49 UTC",
+  "total": 40,
   "stories": [
     {
       "title": "Why is it so hard for the U.S. to win wars?",
@@ -46,7 +46,7 @@
       "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
       "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
       "description": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-      "date": "Wed, 15 Jul 2026",
+      "date": "Thu, 16 Jul 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -143,6 +143,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump says Iran released 'wrongfully detained' American citizen",
+      "link": "https://www.france24.com/en/americas/20260716-trump-says-iran-released-wrongfully-detained-american-citizen",
+      "description": "US President Donald Trump said Iran had released an American citizen detained since December 2024 and allowed her to leave the country, calling it a \"gesture of goodwill\" despite renewed hostilities between Washington and Tehran.",
+      "date": "Thu, 16 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: US launches fresh strikes on Iran as Hormuz remains paralysed",
+      "link": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-launches-fresh-strikes-on-iran-as-hormuz-remains-paralyzed",
+      "description": "The United States launched a fresh wave of strikes against Iran on Wednesday, targeting military capabilities linked to threats against shipping in the Strait of Hormuz. President Donald Trump warned he could widen the campaign unless Tehran returned to negotiations. Follow our l...",
+      "date": "Thu, 16 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US launches ‘wave of strikes’ on Iran, Tehran threatens to halt regional energy exports",
       "link": "https://www.france24.com/en/middle-east/20260715-us-launches-wave-of-strikes-on-iran-tehran-threatens-to-halt-regional-energy-exports",
       "description": "The US military on Wednesday launched rare daytime attacks on Iran, including a 90-minute wave of strikes, as it reimposed a naval blockade on Iranian ports. Tehran responded with strikes on “US military targets” in Gulf states and threatened to halt energy exports in the region.",
@@ -163,17 +183,27 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Why the US is launching naval drones at Iran’s port city of Bandar Abbas",
-      "link": "https://www.france24.com/en/middle-east/20260715-why-the-us-is-launching-naval-drones-at-iran-s-port-city-of-bandar-abbas",
-      "description": "The US has pounded Iran’s southern port city of Bandar Abbas since Tehran and Washington renewed missile strikes last week, including an unprecedented sea drone attack on a submarine maintenance facility. We take a look at why this city of more than half a million people has beco...",
-      "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
+      "description": "Iranian FM Araghchi visits Qatar to pay respects following the death of the Father Emir, Sheikh Hamad bin al Thani",
+      "date": "Thu, 16 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
+      "title": "Iranian doctor says US strike damaged children’s cancer hospital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
+      "description": "Iranians are inspecting the damage from days of US strikes on key cities in the country’s south and west.",
+      "date": "Thu, 16 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
       "description": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
       "date": "Thu, 16 Jul 2026",
@@ -211,6 +241,16 @@
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "2 groups sue US govt over Trump’s International Criminal Court order",
+      "link": "https://www.dawn.com/news/2015765/2-groups-sue-us-govt-over-trumps-international-criminal-court-order",
+      "description": "WASHINGTON: Two US-based advocacy groups sued the Trump administration on Wednesday, arguing that sanctions imposed on the International Criminal Court violate constitutional free speech protections after US officials launched a diplomatic campaign this week aimed at dismantling ...",
+      "date": "Thu, 16 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "IRGC warns of blocking more waterways after Hormuz as US renews blockade of Iranian ports",
@@ -263,11 +303,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "After Houthi attacks on Saudi Arabia, PM Shehbaz reaffirms Pakistan's support for kingdom's security",
-      "link": "https://www.dawn.com/news/2015391/after-houthi-attacks-on-saudi-arabia-pm-shehbaz-reaffirms-pakistans-support-for-kingdoms-security",
-      "description": "Prime Minister Shehbaz Sharif said on Tuesday that Pakistan “strongly condemns the blatant attacks” against Saudi Arabia the previous night, reaffirming Islamabad’s unwavering support for the kingdom’s security. The premier’s condemnation in an X post did not further specify the ...",
-      "date": "Tue, 14 Jul 2026",
-      "source": "Dawn",
+      "title": "What is Greater Tunb Island, the strategic point in the Strait of Hormuz targeted by U.S. airstrikes?",
+      "link": "https://www.thehindu.com/news/international/what-is-greater-tunb-island-strategic-point-in-strait-of-hormuz-targeted-by-us-airstrikes/article71228406.ece",
+      "description": "Greater Tunb is a small island in the Persian Gulf near the entrance to the Strait of Hormuz and is regarded as a strategically important location in the strait",
+      "date": "Thu, 16 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: U.S. airstrikes hit northern Iran as it disables ship trying to run blockade",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-air-strikes-strait-of-hormuz-live-updates-july-16-2026/article71228351.ece",
+      "description": "Iran Army says targeted U.S. military facilities in Jordan",
+      "date": "Thu, 16 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -313,59 +363,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. strikes Iran for third day, will reimpose blockade",
-      "link": "https://www.thehindu.com/news/international/us-strikes-iran-for-third-day-will-reimpose-blockade/article71220175.ece",
-      "description": "President Trump said a deal with the Islamic Republic was still possible even as attacks were carried out, with Iran striking two ships in the strategic waterway and killing one crew member",
-      "date": "Wed, 15 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Greece blocks 21st sanctions package against Russia over threat to business — FT",
+      "link": "https://tass.com/world/2160857",
+      "description": "According to sources cited by the newspaper, the ban on the transportation of Russian LNG would ruin the Greek shipping company Dynagas",
+      "date": "Thu, 16 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "U.S. Senators unveil bill for 100% tariffs on India, four others for buying Russian oil",
-      "link": "https://www.thehindu.com/news/international/us-senators-unveil-bill-for-100-tariffs-on-india-four-others-for-buying-russian-oil/article71223969.ece",
-      "description": "It's been referred to as a tariffs bill, but actually it imposes full blocking sanctions on wide swaths of the Russian economy, said Richard Blumenthal, a Democratic Senator from Connecticut",
-      "date": "Wed, 15 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "IRGC strikes US Al-Azraq Air Base in Jordan — Mehr agency",
+      "link": "https://tass.com/world/2160855",
+      "description": "According to data obtained by the news agency, the IRGC hit communications systems and fuel storage facilities of the US Armed Forces",
+      "date": "Thu, 16 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US ends second series of strikes on Iran in 24 Hours — CENTCOM",
+      "link": "https://tass.com/world/2160847",
+      "description": "The Central Command says the US struck Iranian command centers, air defense, missile, and drone sites, as well as coastal observation posts",
+      "date": "Thu, 16 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US Air Force aircraft twice attack Iranian port of Sirik in Strait of Hormuz — TV",
       "link": "https://tass.com/world/2160829",
       "description": "No information on casualties has been reported",
-      "date": "Wed, 15 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US airstrikes in Iran kill 35 over past day, authorities say",
-      "link": "https://tass.com/world/2160825",
-      "description": "Health Ministry Spokesman Hossein Kermanpour said that the number of killed citizens could rise",
-      "date": "Wed, 15 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Closure of Bab el-Mandeb Strait by Houthis to deal blow to container shipping market",
-      "link": "https://tass.com/politics/2160801",
-      "description": "According to Vice President of the Russian International Affairs Council Mikhail Margelov, this event would not have a critical impact on oil supplies",
-      "date": "Wed, 15 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says sets no deadline for expanding strikes on Iran",
-      "link": "https://tass.com/world/2160781",
-      "description": "According to the US president, the Iranian leadership should be \"better behaved\"",
       "date": "Wed, 15 Jul 2026",
       "source": "TASS",
       "region": "ru",
