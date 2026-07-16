@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16 07:13 UTC",
-  "total": 39,
+  "updated": "2026-07-16 09:54 UTC",
+  "total": 40,
   "stories": [
     {
       "title": "Why is it so hard for the U.S. to win wars?",
@@ -31,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Iran targets military bases as US launches wave of strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+      "date": "Thu, 16 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
@@ -123,11 +133,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "date": "Sun, 12 Jul 2026",
-      "source": "BBC",
+      "title": "Senegal's 'plastic man' helps raise awareness about plastic pollution",
+      "link": "https://www.france24.com/en/senegal-s-plastic-man-helps-raise-awareness-about-plastic-pollution",
+      "description": "In West Africa, plastic waste is a major environmental challenge. In Senegal, activist Modou Fall has taken an unusual approach to raising awareness about plastic pollution. He walks through Dakar and other parts of the country wearing an eye-catching outfit made from discarded p...",
+      "date": "Thu, 16 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -163,14 +173,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US launches ‘wave of strikes’ on Iran, Tehran threatens to halt regional energy exports",
-      "link": "https://www.france24.com/en/middle-east/20260715-us-launches-wave-of-strikes-on-iran-tehran-threatens-to-halt-regional-energy-exports",
-      "description": "The US military on Wednesday launched rare daytime attacks on Iran, including a 90-minute wave of strikes, as it reimposed a naval blockade on Iranian ports. Tehran responded with strikes on “US military targets” in Gulf states and threatened to halt energy exports in the region.",
-      "date": "Wed, 15 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Yemen is edging closer to renewed confrontation",
+      "link": "https://www.aljazeera.com/opinions/2026/7/16/yemen-is-edging-closer-to-renewed-confrontation?traffic_source=rss",
+      "description": "The Iranian aircraft incident has exposed a fragile calm that may not survive a wider regional escalation.",
+      "date": "Thu, 16 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US releases video of strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/us-releases-video-of-strikes-on-iran?traffic_source=rss",
+      "description": "US releases video of strikes on Iran",
+      "date": "Thu, 16 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
+      "link": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
+      "description": "Strikes have hit closer to Tehran for the first time since the latest wave of attacks started.",
+      "date": "Thu, 16 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
+      "link": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
+      "description": "Iran&#039;s Health Ministry has said at least 35 people have been killed and more than 300 injured since fighting resumed.",
+      "date": "Thu, 16 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Former US Ambassador says Iran miscalculated Trump’s resolve",
@@ -203,36 +243,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
-      "description": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
-      "date": "Thu, 16 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
-      "link": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
-      "description": "The US announced a new wave of attacks Wednesday night, amid reported explosions in Bandar Abbas, Chabahar and Ahvaz.",
-      "date": "Wed, 15 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What are the obstacles to peace between Israel and Lebanon?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss",
-      "description": "Another round of talks is under way between Israel and Lebanon to try to advance the ceasefire agreement.",
-      "date": "Wed, 15 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "US strikes Iran's coastal defences in fresh salvo; Tehran again targets American assets in Gulf states",
       "link": "https://www.dawn.com/news/2015869/us-strikes-irans-coastal-defences-in-fresh-salvo-tehran-again-targets-american-assets-in-gulf-states",
       "description": "The US, early on Thursday, launched a second wave of attacks on Iran’s coastal defences and missile sites within a span of 24 hours after reimposing a naval blockade of Iranian ports, and Tehran responded by again targeting US military sites in neighboring Gulf countries. The lat...",
@@ -243,9 +253,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "More than 500 feared dead after boats carrying refugees sink off Myanmar, says UN",
+      "link": "https://www.dawn.com/news/2015890/more-than-500-feared-dead-after-boats-carrying-refugees-sink-off-myanmar-says-un",
+      "description": "Two boats carrying more than 500 people may have capsized off Myanmar’s coast in recent days, UN agencies said on Thursday, as refugees from the war-torn country make perilous maritime journeys in search of safety and better lives. The two vessels left Myanmar’s Rakhine State in ...",
+      "date": "Thu, 16 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US approves nearly $2bn in weapons sales to Saudi Arabia",
       "link": "https://www.dawn.com/news/2015878/us-approves-nearly-2bn-in-weapons-sales-to-saudi-arabia",
       "description": "The US State Department said on Wednesday it has approved the sale of an estimated $1.96 billion in weapons to bolster Saudi Arabia’s air defences, as the war ramps up in the Middle East. “This proposed sale will support the foreign policy and national security objectives of the ...",
+      "date": "Thu, 16 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan urges US, Iran to 'end violence', resume technical-level talks",
+      "link": "https://www.dawn.com/news/2015882/pakistan-urges-us-iran-to-end-violence-resume-technical-level-talks",
+      "description": "The Foreign Office (FO) on Thursday urged the United States and Iran to “end violence” and resume technical-level talks, while noting that the Pakistan-mediated interim peace deal was “facing challenges”. Addressing a weekly press briefing, FO spokesperson Tahir Andrabi noted tha...",
       "date": "Thu, 16 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -273,29 +303,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump steps back from Hormuz fee plan; new strikes hit Iran",
-      "link": "https://www.dawn.com/news/2015455/trump-steps-back-from-hormuz-fee-plan-new-strikes-hit-iran",
-      "description": "US President Donald Trump stepped back from a proposal to charge a 20 per cent transit fee to guard the vital Strait of Hormuz waterway as part of the conflict with Iran, saying on Tuesday he would instead seek investment deals with Gulf states. US forces had carried out waves of...",
-      "date": "Tue, 14 Jul 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Burnham in sight of Downing Street, wins top UK union support",
-      "link": "https://www.dawn.com/news/2015435/burnham-in-sight-of-downing-street-wins-top-uk-union-support",
-      "description": "Andy Burnham was on Tuesday striding towards becoming the UK’s next prime minister, winning the backing of the country’s largest union, adding to an already unassailable lead in Labour’s leadership contest. The former Manchester mayor, so far the only candidate to be the party’s ...",
-      "date": "Tue, 14 Jul 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: U.S. airstrikes hit northern Iran as it disables ship trying to run blockade",
+      "title": "West Asia war LIVE: Iran warns Strait of Hormuz is a 'red line' and will resist until the end",
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-air-strikes-strait-of-hormuz-live-updates-july-16-2026/article71228351.ece",
-      "description": "Iran's Amy says struck U.S. targets in Kuwait and Bahrain with drones",
+      "description": "Mediator Pakistan says encouraging U.S. and Iran to resume talks",
       "date": "Thu, 16 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,9 +313,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. airstrikes hit northern Iran as it disables ship trying to run blockade",
-      "link": "https://www.thehindu.com/news/international/iran-us-conflict-tehran-air-strikes-strait-of-hormuz-trump/article71228681.ece",
-      "description": "Iran retaliates with missile and drone attacks on Bahrain, Jordan and Kuwait, authorities in those countries home to U.S. forces said",
+      "title": "What is Greater Tunb Island, the strategic point in the Strait of Hormuz targeted by U.S. airstrikes?",
+      "link": "https://www.thehindu.com/news/international/what-is-greater-tunb-island-strategic-point-in-strait-of-hormuz-targeted-by-us-airstrikes/article71228406.ece",
+      "description": "Greater Tunb is a small island in the Persian Gulf near the entrance to the Strait of Hormuz and is regarded as a strategically important location in the strait",
       "date": "Thu, 16 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,9 +333,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "What is Greater Tunb Island, the strategic point in the Strait of Hormuz targeted by U.S. airstrikes?",
-      "link": "https://www.thehindu.com/news/international/what-is-greater-tunb-island-strategic-point-in-strait-of-hormuz-targeted-by-us-airstrikes/article71228406.ece",
-      "description": "Greater Tunb is a small island in the Persian Gulf near the entrance to the Strait of Hormuz and is regarded as a strategically important location in the strait",
+      "title": "U.S. airstrikes hit northern Iran as it disables ship trying to run blockade",
+      "link": "https://www.thehindu.com/news/international/iran-us-conflict-tehran-air-strikes-strait-of-hormuz-trump/article71228681.ece",
+      "description": "Iran retaliates with missile and drone attacks on Bahrain, Jordan and Kuwait, authorities in those countries home to U.S. forces said",
       "date": "Thu, 16 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -353,6 +363,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran warns of destroying all US infrastructure in region after Trump’s threats",
+      "link": "https://tass.com/world/2160943",
+      "description": "According to the statement, the Strait of Hormuz is a red line for Iran and the country will not tolerate US interference in controlling it",
+      "date": "Thu, 16 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Greece blocks 21st sanctions package against Russia over threat to business — FT",
       "link": "https://tass.com/world/2160857",
       "description": "According to sources cited by the newspaper, the ban on the transportation of Russian LNG would ruin the Greek shipping company Dynagas",
@@ -377,16 +397,6 @@
       "link": "https://tass.com/world/2160847",
       "description": "The Central Command says the US struck Iranian command centers, air defense, missile, and drone sites, as well as coastal observation posts",
       "date": "Thu, 16 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US Air Force aircraft twice attack Iranian port of Sirik in Strait of Hormuz — TV",
-      "link": "https://tass.com/world/2160829",
-      "description": "No information on casualties has been reported",
-      "date": "Wed, 15 Jul 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
