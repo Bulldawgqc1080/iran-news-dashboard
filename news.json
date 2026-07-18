@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18 08:41 UTC",
-  "total": 33,
+  "updated": "2026-07-18 10:07 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "U.S. and Iran escalate strikes across Mideast",
@@ -128,6 +128,26 @@
       "description": "Within hours of the latest US attacks, Iran said it had struck US military assets in Kuwait, Jordan, Bahrain and Oman.",
       "date": "Mon, 13 Jul 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "France: 2,000 hectares lost in forest fires",
+      "link": "https://www.france24.com/en/france-2-000-hectares-lost-in-forest-fires",
+      "description": "France has been battling a series of devastating wildfires following record-breaking heatwaves, with the government saying the country has not experienced so many fire outbreaks since World War II. One of the largest blazes has scorched thousands of hectares in the historic Fonta...",
+      "date": "Sat, 18 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US strikes hit Iran for seventh night",
+      "link": "https://www.france24.com/en/us-strikes-hit-iran-for-seventh-night",
+      "description": "Kuwait said on Saturday that an Iranian attack hit a water and electricity plant one day after a similar strike damaged another plant. Tehran launched attacks on US military sites hosted by several of its Gulf neighbours in response to a seventh night of US strikes on Iran overni...",
+      "date": "Sat, 18 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -293,6 +313,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran’s IRGC forces strike US airbase in Jordan — agency",
+      "link": "https://tass.com/world/2161949",
+      "description": "The attack destroyed two fighter jets and three other aircraft, while several more sustained heavy damage, the IRGC said",
+      "date": "Sat, 18 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "IRGC forces strike US fuel terminal in Kuwait — agency",
       "link": "https://tass.com/world/2161921",
       "description": "A US communications and radio direction-finding center was also destroyed",
@@ -316,16 +346,6 @@
       "title": "Jordanian air defenses intercept 10 Iranian missiles — military",
       "link": "https://tass.com/world/2161897",
       "description": "According to the statement, the interceptions caused neither casualties nor material damage",
-      "date": "Sat, 18 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US completes another round of strikes on Iran",
-      "link": "https://tass.com/world/2161893",
-      "description": "CENTCOM says it hit surveillance sites, military logistics infrastructure, underground weapons storage, and maritime capabilities",
       "date": "Sat, 18 Jul 2026",
       "source": "TASS",
       "region": "ru",
