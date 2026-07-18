@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-18 04:37 UTC",
-  "total": 34,
+  "updated": "2026-07-18 06:51 UTC",
+  "total": 36,
   "stories": [
+    {
+      "title": "U.S. and Iran escalate strikes across Mideast",
+      "link": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+      "description": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
+      "date": "Sat, 18 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
       "link": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
@@ -123,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: Tehran threatens 'full-scale' offensive as US launches seventh night of attacks",
+      "link": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks",
+      "description": "The US launched a seventh wave of airstrikes on Iran overnight on Friday despite a warning from Tehran that it would resume \"full-scale offensive operations\" if the attacks continued. Follow our liveblog for the latest updates.",
+      "date": "Sat, 18 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "BTS storms Paris: K-pop phenomenon plays stade de France",
       "link": "https://www.france24.com/en/tv-shows/arts24/20260717-bts-storms-paris-k-pop-phenomenon-plays-stade-de-france",
       "description": "The Korean superstar boyband is wrapping up the European leg of their Arirang album tour in the French capital before dates in North and South America. FRANCE 24 takes a look at the K-pop phenomenon’s meteoric rise.",
@@ -131,6 +151,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
+      "description": "The US has bombed bridges and energy infrastructure in the seventh straight night of attacks on Iran.",
+      "date": "Sat, 18 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iranian official says the policy of negotiating during war is over",
@@ -167,16 +197,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss",
       "description": "Intense fighting between the two sides as US attacks shift further into Iran’s interior.",
       "date": "Sat, 18 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US launches seventh straight night of strikes on Iran",
-      "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
-      "description": "The US military says it&#039;s degrading Iran&#039;s military but has been accused by Tehran of targeting civilian infrastructure.",
-      "date": "Fri, 17 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -253,6 +273,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S., Iran escalate strikes across West Asia",
+      "link": "https://www.thehindu.com/news/international/us-iran-escalate-strikes-across-west-asia/article71237108.ece",
+      "description": "Iranian officials say recent U.S. strikes have killed dozens of people and wounded hundreds, with new casualties reported Friday, when the US military also acknowledged more injured service members.",
+      "date": "Sat, 18 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran's Guards say two oil tankers explode after hitting mines in Hormuz",
       "link": "https://www.thehindu.com/news/international/irans-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormuz/article71236907.ece",
       "description": "The Guards said separately on Saturday (July 18) that they had \"stopped\" four ships trying to transit the Strait of Hormuz",
@@ -293,14 +323,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Bahrain and Kuwait face Iranian fire as U.S. airstrikes expand to target more bridges",
-      "link": "https://www.thehindu.com/news/international/bahrain-and-kuwait-face-iranian-fire-as-us-airstrikes-expand-to-target-more-bridges/article71232551.ece",
-      "description": "For the first time in this latest round of violence, strikes also reached into areas around Iran's capital, Tehran, showing a widening set of targets for the Americans",
-      "date": "Fri, 17 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "IRGC forces strike US fuel terminal in Kuwait — agency",
+      "link": "https://tass.com/world/2161921",
+      "description": "A US communications and radio direction-finding center was also destroyed",
+      "date": "Sat, 18 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran launches another drone strike on US air base in Bahrain — IRGC",
@@ -326,16 +356,6 @@
       "title": "US completes another round of strikes on Iran",
       "link": "https://tass.com/world/2161893",
       "description": "CENTCOM says it hit surveillance sites, military logistics infrastructure, underground weapons storage, and maritime capabilities",
-      "date": "Sat, 18 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran strikes US military facilities in Kuwait, Jordan — IRGC",
-      "link": "https://tass.com/world/2161881",
-      "description": "Iran's armed forces unit reported attacks on ammunition depots in Kuwait and fuel storage tanks in Jordan",
       "date": "Sat, 18 Jul 2026",
       "source": "TASS",
       "region": "ru",
