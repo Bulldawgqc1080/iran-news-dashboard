@@ -1,36 +1,24 @@
 {
-  "updated": "2026-07-19 12:51 UTC",
+  "updated": "2026-07-19 14:18 UTC",
   "total": 15,
   "events": [
     {
       "date": "2026-07-19",
       "dateDisplay": "Jul 19, 2026",
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
       "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
-        "France 24",
-        "BBC"
+        "BBC",
+        "France 24"
       ],
-      "sourceCount": 3,
-      "type": "fact"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-07-18",
       "dateDisplay": "Jul 18, 2026",
       "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
       "link": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
-      "sources": [
-        "NPR News"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-07-17",
-      "dateDisplay": "Jul 17, 2026",
-      "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "link": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
       "sources": [
         "NPR News"
       ],
@@ -163,6 +151,17 @@
       "dateDisplay": "Jul 03, 2026",
       "title": "Iran nuclear and military damage revealed after restricted satellite images released",
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-07-02",
+      "dateDisplay": "Jul 02, 2026",
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
