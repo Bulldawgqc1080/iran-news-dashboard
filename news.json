@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-19 20:00 UTC",
-  "total": 38,
+  "updated": "2026-07-19 21:40 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
       "link": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
-      "description": "Two U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
+      "description": "Three U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
       "date": "Sat, 18 Jul 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +133,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US announces death of another service member, Jordan summons Iranian envoy over attacks",
+      "link": "https://www.france24.com/en/middle-east/20260719-us-announces-death-of-another-service-member-jordan-summons-iranian-envoy-over-attacks",
+      "description": "A US service member died during a \"controlled detonation\" of unexploded ordnance from a downed Iranian drone in northern Iraq, the military said Sunday. It followed the killing of two US troops in Jordan late Friday. Jordan on Sunday summoned Iran's top envoy in Amman to protest ...",
+      "date": "Sun, 19 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel says Iran missile towards Jordan's Aqaba intercepted",
       "link": "https://www.france24.com/en/israel-says-iran-missile-towards-jordan-s-aqaba-intercepted",
       "description": "Israeli and Jordanian forces on Sunday intercepted an Iranian missile aimed at the Jordanian city of Aqaba, the Israeli military said. Reporting from Israel, FRANCE 24's Noga Tarnopolsky explains that Israel was hit by sharpnel from the interception. While no one was injured, the...",
@@ -153,16 +163,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US, Iran exchange new strikes",
-      "link": "https://www.france24.com/en/us-iran-exchange-new-strikes",
-      "description": "The risk of a wider war in the Middle East is growing after authorities in Bahrain and Kuwait said they intercepted missiles and drones launched from Iran. Air raid sirens also sounded in Jordan's capital, Amman, while Israel said it detected Iranian missiles targeting the coasta...",
-      "date": "Sun, 19 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "🔴 Middle East live: Iran's Guards say two ships involved in 'accident' after defying Hormuz warnings",
       "link": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops",
       "description": "",
@@ -171,6 +171,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "The UK gets its seventh prime minister in 10 years",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss",
+      "description": "Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.",
+      "date": "Sun, 19 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Lebanese food influencer sentenced to life for drug smuggling",
@@ -196,26 +206,6 @@
       "title": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
       "link": "https://www.aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss",
       "description": "Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US backing to end Israel-Hezbollah fighting.",
-      "date": "Sun, 19 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
-      "link": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
-      "description": "Kuwait and Bahrain report several rounds of Iranian missile, drone attacks; sirens reportedly sound in Jordan.",
-      "date": "Sun, 19 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Lebanon convicts influencer of smuggling drugs in biscuits",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/lebanon-convicts-influencer-of-smuggling-drugs-in-biscuits?traffic_source=rss",
-      "description": "Lebanese food influencer Georges Dib, known as Dr Food, has been sentenced in absentia to life with hard labour.",
       "date": "Sun, 19 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -343,6 +333,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iranian interior minister to visit Islamabad — TV",
+      "link": "https://tass.com/world/2162273",
+      "description": "According to a report by the Al Hadath television channel, Eskandar Momeni will meet with the Pakistani leadership",
+      "date": "Sun, 19 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iraqi PM to visit Tehran late next week — Foreign Ministry",
+      "link": "https://tass.com/world/2162271",
+      "description": "According to the statement, an Iraqi deputy foreign minister and the Iranian ambassador had previously discussed \"the signing of a range of memorandums of understanding that will serve the interests of both countries\"",
+      "date": "Sun, 19 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Implementation of framework agreement to end conflict with Israel — Lebanese president",
       "link": "https://tass.com/world/2162263",
       "description": "According to Joseph Aoun, the implementation of the agreements will begin with the withdrawal of Israeli troops from southern Lebanon where the first Lebanese-controlled ‘pilot zone’ will be established",
@@ -356,26 +366,6 @@
       "title": "Jordanian foreign ministry issues note of protest against Iranian attacks",
       "link": "https://tass.com/world/2162245",
       "description": "The ministry stressed that Jordan’s security and safety of its citizens are the redline that cannot be crossed",
-      "date": "Sun, 19 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Current economic collapse in Europe stems from anti-Russian sanctions — RDIF CEO",
-      "link": "https://tass.com/politics/2162259",
-      "description": "EU sanctions are unpopular in Europe — they do not work and cost EU countries more than €3 trillion, Kirill Dmitriev said",
-      "date": "Sun, 19 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to ensure free passage in Strait of Hormuz even without deal with Iran — US official",
-      "link": "https://tass.com/world/2162187",
-      "description": "According to Wright, around 14 million barrels of oil is coming from the Middle East region daily",
       "date": "Sun, 19 Jul 2026",
       "source": "TASS",
       "region": "ru",
