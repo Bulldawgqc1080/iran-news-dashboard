@@ -1,19 +1,28 @@
 {
-  "updated": "2026-07-18 23:40 UTC",
+  "updated": "2026-07-19 01:27 UTC",
   "total": 15,
   "events": [
     {
+      "date": "2026-07-19",
+      "dateDisplay": "Jul 19, 2026",
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
       "date": "2026-07-18",
       "dateDisplay": "Jul 18, 2026",
-      "title": "U.S. fires on Iran after attack in Jordan leaves 2 troops killed, 1 missing",
-      "link": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
+      "title": "Gulf council blasts \"war crimes\" by Iran",
+      "link": "https://www.france24.com/en/gulf-council-blasts-war-crimes-by-iran",
       "sources": [
-        "NPR News",
-        "BBC",
         "France 24"
       ],
-      "sourceCount": 3,
-      "type": "fact"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-07-17",
@@ -152,17 +161,6 @@
       "dateDisplay": "Jul 03, 2026",
       "title": "Iran nuclear and military damage revealed after restricted satellite images released",
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-07-02",
-      "dateDisplay": "Jul 02, 2026",
-      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
