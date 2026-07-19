@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 07:27 UTC",
+  "updated": "2026-07-19 09:42 UTC",
   "total": 15,
   "events": [
     {
@@ -8,18 +8,20 @@
       "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
       "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "sources": [
+        "France 24",
+        "Al Jazeera",
         "BBC"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-07-18",
       "dateDisplay": "Jul 18, 2026",
-      "title": "Gulf council blasts \"war crimes\" by Iran",
-      "link": "https://www.france24.com/en/gulf-council-blasts-war-crimes-by-iran",
+      "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
+      "link": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
       "sources": [
-        "France 24"
+        "NPR News"
       ],
       "sourceCount": 1,
       "type": "framing"
