@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20 05:28 UTC",
-  "total": 38,
+  "updated": "2026-07-20 08:36 UTC",
+  "total": 39,
   "stories": [
     {
       "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
@@ -31,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "description": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "date": "Mon, 20 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "US soldier killed and one injured after Iranian attack in Iraq",
@@ -123,20 +133,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
-      "date": "Tue, 14 Jul 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East live: Iran’s Revolutionary Guards say they hit US military targets in Kuwait",
+      "title": "🔴Middle East live: Kuwait says intercepting Iran drone attacks as explosions heard in Bahrain",
       "link": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
-      "description": "Iran's Revolutionary Guards said they hit US military targets in Kuwait on Monday, including an early-warning radar system that they alleged had been \"completely destroyed\" in a statement reported by state news agency IRNA. Kuwait later said that its air defences were still worki...",
-      "date": "Sun, 19 Jul 2026",
+      "description": "",
+      "date": "Mon, 20 Jul 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
@@ -161,6 +161,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
+      "link": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss",
+      "description": "Iran&#039;s IRGC claims an attack on Jordan while the US embassy issues a warning to Americans in Bahrain.",
+      "date": "Mon, 20 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
@@ -203,7 +213,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US military completes ninth night of strikes on Iran",
+      "title": "Iran war live: Ship ablaze in Hormuz Strait after attack; crew rescued",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
       "description": "US forces attack Iran for ninth consecutive night as one US soldier killed in northern Iraq.",
       "date": "Mon, 20 Jul 2026",
@@ -223,9 +233,19 @@
       "bias": "Medium"
     },
     {
+      "title": "Andy Burnham set to take over as new British PM",
+      "link": "https://www.dawn.com/news/2017007/andy-burnham-set-to-take-over-as-new-british-pm",
+      "description": "Andy Burnham will on Monday become Britain’s sixth prime minister to move into Downing Street since 2016, with an in-tray overflowing with challenges and little time to make his mark. The new leader takes over from the unpopular Keir Starmer just two years after the outgoing prim...",
+      "date": "Mon, 20 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US strikes Iran for 9th day; IRGC say Hormuz to remain unsafe as long as American 'aggression' continues",
       "link": "https://www.dawn.com/news/2016977/us-strikes-iran-for-9th-day-irgc-say-hormuz-to-remain-unsafe-as-long-as-american-aggression-continues",
-      "description": "US forces hit Iran for a ninth consecutive day on Monday as concerns grew over shipping through the Strait of Hormuz after Iran said two oil tankers had exploded and been immobilised, adding that the waterway would remain unsafe as long as US “aggression” in the region continued....",
+      "description": "The United States hit Iran for a ninth consecutive day on Monday as concerns grew over shipping through the Strait of Hormuz after Tehran said two oil tankers had exploded and been immobilised, adding that the waterway would remain unsafe as long as US “aggression” in the region ...",
       "date": "Mon, 20 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -273,19 +293,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Netanyahu belongs in The Hague': NYC mayor Mamdani mulls whether he can order Israeli PM's arrest",
-      "link": "https://www.dawn.com/news/2016505/netanyahu-belongs-in-the-hague-nyc-mayor-mamdani-mulls-whether-he-can-order-israeli-pms-arrest",
-      "description": "New York City (NYC) Mayor Zohran Mamdani has said he was in an “active conversation” with the city’s Law Department over whether he had the legal authority to order Israeli Prime Minister Benjamin Netanyahu’s arrest if he visits the city. Netanyahu is wanted by the International ...",
-      "date": "Sat, 18 Jul 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: Iran guards say hit U.S. military targets in Kuwait",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-july-20-2026-marco-rubio-strait-of-hormuz-us-donald-trump/article71243740.ece",
+      "description": "The Islamic Revolutionary Guard ​Corps said that ‌two oil tankers ​had exploded ⁠and been immobilised after attempting to transit what it ‌described as an unsafe southern route ‌through the Strait ‌of Hormuz",
+      "date": "Mon, 20 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran guards say hit U.S. military targets in Kuwait",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-july-20-2026-marco-rubio-strait-of-hormuz-us-donald-trump/article71243740.ece",
-      "description": "The Islamic Revolutionary Guard ​Corps said that ‌two oil tankers ​had exploded ⁠and been immobilised after attempting to transit what it ‌described as an unsafe southern route ‌through the Strait ‌of Hormuz",
+      "title": "Iran hits out at Gulf neighbours as U.S. presses on with strikes",
+      "link": "https://www.thehindu.com/news/international/iran-hits-out-at-gulf-neighbours-as-us-presses-on-with-strikes/article71244067.ece",
+      "description": "Oil prices surged to a one-month high as the United States and Iran tussled for control of the vital strait, with Brent crude rising above $91 a barrel — the highest price since June 11",
+      "date": "Mon, 20 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Nigerian children pay the price for Iran war as malnutrition, poverty surge",
+      "link": "https://www.thehindu.com/news/international/nigerian-children-pay-the-price-for-iran-war-as-malnutrition-poverty-surge/article71240963.ece",
+      "description": "Children relapsing into malnutrition have become an increasingly common occurrence in the state and across northern Nigeria, according to local health and aid workers, who cite knock-on effects from the Iran war",
       "date": "Mon, 20 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,59 +353,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Nigerian children pay the price for Iran war as malnutrition, poverty surge",
-      "link": "https://www.thehindu.com/news/international/nigerian-children-pay-the-price-for-iran-war-as-malnutrition-poverty-surge/article71240963.ece",
-      "description": "Children relapsing into malnutrition have become an increasingly common occurrence in the state and across northern Nigeria, according to local health and aid workers, who cite knock-on effects from the Iran war",
-      "date": "Sun, 19 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iran strikes US radar system, hangar with drones in Kuwait — IRGC",
+      "link": "https://tass.com/world/2162409",
+      "description": "Several drones were destroyed as a result of the attack",
+      "date": "Mon, 20 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "U.S. military says two troops dead, one missing after Iran attacks base in Jordan",
-      "link": "https://www.thehindu.com/news/international/us-military-says-two-troops-dead-one-missing-after-iran-attacks-base-in-jordan/article71240883.ece",
-      "description": "Minutes before the announcement, Iran's supreme leader warned of “unforgettable lessons” if the U.S. keeps attacking the Islamic Republic",
-      "date": "Sun, 19 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Number of US troops killed in conflict with Iran reaches 17 — agency",
+      "link": "https://tass.com/world/2162371",
+      "description": "The number of US service members injured during the military operation against Iran has exceeded 400",
+      "date": "Mon, 20 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US teeters on return to all-out war with Iran — newspaper",
+      "link": "https://tass.com/world/2162353",
+      "description": "According to the report, the United States does not have enough to safely sustain operations",
+      "date": "Mon, 20 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Putin open to contacts with Mojtaba Khamenei — Peskov",
       "link": "https://tass.com/politics/2162349",
       "description": "\"There are currently no specific arrangements for such a phone call,\" the Russian presidential spokesman said",
-      "date": "Mon, 20 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "EU countries increasingly reluctant to back sanctions on Russia — FT",
-      "link": "https://tass.com/world/2162341",
-      "description": "Sources cited by the newspaper said European governments grow concerned that the restrictions could harm their leading companies",
-      "date": "Mon, 20 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US completes latest wave of strikes on Iran — CENTCOM",
-      "link": "https://tass.com/world/2162321",
-      "description": "The US military reported attacks on command centers, air defense and coastal surveillance sites, maritime capabilities, missile and drone launch sites, and communications networks",
-      "date": "Mon, 20 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Explosions heard in Iran's Bushehr",
-      "link": "https://tass.com/world/2162309",
-      "description": "The Mehr news agency previously reported explosions in Jask, Sirik, Chabahar, Konarak, Bandar-e Emam Khomeyni, and Bandar-e Mahshahr",
       "date": "Mon, 20 Jul 2026",
       "source": "TASS",
       "region": "ru",
