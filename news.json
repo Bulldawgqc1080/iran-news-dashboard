@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-20 20:59 UTC",
-  "total": 36,
+  "updated": "2026-07-20 21:59 UTC",
+  "total": 37,
   "stories": [
+    {
+      "title": "The war in Iran has left hundreds of U.S. diplomats in limbo",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo",
+      "description": "As the U.S-Iran war ramps up again, hundreds of diplomats are in limbo. The State Department drew down staffing due to Iran's attacks on Gulf states. It's unclear if they'll return to normal business.",
+      "date": "Mon, 20 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The war with Iran is escalating. What next?",
       "link": "https://www.npr.org/2026/07/20/nx-s1-5900950/the-war-with-iran-is-escalating-what-next",
@@ -33,9 +43,9 @@
       "bias": "Low"
     },
     {
-      "title": "Trump warns Iran will pay 'many times over' for deaths of US soldiers",
-      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president spoke just hours after the two warring sides exchanged strikes for the ninth consecutive day.",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "description": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
       "date": "Mon, 20 Jul 2026",
       "source": "BBC",
       "region": "eu",
@@ -133,6 +143,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Lebanese army deploys to three southern pilot zones under US-backed security framework",
+      "link": "https://www.france24.com/en/middle-east/20260720-lebanese-army-south-lebanon-pilot-zones-israel-withdrawal",
+      "description": "The Lebanese army began assuming security responsibilities in three southern villages on Monday under a US-backed pilot initiative, the State Department said. Operations in Froun, Srifa and Zawtar al-Gharbiya mark the first implementation of a framework aimed at enabling a phased...",
+      "date": "Mon, 20 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Two French diplomats subjected to ‘extremely serious act of intimidation’ in Iran, FM Barrot says",
+      "link": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
+      "description": "France’s Foreign Minister Jean-Noël Barrot on Monday said two French embassy officials had been subject to an “extremely serious act of intimidation” by Iranian security services in Iran the day before, having been held and interrogated for hours. One of them was also subjected t...",
+      "date": "Mon, 20 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Fears over Gulf shipping and water rise as US-Iran trade strikes",
+      "link": "https://www.france24.com/en/video/20260720-fears-over-gulf-shipping-and-water-rise-as-us-iran-trade-strikes",
+      "description": "The United States and Iran have continued to exchange fire on July 20th, raising fears for Gulf shipping and water supplies in the region. After Kuwait reported Iranian attacks on water and electricity plants as well as oil facilities over the weekend, Bahrain said Iran this Mond...",
+      "date": "Mon, 20 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran condemns US attacks on civilian infrastructure",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
       "description": "Iran says it has received mediation proposals from multiple parties and insists diplomatic efforts remain active.",
@@ -166,36 +206,6 @@
       "title": "Petrol prices climb as US–Iran tensions disrupt markets",
       "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
       "description": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.",
-      "date": "Mon, 20 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Lebanon’s military starts ‘pilot zone’ takeover in south",
-      "link": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss",
-      "description": "Implementation of the trilateral framework agreement between Israel, Lebanon and the US is to start in three villages.",
-      "date": "Mon, 20 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-      "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss",
-      "description": "An Iranian army spokesman asserts the war will continue until deterrence against further attacks has been achieved.",
-      "date": "Mon, 20 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Yemen’s Houthis declare naval blockade of Saudi Arabia: What to know",
-      "link": "https://www.aljazeera.com/news/2026/7/20/yemens-houthis-declare-naval-blockade-of-saudi-arabia-what-to-know?traffic_source=rss",
-      "description": "Yemeni group says the announcement is based on the principle of &#039;an eye for an eye&#039;.",
       "date": "Mon, 20 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -323,6 +333,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Saudi-led coalition warns Houthis of responding to their threats to ships in Bab El Mandeb",
+      "link": "https://tass.com/world/2162767",
+      "description": "The coalition command has begun implementing measures in order to protect commercial vessels transiting the strait",
+      "date": "Mon, 20 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US launches another series of strikes against Iran — CENTCOM",
       "link": "https://tass.com/world/2162761",
       "description": "The strikes are designed to further degrade Iranian military capabilities used to attack commercial shipping in the Strait of Hormuz",
@@ -346,16 +366,6 @@
       "title": "US redirected seven ships since renewal of naval blockade of Iran — CENTCOM",
       "link": "https://tass.com/world/2162727",
       "description": "The United States Central Command added that US military disabled one vessel",
-      "date": "Mon, 20 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "State Department says relations between Russia and Cuba pose 'direct threat' to US",
-      "link": "https://tass.com/world/2162717",
-      "description": "The report makes similar accusations against China and Iran",
       "date": "Mon, 20 Jul 2026",
       "source": "TASS",
       "region": "ru",
