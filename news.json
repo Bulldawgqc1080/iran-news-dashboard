@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20 17:18 UTC",
-  "total": 36,
+  "updated": "2026-07-20 19:22 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
@@ -21,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "description": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+      "date": "Mon, 20 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
@@ -113,16 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "description": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
-      "date": "Tue, 14 Jul 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Two French diplomats subjected to ‘extremely serious act of intimidation’ in Iran, FM Barrot says",
       "link": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
       "description": "France’s Foreign Minister Jean-Noël Barrot on Monday said two French embassy officials had been subject to an “extremely serious act of intimidation” by Iranian security services in Iran the day before, having been held and interrogated for hours. One of them was also subjected t...",
@@ -141,6 +141,36 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Houthis announce maritime blockade on Saudi Arabia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/houthis-announce-maritime-blockade-on-saudi-arabia?traffic_source=rss",
+      "description": "Yemen’s Iran-backed Houthi rebels have announced a maritime blockade on Saudi Arabia after the two sides traded fire",
+      "date": "Mon, 20 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump vows Iran will ‘pay’ for killing US soldiers",
+      "link": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
+      "description": "The US intensifies air strikes on Iran, targeting critical sites after the deaths of American soldiers in the region.",
+      "date": "Mon, 20 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Petrol prices climb as US–Iran tensions disrupt markets",
+      "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
+      "description": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.",
+      "date": "Mon, 20 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Lebanon’s military starts ‘pilot zone’ takeover in south",
@@ -193,19 +223,19 @@
       "bias": "Medium"
     },
     {
-      "title": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
-      "link": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
-      "description": "We explain how the war has changed for all the parties since their MoU unravelled and as the conflict has escalated.",
-      "date": "Mon, 20 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Andy Burnham becomes UK PM, says Britain needs to 'regain stability'",
       "link": "https://www.dawn.com/news/2017007/andy-burnham-becomes-uk-pm-says-britain-needs-to-regain-stability",
       "description": "Britain’s King Charles III on Monday appointed Andy Burnham as prime minister after outgoing Keir Starmer officially tendered his resignation, the palace said. “Andrew Burnham MP accepted The King’s offer and kissed hands upon his appointment as Prime Minister,” Buckingham Palace...",
+      "date": "Mon, 20 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump dismisses NY Mayor Mamdani's threat to arrest Netanyahu",
+      "link": "https://www.dawn.com/news/2017066/trump-dismisses-ny-mayor-mamdanis-threat-to-arrest-netanyahu",
+      "description": "US President Donald Trump on Monday vowed that Israeli Prime Minister Benjamin Netanyahu would not face arrest at a UN summit in New York, after the city’s new mayor said he was investigating the move. Mayor Zohran Mamdani admitted he was unsure if he had the power to order polic...",
       "date": "Mon, 20 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -223,9 +253,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says fighting 'full-scale war' with United States",
-      "link": "https://www.dawn.com/news/2016977/iran-says-fighting-full-scale-war-with-united-states",
-      "description": "Iran is fighting a “full-scale war” with the United States, its president said on Monday, as Washington expanded its strikes across the Islamic republic including a city hosting a nuclear power plant. Iran kept up its own attacks across the region in response, with its Revolution...",
+      "title": "Yemen's Houthis declare maritime blockade of Saudi Arabia",
+      "link": "https://www.dawn.com/news/2016977/yemens-houthis-declare-maritime-blockade-of-saudi-arabia",
+      "description": "Yemen’s Houthi rebels announced a maritime embargo of Saudi Arabia on Monday, stepping up the US-Iran war as the rebels threatened the top oil exporter’s ability to bypass the Strait of Hormuz. The group did not say how it planned to impose the embargo, whose declaration came as ...",
       "date": "Mon, 20 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -253,11 +283,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UN eyes ‘in danger’ status for sites hit by war, climate change",
-      "link": "https://www.dawn.com/news/2016613/un-eyes-in-danger-status-for-sites-hit-by-war-climate-change",
-      "description": "• Unesco meeting in South Korea to decide new listings, heritage-in-danger• Biblical sites in occupied West Bank, Lebanese castles, South Sudan’s savannahs and grasslands are among fast-tracked nominations• Russia’s Lake Baikal under scrutiny over mounting ecological damage PARIS...",
-      "date": "Sun, 19 Jul 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: Trump says Iran 'will pay' for killing U.S. soldiers",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-july-20-2026-marco-rubio-strait-of-hormuz-us-donald-trump/article71243740.ece",
+      "description": "The Islamic Revolutionary Guard ​Corps said that ‌two oil tankers ​had exploded ⁠and been immobilised after attempting to transit what it ‌described as an unsafe southern route ‌through the Strait ‌of Hormuz",
+      "date": "Mon, 20 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -266,16 +296,6 @@
       "title": "Yemen's Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway",
       "link": "https://www.thehindu.com/news/international/yemens-iranian-backed-houthis-say-they-will-block-saudi-shipping-at-red-sea-gateway/article71246685.ece",
       "description": "Bab el-Mandeb, at the southern tip of the Arabian Peninsula, is the gateway to the Red Sea through which around 12% of the world’s trade usually passes",
-      "date": "Mon, 20 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: Trump says Iran 'will pay' for killing U.S. soldiers",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-july-20-2026-marco-rubio-strait-of-hormuz-us-donald-trump/article71243740.ece",
-      "description": "The Islamic Revolutionary Guard ​Corps said that ‌two oil tankers ​had exploded ⁠and been immobilised after attempting to transit what it ‌described as an unsafe southern route ‌through the Strait ‌of Hormuz",
       "date": "Mon, 20 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,6 +343,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US redirected seven ships since renewal of naval blockade of Iran — CENTCOM",
+      "link": "https://tass.com/world/2162727",
+      "description": "The United States Central Command added that US military disabled one vessel",
+      "date": "Mon, 20 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "State Department says relations between Russia and Cuba pose 'direct threat' to US",
       "link": "https://tass.com/world/2162717",
       "description": "The report makes similar accusations against China and Iran",
@@ -346,16 +376,6 @@
       "title": "Iran strikes US facilities in Kuwait, Bahrain — IRGC",
       "link": "https://tass.com/world/2162657",
       "description": "According to the Islamic Revolutionary Guard Corps, the attack was carried out in three phases and involved the use of drones and missile",
-      "date": "Mon, 20 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Mediators propose 10-day ceasefire between Iran, US — agency",
-      "link": "https://tass.com/world/2162623",
-      "description": "It is expected that options for restoring the temporary agreement will be discussed",
       "date": "Mon, 20 Jul 2026",
       "source": "TASS",
       "region": "ru",
