@@ -1,18 +1,28 @@
 {
-  "updated": "2026-07-20 23:00 UTC",
-  "total": 13,
+  "updated": "2026-07-21 01:27 UTC",
+  "total": 14,
   "events": [
+    {
+      "date": "2026-07-21",
+      "dateDisplay": "Jul 21, 2026",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-07-20",
       "dateDisplay": "Jul 20, 2026",
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "title": "The war in Iran has left hundreds of U.S. diplomats in limbo",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo",
       "sources": [
-        "BBC",
-        "Al Jazeera"
+        "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-07-19",

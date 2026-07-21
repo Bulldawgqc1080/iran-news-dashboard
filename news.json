@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20 23:00 UTC",
-  "total": 38,
+  "updated": "2026-07-21 01:27 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "The war in Iran has left hundreds of U.S. diplomats in limbo",
@@ -46,7 +46,7 @@
       "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
       "description": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
-      "date": "Mon, 20 Jul 2026",
+      "date": "Tue, 21 Jul 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -173,6 +173,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US attacks Iran for 10th consecutive night",
+      "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "description": "Washington vows revenge for US military casualties, while Iran claims attacks on US sites across the region.",
+      "date": "Tue, 21 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: US launches 10th night of strikes; Tehran attacks Kuwait",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "description": "Explosions reported in Iran&#039;s Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
+      "date": "Tue, 21 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "War on Iran: War resumes 30 days after MoU",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
       "description": "30 days into the US-Iran MoU the worst fighting in months has erupted threatening to unravel the ceasefire.",
@@ -186,36 +206,6 @@
       "title": "Iran condemns US attacks on civilian infrastructure",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
       "description": "Iran says it has received mediation proposals from multiple parties and insists diplomatic efforts remain active.",
-      "date": "Mon, 20 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Houthis announce maritime blockade on Saudi Arabia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/houthis-announce-maritime-blockade-on-saudi-arabia?traffic_source=rss",
-      "description": "Yemen’s Iran-backed Houthi rebels have announced a maritime blockade on Saudi Arabia after the two sides traded fire",
-      "date": "Mon, 20 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump vows Iran will ‘pay’ for killing US soldiers",
-      "link": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
-      "description": "The US intensifies air strikes on Iran, targeting critical sites after the deaths of American soldiers in the region.",
-      "date": "Mon, 20 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Petrol prices climb as US–Iran tensions disrupt markets",
-      "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
-      "description": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.",
       "date": "Mon, 20 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -293,9 +283,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen's Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway",
-      "link": "https://www.thehindu.com/news/international/yemens-iranian-backed-houthis-say-they-will-block-saudi-shipping-at-red-sea-gateway/article71246685.ece",
-      "description": "Bab el-Mandeb, at the southern tip of the Arabian Peninsula, is the gateway to the Red Sea through which around 12% of the world’s trade usually passes",
+      "title": "Iran hits out at Gulf neighbours as U.S. presses on with strikes",
+      "link": "https://www.thehindu.com/news/international/iran-hits-out-at-gulf-neighbours-as-us-presses-on-with-strikes/article71244067.ece",
+      "description": "Oil prices surged to a one-month high as the United States and Iran tussled for control of the vital strait, with Brent crude rising above $91 a barrel — the highest price since June 11",
       "date": "Mon, 20 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,9 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran hits out at Gulf neighbours as U.S. presses on with strikes",
-      "link": "https://www.thehindu.com/news/international/iran-hits-out-at-gulf-neighbours-as-us-presses-on-with-strikes/article71244067.ece",
-      "description": "Oil prices surged to a one-month high as the United States and Iran tussled for control of the vital strait, with Brent crude rising above $91 a barrel — the highest price since June 11",
+      "title": "Yemen's Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway",
+      "link": "https://www.thehindu.com/news/international/yemens-iranian-backed-houthis-say-they-will-block-saudi-shipping-at-red-sea-gateway/article71246685.ece",
+      "description": "Bab el-Mandeb, at the southern tip of the Arabian Peninsula, is the gateway to the Red Sea through which around 12% of the world’s trade usually passes",
       "date": "Mon, 20 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -341,46 +331,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Saudi-led coalition warns Houthis of responding to their threats to ships in Bab El Mandeb",
-      "link": "https://tass.com/world/2162767",
-      "description": "The coalition command has begun implementing measures in order to protect commercial vessels transiting the strait",
-      "date": "Mon, 20 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US launches another series of strikes against Iran — CENTCOM",
-      "link": "https://tass.com/world/2162761",
-      "description": "The strikes are designed to further degrade Iranian military capabilities used to attack commercial shipping in the Strait of Hormuz",
-      "date": "Mon, 20 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IDF says began coordinating actions with Lebanon in ‘pilot zones’",
-      "link": "https://tass.com/world/2162759",
-      "description": "As part of the pilot, teams from the IDF, the U.S. military, and the Lebanese Armed Forces are conducting coordination and planning for the continued implementation of the agreement",
-      "date": "Mon, 20 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US redirected seven ships since renewal of naval blockade of Iran — CENTCOM",
-      "link": "https://tass.com/world/2162727",
-      "description": "The United States Central Command added that US military disabled one vessel",
-      "date": "Mon, 20 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
