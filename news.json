@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-21 10:12 UTC",
-  "total": 39,
+  "updated": "2026-07-21 12:17 UTC",
+  "total": 42,
   "stories": [
+    {
+      "title": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
+      "link": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora",
+      "description": "Iran-backed Houthis say they will blockade a waterway on the Red Sea. And, the FDA continues to investigate Taylor Farms lettuce as a source of the Cyclospora outbreak despite a retracted test.",
+      "date": "Tue, 21 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
+      "description": "The Houthis, a Shiite militia in Yemen, which is aligned with Iran, have announced a naval blockade of a key waterway, the Bab Al-Mandeb Strait.",
+      "date": "Tue, 21 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The war in Iran has left hundreds of U.S. diplomats in limbo",
       "link": "https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo",
@@ -26,16 +46,6 @@
       "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
       "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
       "description": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
-      "date": "Mon, 20 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
-      "description": "The U.S. attacks were the ninth consecutive day of bombing since peace talks between the two countries collapsed in dispute over a memorandum of understanding focused on the Strait of Hormuz.",
       "date": "Mon, 20 Jul 2026",
       "source": "NPR News",
       "region": "us",
@@ -143,6 +153,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "🔴Middle East live: Kuwait accuses Iran of again attacking critical power and desalination plants",
+      "link": "https://www.france24.com/en/middle-east/20260721-live-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah",
+      "description": "",
+      "date": "Tue, 21 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "What to know about the West African economic summit seeking regional reform",
+      "link": "https://www.france24.com/en/video/20260721-what-to-know-about-the-west-african-economic-summit-seeking-regional-reform",
+      "description": "The 69th ECOWAS summit was held on July 19th in Freetown, Sierra Leone.The outgoing Chair of the ECOWAS Conference of Heads of State and Government, Julius Maada Bio, set the tone by calling for “far-reaching changes” within the West African economic organisation.The meeting was ...",
+      "date": "Tue, 21 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East war stuck in 'cycle of enhanced risk' as US and Iran exchange strikes",
       "link": "https://www.france24.com/en/middle-east-war-stuck-in-cycle-of-enhanced-risk-as-us-and-iran-exchange-strikes",
       "description": "The US has bombed Iran for a tenth consecutive night, following the killing of American soldiers in Jordan and Iraq. Washington continues to call for an end to Iranian attacks on vessels in the Strait of Hormuz. For its part, Iran says it is at 'full scale war' with the US. Exper...",
@@ -173,6 +203,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East war live: Kuwait accuses Iran of again attacking critical power and desalination plants",
+      "link": "https://www.france24.com/en/middle-east/20260721-live-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah",
+      "description": "Kuwait said Tuesday that Iran had again targeted the country’s power and desalination plants, sparking fires and causing damage to crucial facilities. Roughly 90 percent of the tiny desert nation’s drinking water comes from desalination. Follow our liveblog for all the latest upd...",
+      "date": "Tue, 21 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Lebanon's Aoun to push for Israeli troop withdrawal in meeting with Trump",
       "link": "https://www.france24.com/en/middle-east/20260721-lebanon-s-aoun-to-press-trump-for-israeli-troop-withdrawal-as-pressure-builds-to-disarm-hezbollah",
       "description": "Lebanese President Joseph Aoun is expected to present a plan to his US counterpart Donald Trump Tuesday on how to disarm Iran-backed militant group Hezbollah, which Israel has made a key condition of its withdrawal from the lands that its troops occupy in the country's south.",
@@ -183,49 +223,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanese army deploys to three southern villages under US-backed security framework",
-      "link": "https://www.france24.com/en/middle-east/20260720-lebanese-army-south-lebanon-pilot-zones-israel-withdrawal",
-      "description": "The Lebanese army began assuming security responsibilities in three southern villages on Monday under a US-backed pilot initiative, the State Department said. Operations in Froun, Srifa and Zawtar al-Gharbiya mark the first implementation of a framework aimed at enabling a phased...",
-      "date": "Mon, 20 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Hamas’s new leader must bridge a movement divided over Iran",
+      "link": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss",
+      "description": "After a one-vote victory, Khalil al-Hayya must reconcile rival currents while preserving Hamas’s independence.",
+      "date": "Tue, 21 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+      "link": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss",
+      "description": "Aoun is in Washington, DC seeking US backing to end the fighting and secure an Israeli withdrawal from southern Lebanon.",
+      "date": "Tue, 21 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
+      "link": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss",
+      "description": "The Lebanese president is seeking Washington&#039;s support for his agenda, including diplomacy with Israel.",
+      "date": "Tue, 21 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
       "link": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
       "description": "The White House told Al Jazeera that the US would continue its attacks unless Trump decides otherwise.",
-      "date": "Tue, 21 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US military releases footage of tenth consecutive night of strikes on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss",
-      "description": "US Central Command (CENTCOM) released footage of its forces launching the latest round of strikes against Iran.",
-      "date": "Tue, 21 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US attacks Iran for 10th consecutive night",
-      "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
-      "description": "Washington vows revenge for US military casualties, while Iran claims attacks on US sites across the region.",
-      "date": "Tue, 21 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Tehran attacks Gulf states, Jordan; 2 Hormuz tankers on fire",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
-      "description": "IRGC says it targeted US assets in the Middle East after 10th consecutive night of US attacks with ships in Hormuz hit.",
       "date": "Tue, 21 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -353,6 +383,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Senior Russian diplomat, Bahraini envoy call for US-Iran ceasefire",
+      "link": "https://tass.com/politics/2163029",
+      "description": "Georgy Borisenko and Dr. Ahmed Al Saati condemned attacks on civilian facilities as inadmissible",
+      "date": "Tue, 21 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Latest US strikes on Iran come in response to death of US military personnel — AP",
+      "link": "https://tass.com/world/2162955",
+      "description": "According to the sources, Washington does not have a long-term exit strategy from the conflict, and military actions are driven by tactical considerations",
+      "date": "Tue, 21 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Press review: Truce on deck in Iran and EU to dry-run Ukraine deployment in Poland drills",
       "link": "https://tass.com/pressreview/2162829",
       "description": "Top stories from the Russian press on Tuesday, July 21st",
@@ -366,26 +416,6 @@
       "title": "Indonesia does not recognize unilateral Western sanctions against Russians — ambassador",
       "link": "https://tass.com/politics/2162891",
       "description": "Sergey Tolchenov also noted that Jakarta is unlikely to arrest Russian citizens at the request of third countries",
-      "date": "Tue, 21 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran kills two US troops, third goes missing at Jordan base — WSJ",
-      "link": "https://tass.com/world/2162885",
-      "description": "According to the officials, the second missile hit an empty aircraft hangar",
-      "date": "Tue, 21 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran struck US Sheikh Isa airbase in Bahrain on Tuesday — military",
-      "link": "https://tass.com/world/2162869",
-      "description": "Notably, Sheikh Isa serves as a critical hub for the US Navy’s 5th Fleet, facilitating air operations and drone control",
       "date": "Tue, 21 Jul 2026",
       "source": "TASS",
       "region": "ru",
