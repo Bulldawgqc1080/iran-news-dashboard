@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22 14:53 UTC",
-  "total": 38,
+  "updated": "2026-07-22 16:12 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
@@ -15,7 +15,7 @@
     {
       "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
       "link": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-      "description": "The attacks overshadowed diplomatic efforts in Pakistan, one of the conflict's mediators, where a senior Iranian official held talks potentially aimed at reviving a collapsed ceasefire between the United States and Iran.",
+      "description": "The fighting comes as the Trump administration is seeking billions of dollars more from Congress for the war with Iran, which Defense Secretary Pete Hegseth says has already cost $37.5 billion.",
       "date": "Wed, 22 Jul 2026",
       "source": "NPR News",
       "region": "us",
@@ -26,6 +26,16 @@
       "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
       "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
       "description": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "date": "Wed, 22 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Tankers make sharp U-turns after Houthi shipping threat",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+      "description": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
       "date": "Wed, 22 Jul 2026",
       "source": "BBC",
       "region": "eu",
@@ -113,16 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "description": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
-      "date": "Wed, 15 Jul 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Donald Trump to announce US-Saudi nuclear deal to allow fuel enrichment",
       "link": "https://www.france24.com/en/donald-trump-to-announce-us-saudi-nuclear-deal-to-allow-fuel-enrichment",
       "description": "The New York Times is reporting that the Trump administration plans to announce that it has reached a broad nuclear agreement with Saudi Arabia which could lead to the country enriching its own fuel for nuclear reactors.What do we know about the deal and what will this mean for t...",
@@ -153,14 +153,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US eyes strikes on Iran's Pickaxe Mountain, believed to be an enrichment site",
-      "link": "https://www.france24.com/en/us-eyes-strikes-on-iran-s-pickaxe-mountain-believed-to-be-an-enrichment-site",
-      "description": "Donald Trump has said that Pickaxe Mountain in Iran could be bombed imminently by the US. The fortified site, buried deep underground, is believed to be an enrichment facility. Story by Ellen Gainsford.",
+      "title": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
+      "link": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks?traffic_source=rss",
+      "description": "Iranian official says Tehran would retaliate by targeting &#039;energy facilities in which the United States has interests&#039;.",
       "date": "Wed, 22 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’",
@@ -196,26 +196,6 @@
       "title": "Iran war’s $37bn price tag: Why does the Pentagon want $67bn more?",
       "link": "https://www.aljazeera.com/news/2026/7/22/iran-wars-37bn-price-tag-why-does-trump-want-67bn-more?traffic_source=rss",
       "description": "The US must rapidly replenish its stockpiles of weapons as the war on Iran rages on.",
-      "date": "Wed, 22 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US Secretary of State say Iran is in ‘a lot of trouble’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-secretary-of-state-say-iran-is-in-a-lot-of?traffic_source=rss",
-      "description": "US Secretary of State say Iran is in ‘a lot of trouble’",
-      "date": "Wed, 22 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
-      "link": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
-      "description": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
       "date": "Wed, 22 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,9 +263,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: Iran’s demands over Strait of Hormuz would set dangerous precedent, says Rubio",
+      "title": "Lebanon PM says Beirut working for 'complete Israeli withdrawal'",
+      "link": "https://www.thehindu.com/news/international/lebanon-pm-says-beirut-working-for-complete-israeli-withdrawal/article71254713.ece",
+      "description": "The Israeli military said it had only fired \"warning shots into the air\" after Lebanese soldiers entered an area that was \"not part of the pilot area\".",
+      "date": "Wed, 22 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: U.S. will destroy bridge or power plant for each Iranian attack in Strait of Hormuz, says Trump",
       "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-11th-night-attacks-ceasefire-deal-us-central-command-strait-of-hormuz-donald-trump-tehran/article71251991.ece",
-      "description": "Jordan’s military said it intercepted four missiles in the Iranian attack",
+      "description": "Iran’s demands over Strait of Hormuz would set dangerous precedent, says Rubio; Jordan’s military said it intercepted four missiles in the Iranian attack",
       "date": "Wed, 22 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -333,19 +323,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war highlights: Trump says will be hitting Pickaxe Mountain area 'pretty soon'",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-21-july-2026-bahrain-kuwait-donald-trump-live-news/article71247944.ece",
-      "description": "Trump says U.S. 'not finished at all' with Iran while U.S. strikes come as ships attacked; nearly 100 U.S. injuries since early July; Yemen rebels threaten attacks on other Mideast waterway; a glimmer of hope for diplomacy",
-      "date": "Wed, 22 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russia-ASEAN settlement agreements will be fulfilled, Lavrov assures",
-      "link": "https://tass.com/economy/2163693",
-      "description": "This also applies to alternative payment platforms that allow bypassing the illegal so-called secondary sanctions, the Russian foreign minister said",
+      "title": "Russia, Iran reaffirm commitment to Strategic Partnership Treaty — Russian MFA",
+      "link": "https://tass.com/politics/2163771",
+      "description": "An assistant to the Iranian Foreign Minister and Director General for Eurasian Affairs at the Iranian Foreign Ministry, Manouchehr Moradi, was received by Russian Deputy Foreign Minister Mikhail Galuzin",
       "date": "Wed, 22 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,9 +333,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Diplomat dismisses US claims about Iran’s new nuclear site as pretext for aggression",
-      "link": "https://tass.com/world/2163683",
-      "description": "Iranian Foreign Ministry Spokesman Esmaeil Baghaei emphasized that Washington’s threats \"reveal the United States’ deep-rooted enmity toward Iran’s scientific progress and technological development\"",
+      "title": "Iran continues to produce missiles at facilities unknown to US — IRNA",
+      "link": "https://tass.com/world/2163767",
+      "description": "The production of drones and missiles in Iran did not stop during the war or during the ceasefire",
       "date": "Wed, 22 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -363,9 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US aggression against Iran could beget argument to field nukes inside republic — Lavrov",
-      "link": "https://tass.com/politics/2163665",
-      "description": "\"When Israel and the United States launched their aggression against Iran, the International Atomic Energy Agency had raised no concerns about the state of the country’s peaceful nuclear program,\" the Russian foreign minister noted",
+      "title": "Iran to respond in reciprocal manner if US strikes its bridges, power plants",
+      "link": "https://tass.com/world/2163759",
+      "description": "According to a source, over the past few days Iran demonstrated the United States its ability to attack any site in the Middle East",
       "date": "Wed, 22 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -373,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Fighting over Hormuz won't do Iran, US any good — Lavrov",
-      "link": "https://tass.com/politics/2163623",
-      "description": "\"It’s hard to prognosticate\" as regards how much longer the conflict around Iran may last, the Russian foreign minister noted",
+      "title": "US investigates death of military personnel in Jordan during Iranian strike - Trump",
+      "link": "https://tass.com/world/2163739",
+      "description": "The US Central Command said last week that two US service members were killed and one went missing",
       "date": "Wed, 22 Jul 2026",
       "source": "TASS",
       "region": "ru",
