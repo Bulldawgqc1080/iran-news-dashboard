@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22 21:55 UTC",
-  "total": 37,
+  "updated": "2026-07-22 22:52 UTC",
+  "total": 40,
   "stories": [
     {
       "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US announces landmark deal allowing Saudis to enrich nuclear fuel",
+      "link": "https://www.france24.com/en/middle-east/20260722-us-announce-landmark-deal-allowing-saudis-enrich-nuclear-fuel-reports-say",
+      "description": "The United States on Wednesday signed a landmark civilian nuclear agreement with Saudi Arabia, pressing ahead with closer strategic ties despite the war with Iran. Washington said the deal includes strict non-proliferation safeguards as regional tensions continue to escalate.",
+      "date": "Wed, 22 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump to announce US-Saudi nuclear deal to allow fuel enrichment",
       "link": "https://www.france24.com/en/donald-trump-to-announce-us-saudi-nuclear-deal-to-allow-fuel-enrichment",
       "description": "The New York Times is reporting that the Trump administration plans to announce that it has reached a broad nuclear agreement with Saudi Arabia which could lead to the country enriching its own fuel for nuclear reactors.What do we know about the deal and what will this mean for t...",
@@ -151,6 +161,36 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
+      "link": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
+      "description": "Claimed attacks come days after Houthis announced naval embargo on Saudi vessels",
+      "date": "Wed, 22 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
+      "link": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
+      "description": "Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.",
+      "date": "Wed, 22 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US launches new strikes as Iran warns of regional turmoil",
+      "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
+      "description": "Tehran&#039;s chief negotiator says if Iran&#039;s &#039;security is not ensured, no infrastructure will be safe&#039;.",
+      "date": "Wed, 22 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
@@ -196,16 +236,6 @@
       "title": "War on Iran: Hegseth wants $70B more to keep fighting",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
       "description": "Iran activated air defence systems across Tehran on the 11th night of US strikes.",
-      "date": "Wed, 22 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
-      "link": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks?traffic_source=rss",
-      "description": "Iranian official says Tehran would respond to US attacks by sparking power outages in countries hosting US troops.",
       "date": "Wed, 22 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -273,6 +303,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. announces civilian nuclear deal with Saudi Arabia",
+      "link": "https://www.thehindu.com/news/international/us-announces-civilian-nuclear-deal-with-saudi-arabia/article71255445.ece",
+      "description": "\"Together, these two agreements lay the legal foundation for a decades-long, multi-billion-dollar partnership that advances several priority economic and strategic objectives, including nuclear nonproliferation,\" says U.S. Energy Department",
+      "date": "Wed, 22 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: U.S. will destroy bridge or power plant for each Iranian attack in Strait of Hormuz, says Trump",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-11th-night-attacks-ceasefire-deal-us-central-command-strait-of-hormuz-donald-trump-tehran/article71251991.ece",
+      "description": "Iran’s demands over Strait of Hormuz would set dangerous precedent, says Rubio; Jordan’s military said it intercepted four missiles in the Iranian attack",
+      "date": "Wed, 22 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump says U.S. will destroy bridge or power plant for each Iranian attack in Strait of Hormuz",
       "link": "https://www.thehindu.com/news/international/trump-says-us-will-destroy-bridge-or-power-plant-for-each-iranian-attack-in-strait-of-hormuz/article71255012.ece",
       "description": "The U.S. carried out another wave of strikes on Iran overnight into Wednesday, and air defences opened fire over the capital, Tehran.",
@@ -286,16 +336,6 @@
       "title": "Lebanon PM says Beirut working for 'complete Israeli withdrawal'",
       "link": "https://www.thehindu.com/news/international/lebanon-pm-says-beirut-working-for-complete-israeli-withdrawal/article71254713.ece",
       "description": "The Israeli military said it had only fired \"warning shots into the air\" after Lebanese soldiers entered an area that was \"not part of the pilot area\".",
-      "date": "Wed, 22 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: U.S. will destroy bridge or power plant for each Iranian attack in Strait of Hormuz, says Trump",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-11th-night-attacks-ceasefire-deal-us-central-command-strait-of-hormuz-donald-trump-tehran/article71251991.ece",
-      "description": "Iran’s demands over Strait of Hormuz would set dangerous precedent, says Rubio; Jordan’s military said it intercepted four missiles in the Iranian attack",
       "date": "Wed, 22 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -323,14 +363,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pete Hegseth's broker looked to buy defence fund before Iran attack: report",
-      "link": "https://www.thehindu.com/news/international/pete-hegseths-broker-looked-to-buy-defence-fund-before-iran-attack-report/article70805735.ece",
-      "description": "FT report does not say whether U.S. Defence Secretary knew what ‌the broker was doing; Pentagon demands retraction",
+      "title": "US forces launching another series of strikes against Iran — Central Command",
+      "link": "https://tass.com/world/2163857",
+      "description": "The authority asserts that it is attacking military targets",
       "date": "Wed, 22 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Yemeni Houthis attack two Saudi Arabian oil tankers — statement",
+      "link": "https://tass.com/world/2163849",
+      "description": "The Houthis emphasized that they also succeeded in forcing about ten vessels to turn back",
+      "date": "Wed, 22 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Global trade up 12.5% amid Strait of Hormuz shipping disruptions — UNCTAD",
@@ -346,26 +396,6 @@
       "title": "Trump believes Iran will soon be ready to strike deal with US",
       "link": "https://tass.com/world/2163837",
       "description": "The US president says that at this point, every time Iran makes a deal \"they want to change it\"",
-      "date": "Wed, 22 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "EU waging proxy war against Russia but unable to change course of conflict — politician",
-      "link": "https://tass.com/world/2163835",
-      "description": "Armando Mema, a member of Finland’s Freedom Alliance, specified that the EU finances Ukraine \"to fight a war it cannot win\"",
-      "date": "Wed, 22 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian military sees possibility of allowing some ships to cross Strait of Hormuz",
-      "link": "https://tass.com/world/2163829",
-      "description": "Vessels are allowed to pass \"in accordance with the established route and in line with the previously announced rules,\" the statement read",
       "date": "Wed, 22 Jul 2026",
       "source": "TASS",
       "region": "ru",
