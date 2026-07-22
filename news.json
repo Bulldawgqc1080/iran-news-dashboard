@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-22 20:04 UTC",
-  "total": 34,
+  "updated": "2026-07-22 21:55 UTC",
+  "total": 37,
   "stories": [
+    {
+      "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
+      "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
+      "description": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
+      "date": "Wed, 22 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
       "link": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
@@ -21,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "description": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "date": "Wed, 22 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
@@ -113,11 +133,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "description": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-      "date": "Thu, 16 Jul 2026",
-      "source": "BBC",
+      "title": "Trump threatens Iranian infrastructure over Strait of Hormuz attacks",
+      "link": "https://www.france24.com/en/middle-east/20260722-trump-threatens-iranian-infrastructure-over-strait-of-hormuz-attacks",
+      "description": "US President Donald Trump warned on Wednesday that the US would destroy an Iranian bridge or power plant every time Tehran attacked shipping in the Strait of Hormuz. The threat came as Washington and Iran exchanged fresh strikes, regional missile alerts sounded and diplomatic eff...",
+      "date": "Wed, 22 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -133,14 +153,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "The Iran war has cost the US $37.5 billion dollars, says Defense Secretary Pete Hesgseth",
-      "link": "https://www.france24.com/en/the-iran-war-has-cost-the-us-37-5-billion-dollars-says-defense-secretary-pete-hesgseth",
-      "description": "US Defense Secretary Pete Hegseth told a Senate committee that the Pentagon needs nearly 70 billion dollars in additional funding for the war in Iran. The hearing turned combative as Senators demanded explanations as to the military's strategy to win or otherwise end the war. Sto...",
+      "title": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
+      "description": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
       "date": "Wed, 22 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump: Iran will ‘pay a big price’ for US troop deaths",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss",
+      "description": "US President Trump warned that Iran will ‘pay a big price’ right before he attended a dignified transfer ceremony.",
+      "date": "Wed, 22 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
@@ -303,39 +333,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Global trade up 12.5% amid Strait of Hormuz shipping disruptions — UNCTAD",
+      "link": "https://tass.com/economy/2163841",
+      "description": "The organization said that \"a significant share of the increase reflects higher prices rather than stronger trade volumes\"",
+      "date": "Wed, 22 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump believes Iran will soon be ready to strike deal with US",
+      "link": "https://tass.com/world/2163837",
+      "description": "The US president says that at this point, every time Iran makes a deal \"they want to change it\"",
+      "date": "Wed, 22 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "EU waging proxy war against Russia but unable to change course of conflict — politician",
+      "link": "https://tass.com/world/2163835",
+      "description": "Armando Mema, a member of Finland’s Freedom Alliance, specified that the EU finances Ukraine \"to fight a war it cannot win\"",
+      "date": "Wed, 22 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Iranian military sees possibility of allowing some ships to cross Strait of Hormuz",
       "link": "https://tass.com/world/2163829",
       "description": "Vessels are allowed to pass \"in accordance with the established route and in line with the previously announced rules,\" the statement read",
-      "date": "Wed, 22 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "EU ambassadors fail to agree on 21st package of anti-Russian sanctions — source",
-      "link": "https://tass.com/world/2163817",
-      "description": "According to earlier reports by Politico and Bloomberg, the proposed LNG transportation ban is being blocked by Greece, which fears that its shipping companies may suffer serious losses as a result",
-      "date": "Wed, 22 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran’s defense doctrine follows ‘eye for an eye’ principle — foreign minister",
-      "link": "https://tass.com/world/2163819",
-      "description": "US President Donald Trump earlier said that for every strike on a vessel in the Strait of Hormuz, the US armed forces would destroy an Iranian bridge or power plant",
-      "date": "Wed, 22 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IRGC warns shipping companies southern Strait of Hormuz route mined",
-      "link": "https://tass.com/world/2163825",
-      "description": "In response, Tehran began striking US facilities in the Middle East located in Bahrain, Jordan, Qatar, Kuwait, the United Arab Emirates and Oman",
       "date": "Wed, 22 Jul 2026",
       "source": "TASS",
       "region": "ru",
