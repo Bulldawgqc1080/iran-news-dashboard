@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21 23:46 UTC",
-  "total": 44,
+  "updated": "2026-07-22 01:26 UTC",
+  "total": 45,
   "stories": [
     {
       "title": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: US launches 11th night of Iran strikes as diplomacy falters",
+      "link": "https://www.france24.com/en/middle-east/20260722-middle-east-live-us-launches-11th-night-of-iran-strikes-as-diplomacy-falters",
+      "description": "The US military launched an 11th straight night of strikes on Iran early Wednesday, with President Donald Trump saying the US was \"not finished\" attacking the Middle Eastern nation. The strikes followed Tehran's attacks on Gulf states, and its Houthi allies threatening to blockad...",
+      "date": "Wed, 22 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump says US 'not finished' attacking Iran as conflict widens",
       "link": "https://www.france24.com/en/middle-east/20260721-trump-says-us-not-finished-attacking-iran-as-conflict-widens",
       "description": "President Donald Trump said the US was \"not finished\" attacking Iran on Tuesday as the conflict widened, with Tehran launching strikes on Gulf states and its Houthi allies threatening to blockade Saudi ports. The escalation came amid fresh US strikes, rising military casualties a...",
@@ -213,6 +223,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
+      "description": "Trump threatens to bomb a suspected Iranian nuclear site called Pickaxe Mountain &#039;very heavily&#039;.",
+      "date": "Wed, 22 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US strikes Iran for ’11th consecutive night’",
+      "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
+      "description": "Explosions reported to have been heard in northwestern Iran&#039;s Tabriz, as well as capital Tehran and southern Iran.",
+      "date": "Tue, 21 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
       "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
       "description": "Latest cost comes as Hegseth and Joint Chiefs Chairman Caine seek a $1.5 trillion budget, including $70bn for Iran war.",
@@ -256,26 +286,6 @@
       "title": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/trump-says-hes-open-to-talks-with-hezbollah-vows-to-help-lebanon?traffic_source=rss",
       "description": "US President Trump said he is open to direct talks with Hezbollah.",
-      "date": "Tue, 21 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Netherlands to sanction trade with illegal Israeli settlements",
-      "link": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss",
-      "description": "Dutch ban on Israeli goods from occupied territory comes as efforts to implement EU-wide sanctions remain stalled.",
-      "date": "Tue, 21 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "The Houthis may soon discover the limits of Saudi strategic patience",
-      "link": "https://www.aljazeera.com/opinions/2026/7/21/the-houthis-may-soon-discover-the-limits-of-saudi-strategic-patience?traffic_source=rss",
-      "description": "Saudi Arabia has so far ignored provocations to preserve regional stability. But it may soon be pushed into action.",
       "date": "Tue, 21 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -403,39 +413,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US completes latest wave of strikes against Iran — CENTCOM",
+      "link": "https://tass.com/world/2163285",
+      "description": "According to the US military, the strikes targeted Iranian military operations centers, maritime capabilities, aircraft hangars, drone storage facilities, and military logistics infrastructure",
+      "date": "Wed, 22 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US military carries out airstrike on Iranian city of Bushehr — Tasnim agency",
+      "link": "https://tass.com/world/2163281",
+      "description": "According to preliminary data, two facilities were damaged",
+      "date": "Wed, 22 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US army commences 11th wave of strikes against Iran — CENTCOM",
+      "link": "https://tass.com/world/2163279",
+      "description": "The US military says the strikes \"are designed to continue degrading Iran's ability to threaten commercial shipping in the Strait of Hormuz\"",
+      "date": "Tue, 21 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "British interests in Middle East may become military target for Iran — TASS source",
       "link": "https://tass.com/world/2163271",
       "description": "A high-ranking Iranian source says this could be the case if London joins the US war against the Islamic Republic",
-      "date": "Tue, 21 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IRGC says hit radars at Ali al-Salem airbase in Kuwait",
-      "link": "https://tass.com/world/2163257",
-      "description": "According to the statement, the strikes destroyed several radar systems",
-      "date": "Tue, 21 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Persian Gulf states irritated by US actions in conflict with Iran — Bloomberg",
-      "link": "https://tass.com/world/2163235",
-      "description": "Other countries, including Qatar, disagree with this position and insist on immediate de-escalation",
-      "date": "Tue, 21 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump suggests Syrian forces be deployed to Lebanon to fight Hezbollah",
-      "link": "https://tass.com/world/2163213",
-      "description": "According to the US leader, such measures would \"be very effective\"",
       "date": "Tue, 21 Jul 2026",
       "source": "TASS",
       "region": "ru",
