@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 18:06 UTC",
+  "updated": "2026-07-23 20:06 UTC",
   "total": 11,
   "events": [
     {
@@ -8,11 +8,12 @@
       "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
       "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
       "sources": [
-        "BBC",
+        "NPR News",
         "Al Jazeera",
-        "NPR News"
+        "France 24",
+        "BBC"
       ],
-      "sourceCount": 3,
+      "sourceCount": 4,
       "type": "fact"
     },
     {
@@ -21,8 +22,8 @@
       "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
       "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
       "sources": [
-        "BBC",
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
