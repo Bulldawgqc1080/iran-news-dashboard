@@ -1,18 +1,20 @@
 {
-  "updated": "2026-07-23 08:09 UTC",
+  "updated": "2026-07-23 10:58 UTC",
   "total": 12,
   "events": [
     {
       "date": "2026-07-23",
       "dateDisplay": "Jul 23, 2026",
-      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "title": "U.S. signs commercial nuclear deal with Saudi Arabia",
+      "link": "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia",
       "sources": [
+        "France 24",
+        "NPR News",
         "BBC",
         "Al Jazeera"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 4,
+      "type": "fact"
     },
     {
       "date": "2026-07-22",
@@ -20,9 +22,9 @@
       "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
       "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
       "sources": [
+        "France 24",
         "NPR News",
-        "BBC",
-        "France 24"
+        "BBC"
       ],
       "sourceCount": 3,
       "type": "fact"
@@ -63,8 +65,8 @@
     {
       "date": "2026-07-16",
       "dateDisplay": "Jul 16, 2026",
-      "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
-      "link": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
+      "title": "Iranian drone strikes warehouse in Kuwait",
+      "link": "https://www.bbc.co.uk/news/videos/cvg7g2v1j9do?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
