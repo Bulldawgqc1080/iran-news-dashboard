@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-23 10:58 UTC",
-  "total": 42,
+  "updated": "2026-07-23 12:22 UTC",
+  "total": 38,
   "stories": [
+    {
+      "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
+      "link": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
+      "description": "The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death.",
+      "date": "Thu, 23 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. signs commercial nuclear deal with Saudi Arabia",
       "link": "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia",
@@ -26,26 +36,6 @@
       "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
       "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
       "description": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
-      "date": "Wed, 22 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-      "link": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
-      "description": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran.",
-      "date": "Wed, 22 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
-      "link": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-      "description": "The fighting comes as the Trump administration is seeking billions of dollars more from Congress for the war with Iran, which Defense Secretary Pete Hegseth says has already cost $37.5 billion.",
       "date": "Wed, 22 Jul 2026",
       "source": "NPR News",
       "region": "us",
@@ -153,44 +143,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US and Saudi Arabia reach a multi-billion dollar civilian nuclear deal",
-      "link": "https://www.france24.com/en/us-and-saudi-arabia-reach-a-multi-billion-dollar-civilian-nuclear-deal",
-      "description": "The United States announced that it had reached a civilian nuclear cooperation deal with Saudi Arabia. Energy Secretary Chris Wright signed the pact and a separate bilateral safeguards deal alongside Saudi Energy Minister Prince Abdulaziz bin Salman. There have been years of disc...",
+      "title": "Can Iran withstand new pressure from the US?",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss",
+      "description": "After a truce, the US has returned to war with Iran. Alex Gatopoulos looks at what’s different this time",
       "date": "Thu, 23 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "🔴 War in Ukraine: EU agrees 21st round of sanctions on Russia",
-      "link": "https://www.france24.com/en/europe/20260723-eu-ambassadors-agree-21st-sanctions-package-against-russia",
-      "description": "",
+      "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+      "link": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss",
+      "description": "Iraqi Prime Minister Ali al-Zaid is visiting Tehran after a high-profile meeting with US President Donald Trump.",
       "date": "Thu, 23 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Middle East live: Houthi rebels claim attacks on Saudi tankers in the Red Sea",
-      "link": "https://www.france24.com/en/middle-east/20260723-middle-east-live-houthi-rebels-claim-attacks-on-saudi-tankers-in-the-red-sea",
-      "description": "",
+      "title": "Rubio says US policy on Iran is ‘a head for an eye’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rubio-says-us-policy-on-iran-is-a-head-for-an?traffic_source=rss",
+      "description": "Rubio says US policy on Iran is ‘a head for an eye’",
       "date": "Thu, 23 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump threatens Iranian infrastructure over Strait of Hormuz attacks",
-      "link": "https://www.france24.com/en/middle-east/20260722-trump-threatens-iranian-infrastructure-over-strait-of-hormuz-attacks",
-      "description": "US President Donald Trump warned on Wednesday that the US would destroy an Iranian bridge or power plant every time Tehran attacked shipping in the Strait of Hormuz. The threat came as Washington and Iran exchanged fresh strikes, regional missile alerts sounded and diplomatic eff...",
-      "date": "Wed, 22 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
@@ -243,26 +223,6 @@
       "bias": "Medium"
     },
     {
-      "title": "US attacks Iran for 12th night as the House approves defence spending",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss",
-      "description": "Strikes from the US on Iran are raining down for the 12th night in a row.",
-      "date": "Thu, 23 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss",
-      "description": "The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.",
-      "date": "Thu, 23 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Houthis attack Saudi tankers in Red Sea as US strikes Iran for 12th consecutive day",
       "link": "https://www.dawn.com/news/2017740/houthis-attack-saudi-tankers-in-red-sea-as-us-strikes-iran-for-12th-consecutive-day",
       "description": "Hostilities in the Middle East flared on Thursday as the Yemen’s Houthis said that they attacked two Saudi Arabian oil tankers in a military operation, while the United States carried out strikes in Iran for a 12th consecutive night. A Saudi news agency confirmed one of the two v...",
@@ -273,9 +233,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US announces civilian nuclear deal with Saudi Arabia, says it includes non-proliferation safeguards",
-      "link": "https://www.dawn.com/news/2017738/us-announces-civilian-nuclear-deal-with-saudi-arabia-says-it-includes-non-proliferation-safeguards",
-      "description": "The United States on Wednesday announced a landmark deal with Saudi Arabia that would establish a civilian nuclear programme in the Gulf country, with Washington insisting the agreement includes non-proliferation safeguards. The move comes as the United States under President Don...",
+      "title": "Trump says US-Saudi nuclear deal subject to Riyadh joining Abraham Accords",
+      "link": "https://www.dawn.com/news/2017738/trump-says-us-saudi-nuclear-deal-subject-to-riyadh-joining-abraham-accords",
+      "description": "US President Donald Trump on Thursday said a landmark deal with Saudi Arabia that would establish a civilian nuclear programme in the Gulf country is contingent on Riyadh joining the Abraham Accords and normalising ties with Israel. In a post on Truth Social, Trump said the deal ...",
       "date": "Thu, 23 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -323,6 +283,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "West Asia war LIVE: Houthis strike tankers in Red Sea; first since Saudi-linked shipping blockade via Bab el-Mandeb",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-military-strike-us-central-command-strait-of-hormuz-donald-trump-netanyhau-khamenei/article71256441.ece",
+      "description": "U.S. President Donald Trump warned on July 22 that the U.S. would destroy one bridge or power plant each time Iran shoots at a ship in the strait",
+      "date": "Thu, 23 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israelis fear Saudi nuclear deal could ignite West Asia arms race",
       "link": "https://www.thehindu.com/news/international/israelis-fear-saudi-nuclear-deal-could-ignite-west-asia-arms-race/article71257084.ece",
       "description": "The agreement, ⁠which still needs Congressional approval, that was announced on July 22, is meant to allow the Saudis to develop a civilian nuclear programme.",
@@ -336,16 +306,6 @@
       "title": "Houthis strike tankers in Red Sea; first since Saudi-linked shipping blockade via Bab el-Mandeb",
       "link": "https://www.thehindu.com/news/international/houthis-say-they-attacked-2-saudi-oil-tankers-in-red-sea-as-us-carries-out-12th-night-of-strikes/article71257147.ece",
       "description": "U.S. President Donald Trump warned on July 22, 2026 that the U.S. would destroy one bridge or power plant each time Iran shoots at a ship in the strait",
-      "date": "Thu, 23 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: U.S. military carries out strikes on Iran as both sides threaten civilian infrastructure",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-military-strike-us-central-command-strait-of-hormuz-donald-trump-netanyhau-khamenei/article71256441.ece",
-      "description": "Seyed Abbas Araghchi, Iran's Foreign Minister, said his country would adopt an “eye for an eye” defence doctrine",
       "date": "Thu, 23 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -383,6 +343,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "FACTBOX: Oil price cap freeze, bank restrictions in EU’s 21st sanctions package",
+      "link": "https://tass.com/economy/2164217",
+      "description": "The EU has banned its banks from conducting cross-border transactions with 32 Russian banks, European Commission President Ursula von der Leyen said",
+      "date": "Thu, 23 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "It could take US weeks to degrade Iran’s missile capabilities — FT",
+      "link": "https://tass.com/world/2164211",
+      "description": "According to the report, much will depend on whether US forces can destroy mobile launchers",
+      "date": "Thu, 23 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US after denuclearization, not regime change in Iran, Rubio says",
       "link": "https://tass.com/world/2164179",
       "description": "The US secretary of state emphasized that Washington was focused on destroying Iran’s military capabilities",
@@ -396,26 +376,6 @@
       "title": "US air campaign against Iran running out of steam — Politico",
       "link": "https://tass.com/world/2164093",
       "description": "According to the report, the conflict is unlikely to shift decisively without a major escalation, including the deployment of ground forces",
-      "date": "Thu, 23 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US rejects Iran’s claim of control over Strait of Hormuz",
-      "link": "https://tass.com/world/2164013",
-      "description": "Commercial vessels continue to use the strait with US military support, CENTCOM said",
-      "date": "Thu, 23 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US may expand Iran operation within days — media",
-      "link": "https://tass.com/world/2163985",
-      "description": "According to the report, Donald Trump is still considering returning to major combat operations against Iran",
       "date": "Thu, 23 Jul 2026",
       "source": "TASS",
       "region": "ru",
