@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23 05:14 UTC",
-  "total": 39,
+  "updated": "2026-07-23 08:09 UTC",
+  "total": 40,
   "stories": [
     {
       "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
@@ -31,6 +31,26 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "description": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+      "date": "Thu, 23 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "description": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+      "date": "Thu, 23 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "US signs landmark nuclear deal with Saudi Arabia",
@@ -113,21 +133,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US soldier killed and one injured after Iranian attack in Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "description": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-      "date": "Sun, 19 Jul 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
-      "link": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
-      "description": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
-      "date": "Thu, 16 Jul 2026",
-      "source": "BBC",
+      "title": "🔴 War in Ukraine: EU agrees 21st round of sanctions on Russia",
+      "link": "https://www.france24.com/en/europe/20260723-eu-ambassadors-agree-21st-sanctions-package-against-russia",
+      "description": "",
+      "date": "Thu, 23 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -135,7 +145,7 @@
     {
       "title": "Middle East live: Houthi rebels claim attacks on Saudi tankers in the Red Sea",
       "link": "https://www.france24.com/en/middle-east/20260723-middle-east-live-houthi-rebels-claim-attacks-on-saudi-tankers-in-the-red-sea",
-      "description": "Iran-backed Houthi Yemeni rebels claimed attacks on Wednesday evening in the Red Sea against two Saudi oil tankers, while the United States continued its strikes against Iran. The Iranian Revolutionary Guards announced on Thursday that they had stopped three oil tankers trying to...",
+      "description": "",
       "date": "Thu, 23 Jul 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,14 +163,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US announces landmark deal allowing Saudis to enrich nuclear fuel",
-      "link": "https://www.france24.com/en/middle-east/20260722-us-announce-landmark-deal-allowing-saudis-enrich-nuclear-fuel-reports-say",
-      "description": "The United States on Wednesday signed a landmark civilian nuclear agreement with Saudi Arabia, pressing ahead with closer strategic ties despite the war with Iran. Washington said the deal includes strict non-proliferation safeguards as regional tensions continue to escalate.",
-      "date": "Wed, 22 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
+      "link": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
+      "description": "Yemenis fear a maritime embargo on Saudi Arabia could reignite war, deepen shortages and worsen hunger.",
+      "date": "Thu, 23 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
+      "description": "Renewed fighting between the US and Iran has overshadowed the ASEAN gathering in Manila.",
+      "date": "Thu, 23 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US attacks Iran for 12th night as the House approves defence spending",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss",
+      "description": "Strikes from the US on Iran are raining down for the 12th night in a row.",
+      "date": "Thu, 23 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss",
+      "description": "The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.",
+      "date": "Thu, 23 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
@@ -173,7 +213,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
+      "title": "Iran war live: US strike kills 2 people; Houthis attack 2 Saudi oil tankers",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
       "description": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.",
       "date": "Thu, 23 Jul 2026",
@@ -203,39 +243,9 @@
       "bias": "Medium"
     },
     {
-      "title": "US launches new strikes as Iran warns of regional turmoil",
-      "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
-      "description": "Tehran&#039;s chief negotiator says if Iran&#039;s &#039;security is not ensured, no infrastructure will be safe&#039;.",
-      "date": "Wed, 22 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
-      "description": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
-      "date": "Wed, 22 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump: Iran will ‘pay a big price’ for US troop deaths",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss",
-      "description": "US President Trump warned that Iran will ‘pay a big price’ right before he attended a dignified transfer ceremony.",
-      "date": "Wed, 22 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Houthis attack Saudi tankers in Red Sea as US strikes Iran for 12th consecutive day",
       "link": "https://www.dawn.com/news/2017740/houthis-attack-saudi-tankers-in-red-sea-as-us-strikes-iran-for-12th-consecutive-day",
-      "description": "Hostilities in the Middle East flared as the Yemen’s Houthis said on Thursday that they attacked two Saudi Arabian oil tankers in a military operation, while the United States carried out strikes in Iran for a 12th consecutive night. A Saudi news agency confirmed one of the two v...",
+      "description": "Hostilities in the Middle East flared on Thursday as the Yemen’s Houthis said that they attacked two Saudi Arabian oil tankers in a military operation, while the United States carried out strikes in Iran for a 12th consecutive night. A Saudi news agency confirmed one of the two v...",
       "date": "Thu, 23 Jul 2026",
       "source": "Dawn",
       "region": "me",
@@ -353,6 +363,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US rejects Iran’s claim of control over Strait of Hormuz",
+      "link": "https://tass.com/world/2164013",
+      "description": "Commercial vessels continue to use the strait with US military support, CENTCOM said",
+      "date": "Thu, 23 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US may expand Iran operation within days — media",
+      "link": "https://tass.com/world/2163985",
+      "description": "According to the report, Donald Trump is still considering returning to major combat operations against Iran",
+      "date": "Thu, 23 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Russian diplomat warns of rising risks to shipping in Strait of Hormuz, Red Sea",
       "link": "https://tass.com/politics/2163925",
       "description": "Maria Zakharova says tensions in the Persian Gulf area are escalating",
@@ -366,26 +396,6 @@
       "title": "US completes strikes on Iran — Central Command",
       "link": "https://tass.com/world/2163895",
       "description": "According to the statement, US forces struck maritime capabilities, missile and drone storage facilities, coastal surveillance sites, and air defense assets",
-      "date": "Thu, 23 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US deploying forces to Middle East preparing to expand operations against Iran — WSJ",
-      "link": "https://tass.com/world/2163885",
-      "description": "Sources cited by the newspaper say that special operations forces have been deployed to the Middle East from bases in the US over the past week",
-      "date": "Thu, 23 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Two people killed, 11 wounded following strike on checkpoint at Iran-Iraq border — TV",
-      "link": "https://tass.com/world/2163879",
-      "description": "Local authorities say that the border crossing continues to operate",
       "date": "Thu, 23 Jul 2026",
       "source": "TASS",
       "region": "ru",

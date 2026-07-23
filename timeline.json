@@ -1,17 +1,18 @@
 {
-  "updated": "2026-07-23 05:14 UTC",
-  "total": 15,
+  "updated": "2026-07-23 08:09 UTC",
+  "total": 12,
   "events": [
     {
       "date": "2026-07-23",
       "dateDisplay": "Jul 23, 2026",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "BBC"
+        "BBC",
+        "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-07-22",
@@ -19,9 +20,9 @@
       "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
       "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
       "sources": [
-        "France 24",
         "NPR News",
-        "Al Jazeera"
+        "BBC",
+        "France 24"
       ],
       "sourceCount": 3,
       "type": "fact"
@@ -60,17 +61,6 @@
       "type": "framing"
     },
     {
-      "date": "2026-07-18",
-      "dateDisplay": "Jul 18, 2026",
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
       "date": "2026-07-16",
       "dateDisplay": "Jul 16, 2026",
       "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
@@ -82,43 +72,10 @@
       "type": "framing"
     },
     {
-      "date": "2026-07-15",
-      "dateDisplay": "Jul 15, 2026",
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
       "date": "2026-07-14",
       "dateDisplay": "Jul 14, 2026",
-      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-07-13",
-      "dateDisplay": "Jul 13, 2026",
-      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-07-09",
-      "dateDisplay": "Jul 09, 2026",
-      "title": "Iran faces uncertainty with its new political order",
-      "link": "https://www.bbc.co.uk/news/videos/cd0m837z1mdo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
@@ -163,6 +120,17 @@
       "dateDisplay": "Jul 03, 2026",
       "title": "Iran nuclear and military damage revealed after restricted satellite images released",
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-07-02",
+      "dateDisplay": "Jul 02, 2026",
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
