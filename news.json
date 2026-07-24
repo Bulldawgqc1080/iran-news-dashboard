@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24 07:30 UTC",
-  "total": 44,
+  "updated": "2026-07-24 10:05 UTC",
+  "total": 42,
   "stories": [
     {
       "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
@@ -37,16 +37,6 @@
       "link": "https://www.npr.org/2026/07/23/nx-s1-5903069/former-state-department-official-on-the-implications-of-the-u-s-saudi-nuclear-deal",
       "description": "NPR's Michel Martin talks to Daniel Benaim, a former State Department official who worked on Gulf issues, about the U.S.-Saudi nuclear deal.",
       "date": "Thu, 23 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
-      "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
-      "description": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
-      "date": "Wed, 22 Jul 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -153,6 +143,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Oil prices surge above $100 a barrel for first time since May",
+      "link": "https://www.france24.com/en/oil-prices-surge-above-100-a-barrel-for-first-time-since-may",
+      "description": "Global oil prices have surged once again as tensions in the Middle East continue to escalate. Brent crude has climbed above $100 a barrel for the first time since May. While much of the focus has been on the strategic Strait of Hormuz, shipping through the Red Sea is also coming ...",
+      "date": "Fri, 24 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East: Oil surges as Gulf tensions escalate",
+      "link": "https://www.france24.com/en/middle-east-oil-surges-as-gulf-tensions-escalate",
+      "description": "Yemen’s Iran-backed Houthi rebels say they attacked two Saudi oil tankers in the Red Sea on Thursday, marking their first reported strike on a vessel since announcing a blockade of Saudi-linked shipping through the Bab el-Mandeb Strait earlier this week. The Houthis say the move ...",
+      "date": "Fri, 24 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "🔴 Middle East live: US launches new strikes on Iran as oil prices skyrocket",
       "link": "https://www.france24.com/en/middle-east/20260724-middle-east-live-us-launches-new-strikes-on-iran-as-oil-prices-skyrocket",
       "description": "",
@@ -173,34 +183,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump stuns Saudis by pinning nuclear deal to Israel ties",
-      "link": "https://www.france24.com/en/trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
-      "description": "US President Donald Trump said Thursday that a nuclear deal with Saudi Arabia depends on the kingdom recognizing Israel -- throwing the agreement into turmoil just the day after it was signed. Riyadh has long resisted joining the so-called Abraham Accords with Israel, insisting e...",
-      "date": "Thu, 23 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "US attacks Iran for 13th consecutive night",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
+      "description": "The US military says it has completed its 13th night of strikes against Iran.",
+      "date": "Fri, 24 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Why Iran is targeting Kuwait's desalination plants as part of its war strategy",
-      "link": "https://www.france24.com/en/middle-east/20260723-why-iran-targeting-kuwaits-desalination-plants",
-      "description": "Iranian strikes targeted Kuwait’s desalination and power plants for the fourth consecutive day on Monday. The attacks are putting unprecedented pressure on a Gulf country heavily dependant on desalination for its water supply. Iran is attempting to wage a “psychological war” on a...",
-      "date": "Thu, 23 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says Saudi nuclear deal contingent on Riyadh normalising relations with Israel",
-      "link": "https://www.france24.com/en/middle-east/20260723-trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
-      "description": "President Donald Trump on Thursday set a new condition to a US-Saudi nuclear deal signed the previous day by insisting the agreement was \"totally subject to\" the Gulf kingdom joining the Abraham Accords. Riyadh has resisted normalising relations with Israel, especially after the ...",
-      "date": "Thu, 23 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
+      "link": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss",
+      "description": "The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.",
+      "date": "Fri, 24 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
@@ -256,26 +256,6 @@
       "title": "Ukraine’s Zelenskyy meets with far-right US activist Laura Loomer",
       "link": "https://www.aljazeera.com/news/2026/7/24/ukraine-zelenskyy-meets-with-trump-ally-laura-loomer?traffic_source=rss",
       "description": "Pro-Israel Trump ally sits down with Ukrainian president as she says Russia is helping Iran kill US soldiers.",
-      "date": "Fri, 24 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Mike Waltz pressed over Al Jazeera video during congressional hearing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss",
-      "description": "Ted Lieu challenges UN Ambassador Mike Waltz after playing Al Jazeera footage of Iranian strikes in Jordan.",
-      "date": "Fri, 24 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Analyst: voting against Iran war funding a tough sell for Congress",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss",
-      "description": "The US says it has spent more than $37.5 billion on the Iran war so far.",
       "date": "Fri, 24 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -343,9 +323,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: U.S. military launches new strikes on Iran as clashes escalate over shipping routes",
+      "title": "U.S. strikes Iran and Bahrain; warns of incoming fire as clashes over shipping routes escalate",
+      "link": "https://www.thehindu.com/news/international/us-strikes-iran-and-bahrain-warns-of-incoming-fire-as-clashes-over-shipping-routes-escalate/article71261425.ece",
+      "description": "The Gulf states have come under frequent fire over the past week as the U.S. and Iran exchange escalating strikes in fighting",
+      "date": "Fri, 24 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia war LIVE: Iran's Revolutionary Guards claim strike on U.S. tech giant Amazon’s data centre in Bahrain",
       "link": "https://www.thehindu.com/news/international/west-asia-war-us-strikes-iran-shipping-routes-clashes-strait-of-hormuz-live-updates-july-24-2026/article71260769.ece",
-      "description": "Iranian state media reported explosions along the strait in Qeshm and Bandar Abbas, where two people were reportedly injured",
+      "description": "Iran’s Army said it carried out drone strikes against several American military facilities and bases in Bahrain and Jordan in retaliation for the latest U.S. attacks against the Islamic republic",
+      "date": "Fri, 24 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. announces civilian nuclear deal with Saudi Arabia",
+      "link": "https://www.thehindu.com/news/international/us-announces-civilian-nuclear-deal-with-saudi-arabia/article71255445.ece",
+      "description": "\"Together, these two agreements lay the legal foundation for a decades-long, multi-billion-dollar partnership that advances several priority economic and strategic objectives, including nuclear nonproliferation,\" says U.S. Energy Department",
       "date": "Fri, 24 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -383,29 +383,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war updates: International benchmark oil prices cross $100 per barrel",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-military-strike-us-central-command-strait-of-hormuz-donald-trump-netanyhau-khamenei/article71256441.ece",
-      "description": "Houthis strike tankers in Red Sea; first since Saudi-linked shipping blockade via Bab el-Mandeb",
-      "date": "Fri, 24 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. House of Representatives again passes resolution seeking to halt military action in Iran as some Republicans defect",
-      "link": "https://www.thehindu.com/news/international/us-house-of-representatives-again-passes-resolution-seeking-to-halt-military-action-in-iran-as-some-republicans-defect/article71259865.ece",
-      "description": "The war has had “no clear mission, no strategy, no end goal,” said Washington Rep. Pramila Jayapal, a Democrat who led the resolution on the House floor",
-      "date": "Thu, 23 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US attacks on southwestern Iran kill four people last night",
-      "link": "https://tass.com/world/2164561",
-      "description": "Khuzestan Province’s governor Mohammad Reza Mavalizadeh, five more people were wounded",
+      "title": "Press review: US moves to tweak Ukraine strategy as EU rolls out new Russia sanctions",
+      "link": "https://tass.com/pressreview/2164555",
+      "description": "Top stories from the Russian press on Friday, July 24th",
       "date": "Fri, 24 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -413,9 +393,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran attacks US bases in Bahrain, Jordan with drones — army",
-      "link": "https://tass.com/world/2164531",
-      "description": "Iranian drones attacked fuel storage tanks, warehouses, large hangars with equipment, and deployment areas of the American terrorist army at Isa Air Base in Bahrain",
+      "title": "Iran targets three US military camps in Kuwait with drones — army",
+      "link": "https://tass.com/world/2164641",
+      "description": "The Iranian army delivered strikes on facilities housing military equipment of American terrorists at Camp Udairi, US troop positions at Camp Doha, and enemy deployment areas at Camp Arifjan in Kuwait, using Arash drones",
       "date": "Fri, 24 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -423,9 +403,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Congressional approval of new anti-Russian sanctions not inevitable — lawmaker",
-      "link": "https://tass.com/world/2164521",
-      "description": "Anna Paulina Luna noted that \"Congress members often put forward legislation mainly as messaging, but it doesn't necessarily mean that it's going to be voted on\"",
+      "title": "Iranian foreign minister warns countries against joining US aggression against Iran",
+      "link": "https://tass.com/world/2164599",
+      "description": "According to Abbas Araghchi, Tehran reserves the right to take all necessary measures in self-defense and will consider any country that participates in the aggression as a legitimate target for its armed forces",
       "date": "Fri, 24 Jul 2026",
       "source": "TASS",
       "region": "ru",
@@ -433,9 +413,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran rejects new US ceasefire proposal — NYT",
-      "link": "https://tass.com/world/2164499",
-      "description": "According to the newspaper, Iranian officials said Tehran was not interested in a temporary deal, which will leave the Strait of Hormuz issue unsolved",
+      "title": "Moscow remains supporter of continued Iran-US dialogue, deputy foreign minister says",
+      "link": "https://tass.com/politics/2164589",
+      "description": "Andrey Rudenko said Russia views the recent US strikes on Iran as a unilateral violation of the recently concluded memorandum of understanding",
       "date": "Fri, 24 Jul 2026",
       "source": "TASS",
       "region": "ru",
