@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24 20:09 UTC",
-  "total": 35,
+  "updated": "2026-07-24 21:54 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
@@ -13,7 +13,7 @@
       "bias": "Low"
     },
     {
-      "title": "Trump threatens a major escalation in Iran as the war nears the 5-month mark",
+      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
       "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
       "description": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
       "date": "Fri, 24 Jul 2026",
@@ -27,26 +27,6 @@
       "link": "https://www.npr.org/2026/07/24/nx-s1-5904543/how-the-houthis-blockade-of-the-red-sea-could-affect-the-global-economy",
       "description": "NPR's A Martínez asks former U.S. deputy national security adviser Jon Finer what the blockade of the Red Sea by Houthi rebels means for the global economy.",
       "date": "Fri, 24 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
-      "link": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
-      "description": "The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death.",
-      "date": "Thu, 23 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
-      "description": "After a Saudi nuclear power deal raised alarm in Israel, President Trump announced online that the arrangement is subject to the kingdom normalizing relations with Israel through the Abraham Accords.",
-      "date": "Thu, 23 Jul 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -153,6 +133,76 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US pummels Iran as Tehran targets regional bases stationing US forces",
+      "link": "https://www.france24.com/en/middle-east/20260724-us-pummels-iranian-sites-tehran-targets-regional-bases-stationing-us-forces",
+      "description": "Iran on Friday said it carried out attacks targeting US military assets and bases with US forces in Bahrain, Jordan and Kuwait in retaliation for Washington's latest strikes across the country. The US meanwhile bombarded sites across Iran as the conflict escalated, leading US emb...",
+      "date": "Fri, 24 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Arrests, denials and missing images: Gulf states’ response to Iranian strikes",
+      "link": "https://www.france24.com/en/middle-east/20260724-iranian-strikes-gulf-states-arrests-denials-satellite-investigation",
+      "description": "Since the conflict between Iran and the United States began on February 28, more than 1,000 people have been arrested for attempting to document Iranian strikes in Jordan and Gulf countries allied with Washington. The governments of these countries have sought to deter the circul...",
+      "date": "Fri, 24 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran warns countries aiding US attack",
+      "link": "https://www.france24.com/en/iran-warns-countries-aiding-us-attack",
+      "description": "Middle East tensions are once again driving up global oil prices, with Brent crude climbing above $100 a barrel for the first time since May. While much of the focus has been on the strategic Strait of Hormuz, the alternative shipping route through the Red Sea is becoming increas...",
+      "date": "Fri, 24 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Meloni's Italy: Fortress Europe?",
+      "link": "https://www.france24.com/en/tv-shows/fact-or-fake/20260724-meloni-s-italy-fortress-europe",
+      "description": "Migration was at the heart of Giorgia Meloni's successful 2022 election campaign. Promising a tougher approach to irregular migration helped propel her to power, but what has her government achieved since then? One of its flagship policies was the creation of a controversial migr...",
+      "date": "Fri, 24 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
+      "description": "Iranian Foreign Minister Abbas Araghchi said Iran does not fear threats or &#039;succumb to pressures&#039;.",
+      "date": "Fri, 24 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
+      "link": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
+      "description": "Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.",
+      "date": "Fri, 24 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
+      "link": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
+      "description": "Houthi-controlled foreign ministry warns that the attack will spark further escalation in the Yemeni conflict.",
+      "date": "Fri, 24 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
       "link": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
       "description": "Omani delegation in Iran to discuss managing traffic in the strait, which has become the main focus of the US conflict.",
@@ -166,26 +216,6 @@
       "title": "Trump’s Israel condition on Saudi nuclear deal",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss",
       "description": "Trump’s Israel condition on Saudi nuclear deal",
-      "date": "Fri, 24 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
-      "link": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
-      "description": "Visit will be Netanyahu&#039;s seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
-      "date": "Fri, 24 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘I lost my home twice’: Sudanese mothers caught between two wars",
-      "link": "https://www.aljazeera.com/features/longform/2026/7/24/i-lost-my-home-twice-sudanese-mothers-caught-between-two-wars?traffic_source=rss",
-      "description": "Sudanese mothers who fled one war now face another, struggling to rebuild their lives after displacement in Lebanon.",
       "date": "Fri, 24 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -313,39 +343,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US strikes tanker over alleged Iranian gas cargo — Iran’s state broadcaster",
+      "link": "https://tass.com/world/2165077",
+      "description": "Two crew members were killed in the attack",
+      "date": "Fri, 24 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Houthis say Saudi Arabia attacked telecom facilities in Hodeida",
+      "link": "https://tass.com/world/2165075",
+      "description": "According to the agency, the strikes also targeted the Yemeni island Kamaran in the Red Sea",
+      "date": "Fri, 24 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says he trusts Putin, Xi that Russia, China are not supplying weapons to Iran",
+      "link": "https://tass.com/world/2165073",
+      "description": "Russian Foreign Minister Sergey Lavrov said after ASEAN events in the Philippines on July 22 that Moscow wanted the conflict in the Strait of Hormuz to end and was not supplying weapons to Iran.",
+      "date": "Fri, 24 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US extends sanctions exemption for sale of Lukoil International GmbH until August 22",
       "link": "https://tass.com/economy/2165045",
       "description": "Meanwhile, the general license does not authorize the transfer of funds to any person or to any account in Russia, according to the document",
-      "date": "Fri, 24 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russian ambassador to Turkey slams West’s anti-Russian sanctions as illegal",
-      "link": "https://tass.com/politics/2165043",
-      "description": "The imposition of sanctions by a group of countries or individual states violates international law, Sergey Vershinin said",
-      "date": "Fri, 24 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Europe faces contraction in GDP if Strait of Hormuz does not open by October — Bloomberg",
-      "link": "https://tass.com/economy/2165041",
-      "description": "According to the agency, Qatar plans to soon notify European customers that the force majeure situation regarding gas exports will persist until mid-October",
-      "date": "Fri, 24 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "China adds 14 EU companies to export control list in response to 21st sanctions package",
-      "link": "https://tass.com/economy/2165037",
-      "description": "China’s countermeasures will affect the companies Lafert S.p.A. and Garnet S.r.l. (Italy), Sindlhauser Materials GmbH, Rheinmetall AG, and Antraco Chemie-Handelsgesellschaft (Germany) and others",
       "date": "Fri, 24 Jul 2026",
       "source": "TASS",
       "region": "ru",
