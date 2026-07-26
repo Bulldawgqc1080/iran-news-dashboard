@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26 01:44 UTC",
-  "total": 35,
+  "updated": "2026-07-26 05:19 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
@@ -133,14 +133,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UNESCO adds West Bank site, Lebanese castles to World Heritage List despite Israeli opposition",
-      "link": "https://www.france24.com/en/middle-east/20260725-unesco-adds-west-bank-site-lebanese-castles-to-world-heritage-list-despite-israeli-opposition",
-      "description": "UNESCO added a major archaeological site in the West Bank and a group of historic castles in southern Lebanon to its World Heritage List, defying Israeli objections and reigniting a long-running dispute over the intersection of cultural heritage and politics in the region.",
-      "date": "Sat, 25 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+      "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
+      "description": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.",
+      "date": "Sun, 26 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US military disables tanker accused of breaking the Iran blockade",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
+      "description": "The US military has released footage it says shows forces boarding one tanker.",
+      "date": "Sun, 26 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
+      "description": "Iran has condemned a Ukrainian attack on one of its commercial vessels.",
+      "date": "Sun, 26 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
@@ -153,7 +173,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+      "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
       "description": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
       "date": "Sun, 26 Jul 2026",
@@ -183,14 +203,34 @@
       "bias": "Medium"
     },
     {
-      "title": "War on Iran: Phase II: Day 14",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
-      "description": "War on Iran: Phase II: Day 14",
-      "date": "Sat, 25 Jul 2026",
-      "source": "Al Jazeera",
+      "title": "On first visit to Syria in 17 years, UN chief meets Sharaa",
+      "link": "https://www.dawn.com/news/2018379/on-first-visit-to-syria-in-17-years-un-chief-meets-sharaa",
+      "description": "Syria’s President Ahmed al-Sharaa receives UN Secretary General Antonio Guterres at presidential palace.—AFP • Guterres pledges support for Syria’s reconstruction; backs Syria’s request for EU support; calls situation in Golan Heights ‘totally unacceptable’• Damascus demands Isra...",
+      "date": "Sun, 26 Jul 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Typhoon forces evacuation of 340,000 in China",
+      "link": "https://www.dawn.com/news/2018402/typhoon-forces-evacuation-of-340000-in-china",
+      "description": "BEIJING: Authorities have evacuated more than 340,000 people and suspended work and rail services as Typhoon Noul approaches southern China, with flight cancellations announced in the financial hub of Hong Kong. The typhoon is forecast to make landfall along the coast between She...",
+      "date": "Sun, 26 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Elon Musk’s firm eyes $20 billion valuation",
+      "link": "https://www.dawn.com/news/2018386/elon-musks-firm-eyes-20-billion-valuation",
+      "description": "WASHINGTON: Elon Musk’s tunnel construction startup, the Boring Company, is in talks to raise new funding that would value it at about $20 billion, the Wall Street Journal said, citing people familiar with the talks. Musk, whose business interests inclu­­de Tesla, SpaceX and Neur...",
+      "date": "Sun, 26 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Houthis claim strike on Saudi Arabia as Middle East conflict deepens",
@@ -223,40 +263,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthis say they don't seek to close key Bab al-Mandeb Strait",
-      "link": "https://www.dawn.com/news/2018255/houthis-say-they-dont-seek-to-close-key-bab-al-mandeb-strait",
-      "description": "https://www.dawn.com/news/2018198",
-      "date": "Sat, 25 Jul 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Unesco places Lebanese castle, West Bank site on ‘danger’ list",
-      "link": "https://www.dawn.com/news/2018222/unesco-places-lebanese-castle-west-bank-site-on-danger-list",
-      "description": "PARIS: The UN’s cultural agency on Friday placed a Lebanese castle recently seized by Israeli forces and an archaeological site in the occupied West Bank on its list of World Heritage in Danger. Beaufort Castle, a Crusader fortress also known as Qalaat al-Shakif, was captured by ...",
-      "date": "Fri, 24 Jul 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan exploring another bid to mend US-Iran fences ‘with China’s blessing’",
-      "link": "https://www.dawn.com/news/2018253/pakistan-exploring-another-bid-to-mend-us-iran-fences-with-chinas-blessing",
-      "description": "https://www.dawn.com/news/2018209",
-      "date": "Sat, 25 Jul 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pickaxe Mountain | Iran’s natural fortress",
-      "link": "https://www.thehindu.com/news/international/pickaxe-mountain-irans-natural-fortress/article71267197.ece",
-      "description": "The mountain range that U.S. President Donald Trump has threatened to strike is composed of volcanic rocks that could complicate efforts to penetrate deeply buried facilities",
-      "date": "Sat, 25 Jul 2026",
+      "title": "West Asia war LIVE: U.S. naval blockade against Iran remains in 'full effect' even as the two sides pause airstrikes",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-paused-donald-trump-gulf-countries-strait-of-hormuz-live-updates-july-26-2026/article71268545.ece",
+      "description": "Pause is \"positive signal\" towards de-escalation, regional experts say; President Trump keeps up the threats",
+      "date": "Sun, 26 Jul 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -266,6 +276,16 @@
       "title": "West Asia war updates: Iran Guards say stopped four ships trying to transit Hormuz strait",
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-saudi-arabia-houthis-attack-gulf-states-strait-of-hormuz-live-updates-july-25-2026/article71265151.ece",
       "description": "U.S. President Trump describes negotiations with Iran as “by far the most serious that we’ve seen”",
+      "date": "Sun, 26 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pickaxe Mountain | Iran’s natural fortress",
+      "link": "https://www.thehindu.com/news/international/pickaxe-mountain-irans-natural-fortress/article71267197.ece",
+      "description": "The mountain range that U.S. President Donald Trump has threatened to strike is composed of volcanic rocks that could complicate efforts to penetrate deeply buried facilities",
       "date": "Sat, 25 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,14 +323,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "President Donald Trump says Israeli PM Netanyahu to visit U.S. next week",
-      "link": "https://www.thehindu.com/news/international/president-donald-trump-says-israeli-pm-netanyahu-to-visit-us-next-week/article71265315.ece",
-      "description": "The meeting between U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu in Washington comes as the U.S.-Israel war with Iran enters its fifth month",
-      "date": "Sat, 25 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Vance worried about possible escalation of US-Iran conflict — CNN",
+      "link": "https://tass.com/world/2165421",
+      "description": "A Pentagon source confirmed to the broadcaster that the operation had been suspended, while the reason for the pause is unclear",
+      "date": "Sun, 26 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US-Iran conflict may drag on for months — WSJ",
@@ -336,16 +356,6 @@
       "title": "Thousands of US troops may be involved in operation to seize Iranian uranium — paper",
       "link": "https://tass.com/world/2165347",
       "description": "According to sources cited by New York Post, the troops will storm the nuclear sites and create a secure perimeter around them, while a small team of special operators would conduct the actual retrieval",
-      "date": "Sat, 25 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran killed over 200 US servicemen since ceasefire ended — IRGC",
-      "link": "https://tass.com/world/2165341",
-      "description": "Spokesman Hossein Mohebbi dismissed all US reports about its casualties as false",
       "date": "Sat, 25 Jul 2026",
       "source": "TASS",
       "region": "ru",
