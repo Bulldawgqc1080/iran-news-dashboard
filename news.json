@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-26 16:44 UTC",
+  "updated": "2026-07-26 17:52 UTC",
   "total": 32,
   "stories": [
     {
-      "title": "Lebanese displaced by war turn to satellites to check their homes",
-      "link": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
-      "description": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
+      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+      "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+      "description": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
       "date": "Sun, 26 Jul 2026",
       "source": "NPR News",
       "region": "us",
@@ -13,10 +13,10 @@
       "bias": "Low"
     },
     {
-      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-      "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-      "description": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
-      "date": "Fri, 24 Jul 2026",
+      "title": "Lebanese displaced by war turn to satellites to check their homes",
+      "link": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "description": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
+      "date": "Sun, 26 Jul 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -123,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+      "link": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
+      "description": "Israel is violating agreements by shelling &#039;pilot villages&#039;, Lebanon&#039;s army asserts.",
+      "date": "Sun, 26 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Israel and the cost paradox of the Iran war",
       "link": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
       "description": "Israel instigated the war on Iran and yet it has borne few of its costs.",
@@ -146,16 +156,6 @@
       "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
       "link": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss",
       "description": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon.",
-      "date": "Sun, 26 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran’s army issues warning ahead of Netanyahu’s US visit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
-      "description": "Iran says it has stopped retaliatory operations in the Gulf, but warns the war could expand if US strikes continue.",
       "date": "Sun, 26 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -223,6 +223,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran halts ‘retaliatory strikes’ after lull in U.S. attacks",
+      "link": "https://www.thehindu.com/news/international/iran-halts-retaliatory-strikes-after-lull-in-us-attacks/article71270262.ece",
+      "description": "Iran reports ships are being hit by mines it had laid in the Strait of Hormuz; says talks with Oman over control of the Strait are at an advanced stage; Houthis claim to have downed a Saudi drone",
+      "date": "Sun, 26 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran says progress in Oman talks on Hormuz Strait management",
       "link": "https://www.thehindu.com/news/international/iran-says-progress-in-oman-talks-on-hormuz-strait-management/article71270220.ece",
       "description": "Foreign Ministry spokesman Esmaeil Baqaei said several rounds of negotiations were held in the Iranian capital, Tehran, on Friday (July 24) and Saturday (July 25) between Iranian and Omani deputy Foreign Ministers",
@@ -267,16 +277,6 @@
       "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-saudi-arabia-houthis-attack-gulf-states-strait-of-hormuz-live-updates-july-25-2026/article71265151.ece",
       "description": "U.S. President Trump describes negotiations with Iran as “by far the most serious that we’ve seen”",
       "date": "Sun, 26 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Houthis fire missiles, drones at Saudi Arabia in response to strikes on Yemeni city",
-      "link": "https://www.thehindu.com/news/international/houthis-fire-missiles-drones-at-saudi-arabia-in-response-to-strikes-on-yemeni-city/article71267142.ece",
-      "description": "",
-      "date": "Sat, 25 Jul 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
