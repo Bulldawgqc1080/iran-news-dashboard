@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27 21:00 UTC",
-  "total": 40,
+  "updated": "2026-07-27 22:49 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
@@ -41,6 +41,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+      "date": "Mon, 27 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Oil price dives as US and Iran pause attacks",
@@ -133,11 +143,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
-      "date": "Thu, 23 Jul 2026",
-      "source": "BBC",
+      "title": "Yemen says ready for Houthi escalation after rebels target Saudi Arabia",
+      "link": "https://www.france24.com/en/middle-east/20260727-yemen-says-ready-for-houthi-escalation-after-rebels-target-saudi-arabia",
+      "description": "The warning comes as the Houthis step up attacks on Saudi oil infrastructure and impose a maritime blockade, raising fears that the Iran-backed group's campaign could open a new front in the wider regional conflict and threaten shipping through the Red Sea.",
+      "date": "Mon, 27 Jul 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -161,6 +171,26 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
+      "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
+      "description": "Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.",
+      "date": "Mon, 27 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "description": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
+      "date": "Mon, 27 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
@@ -216,26 +246,6 @@
       "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
       "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
       "description": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
-      "date": "Mon, 27 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "War on Iran: Phase II: Day 16",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
-      "description": "The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.",
-      "date": "Mon, 27 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran: Currently no negotiations with the US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss",
-      "description": "Iranian Foreign Ministry Spokesperson, Esmaeil Baghaei, said on Monday that Iran is not seeking negotiations with US.",
       "date": "Mon, 27 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -363,6 +373,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Ship traffic in Bab el-Mandeb Strait down by 56% following Houthi embargo — newspaper",
+      "link": "https://tass.com/economy/2166177",
+      "description": "According to the newspaper, on July 26, only 15 bulk cargo ships passed through the strait compared to 34 on July 20",
+      "date": "Mon, 27 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says he does not believe in Russia providing Iran with intel, but will ask Putin",
+      "link": "https://tass.com/world/2166169",
+      "description": "However, the US leader opined that contacts of this kind between Moscow and Tehran are potentially possible",
+      "date": "Mon, 27 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Europe’s approaching dangerous point, sanctions, new ideas of Ukraine: Russian diplomat",
       "link": "https://tass.com/politics/2166139",
       "description": "According to Maria Zakharova, Russia will soon announce its response to the 21st package of the European Union’s sanctions",
@@ -376,26 +406,6 @@
       "title": "Sanctions targeting Russia's energy partnerships threaten global markets — MFA",
       "link": "https://tass.com/politics/2166135",
       "description": "Maria Zakharova noted that after all the sanctions measures adopted, Western countries should not \"appear with long faces at global forums and talk about how they pity poor people who are undernourished, sleep-deprived, overworked, and suffering\"",
-      "date": "Mon, 27 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russian MFA slams EU sanctions against Medinsky as ‘vile, cowardly’",
-      "link": "https://tass.com/politics/2166131",
-      "description": "Maria Zakharova noted that the EU's decision had been driven by Vladimir Medinsky's efforts to restore the memory of the Great Patriotic War",
-      "date": "Mon, 27 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Sanctions against Russia starting to hit European economy, social sphere hard — Kremlin",
-      "link": "https://tass.com/politics/2166125",
-      "description": "Speaking about the 21st package of sanctions against Russia, Dmitry Peskov emphasized that the EU's options for imposing restrictions are increasingly limited",
       "date": "Mon, 27 Jul 2026",
       "source": "TASS",
       "region": "ru",
