@@ -1,22 +1,12 @@
 {
-  "updated": "2026-07-28 19:04 UTC",
-  "total": 36,
+  "updated": "2026-07-28 20:57 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
       "link": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
       "description": "The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.",
       "date": "Tue, 28 Jul 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-      "link": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
-      "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-      "date": "Mon, 27 Jul 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -123,6 +113,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions",
+      "link": "https://www.france24.com/en/middle-east/20260728-oman-presents-iran-with-gulf-backed-plan-to-ease-strait-of-hormuz-tensions",
+      "description": "Oman has presented Iran with a Gulf-backed proposal to jointly manage the Strait of Hormuz, including a system of voluntary fees for ships using the strategic waterway, according to a Gulf source and a Western diplomat. The plan aims to provide a framework for restoring stable sh...",
+      "date": "Tue, 28 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
       "link": "https://www.france24.com/en/for-the-first-time-since-iran-war-trump-and-netanyahu-meet-amid-fraying-ties",
       "description": "Benjamin Netanyahu is set to visit the White House once again on July 28. But the Israeli Prime Minister is likely to get a cooler welcome in Washington than on previous trips. The US's full-scale air war on Iran - which Netanyahu reportedly had a major role in convincing Donald ...",
@@ -143,14 +143,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Trump Needs a Way Out of This War': Michel Yakovleff explains 'charade' over US-Iran negotiations",
-      "link": "https://www.france24.com/en/trump-needs-a-way-out-of-this-war-general-yakovlev-explains-charade-over-us-iran-negotiations",
-      "description": "Eve Irvine is pleased to welcome General Michel Yakovleff, Professor at Sciences-Po and Former Vice-Chief of Staff at NATO's Supreme Headquarters Allied Powers Europe (Shape).. He presents a strategic rather than tactical reading of the current lull in the US-Iran conflict. He ar...",
+      "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+      "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+      "description": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
       "date": "Tue, 28 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
@@ -185,17 +185,7 @@
     {
       "title": "Trump expresses frustration with Netanyahu before White House meeting",
       "link": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
-      "description": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
-      "date": "Tue, 28 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump says ‘good chance’ of progress in Iran talks. What we know",
-      "link": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
-      "description": "Negotiators are trying to break the deadlock over transit fees and management of the Strait of Hormuz.",
+      "description": "Israeli leader hails &#039;excellent&#039; talk as Trump admin offers few details on Oval Office meeting amid Iran war.",
       "date": "Tue, 28 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,6 +253,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump and Netanyahu meet for the first time since launching the Iran war",
+      "link": "https://www.thehindu.com/news/international/trump-and-netanyahu-meet-for-the-first-time-since-launching-the-iran-war/article71278622.ece",
+      "description": "The closed-door meeting lasted nearly an hour and a half and was “positive and productive,\" according to White House press secretary Karoline Leavitt",
+      "date": "Tue, 28 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
       "link": "https://www.thehindu.com/news/international/oman-presents-iran-with-gulf-backed-plan-for-voluntary-fees-to-use-hormuz/article71278494.ece",
       "description": "",
@@ -313,14 +313,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Have the Houthis blocked the Red Sea to marine traffic? | Explained",
-      "link": "https://www.thehindu.com/news/international/have-the-houthis-blocked-the-red-sea-to-marine-traffic-explained/article71275700.ece",
-      "description": "On July 26, the Houthis attacked the Aramco refinery in Jizan and export facilities at Yanbu, both considered vital installations.",
+      "title": "18 vessels redirected by US military since resumption of blockade of Iran — CENTCOM",
+      "link": "https://tass.com/world/2166589",
+      "description": "More than 20 US ships are currently operating in the Middle East to enforce the blockade against Iran",
       "date": "Tue, 28 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Houthis strike Saudi tanker NCC Ghazal with missile",
@@ -346,16 +346,6 @@
       "title": "Trump-Netanyahu talks focused on Iran — TV",
       "link": "https://tass.com/world/2166561",
       "description": "According to the TV channel, the meeting was attended by practically all senior officials from the Washington administration",
-      "date": "Tue, 28 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Ukraine’s attack on Iranian ship in Caspian Sea expands geography of terror — diplomat",
-      "link": "https://tass.com/politics/2166535",
-      "description": "Maria Zakharova stressed that the Caspian Sea should be free from any military incidents and remain a zone of peace, good neighborliness and cooperation",
       "date": "Tue, 28 Jul 2026",
       "source": "TASS",
       "region": "ru",
