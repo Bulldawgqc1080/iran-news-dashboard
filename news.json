@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 04:57 UTC",
+  "updated": "2026-07-29 07:39 UTC",
   "total": 35,
   "stories": [
     {
@@ -11,6 +11,26 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militia",
+      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "description": "US Central Command says the proxy group launched attacks against US bases and Saudi energy infrastructure.",
+      "date": "Wed, 29 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "description": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
+      "date": "Wed, 29 Jul 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump says Iran war talks taking place during lull in strikes",
@@ -43,9 +63,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oil price dives as US and Iran pause attacks",
-      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
       "date": "Mon, 27 Jul 2026",
       "source": "BBC",
       "region": "eu",
@@ -53,9 +73,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-      "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+      "title": "Oil price dives as US and Iran pause attacks",
+      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
       "date": "Mon, 27 Jul 2026",
       "source": "BBC",
       "region": "eu",
@@ -93,27 +113,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "description": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-      "date": "Thu, 23 Jul 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
-      "date": "Wed, 22 Jul 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Live: US and Saudi Arabia launch strikes on Iraq, target Iran allies",
+      "title": "Middle East live: US and Saudi Arabia launch strikes on Iraq, target Iran allies",
       "link": "https://www.france24.com/en/middle-east/20260729-live-us-and-saudi-arabia-launch-strikes-on-iraq-target-iran-allies",
       "description": "US and Saudi warplanes carried out strikes on Tuesday against Iran-backed militants in Iraq who launched more than two dozen drone attacks in recent days, the US military said. Meanwhile, Iran's Revolutionary Guards said they struck and halted three oil tankers in the Strait of H...",
       "date": "Wed, 29 Jul 2026",
@@ -133,6 +133,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
+      "description": "Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.",
+      "date": "Wed, 29 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump meets Netanyahu for a record seventh White House visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
+      "description": "Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran.",
+      "date": "Wed, 29 Jul 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
       "description": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
@@ -143,17 +163,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-      "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
-      "description": "Riyadh says its targeted attacks were done in coordination with the US military.",
-      "date": "Wed, 29 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+      "title": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
       "description": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
       "date": "Wed, 29 Jul 2026",
@@ -183,14 +193,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-      "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
-      "description": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
-      "date": "Tue, 28 Jul 2026",
-      "source": "Al Jazeera",
+      "title": "US, Saudi forces strike 'Iran-aligned terrorists' in Iraq in retaliation for recent attacks",
+      "link": "https://www.dawn.com/news/2019202/us-saudi-forces-strike-iran-aligned-terrorists-in-iraq-in-retaliation-for-recent-attacks",
+      "description": "US and Saudi Arabian forces said they struck “Iran-aligned terrorists” in Iraq on Wednesday in retaliation for recent attacks, following a short pause in Iran war hostilities. The combined air operation came as President Donald Trump met with his Israeli counterpart Benjamin Neta...",
+      "date": "Wed, 29 Jul 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Absolute biodiversity massacre': NGOs say Trump family project in Albania has already caused 'irreparable' damage",
+      "link": "https://www.dawn.com/news/2019207/absolute-biodiversity-massacre-ngos-say-trump-family-project-in-albania-has-already-caused-irreparable-damage",
+      "description": "Preliminary work on a vast hotel project linked to the Trump family has already caused irreparable damage to a once pristine stretch of Albania’s coast, scientists and activists say. Satellite images obtained by AFP show that during a 25-day period in May, a road was cleared, an ...",
+      "date": "Wed, 29 Jul 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "China asks Houthis to allow its ships safe passage through Red Sea",
@@ -233,29 +253,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Over 600 US troops wounded since Iran war began",
-      "link": "https://www.dawn.com/news/2018883/over-600-us-troops-wounded-since-iran-war-began",
-      "description": "AT least 624 US military service members have been wounded since President Donald Trump ordered strikes against Iran in February, according to the Pentagon’s most recent update on 25 July, BBC News reported. Among those wounded, 417 are attributed to Operation Epic Fury, while 20...",
-      "date": "Tue, 28 Jul 2026",
-      "source": "Dawn",
+      "title": "U.S. Senate advances sanctions bill targeting Russian-Iranian oil buyers, including India and China",
+      "link": "https://www.thehindu.com/news/international/us-senate-advances-sanctions-bill-targeting-russian-iranian-oil-buyers-including-india-and-china/article71280304.ece",
+      "description": "The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 would impose primary and secondary sanctions against Russia and actors supporting its war in Ukraine",
+      "date": "Wed, 29 Jul 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Lull in Iran, US fighting ‘achieved by fresh round of diplomacy’ by Pakistan and other mediators",
-      "link": "https://www.dawn.com/news/2018692/lull-in-iran-us-fighting-achieved-by-fresh-round-of-diplomacy-by-pakistan-and-other-mediators",
-      "description": "https://www.dawn.com/news/2018664",
-      "date": "Mon, 27 Jul 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: U.S. military says American and Saudi forces struck sites used by Iran-backed militias in Iraq",
+      "title": "West Asia war LIVE: U.S., Saudi forces strike Iran-backed groups in Iraq",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-july-29-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71279588.ece",
-      "description": "Iraqi Prime Minister Ali al-Zaidi ordered security agencies to investigate after the Saudis alleged a similar attack on Monday.",
+      "description": "Iran has ruled out Oman's proposal for regional joint management of the Strait ​of Hormuz",
+      "date": "Wed, 29 Jul 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Why Iran insists on controlling the Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/why-iran-insists-on-controlling-the-strait-of-hormuz/article71216413.ece",
+      "description": "In the MoU, the U.S. has made several concessions to Iran. It lifted its maritime blockade, issued a sanctions waiver for Iranian crude and other petroleum products and also promised that Iran would get access to some of its frozen funds",
       "date": "Wed, 29 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -286,26 +306,6 @@
       "title": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
       "link": "https://www.thehindu.com/news/international/oman-presents-iran-with-gulf-backed-plan-for-voluntary-fees-to-use-hormuz/article71278494.ece",
       "description": "",
-      "date": "Tue, 28 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel says U.S. bombers used its bases to strike Iran",
-      "link": "https://www.thehindu.com/news/international/israel-says-us-bombers-used-its-bases-to-strike-iran/article71278471.ece",
-      "description": "The fact is that, at the moment — and this could change within an hour -- the Iranians are firing at everything in the region except one country: the State of Israel, said Israeli Defence Minister Israel Katz",
-      "date": "Tue, 28 Jul 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "‘We are not anyone’s proxy force’: Iranian Kurdish party",
-      "link": "https://www.thehindu.com/news/international/we-are-not-anyones-proxy-force-iranian-kurdish-party/article71276653.ece",
-      "description": "In an email interview with The Hindu, Rivar Abdanan, a spokesperson of PJAK and a member of the party’s Leadership Council, said PJAK would enter the war only if the ‘existence of the Kurdish people comes under threat’",
       "date": "Tue, 28 Jul 2026",
       "source": "The Hindu",
       "region": "me",
