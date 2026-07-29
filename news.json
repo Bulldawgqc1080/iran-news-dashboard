@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-29 20:06 UTC",
+  "updated": "2026-07-29 21:45 UTC",
   "total": 39,
   "stories": [
+    {
+      "title": "Latest Mideast strikes between U.S. and Iran draw Saudi Arabia into conflict",
+      "link": "https://www.npr.org/2026/07/29/nx-s1-5911806/latest-mideast-strikes-between-u-s-and-iran-draw-saudi-arabia-into-conflict",
+      "description": "The U.S. and Saudi Arabia struck Iran-backed militias in Iraq after they launched attacks.",
+      "date": "Wed, 29 Jul 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
       "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
@@ -173,14 +183,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UK looks to build naval coalition to secure shipping in Strait of Hormuz",
-      "link": "https://www.france24.com/en/uk-looks-to-build-naval-coalition-to-secure-shipping-in-strait-of-hormuz",
-      "description": "US and Saudi forces said they struck an Iraqi militant alliance on July 29, as the Middle East war expands beyond its main focus in Iran to involve the Islamic republic's proxies. The strikes follow a short lull in direct US attacks on targets in Iran, with Tehran's allies in Yem...",
+      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
+      "description": "US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases",
       "date": "Wed, 29 Jul 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran pushes back against US as regional attacks heat up",
@@ -216,16 +226,6 @@
       "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
       "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
       "description": "US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.",
-      "date": "Wed, 29 Jul 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
-      "description": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.",
       "date": "Wed, 29 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -293,9 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen government says Houthis planning to impose fees for Red Sea transit",
-      "link": "https://www.thehindu.com/news/international/yemen-government-says-houthis-planning-to-impose-fees-for-red-sea-transit/article71283059.ece",
-      "description": "The narrow maritime artery has been a critical waterway for delivering vast quantities of Saudi crude to the international market, after energy exports were largely choked off by fighting in the Strait of Hormuz",
+      "title": "West Asia war LIVE: Trump says U.S. to hit Iran hard",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-july-29-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71279588.ece",
+      "description": "Iran has ruled out Oman's proposal for regional joint management of the Strait ​of Hormuz",
       "date": "Wed, 29 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,9 +303,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war updates: Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-july-29-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71279588.ece",
-      "description": "Iran has ruled out Oman's proposal for regional joint management of the Strait ​of Hormuz",
+      "title": "Yemen government says Houthis planning to impose fees for Red Sea transit",
+      "link": "https://www.thehindu.com/news/international/yemen-government-says-houthis-planning-to-impose-fees-for-red-sea-transit/article71283059.ece",
+      "description": "The narrow maritime artery has been a critical waterway for delivering vast quantities of Saudi crude to the international market, after energy exports were largely choked off by fighting in the Strait of Hormuz",
       "date": "Wed, 29 Jul 2026",
       "source": "The Hindu",
       "region": "me",
@@ -353,39 +353,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump says no plans to end Iran war because of strikes on US bases",
+      "link": "https://tass.com/world/2167007",
+      "description": "The US president added he would \"always hit back\"",
+      "date": "Wed, 29 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US to be very disappointed if China supplied weapons to Iran — Trump",
+      "link": "https://tass.com/world/2167005",
+      "description": "According to the US president, Chinese President Xi Jinping promised in May not to provide military assistance to Iran",
+      "date": "Wed, 29 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump supports bill on sanctions against Russia and Iran",
+      "link": "https://tass.com/world/2166999",
+      "description": "The US president added he did not see the need for the House of Representatives to interrupt the parliamentary recess in August to review the sanctions bill promptly",
+      "date": "Wed, 29 Jul 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Gulf monarchies likely to resume dialogue with Iran after conflict — expert",
       "link": "https://tass.com/world/2166991",
       "description": "Mehran Kamrava did not rule out that Iran and Oman could \"come to some sort of mutual understanding over the Strait of Hormuz whereby they would jointly exercise administrative control over the strait\"",
-      "date": "Wed, 29 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US redirected 20 vessels since resumption of naval blockade of Iran — CENTCOM",
-      "link": "https://tass.com/world/2166989",
-      "description": "CENTCOM has disabled two vessels, the Central Command of the US Armed Forces siad",
-      "date": "Wed, 29 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Expert says Gulf monarchies seek to diversify defense ties as US proves unreliable",
-      "link": "https://tass.com/world/2166985",
-      "description": "The current conflict has proven that America’s national security concerns, not the security concerns of the Persian Gulf states, are its primary concerns, Mehran Kamrava said",
-      "date": "Wed, 29 Jul 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel to stay in Lebanon, ready to expand security zone if necessary — General Staff",
-      "link": "https://tass.com/world/2166983",
-      "description": "Eyal Zamir stressed that the IDF would not leave the security zone until long-term security is ensured",
       "date": "Wed, 29 Jul 2026",
       "source": "TASS",
       "region": "ru",
