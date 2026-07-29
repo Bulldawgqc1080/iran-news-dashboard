@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29 10:27 UTC",
-  "total": 15,
+  "updated": "2026-07-29 12:54 UTC",
+  "total": 14,
   "events": [
     {
       "date": "2026-07-29",
@@ -8,23 +8,12 @@
       "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
       "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
       "sources": [
+        "BBC",
         "Al Jazeera",
-        "NPR News",
-        "BBC"
+        "NPR News"
       ],
       "sourceCount": 3,
       "type": "fact"
-    },
-    {
-      "date": "2026-07-28",
-      "dateDisplay": "Jul 28, 2026",
-      "title": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions",
-      "link": "https://www.france24.com/en/middle-east/20260728-oman-presents-iran-with-gulf-backed-plan-to-ease-strait-of-hormuz-tensions",
-      "sources": [
-        "France 24"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
     },
     {
       "date": "2026-07-27",
@@ -104,17 +93,6 @@
       "type": "framing"
     },
     {
-      "date": "2026-07-16",
-      "dateDisplay": "Jul 16, 2026",
-      "title": "Iranian drone strikes warehouse in Kuwait",
-      "link": "https://www.bbc.co.uk/news/videos/cvg7g2v1j9do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
       "date": "2026-07-14",
       "dateDisplay": "Jul 14, 2026",
       "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
@@ -163,6 +141,17 @@
       "dateDisplay": "Jul 03, 2026",
       "title": "Iran nuclear and military damage revealed after restricted satellite images released",
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-07-02",
+      "dateDisplay": "Jul 02, 2026",
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
