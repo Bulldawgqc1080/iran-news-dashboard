@@ -1,15 +1,26 @@
 {
-  "updated": "2026-07-29 23:51 UTC",
-  "total": 14,
+  "updated": "2026-07-30 01:19 UTC",
+  "total": 15,
   "events": [
+    {
+      "date": "2026-07-30",
+      "dateDisplay": "Jul 30, 2026",
+      "title": "Iran war live: US launches \u2018powerful\u2019 strikes after IRGC attack on Jordan",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-07-29",
       "dateDisplay": "Jul 29, 2026",
       "title": "Latest Mideast strikes between U.S. and Iran draw Saudi Arabia into conflict",
       "link": "https://www.npr.org/2026/07/29/nx-s1-5911806/latest-mideast-strikes-between-u-s-and-iran-draw-saudi-arabia-into-conflict",
       "sources": [
-        "NPR News",
-        "BBC"
+        "BBC",
+        "NPR News"
       ],
       "sourceCount": 2,
       "type": "govt"
