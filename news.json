@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-01 08:00 UTC",
-  "total": 28,
+  "updated": "2026-08-01 10:25 UTC",
+  "total": 34,
   "stories": [
+    {
+      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
+      "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
+      "description": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
+      "date": "Sat, 01 Aug 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Why limited war with the US may suit Iran better than peace",
       "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
@@ -103,6 +113,56 @@
       "bias": "Low-Med"
     },
     {
+      "title": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)",
+      "link": "https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2",
+      "description": "Some 70 years before the current frenzy of record-breaking fundraising by modern AI giants such as OpenAI and Anthropic, the Rockefeller Foundation made what may have been the first investment in the history of AI. With a $7,500 grant from the foundation in 1956, four eminent mat...",
+      "date": "Sat, 01 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Kuwait says it destroyed hostile Iranian drones targeting vital facilities",
+      "link": "https://www.france24.com/en/middle-east/20260801-middle-east-live-tanker-struck-by-unknown-projectile-oman-iran-war-hormuz",
+      "description": "Kuwait's army on Saturday said it had destroyed hostile Iranian drones ‌in the country's airspace, in what it described as an attack targeting ‌several vital facilities in the country. A government facility ‌in northern Kuwait and a civilian property were hit, the army said, but ...",
+      "date": "Sat, 01 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Ugandan opposition leader Kizza Besigye rushed to hospital after court collapse",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260731-ugandan-opposition-leader-kizza-besigye-rushed-to-hospital-after-court-collapse",
+      "description": "In tonight's edition: Ugandan opposition leader Kizza Besigye is in hospital after collapsing in court, raising fresh concerns over the treatment of political opponents. Ghana proposes sweeping constitutional reforms that could reshape its political landscape. Meanwhile, Benin st...",
+      "date": "Fri, 31 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Donald Trump trying to 'change the narrative away from the Iran war' ahead of midterms",
+      "link": "https://www.france24.com/en/donald-trump-trying-to-change-the-narrative-away-from-the-iran-war-ahead-of-midterms",
+      "description": "US President Donald Trump held a cabinet meeting at the Camp David retreat where he addressed a wide range of subjects, from Iran to the midterm elections. He also blamed the Spanish government for the mass migrant arrivals in Spain's Ceuta enclave, calling it an invasion. FRANCE...",
+      "date": "Fri, 31 Jul 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
+      "link": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
+      "description": "Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.",
+      "date": "Sat, 01 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
       "link": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss",
       "description": "Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.",
@@ -113,9 +173,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
+      "title": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
-      "description": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.",
+      "description": "Kuwait says several vital facilities were targets of Iranian drones that its army detected and destroyed since dawn.",
       "date": "Fri, 31 Jul 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -243,6 +303,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iranian drones attack government facility in northern Kuwait — top brass",
+      "link": "https://tass.com/world/2167955",
+      "description": "According to al-Atwan, a \"government facility in the north of the country\" was attacked",
+      "date": "Sat, 01 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "China has a way to respond to US over new sanctions against Russia, its partners — expert",
       "link": "https://tass.com/world/2167919",
       "description": "Тhe bill has the potential to trigger a crisis in US-China relations, Jake Werner, director of the East Asia Program at the Quincy Institute for Responsible Statecraft, told a TASS correspondent",
@@ -266,16 +336,6 @@
       "title": "Trump declines to give timeframe for ending Iran war",
       "link": "https://tass.com/world/2167881",
       "description": "The United States and Israel launched a war against Iran on February 28",
-      "date": "Sat, 01 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Next round of US strikes on Iran could last several days — newspaper",
-      "link": "https://tass.com/world/2167877",
-      "description": "According to the newspaper, Donald Trump has complained to confidants that the memorandum of understanding signed by Washington and Tehran was ultimately meaningless",
       "date": "Sat, 01 Aug 2026",
       "source": "TASS",
       "region": "ru",
