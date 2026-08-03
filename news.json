@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02 23:48 UTC",
-  "total": 29,
+  "updated": "2026-08-03 01:46 UTC",
+  "total": 30,
   "stories": [
     {
       "title": "Trump says he's cancelling Iran strikes, deal pending",
@@ -103,14 +103,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump holds off on striking Iran, calls for 'rapid' deal to end the conflict",
-      "link": "https://www.france24.com/en/middle-east/20260802-live-trump-says-us-to-stop-new-strikes-on-iran-calls-for-rapid-deal-on-hormuz",
-      "description": "US President Donald Trump said Saturday that the United States and Israel had agreed to hold off on new strikes on Iran – provided a deal to end the months-long conflict is \"rapidly\" reached. Iran's acting defence minister said his country would \"neither ‌be caught off ​guard nor...",
+      "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+      "description": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
+      "date": "Mon, 03 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump says new round of Iran talks will begin Monday",
+      "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+      "description": "The US president says Gulf allies and Tehran urged him to delay planned strikes.",
       "date": "Sun, 02 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
@@ -146,16 +156,6 @@
       "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
       "description": "A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.",
-      "date": "Sun, 02 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
-      "link": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
-      "description": "US president halted strikes after earlier threatening Iran with unprecedented force.",
       "date": "Sun, 02 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -203,6 +203,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "West Asia LIVE: Trump says Iran talks to take place today, sets no deadline for deal",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-on-iran-us-talk-strait-of-hormuz-ceasefire-deal/article71299723.ece",
+      "description": "The official Iranian news agency IRNA reported earlier that negotiations between Tehran and Oman over the Strait of Hormuz were in their final stages, citing Iran's Foreign Minister Abbas Araghchi",
+      "date": "Mon, 03 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Oil prices tumble as Trump cancels attack on Iran to reach nuclear deal",
+      "link": "https://www.thehindu.com/news/international/oil-prices-tumble-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal/article71299732.ece",
+      "description": "On Sunday, August 2, OPEC+ approved an oil production quota increase of around 188,000 barrels ⁠per day from September, the producer group said, in a move that ⁠completes the unwinding of a layer of voluntary output cuts.",
+      "date": "Mon, 03 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "West Asia updates: Iran media denies Trump claim that Tehran asked U.S. not to strike",
       "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71297056.ece",
       "description": "The U.S. President said he will order American forces to hold off on new strikes against Iran, claiming West Asia allies had reached the parameters of a deal to end the war",
@@ -243,14 +263,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "White House signals Trump is weighing new strikes on Iran",
-      "link": "https://www.thehindu.com/news/international/white-house-signals-trump-is-weighing-new-strikes-on-iran/article71293383.ece",
-      "description": "“We'll be hitting them very hard,” Mr. Trump said in an exchange with reporters during a meeting with members of his Cabinet at the Camp David presidential retreat in Maryland",
-      "date": "Sat, 01 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US, Iran to begin negotiations on August 3 — President Trump",
+      "link": "https://tass.com/world/2168221",
+      "description": "The US leader added that the allies \"think there’s a deal\"",
+      "date": "Mon, 03 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Top Saudi, Iranian diplomats discuss de-escalation efforts in region",
@@ -276,16 +296,6 @@
       "title": "Iran-Oman talks on Strait of Hormuz nearing completion — top Iranian diplomat",
       "link": "https://tass.com/world/2168179",
       "description": "Iranian Foreign Minister Abbas Araghchi noted progress in the negotiations",
-      "date": "Sun, 02 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Implementation of agreement with Lebanon to depend on Hezbollah’s disarmament",
-      "link": "https://tass.com/world/2168183",
-      "description": "\"Israel’s security is not a bargaining chip,\" adviser in the Israeli prime minister’s office Dmitri Gendelman said.",
       "date": "Sun, 02 Aug 2026",
       "source": "TASS",
       "region": "ru",
