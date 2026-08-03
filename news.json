@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03 15:35 UTC",
-  "total": 23,
+  "updated": "2026-08-03 17:40 UTC",
+  "total": 26,
   "stories": [
     {
       "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
@@ -15,7 +15,17 @@
     {
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "description": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
+      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "date": "Mon, 03 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
       "date": "Mon, 03 Aug 2026",
       "source": "BBC",
       "region": "eu",
@@ -113,9 +123,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Who will shape post-war Iran?",
-      "link": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
-      "description": "There are competing narratives in Tehran for its post-war recovery.",
+      "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+      "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+      "description": "Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.",
       "date": "Mon, 03 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -123,9 +133,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says new Iran negotiations starting: What we know",
-      "link": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
-      "description": "Analysts say deal on Hormuz might be achievable but lasting peace agreement still far off.",
+      "title": "Who will shape post-war Iran?",
+      "link": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
+      "description": "There are competing narratives in Tehran for its post-war recovery.",
       "date": "Mon, 03 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -231,6 +241,26 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Trump claims US fully controls Strait of Hormuz",
+      "link": "https://tass.com/world/2168553",
+      "description": "The US president said that nothing gets through to Iran, unless the United States wants it to",
+      "date": "Mon, 03 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says US and Iran in talks, even if Tehran denies it",
+      "link": "https://tass.com/world/2168545",
+      "description": "The US president said the sides are \"talking of a solution to a problem\" that Tehran have caused",
+      "date": "Mon, 03 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
