@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-03 08:59 UTC",
+  "updated": "2026-08-03 12:22 UTC",
   "total": 10,
   "events": [
     {
       "date": "2026-08-03",
       "dateDisplay": "Aug 03, 2026",
-      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "title": "Iran denies Trump's claim that new talks will begin on Monday",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
-        "BBC"
+        "BBC",
+        "Al Jazeera"
       ],
       "sourceCount": 2,
       "type": "govt"
@@ -17,14 +17,13 @@
     {
       "date": "2026-08-02",
       "dateDisplay": "Aug 02, 2026",
-      "title": "Trump says he's cancelling Iran strikes, deal pending",
-      "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News",
         "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-08-01",
