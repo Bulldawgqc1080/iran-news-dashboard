@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03 23:58 UTC",
-  "total": 30,
+  "updated": "2026-08-04 02:23 UTC",
+  "total": 31,
   "stories": [
     {
       "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
@@ -94,9 +94,9 @@
     },
     {
       "title": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
-      "link": "https://www.france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
+      "link": "https://www.france24.com/en/video/20260804-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
       "description": "The US president insisted negotiations were underway despite Tehran's denials, saying Iran had a final opportunity to reach an agreement on the Strait of Hormuz and its nuclear programme before facing what he called 'decapitation.'",
-      "date": "Mon, 03 Aug 2026",
+      "date": "Tue, 04 Aug 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
@@ -121,6 +121,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+      "description": "US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.",
+      "date": "Tue, 04 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Clergy members arrested while protesting at Senate office",
@@ -203,6 +213,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "West Asia LIVE: Trump says new talks 'last chance' for Iran to forge deal, avoid escalation of U.S. strikes",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-us-iran-strikes-tehran-washington-talks-donald-trump-peace-deal-live-updates-august-4-2026/article71303715.ece",
+      "description": "Iran’s Foreign Ministry denied that negotiations with Washington were taking place, but Donald Trump insisted they were; \"We are talking right now,\" he said.",
+      "date": "Tue, 04 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia updates: Iran says currently no negotiations with U.S.",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-on-iran-us-talk-strait-of-hormuz-ceasefire-deal/article71299723.ece",
+      "description": "Donald Trump had said talks with ‌Iran would happen today but declined to set a deadline for an agreement",
+      "date": "Tue, 04 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "New talks 'last chance' for Iran to forge deal, avoid escalation of U.S. strikes: Trump",
       "link": "https://www.thehindu.com/news/international/new-talks-last-chance-for-iran-to-forge-deal-avoid-escalation-of-us-strikes-trump/article71302832.ece",
       "description": "Mr. Trump, speaking at the Oval Office, said he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear programme will begin in the next day or two",
@@ -216,16 +246,6 @@
       "title": "Iran denies negotiating with U.S. after Trump announces talks",
       "link": "https://www.thehindu.com/news/international/trump-claims-iran-talks-will-start-august-3-and-other-developments-in-west-asia/article71302731.ece",
       "description": "The rebuttal by the Iranian Foreign Ministry follows Mr. Trump saying he had held off launching new strikes on the Islamic republic to allow for further diplomatic efforts, a familiar pattern in the conflict",
-      "date": "Mon, 03 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia LIVE: Iran says currently no negotiations with U.S.",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-on-iran-us-talk-strait-of-hormuz-ceasefire-deal/article71299723.ece",
-      "description": "Donald Trump had said talks with ‌Iran would happen today but declined to set a deadline for an agreement",
       "date": "Mon, 03 Aug 2026",
       "source": "The Hindu",
       "region": "me",
@@ -253,14 +273,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
-      "link": "https://www.thehindu.com/news/international/trump-says-gulf-leaders-input-weighed-heavily-in-decision-to-hold-off-on-ordering-new-iran-strikes/article71299741.ece",
-      "description": "It was another turnabout for Mr. Trump, who a day earlier said he is \"losing faith\" in negotiations with Iran and offered the ominous warning that the U.S. military \"will be hitting them very hard\"",
-      "date": "Mon, 03 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US has shifted tactics in war with Iran, betting on internal destabilization — expert",
+      "link": "https://tass.com/politics/2168613",
+      "description": "Oleg Akulinichev, deputy chairman of the Russian-Iranian Business Council, noted that the strategic goals of the US and Israel remain unchanged",
+      "date": "Tue, 04 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Negotiations are Iran’s chance to avoid ‘decapitation’ — Trump",
@@ -286,16 +306,6 @@
       "title": "Trump says won't let Iran charge toll for Hormuz passage",
       "link": "https://tass.com/world/2168579",
       "description": "USA will charge that, President Donald Trump said",
-      "date": "Mon, 03 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US and Iran discuss resumption of shipping in Strait of Hormuz by August 4, Trump says",
-      "link": "https://tass.com/world/2168575",
-      "description": "The US president mentioned complete opening of the strait",
       "date": "Mon, 03 Aug 2026",
       "source": "TASS",
       "region": "ru",
