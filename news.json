@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04 02:23 UTC",
-  "total": 31,
+  "updated": "2026-08-04 05:37 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
@@ -93,10 +93,30 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: Cargo ship hit by 'unknown projectile\" in Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260804-middle-east-live-cargo-ship-hit-by-unknown-projectile-in-strait-of-hormuz",
+      "description": "Early Tuesday, Britain's maritime security agency UKMTO said that a cargo vessel was struck by an \"unknown projectile\" in the Strait of Hormuz off the coast of Oman. US President Donald Trump said Monday that negotiations with Iran were ongoing despite Tehran's denials and the Is...",
+      "date": "Tue, 04 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
       "link": "https://www.france24.com/en/video/20260804-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
       "description": "The US president insisted negotiations were underway despite Tehran's denials, saying Iran had a final opportunity to reach an agreement on the Strait of Hormuz and its nuclear programme before facing what he called 'decapitation.'",
       "date": "Tue, 04 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says new talks are Iran's 'last chance' to make deal before 'decapitation'",
+      "link": "https://www.france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
+      "description": "The US president insisted negotiations were underway despite Tehran's denials, saying Iran had a final opportunity to reach an agreement on the Strait of Hormuz and its nuclear programme before facing what he called \"decapitation\".",
+      "date": "Mon, 03 Aug 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
@@ -123,7 +143,17 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+      "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+      "description": "Benchmark S&P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+      "date": "Tue, 04 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
       "description": "US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.",
       "date": "Tue, 04 Aug 2026",
@@ -153,24 +183,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says ongoing talks are Iran’s ‘last chance’",
-      "link": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
-      "description": "US president demands &#039;Total Surrender&#039; amid escalating naval blockade in the crucial Strait of Hormuz.",
-      "date": "Mon, 03 Aug 2026",
-      "source": "Al Jazeera",
+      "title": "Mideast war: Pakistan to host Iranian officials as Trump’s patience wears thin",
+      "link": "https://www.dawn.com/news/2020498/mideast-war-pakistan-to-host-iranian-officials-as-trumps-patience-wears-thin",
+      "description": "https://www.dawn.com/news/2020482",
+      "date": "Tue, 04 Aug 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
-      "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
-      "description": "Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.",
-      "date": "Mon, 03 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran denies negotiations with US after Trump announces talks",
@@ -223,9 +243,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia updates: Iran says currently no negotiations with U.S.",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-on-iran-us-talk-strait-of-hormuz-ceasefire-deal/article71299723.ece",
-      "description": "Donald Trump had said talks with ‌Iran would happen today but declined to set a deadline for an agreement",
+      "title": "Iran denies negotiating with U.S. after Trump announces talks",
+      "link": "https://www.thehindu.com/news/international/trump-claims-iran-talks-will-start-august-3-and-other-developments-in-west-asia/article71302731.ece",
+      "description": "The rebuttal by the Iranian Foreign Ministry follows Mr. Trump saying he had held off launching new strikes on the Islamic republic to allow for further diplomatic efforts, a familiar pattern in the conflict",
       "date": "Tue, 04 Aug 2026",
       "source": "The Hindu",
       "region": "me",
@@ -236,17 +256,27 @@
       "title": "New talks 'last chance' for Iran to forge deal, avoid escalation of U.S. strikes: Trump",
       "link": "https://www.thehindu.com/news/international/new-talks-last-chance-for-iran-to-forge-deal-avoid-escalation-of-us-strikes-trump/article71302832.ece",
       "description": "Mr. Trump, speaking at the Oval Office, said he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear programme will begin in the next day or two",
-      "date": "Mon, 03 Aug 2026",
+      "date": "Tue, 04 Aug 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran denies negotiating with U.S. after Trump announces talks",
-      "link": "https://www.thehindu.com/news/international/trump-claims-iran-talks-will-start-august-3-and-other-developments-in-west-asia/article71302731.ece",
-      "description": "The rebuttal by the Iranian Foreign Ministry follows Mr. Trump saying he had held off launching new strikes on the Islamic republic to allow for further diplomatic efforts, a familiar pattern in the conflict",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Donald Trump’s Iran conundrum",
+      "link": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-losing-a-war-refusing-it-to-see-it/article71272232.ece",
+      "description": "",
+      "date": "Tue, 04 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia updates: Iran says currently no negotiations with U.S.",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-on-iran-us-talk-strait-of-hormuz-ceasefire-deal/article71299723.ece",
+      "description": "Donald Trump had said talks with ‌Iran would happen today but declined to set a deadline for an agreement",
+      "date": "Tue, 04 Aug 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -256,16 +286,6 @@
       "title": "What’s at stake in the latest U.S.-Iran talks?",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-news-donald-trump-mojtaba-khamenei-ceasefire-talks-agreement-lebanon-issue-strait-of-hormuz/article71300054.ece",
       "description": "What are the key agreements that may shape the next round of Iran-U.S. talks on Monday? With uncertainty looimg large due to Iran’s rebuttal, here are the key sticking points that might determine the Iran-U.S. talks",
-      "date": "Mon, 03 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Oil prices tumble as Trump cancels attack on Iran to reach nuclear deal",
-      "link": "https://www.thehindu.com/news/international/oil-prices-tumble-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal/article71299732.ece",
-      "description": "On Sunday, August 2, OPEC+ approved an oil production quota increase of around 188,000 barrels ⁠per day from September, the producer group said, in a move that ⁠completes the unwinding of a layer of voluntary output cuts.",
       "date": "Mon, 03 Aug 2026",
       "source": "The Hindu",
       "region": "me",
