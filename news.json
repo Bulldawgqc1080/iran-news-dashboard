@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04 13:43 UTC",
-  "total": 30,
+  "updated": "2026-08-04 16:05 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
@@ -11,6 +11,26 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss",
+      "description": "There have been conflicting signals from the US and Iran, with Tehran denying President Trump's assertion that talks are under way.",
+      "date": "Tue, 04 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "date": "Tue, 04 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
@@ -93,6 +113,76 @@
       "bias": "Low-Med"
     },
     {
+      "title": "How Togo has become a new entry point for weapons sent by Russia to Mali",
+      "link": "https://www.france24.com/en/africa/20260804-togo-entry-point-weapons-russia-mali",
+      "description": "A Russian ship under US sanctions, the Mikhail Britnev, dropped off its cargo of military vehicles at the Port of Lomé in Togo on July 9. It’s the first time that Togo has been a stop for a Russian shipment of weapons to Mali, carried out as part of Moscow’s support for the Malia...",
+      "date": "Tue, 04 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
+      "link": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
+      "description": "Lebanon and Israel are holding a fresh round of direct talks in Rome under US sponsorship. It is the seventh such meeting since Hezbollah drew Lebanon into the Middle East war in March with rocket fire at Israel, which responded with heavy airstrikes and a ground invasion. The ta...",
+      "date": "Tue, 04 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Ceuta has 're-exposed immigration's divisive nature' in the EU",
+      "link": "https://www.france24.com/en/ceuta-has-re-exposed-immigration-s-divisive-nature-in-the-eu",
+      "description": "The EU's migration chief said the bloc successfully met a \"test\" of its border security and \"resilience to disinformation\" in the handling of a migrant rush into Spain's North African territory of Ceuta. His comments came as the bloc's interior ministers held an emergency meeting...",
+      "date": "Tue, 04 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Ahead of the midterms, Democrats face reckoning in Michigan primary",
+      "link": "https://www.france24.com/en/ahead-of-the-midterms-democrats-face-reckoning-in-michigan-primary",
+      "description": "In the United States, Michigan Democrats are heading to the polls for a Senate Primary. the local election has taken on national - and international - interest though, as it has become a proxy fight over the future of the Democratic party in this upcoming Midterm elections in Nov...",
+      "date": "Tue, 04 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Qatar says indirect talks continue to reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss",
+      "description": "Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.",
+      "date": "Tue, 04 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Beirut port blast anniversary overshadowed by new wave of destruction",
+      "link": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
+      "description": "As much of southern Lebanon lies in ruins due to Israeli attacks, residents struggle once again to rebuild their lives.",
+      "date": "Tue, 04 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Why are oil companies posting record profits amid Iran war disruption?",
+      "link": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss",
+      "description": "Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.",
+      "date": "Tue, 04 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Six years after Beirut blast, families fight for truth",
       "link": "https://www.aljazeera.com/features/2026/8/4/six-years-after-beirut-blast-families-fight-for-truth?traffic_source=rss",
       "description": "The tragedy remains an open wound, with grieving families fighting for accountability.",
@@ -136,16 +226,6 @@
       "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
       "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
       "description": "US president has claimed Iran &#039;desperate&#039; to do a deal or given Tehran &#039;last chance&#039; on multiple occasions.",
-      "date": "Tue, 04 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "We demand accountability for the Beirut blast",
-      "link": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
-      "description": "Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.",
       "date": "Tue, 04 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,6 +343,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Saudi Arabia in talks with Houthis to de-escalate conflict — Bloomberg",
+      "link": "https://tass.com/world/2168971",
+      "description": "At the same time Saudi Arabia is preparing for war, if the negotiations collapse",
+      "date": "Tue, 04 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Black Sea region may not withstand escalation as Iran war rages — expert",
+      "link": "https://tass.com/world/2168909",
+      "description": "Canan Tercan believes that Turkey's calls on the parties of the conflict to exercise restraint and engage in dialogue are a strategic necessity from the point of view of regional stability",
+      "date": "Tue, 04 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US-Iran deal could be reached as early as August 4-5 — Bessent",
       "link": "https://tass.com/world/2168865",
       "description": "According to the US Treasury Secretary, the agreement would guarantee freedom of navigation through the waterway",
@@ -276,26 +376,6 @@
       "title": "Qatar informs Russia about US-Iran settlement talks — diplomat",
       "link": "https://tass.com/world/2168851",
       "description": "According to Majed bin Mohammed al-Ansari, Doha relies on the support of Moscow and other international partners to find a diplomatic solution to the Persian Gulf crisis",
-      "date": "Tue, 04 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Qatar says no US-Iran agreement yet",
-      "link": "https://tass.com/world/2168833",
-      "description": "Qatari Foreign Ministry Spokesman Majed bin Mohammed Al-Ansari stressed that the mediators had set no deadline for concluding a deal",
-      "date": "Tue, 04 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US, Iran exchanging peace drafts through intermediaries — Qatari Foreign Ministry",
-      "link": "https://tass.com/world/2168811",
-      "description": "Majed bin Mohammed al-Ansari said the documents \"had been prepared on behalf of both governments\"",
       "date": "Tue, 04 Aug 2026",
       "source": "TASS",
       "region": "ru",
