@@ -1,18 +1,28 @@
 {
-  "updated": "2026-08-04 23:53 UTC",
-  "total": 11,
+  "updated": "2026-08-05 01:26 UTC",
+  "total": 12,
   "events": [
     {
-      "date": "2026-08-04",
-      "dateDisplay": "Aug 04, 2026",
+      "date": "2026-08-05",
+      "dateDisplay": "Aug 05, 2026",
       "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
         "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-08-04",
+      "dateDisplay": "Aug 04, 2026",
+      "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
+      "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
+      "sources": [
+        "NPR News"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-08-03",
