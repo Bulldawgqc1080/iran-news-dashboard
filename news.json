@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-06 04:53 UTC",
+  "updated": "2026-08-06 07:31 UTC",
   "total": 35,
   "stories": [
-    {
-      "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-      "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-      "description": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
-      "date": "Tue, 04 Aug 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
     {
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
@@ -113,9 +103,19 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: Oil tanker reports 'two explosions' in Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260806-middle-east-live-israeli-military-says-two-soldiers-killed-in-southern-lebanon",
+      "description": "An oil tanker passing through the Strait of Hormuz near Oman reported hearing two explosions, a British maritime agency said Thursday. Earlier, Iran said an agreement with Oman over the strait is in its final stages, while US President Donald Trump suggested a deal could be annou...",
+      "date": "Thu, 06 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran says Hormuz deal with Oman in final stage as Trump signals breakthrough",
       "link": "https://www.france24.com/en/middle-east/20260806-iran-says-hormuz-deal-with-oman-in-final-stage-as-trump-signals-breakthrough",
-      "description": "Iran said an agreement with Oman over the Strait of Hormuz is in its final stages, while President Donald Trump suggested a deal could be announced within days, raising hopes of easing a blockade that has disrupted global shipping and fueled months of conflict.",
+      "description": "Iran on Wednesday said an agreement with Oman over the Strait of Hormuz was in its final stages as US President Donald Trump suggested a deal could be announced within days, raising hopes for the easing of a blockade that has disrupted global shipping and fuelled months of confli...",
       "date": "Thu, 06 Aug 2026",
       "source": "France 24",
       "region": "eu",
@@ -125,7 +125,7 @@
     {
       "title": "Iran president says contact with supreme leader is 'very difficult'",
       "link": "https://www.france24.com/en/middle-east/20260805-iran-president-says-contact-with-supreme-leader-is-very-difficult",
-      "description": "Iranian President Masoud Pezeshkian said on Wednesday that communication with Supreme Leader Mojtaba Khamenei was \"very difficult\" following the leader's reported wounding during the US-Israeli strike that killed his father. Pezeshkian, however, defended Khamenei against rising s...",
+      "description": "Iranian President Masoud Pezeshkian said Wednesday that communication with Supreme Leader Mojtaba Khamenei was \"very difficult\" following the leader's reported wounding during the US-Israeli strike that killed his father. Pezeshkian, however, defended Khamenei against rising spec...",
       "date": "Wed, 05 Aug 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
+      "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss",
+      "description": "Eight leading shipping organisations sign letter opposing fees in critical waterway.",
+      "date": "Thu, 06 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Could the Iran war derail Donald Trump’s legacy?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss",
       "description": "President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.",
@@ -163,7 +173,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+      "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
       "description": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
       "date": "Thu, 06 Aug 2026",
@@ -176,16 +186,6 @@
       "title": "US officials push back on reports of dangerously low munitions supplies",
       "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
       "description": "Experts warn that low stockpiles of air defence interceptors as a result of the war on Iran leave the US vulnerable.",
-      "date": "Wed, 05 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
-      "link": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss",
-      "description": "The geographical coordinates of the route in the waterway have been agreed upon with Oman, according to Tehran.",
       "date": "Wed, 05 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,9 +253,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia LIVE: Oil prices slip as Iran-Oman talks fuel hopes for U.S.-Iran peace deal",
+      "title": "West Asia LIVE: Two Israeli soldiers, one Lebanese killed as violence flares in south Lebanon",
       "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-oil-prices-iran-oman-talks-tehran-washington-peace-deal-live-updates-august-6-2026/article71311934.ece",
-      "description": "Iran said on Wednesday (August 5, 2026) it is in the “final stage” of drafting an agreement with Oman over the Strait of Hormuz",
+      "description": "The deaths were the first Israeli fatalities reported in southern Lebanon since June 28; Iran says close to Hormuz plan with Oman, but reopening depends on U.S.",
+      "date": "Thu, 06 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker",
+      "link": "https://www.thehindu.com/news/international/gulf-shipping-traffic-down-after-houthis-say-they-attacked-saudi-tanker/article71312455.ece",
+      "description": "The Houthis have imposed a ⁠naval blockade on Saudi Arabia in the ⁠Red Sea since last month in response to what ‌they described as a Saudi siege on Yemen, an allegation Riyadh ​has denied.",
+      "date": "Thu, 06 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel reports its first troop deaths in Lebanon amid ongoing talks in Rome",
+      "link": "https://www.thehindu.com/news/international/israel-reports-its-first-troop-deaths-in-lebanon/article71312313.ece",
+      "description": "Lebanese state media said one person died and 11 were wounded in a separate Israeli strike",
       "date": "Thu, 06 Aug 2026",
       "source": "The Hindu",
       "region": "me",
@@ -266,7 +286,7 @@
       "title": "Yemen's Houthis say attacked two Saudi oil tankers",
       "link": "https://www.thehindu.com/news/international/yemens-houthis-say-attacked-two-saudi-oil-tankers/article71311033.ece",
       "description": "These were the eighth and ninth Saudi oil tankers targeted since the start of the blockade last month, according to figures given by a Houthi military spokesman",
-      "date": "Wed, 05 Aug 2026",
+      "date": "Thu, 06 Aug 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -286,26 +306,6 @@
       "title": "Iran, Oman reach understanding on coordinates of route through Hormuz, Iran Ministry says",
       "link": "https://www.thehindu.com/news/international/iran-oman-reach-understanding-on-coordinates-of-route-through-hormuz-iran-ministry-says/article71310750.ece",
       "description": "Iran Foreign Ministry said that any such agreement between Iran and ‌Oman would not, by itself, guarantee ‌security ⁠in the strategic waterway",
-      "date": "Wed, 05 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "China announces ‘countermeasures’ after U.S. trade sanctions",
-      "link": "https://www.thehindu.com/news/international/china-announces-countermeasures-after-us-trade-sanctions/article71309251.ece",
-      "description": "Beijing’s measures include suspending factory follow-up inspections by Chinese certification bodies, blacklisting U.S. compliance testing companies, and launching national security investigations into imports of office printers and copiers, according to the Commerce Ministry",
-      "date": "Wed, 05 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says Strait of Hormuz deal could be announced soon",
-      "link": "https://www.thehindu.com/news/international/trump-says-strait-of-hormuz-deal-could-be-announced-soon/article71308448.ece",
-      "description": "It could happen. Tomorrow or the next day, says U.S. President Donald Trump",
       "date": "Wed, 05 Aug 2026",
       "source": "The Hindu",
       "region": "me",
