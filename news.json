@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-06 15:05 UTC",
-  "total": 31,
+  "updated": "2026-08-06 23:47 UTC",
+  "total": 32,
   "stories": [
+    {
+      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
+      "description": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
+      "date": "Thu, 06 Aug 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
       "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
@@ -103,54 +113,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Cuba: What does Trump really want?",
-      "link": "https://www.france24.com/en/video/20260806-cuba-what-does-trump-really-want",
-      "description": "🇨🇺 Cuba is facing its worst economic and social crisis in decades while Washington is piling on sanctions and increasing pressure on the regime like never before. 🇺🇸 Why now? What’s really driving Trump’s interest in the island? And how far would the United States be prepared to ...",
+      "title": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
+      "link": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss",
+      "description": "US says the five entities and eight individuals sanctioned help Cuba acquire military equipment from Russia and China.",
       "date": "Thu, 06 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How fragile is Lebanon’s uneasy peace?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/6/how-fragile-is-lebanons-uneasy?traffic_source=rss",
+      "description": "Israel goes on the attack after the first soldiers are killed since ceasefire began two months ago.",
+      "date": "Thu, 06 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli attacks wound eight in Lebanon despite Rome talks",
+      "link": "https://www.aljazeera.com/news/2026/8/6/israeli-attacks-wound-eight-in-lebanon-despite-rome-talks?traffic_source=rss",
+      "description": "Israel launches strikes on southern Lebanon&#039;s Tyre as third day of the seventh round of US-brokered talks concludes.",
+      "date": "Thu, 06 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthis launch deadly attacks on Saudi-led coalition forces in Yemen",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/06-08-reported-ansarallah-yemen-yn?traffic_source=rss",
+      "description": "Yemen&#039;s Houthis say they launched drones and ballistic missiles in Marib and Hadramout.",
+      "date": "Thu, 06 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Is Israel’s Netanyahu preparing to fight Iran alone?",
+      "link": "https://www.aljazeera.com/news/2026/8/6/is-israels-netanyahu-preparing-to-fight-iran-alone?traffic_source=rss",
+      "description": "Experts question Netanyahu&#039;s strategy, labelling US war on Iran a strategic failure with global economic impacts.",
+      "date": "Thu, 06 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli settlers attack West Bank Palestinian community, burn homes",
+      "link": "https://www.dawn.com/news/2021041/israeli-settlers-attack-west-bank-palestinian-community-burn-homes",
+      "description": "Israeli settlers attacked a small Palestinian community in the occupied West Bank, injuring people, destroying homes and smashing their power source, the military and residents said on Thursday, in the latest in a spate of violent confrontations. AFP journalists in remote Khirbet...",
+      "date": "Thu, 06 Aug 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Iran and Oman 'close to deal' on Hormuz... but not with the US",
-      "link": "https://www.france24.com/en/iran-and-oman-close-to-deal-on-hormuz-but-not-with-the-us",
-      "description": "Iran said Wednesday it is in the \"final stage\" of drafting an agreement with Oman over the Strait of Hormuz but denied the US was involved in the negotiations. Trump had in recent days insisted a deal to reopen the critical waterway was imminent. Laurent Berstecher explains.",
-      "date": "Thu, 06 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Houthi attacks on Yemeni government forces reportedly kills at least 30",
-      "link": "https://www.aljazeera.com/news/2026/8/6/houthis-claim-to-have-killed-45-in-attacks-on-yemeni-government-forces?traffic_source=rss",
-      "description": "Attacks are deadliest in Yemen&#039;s conflict between Houthis and government forces in years.",
-      "date": "Thu, 06 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran tightens security grip at home as war conditions with US linger",
-      "link": "https://www.aljazeera.com/news/2026/8/6/iran-tightens-security-grip-at-home-as-war-conditions-with-us-linger?traffic_source=rss",
-      "description": "Executions, arrests and closure of public gathering spaces have raised concerns among Iranians and rights groups.",
-      "date": "Thu, 06 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Will the US-Iran war and Hormuz deadlock last for months?",
-      "link": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months?traffic_source=rss",
-      "description": "Will the war on Iran and Hormuz deadlock last for months? Experts analyse the obstacles blocking a lasting deal.",
-      "date": "Thu, 06 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "‘Progressive’ Dr Abdul El-Sayed wins Michigan primary in jolt to Democrats",
@@ -203,11 +223,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Search team reaches Broad Peak base camp with body of renowned mountaineer Nirmal Purja",
-      "link": "https://www.dawn.com/news/2020787/search-team-reaches-broad-peak-base-camp-with-body-of-renowned-mountaineer-nirmal-purja",
-      "description": "A search team has transported the bodies of renowned climber Nirmal Purja and three of his team members to the base camp of the mountain where they were killed in an avalanche, the Alpine Club of Pakistan (ACP) said on Wednesday. The avalanche struck on July 30, cutting off conta...",
-      "date": "Wed, 05 Aug 2026",
-      "source": "Dawn",
+      "title": "West Asia updates: Pakistan hopes Hormuz agreement will lead to resumption of Iran-U.S. talks",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-oil-prices-iran-oman-talks-tehran-washington-peace-deal-live-updates-august-6-2026/article71311934.ece",
+      "description": "Israel reports its first troop deaths in Lebanon since June truce with Hezbollah",
+      "date": "Thu, 06 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Donald Trump in the Persian labyrinth",
+      "link": "https://www.thehindu.com/opinion/lead/donald-trump-in-the-persian-labyrinth/article71314667.ece",
+      "description": "America’s Iran war stalls as Tehran turns pressure into strategic advantage",
+      "date": "Thu, 06 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
+      "link": "https://www.thehindu.com/news/international/proposed-hormuz-deal-would-give-iran-control-of-inbound-traffic-sources-say/article71315009.ece",
+      "description": "Iran reported “significant progress” in the talks with Oman and said both inward and outward journeys would ‌pass through Iranian waters",
+      "date": "Thu, 06 Aug 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -216,16 +256,6 @@
       "title": "Iran threatens to hit Gulf states if U.S. launches new strikes",
       "link": "https://www.thehindu.com/news/international/iran-threatens-to-hit-gulf-states-if-us-launches-new-strikes-west-asia-war/article71312656.ece",
       "description": "Riyadh urged U.S. President Donald Trump to delay military action, pursue negotiations; Iran bets infrastructure threats can raise ​pressure without full-scale war",
-      "date": "Thu, 06 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia LIVE: Pakistan hopes Hormuz agreement will lead to resumption of Iran-U.S. talks",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-oil-prices-iran-oman-talks-tehran-washington-peace-deal-live-updates-august-6-2026/article71311934.ece",
-      "description": "Israel reports its first troop deaths in Lebanon since June truce with Hezbollah",
       "date": "Thu, 06 Aug 2026",
       "source": "The Hindu",
       "region": "me",
@@ -253,29 +283,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker",
-      "link": "https://www.thehindu.com/news/international/gulf-shipping-traffic-down-after-houthis-say-they-attacked-saudi-tanker/article71312455.ece",
-      "description": "The Houthis have imposed a ⁠naval blockade on Saudi Arabia in the ⁠Red Sea since last month in response to what ‌they described as a Saudi siege on Yemen, an allegation Riyadh ​has denied.",
-      "date": "Thu, 06 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Yemen's Houthis say attacked two Saudi oil tankers",
-      "link": "https://www.thehindu.com/news/international/yemens-houthis-say-attacked-two-saudi-oil-tankers/article71311033.ece",
-      "description": "These were the eighth and ninth Saudi oil tankers targeted since the start of the blockade last month, according to figures given by a Houthi military spokesman",
-      "date": "Thu, 06 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "At least 45 Yemeni soldiers died in attacks carried out by Houthi rebels — TV",
-      "link": "https://tass.com/world/2169779",
-      "description": "The exact timing of the attacks has not been specified",
+      "title": "Houthi attack on Saudi Arabia injures 11 civilians — coalition",
+      "link": "https://tass.com/world/2169923",
+      "description": "Saudi-led coalition spokesman Major General Turki Al-Maliki said that the Houthis struck civilian targets in the Najran region",
       "date": "Thu, 06 Aug 2026",
       "source": "TASS",
       "region": "ru",
@@ -283,9 +293,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Yerevan ‘flirts’ with Kiev, raising question of readiness for alliance with Russia — MFA",
-      "link": "https://tass.com/politics/2169751",
-      "description": "According to Alexey Fadeyev, Moscow sees that the Armenian leadership perceives the prospects for the countries' relations as a one-way street",
+      "title": "Embassy denounces new UK government’s anti-Russian stance",
+      "link": "https://tass.com/politics/2169921",
+      "description": "The diplomats noted that the sanctions exacerbate the erosion of international trade, freedom of navigation, and financial stability",
       "date": "Thu, 06 Aug 2026",
       "source": "TASS",
       "region": "ru",
@@ -293,9 +303,9 @@
       "bias": "Very High"
     },
     {
-      "title": "West gives Kiev carte blanche to commit crimes, becomes complicit in them — Russian MFA",
-      "link": "https://tass.com/politics/2169703",
-      "description": "According to the statement, leaders from Britain, France, and Germany issued a joint statement openly praising Ukraine’s innovative use of drone technology to strike deep into Russian territory",
+      "title": "Leaks about depletion of US ammunition stocks anger Trump — TV channel",
+      "link": "https://tass.com/world/2169919",
+      "description": "According to CNN's sources, the US president's anger stemmed from the fact that the leak occurred at what he considers a pivotal moment in the conflict with Tehran",
       "date": "Thu, 06 Aug 2026",
       "source": "TASS",
       "region": "ru",
@@ -303,9 +313,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Seoul warns UK sanctions on Russia threaten its energy security",
-      "link": "https://tass.com/world/2169683",
-      "description": "The South Korean side noted that the European Union had previously granted an exemption for Seoul when adopting its 21st package of sanctions against Russia",
+      "title": "At least two US military transport aircraft spotted over Persian Gulf",
+      "link": "https://tass.com/world/2169911",
+      "description": "A source in Middle Eastern air traffic control circles says that the aircraft are flying in a circular trajectory at an altitude of about 8.5 km",
       "date": "Thu, 06 Aug 2026",
       "source": "TASS",
       "region": "ru",
