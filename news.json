@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-07 10:40 UTC",
-  "total": 32,
+  "updated": "2026-08-07 11:36 UTC",
+  "total": 35,
   "stories": [
+    {
+      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+      "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+      "description": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
+      "date": "Fri, 07 Aug 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
       "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
@@ -113,9 +123,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Saudi Arabia, Pakistan and Turkey set to sign defence pact in Jeddah",
+      "title": "Mideast live: Saudi Arabia, Pakistan, Turkey sign defence pact stating attack on one is attack on all",
       "link": "https://www.france24.com/en/middle-east/20260807-middle-east-live-saudi-arabia-pakistan-turkey-to-sign-defence-pact",
-      "description": "Saudi Arabia, Pakistan and Turkey are set to sign a joint defence agreement on Friday in Jeddah, according to Saudi military and government sources. Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani Prime Minister Shehbaz Sharif will mee...",
+      "description": "Saudi Arabia, Pakistan and Turkey on Friday signed a mutual defence agreement stipulating that “any armed attack against any one of the three States shall be regarded as an attack against them all,\" said Pakistan’s foreign ministry. The pact between the three Sunni Muslim allies ...",
       "date": "Fri, 07 Aug 2026",
       "source": "France 24",
       "region": "eu",
@@ -123,14 +133,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthi rebels kill dozens of Saudi-backed Yemeni government forces",
-      "link": "https://www.france24.com/en/middle-east/20260806-houthi-rebels-kill-dozens-of-saudi-backed-yemeni-government-forces",
-      "description": "At least 38 members of the Yemeni government forces were killed Thursday in drone and missile attacks carried out by Houthi rebels, according to medical sources. The Iran-backed Houthis claimed the attacks were in retaliation for what they described as a recent military buildup s...",
-      "date": "Thu, 06 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
+      "link": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
+      "description": "Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz.",
+      "date": "Fri, 07 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
+      "link": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
+      "description": "Houthis&#039; expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.",
+      "date": "Fri, 07 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Why Trump is caught in an ‘escalation trap’ with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss",
+      "description": "University of Chicago Professor Robert Pape explains why US President Trump is caught in an ‘escalation trap’ with Iran.",
+      "date": "Fri, 07 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+      "link": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
+      "description": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
+      "date": "Fri, 07 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
@@ -145,7 +185,7 @@
     {
       "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
       "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
-      "description": "Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.",
+      "description": "India activist Jaswant Singh Khalra&#039;s daughter Navkiran talks about slain father&#039;s legacy, which inspired a recent film.",
       "date": "Fri, 07 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -153,14 +193,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump says Iran can’t ‘go on much longer’; Hormuz deal close",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
-      "description": "The US, Iran and Oman are close to a temporary deal to reopen the Strait of Hormuz.",
+      "title": "Pakistan, Saudi Arabia, Turkiye sign tripartite defence agreement in Makkah",
+      "link": "https://www.dawn.com/news/2021248/pakistan-saudi-arabia-turkiye-sign-tripartite-defence-agreement-in-makkah",
+      "description": "Pakistan, Saudi Arabia and Turkiye on Friday signed a joint defence pact in Makkah that empowers member states to treat an attack against one of them as an attack against all of them. Pakistan, Saudi Arabia and Turkiye on Friday signed the Makkah Joint Defence Agreement aimed at ...",
       "date": "Fri, 07 Aug 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Pakistan working with partners to defuse Hormuz stand-off: FO",
@@ -206,16 +246,6 @@
       "title": "‘Progressive’ Dr Abdul El-Sayed wins Michigan primary in jolt to Democrats",
       "link": "https://www.dawn.com/news/2020937/progressive-dr-abdul-el-sayed-wins-michigan-primary-in-jolt-to-democrats",
       "description": "WASHINGTON: Progressive Democrats gained momentum in Tuesday’s primary elections, raising questions about the future direction of the Democratic Party and the impact of these developments on the November midterm elections. The elections will determine whether President Donald Tru...",
-      "date": "Thu, 06 Aug 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran, Oman agree on route thru Hormuz",
-      "link": "https://www.dawn.com/news/2020896/iran-oman-agree-on-route-thru-hormuz",
-      "description": "• Tehran says ‘geographical coordinates of route’ agreed upon, joint statement expected soon• Oil prices fall after rising amid Houthi attacks on Saudi oil tankers• Trump claims successful ‘day-long talks’ with Tehran• Report says Iran ‘warned of targeting energy installations in...",
       "date": "Thu, 06 Aug 2026",
       "source": "Dawn",
       "region": "me",
@@ -283,6 +313,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Key US missile stockpiles run 'extremely low' amid Iran conflict — TV",
+      "link": "https://tass.com/world/2170169",
+      "description": "According to the source, particular concern was focused on dwindling inventories of long-range offensive missiles, including ATACMS and PrSM",
+      "date": "Fri, 07 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Houthis launch missile strike on displacement camp in Yemen’s Marib Governorate — TV",
       "link": "https://tass.com/world/2170129",
       "description": "Al Arabiya said eyewitnesses had seen missiles launched from the Yemeni capital before the strike",
@@ -306,16 +346,6 @@
       "title": "Saudi Arabia accuses Houthis of threatening US-Iran mediation efforts — agency",
       "link": "https://tass.com/world/2170023",
       "description": "According to the sources, Saudi mediation efforts have recently shown progress",
-      "date": "Fri, 07 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Transit through Strait of Hormuz falls by third this week — Reuters",
-      "link": "https://tass.com/world/2170019",
-      "description": "The decline is taking place against the backdrop of progress in negotiations between Iran and Oman regarding shipping in the strait",
       "date": "Fri, 07 Aug 2026",
       "source": "TASS",
       "region": "ru",
