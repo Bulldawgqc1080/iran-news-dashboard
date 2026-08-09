@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09 14:22 UTC",
-  "total": 38,
+  "updated": "2026-08-09 15:19 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
@@ -17,16 +17,6 @@
       "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
       "description": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
       "date": "Sat, 08 Aug 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-      "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
-      "description": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
-      "date": "Fri, 07 Aug 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -123,6 +113,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran sets tough terms to reopen Strait of Hormuz",
+      "link": "https://www.france24.com/en/iran-sets-tough-terms-to-reopen-strait-of-hormuz",
+      "description": "Iran’s national security chief has outlined a list of demands for the US to meet before Tehran reopens the Strait of Hormuz. They include lifting the US naval blockade of Iranian ports, compensation for war damages and the release of frozen Iranian assets. Separately, Iran and Om...",
+      "date": "Sun, 09 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel, US spar over Gaza withdrawal",
       "link": "https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal",
       "description": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected the 15-point plan for Gaza promoted by US President Donald ​Trump and stressed that the Israeli military would not withdraw from the Palestinian territory until Hamas is \"genuinely\" disarmed. In Iran, the Revolutionary ...",
@@ -203,28 +203,8 @@
       "bias": "Medium"
     },
     {
-      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-      "link": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
-      "description": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
-      "date": "Sun, 09 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-      "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
-      "description": "Saudi Energy Ministry gives no cause, but Houthis claim attack at refinery. No casualties reported.",
-      "date": "Sun, 09 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Fire extinguished at Aramco refinery in Saudi Arabia's Jazan; Yemen's Houthis claim attack",
-      "link": "https://www.dawn.com/news/2021681/fire-extinguished-at-aramco-refinery-in-saudi-arabias-jazan-yemens-houthis-claim-attack",
+      "title": "Fire extinguished at Aramco refinery in Saudi Arabia's Jazan; Houthis claim attack",
+      "link": "https://www.dawn.com/news/2021681/fire-extinguished-at-aramco-refinery-in-saudi-arabias-jazan-houthis-claim-attack",
       "description": "Yemen’s Houthi rebels said on Sunday they had struck an Aramco oil facility on Saudi Arabia’s Red Sea coast after the Gulf kingdom said it had extinguished a fire at the site. The group’s military spokesman Yahya Saree said the Houthis had “succeeded in targeting the Aramco refin...",
       "date": "Sun, 09 Aug 2026",
       "source": "Dawn",
@@ -343,6 +323,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iranian parliamentary committee approves bill of Strait of Hormuz — TV",
+      "link": "https://tass.com/world/2170713",
+      "description": "The parliamentary committee for national security approved a bill on strategic measures to ensure the security and sustainable development of the Strait of Hormuz and the Persian Gulf",
+      "date": "Sun, 09 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran’s supreme leader meets with country’s president first time in past three months",
+      "link": "https://tass.com/world/2170709",
+      "description": "The topic included issues related to satisfying the needs of the population, the ongoing conflict with the United States, the supreme leader’s office said",
+      "date": "Sun, 09 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Mojtaba Khamenei in good health, although video with him is old — Iranian source",
       "link": "https://tass.com/world/2170703",
       "description": "He avoids appearing in public due to security considerations, an Iranian source told",
@@ -356,26 +356,6 @@
       "title": "Israel remains in buffer zone in Lebanon as it failed to disarm Hezbollah — adviser",
       "link": "https://tass.com/world/2170705",
       "description": "\"That is why Israel remains in the security zone to dismantle this infrastructure [of terror] on its own,\" adviser in the Israeli prime minister’s office Dmitri Gendelman said",
-      "date": "Sun, 09 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms — Netanyahu",
-      "link": "https://tass.com/world/2170691",
-      "description": "Israel will not allow Iran to acquire nuclear weapons regardless of whether Washington and Tehran reach an agreement, Israeli Prime Minister",
-      "date": "Sun, 09 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Rosatom begins returning specialists to Bushehr NPP",
-      "link": "https://tass.com/economy/2170689",
-      "description": "The total number of Russian specialists has reached 25",
       "date": "Sun, 09 Aug 2026",
       "source": "TASS",
       "region": "ru",
