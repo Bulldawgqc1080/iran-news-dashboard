@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-09 09:27 UTC",
-  "total": 37,
+  "updated": "2026-08-09 10:21 UTC",
+  "total": 36,
   "stories": [
+    {
+      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+      "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+      "description": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons.",
+      "date": "Sun, 09 Aug 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Tanker sailors still face danger in the Strait of Hormuz",
       "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
@@ -17,16 +27,6 @@
       "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
       "description": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
       "date": "Fri, 07 Aug 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-      "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-      "description": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
-      "date": "Thu, 06 Aug 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -133,9 +133,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Iran issues list of demands for reopening Strait of Hormuz",
+      "title": "Middle East live: Iran Guards say Hormuz will not reopen until US accepts all of Tehran's demands",
       "link": "https://www.france24.com/en/middle-east/20260809-middle-east-live-iran-issues-list-of-demands-for-reopening-strait-of-hormuz",
-      "description": "Iran has issued a list of demands for the reopening of the Strait of Hormuz, including compensation for war damages, complicating a potential deal to open the vital waterway. Iranian Foreign Minister Abbas Araghchi said discussions with Oman were \"approaching the final stages\", b...",
+      "description": "Iran's Revolutionary Guards Corps (IRGC) on Sunday said they would not reopen the Strait of Hormuz until the US accepts all of Tehran's conditions. The warning came a day after Iran issued a list of demands for the reopening of the vital waterway, including compensation for war d...",
       "date": "Sun, 09 Aug 2026",
       "source": "France 24",
       "region": "eu",
@@ -146,16 +146,6 @@
       "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
       "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
       "description": "Saudi Arabia, Pakistan and Turkey signed a mutual defence pact on Friday that would treat any act of aggression on one of the three nations as an attack on all of them, the allies said in a joint statement. However, it did not specify if the agreement would bind them to any parti...",
-      "date": "Sat, 08 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
-      "link": "https://www.france24.com/en/video/20260808-serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit",
-      "description": "Ukraine’s President Volodymyr Zelensky is making his first official visit to Serbia, in a notable move given Belgrade’s close ties with Moscow and its refusal to impose sanctions on Russia. Zelensky is seeking to shore up international support as Russian strikes on Ukraine intens...",
       "date": "Sat, 08 Aug 2026",
       "source": "France 24",
       "region": "eu",
@@ -273,9 +263,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war LIVE: UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
+      "title": "West Asia war LIVE: Iran Guards say won't reopen Hormuz without U.S. meeting all Tehran's conditions",
       "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-uae-attacks-strait-of-hormuz-lebanon-infiltration-donald-trump-irgc-netanyahu/article71323971.ece",
       "description": "Iran' Supreme National Security Council said the Strait of Hormuz will not open until the United States “corrects its behaviour”",
+      "date": "Sun, 09 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran Guards say won’t reopen Hormuz without U.S. meeting all Tehran’s conditions",
+      "link": "https://www.thehindu.com/news/international/iran-guards-say-wont-reopen-hormuz-without-us-meeting-all-tehrans-conditions/article71324444.ece",
+      "description": "Iran's security chief Mohammad Bagher Zolghadr on Saturday (August 8) laid out a list of demands for reopening the strait, including an end to the ‘war and aggression against Iran and its allies in Lebanon, Palestine, Yemen and Iraq’",
+      "date": "Sun, 09 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen’s Houthis claim attack on Aramco facility as Saudi says fire extinguished",
+      "link": "https://www.thehindu.com/news/international/fire-extinguished-at-aramco-facility-in-jizan-says-saudi-arabia/article71324246.ece",
+      "description": "Saudi Energy ‌Ministry did not immediately specify the cause of the fire; Houthis spokesperson said the attack on the facility was launched in response to incursions by drones from the Gulf monarchy into northwest Yemen",
       "date": "Sun, 09 Aug 2026",
       "source": "The Hindu",
       "region": "me",
@@ -307,26 +317,6 @@
       "link": "https://www.thehindu.com/news/international/us-expects-deal-soon-on-strait-of-hormuz-sunni-powers-unite-in-defence-pact/article71320443.ece",
       "description": "Washington anticipated an agreement soon between the two countries, which sit on either side of ⁠the strait, so that normal oil traffic could resume, a U.S. official said",
       "date": "Sun, 09 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war updates: Iran says strait won't open until U.S. corrects behaviour",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
-      "description": "The U.S. must never threaten Iran again, the statement said, and must permanently end the war with Iran and its armed allies in the region",
-      "date": "Sun, 09 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Houthi attacks kill five in Yemen as rebels target oil-rich Marib",
-      "link": "https://www.thehindu.com/news/international/several-killed-as-houthi-attacks-yemen-rebels-target-oil-rich-marib-updates/article71318726.ece",
-      "description": "A separate source close to the Saudi military told AFP that the Saudi-led coalition supporting the Yemeni government since 2015 would not stand \"idly by\" as the Houthis step up their attacks, adding that Marib was a \"red line\"",
-      "date": "Sat, 08 Aug 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
