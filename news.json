@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10 17:42 UTC",
+  "updated": "2026-08-10 18:40 UTC",
   "total": 31,
   "stories": [
     {
@@ -16,16 +16,6 @@
       "title": "How Iran's 'Axis of Resistance' has shaped the war",
       "link": "https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war",
       "description": "NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.",
-      "date": "Sun, 09 Aug 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-      "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
-      "description": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons.",
       "date": "Sun, 09 Aug 2026",
       "source": "NPR News",
       "region": "us",
@@ -123,14 +113,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran's list of demands to reopen Hormuz: A capitulation document?",
-      "link": "https://www.france24.com/en/video/20260810-iran-s-list-of-demands-to-reopen-hormuz-a-capitulation-document",
-      "description": "Iran’s Revolutionary Guards said on Sunday that they would not reopen the Strait of Hormuz until the United States complied with a list of demands, including paying compensation for war damages. Is it a surrender document? We discuss this with our guest, Dr. H.A. Hellyer, Senior ...",
+      "title": "Oman trying to contain extensive oil spill from stricken tanker",
+      "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
+      "description": "The Caroline Bezengi is believed to be part of Russia&#039;s &#039;shadow fleet&#039; that Moscow uses to circumvent Western sanctions.",
       "date": "Mon, 10 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran’s president says Khamenei is in ‘perfect health’",
@@ -223,6 +213,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "West Asia war LIVE: Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-10-2026-hormuz-strait-reopen-us-iran-talks/article71326809.ece",
+      "description": "Iran and the U.S. are not engaged in direct talks, and Tehran will not start them ⁠as long as Washington breaches an interim deal signed in June, Mr. Aragchi said, adding that messages were being exchanged through intermediaries.",
+      "date": "Mon, 10 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran says Saudi-Pakistan-Turkey deal shows 'change in perception' towards U.S.",
       "link": "https://www.thehindu.com/news/international/iran-says-saudi-pakistan-turkey-deal-shows-change-in-perception-towards-us/article71329795.ece",
       "description": "\"The countries of the region have realised that security is not a commodity that can be bought from false brokers,\" says Ministry spokesman Esmaeil Baqaei",
@@ -236,16 +236,6 @@
       "title": "Mohsen Rezaei appointed as secretary of Iran's top security body",
       "link": "https://www.thehindu.com/news/international/mohsen-rezaei-appointed-as-secretary-of-irans-top-security-body/article71329753.ece",
       "description": "Mr. Rezaei is more of an outspoken public ​figure than his predecessor, Mohammad Baqer Zolqadr. The appointment ⁠was announced late on August 9 by President Masoud Pezeshkian’s deputy director of communications",
-      "date": "Mon, 10 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-10-2026-hormuz-strait-reopen-us-iran-talks/article71326809.ece",
-      "description": "Iran and the U.S. are not engaged in direct talks, and Tehran will not start them ⁠as long as Washington breaches an interim deal signed in June, Mr. Aragchi said, adding that messages were being exchanged through intermediaries.",
       "date": "Mon, 10 Aug 2026",
       "source": "The Hindu",
       "region": "me",
@@ -283,29 +273,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Hossein Taeb appointed head of Iran’s Basij paramilitary force",
+      "link": "https://tass.com/world/2171089",
+      "description": "Taeb already served in this post between 2007 and 2009",
+      "date": "Mon, 10 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran’s supreme leader appoints Ahmad Vahidi to head Islamic Revolutionary Guard Corps",
+      "link": "https://tass.com/world/2171087",
+      "description": "Ali Ozmaei was appointed as the new head of the IRGC Navy",
+      "date": "Mon, 10 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Canada sanctions UAE firm over alleged ties to Russia",
+      "link": "https://tass.com/world/2171081",
+      "description": "The statement claims that the sanctioned company's products are being utilized in the special military operation in Ukraine",
+      "date": "Mon, 10 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Iran’s supreme leader appoints Ali Abdollahi to lead armed forces",
       "link": "https://tass.com/world/2171075",
       "description": "Kiyumars Heidari, who previously served as the commander of the Iranian Army's Ground Forces, will become his deputy",
-      "date": "Mon, 10 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Washington fails to bring down Iran like it wanted — Iranian president",
-      "link": "https://tass.com/world/2170997",
-      "description": "Masoud Pezeshkian said that Tehran's \"enemy\" forecasts based on AI data and information received from spy networks and agents failed one by one",
-      "date": "Mon, 10 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian missiles have ability to change trajectory after launch — IRGC",
-      "link": "https://tass.com/world/2170971",
-      "description": "Hossein Mohebi, spokesman for the Islamic Revolutionary Guard Corps, highlighted that modern warfare became a battlefield of technological innovation",
       "date": "Mon, 10 Aug 2026",
       "source": "TASS",
       "region": "ru",
