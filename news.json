@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-10 11:41 UTC",
-  "total": 37,
+  "updated": "2026-08-10 12:41 UTC",
+  "total": 36,
   "stories": [
+    {
+      "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
+      "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
+      "description": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
+      "date": "Mon, 10 Aug 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "How Iran's 'Axis of Resistance' has shaped the war",
       "link": "https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war",
@@ -17,16 +27,6 @@
       "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
       "description": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons.",
       "date": "Sun, 09 Aug 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Tanker sailors still face danger in the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-      "description": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
-      "date": "Sat, 08 Aug 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -173,7 +173,27 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Who is Mohsen Rezaei, and how significant is his appointment?",
+      "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
+      "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
+      "description": "Al Jazeera is given rare access to one of Ukraine&#039;s long-range drone units tasked with targeting Russia.",
+      "date": "Mon, 10 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
+      "link": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss",
+      "description": "Months into the war, Trump is returning to squeezing Iran&#039;s economy rather than military offensive for now.",
+      "date": "Mon, 10 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How significant is Mohsen Rezaei’s appointment as Iran’s security chief?",
       "link": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss",
       "description": "Former IRGC commander Rezaei will be taking over as secretary of Iran&#039;s top security body amid Hormuz talks.",
       "date": "Mon, 10 Aug 2026",
@@ -186,26 +206,6 @@
       "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
       "description": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
-      "date": "Mon, 10 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump signals shift to economic pressure on Iran over new military strikes",
-      "link": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-      "description": "US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.",
-      "date": "Mon, 10 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
-      "description": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
       "date": "Mon, 10 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -356,16 +356,6 @@
       "title": "Iran focuses on access to frozen assets during talks, US envoy says",
       "link": "https://tass.com/world/2170829",
       "description": "US Permanent Representative to the United Nations Mike Waltz said that Iranians \"are constantly asking for access to cash\"",
-      "date": "Mon, 10 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to unblock Iranian ports after transit through Strait of Hormuz restored — Reuters",
-      "link": "https://tass.com/world/2170791",
-      "description": "The sources emphasized that further US actions will be tied to Iran's fulfillment of its obligations to ensure shipping in the strait",
       "date": "Mon, 10 Aug 2026",
       "source": "TASS",
       "region": "ru",
