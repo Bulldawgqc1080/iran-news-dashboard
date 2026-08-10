@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10 05:14 UTC",
-  "total": 38,
+  "updated": "2026-08-10 07:07 UTC",
+  "total": 39,
   "stories": [
     {
       "title": "How Iran's 'Axis of Resistance' has shaped the war",
@@ -118,6 +118,16 @@
       "description": "BBC Verify has spoken to experts and analysed satellite imagery to piece together what we know about the site, and the potential impact of a US strike.",
       "date": "Sat, 01 Aug 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Houthis launch deadly strike on port city of Mocha in Yemen",
+      "link": "https://www.france24.com/en/middle-east/20260810-middle-east-live-houthis-launch-deadly-strike-on-port-city-of-mocha-in-yemen",
+      "description": "Yemen's military said seven people were killed and 30 injured in a Houthi attack on the Red Sea port city of Mocha. Meanwhile, Iran said the Strait of Hormuz would remain closed until the US met certain demands made by Tehran. Follow our live blog for the latest developments.",
+      "date": "Mon, 10 Aug 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -343,6 +353,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US to unblock Iranian ports after transit through Strait of Hormuz restored — Reuters",
+      "link": "https://tass.com/world/2170791",
+      "description": "The sources emphasized that further US actions will be tied to Iran's fulfillment of its obligations to ensure shipping in the strait",
+      "date": "Mon, 10 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US redirects 55 vessels since resuming maritime blockade of Iran — CENTCOM",
       "link": "https://tass.com/world/2170751",
       "description": "US forces have also disabled 2 vessels",
@@ -366,16 +386,6 @@
       "title": "Trump says economic situation in Iran is deteriorating",
       "link": "https://tass.com/world/2170731",
       "description": "Iran \"is in very bad shape\" economically due the United States’ naval blockade, US President said",
-      "date": "Sun, 09 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "At least seven die after Houthis’ attack on Yemeni port of Mokha — TV",
-      "link": "https://tass.com/world/2170721",
-      "description": "According to the Al Arabiya television channel, the Houthis carried out more than 20 attacks on the port and adjacent areas",
       "date": "Sun, 09 Aug 2026",
       "source": "TASS",
       "region": "ru",
