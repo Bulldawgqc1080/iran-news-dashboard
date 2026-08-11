@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11 14:10 UTC",
-  "total": 34,
+  "updated": "2026-08-11 15:48 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
@@ -13,10 +13,20 @@
       "bias": "Low"
     },
     {
-      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-      "description": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
-      "date": "Thu, 06 Aug 2026",
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "description": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+      "date": "Tue, 11 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Houthis kill four in first deadly attack since start of Iran war, Yemen says",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "description": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
+      "date": "Tue, 11 Aug 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -46,6 +56,16 @@
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
       "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "date": "Thu, 06 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+      "description": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
       "date": "Thu, 06 Aug 2026",
       "source": "BBC",
       "region": "eu",
@@ -115,7 +135,7 @@
     {
       "title": "Lebanon becomes first Middle Eastern country to abolish the death penalty",
       "link": "https://www.france24.com/en/middle-east/20260811-lebanon-becomes-first-middle-eastern-country-to-abolish-death-penalty",
-      "description": "Lebanon on Tuesday became the first Middle East country to formally abolish the death penalty. Lebanon had not carried out an execution since 2004.",
+      "description": "Lebanon on Tuesday became the first Middle East country to formally abolish the death penalty, replacing the sentencing with life imprisonment plus aggravated hard labour. Lebanon had not carried out an execution since 2004.",
       "date": "Tue, 11 Aug 2026",
       "source": "France 24",
       "region": "eu",
@@ -123,14 +143,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Donald Trump took secret flight out of Turkey over Iran threat, the Washington Post reports",
-      "link": "https://www.france24.com/en/video/20260811-donald-trump-took-secret-flight-out-of-turkey-over-iran-threat-the-washington-post-reports",
-      "description": "US President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post. FRA...",
+      "title": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
+      "link": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss",
+      "description": "Death sentences will be replaced with life imprisonment with aggravated hard labour.",
       "date": "Tue, 11 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss",
+      "description": "President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfect health’.",
+      "date": "Tue, 11 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
+      "link": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss",
+      "description": "Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.",
+      "date": "Tue, 11 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
@@ -166,16 +206,6 @@
       "title": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
       "link": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss",
       "description": "Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.",
-      "date": "Tue, 11 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-      "link": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
-      "description": "Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.",
       "date": "Tue, 11 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -303,6 +333,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Houthis attack Tihama again during rescue operation",
+      "link": "https://tass.com/world/2171509",
+      "description": "One member of the rescue team was injured",
+      "date": "Tue, 11 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russian, Iranian diplomats discuss ways of overcoming crisis provoked by US, Israel",
+      "link": "https://tass.com/politics/2171475",
+      "description": "Both sides expressed interest in maintaining intensive bilateral contacts on arms control, disarmament and non-proliferation in various formats",
+      "date": "Tue, 11 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Switzerland adds 45 entities, 9 individuals to anti-Russian sanctions list — TASS",
       "link": "https://tass.com/world/2171461",
       "description": "Nine individuals have been blacklisted for the first time, including Rostec Executive Director Oleg Yevtushenko",
@@ -316,26 +366,6 @@
       "title": "US military opens fire at ship trying to break through blockade on Iran — WSJ",
       "link": "https://tass.com/world/2171443",
       "description": "According to the report, a US military helicopter enforcing the blockade fired at the ship’s rudder after the crew ignored its warnings",
-      "date": "Tue, 11 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US, Iran close to concluding peace deal — Pakistani defense minister",
-      "link": "https://tass.com/world/2171439",
-      "description": "Khawaja Asif revealed that the two sides were close to \"some sort of an arrangement\"",
-      "date": "Tue, 11 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Qatar rejects using Strait of Hormuz as an instrument of political pressure",
-      "link": "https://tass.com/world/2171405",
-      "description": "According to Foreign Ministry’s Spokesman Majed bin Mohammed al-Ansari, the position of the members of the Cooperation Council for the Arab States of the Gulf is that there is a need to return to the pre-war situation and ensure freedom of navigation",
       "date": "Tue, 11 Aug 2026",
       "source": "TASS",
       "region": "ru",

@@ -1,23 +1,25 @@
 {
-  "updated": "2026-08-11 14:10 UTC",
+  "updated": "2026-08-11 15:48 UTC",
   "total": 13,
   "events": [
     {
       "date": "2026-08-11",
       "dateDisplay": "Aug 11, 2026",
-      "title": "Trump boarded secret flight via catering truck due to Iran threat, US media reports",
-      "link": "https://www.france24.com/en/trump-boarded-secret-flight-via-catering-truck-due-to-iran-threat-us-media-reports",
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24"
+        "Al Jazeera",
+        "France 24",
+        "BBC"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-08-06",
       "dateDisplay": "Aug 06, 2026",
-      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
