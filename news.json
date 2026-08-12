@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12 00:58 UTC",
-  "total": 34,
+  "updated": "2026-08-12 03:22 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
@@ -113,6 +113,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: US military strikes ship violating blockade of Iranian ports",
+      "link": "https://www.france24.com/en/middle-east/20260812-middle-east-live-us-military-strikes-ship-violating-blockade-of-iranian-ports",
+      "description": "The US military announced on Tuesday that it had shot a Panama-flagged ship that was trying to approach an Iranian port in violation of Washington's blockade. President Donald Trump asserted again that the United States was exercising \"total control\" over the Strait of Hormuz. Fo...",
+      "date": "Wed, 12 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump boarded secret flight via catering truck due to Iran threat, US media reports",
       "link": "https://www.france24.com/en/trump-boarded-secret-flight-via-catering-truck-due-to-iran-threat-us-media-reports",
       "description": "President Donald Trump took a secret military flight from Turkey last month in an operation that involved him being moved between aircraft in a catering truck, an extraordinary deception prompted ​by an Iranian assassination threat, the Washington Post reported.",
@@ -143,9 +153,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
+      "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
+      "link": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss",
+      "description": "Iran&#039;s top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.",
+      "date": "Wed, 12 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
-      "description": "US forces disable a Panama-flagged cargo ship attempting to sail towards an Iranian port.",
+      "description": "Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.",
       "date": "Wed, 12 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -173,14 +193,54 @@
       "bias": "Medium"
     },
     {
-      "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
-      "link": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
-      "description": "Prominent organisation charge sanctions against international tribunal trample consitutional rights, hinder their work.",
-      "date": "Tue, 11 Aug 2026",
-      "source": "Al Jazeera",
+      "title": "Islamabad looking to breathe new life into US-Iran mediation push",
+      "link": "https://www.dawn.com/news/2022318/islamabad-looking-to-breathe-new-life-into-us-iran-mediation-push",
+      "description": "https://www.dawn.com/news/2022296",
+      "date": "Wed, 12 Aug 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump secretly flew smaller jet out of Turkiye amid Iran threat: Washington Post",
+      "link": "https://www.dawn.com/news/2022270/trump-secretly-flew-smaller-jet-out-of-turkiye-amid-iran-threat-washington-post",
+      "description": "WASHINGTON: US President Donald Trump secretly flew out of Turkiye last month on a smaller plane than previously known due to an assassination threat from Iran, the Washington Post reported on Monday. According to an anonymous US official who spoke to the Post, Trump boarded an A...",
+      "date": "Wed, 12 Aug 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "3 Pakistanis die as multiple ships attacked in Gulf waters",
+      "link": "https://www.dawn.com/news/2022293/3-pakistanis-die-as-multiple-ships-attacked-in-gulf-waters",
+      "description": "• Six killed as Tanzania-flagged ship attacked in Bab el-Mandeb, says Yemen govt• Houthis claim attack on Saudi ship in Red Sea• US forces ‘disable’ Panama-flagged container ship trying to break blockade DUBAI: Three Pakistanis are said to be among the six people who lost their l...",
+      "date": "Wed, 12 Aug 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Lebanon abolishes death penalty",
+      "link": "https://www.dawn.com/news/2022276/lebanon-abolishes-death-penalty",
+      "description": "BEIRUT: Lebanon’s parliament on Tuesday abolished the death penalty, making the country the first in the Middle East to formally end the practice. Lebanon had not carried out an execution since 2004, but sentences were still being issued, the latest being on Monday, and Amnesty I...",
+      "date": "Wed, 12 Aug 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan warns UN Security Council of ‘tipping point’ in occupied West Bank",
+      "link": "https://www.dawn.com/news/2022274/pakistan-warns-un-security-council-of-tipping-point-in-occupied-west-bank",
+      "description": "• Calls on international community to pressure Israel to halt settlement expansion on Palestinian land• Guterres says Israeli settlements in occupied West Bank have no legal validity and violate international law WASHINGTON: Pakistan on Tuesday urged the international community t...",
+      "date": "Wed, 12 Aug 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Ousted Syrian president Bashar al-Assad sentenced to death in absentia",
@@ -193,51 +253,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump insists relationship with Netanyahu 'very good' despite rejection of US-led Gaza plan",
-      "link": "https://www.dawn.com/news/2022116/trump-insists-relationship-with-netanyahu-very-good-despite-rejection-of-us-led-gaza-plan",
-      "description": "United States President Donald Trump insisted on Monday that his relationship with Prime Minister Benjamin Netanyahu is “very good” despite the Israeli leader’s rejection of a US-led Gaza plan. “The relationship is very good,” Trump said in response to a shouted question from a j...",
-      "date": "Tue, 11 Aug 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: U.S. helicopter fired on ship that tried to break Iran ports blockade",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-12-2026/article71334841.ece",
+      "description": "This was the third time the United States, in a months-long war against Iran, has forcibly halted a vessel since reinstating the ports blockade on July 14",
+      "date": "Wed, 12 Aug 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Trump demands Iran pay for war deaths as hopes of Hormuz deal fade",
-      "link": "https://www.dawn.com/news/2022067/trump-demands-iran-pay-for-war-deaths-as-hopes-of-hormuz-deal-fade",
-      "description": "DUBAI: US President Donald Trump on Monday demanded Iran pay compensation for the deaths of people he said it had killed in wars, attacks and protests, raising the rhetorical stakes with Tehran as hopes faded for an imminent deal to reopen the Strait of Hormuz. Trump said he was ...",
-      "date": "Tue, 11 Aug 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "'I hide to cry': Torment of Afghan fathers as daughters deprived of education",
-      "link": "https://www.dawn.com/news/2022127/i-hide-to-cry-torment-of-afghan-fathers-as-daughters-deprived-of-education",
-      "description": "Father after father AFP spoke to in Afghanistan about the education ban that stops their daughters from going beyond primary school choked up in despair. The pain and anguish it is causing behind closed doors is clear from interviews AFP conducted across the country, with even de...",
-      "date": "Tue, 11 Aug 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says ‘low-key’ talks with Iran continue",
-      "link": "https://www.dawn.com/news/2021827/trump-says-low-key-talks-with-iran-continue",
-      "description": "WASHINGTON / DUBAI / TEHRAN: After months of US military strikes on Iran, sanctions and a blockade, President Donald Trump said on Sunday that his administration is wat­ching economic pressure mount on Iran, according to an interview with Axios. “We are low keying it,” Trump was ...",
-      "date": "Mon, 10 Aug 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Berlin warns of ‘hybrid warfare’ after suspected drone attack",
-      "link": "https://www.dawn.com/news/2021804/berlin-warns-of-hybrid-warfare-after-suspected-drone-attack",
-      "description": "BERLIN: Germany faces daily hybrid warfare attacks from abroad, Interior Minister Alexander Dobrindt was quoted by a local newspaper as saying on Sunday, following a suspected attack attempt involving an explosive-laden drone at Leipzig/Halle Airport. Dobrindt told the newspaper ...",
-      "date": "Mon, 10 Aug 2026",
-      "source": "Dawn",
+      "title": "Trump says Iran options are let Tehran fail economically or ‘hit them really hard’",
+      "link": "https://www.thehindu.com/news/international/trump-says-iran-options-are-let-tehran-fail-economically-or-hit-them-really-hard/article71334867.ece",
+      "description": "‘We control their money, what they ⁠had, which is a lot; they had a lot, and we have total control of it; I’m ‌their banker,’ said Donald Trump, referring to frozen Iranian assets",
+      "date": "Wed, 12 Aug 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -283,24 +313,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Mohsen Rezaei appointed as secretary of Iran's top security body",
-      "link": "https://www.thehindu.com/news/international/mohsen-rezaei-appointed-as-secretary-of-irans-top-security-body/article71329753.ece",
-      "description": "Mr. Rezaei is more of an outspoken public ​figure than his predecessor, Mohammad Baqer Zolqadr. The appointment ⁠was announced late on August 9 by President Masoud Pezeshkian’s deputy director of communications",
-      "date": "Mon, 10 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Trump expresses his distrust of Iran",
+      "link": "https://tass.com/world/2171629",
+      "description": "At the same time, in the president's opinion, the US is in \"a very good position\" on the Iranian issue",
+      "date": "Wed, 12 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "West Asia war updates: Netanyahu vows Iran will 'not have nuclear weapons' with or without deal",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-uae-attacks-strait-of-hormuz-lebanon-infiltration-donald-trump-irgc-netanyahu/article71323971.ece",
-      "description": "\"I want to emphasise once again: with an agreement or without an agreement, as long as I am Prime Minister, Iran will not have nuclear weapons,\" Mr. Netanyahu said at a cabinet meeting",
-      "date": "Sun, 09 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US controls Strait of Hormuz, would strike Iran if it attempted to change that — Trump",
+      "link": "https://tass.com/world/2171627",
+      "description": "The US president clarified that the strait was under complete control",
+      "date": "Wed, 12 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "CENTCOM reports disabling ship that attempted to breach blockade on Iran",
@@ -316,26 +346,6 @@
       "title": "Houthis say they attacked Saudi forces’ positions in Yemen",
       "link": "https://tass.com/world/2171587",
       "description": "The attack left \"dozens killed and wounded, including Saudis,\" Houthi spokesman Yahya Saree says",
-      "date": "Tue, 11 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Death toll in Houthi strike on Tihama rises to six",
-      "link": "https://tass.com/world/2171559",
-      "description": "Another 10 people were injured",
-      "date": "Tue, 11 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Death toll in Houthi strike on vessel rises to four",
-      "link": "https://tass.com/world/2171555",
-      "description": "Another four crew members were injured",
       "date": "Tue, 11 Aug 2026",
       "source": "TASS",
       "region": "ru",
