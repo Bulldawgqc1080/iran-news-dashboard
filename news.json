@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13 12:42 UTC",
-  "total": 27,
+  "updated": "2026-08-13 14:13 UTC",
+  "total": 29,
   "stories": [
     {
       "title": "Has the U.S. lost its dominance to China?",
@@ -113,10 +113,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oil spill from grounded tanker reaches Oman’s mainland beaches",
-      "link": "https://www.france24.com/en/middle-east/20260812-oil-spill-from-grounded-tanker-reaches-oman-mainland-beaches",
-      "description": "Oman’s Environment Authority said Wednesday that oil leaking from a tanker grounded off the country’s coast had reached mainland beaches. The spill threatened marine habitats and a nearby protected area as strong winds and monsoon currents spread the oil, raising fears it could r...",
-      "date": "Wed, 12 Aug 2026",
+      "title": "Iran says Trump ‘lied’ about US control over Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz",
+      "description": "Iran called President Donald Trump's claim that Washington controlled the Strait of Hormuz \"lies and fabrications\" on Thursday as Ebrahim Zolfaghari, the spokesperson for Iran's central military command, said that the waterway was fully under Tehran's control. A day earlier, Trum...",
+      "date": "Thu, 13 Aug 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
@@ -271,6 +271,26 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian forces say they fully control Strait of Hormuz",
+      "link": "https://tass.com/world/2172433",
+      "description": "Tehran said that no commercial vessel or tanker has been or will be able to safely pass through the strait without the permission and supervision of Iran’s armed forces",
+      "date": "Thu, 13 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran, US continue private talks — Pakistani ambassador",
+      "link": "https://tass.com/world/2172427",
+      "description": "Faisal Niaz Tirmizi declined to say whether the talks were taking place in Islamabad",
+      "date": "Thu, 13 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
