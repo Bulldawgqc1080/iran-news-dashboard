@@ -1,21 +1,11 @@
 {
-  "updated": "2026-08-13 16:43 UTC",
-  "total": 31,
+  "updated": "2026-08-13 17:48 UTC",
+  "total": 32,
   "stories": [
     {
       "title": "Has the U.S. lost its dominance to China?",
       "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
       "description": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. The New Yorker's Evan Osnos discusses his story \"The Future, Made in China.\"",
-      "date": "Wed, 12 Aug 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
-      "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
-      "description": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
       "date": "Wed, 12 Aug 2026",
       "source": "NPR News",
       "region": "us",
@@ -113,6 +103,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Reports of US sailors in Middle East trying to jump ship spark outcry",
+      "link": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
+      "description": "US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.",
+      "date": "Thu, 13 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+      "description": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
+      "date": "Thu, 13 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
       "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
       "description": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.",
@@ -146,16 +156,6 @@
       "title": "US-Iran talks in deadlock – what’s the latest?",
       "link": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
       "description": "The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.",
-      "date": "Thu, 13 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Life and loss as a first responder in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss",
-      "description": "A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon&#039;s largest city.",
       "date": "Thu, 13 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -223,6 +223,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "No progress on reviving peace deal with U.S.: Iran",
+      "link": "https://www.thehindu.com/news/international/no-progress-on-reviving-peace-deal-with-us-iran/article71342509.ece",
+      "description": "The U.S. accuses Iran of failing to honour an agreement under the deal to reopen the vital Strait of Hormuz shipping route",
+      "date": "Thu, 13 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Turkiye lays out plans for defence pact with Pakistan, Saudi Arabia",
       "link": "https://www.thehindu.com/news/international/turkiye-lays-out-plans-for-defence-pact-with-pakistan-saudi-arabia/article71342449.ece",
       "description": "The three Sunni Muslim U.S. allies, alarmed by a regional conflagration that has brought Iranian missile fire onto Gulf oil exporters, signed the “Mecca Joint Defence Agreement” on August 7",
@@ -273,14 +283,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Thai Government vows tougher gun controls after 2 deadly shootings near Bangkok",
-      "link": "https://www.thehindu.com/news/international/thai-government-vows-tougher-gun-controls-after-2-deadly-shootings-near-bangkok/article71335676.ece",
-      "description": "Government spokesperson Lalida Persvivatana stated that the government is strengthening gun regulations, cracking down on illegal firearms, and raising awareness about gun ownership responsibilities and limits",
-      "date": "Wed, 12 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Any country including Iran can join Mecca Pact, Pakistani ambassador says",
+      "link": "https://tass.com/world/2172549",
+      "description": "Faisal Niaz Tirmizi reiterated that the alliance was created for peace and stability",
+      "date": "Thu, 13 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US can maintain naval blockade of Iran indefinitely, Pentagon says",
+      "link": "https://tass.com/world/2172525",
+      "description": "US Secretary of War Pete Hegseth specified that the US Navy planned to rotate ships maintaning the blockade",
+      "date": "Thu, 13 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "FIA lifts all previously-imposed sanctions on Russia’s auto racers — sports official",
@@ -296,16 +316,6 @@
       "title": "Iranian forces say they fully control Strait of Hormuz",
       "link": "https://tass.com/world/2172433",
       "description": "Tehran said that no commercial vessel or tanker has been or will be able to safely pass through the strait without the permission and supervision of Iran’s armed forces",
-      "date": "Thu, 13 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran, US continue private talks — Pakistani ambassador",
-      "link": "https://tass.com/world/2172427",
-      "description": "Faisal Niaz Tirmizi declined to say whether the talks were taking place in Islamabad",
       "date": "Thu, 13 Aug 2026",
       "source": "TASS",
       "region": "ru",
