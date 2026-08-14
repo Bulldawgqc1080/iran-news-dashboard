@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14 16:38 UTC",
-  "total": 23,
+  "updated": "2026-08-14 17:43 UTC",
+  "total": 22,
   "stories": [
     {
       "title": "Lebanon parliament votes to abolish death penalty",
@@ -103,16 +103,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Seven killed in tunnel accident at Indian hydropower project",
-      "link": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
-      "description": "Water and debris burst into a state-run hydropower tunnel in Uttarakhand following a landslide.",
-      "date": "Fri, 14 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "US, Iran play ‘claim game’ over Hormuz",
       "link": "https://www.dawn.com/news/2022698/us-iran-play-claim-game-over-hormuz",
       "description": "• Tehran warns no tanker can pass safely without approval from its armed forces; demands compensation for damage from Qeshm oil spill• Hegseth says US can maintain naval blockade of Iran indefinitely• Pakistan urges UN to protect seafarers from attacks in Red Sea DUBAI: The Strai...",
@@ -148,6 +138,16 @@
       "description": "DUBAI: An oil spill from a tanker that ran aground off Oman’s coast has reached the mainland, state media reported, while monsoon winds were obstructing containment efforts, the United Nations’ maritime agency said on Wednesday. An investigation previously found that the ship had...",
       "date": "Thu, 13 Aug 2026",
       "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Lower oil prices, not Iran’s nuclear programme, now top priority: U.S.",
+      "link": "https://www.thehindu.com/news/international/lower-oil-prices-not-irans-nuclear-programme-now-top-priority-us/article71347037.ece",
+      "description": "‘Goal number one is to keep oil and gas cheap for Americans; and then obviously goal number two is ensure that Iran never gets a nuclear weapon,’ says Vice President J.D. Vance; the U.S. is set to announce new ‘economic punishment’ for Iran soon",
+      "date": "Fri, 14 Aug 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -203,19 +203,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon abolishes death penalty: Where does capital punishment still exist?",
-      "link": "https://www.thehindu.com/news/international/death-penalty-where-does-capital-punishment-still-exist/article71340397.ece",
-      "description": "Lebanon’s move reflects a broader global shift away from capital punishment.",
-      "date": "Thu, 13 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran, Oman continue talks on Strait of Hormuz — ambassador",
-      "link": "https://tass.com/world/2173227",
-      "description": "Iran has been the guarantor of security in the Strait of Hormuz for decades, Nassereddin Heidari said",
+      "title": "Houthis attack Yemeni port of Mokha with missiles, drones",
+      "link": "https://tass.com/world/2173513",
+      "description": "The Houthis also attempted an attack on an oil tanker in the Bab El Mandeb Strait",
       "date": "Fri, 14 Aug 2026",
       "source": "TASS",
       "region": "ru",
@@ -223,9 +213,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Pakistan keeps up mediation efforts to resolve US-Iran conflict — ambassador",
-      "link": "https://tass.com/world/2173449",
-      "description": "According to Pakistan's ambassador to Turkmenistan Faryal Leghari, Islamabad remains firmly committed to peace",
+      "title": "Iran, Oman continue talks on Strait of Hormuz — ambassador",
+      "link": "https://tass.com/world/2173227",
+      "description": "Iran has been the guarantor of security in the Strait of Hormuz for decades, Nassereddin Heidari said",
       "date": "Fri, 14 Aug 2026",
       "source": "TASS",
       "region": "ru",
