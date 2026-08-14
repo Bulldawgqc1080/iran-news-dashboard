@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-14 07:06 UTC",
+  "updated": "2026-08-14 08:56 UTC",
   "total": 28,
   "stories": [
+    {
+      "title": "In Van, Turkey, Iranians seek a respite from the war between Tehran and the U.S.",
+      "link": "https://www.npr.org/2026/08/14/nx-s1-5930225/in-van-turkey-iranians-seek-a-respite-from-the-war-between-tehran-and-the-u-s",
+      "description": "The Iranian regime wants to drag out the war until the U.S. midterms. Meanwhile, many Iranians are voting with their feet.",
+      "date": "Fri, 14 Aug 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Stanford's director of Iranian Studies on whether there's a path to end the war",
+      "link": "https://www.npr.org/2026/08/14/nx-s1-5930344/stanfords-director-of-iranian-studies-on-whether-theres-a-path-to-end-the-war",
+      "description": "NPR's Michel Martin asks Abbas Milani, director of Iranian Studies at Stanford, why more Iranians are fleeing their country and whether there's a realistic path to end the U.S.-Iran war.",
+      "date": "Fri, 14 Aug 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Lebanon parliament votes to abolish death penalty",
       "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
@@ -83,7 +103,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Live: US sailors report dire conditions as replacement carrier heads to Middle East",
+      "title": "US sailors report dire conditions as replacement carrier heads to Middle East",
       "link": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln",
       "description": "Reports of declining mental health and supply issues have been flagged by US sailors aboard the aircraft carrier USS Lincoln deployed to the Middle East, with some attempting to throw themselves into the sea. The ship has so far spent a record 260 uninterrupted days at sea as it ...",
       "date": "Fri, 14 Aug 2026",
@@ -93,34 +113,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
-      "description": "Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.",
+      "title": "Live: US sailors report dire conditions as replacement carrier heads to Middle East",
+      "link": "https://www.france24.com/en/middle-east/20260814-middle-east-live-us-threatens-iran-with-economic-isolation-like-never-seen-before",
+      "description": "Reports of declining mental health and supply issues have been flagged by US sailors aboard the aircraft carrier USS Lincoln deployed to the Middle East, with some attempting to throw themselves into the sea. The ship has so far spent a record 260 uninterrupted days at sea as it ...",
       "date": "Fri, 14 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
-      "description": "No injuries were reported in the attack, which the UAE called &#039;piracy&#039; and a threat to global energy security.",
-      "date": "Fri, 14 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: US eyes indefinite Iran naval blockade",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss",
-      "description": "US Defense Secretary Pete Hegseth says the US can sustain its blockade against Iran &#039;indefinitely&#039;.",
-      "date": "Fri, 14 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "US, Iran play ‘claim game’ over Hormuz",
@@ -183,6 +183,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. lost 45 MQ-9 Reaper drones in war with Iran: report",
+      "link": "https://www.thehindu.com/news/international/us-lost-45-mq-9-reaper-drones-in-war-with-iran-report/article71344567.ece",
+      "description": "In 2024, India signed an agreement with the U.S. to procure 31 MQ-9 Reaper drones for its armed forces, with deliveries expected to begin in 2029",
+      "date": "Fri, 14 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "West Asia war LIVE: Bessent says U.S. to apply measures never seen on Iran",
       "link": "https://www.thehindu.com/news/international/iran-us-war-west-asia-donald-trump-live-updates-august-14-2026/article71343866.ece",
       "description": "The U.S. has tightened economic sanctions against Iran and other individuals and entities that it ‌says are helping it procure weapons",
@@ -233,14 +243,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia war highlights: Iranian-backed Houthis kill 6 in attack on vessel",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-12-2026/article71334841.ece",
-      "description": "Pakistan’s Interior Minister is visiting Iran to discuss regional security, stability and other developments",
-      "date": "Thu, 13 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iran continues US talks through intermediaries — ambassador",
+      "link": "https://tass.com/world/2172693",
+      "description": "Nassereddin Heidari said the extent of the American side's adherence to its commitments is the thing that matters",
+      "date": "Fri, 14 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Israel stunned by Iran’s rapid military recovery — newspaper",
@@ -267,16 +277,6 @@
       "link": "https://tass.com/world/2172629",
       "description": "US Secretary of the Treasury Scott Bessent did not provide details, but said the measures would be combined with Washington's naval blockade of Iran",
       "date": "Fri, 14 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US vice president reveals Washington’s top priority in Iran conflict",
-      "link": "https://tass.com/world/2172621",
-      "description": "JD Vance pointed out that the goal number one is to keep oil and gas cheap for Americans all over the country",
-      "date": "Thu, 13 Aug 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
