@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14 17:43 UTC",
-  "total": 22,
+  "updated": "2026-08-14 18:38 UTC",
+  "total": 24,
   "stories": [
     {
       "title": "Lebanon parliament votes to abolish death penalty",
@@ -201,6 +201,26 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Houthis say they attacked Saudi Aramco facility in Najran",
+      "link": "https://tass.com/world/2173525",
+      "description": "According to the Houthi source, the operation was conducted in response to the violation of the Yemeni sovereignty by Saudi warplanes",
+      "date": "Fri, 14 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Over 60 vessels redirected by US military since resumption of blockade of Iran — CENTCOM",
+      "link": "https://tass.com/world/2173515",
+      "description": "Three vessels were disabled and two were boarded to ensure compliance",
+      "date": "Fri, 14 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Houthis attack Yemeni port of Mokha with missiles, drones",
