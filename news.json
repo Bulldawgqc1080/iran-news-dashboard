@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14 20:20 UTC",
-  "total": 23,
+  "updated": "2026-08-14 21:14 UTC",
+  "total": 24,
   "stories": [
     {
       "title": "Lebanon parliament votes to abolish death penalty",
@@ -68,6 +68,16 @@
       "description": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
       "date": "Wed, 05 Aug 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
+      "link": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
+      "description": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been “not nearly long enough”. The Lincoln has been support...",
+      "date": "Fri, 14 Aug 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -193,6 +203,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump promises to declare Strait of Hormuz US territory",
+      "link": "https://tass.com/world/2173581",
+      "description": "The US president clarified that this would happen \"after we finish defeating Iran\"",
+      "date": "Fri, 14 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Houthis say they attacked Saudi forces’ positions in Yemen",
       "link": "https://tass.com/world/2173563",
       "description": "Houthi spokesman Yahya Saree said that tens of enemy soldiers were killed, and their boats and weapons were wiped out",
@@ -216,16 +236,6 @@
       "title": "US likely to opt for sanctions instead of military action against Cuba — agency",
       "link": "https://tass.com/world/2173557",
       "description": "According to the agency, Washington’s plan is to cut off Cuba’s revenue sources",
-      "date": "Fri, 14 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Houthis say they attacked Saudi Aramco facility in Najran",
-      "link": "https://tass.com/world/2173525",
-      "description": "According to the Houthi source, the operation was conducted in response to the violation of the Yemeni sovereignty by Saudi warplanes",
       "date": "Fri, 14 Aug 2026",
       "source": "TASS",
       "region": "ru",
