@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15 21:10 UTC",
-  "total": 24,
+  "updated": "2026-08-15 22:09 UTC",
+  "total": 27,
   "stories": [
     {
       "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
@@ -11,6 +11,26 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "date": "Sat, 15 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "date": "Sat, 15 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Lebanon parliament votes to abolish death penalty",
@@ -101,6 +121,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "description": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.",
+      "date": "Sat, 15 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
