@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15 20:09 UTC",
-  "total": 21,
+  "updated": "2026-08-15 21:10 UTC",
+  "total": 24,
   "stories": [
     {
       "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
@@ -73,19 +73,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
+      "link": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
+      "description": "Israeli airstrikes on southern Lebanon killed at least 11 people Saturday, some of the deadliest since deals in June eased hostilities between Israel and Hezbollah. Israel's military said the strikes were in retaliation for an attack by Hezbollah on its troops in the country's so...",
+      "date": "Sat, 15 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
+      "link": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
+      "description": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further...",
+      "date": "Sat, 15 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'We're seeing an important escalation in southern Lebanon despite the so-called truce'",
+      "link": "https://www.france24.com/en/we-re-seeing-an-important-escalation-in-southern-lebanon-despite-the-so-called-truce",
+      "description": "Overnight Israeli strikes in southern Lebanon killed at least seven people in one village, in the deadliest escalation since the lull in fighting began two months ago. FRANCE 24 correspondent Renée Davis, reporting from Beirut, says the strikes mark a significant escalation despi...",
+      "date": "Sat, 15 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
       "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
       "description": "The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.",
-      "date": "Sat, 15 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
-      "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
-      "description": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
       "date": "Sat, 15 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -211,6 +231,16 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US military aircraft, drone once again spotted over Persian Gulf",
+      "link": "https://tass.com/world/2173771",
+      "description": "A source in Middle Eastern air traffic control services also said that as for military transport aircraft, their flights were also tracked over the Gulf of Oman during the day",
+      "date": "Sat, 15 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
