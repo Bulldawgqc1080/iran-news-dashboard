@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-19 16:17 UTC",
-  "total": 28,
+  "updated": "2026-08-19 17:16 UTC",
+  "total": 23,
   "stories": [
     {
-      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-      "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-      "description": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
-      "date": "Tue, 18 Aug 2026",
+      "title": "Why does the U.S. military seem stymied in the war with Iran?",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+      "description": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
+      "date": "Wed, 19 Aug 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -48,16 +48,6 @@
       "description": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
       "date": "Tue, 11 Aug 2026",
       "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran parliament speaker Ghalibaf in Iraq for talks",
-      "link": "https://www.france24.com/en/video/20260819-iran-parliament-speaker-ghalibaf-in-iraq-for-talks",
-      "description": "Iran's parliament speaker Mohammad Bagher Ghalibaf, who led negotiations with the United States to end the Middle East war, arrived in Baghdad on Wednesday for talks. Ghalibaf will head \"a high-level parliamentary delegation to discuss regional developments\" and \"strengthen strat...",
-      "date": "Wed, 19 Aug 2026",
-      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -193,6 +183,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran warns Gulf countries against helping U.S. after UAE cuts trade ties",
+      "link": "https://www.thehindu.com/news/international/iran-warns-gulf-countries-against-helping-us-after-uae-cuts-trade-ties/article71366200.ece",
+      "description": "",
+      "date": "Wed, 19 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "UAE halts all trade, financial dealings with Iran",
       "link": "https://www.thehindu.com/news/international/uae-halts-all-trade-financial-dealings-with-iran/article71363901.ece",
       "description": "The announcement comes after a period of relative calm in the UAE, with no Iranian missiles aimed at the country since May",
@@ -231,56 +231,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Houthis target refinery in southern Saudi Arabia: Media",
-      "link": "https://www.thehindu.com/news/international/houthis-target-refinery-in-southern-saudi-arabia-media/article71362143.ece",
-      "description": "The Houthis \"targeted the Aramco refinery in Jazan with several drones, in response to airspace violations over the governorates of Saada and Hajjah\" in Yemen, Houthi news agency Saba said August 18, citing a military source",
-      "date": "Tue, 18 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "China may reduce reliance on Straits of Hormuz and Malacca via NSR — Fortune",
-      "link": "https://tass.com/economy/2175205",
-      "description": "According to the publication, interest in the Arctic route has surged following the effective suspension of shipping in the Strait of Hormuz due to the war involving the US, Israel, and Iran",
-      "date": "Wed, 19 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Houthis attack eight Saudi oil tankers over month — spokesman",
-      "link": "https://tass.com/world/2175163",
-      "description": "Five vessels were attacked in the Red Sea and three in the Arabian Sea and the Gulf of Aden",
-      "date": "Wed, 19 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russia views US threats against Oman as efforts to apply pressure — diplomat",
-      "link": "https://tass.com/politics/2175137",
-      "description": "According to Russian Deputy Foreign Minister Georgy Borisenko, Moscow hopes for a swift resolution of the situation and the restoration of peace and stability in the Persian Gulf region",
-      "date": "Wed, 19 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russia does everything possible settle situation in Persian Gulf region — senior diplomat",
-      "link": "https://tass.com/politics/2175091",
-      "description": "According to Russian Deputy Foreign Minister Georgy Borisenko, Moscow believes that all parties should be interested in a swift peaceful settlement",
-      "date": "Wed, 19 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
