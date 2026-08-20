@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-20 11:16 UTC",
-  "total": 30,
+  "updated": "2026-08-20 12:23 UTC",
+  "total": 29,
   "stories": [
+    {
+      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+      "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+      "description": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
+      "date": "Thu, 20 Aug 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Amid the Iran war, the U.S. has pivoted it's geopolitical attention away from Asia",
       "link": "https://www.npr.org/2026/08/19/nx-s1-5935388/amid-the-iran-war-the-u-s-has-pivoted-its-geopolitical-attention-away-from-asia",
@@ -93,7 +103,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
+      "title": "Are ships through more willing to defy Iran or the US? What the data shows",
       "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
       "description": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
       "date": "Thu, 20 Aug 2026",
@@ -126,16 +136,6 @@
       "title": "Trump vows ‘economic warfare’ on countries helping Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
       "description": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
-      "date": "Thu, 20 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-      "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-      "description": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
       "date": "Thu, 20 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -203,9 +203,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
-      "link": "https://www.thehindu.com/news/international/us-religious-freedom-body-seeks-sanctions-against-rss-no-high-level-meetings-with-its-leaders/article71368052.ece",
-      "description": "The remarks of the religious freedom body’s chief came weeks ahead of RSS Chief Mohan Bhagwat’s visit to the U.S.",
+      "title": "Russian missile, drone barrage kills at least 16 in Ukraine's Kyiv region",
+      "link": "https://www.thehindu.com/news/international/russian-missile-drone-barrage-kills-at-least-16-in-ukraines-kyiv-region/article71368973.ece",
+      "description": "Ukrainian President Volodymyr Zelenskyy has pleaded for countries to send more Patriot interceptors, but international stockpiles are low amid the Iran war and Ukraine's more than four-year fight against Russia's all-out invasion",
       "date": "Thu, 20 Aug 2026",
       "source": "The Hindu",
       "region": "me",
@@ -216,6 +216,16 @@
       "title": "West Asia LIVE: Iran says Trump's 'Economic D-Day' is a diversion from U.S. domestic problems",
       "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-missile-strikes-strait-of-hormuz-ceasefire-deal-washington-tehran-donald-trump/article71367590.ece",
       "description": "Iran's armed forces warned Gulf countries against assisting the U.S. military on August 19, hours after the UAE announced it was severing economic ties with Tehran following new attacks on shipping",
+      "date": "Thu, 20 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+      "link": "https://www.thehindu.com/news/international/us-religious-freedom-body-seeks-sanctions-against-rss-no-high-level-meetings-with-its-leaders/article71368052.ece",
+      "description": "The remarks of the religious freedom body’s chief came weeks ahead of RSS Chief Mohan Bhagwat’s visit to the U.S.",
       "date": "Thu, 20 Aug 2026",
       "source": "The Hindu",
       "region": "me",
@@ -253,16 +263,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump threatens economic punishment on ‘any country’ helping Iran",
-      "link": "https://www.thehindu.com/news/international/trump-threatens-economic-punishment-on-any-country-helping-iran/article71367586.ece",
-      "description": "The intensified economic pressure campaign comes as the war nears its sixth month with no immediate diplomatic or military off-ramp in sight.",
-      "date": "Thu, 20 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Trump policy prompts US allies in Asia to seek greater self-reliance — media",
       "link": "https://tass.com/world/2175523",
       "description": "Trump's actions are drawing attention not only in Seoul but across the Pacific region, raising questions about how volatile their relationship with the United States is",
@@ -286,16 +286,6 @@
       "title": "Russia is China’s most reliable supplier of energy sources — Russian senator",
       "link": "https://tass.com/economy/2175417",
       "description": "Andrey Denisov says oil supplies from Russia to China grew by 92% in the first seven months amid the crisis around the Strait of Hormuz",
-      "date": "Thu, 20 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says blockade of Hormuz Strait was successful, now it is open",
-      "link": "https://tass.com/world/2175391",
-      "description": "\"No boats have gotten into Iran\" since the blockade started, the US president said",
       "date": "Thu, 20 Aug 2026",
       "source": "TASS",
       "region": "ru",
