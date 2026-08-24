@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24 19:20 UTC",
-  "total": 34,
+  "updated": "2026-08-24 20:16 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
@@ -43,10 +43,10 @@
       "bias": "Low"
     },
     {
-      "title": "Wars are happening across the world. Many of them are connected",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/wars-are-happening-across-the-world-many-of-them-are-connected",
-      "description": "All Thing Considered host Mary Louise Kelly speaks with NPR correspondents Tom Bowman and Emily Feng about the ways in which the U.S. war with Iran is connected to other conflicts across the globe.",
-      "date": "Thu, 20 Aug 2026",
+      "title": "Trump says U.S. will impose 'economic D-Day' against Iran",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5939493/trump-says-u-s-will-impose-economic-d-day-against-iran",
+      "description": "President Trump announced this week that the U.S. will be imposing the \"most crushing economic operation\" against Iran.",
+      "date": "Fri, 21 Aug 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -123,6 +123,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US unveils expanded sanctions to 'sever every economic lifeline' sustaining Iran",
+      "link": "https://www.france24.com/en/middle-east/20260824-us-unveils-fresh-sanctions-to-sever-every-economic-lifeline-sustaining-iran",
+      "description": "The US on Monday announced an expansion of secondary sanctions it hopes will \"sever every economic lifeline\" ​that sustains ‌Iran, Treasury Secretary Scott Bessent said at a press conference. The expanded sanctions target Iran's digital assets, technology, gold, aviation and ship...",
+      "date": "Mon, 24 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Mideast live: Iran predicts ‘another defeat’ for US after Washington's new sanctions",
+      "link": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
+      "description": "Iranian Economy Minister Ali Madanizadeh on Monday warned of \"another defeat\" for the US after Treasury Secretary Scott Bessent announced expanded sanctions against Tehran. Madanizadeh said Iran had a \"two-year plan\" to counter the new sanctions and dismissed Bessent's stated eff...",
+      "date": "Mon, 24 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US sanctions 'unlikely to get Tehran to bow down' despite effect on population",
       "link": "https://www.france24.com/en/us-sanctions-unlikely-to-get-tehran-to-bow-down-despite-effect-on-population",
       "description": "Iran has warned that Tehran would respond harshly to expanded U.S. sanctions, including measures against countries it sees as cooperating with Washington. The expanded sanctions come after weeks of impasse. The United States has not dislodged Iran’s grip on the Strait of Hormuz, ...",
@@ -151,6 +171,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen’s Houthis report attack on Saudi ship",
+      "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+      "description": "Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.",
+      "date": "Mon, 24 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump administration announces global economic war on Iran",
@@ -243,6 +273,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. Treasury chief vows to cut every ‘economic lifeline’ of Iran",
+      "link": "https://www.thehindu.com/news/international/us-treasury-chief-vows-to-cut-every-economic-lifeline-of-iran/article71386161.ece",
+      "description": "Scott Bessent’s address comes almost six months into a war on Tehran that has ground to a stalemate, with stalled peace talks and Iran preventing most traffic through the crucial Strait of Hormuz",
+      "date": "Mon, 24 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel’s Netanyahu says Iran ‘tried to kill’ one of his sons",
       "link": "https://www.thehindu.com/news/international/israels-netanyahu-says-iran-tried-to-kill-one-of-his-sons/article71386058.ece",
       "description": "Benjamin Netanyahu's elder son, Yair, 35, has spent extended periods in Miami since early 2024, reportedly under Shin Bet protection",
@@ -293,14 +333,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oil falls as Trump pledges economic war on Iran",
-      "link": "https://www.thehindu.com/news/international/oil-falls-as-trump-pledges-economic-war-on-iran/article71383218.ece",
-      "description": "Oil prices fell as investors awaited details of President Donald Trump’s fresh economic pressure campaign against Iran, while Asian markets traded mostly lower. Brent crude fell 2.3% to around $92 a barrel, with investors also eyeing Nvidia’s earnings and the Jackson Hole meeting",
+      "title": "Iranian parliament speaker dismisses US threats to Iran’s trading partners",
+      "link": "https://tass.com/world/2177183",
+      "description": "\"Americans know that no one buys their bombast,\" Mohammad Bagher Ghalibaf said",
       "date": "Mon, 24 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US should comply with bilateral memo in practice — Iran’s national security council",
+      "link": "https://tass.com/world/2177179",
+      "description": "Iran has no trust in the United States, Secretary of Iran’s Supreme National Security Council Mohsen Rezaei said",
+      "date": "Mon, 24 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Top Russian, Indian diplomats discuss Ukraine, Iran, Afghanistan",
@@ -316,26 +366,6 @@
       "title": "In calls with foreign leaders, Trump demands that they cut ties with Iran — Bessent",
       "link": "https://tass.com/world/2177167",
       "description": "US Secretary of the Treasury Scott Bessent refused to name those who received calls from the US",
-      "date": "Mon, 24 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Bessent threatens to deny access to dollar to countries that fail to join US sanctions",
-      "link": "https://tass.com/economy/2177161",
-      "description": "US Secretary of the Treasury Scott Bessent did not elaborate when the new sectoral sanctions on Iran will come into force",
-      "date": "Mon, 24 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian speaker accuses US of violating deal with Iran, undermining regional stability",
-      "link": "https://tass.com/world/2177149",
-      "description": "According to the Tasnim news agency, Ghalibaf stressed during the meeting that \"Iran rejects any pressure and is seeking to ensure compliance with the terms of the memorandum of understanding\"",
       "date": "Mon, 24 Aug 2026",
       "source": "TASS",
       "region": "ru",
