@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25 15:32 UTC",
-  "total": 32,
+  "updated": "2026-08-25 16:22 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
@@ -63,6 +63,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "date": "Tue, 25 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+      "description": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+      "date": "Tue, 25 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "date": "Tue, 25 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
@@ -88,6 +118,26 @@
       "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
       "date": "Thu, 20 Aug 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Watch: What are the US sanctions on Iran and who else will be affected?",
+      "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
+      "description": "Washington announced what it described as an \"economic D-Day\" against Iran, widening current sanctions and targetting countries with business ties with the regime.",
+      "date": "Tue, 25 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran offers $10 million to kill Trump's son",
+      "link": "https://www.france24.com/en/iran-offers-10-million-to-kill-trump-s-son",
+      "description": "Iranian state media has aired a video that appears to threaten the life of Barron Trump, US President Donald Trump's youngest son. Since the start of the war in February, Iranian media have on multiple occasions circulated content threatening the president and family members. The...",
+      "date": "Tue, 25 Aug 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -133,14 +183,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran threatens retaliation as new US sanctions hit already-struggling economy",
-      "link": "https://www.france24.com/en/iran-threatens-retaliation-as-new-us-sanctions-hit-already-struggling-economy",
-      "description": "Iranian officials are maintaining their strong rhetoric against the US, after Washington announced a fresh raft of sanctions against Iran. Tehran has pledged to hit back with its own measures, while the country is already suffering from already high inflation.",
+      "title": "Qatar says US sanctions on Iran are unilateral",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
+      "description": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
       "date": "Tue, 25 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US launches Economic war on Iran",
+      "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
+      "description": "The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran",
+      "date": "Tue, 25 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "China says will safeguard its own interests as US expands Iran sanctions",
@@ -283,6 +343,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Nearly 20 seafarers killed while crossing Hormuz since Iran war started in February",
+      "link": "https://tass.com/world/2177573",
+      "description": "As of August 21, as many as 68 incidents had been confirmed",
+      "date": "Tue, 25 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump warns Iran against placing mines in Strait of Hormuz",
+      "link": "https://tass.com/world/2177551",
+      "description": "According to the US leader, all mines within the international waters of the Strait of Hormuz have been destroyed or removed",
+      "date": "Tue, 25 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Tehran's condition for resuming dialogue is US compliance with Islamabad agreement",
       "link": "https://tass.com/world/2177531",
       "description": "According to the source, the Pakistani side is actively working to communicate this stance to the United States",
@@ -296,26 +376,6 @@
       "title": "US’ latest anti-Iranian sanctions fail to instill promised awe — media",
       "link": "https://tass.com/world/2177521",
       "description": "According to the portal, these sanctions are yet another extended ultimatum",
-      "date": "Tue, 25 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US to have no place in Middle East’s future — Iran’s national security council",
-      "link": "https://tass.com/world/2177517",
-      "description": "Secretary of Iran’s Supreme National Security Council Mohsen Rezaei emphasized that the countries in the region would determine their own fate without the presence of the United States",
-      "date": "Tue, 25 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US offers to lift sanctions on Iran in exchange for opening Strait of Hormuz — TV",
-      "link": "https://tass.com/world/2177341",
-      "description": "According to the TV channel, this proposal was conveyed to the Iranian side by Pakistani Army Chief Asim Munir during his visit to Iran",
       "date": "Tue, 25 Aug 2026",
       "source": "TASS",
       "region": "ru",
