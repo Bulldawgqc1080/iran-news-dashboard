@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25 14:33 UTC",
-  "total": 30,
+  "updated": "2026-08-25 15:32 UTC",
+  "total": 32,
   "stories": [
     {
       "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
@@ -93,6 +93,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "🔴 Mideast live: Trump says Strait of Hormuz demined, warns of ‘zero tolerance’ for new mines",
+      "link": "https://www.france24.com/en/middle-east/20260825-mideast-live-oil-tanker-struck-by-projectile-in-strait-of-hormuz-off-oman",
+      "description": "",
+      "date": "Tue, 25 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US economic D-Day sanctions: 'Repeated bombing attacks across Iran failed to change the calculus'",
       "link": "https://www.france24.com/en/video/20260825-us-economic-d-day-sanctions-repeated-bombing-attacks-across-iran-failed-to-change-the-calculus",
       "description": "Genie Godula is pleased to welcome Imran Bayoumi, Deputy Director & Resident Fellow at the Atlantic Council. He sees the Trump administration’s new sanctions strategy toward Iran as an attempt to seek economic leverage where military force has so far failed to produce any results...",
@@ -133,29 +143,19 @@
       "bias": "Low-Med"
     },
     {
+      "title": "China says will safeguard its own interests as US expands Iran sanctions",
+      "link": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss",
+      "description": "China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.",
+      "date": "Tue, 25 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
       "link": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss",
       "description": "Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.",
-      "date": "Tue, 25 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How the US sanctions on Iran impact China",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
-      "description": "US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.",
-      "date": "Tue, 25 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-      "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
-      "description": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
       "date": "Tue, 25 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -281,6 +281,26 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Tehran's condition for resuming dialogue is US compliance with Islamabad agreement",
+      "link": "https://tass.com/world/2177531",
+      "description": "According to the source, the Pakistani side is actively working to communicate this stance to the United States",
+      "date": "Tue, 25 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US’ latest anti-Iranian sanctions fail to instill promised awe — media",
+      "link": "https://tass.com/world/2177521",
+      "description": "According to the portal, these sanctions are yet another extended ultimatum",
+      "date": "Tue, 25 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US to have no place in Middle East’s future — Iran’s national security council",
