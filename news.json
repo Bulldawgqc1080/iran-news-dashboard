@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 05:22 UTC",
+  "updated": "2026-08-26 06:27 UTC",
   "total": 36,
   "stories": [
     {
@@ -36,16 +36,6 @@
       "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
       "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
       "description": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
-      "date": "Mon, 24 Aug 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-      "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-      "description": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
       "date": "Mon, 24 Aug 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: Iran says Hormuz strait still closed despite transit corridor talks with Oman",
+      "link": "https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman",
+      "description": "Tehran warned on Wednesday that the Strait of Hormuz will remain closed unless the United States ends the war, despite discussions with Oman on a temporary transit corridor in the vital waterway. Washington had earlier announced fresh sanctions aimed at pressuring Iran to capitul...",
+      "date": "Wed, 26 Aug 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Oil prices fall for second day as US shifts from Iran strikes to sanctions",
       "link": "https://www.france24.com/en/economy/20260825-oil-prices-fall-us-iran-strikes-sanctions",
       "description": "Oil prices fell for a second straight day on Tuesday as traders saw a reduced risk of renewed US military strikes on Iran after Washington instead threatened broader economic sanctions. Treasury Secretary Scott Bessent declared an “economic D-Day” against Tehran but gave no timel...",
@@ -173,19 +173,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US economic D-Day sanctions: 'Repeated bombing attacks across Iran failed to change the calculus'",
-      "link": "https://www.france24.com/en/video/20260825-us-economic-d-day-sanctions-repeated-bombing-attacks-across-iran-failed-to-change-the-calculus",
-      "description": "Genie Godula is pleased to welcome Imran Bayoumi, Deputy Director & Resident Fellow at the Atlantic Council. He sees the Trump administration’s new sanctions strategy toward Iran as an attempt to seek economic leverage where military force has so far failed to produce any results...",
-      "date": "Tue, 25 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
-      "description": "Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.",
+      "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
+      "description": "Deputy foreign minster says the route&#039;s entry as well as part of the exit would run through Iranian territorial waters.",
       "date": "Wed, 26 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -193,10 +183,20 @@
       "bias": "Medium"
     },
     {
-      "title": "New US sanctions signal Trump desperation on Iran, experts say",
-      "link": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
-      "description": "Economic escalation is unlikely to force the Iranian government to capitulate to US demands, according to experts.",
-      "date": "Tue, 25 Aug 2026",
+      "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
+      "description": "Iran is betting global economic fallout and Republicans worried about the midterms will force Trump&#039;s retreat.",
+      "date": "Wed, 26 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
+      "description": "Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.",
+      "date": "Wed, 26 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -263,6 +263,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Gulf ship traffic via the Strait of Hormuz hovers below 10-day average, data shows",
+      "link": "https://www.thehindu.com/news/international/gulf-ship-traffic-via-the-strait-of-hormuz-hovers-below-10-day-average-data-shows/article71391591.ece",
+      "description": "The ‌figures could change as some ships typically switch off their location transponders during the voyage",
+      "date": "Wed, 26 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Somalian pirates and their role in war | Explained",
+      "link": "https://www.thehindu.com/news/international/somalian-pirates-and-their-role-in-war-explained/article71387212.ece",
+      "description": "Why have Somalian pirates become active? Are they benefiting from the Iran war? Are the Houthis helping and arming them?",
+      "date": "Wed, 26 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump's new economic squeeze on Iran has big challenge: China",
       "link": "https://www.thehindu.com/news/international/trumps-new-economic-squeeze-on-iran-has-big-challenge-china/article71391233.ece",
       "description": "Trump’s economic pressure on Iran faces challenges from China’s strong trade ties, complicating U.S.-China relations ahead of a key summit",
@@ -296,26 +316,6 @@
       "title": "U.S. President Donald Trump says executions of Iran protesters must stop",
       "link": "https://www.thehindu.com/news/international/us-president-donald-trump-says-executions-of-iran-protesters-must-stop/article71389448.ece",
       "description": "\"It is a humanitarian crisis of epic proportions, and must be stopped, NOW,\" U.S. President Donald Trump said",
-      "date": "Tue, 25 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
-      "link": "https://www.thehindu.com/news/international/irans-rial-currency-hits-new-record-low-as-us-prepares-to-announce-more-sanctions/article71384197.ece",
-      "description": "The rial dropped to 2.02 million to the U.S. dollar as trading opened on currency markets. Iran's official Central Bank rate stood at around 1.5 million rial to the dollar, but the market rate is what most Iranians pay",
-      "date": "Tue, 25 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan, Iran explore reopening Strait of Hormuz, easing West Asia tensions",
-      "link": "https://www.thehindu.com/news/international/pakistan-iran-explore-reopening-strait-of-hormuz-easing-west-asia-tensions/article71387519.ece",
-      "description": "Army Chief Field Marshal Asim Munir was accompanied by Interior Minister Mohsin Naqvi, concluded a day-long visit to Iran as part of Islamabad’s diplomatic efforts to break the deadlock in the ongoing West Asia conflict",
       "date": "Tue, 25 Aug 2026",
       "source": "The Hindu",
       "region": "me",
