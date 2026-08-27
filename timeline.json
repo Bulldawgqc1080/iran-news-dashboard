@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-26 21:26 UTC",
-  "total": 3,
+  "updated": "2026-08-27 02:22 UTC",
+  "total": 4,
   "events": [
+    {
+      "date": "2026-08-27",
+      "dateDisplay": "Aug 27, 2026",
+      "title": "Iran war live: Qatar PM to visit Tehran; Trump \u2018not in a hurry\u2019 over talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-08-26",
       "dateDisplay": "Aug 26, 2026",
@@ -19,8 +30,8 @@
       "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
       "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
       "sources": [
-        "BBC",
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
