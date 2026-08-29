@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28 19:44 UTC",
-  "total": 23,
+  "updated": "2026-08-29 02:33 UTC",
+  "total": 21,
   "stories": [
     {
       "title": "After 6 months of war, Iran's battered regime remains entrenched",
@@ -21,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+      "date": "Fri, 28 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump says all mines cleared from Strait of Hormuz",
@@ -93,20 +103,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen’s divided education system leaves students’ futures in limbo",
-      "link": "https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss",
-      "description": "Students in Houthi areas fear lost opportunities after government decision not to authenticate some certificates.",
-      "date": "Fri, 28 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "6 months of war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/6-months-of-war-on-iran?traffic_source=rss",
-      "description": "The US-Israeli war on Iran has reached the six-month mark, with no sign of slowing down.",
-      "date": "Fri, 28 Aug 2026",
+      "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+      "description": "Iran&#039;s IRGC claims decisive control over the Strait of Hormuz as the US maintains its naval blockade.",
+      "date": "Sat, 29 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -183,49 +183,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran executes over 500 people in 2026: rights group",
-      "link": "https://www.thehindu.com/news/international/iran-executes-over-500-people-in-2026-rights-group/article71397388.ece",
-      "description": "At least 511 people have been executed so far in 2026, according to Norway-based NGO Iran Human Rights, including at least 29 people in connection with anti-government protests in January",
-      "date": "Thu, 27 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US anti-Iranian sanctions to tell negatively on region — top Iraqi, Omani diplomats",
+      "link": "https://tass.com/economy/2179155",
+      "description": "Foreign Ministers Fuad Hussein of Iraq and Badr al-Busaidi of Oman emphasized the importance of holding emergency meetings of the countries concerned to discuss ways to address the dangerous developments and limit their repercussions",
+      "date": "Fri, 28 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran, Qatar hold Hormuz talks as U.S. blockade chokes Iran oil imports",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-qatar-talks-strait-of-hormuz-august-27-2026/article71396428.ece",
-      "description": "Qatar said that they discussed de-escalation efforts as well as the proposed framework for Hormuz between Iran and Oman, with Iranian Foreign Minister Abbas Araghchi",
-      "date": "Thu, 27 Aug 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Khamenei calls for mobilization of domestic resources against US economic isolation plans",
+      "link": "https://tass.com/world/2179153",
+      "description": "Mojtaba Khamenei called on all Iranians to show solidarity in the face of external threats as he highlighted the need to stop any actions or remarks that can split society",
+      "date": "Fri, 28 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Allies doubt whether US can deter its adversaries amid Iran war — newspaper",
       "link": "https://tass.com/world/2178983",
       "description": "According to the newaspaper, America has notably reduced its military presence in the Pacific Ocean and in Europe",
-      "date": "Fri, 28 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US officials say they `turned the tide’ in Hormuz — Axios",
-      "link": "https://tass.com/world/2178957",
-      "description": "According to the media outlet, US officials believe it could be \"a watershed moment in the war that brings not only gradual relief to the world economy, but also a better deal with Iran\"",
-      "date": "Fri, 28 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Istanbul talks on Iran postponed over scheduling conflict — media",
-      "link": "https://tass.com/world/2178927",
-      "description": "According to the agency, the meeting was postponed because of a scheduling conflict involving one of the participants",
       "date": "Fri, 28 Aug 2026",
       "source": "TASS",
       "region": "ru",
