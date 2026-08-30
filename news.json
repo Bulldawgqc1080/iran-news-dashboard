@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-30 06:02 UTC",
-  "total": 22,
+  "updated": "2026-08-30 12:24 UTC",
+  "total": 25,
   "stories": [
-    {
-      "title": "After 6 months of war, Iran's battered regime remains entrenched",
-      "link": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-      "description": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
-      "date": "Fri, 28 Aug 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
     {
       "title": "US plans to cut off military aid to key Middle East ally, BBC told",
       "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
@@ -83,9 +73,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Putin, Xi set for Central Asia summit as Russia, China seek to counter Western influence",
+      "title": "Putin, Xi set for Central Asia summit as Russia and China seek to counter Western influence",
       "link": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence",
-      "description": "Russian President Vladimir Putin and Chinese President Xi Jinping are due in Kyrgyzstan on Monday for a two-day summit, joined by the leaders of Iran and India. The gathering comes as several members face war, sanctions and trade tensions with the West, underlining the bloc’s gro...",
+      "description": "Russian President Vladimir Putin and Chinese President Xi Jinping are due in Kyrgyzstan on Monday for a two-day summit, joined by the leaders of Iran and India. The gathering comes as the group seeks to project a united front amid wars in Ukraine and Iran and growing tensions wit...",
       "date": "Sun, 30 Aug 2026",
       "source": "France 24",
       "region": "eu",
@@ -103,34 +93,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Nepali army uses helicopters to rescue flood survivors",
-      "link": "https://www.france24.com/en/nepali-army-uses-helicopters-to-rescue-flood-survivors",
-      "description": "With roads damaged by the deadly floods, the Nepali army is using helicopters to carry out rescue operations and transport survivors to safety. Meanwhile, skies remain overcast, with more rain expected in the coming hours, raising concerns about further flooding. FRANCE 24's Shah...",
-      "date": "Sat, 29 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "title": "How has life changed for Iranians six months into the war?",
+      "link": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss",
+      "description": "Common Iranians are under increasing pressure, with no relief expected in the short term.",
+      "date": "Sun, 30 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Six months on, what did the strikes on Iran achieve?",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
+      "description": "The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.",
+      "date": "Sun, 30 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+      "link": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
+      "description": "Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.",
+      "date": "Sun, 30 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
+      "link": "https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss",
+      "description": "Six months into the US-Israel war on Iran, the governments in the three countries are fighting political wars at home.",
+      "date": "Sun, 30 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran's supreme leader urges Gulf rulers in written message to unite against, confront 'real enemy'",
+      "link": "https://www.dawn.com/news/2026154/irans-supreme-leader-urges-gulf-rulers-in-written-message-to-unite-against-confront-real-enemy",
+      "description": "Iran’s Supreme Leader Mojtaba Khamenei urged Muslim countries, particularly those in the Gulf, to unite against what he called their “real enemy” and said divisions among Muslims served the interests of their adversaries. The message was published on Mojtaba’s Telegram account fo...",
+      "date": "Sun, 30 Aug 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
-      "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-      "description": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
+      "title": "Rescuers race to find thousands missing after Nepal-China glacier collapse",
+      "link": "https://www.dawn.com/news/2026152/rescuers-race-to-find-thousands-missing-after-nepal-china-glacier-collapse",
+      "description": "Rescuers in Nepal and China raced on Sunday to find thousands of people missing after a glacier collapse unleashed a catastrophic mudslide across the Himalayas, as they faced challenging weather conditions and rising water levels. Authorities said the death toll rose to 750 by Su...",
       "date": "Sun, 30 Aug 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
-      "description": "Deputy foreign minister says Iranian forces have &#039;full oversight&#039; of movements in the strait.",
-      "date": "Sun, 30 Aug 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "French far right accuses left of threatening ‘civil peace’ if Le Pen wins",
@@ -173,11 +193,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Qatar PM holds talks in Tehran to revive US-Iran dialogue",
-      "link": "https://www.dawn.com/news/2025689/qatar-pm-holds-talks-in-tehran-to-revive-us-iran-dialogue",
-      "description": "https://www.dawn.com/news/2025624",
-      "date": "Fri, 28 Aug 2026",
-      "source": "Dawn",
+      "title": "Iranian Supreme Leader calls for unity among Muslim countries",
+      "link": "https://www.thehindu.com/news/international/iranian-supreme-leader-calls-for-unity-among-muslim-countries/article71407523.ece",
+      "description": "Mojtaba Khamenei called on the rulers of regional countries to “recognise your real enemy, understand its plan, and confront it”, referring to the U.S. and Israel",
+      "date": "Sun, 30 Aug 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -201,6 +221,16 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran’s supreme leader calls on all Muslim countries to stand up to US",
+      "link": "https://tass.com/world/2179473",
+      "description": "Mojtaba Khamenei pointed out that the US and Israel are at war not only with Iran and its regional allies, but also with all Muslims, \"including the peoples of West Asia and North Africa\"",
+      "date": "Sun, 30 Aug 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Russia's trust in Switzerland as talks venue is nearly exhausted — envoy",
