@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-31 01:06 UTC",
-  "total": 24,
+  "updated": "2026-08-31 07:50 UTC",
+  "total": 26,
   "stories": [
+    {
+      "title": "US and Iran trade strikes for first time in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "description": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+      "date": "Mon, 31 Aug 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
     {
       "title": "US plans to cut off military aid to key Middle East ally, BBC told",
       "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
@@ -43,26 +53,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "date": "Tue, 25 Aug 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-      "date": "Tue, 25 Aug 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Watch: What are the US sanctions on Iran and who else will be affected?",
       "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "description": "Washington announced what it described as an \"economic D-Day\" against Iran, widening current sanctions and targetting countries with business ties with the regime.",
@@ -73,9 +63,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East Live: US strikes Iran for first time in a month as Tehran retaliates against Jordan base",
+      "title": "Middle East Live: Tehran targets bases in Jordan and UAE after US strikes Iran for the first time in a month",
       "link": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month",
-      "description": "US forces struck Iranian rocket launchers on the Strait of Hormuz in their first military action in a month on Sunday, breaking a lull in fighting during an intermittent war that has lasted more than six months. Iran swiftly vowed to retaliate for what it called a deadly attack. ...",
+      "description": "US forces struck what they described as Iranian rocket launchers on the Strait of Hormuz in their first military action in a month on Sunday, breaking a lull in fighting during an intermittent war that has lasted more than six months. In turn Iran struck military bases in Jordan ...",
       "date": "Sun, 30 Aug 2026",
       "source": "France 24",
       "region": "eu",
@@ -85,7 +75,7 @@
     {
       "title": "US forces strike Iranian launchers on Larak island in Strait of Hormuz",
       "link": "https://www.france24.com/en/middle-east/20260830-us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz",
-      "description": "US forces struck Iranian rocket launchers on the Strait of Hormuz in the first military action in a month, a US official said Sunday. ⁠Iran's ⁠Revolutionary ​Guards ​said the US attack on Larak ​island ‌killed and wounded ⁠several Iranian fighters and ​civilians, and ‌vowed to pu...",
+      "description": "US forces struck Iranian rocket launchers on the Strait of Hormuz in the first military action in a month, a US official said Sunday. ⁠Iran's ⁠Revolutionary ​Guards ​said the attack on Larak ​island ‌killed and wounded ⁠several Iranian fighters and ​civilians, and ‌vowed to punis...",
       "date": "Sun, 30 Aug 2026",
       "source": "France 24",
       "region": "eu",
@@ -93,9 +83,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
+      "title": "Iran targets Jordan after first US attack in a month",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+      "description": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
+      "date": "Mon, 31 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US plans to sanction another bank to keep economic pressure on Iran",
+      "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
+      "description": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
+      "date": "Mon, 31 Aug 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-      "description": "US Central Command says its forces bombed two rocket launchers of the IRGC on Larak Island.",
+      "description": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an &#039;imminent threat&#039;.",
       "date": "Mon, 31 Aug 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -173,10 +183,20 @@
       "bias": "Low-Med"
     },
     {
+      "title": "West Asia LIVE: UAE says dealt with drone coming from Iran over its waters",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-us-attack-on-iran-live-updates-donald-trump-strait-of-hormuz-news-august-31-2026/article71409553.ece",
+      "description": "Tehran said the attack was ‌in response to the killing of ⁠Iran’s Revolutionary Guards ⁠and Iranian civilians ‌on Larak Island.",
+      "date": "Mon, 31 Aug 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "U.S. forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
       "link": "https://www.thehindu.com/news/international/us-forces-strike-iran-rocket-launcher-donald-trump-updates/article71408837.ece",
       "description": "A U.S. officials says that U.S. forces have struck Iranian rocket launchers on the Strait of Hormuz in the first military action in a month",
-      "date": "Sun, 30 Aug 2026",
+      "date": "Mon, 31 Aug 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -203,40 +223,40 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Jordan intercepts eight Iranian missiles — Petra news agency",
-      "link": "https://tass.com/world/2179635",
-      "description": "The type of the missiles is unknown",
-      "date": "Sun, 30 Aug 2026",
+      "title": "US sole factor destabilizing Strait of Hormuz — Iranian Foreign Ministry",
+      "link": "https://tass.com/world/2179687",
+      "description": "The Iranian Foreign Ministry added it will respond to all US actions with \"a crushing blow\"",
+      "date": "Mon, 31 Aug 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Iran’s IRGC reports destroying US fighter jet deployment sites in Jordan — Tasnim",
-      "link": "https://tass.com/world/2179633",
-      "description": "Earlier, it was reported that a series of explosions was heard on Jordan’s territory",
-      "date": "Sun, 30 Aug 2026",
+      "title": "IRGC says supertanker hits mines in Strait of Hormuz — agency",
+      "link": "https://tass.com/world/2179675",
+      "description": "The vessel attempted to use an \"illegal route\" in the southern part of the Strait of Hormuz",
+      "date": "Mon, 31 Aug 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "US redirected 83 ships since resuming maritime blockade of Iran",
-      "link": "https://tass.com/world/2179631",
-      "description": "The US military also disabled three and boarded two vessels",
-      "date": "Sun, 30 Aug 2026",
+      "title": "Iranian lawmaker warns US of retaliation over Middle East escalation",
+      "link": "https://tass.com/world/2179673",
+      "description": "Ebrahim Azizi noted that the United States will pay \"a heavier price\"",
+      "date": "Mon, 31 Aug 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Iran’s Fars news agency reports about explosions in Jordan",
-      "link": "https://tass.com/world/2179629",
-      "description": "No other details are known at this point",
-      "date": "Sun, 30 Aug 2026",
+      "title": "All options on table to sanction China for ties with Iran — US Treasury secretary",
+      "link": "https://tass.com/world/2179655",
+      "description": "Scott Bessent also said he would hold talks with his Chinese counterparts during the meeting of G20 finance ministers and central bank chiefs",
+      "date": "Mon, 31 Aug 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
