@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-01 05:49 UTC",
-  "total": 33,
+  "updated": "2026-09-01 10:42 UTC",
+  "total": 30,
   "stories": [
+    {
+      "title": "The U.S. wants others to join its economic pressure campaign against Iran. Will they?",
+      "link": "https://www.npr.org/2026/09/01/nx-s1-5950402/the-u-s-wants-others-to-join-its-economic-pressure-campaign-against-iran-will-they",
+      "description": "NPR's Leila Fadel asks former Deputy National Security Adviser Jon Finer about U.S. efforts to cultivate global support to economically isolate and pressure Iran.",
+      "date": "Tue, 01 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump's plan for economic D-day for Iran has one big hole: China",
       "link": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
@@ -33,6 +43,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+      "date": "Tue, 01 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "US plans to cut off military aid to key Middle East ally, BBC told",
       "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
       "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
@@ -53,9 +73,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
-      "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-      "description": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+      "description": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
       "date": "Tue, 25 Aug 2026",
       "source": "BBC",
       "region": "eu",
@@ -63,9 +83,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-      "description": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+      "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
+      "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+      "description": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
       "date": "Tue, 25 Aug 2026",
       "source": "BBC",
       "region": "eu",
@@ -93,57 +113,37 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Xi, Putin hold talks ahead of Shanghai Cooperation Organization summit",
-      "link": "https://www.france24.com/en/tv-shows/business/20260831-xi-putin-hold-talks-ahead-of-shanghai-cooperation-organization-summit",
-      "description": "Chinese President Xi Jinping and Russia's Vladimir Putin are among the heads of state attending a Shanghai Cooperation Organization summit taking place in Kyrgyzstan. Iran's president Masoud Pezeshkian is also in attendance, where he held bilateral talks with India's Narendra Mod...",
-      "date": "Mon, 31 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
+      "link": "https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss",
+      "description": "A price cap increase is on the way, the latest blow to people already struggling with rising costs.",
+      "date": "Tue, 01 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump threatens to ‘hit Iran hard’ as strikes resume after month-long lull",
-      "link": "https://www.france24.com/en/middle-east/20260831-trump-threatens-to-hit-iran-hard-as-strikes-resume-after-month-long-lull",
-      "description": "President Donald Trump said Monday that the US would hit back against Iranian attacks on US targets in the Middle East, according to a Fox News reporter. The Iranian attacks were themselves a response to US strikes on an island in the Strait of Hormuz, the first flare-up in a mon...",
-      "date": "Mon, 31 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
+      "link": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss",
+      "description": "Many Iranians inside the country feel they are being unjustly erased from the international community.",
+      "date": "Tue, 01 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump vows to hit back 'hard' after first exchange of fire with Iran in weeks",
-      "link": "https://www.france24.com/en/trump-vows-to-hit-back-hard-after-first-exchange-of-fire-with-iran-in-weeks",
-      "description": "Donald Trump threatened to hit Iran \"hard\" after the two foes traded fire for the first time in over a month, while Iran's president warned that more fighting with the US was not in his country's interest. After six months of war, the foes remain at an impasse, with Iran keeping ...",
-      "date": "Mon, 31 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation",
+      "link": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss",
+      "description": "Brent crude tops $92 a barrel following first strikes between Washington and Tehran in over a month.",
+      "date": "Tue, 01 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
-      "link": "https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt",
-      "description": "A ship carrying arms for a right-wing militia, the Altalena was sunk 78 years ago off the coast of Tel Aviv at the orders of Israel’s founders. The discovery of its wreckage last week has given the country’s right-wing government ammunition to target the left and attempt to redir...",
-      "date": "Mon, 31 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Latest flare-up between US and Iran bring conflict's lull to an end",
-      "link": "https://www.france24.com/en/latest-flare-up-between-us-and-iran-bring-conflict-s-lull-to-an-end",
-      "description": "Iran's foreign minister has accused Israel's Benjamin Netanyahu of tricking the United States into war with the Islamic Republic. Over six months into the conflict, there appears to be no end in sight. This after the US struck sites in Iran, prompting Tehran to respond. An April ...",
-      "date": "Mon, 31 Aug 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?",
+      "title": "EU considers military mission to replace UN peacekeepers in South Lebanon",
       "link": "https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss",
       "description": "Analysts say Israel could benefit when UNIFIL&#039;s mandate expires on December 31.",
       "date": "Tue, 01 Sep 2026",
@@ -153,24 +153,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
-      "description": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
+      "title": "Pezeshkian offers US olive branch. says Tehran will reciprocate if Washington honours interim deal commitments",
+      "link": "https://www.dawn.com/news/2026612/pezeshkian-offers-us-olive-branch-says-tehran-will-reciprocate-if-washington-honours-interim-deal-commitments",
+      "description": "Iran will immediately reciprocate if the United States returns to its commitments under an interim deal signed in June, President Masoud Pezeshkian said on Tuesday. He made his comments at the Shanghai Cooperation Organisation Summit in Bishkek after the first exchange of direct ...",
       "date": "Tue, 01 Sep 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Lebanon asks Greece to help enforce agreement with Israel",
-      "link": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss",
-      "description": "After Greece agrees to Israeli weapons deal, Joseph Aoun asks Athens to help advance US-brokered framework agreement.",
-      "date": "Mon, 31 Aug 2026",
-      "source": "Al Jazeera",
+      "title": "PM Shehbaz says water ‘lifeblood’ of region, must never be weaponised",
+      "link": "https://www.dawn.com/news/2026583/pm-shehbaz-says-water-lifeblood-of-region-must-never-be-weaponised",
+      "description": "Prime Minister Shehbaz Sharif on Tuesday said water was the “lifeblood” of the region and must never be weaponised, as he addressed a summit of the Shanghai Cooperation Organisation (SCO) in Kyrgyzstan. Speaking at the SCO Council of Heads of States (CHS) meeting in the Kyrgyz ca...",
+      "date": "Tue, 01 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "US army secretary submits resignation amid reports of tensions with Pentagon chief Hegseth",
@@ -206,26 +206,6 @@
       "title": "Trump says NBC journalist should face 'punishment' from broadcast regulator",
       "link": "https://www.dawn.com/news/2026187/trump-says-nbc-journalist-should-face-punishment-from-broadcast-regulator",
       "description": "United States President Donald Trump on Sunday threatened a prominent NBC broadcast journalist with possible punishment by US media regulators as the Republican expressed disappointment with coverage of his candidate endorsements ahead of November’s midterm elections. Trump took ...",
-      "date": "Sun, 30 Aug 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Nepal-China flood death toll rises to nearly 800, with over 3,000 missing",
-      "link": "https://www.dawn.com/news/2026152/nepal-china-flood-death-toll-rises-to-nearly-800-with-over-3000-missing",
-      "description": "Devastating floods near the border with China killed at least 781 people in Nepal, its disaster authority said on Sunday, with 2,502 people missing as rescue efforts continued for a fifth day. Chinese state media earlier confirmed 16 dead in Tibet and 546 people missing following...",
-      "date": "Sun, 30 Aug 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran's supreme leader urges Gulf rulers in written message to unite against, confront 'real enemy'",
-      "link": "https://www.dawn.com/news/2026154/irans-supreme-leader-urges-gulf-rulers-in-written-message-to-unite-against-confront-real-enemy",
-      "description": "Iran’s Supreme Leader Mojtaba Khamenei urged Muslim countries, particularly those in the Gulf, to unite against what he called their “real enemy” and said divisions among Muslims served the interests of their adversaries. The message was published on Mojtaba’s Telegram account fo...",
       "date": "Sun, 30 Aug 2026",
       "source": "Dawn",
       "region": "me",
@@ -293,9 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says China ‘relatively inactive’ on Strait of Hormuz",
-      "link": "https://tass.com/world/2180119",
-      "description": "The US president added that he has \"a very good relationship\" with Chinese President Xi Jinping",
+      "title": "Press review: US-Iran war resumes as EU readies to fund Ukrainian conflict beyond 2028",
+      "link": "https://tass.com/pressreview/2180233",
+      "description": "Top stories from the Russian press on Tuesday, September 1st",
       "date": "Tue, 01 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -303,30 +283,20 @@
       "bias": "Very High"
     },
     {
-      "title": "US uses fewer weapons against Iran than provided to Ukraine under Biden — Trump",
-      "link": "https://tass.com/world/2180113",
-      "description": "According to the US president, Washington gave Ukraine over $300 billion worth of ammunition during this period",
-      "date": "Mon, 31 Aug 2026",
+      "title": "Air defense systems are main focus of Russia-Iran military-technical cooperation",
+      "link": "https://tass.com/defense/2180327",
+      "description": "Federal Service for Military-Technical Cooperation Director Dmitry Shugayev added that other types of weapons, such as aircraft and small arms, are also being discussed",
+      "date": "Tue, 01 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Trump claims about 30 ships pass through Strait of Hormuz every night with US assistance",
-      "link": "https://tass.com/world/2180109",
-      "description": "The US president noted that \"a lot of oil is coming out,\" and the price has not increased as some forecasts had predicted",
-      "date": "Mon, 31 Aug 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump rules out use of nuclear weapons against Iran",
-      "link": "https://tass.com/world/2180101",
-      "description": "The US president explained that \"there's no reason for it\"",
-      "date": "Mon, 31 Aug 2026",
+      "title": "New Russia sanctions bill faces opposition in US — Politico",
+      "link": "https://tass.com/world/2180181",
+      "description": "According to the newspaper, its future prospects are unclear",
+      "date": "Tue, 01 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
