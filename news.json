@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-02 01:49 UTC",
-  "total": 35,
+  "updated": "2026-09-02 06:34 UTC",
+  "total": 41,
   "stories": [
+    {
+      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+      "link": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+      "description": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The U.S. wants others to join its economic pressure campaign against Iran. Will they?",
       "link": "https://www.npr.org/2026/09/01/nx-s1-5950402/the-u-s-wants-others-to-join-its-economic-pressure-campaign-against-iran-will-they",
@@ -23,9 +33,19 @@
       "bias": "Low"
     },
     {
-      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "description": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
+      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
       "date": "Wed, 02 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -103,6 +123,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "USS Abraham Lincoln aircraft carrier docks in Thailand after nine months at sea",
+      "link": "https://www.france24.com/en/asia-pacific/20260902-uss-abraham-lincoln-aircraft-carrier-docks-in-thailand-after-nine-months-at-sea",
+      "description": "More than 5,000 US sailors and Marines arrived in Thailand Wednesday after nine months at sea on the USS Abraham Lincoln aircraft carrier. The carrier's long deployment in the Middle East during the US-Israeli war on Iran sparked reports of worsening mental health crises on board...",
+      "date": "Wed, 02 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people",
+      "link": "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
+      "description": "Iranian state media reported Wednesday that US strikes killed 11 people in two separate attacks, including four at a wedding in the country’s south. Iran’s Revolutionary Guards said they have responded by attacking US assets in Kuwait, Bahrain, Jordan and Erbil in Iraqi Kurdistan...",
+      "date": "Wed, 02 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Germany blames Russia for airport drone incident, hits back with sanctions",
       "link": "https://www.france24.com/en/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
       "description": "Germany on Tuesday blamed Russia for an attempted \"hybrid attack\" involving an explosive-laden drone at a strategic airport last month and announced diplomatic counter-measures. The European Union expressed \"full solidarity\" with Germany, NATO assured that it would defend its mem...",
@@ -143,6 +183,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US strikes on Iran kill child at wedding ceremony",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+      "description": "Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
+      "link": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
+      "description": "The Republican House speaker defends the US-Israel war on Iran and praises Trump&#039;s &#039;steady hands at the wheel&#039;.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran says US bombed a wedding party in Sirik, killing five people",
+      "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
+      "description": "Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
       "description": "The US launched new strikes on Iran&#039;s southern coast with explosions reported in several locations.",
@@ -163,7 +233,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
+      "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
       "description": "Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.",
       "date": "Wed, 02 Sep 2026",
@@ -183,14 +253,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Iranian state media announces numerous US strikes on the country",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
-      "description": "Iranian state television has reported numerous strikes on Iranian territory on Tuesday.",
-      "date": "Tue, 01 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Iran targets American assets in Middle East after vowing 'severe' consequences for fresh wave of US strikes",
+      "link": "https://www.dawn.com/news/2026830/iran-targets-american-assets-in-middle-east-after-vowing-severe-consequences-for-fresh-wave-of-us-strikes",
+      "description": "Iran pushed ahead with strikes targeting American interests around the Middle East on Wednesday after vowing “severe” consequences to a fresh wave of US attacks. The latest flare-up is part of a cycle of retaliation that followed US strikes on Iran, with fighting over the Hormuz ...",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Pezeshkian offers US olive branch. says Tehran will reciprocate if Washington honours interim deal commitments",
@@ -243,11 +313,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump threatens retribution after Iran responds to US escalation",
-      "link": "https://www.dawn.com/news/2026527/trump-threatens-retribution-after-iran-responds-to-us-escalation",
-      "description": "• After weeks of calm, US forces strike Iranian launchers on Larak Island; Tehran retaliates with missiles on Jordan bases, drone over UAE waters• Pezeshkian calls for negotiated end to war• Trump posts AI video of ‘explosion on Kharg Island’ WASHINGTON: US Pres­i­dent Donald Tru...",
-      "date": "Tue, 01 Sep 2026",
-      "source": "Dawn",
+      "title": "West Asia conflict LIVE updates: Iran says 11 dead in U.S. strikes on its territory",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-us-attack-on-iran-live-updates-donald-trump-strait-of-hormuz-news-september-2-2026/article71418027.ece",
+      "description": "Iran pushed ahead with strikes targeting American interests around the West Asia, vowing “severe” consequences to U.S. attacks.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "After 286 days at sea, U.S. aircraft carrier arrives in Thailand",
+      "link": "https://www.thehindu.com/news/international/after-286-days-at-sea-usaircraft-carrier-arrives-in-thailand/article71418222.ece",
+      "description": "The Lincoln, with roughly 5,000 sailors and Marines, was deployed in November last year and was involved in the ‌U.S. naval blockade and combat operations in the war with Iran",
+      "date": "Wed, 02 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -256,6 +336,16 @@
       "title": "U.S. strikes Iran and Tehran fires back as hostilities flare again",
       "link": "https://www.thehindu.com/news/international/us-military-strikes-iran-after-attempted-attacks-on-shipping-in-strait-of-hormuz/article71416842.ece",
       "description": "Iran’s military warns of ‘devastating blows’ as country reports attack on airport Strikes have renewed after Iran said it would stick to a ceasefire deal if the US did the same",
+      "date": "Wed, 02 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran says 11 dead in U.S. strikes on its territory: state media",
+      "link": "https://www.thehindu.com/news/international/us-strikes-on-iran-updates/article71418113.ece",
+      "description": "Iranian Red Crescent said that more than 50 people were wounded by a U.S. attack at a wedding in southern Sirik county",
       "date": "Wed, 02 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -283,34 +373,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. Army Secretary Driscoll submits resignation: White House",
-      "link": "https://www.thehindu.com/news/international/us-army-secretary-driscoll-submits-resignation-white-house/article71413517.ece",
-      "description": "With the Iran war entering its seventh month, the resignation could effectively leave the Army without permanent civilian or uniformed leadership.",
-      "date": "Tue, 01 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Number of people injured in US strike on wedding ceremony in Iran rises to 68",
+      "link": "https://tass.com/world/2180965",
+      "description": "The wounded have been taken to hospitals in Sirik and Minab",
+      "date": "Wed, 02 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Donald Trump vows to hit Iran ‘hard’ after first exchange of fire in weeks",
-      "link": "https://www.thehindu.com/news/international/donald-trump-vows-to-hit-iran-hard-after-first-exchange-of-fire-in-weeks/article71413458.ece",
-      "description": "The U.S. said it attacked Iranian rocket launchers on the island of Larak to prevent Tehran planting mines in the key shipping lane; Iran responded with missile and drone attacks aimed at Jordan and the UAE, saying they targeted U.S. forces there",
-      "date": "Tue, 01 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia conflict updates: UAE says dealt with drone coming from Iran over its waters",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-us-attack-on-iran-live-updates-donald-trump-strait-of-hormuz-news-august-31-2026/article71409553.ece",
-      "description": "Tehran said the attack was ‌in response to the killing of ⁠Iran’s Revolutionary Guards ⁠and Iranian civilians ‌on Larak Island.",
-      "date": "Tue, 01 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iranian forces attack US bases in Iraqi Kurdistan",
+      "link": "https://tass.com/world/2180947",
+      "description": "The Islamic Revolutionary Guard Corps has carried out a combined missile and drone attack",
+      "date": "Wed, 02 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US discusses issues related to sanctions against Iran with Russia, China — Bessent",
@@ -326,26 +406,6 @@
       "title": "IRGC claims elimination of US personnel in Jordan base strike",
       "link": "https://tass.com/world/2180931",
       "description": "The strike followed US strikes on Iran, with explosions reported on Iran's southern coast",
-      "date": "Tue, 01 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US strikes Jiroft airport in southern Iran — TV",
-      "link": "https://tass.com/world/2180703",
-      "description": "The US Central Command said earlier that se series of strikes had been delivered on targets in Iran",
-      "date": "Tue, 01 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran launches retaliatory attack on US strongholds in Middle East — agency",
-      "link": "https://tass.com/world/2180693",
-      "description": "The attack is carried out with the use of missiles and UAVs",
       "date": "Tue, 01 Sep 2026",
       "source": "TASS",
       "region": "ru",
