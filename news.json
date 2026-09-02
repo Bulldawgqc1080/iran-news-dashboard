@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02 19:03 UTC",
-  "total": 33,
+  "updated": "2026-09-02 22:06 UTC",
+  "total": 40,
   "stories": [
     {
       "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
@@ -16,16 +16,6 @@
       "title": "Putin signals support for Iran in ongoing war with the U.S.",
       "link": "https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s",
       "description": "Russia's Vladimir Putin is signaling unwavering support for Iran, as Tehran thanks Moscow for backing amid the escalating Middle East war.",
-      "date": "Wed, 02 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
-      "link": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
-      "description": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war.",
       "date": "Wed, 02 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US-Iran war: Old videos falsely claim to show new attacks on American bases",
+      "link": "https://www.france24.com/en/us-iran-war-old-videos-falsely-claim-to-show-new-attacks-on-american-bases-1",
+      "description": "As US-Iran hostilities flare up and strikes has resumed, so has a wave of misinformation online. Old and unrelated videos are flooding social media, falsely presented as footage of new attacks. As tensions escalate, lips filmed in Dubai, Russia and the US have been misrepresented...",
+      "date": "Wed, 02 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israeli FM Gideon Sa'ar: 'I hope Iran will not make the mistake of attacking us'",
       "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260902-israeli-fm-gideon-sa-ar-i-hope-iran-will-not-make-the-mistake-of-attacking-us",
       "description": "In an interview with FRANCE 24, Israel's Minister of Foreign Affairs Gideon Sa’ar addressed the resumption in fighting between the US and Iran, and warned that any Iranian attack on Israel would trigger a \"severe\" response. He also accused Tehran of continuing to pursue \"nuclear ...",
@@ -163,14 +163,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Dangerous consequences': Iran warns US after alleged strike on wedding",
-      "link": "https://www.france24.com/en/video/20260902-dangerous-consequences-iran-warns-us-after-alleged-strike-on-wedding",
-      "description": "Iran has launched strikes towards US allies in the Gulf this Wednesday after US bombardment that Tehran said hit a wedding party, killing five people and wounding dozens. The latest escalation appears to have hardened the mood in the Islamic Republic, with authorities warning Ame...",
+      "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+      "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+      "description": "Senator Thom Tillis accuses Pentagon chief of &#039;inept mismanagement&#039; as US military is strained by war on Iran.",
       "date": "Wed, 02 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
+      "description": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
+      "description": "Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is &#039;under USA control&#039;.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
+      "description": "US President Donald Trump has threatened further attacks on Iran and says the military destroyed a mine-laying rocket.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "description": "Regional neighbours condemn attack this week that killed two crew members from the Philippines.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
+      "link": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss",
+      "description": "EU foreign affairs chief Kaja Kallas warns of more pressure after Germany blames Russia for attempted attack.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israel kills or injures 7 children a day in Lebanon invasion, report says",
@@ -313,9 +363,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US destroyed 28 ships in Strait of Hormuz on night of September 1, Trump says",
-      "link": "https://tass.com/world/2181445",
-      "description": "According to the US leader, the United States control the Strait of Hormuz",
+      "title": "US investigates circumstances of strike on wedding in Iran — NBC",
+      "link": "https://tass.com/world/2181517",
+      "description": "An expert of arms intelligence firm Armament Research Services said that, in his opinion, the attack probably involved US air-delivered precision guided weapons",
       "date": "Wed, 02 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -323,9 +373,29 @@
       "bias": "Very High"
     },
     {
-      "title": "US Navy to stay in Persian Gulf as long as necessary, energy secretary says",
-      "link": "https://tass.com/world/2181307",
-      "description": "US Energy Secretary Chris Wright expressed confidence in this",
+      "title": "US destroys new Iranian weapons near Strait of Hormuz — Trump",
+      "link": "https://tass.com/world/2181509",
+      "description": "The US leader noted that Iran had been trying to rebuild its radar and missile systems",
+      "date": "Wed, 02 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says merely suggested renaming Strait of Hormuz after himself",
+      "link": "https://tass.com/world/2181503",
+      "description": "Earlier, the White House posted an excerpt of a map showing the Strait of Hormuz labeled \"Trump Strait\"",
+      "date": "Wed, 02 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US destroyed 28 ships in Strait of Hormuz on night of September 1, Trump says",
+      "link": "https://tass.com/world/2181445",
+      "description": "According to the US leader, the United States control the Strait of Hormuz",
       "date": "Wed, 02 Sep 2026",
       "source": "TASS",
       "region": "ru",
