@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-02 06:34 UTC",
-  "total": 41,
+  "updated": "2026-09-02 11:49 UTC",
+  "total": 37,
   "stories": [
+    {
+      "title": "Putin signals support for Iran in ongoing war with the U.S.",
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s",
+      "description": "Russia's Vladimir Putin is signaling unwavering support for Iran, as Tehran thanks Moscow for backing amid the escalating Middle East war.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
       "link": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
@@ -23,19 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "Trump's plan for economic D-day for Iran has one big hole: China",
-      "link": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
-      "description": "The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country — China — already says it won't cooperate.",
-      "date": "Mon, 31 Aug 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+      "title": "Iran attacks US bases in Middle East after reports US strike killed four at wedding party",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "description": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
+      "description": "The Iranian Red Crescent says a child was among those killed when shrapnel from hit a home, but the US military says it never targets civilians.",
       "date": "Wed, 02 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -43,7 +43,17 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
+      "title": "What we know about reported strike on Iran wedding celebrations",
+      "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
       "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
       "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
       "date": "Wed, 02 Sep 2026",
@@ -93,16 +103,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says all mines cleared from Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-      "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
-      "date": "Tue, 25 Aug 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
       "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
       "description": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
@@ -123,7 +123,37 @@
       "bias": "Low-Med"
     },
     {
-      "title": "USS Abraham Lincoln aircraft carrier docks in Thailand after nine months at sea",
+      "title": "Iran: US accused of hitting wedding party in latest strikes",
+      "link": "https://www.france24.com/en/video/20260902-iran-us-accused-of-hitting-wedding-party-in-latest-strikes",
+      "description": "#Tehran says at least four people were killed and dozens more wounded in a #US strike on a town near in the south of #Iran, near the Strait of #Hormuz.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "What we know about alleged US strike on Iran wedding",
+      "link": "https://www.france24.com/en/video/20260902-what-we-know-about-alleged-us-strike-on-iran-wedding",
+      "description": "US forces launched fresh attacks on Iran Tuesday, including one that the Iranian Red Crescent said left four people dead at a wedding celebration, with Tehran vowing \"severe punishment\" for the strikes. France 24's correspondent in Tehran Reza Sayeh has the latest.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran strikes back against latest US attacks, vowing ‘severe’ consequences",
+      "link": "https://www.france24.com/en/video/20260902-iran-strikes-back-against-latest-us-attacks-vowing-severe-consequences",
+      "description": "Iran struck US interests around the Middle East on Wednesday, vowing \"severe\" consequences for renewed American attacks on the Islamic republic, including a US strike it said killed five and wounded dozens of civilians at a wedding.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "USS Lincoln carrier docks near Thailand's Pattaya resort after nine months at sea",
       "link": "https://www.france24.com/en/asia-pacific/20260902-uss-abraham-lincoln-aircraft-carrier-docks-in-thailand-after-nine-months-at-sea",
       "description": "More than 5,000 US sailors and Marines arrived in Thailand Wednesday after nine months at sea on the USS Abraham Lincoln aircraft carrier. The carrier's long deployment in the Middle East during the US-Israeli war on Iran sparked reports of worsening mental health crises on board...",
       "date": "Wed, 02 Sep 2026",
@@ -143,49 +173,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Germany blames Russia for airport drone incident, hits back with sanctions",
-      "link": "https://www.france24.com/en/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
-      "description": "Germany on Tuesday blamed Russia for an attempted \"hybrid attack\" involving an explosive-laden drone at a strategic airport last month and announced diplomatic counter-measures. The European Union expressed \"full solidarity\" with Germany, NATO assured that it would defend its mem...",
-      "date": "Tue, 01 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Global bond selloff deepens as US launches fresh attacks on Iran",
-      "link": "https://www.france24.com/en/tv-shows/business/20260901-global-bond-selloff-deepens-as-us-launches-fresh-attacks-on-iran",
-      "description": "Oil prices rose, stocks fell and bond yields spiked after the US launched fresh attacks on Iranian targets. Japan's 10-year bond yield hit 3% for the first time since 1996. The deepening global selloff comes amid fears over rising inflation and concern over mounting government de...",
-      "date": "Tue, 01 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US and Iran trade fire as hostilities flare again",
-      "link": "https://www.france24.com/en/middle-east/20260901-us-and-iran-trade-fire-as-hostilities-flare-again",
-      "description": "The US military hit targets in Iran on Tuesday as Tehran reponded with retaliatory strikes as hostilities between the two countries flared once again in an intermittent war that has lasted more than six months. One US strike hit a home hosting a wedding, killing four people and w...",
-      "date": "Tue, 01 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Germany blames Russia for Leipzig airport drone attack, orders Russian consulate closed",
-      "link": "https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed",
-      "description": "Germany's government on Tuesday blamed Russia for an attempted attack at Leipzig/Halle Airport on 4 August using an explosive-laden drone, and announced that it would shut down a Russian consulate among other measures against Moscow. French ​President Emmanuel Macron ​said he sup...",
-      "date": "Tue, 01 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US strikes on Iran kill child at wedding ceremony",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
-      "description": "Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.",
+      "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
+      "link": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
+      "description": "A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.",
       "date": "Wed, 02 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -193,9 +183,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
-      "link": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
-      "description": "The Republican House speaker defends the US-Israel war on Iran and praises Trump&#039;s &#039;steady hands at the wheel&#039;.",
+      "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
+      "link": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
+      "description": "Iran says the US bombed a wedding near the Strait of Hormuz; hits Kuwait, Bahrain, and Jordan in retaliation.",
       "date": "Wed, 02 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -203,9 +193,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran says US bombed a wedding party in Sirik, killing five people",
-      "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
-      "description": "Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.",
+      "title": "Why Greece is betting on Israel’s Achilles Shield",
+      "link": "https://www.aljazeera.com/opinions/2026/9/2/why-greece-is-betting-on-israels-achilles-shield?traffic_source=rss",
+      "description": "The defence deal between the two countries fits into a larger shift in regional alliances amid the US-Israel war on Iran.",
       "date": "Wed, 02 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -213,40 +203,10 @@
       "bias": "Medium"
     },
     {
-      "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
-      "description": "The US launched new strikes on Iran&#039;s southern coast with explosions reported in several locations.",
+      "title": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
+      "link": "https://www.aljazeera.com/economy/2026/9/2/we-had-an-ordinary-life-iran-fisherwoman-navigates-uncertainty-of-war?traffic_source=rss",
+      "description": "An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.",
       "date": "Wed, 02 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Moment US strikes on Iranian port city hit wedding party",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss",
-      "description": "Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.",
-      "date": "Wed, 02 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
-      "description": "Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.",
-      "date": "Wed, 02 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "IAEA calls for access to Iran nuclear sites over proliferation concerns",
-      "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
-      "description": "IAEA says lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.",
-      "date": "Tue, 01 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -256,6 +216,16 @@
       "title": "Iran targets American assets in Middle East after vowing 'severe' consequences for fresh wave of US strikes",
       "link": "https://www.dawn.com/news/2026830/iran-targets-american-assets-in-middle-east-after-vowing-severe-consequences-for-fresh-wave-of-us-strikes",
       "description": "Iran pushed ahead with strikes targeting American interests around the Middle East on Wednesday after vowing “severe” consequences to a fresh wave of US attacks. The latest flare-up is part of a cycle of retaliation that followed US strikes on Iran, with fighting over the Hormuz ...",
+      "date": "Wed, 02 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan 'hopeful' despite US-Iran escalation, will continue to strive for dialogue and diplomacy: FO",
+      "link": "https://www.dawn.com/news/2026852/pakistan-hopeful-despite-us-iran-escalation-will-continue-to-strive-for-dialogue-and-diplomacy-fo",
+      "description": "Foreign Office spokesperson Tahir Andrabi said on Wednesday that Pakistan remained “hopeful” despite recent escalations between the US and Iran and would continue to strive for dialogue and diplomacy. Pakistan has been spearheading efforts for an end to the ongoing war that began...",
       "date": "Wed, 02 Sep 2026",
       "source": "Dawn",
       "region": "me",
@@ -283,6 +253,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Germany blames Russia for airport drone incident, hits back with sanctions",
+      "link": "https://www.dawn.com/news/2026672/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
+      "description": "Germany on Tuesday blamed Russia for an attempted “hybrid attack” involving an explosive-laden drone at a strategic airport last month and announced diplomatic countermeasures. The European Union expressed “full solidarity” with Germany; Nato assured that it would defend its memb...",
+      "date": "Tue, 01 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "PM Shehbaz says water ‘lifeblood’ of region, must never be weaponised",
       "link": "https://www.dawn.com/news/2026583/pm-shehbaz-says-water-lifeblood-of-region-must-never-be-weaponised",
       "description": "Prime Minister Shehbaz Sharif on Tuesday said water was the “lifeblood” of the region and must never be weaponised, as he addressed a summit of the Shanghai Cooperation Organisation (SCO) in Kyrgyzstan. Speaking at the SCO Council of Heads of States (CHS) meeting in the Kyrgyz ca...",
@@ -293,29 +273,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US army secretary submits resignation amid reports of tensions with Pentagon chief Hegseth",
-      "link": "https://www.dawn.com/news/2026573/us-army-secretary-submits-resignation-amid-reports-of-tensions-with-pentagon-chief-hegseth",
-      "description": "United States Army Secretary Dan Driscoll has submitted his resignation, the White House confirmed on Monday, following reports of tensions with Defence Secretary Pete Hegseth. Asked about a Wall Street Journal report that Driscoll had resigned, White House Principal Deputy Press...",
-      "date": "Tue, 01 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Protest in New York against RSS chief’s visit",
-      "link": "https://www.dawn.com/news/2026532/protest-in-new-york-against-rss-chiefs-visit",
-      "description": "WASHINGTON: A large demonstration erupted outside Madison Square Garden this week as Rashtriya Swayamsevak Sangh chief Mohan Bhagwat attended an event billed as a celebration of “Universal Oneness”, with protesters saying the message contradicted the RSS’s Hindu supremacist ideol...",
-      "date": "Tue, 01 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia conflict LIVE updates: Iran says 11 dead in U.S. strikes on its territory",
+      "title": "West Asia conflict LIVE updates: Iran attacks U.S. sites after American strikes, wedding deaths",
       "link": "https://www.thehindu.com/news/international/west-asia-war-us-attack-on-iran-live-updates-donald-trump-strait-of-hormuz-news-september-2-2026/article71418027.ece",
-      "description": "Iran pushed ahead with strikes targeting American interests around the West Asia, vowing “severe” consequences to U.S. attacks.",
+      "description": "Iran's Revolutionary Guards announced attacks on U.S. bases in Jordan, the UAE, Kuwait, Bahrain and Iraq's autonomous Kurdistan region, in the six-month conflict's heaviest exchange in weeks",
+      "date": "Wed, 02 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Drone revolution and modern warfare | Explained",
+      "link": "https://www.thehindu.com/news/international/drone-revolution-and-modern-warfare-explained/article71104697.ece",
+      "description": "The wars in Ukraine, Lebanon and West Asia have shown how drones have become central to modern warfare; as cheap, mass-produced unmanned systems proliferate, military power is increasingly shaped by industrial scale, technological adaptation and the ability to build, deploy and c...",
       "date": "Wed, 02 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -363,19 +333,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran dismisses Trump's post of attack on key energy hub of Kharg",
-      "link": "https://www.thehindu.com/news/international/iran-dismisses-trumps-post-of-attack-on-key-energy-hub-of-kharg/article71410760.ece",
-      "description": "“Mr. Trump’s tweets are laughable, and conditions in ‌Kharg are calm and appropriate,” says Hamid Bovard, chief executive of government-run National Iranian Oil Co",
-      "date": "Tue, 01 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Number of people injured in US strike on wedding ceremony in Iran rises to 68",
-      "link": "https://tass.com/world/2180965",
-      "description": "The wounded have been taken to hospitals in Sirik and Minab",
+      "title": "Employees return to work at Iran's Bushehr nuclear site as situation calms — Rosatom chief",
+      "link": "https://tass.com/economy/2181191",
+      "description": "According to Alexey Likhachev, Iran is also increasing the number of its employees who are actively cooperating with Russian managers of construction projects",
       "date": "Wed, 02 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -383,9 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iranian forces attack US bases in Iraqi Kurdistan",
-      "link": "https://tass.com/world/2180947",
-      "description": "The Islamic Revolutionary Guard Corps has carried out a combined missile and drone attack",
+      "title": "South Korea ready to cooperate with Russia in nuclear energy — Rosatom CEO",
+      "link": "https://tass.com/economy/2181155",
+      "description": "South Korea is among the countries that were compelled to impose sanctions on Russia under pressure, Alexey Likhachev said",
       "date": "Wed, 02 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -393,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US discusses issues related to sanctions against Iran with Russia, China — Bessent",
-      "link": "https://tass.com/world/2180945",
-      "description": "US Treasury Secretary Scott Bessent did not specify the substance of the consultations",
+      "title": "Israel to attack Iranian nuclear facilities if Tehran escalates tensions — portal",
+      "link": "https://tass.com/world/2181159",
+      "description": "The country is interested in maintaining the status quo but is prepared to escalate if necessary",
       "date": "Wed, 02 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -403,10 +363,10 @@
       "bias": "Very High"
     },
     {
-      "title": "IRGC claims elimination of US personnel in Jordan base strike",
-      "link": "https://tass.com/world/2180931",
-      "description": "The strike followed US strikes on Iran, with explosions reported on Iran's southern coast",
-      "date": "Tue, 01 Sep 2026",
+      "title": "Two tankers in Strait of Hormuz struck mines, engulfed in flames — IRGC",
+      "link": "https://tass.com/world/2181109",
+      "description": "The IRGC stressed that recent US strikes on southern Iran would in no way weaken the Islamic Republic’s control over the Strait of Hormuz",
+      "date": "Wed, 02 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
