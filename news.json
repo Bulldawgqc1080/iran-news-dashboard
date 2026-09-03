@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03 14:46 UTC",
-  "total": 29,
+  "updated": "2026-09-03 18:11 UTC",
+  "total": 28,
   "stories": [
     {
       "title": "U.S.-Israel relations are on the rocks ahead of elections",
@@ -123,34 +123,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Putin's 'global battle' against US, NATO: Russia 'testing' NATO since 2022 Ukraine invasion began",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260903-putin-s-global-battle-against-us-nato-russia-testing-nato-since-2022-ukraine-invasion-began",
-      "description": "François Picard is pleased to welcome Anna Borshchevskaya, Senior Fellow at The Washington Institute. She interprets Russia’s reported missile support for Iran not as an isolated arms transaction, but as part of a broader geopolitical strategy in which Moscow treats Ukraine, Iran...",
+      "title": "Trump calls media ‘treasonous scum’ over reports of low Iran war munitions",
+      "link": "https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions?traffic_source=rss",
+      "description": "Comments latest swipe by president against critical media coverage of what experts call troubling shortages.",
       "date": "Thu, 03 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthi fighters clash with Yemeni government forces in country’s southwest",
+      "link": "https://www.aljazeera.com/news/2026/9/3/houthi-fighters-clash-with-yemeni-government-forces-in-countrys-southwest?traffic_source=rss",
+      "description": "Houthis attempt to cut road linking Taiz to al-Makha in apparent bid to sever government&#039;s strategic supply route.",
+      "date": "Thu, 03 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian drone damages residential building in Kuwait City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss",
+      "description": "An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.",
+      "date": "Thu, 03 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US extends Middle East deployments into 2027 as Iran conflict drags on",
+      "link": "https://www.dawn.com/news/2027234/us-extends-middle-east-deployments-into-2027-as-iran-conflict-drags-on",
+      "description": "WASHINGTON: The United States is extending the deployment of thousands of American troops and military assets across the Middle East into 2027, signalling Washington is preparing for a prolonged conflict with Iran. The deployment extensions, ordered by Secretary of War Pete Hegse...",
+      "date": "Thu, 03 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss",
-      "description": "EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine.",
-      "date": "Thu, 03 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Gulf insecurity fuels US energy dominance",
-      "link": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
-      "description": "The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.",
-      "date": "Thu, 03 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "Iran attacks US targets despite Trump threats",
@@ -203,11 +213,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Majority of Americans oppose US military action against Iran: poll",
-      "link": "https://www.dawn.com/news/2026942/majority-of-americans-oppose-us-military-action-against-iran-poll",
-      "description": "WASHINGTON: Opposition to the US military campaign against Iran has reached its highest level in six months, with 54 per cent of Americans now opposing the military action, compared with 39pc who support it, according to a new poll released on Wednesday. The survey was conducted ...",
-      "date": "Wed, 02 Sep 2026",
-      "source": "Dawn",
+      "title": "West Asia war LIVE: Iran media says six navy personnel killed in U.S. attacks",
+      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-3-2026/article71422466.ece",
+      "description": "According to a media report, it wasn’t immediately clear if the six naval personnel were among the seven already reported dead in Khuzestan",
+      "date": "Thu, 03 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran attacks U.S. targets despite Trump threats",
+      "link": "https://www.thehindu.com/news/international/iran-attacks-us-targets-despite-trump-threats/article71425433.ece",
+      "description": "Kuwait called the attacks \"a direct threat to its security and stability, and the safety of its citizens and residents on its territory, and a grave breach of the rules of international law\"",
+      "date": "Thu, 03 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -216,16 +236,6 @@
       "title": "Israel to release five Lebanese detainees amid talks with Lebanon",
       "link": "https://www.thehindu.com/news/international/israel-to-release-five-lebanese-detainees-amid-talks-with-lebanon/article71424402.ece",
       "description": "Israel said the decision came amid negotiations with Lebanon to recover the ‌remains of Jewish community leaders kidnapped and killed there in ‌the mid-1980s",
-      "date": "Thu, 03 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia war LIVE: Iran media says six navy personnel killed in U.S. attacks",
-      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-3-2026/article71422466.ece",
-      "description": "According to a media report, it wasn’t immediately clear if the six naval personnel were among the seven already reported dead in Khuzestan",
       "date": "Thu, 03 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -263,29 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump aides seek 'quiet' in Iran war, but say attacks may intensify after November midterm elections: report",
-      "link": "https://www.thehindu.com/news/international/trump-aides-seek-quiet-in-iran-war-but-say-attacks-may-intensify-after-november-midterm-elections-report/article71420569.ece",
-      "description": "A tactical pause could also give the U.S. military some breathing room to replenish its heavily depleted munitions stockpiles, the sources said",
-      "date": "Wed, 02 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "ICC signatories prepare for possible US sanctions against court itself — source",
-      "link": "https://tass.com/world/2182147",
-      "description": "According to the source, this includes the search for practical mechanisms that will allow the ICC to continue operating in the event of a further expansion of US restrictions",
-      "date": "Thu, 03 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Oil flows through Strait of Hormuz recover to 18 million bpd, Trump claims",
-      "link": "https://tass.com/world/2182123",
-      "description": "\"Hormuz oil volumes are back,\" the US president said",
+      "title": "Biden gave Kiev more free ammunition than US used against Iran — Trump",
+      "link": "https://tass.com/world/2182299",
+      "description": "The US leader earlier said that Joe Biden had provided Kiev with $300 billion worth of ammunition",
       "date": "Thu, 03 Sep 2026",
       "source": "TASS",
       "region": "ru",
