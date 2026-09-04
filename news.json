@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-04 01:50 UTC",
-  "total": 31,
+  "updated": "2026-09-04 06:41 UTC",
+  "total": 35,
   "stories": [
+    {
+      "title": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
+      "link": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
+      "description": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project",
+      "date": "Fri, 04 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S.-Israel relations are on the rocks ahead of elections",
       "link": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
@@ -13,14 +23,24 @@
       "bias": "Low"
     },
     {
-      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-      "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-      "description": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump's Republican Party ahead of November midterm elections.",
-      "date": "Wed, 02 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "date": "Thu, 03 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Three farmers detained by Israel in Lebanon, village leader says",
+      "link": "https://www.bbc.co.uk/news/articles/c4gq2my0v5po?at_medium=RSS&at_campaign=rss",
+      "description": "The detentions were reported to the US-led International Monitoring and Implementation Mechanism but Israeli military has not commented.",
+      "date": "Thu, 03 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
@@ -103,24 +123,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Watch: BBC sees Israeli military presence in southern Lebanon",
-      "link": "https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Hugo Bachega joined a UN humanitarian convoy as it travelled along Israeli-occupied southern Lebanon.",
-      "date": "Wed, 02 Sep 2026",
-      "source": "BBC",
+      "title": "Middle East live: South Korea mulling military deployment in Strait of Hormuz, media reports say",
+      "link": "https://www.france24.com/en/middle-east/20260904-middle-east-live-south-korea-prepares-for-military-deployment-in-strait-of-hormuz",
+      "description": "South Korea is considering sending military assets to the Strait of Hormuz to support freedom of navigation, local media reported Thursday. An official from the presidential office told reporters on Friday that Seoul was weighing “contributions” to US security efforts in the vita...",
+      "date": "Fri, 04 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Watch: What are the US sanctions on Iran and who else will be affected?",
-      "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
-      "description": "Washington announced what it described as an \"economic D-Day\" against Iran, widening current sanctions and targetting countries with business ties with the regime.",
-      "date": "Tue, 25 Aug 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
+      "link": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
+      "description": "Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+      "link": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
+      "description": "Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "No shelter or water, yet Lebanese return home, defying Israel.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/aje-onl-nf_south-lebanon-residents-return-to-devastated-villages-040926?traffic_source=rss",
+      "description": "Residents are returning to villages in southern Lebanon devastated by Israel’s invasion.",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Argentina’s Milei threatens sanctions over Falklands oil drilling",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss",
+      "description": "Argentina’s President Javier Milei has threatened sanctions against oil companies operating off the Falklands.",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US continues to squeeze Cuban economy with new round of sanctions",
+      "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+      "description": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war live: US rules out Iran talks until ship attacks stop",
@@ -133,24 +193,44 @@
       "bias": "Medium"
     },
     {
-      "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
-      "link": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
-      "description": "The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.",
-      "date": "Thu, 03 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Typhoon Saudel brings torrential rain, flooding to China's coastal areas",
+      "link": "https://www.dawn.com/news/2027430/typhoon-saudel-brings-torrential-rain-flooding-to-chinas-coastal-areas",
+      "description": "China’s southern coastal provinces of Fujian and Guangdong braced for further torrential rain on Friday, after severe downpours linked to Typhoon Saudel triggered flooding in urban and rural areas, swamping vehicles and causing a three-storey brick building to collapse. In Fujian...",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Funeral held for child killed in US strike on Iranian wedding",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss",
-      "description": "Mourners carried the coffin of a child killed in a US strike on a wedding in Kuhestak, along the Strait of Hormuz.",
-      "date": "Thu, 03 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "US House of Representatives passes bill to crack down on university boycotts of Israel",
+      "link": "https://www.dawn.com/news/2027432/us-house-of-representatives-passes-bill-to-crack-down-on-university-boycotts-of-israel",
+      "description": "The US House of Representatives passed legislation on Thursday to block federal aid for universities that boycott Israel, the latest Republican-backed ​pro-Israel measure amid growing Democratic criticism of the Israeli government over ‌the assault in Gaza. The Republican-majorit...",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran buries wedding attack victims as missiles fly in Gulf",
+      "link": "https://www.dawn.com/news/2027336/iran-buries-wedding-attack-victims-as-missiles-fly-in-gulf",
+      "description": "• Washington says strike incident is under investigation, denies targeting civilians• Tehran launches missile, drone retaliation at American bases in Kuwait; says Hormuz will not open without its consent• US extends Middle East troop deployment; Trump dismisses ammunition concern...",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US returns ancient sarcophagus to Lebanon",
+      "link": "https://www.dawn.com/news/2027365/us-returns-ancient-sarcophagus-to-lebanon",
+      "description": "BEIRUT: The United States on Thursday announced the return of Roman-era sarcophagus fragments to Lebanon that were looted from the southern city of Tyre and recovered by an FBI investigation. The decorative, lead fragments were returned to the Lebanese consulate in New York on We...",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "US extends Middle East deployments into 2027 as Iran conflict drags on",
@@ -173,41 +253,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US Pentagon issues clinical guidelines on troop testosterone screening to start immediately",
-      "link": "https://www.dawn.com/news/2027131/us-pentagon-issues-clinical-guidelines-on-troop-testosterone-screening-to-start-immediately",
-      "description": "The US Pentagon has issued detailed guidance for a new, mandatory testosterone deficiency screening policy for active-duty and ​reserve service members aged 30 and older, a follow-up ‌to US Defence Secretary Pete Hegseth’s July announcement. The guidance, which was issued on Wedn...",
-      "date": "Thu, 03 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran terms US strike on wedding a ‘war crime’",
-      "link": "https://www.dawn.com/news/2027042/iran-terms-us-strike-on-wedding-a-war-crime",
-      "description": "• Centcom denies targeting civilians• Iran to employ ‘new strategy’ after latest strikes• US president floats renaming Hormuz ‘Trump Strait’ TEHRAN: Iran’s foreign ministry spokesman on Wednesday labelled a deadly US attack on a wedding ceremony in the south of the country a “war...",
-      "date": "Thu, 03 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Sri Lankan, US anti-narcotics agents bust Pakistani drug network in Colombo",
-      "link": "https://www.dawn.com/news/2026898/sri-lankan-us-anti-narcotics-agents-bust-pakistani-drug-network-in-colombo",
-      "description": "Anti-narcotics agents from the United States and Sri Lanka seized almost half a tonne of crystal methamphetamine following a joint operation targeting a Pakistani drug network, police said on Wednesday. Some 463 kilos of the synthetic drug were seized from a shipping container th...",
-      "date": "Wed, 02 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US President Trump suggests renaming Strait of Hormuz as ‘Trump Strait’",
-      "link": "https://www.dawn.com/news/2026967/us-president-trump-suggests-renaming-strait-of-hormuz-as-trump-strait",
-      "description": "US President Donald Trump on Wednesday suggested renaming the Strait of Hormuz “Trump Strait”, despite the fact that the crucial waterway remains contested amid the war with Iran. “Now that we have it under USA control, should we change the name Hormuz Strait to TRUMP STRAIT??? L...",
-      "date": "Wed, 02 Sep 2026",
-      "source": "Dawn",
+      "title": "Vance says Iran conflict is ‘not a war’, declines to offer timeline for end",
+      "link": "https://www.thehindu.com/news/international/vance-says-iran-conflict-is-not-a-war-declines-to-offer-timeline-for-end/article71426826.ece",
+      "description": "His ‌comments come as Washington and Tehran exchanged back-and-forth attacks this week after a period of relative calm, with no diplomatic talks with ‌the Iranians underway to end the conflict",
+      "date": "Fri, 04 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -263,14 +313,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump floats renaming Strait of Hormuz as 'Trump Strait'",
-      "link": "https://www.thehindu.com/news/international/trump-floats-renaming-strait-of-hormuz-as-trump-strait/article71420981.ece",
-      "description": "Many of the previous name changes, including Gulf of Mexico as the \"Gulf of America”, started off as apparently jovial remarks by the 80-year-old U.S. President before he then followed through to make them a reality.",
-      "date": "Thu, 03 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US House speaker unsure Russia sanctions bill to be considered before November — Bloomberg",
+      "link": "https://tass.com/world/2182433",
+      "description": "Mike Johnson told the news agency that a number of Democrats in the House’s Foreign Affairs and Appropriations committees criticized the bill, while certain Republican members also disagreed with the proposed sanctions",
+      "date": "Fri, 04 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump says US will soon prevail over Iran",
@@ -296,16 +346,6 @@
       "title": "Israel reports clearing Lebanon’s Ali al-Taher Ridge from Hezbollah infrastructure",
       "link": "https://tass.com/world/2182385",
       "description": "According to the IDF statement, the Israeli military also \"cleared the area of terrorists\"",
-      "date": "Thu, 03 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Vance sees possibility of covert subversive operations to put pressure on Iran",
-      "link": "https://tass.com/world/2182383",
-      "description": "The US president clarified that \"everything that could happen is on the table\"",
       "date": "Thu, 03 Sep 2026",
       "source": "TASS",
       "region": "ru",
