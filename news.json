@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-04 06:41 UTC",
-  "total": 35,
+  "updated": "2026-09-04 11:51 UTC",
+  "total": 38,
   "stories": [
     {
-      "title": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
-      "link": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
-      "description": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project",
+      "title": "Germany's far-right poised for power in state election",
+      "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+      "description": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
       "date": "Fri, 04 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -13,10 +13,10 @@
       "bias": "Low"
     },
     {
-      "title": "U.S.-Israel relations are on the rocks ahead of elections",
-      "link": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
-      "description": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
-      "date": "Thu, 03 Sep 2026",
+      "title": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
+      "link": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
+      "description": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project",
+      "date": "Fri, 04 Sep 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -113,24 +113,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
-      "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-      "description": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
-      "date": "Tue, 25 Aug 2026",
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "description": "After renewed strikes this week, does either side have an exit strategy?",
+      "date": "Fri, 04 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: South Korea mulling military deployment in Strait of Hormuz, media reports say",
-      "link": "https://www.france24.com/en/middle-east/20260904-middle-east-live-south-korea-prepares-for-military-deployment-in-strait-of-hormuz",
-      "description": "South Korea is considering sending military assets to the Strait of Hormuz to support freedom of navigation, local media reported Thursday. An official from the presidential office told reporters on Friday that Seoul was weighing “contributions” to US security efforts in the vita...",
+      "title": "New fears of oil supply disruption as US-Iran hostilities resume",
+      "link": "https://www.france24.com/en/video/20260904-new-fears-of-oil-supply-disruption-as-us-iran-hostilities-resume",
+      "description": "Renewed hostilities between the United States and Iran have brought back fears of oil supply disruption. Prices are on track for their steepest weekly gain since mid-July, up 7.6%, as the US-Iran war enters its seventh month. Twenty-five percent of the world's oil supply comes th...",
       "date": "Fri, 04 Sep 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Live: Israel says it has captured key ridge in southern Lebanon from Hezbollah",
+      "link": "https://www.france24.com/en/middle-east/20260904-middle-east-live-south-korea-prepares-for-military-deployment-in-strait-of-hormuz",
+      "description": "Israeli troops have driven Hezbollah fighters from tunnels under the strategic Ali al-Taher ridge in southern Lebanon, Israeli Defence Minister Israel Katz alleged on Friday. Israel’s armed forces have occupied swathes of southern Lebanon since launching a new campaign against th...",
+      "date": "Fri, 04 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war: Why US midterms could be a pivotal moment",
+      "link": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss",
+      "description": "Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+      "link": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+      "description": "Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Why has the Philippine peso plunged to a record low?",
+      "link": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
+      "description": "The Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Why Pakistan overhauled its military command structure after five decades",
+      "link": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
+      "description": "New legislation gives Pakistan&#039;s military chief sweeping command powers, raising questions about oversight.",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
@@ -173,24 +223,34 @@
       "bias": "Medium"
     },
     {
-      "title": "US continues to squeeze Cuban economy with new round of sanctions",
-      "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
-      "description": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
+      "title": "81 dead in Yemen clashes as Houthis push towards key strait: sources",
+      "link": "https://www.dawn.com/news/2027458/81-dead-in-yemen-clashes-as-houthis-push-towards-key-strait-sources",
+      "description": "Clashes between Yemen’s Houthis and government forces have killed 81, military and medical sources said on Friday, as the rebels push towards territory bordering a chokepoint in the strategic Red Sea. Fighting erupted on Thursday, after the Houthis launched a ground assault along...",
       "date": "Fri, 04 Sep 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: US rules out Iran talks until ship attacks stop",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
-      "description": "Iran&#039;s First Vice President Mohammad Reza Aref vows “asymmetrical” and “multi-layered” response to US attacks.",
+      "title": "Why India's strong GDP growth is raising eyebrows",
+      "link": "https://www.dawn.com/news/2027457/why-indias-strong-gdp-growth-is-raising-eyebrows",
+      "description": "India’s unexpectedly strong economic growth has sparked a debate after an ex-bureaucrat questioned whether the expansion was overstated and a former central bank chief asked why strong expansion had not shown up in jobs and investment. The government defended its numbers. The wor...",
       "date": "Fri, 04 Sep 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "How engineers in a WhatsApp group are guiding Nepal's tunnel rescue efforts",
+      "link": "https://www.dawn.com/news/2027439/how-engineers-in-a-whatsapp-group-are-guiding-nepals-tunnel-rescue-efforts",
+      "description": "An army of experts in a WhatsApp group is guiding rescue workers scouring a Nepali valley after a huge flash flood more than a week ago as they desperately search for anyone who may be alive inside tunnels of devastated hydropower plants. The messaging group was set up by enginee...",
+      "date": "Fri, 04 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Typhoon Saudel brings torrential rain, flooding to China's coastal areas",
@@ -217,36 +277,6 @@
       "link": "https://www.dawn.com/news/2027336/iran-buries-wedding-attack-victims-as-missiles-fly-in-gulf",
       "description": "• Washington says strike incident is under investigation, denies targeting civilians• Tehran launches missile, drone retaliation at American bases in Kuwait; says Hormuz will not open without its consent• US extends Middle East troop deployment; Trump dismisses ammunition concern...",
       "date": "Fri, 04 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US returns ancient sarcophagus to Lebanon",
-      "link": "https://www.dawn.com/news/2027365/us-returns-ancient-sarcophagus-to-lebanon",
-      "description": "BEIRUT: The United States on Thursday announced the return of Roman-era sarcophagus fragments to Lebanon that were looted from the southern city of Tyre and recovered by an FBI investigation. The decorative, lead fragments were returned to the Lebanese consulate in New York on We...",
-      "date": "Fri, 04 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US extends Middle East deployments into 2027 as Iran conflict drags on",
-      "link": "https://www.dawn.com/news/2027234/us-extends-middle-east-deployments-into-2027-as-iran-conflict-drags-on",
-      "description": "WASHINGTON: The United States is extending the deployment of thousands of American troops and military assets across the Middle East into 2027, signalling Washington is preparing for a prolonged conflict with Iran. The deployment extensions, ordered by Secretary of War Pete Hegse...",
-      "date": "Thu, 03 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran attacks US targets despite Trump threats",
-      "link": "https://www.dawn.com/news/2027206/iran-attacks-us-targets-despite-trump-threats",
-      "description": "Iran attacked US military bases in Kuwait on Thursday, despite US President Donald Trump threatening further strikes in a fresh flare-up six months into the war. The new clashes, which began with US raids on Sunday, deepen the ongoing impasse in the war, as Iran maintains a stran...",
-      "date": "Thu, 03 Sep 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -313,9 +343,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US House speaker unsure Russia sanctions bill to be considered before November — Bloomberg",
-      "link": "https://tass.com/world/2182433",
-      "description": "Mike Johnson told the news agency that a number of Democrats in the House’s Foreign Affairs and Appropriations committees criticized the bill, while certain Republican members also disagreed with the proposed sanctions",
+      "title": "West uses OPCW for political accusations against Russia, Iran, China — envoy",
+      "link": "https://tass.com/politics/2182733",
+      "description": "\"First and foremost, the organization must return to its roots,\" Vladimir Tarabrin said",
       "date": "Fri, 04 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -323,30 +353,30 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump says US will soon prevail over Iran",
-      "link": "https://tass.com/world/2182393",
-      "description": "The US president has assured that the operation against Iran is a success, and his country now controls the Strait of Hormuz",
-      "date": "Thu, 03 Sep 2026",
+      "title": "Russian tourist volume to EU falls over tenfold from 2019 levels — ATOR",
+      "link": "https://tass.com/economy/2182697",
+      "description": "According to Association of Tour Operators of Russia, it is premature to assess the new sanctions' impact on future travel dynamics due to a lack of specific details or final decisions",
+      "date": "Fri, 04 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "China responded to some of US requests regarding ‘economic war on Iran’ — Vance",
-      "link": "https://tass.com/world/2182391",
-      "description": "Speaking about isolation of Iran, the US vice president said that, in his opinion, China is \"willing to play ball here, and we all know this\"",
-      "date": "Thu, 03 Sep 2026",
+      "title": "Ukraine to face difficulties amid severe air defense missile shortage this winter — media",
+      "link": "https://tass.com/world/2182585",
+      "description": "Under the current circumstances, Washington is giving priority to Iran, negatively affecting NATO’s support program for Ukraine, Bloomberg columnist Kollen Post said",
+      "date": "Fri, 04 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Israel reports clearing Lebanon’s Ali al-Taher Ridge from Hezbollah infrastructure",
-      "link": "https://tass.com/world/2182385",
-      "description": "According to the IDF statement, the Israeli military also \"cleared the area of terrorists\"",
-      "date": "Thu, 03 Sep 2026",
+      "title": "Trump says US to seek payment for ammunition sent to Ukraine free of charge",
+      "link": "https://tass.com/world/2182555",
+      "description": "The US president said the Biden administration provided Ukraine with far more ammunition free of charge than Washington used during the war with Iran",
+      "date": "Fri, 04 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
