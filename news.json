@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-05 14:09 UTC",
-  "total": 33,
+  "updated": "2026-09-05 16:59 UTC",
+  "total": 36,
   "stories": [
+    {
+      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+      "description": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
+      "date": "Sat, 05 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
@@ -16,16 +26,6 @@
       "title": "Germany's far-right AfD party is poised for power in a state election",
       "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
       "description": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
-      "date": "Fri, 04 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Argentina escalates Falklands dispute with the U.K., seizing on Trump comments",
-      "link": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
-      "description": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project.",
       "date": "Fri, 04 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,14 +133,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: US military says it struck 3 Iranian crude oil carriers",
-      "link": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
-      "description": "The US military said on Saturday it had struck three Iranian oil tankers after Navy warships were targeted with missiles, adding that no American personnel ​were ​harmed. Earlier, Tehran accused the US of attacking an Iranian tanker near Kharg Island in the Persian Gulf, a key oi...",
+      "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+      "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
+      "description": "Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.",
       "date": "Sat, 05 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US says it hit three Iranian oil tankers after attacks on warships",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+      "description": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
+      "date": "Sat, 05 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
+      "link": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
+      "description": "US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.",
+      "date": "Sat, 05 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
@@ -238,6 +258,16 @@
       "description": "WASHINGTON: US President Donald Trump said on Thursday he would ask Europeans to repay the American aid provided to Ukraine under the administration of his predecessor Joe Biden. Trump has long demanded that Europeans shoulder more of the cost of Western support for Ukraine. “Hun...",
       "date": "Sat, 05 Sep 2026",
       "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. military says it destroyed three Iranian oil tankers",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-destroyed-three-iranian-oil-tankers/article71432382.ece",
+      "description": "Following Iran's failed attacks, CENTCOM permanently disabled the IRGC crude oil carriers M/T Downy off the coast of Kharg Island and M/T Stark 1 near Jask, says U.S. Central Command",
+      "date": "Sat, 05 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
