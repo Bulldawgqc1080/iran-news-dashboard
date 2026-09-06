@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06 00:21 UTC",
-  "total": 28,
+  "updated": "2026-09-06 05:16 UTC",
+  "total": 29,
   "stories": [
     {
       "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
@@ -13,9 +13,9 @@
       "bias": "Low"
     },
     {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "description": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
+      "description": "One of the Iranian tankers struck was near a key area in Iran's oil-export system, according to U.S. Central Command.",
       "date": "Sat, 05 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -31,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "date": "Sat, 05 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "US investigating if missile hit Iran wedding, Vance says",
@@ -123,14 +133,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How could US-Iran conflict end? Three experts give their views",
-      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "description": "After renewed strikes this week, does either side have an exit strategy?",
-      "date": "Fri, 04 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+      "link": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+      "description": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
+      "date": "Sun, 06 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+      "description": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
+      "date": "Sun, 06 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Fuel tanker blast in western Iran kills at least 10",
@@ -143,24 +163,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
-      "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
-      "description": "Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.",
-      "date": "Sat, 05 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Iranian tankers hit after IRGC ‘attack on US ships’",
+      "link": "https://www.dawn.com/news/2027831/iranian-tankers-hit-after-irgc-attack-on-us-ships",
+      "description": "• Iran vows to carry out more severe strikes against military vessels if ‘blockade’ continues• Hegseth says Tehran’s oil tanker fleet ‘defenceless’• US citizens in Bahrain urged to ‘exercise heightened vigilance’ DUBAI: US forces struck three Iranian oil tankers on Saturday, US C...",
+      "date": "Sun, 06 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "US says it hit three Iranian oil tankers after attacks on warships",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-      "description": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
-      "date": "Sat, 05 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Top US military officials face lie detectors in leak hunt",
+      "link": "https://www.dawn.com/news/2027827/top-us-military-officials-face-lie-detectors-in-leak-hunt",
+      "description": "WASHINGTON: The Pentagon has launched a lie-detector dragnet to comb through high-ranking military officials and identify who leaked information about US munitions stockpiles, according to US press reports. In July, reports emerged that the Un­­­i­­ted States was rationing muniti...",
+      "date": "Sun, 06 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
@@ -203,21 +223,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel claims capture of strategic highland in southern Lebanon",
-      "link": "https://www.dawn.com/news/2027625/israel-claims-capture-of-strategic-highland-in-southern-lebanon",
-      "description": "• Katz says development completes phase of securing southern Lebanon security zone• Hezbollah insists Israel has exaggerated importance of Ali al-Taher ridge JERUSALEM: Israel’s military has cleared Hezbollah fighters holed up in tunnels under the “strategic” Ali al-Taher ridge i...",
-      "date": "Sat, 05 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says he’ll ask Europeans to repay US for aiding Ukraine",
-      "link": "https://www.dawn.com/news/2027610/trump-says-hell-ask-europeans-to-repay-us-for-aiding-ukraine",
-      "description": "WASHINGTON: US President Donald Trump said on Thursday he would ask Europeans to repay the American aid provided to Ukraine under the administration of his predecessor Joe Biden. Trump has long demanded that Europeans shoulder more of the cost of Western support for Ukraine. “Hun...",
-      "date": "Sat, 05 Sep 2026",
-      "source": "Dawn",
+      "title": "West Asia conflict LIVE updates: U.S., Iran exchange fresh fire; Israel strikes southern Lebanon",
+      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
+      "description": "The latest round of clashes, which began with U.S. raids last week, comes amid a deadlock in the six-month war",
+      "date": "Sun, 06 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -226,7 +236,7 @@
       "title": "U.S. military strikes oil tankers as Iran vows tougher reprisals",
       "link": "https://www.thehindu.com/news/international/us-military-says-it-destroyed-three-iranian-oil-tankers/article71432382.ece",
       "description": "Following Iran's failed attacks, CENTCOM permanently disabled the IRGC crude oil carriers M/T Downy off the coast of Kharg Island and M/T Stark 1 near Jask, says U.S. Central Command",
-      "date": "Sat, 05 Sep 2026",
+      "date": "Sun, 06 Sep 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -273,14 +283,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "More than 120 killed in Yemen's worst clashes in years: sources",
-      "link": "https://www.thehindu.com/news/international/more-than-120-killed-in-yemens-worst-clashes-in-years-sources/article71429714.ece",
-      "description": "Fighting erupted on Thursday (September 3), after the Iran-backed Houthis launched a ground assault along with rocket and drone attacks near coastal areas, vying for control of the narrow Bab al-Mandab strait at the Red Sea's southern entrance.",
-      "date": "Fri, 04 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iranian forces strike US warships with ballistic missiles — IRGC",
+      "link": "https://tass.com/world/2183271",
+      "description": "According to the statement, the damaged US warships were forced to withdraw from the combat area",
+      "date": "Sun, 06 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }

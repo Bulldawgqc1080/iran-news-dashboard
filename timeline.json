@@ -1,18 +1,28 @@
 {
-  "updated": "2026-09-06 00:21 UTC",
-  "total": 7,
+  "updated": "2026-09-06 05:16 UTC",
+  "total": 8,
   "events": [
+    {
+      "date": "2026-09-06",
+      "dateDisplay": "Sep 06, 2026",
+      "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+      "link": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-09-05",
       "dateDisplay": "Sep 05, 2026",
       "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
       "sources": [
-        "NPR News",
-        "Al Jazeera"
+        "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-09-04",
