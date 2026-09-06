@@ -1,28 +1,30 @@
 {
-  "updated": "2026-09-06 05:16 UTC",
+  "updated": "2026-09-06 09:51 UTC",
   "total": 8,
   "events": [
     {
       "date": "2026-09-06",
       "dateDisplay": "Sep 06, 2026",
-      "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
-      "link": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+      "title": "Israeli strikes kill four in Lebanon after alleged Hezbollah drone launch",
+      "link": "https://www.france24.com/en/middle-east/20260906-israeli-strikes-kill-four-in-lebanon-after-alleged-hezbollah-drone-launch",
       "sources": [
+        "France 24",
         "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-09-05",
       "dateDisplay": "Sep 05, 2026",
-      "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
+      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
+      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
       "sources": [
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-09-04",

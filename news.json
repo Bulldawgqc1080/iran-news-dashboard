@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06 05:16 UTC",
-  "total": 29,
+  "updated": "2026-09-06 09:51 UTC",
+  "total": 34,
   "stories": [
     {
       "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
@@ -13,9 +13,9 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
+      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "description": "One of the Iranian tankers struck was near a key area in Iran's oil-export system, according to U.S. Central Command.",
+      "description": "",
       "date": "Sat, 05 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +133,56 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+      "link": "https://www.france24.com/en/video/20260906-iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates",
+      "description": "Iran said Sunday it struck an unmanned U.S. vessel trying to enter the Strait of Hormuz, the latest salvo in a new flare-up of fighting between the two countries.",
+      "date": "Sun, 06 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli strikes kill four in Lebanon after alleged Hezbollah drone launch",
+      "link": "https://www.france24.com/en/middle-east/20260906-israeli-strikes-kill-four-in-lebanon-after-alleged-hezbollah-drone-launch",
+      "description": "Israeli air strikes on southern Lebanon Sunday killed four people, two of them women, the country's health ministry said. Israel's military said that the strikes were a response to an alleged Hezbollah drone launch targeting troops in the Israeli-occupied \"security zone\" in the c...",
+      "date": "Sun, 06 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli air attacks on Lebanon kill at least four",
+      "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
+      "description": "Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.",
+      "date": "Sun, 06 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel bombards several towns in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
+      "description": "The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June",
+      "date": "Sun, 06 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+      "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+      "description": "More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.",
+      "date": "Sun, 06 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
       "link": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
       "description": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
@@ -143,7 +193,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
+      "title": "Iran war live: IRGC, US trade fire, attack oil tankers in Hormuz",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
       "description": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
       "date": "Sun, 06 Sep 2026",
@@ -183,6 +233,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US mid-terms begin with chaos over mail-voting crackdown",
+      "link": "https://www.dawn.com/news/2027824/us-mid-terms-begin-with-chaos-over-mail-voting-crackdown",
+      "description": "WASHINGTON: America’s midterm elections opened on Friday in a fog of confusion over mail voting, with ballots already going out as President Donald Trump presses courts to let him impose sweeping new restrictions on how they are handled. North Carolina became the first state auth...",
+      "date": "Sun, 06 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
       "link": "https://www.dawn.com/news/2027702/fresh-yemen-clashes-kill-more-than-60-military-medical-sources",
       "description": "Fighting between Yemen’s Saudi-backed government forces and the country’s Houthi rebels killed more than 60 people on Saturday, including civilians, medical and military sources told AFP. The renewed clashes in Yemen’s southwest over control of a gateway to the Red Sea came after...",
@@ -213,19 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Major flare-up in Yemen leaves nearly 130 dead",
-      "link": "https://www.dawn.com/news/2027626/major-flare-up-in-yemen-leaves-nearly-130-dead",
-      "description": "• Houthis attempt to tighten hold over Red Sea as Hormuz crossings plunge sharply• Trump says strait ‘not very necessary’ once pipelines are built• US strategic petroleum reserve hits 44-year low• US president says he wants to leave after ‘big win’ in Iran war SANAA: As tensions ...",
-      "date": "Sat, 05 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia conflict LIVE updates: U.S., Iran exchange fresh fire; Israel strikes southern Lebanon",
+      "title": "West Asia conflict LIVE updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
       "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
-      "description": "The latest round of clashes, which began with U.S. raids last week, comes amid a deadlock in the six-month war",
+      "description": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
       "date": "Sun, 06 Sep 2026",
       "source": "The Hindu",
       "region": "me",
