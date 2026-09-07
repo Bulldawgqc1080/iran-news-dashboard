@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-06 22:34 UTC",
-  "total": 8,
+  "updated": "2026-09-07 00:27 UTC",
+  "total": 9,
   "events": [
+    {
+      "date": "2026-09-07",
+      "dateDisplay": "Sep 07, 2026",
+      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-09-06",
       "dateDisplay": "Sep 06, 2026",
@@ -19,8 +30,8 @@
       "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
       "sources": [
-        "NPR News",
-        "BBC"
+        "BBC",
+        "NPR News"
       ],
       "sourceCount": 2,
       "type": "govt"
