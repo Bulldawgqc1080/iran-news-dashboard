@@ -1,25 +1,26 @@
 {
-  "updated": "2026-09-07 05:24 UTC",
-  "total": 9,
+  "updated": "2026-09-07 10:57 UTC",
+  "total": 8,
   "events": [
     {
       "date": "2026-09-07",
       "dateDisplay": "Sep 07, 2026",
-      "title": "Wildfires, heatwaves threaten global air quality and health, UN warns",
-      "link": "https://www.france24.com/en/environment/20260907-wildfires-heatwaves-global-air-quality-health-un",
+      "title": "Israeli strikes in southern Lebanese village kill nine",
+      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24"
+        "Al Jazeera",
+        "BBC"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-09-06",
       "dateDisplay": "Sep 06, 2026",
-      "title": "The week in pictures: Nepal rescue operations, World Nomad Games and Russian strikes on Kyiv",
-      "link": "https://www.france24.com/en/europe/20260906-the-week-in-pictures-nepal-rescue-operations-world-nomad-games-and-russian-strikes-on-kyiv",
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
@@ -27,14 +28,13 @@
     {
       "date": "2026-09-05",
       "dateDisplay": "Sep 05, 2026",
-      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+      "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
+      "link": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
       "sources": [
-        "BBC",
         "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-09-04",
@@ -70,21 +70,10 @@
       "type": "framing"
     },
     {
-      "date": "2026-09-01",
-      "dateDisplay": "Sep 01, 2026",
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
       "date": "2026-08-31",
       "dateDisplay": "Aug 31, 2026",
       "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/cwyzw0el1lpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],

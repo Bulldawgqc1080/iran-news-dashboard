@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07 05:24 UTC",
-  "total": 35,
+  "updated": "2026-09-07 10:57 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
@@ -13,24 +13,24 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "description": "",
-      "date": "Sat, 05 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Israeli strikes in southern Lebanese village kill nine",
+      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "date": "Mon, 07 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
-      "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
-      "description": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
-      "date": "Sat, 05 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "description": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+      "date": "Sun, 06 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
@@ -93,16 +93,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-      "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
-      "date": "Wed, 02 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Israel warns it will retaliate if UK imposes sanctions",
       "link": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
       "description": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
@@ -113,21 +103,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "date": "Mon, 31 Aug 2026",
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "description": "After renewed strikes this week, does either side have an exit strategy?",
+      "date": "Fri, 04 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-      "date": "Tue, 01 Sep 2026",
-      "source": "BBC",
+      "title": "Lebanon president calls for US help after deadly Israeli strikes",
+      "link": "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
+      "description": "Lebanese President Joseph Aoun has urged Washington and the international community to help stop Israeli attacks, with strikes on the south of the country killing at least 11 people on Sunday despite a truce and a framework deal aimed at halting the violence.",
+      "date": "Mon, 07 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen govt forces, Houthi rebels battle for control of Red Sea gateway",
+      "link": "https://www.france24.com/en/video/20260907-yemen-govt-forces-houthi-rebels-battle-for-control-of-red-sea-gateway",
+      "description": "Military sources in Yemen say more than 140 combatants were killed in fighting between its government and Houthi rebels in the southwest of the country over the weekend. Days-long clashes have erupted in the country over the control of a gateway to the Red Sea, marking the deadli...",
+      "date": "Mon, 07 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -143,9 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East Live: Israel army orders evacuation of zone in south Lebanon ahead of strikes",
+      "title": "Middle East Live: Several killed in Israeli strikes in southern Lebanon",
       "link": "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes",
-      "description": "The Israeli army demanded early Monday that residents of Deir Zahrani in southern Lebanon leave a specific zone ahead of strikes against Iran-backed Hezbollah. Hezbollah's Al-Manar television channel later reported Israeli airstrikes on Deir Zahrani. Follow our liveblog for the l...",
+      "description": "At ⁠least ​11 ​people were killed, including two infants, were injured ⁠in Israeli strikes on ​a ‌residential building in ‌a town ​in southern Lebanon early on Monday, ​Lebanon's ​state ​news agency ​reported. The Israeli army had demanded early Monday that residents of Deir Zahr...",
       "date": "Mon, 07 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,24 +153,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "The week in pictures: Nepal rescue operations, World Nomad Games and Russian strikes on Kyiv",
-      "link": "https://www.france24.com/en/europe/20260906-the-week-in-pictures-nepal-rescue-operations-world-nomad-games-and-russian-strikes-on-kyiv",
-      "description": "From the desperate search for workers trapped in the hydropower tunnels buried by the catastrophic flooding in Nepal to crowds of women mourning the victims of a US bombardment of a wedding in southern Iran, FRANCE 24 looks back at the week's most striking pictures.",
-      "date": "Sun, 06 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss",
+      "description": "Israeli air strikes on southern Lebanon began at dawn on Sunday, killing at least 10 people.",
+      "date": "Mon, 07 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "US Army Secretary Dan Driscoll quits: \"What we've seen is almost a factional clash\"",
-      "link": "https://www.france24.com/en/video/20260906-us-army-secretary-dan-driscoll-quits-what-we-ve-seen-is-almost-a-factional-clash",
-      "description": "Amid the US conflict with Iran, Democrats and some Republicans are warning of a leadership void at the top of the US military. That's after the resignation this week of the Army's top civilian official, Army Secretary Dan Driscoll, amid widespread reports of tensions with Defense...",
-      "date": "Sun, 06 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war: How US consumers spent an additional $100bn on fuel",
+      "link": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel?traffic_source=rss",
+      "description": "The average US household has spent $763 extra on fuel in six months, as the US-Israel war on Iran pushes up fuel costs.",
+      "date": "Mon, 07 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "description": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
+      "date": "Mon, 07 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran to announce restricted zone outside Strait of Hormuz",
@@ -183,14 +193,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+      "title": "Iran war live: US energy firms ‘legitimate’ targets after tanker attacks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
-      "description": "Move comes as Iran&#039;s top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.",
+      "description": "Iran&#039;s top negotiator warns US oil-and-gas companies will be hit after Hormuz Strait shipping strikes.",
       "date": "Mon, 07 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Nepal holds day of mourning for victims of devastating floods as families pray missing still alive",
+      "link": "https://www.dawn.com/news/2028115/nepal-holds-day-of-mourning-for-victims-of-devastating-floods-as-families-pray-missing-still-alive",
+      "description": "Nepal held a national day of mourning on Monday for victims of devastating glacial floods, as families of missing hydropower workers feared trapped in tunnels prayed rescuers might yet find them alive. The August 26 glacial and mountain collapse on the China-Nepal border killed a...",
+      "date": "Mon, 07 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "US state of New Mexico becomes latest target of Trump's name-changing spree",
@@ -243,19 +263,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Top US military officials face lie detectors in leak hunt",
-      "link": "https://www.dawn.com/news/2027827/top-us-military-officials-face-lie-detectors-in-leak-hunt",
-      "description": "WASHINGTON: The Pentagon has launched a lie-detector dragnet to comb through high-ranking military officials and identify who leaked information about US munitions stockpiles, according to US press reports. In July, reports emerged that the Un­­­i­­ted States was rationing muniti...",
-      "date": "Sun, 06 Sep 2026",
-      "source": "Dawn",
+      "title": "West Asia conflict LIVE: Israeli strikes on southern Lebanese town kill 11, state media says",
+      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-israel-strikes-lebanon-hezbollah-donald-trump-netanyahu-september-7-2026/article71437351.ece",
+      "description": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
+      "date": "Mon, 07 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia conflict LIVE: Israel army orders evacuation of zone in south Lebanon ahead of strikes",
-      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-israel-strikes-lebanon-hezbollah-donald-trump-netanyahu-september-7-2026/article71437351.ece",
-      "description": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
+      "title": "Iranian football players who sought asylum in Australia say anthem silence was protest against Tehran",
+      "link": "https://www.thehindu.com/news/international/iranian-football-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest-against-tehran/article71437760.ece",
+      "description": "Ramezanisadeh and Pasandideh said they were protesting Tehran's brutal crackdown on nationwide demonstrations against Iran's theocratic rule.",
       "date": "Mon, 07 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,14 +323,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. military strikes oil tankers as Iran vows tougher reprisals",
-      "link": "https://www.thehindu.com/news/international/us-military-says-it-destroyed-three-iranian-oil-tankers/article71432382.ece",
-      "description": "Following Iran's failed attacks, CENTCOM permanently disabled the IRGC crude oil carriers M/T Downy off the coast of Kharg Island and M/T Stark 1 near Jask, says U.S. Central Command",
-      "date": "Sun, 06 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "AfD to push for restoring ties with Russia after state election victory",
+      "link": "https://tass.com/world/2183573",
+      "description": "Sanctions policy needs to change, Alternative for Germany co-chair Tino Chrupalla said",
+      "date": "Mon, 07 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "States with anti-Russian sanctions taking part in EEF underscore its significance — envoy",
@@ -336,16 +356,6 @@
       "title": "Ex-Pentagon chief anticipates US-Iran standoff to continues for six months more",
       "link": "https://tass.com/world/2183413",
       "description": "Leon Panetta noted that there are very few options available to bring this war to an end",
-      "date": "Sun, 06 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Houthis say they downed Saudi drone over Yemen",
-      "link": "https://tass.com/world/2183369",
-      "description": "\"The Yemeni armed forces have shot down a Wing Loong II reconnaissance drone belonging to Saudi Arabia when it was on a hoistile mission,\" Houthi spokesman Yahya Saria said",
       "date": "Sun, 06 Sep 2026",
       "source": "TASS",
       "region": "ru",
