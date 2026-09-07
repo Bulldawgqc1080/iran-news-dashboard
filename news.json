@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-07 10:57 UTC",
-  "total": 36,
+  "updated": "2026-09-07 16:15 UTC",
+  "total": 34,
   "stories": [
     {
-      "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
-      "description": "The U.S. strikes three Iranian oil tankers after Iran targets two American warships, in the latest exchange over shipping and the Strait of Hormuz.",
-      "date": "Sat, 05 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Israeli strikes in southern Lebanese village kill nine",
+      "title": "Israeli strikes in southern Lebanese village kill 12",
       "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
       "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
       "date": "Mon, 07 Sep 2026",
@@ -113,6 +103,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israeli strikes on southern Lebanon kill 11",
+      "link": "https://www.france24.com/en/video/20260907-israeli-strikes-on-southern-lebanon-kill-11",
+      "description": "Israeli strikes ⁠on a ​southern Lebanese town early on Monday killed at least 11 people including two children ​and two medics, Lebanon's state news agency said. Israel has intensified its bombardment of south Lebanon in recent days despite a June ceasefire that was meant ​to hal...",
+      "date": "Mon, 07 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Two children among dead in Israeli strikes on Lebanon",
+      "link": "https://www.france24.com/en/video/20260907-two-children-among-dead-in-israeli-strikes-on-lebanon",
+      "description": "Israeli airstrikes overnight killed 11 people in a south Lebanon village, including two infants, Lebanese state media said Monday, a day after separate raids left seven dead. France 24's Renée Davis in Beirut has the latest.",
+      "date": "Mon, 07 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Driverless taxi services are rolling out fast across the world",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20260907-driverless-taxi-services-are-rolling-out-fast-across-the-world",
+      "description": "From Austin to London, the current robotaxi boom is raising hard questions about safety and jobs. We take a closer look in this edition of Tech 24.",
+      "date": "Mon, 07 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Lebanon president calls for US help after deadly Israeli strikes",
       "link": "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
       "description": "Lebanese President Joseph Aoun has urged Washington and the international community to help stop Israeli attacks, with strikes on the south of the country killing at least 11 people on Sunday despite a truce and a framework deal aimed at halting the violence.",
@@ -123,84 +143,64 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen govt forces, Houthi rebels battle for control of Red Sea gateway",
-      "link": "https://www.france24.com/en/video/20260907-yemen-govt-forces-houthi-rebels-battle-for-control-of-red-sea-gateway",
-      "description": "Military sources in Yemen say more than 140 combatants were killed in fighting between its government and Houthi rebels in the southwest of the country over the weekend. Days-long clashes have erupted in the country over the control of a gateway to the Red Sea, marking the deadli...",
+      "title": "Yemen gov’t forces launch air strikes on Houthi targets",
+      "link": "https://www.aljazeera.com/news/2026/9/7/yemen-govt-forces-launch-air-strikes-on-houthi-targets?traffic_source=rss",
+      "description": "The Houthis and Yemeni government forces are battling for control of the critical Bab al-Mandeb Strait.",
       "date": "Mon, 07 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
+      "link": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss",
+      "description": "US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters.",
+      "date": "Mon, 07 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
+      "description": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
+      "date": "Mon, 07 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
+      "link": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
+      "description": "There is less crude in the market, and refiners prefer to produce diesel. The result: ships are running short of fuel.",
+      "date": "Mon, 07 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Saudi Arabia preparing to grant IAEA more powers, Grossi says",
+      "link": "https://www.dawn.com/news/2028145/saudi-arabia-preparing-to-grant-iaea-more-powers-grossi-says",
+      "description": "A planned US-Saudi atomic deal does not include Riyadh signing the International Atomic Energy Agency’s (IAEA) Additional Protocol that gives the UN nuclear watchdog sweeping inspection powers, but something close to it on some points is in the works, the agency’s chief said on M...",
+      "date": "Mon, 07 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Wildfires, heatwaves threaten global air quality and health, UN warns",
-      "link": "https://www.france24.com/en/environment/20260907-wildfires-heatwaves-global-air-quality-health-un",
-      "description": "Wildfires and heatwaves are threatening global efforts to improve air quality and protect human health, the World Meteorological Organisation said on Monday. The UN agency warned that increasingly severe fires are raising exposure to toxic PM2.5 pollution, even as regulations hav...",
+      "title": "Warning signs abound for Trump's Republicans as midterm campaign begins final sprint",
+      "link": "https://www.dawn.com/news/2028130/warning-signs-abound-for-trumps-republicans-as-midterm-campaign-begins-final-sprint",
+      "description": "As the unofficial start of the campaign sprint kicks off on Labour Day Monday, United States President Donald Trump’s deep unpopularity is imperilling Republican chances of maintaining their narrow majorities in Congress with just two months before November’s midterm elections. M...",
       "date": "Mon, 07 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Middle East Live: Several killed in Israeli strikes in southern Lebanon",
-      "link": "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes",
-      "description": "At ⁠least ​11 ​people were killed, including two infants, were injured ⁠in Israeli strikes on ​a ‌residential building in ‌a town ​in southern Lebanon early on Monday, ​Lebanon's ​state ​news agency ​reported. The Israeli army had demanded early Monday that residents of Deir Zahr...",
-      "date": "Mon, 07 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss",
-      "description": "Israeli air strikes on southern Lebanon began at dawn on Sunday, killing at least 10 people.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war: How US consumers spent an additional $100bn on fuel",
-      "link": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel?traffic_source=rss",
-      "description": "The average US household has spent $763 extra on fuel in six months, as the US-Israel war on Iran pushes up fuel costs.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
-      "description": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran to announce restricted zone outside Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-      "description": "Iran&#039;s security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: US energy firms ‘legitimate’ targets after tanker attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
-      "description": "Iran&#039;s top negotiator warns US oil-and-gas companies will be hit after Hormuz Strait shipping strikes.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "Nepal holds day of mourning for victims of devastating floods as families pray missing still alive",
@@ -237,26 +237,6 @@
       "link": "https://www.dawn.com/news/2027997/israeli-strikes-kill-seven-in-lebanon",
       "description": "ARABSALIM: Lebanese President Joseph Aoun urged Washington and the international community to help stop Israeli attacks after strikes on Sunday killed at least seven people despite a truce and an Israel-Lebanon deal. Mr Aoun said Sunday’s strikes, which damaged government premise...",
       "date": "Mon, 07 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran warns of 'more painful response' if US launches further attacks",
-      "link": "https://www.dawn.com/news/2027938/iran-warns-of-more-painful-response-if-us-launches-further-attacks",
-      "description": "Iran’s top negotiator on Sunday threatened a more forceful response to any further US attacks after Tehran targeted American warships in their latest round of clashes. The exchanges of fire, which began with US raids last week, come amid a deadlock in the six-month war between th...",
-      "date": "Sun, 06 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iranian tankers hit after IRGC ‘attack on US ships’",
-      "link": "https://www.dawn.com/news/2027831/iranian-tankers-hit-after-irgc-attack-on-us-ships",
-      "description": "• Iran vows to carry out more severe strikes against military vessels if ‘blockade’ continues• Hegseth says Tehran’s oil tanker fleet ‘defenceless’• US citizens in Bahrain urged to ‘exercise heightened vigilance’ DUBAI: US forces struck three Iranian oil tankers on Saturday, US C...",
-      "date": "Sun, 06 Sep 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -323,9 +303,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "AfD to push for restoring ties with Russia after state election victory",
-      "link": "https://tass.com/world/2183573",
-      "description": "Sanctions policy needs to change, Alternative for Germany co-chair Tino Chrupalla said",
+      "title": "Iranian delegation to take part in UN General Assembly if US grants entry visas — diplomat",
+      "link": "https://tass.com/world/2183753",
+      "description": "Foreign Ministry Spokesman Esmaeil Baghaei noted that Tehran intended to clarify Iran's position on pressing issues at the UN General Assembly meeting",
       "date": "Mon, 07 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -333,9 +313,9 @@
       "bias": "Very High"
     },
     {
-      "title": "States with anti-Russian sanctions taking part in EEF underscore its significance — envoy",
-      "link": "https://tass.com/politics/2183431",
-      "description": "These countries realize that it's impossible to imagine a world without Russia or the Arctic today, Deputy Prime Minister and plenipotentiary envoy in the Far Eastern Federal District Yury Trutnev said",
+      "title": "Russia not banking on prolonged Strait of Hormuz crisis — envoy",
+      "link": "https://tass.com/politics/2183729",
+      "description": "Boris Titov said the crisis surrounding the Strait of Hormuz could end just as quickly as it began",
       "date": "Mon, 07 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -343,9 +323,9 @@
       "bias": "Very High"
     },
     {
-      "title": "BSW says it shares common ground with AfD on issues related to Russia, sanctions",
-      "link": "https://tass.com/world/2183429",
-      "description": "According to Thomas Schulze, like the AfD, the BSW advocates for \"affordable energy\"",
+      "title": "IAEA loses access to Iranian nuclear sites due to US, Israel — MFA",
+      "link": "https://tass.com/world/2183693",
+      "description": "According to Esmaeil Baghaei, attempts by European countries to repeatedly submit the Iranian nuclear dossier for consideration to the UN Security Council contradict their own statements from last fall about reinstating UNSC sanctions",
       "date": "Mon, 07 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,10 +333,10 @@
       "bias": "Very High"
     },
     {
-      "title": "Ex-Pentagon chief anticipates US-Iran standoff to continues for six months more",
-      "link": "https://tass.com/world/2183413",
-      "description": "Leon Panetta noted that there are very few options available to bring this war to an end",
-      "date": "Sun, 06 Sep 2026",
+      "title": "Death toll from Israeli attacks in Lebanon since beginning of escalation climbs to 4,362",
+      "link": "https://tass.com/world/2183649",
+      "description": "The number of wounded has reached 12,378",
+      "date": "Mon, 07 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
