@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-08 06:42 UTC",
-  "total": 36,
+  "updated": "2026-09-08 11:52 UTC",
+  "total": 38,
   "stories": [
+    {
+      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+      "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "description": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country's civil war.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Israeli strikes in southern Lebanese village kill 12",
       "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
@@ -103,34 +113,104 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel intensifies south Lebanon strikes, killing 13 after weeks-long lull",
-      "link": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence",
-      "description": "Israel launched a wave of air strikes across southern Lebanon, killing 13 people, including women and children, Lebanon’s health ministry said on Monday, marking an escalation after weeks of relative calm. Israel said it would continue targeting Iran-backed Hezbollah over alleged...",
-      "date": "Mon, 07 Sep 2026",
+      "title": "'Pheromone maxxing': Men avoid showers before dates to boost attraction",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260908-pheromone-maxxing-men-avoid-showers-before-dates-to-boost-attraction",
+      "description": "PRESS REVIEW – Tuesday, September 8: Papers discuss UK sanctions on Israeli settlements in the West Bank. Also, could AI change what it means to be human? Finally, \"pheromone maxxing\" is in; showers are out.",
+      "date": "Tue, 08 Sep 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "'What we see right now is that Putin has zero interest in ending the war', Ukrainian MP Yasko says",
-      "link": "https://www.france24.com/en/what-we-see-right-now-is-that-putin-has-zero-interest-in-ending-the-war-ukrainian-mp-yasko-says",
-      "description": "US envoy Steve Witkoff on Monday touted progress in weekend discussions with Ukraine and Russia, raising the prospect of reviving three-way peace talks to end Europe's deadliest conflict since World War II. Ukrainian MP Lisa Yasko says that \"we don't trust these talks\", describin...",
-      "date": "Mon, 07 Sep 2026",
+      "title": "Trump threatens ban on Bombardier as Canada's retaliatory tariffs kick in",
+      "link": "https://www.france24.com/en/tv-shows/business/20260908-trump-threatens-ban-on-bombardier-as-canada-s-retaliatory-tariffs-kick-in",
+      "description": "Canada's retaliatory tariffs of up to 50 percent on approximately $19.8 billion worth of US goods came into effect this Tuesday, further escalating the trade war between the two neighbours. At the same time, US President Donald Trump is threatening to ban sales of all Bombardier ...",
+      "date": "Tue, 08 Sep 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli strikes on southern Lebanon kill 11",
-      "link": "https://www.france24.com/en/video/20260907-israeli-strikes-on-southern-lebanon-kill-11",
-      "description": "Israeli strikes ⁠on a ​southern Lebanese town early on Monday killed at least 11 people including two children ​and two medics, Lebanon's state news agency said. Israel has intensified its bombardment of south Lebanon in recent days despite a June ceasefire that was meant ​to hal...",
-      "date": "Mon, 07 Sep 2026",
+      "title": "Houthi attacks disrupt Saudi oil facilities and wound more than 70",
+      "link": "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
+      "description": "Attacks on Saudi Arabia Tuesday claimed by Yemen's Houthis wounded more than 70 people and ignited fires at several oil facilities and utilities in the kingdom's southern region, authorities said, in a major escalation in the renewed conflict between an important US ally and the ...",
+      "date": "Tue, 08 Sep 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "French AI startup Mistral valued at over 21 billion euros after latest funding",
+      "link": "https://www.france24.com/en/europe/20260908-french-ai-startup-mistral-raises-3-billion-euros-after-latest-funding",
+      "description": "French AI company Mistral announced Tuesday that it had raised three billion euros ($3.5 billion) in what it described as the largest-ever European tech fundraising, valuing the startup at over 21 billion euros. While still an upstart compared to the AI giants OpenAI or Anthropic...",
+      "date": "Tue, 08 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
+      "link": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
+      "description": "Saudi Arabia promises firm retaliation after Houthi strikes injure 73 and disrupt energy facilities in southern cities.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Saudi political analyst says ‘No prolonged war with the Houthis’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
+      "description": "Khaled Batarfi, a Saudi political analyst, says the war with the Houthis will not be ‘prolonged’.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How South Korea finds itself trapped in the US-Iran war",
+      "link": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
+      "description": "Washington is pressuring a reluctant Seoul to support its naval blockade of Iran; Tehran is threatening consequences.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
+      "description": "Saudi Arabia says a wave of Houthi attacks on the country’s south have injured 73 people, including women and children.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+      "link": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
+      "description": "New fuel pricing targets consumption above 110 litres monthly, doubling costs to 100,000 riyals per litre.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
+      "description": "Forces loyal to Yemen’s internationally recognised government pledge to seize the capital Sanaa as battles rage.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
@@ -143,64 +223,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
-      "link": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
-      "description": "Bid to take the capital comes as clashes between Yemeni forces and Houthis intensify in the provinces of al-Bayda and al-Jawf.",
+      "title": "Houthi attacks disrupt Saudi energy facilities, wound 73, authorities say",
+      "link": "https://www.dawn.com/news/2028346/houthi-attacks-disrupt-saudi-energy-facilities-wound-73-authorities-say",
+      "description": "Operations at some energy facilities in Saudi Arabia, the world’s top oil exporter, were halted on Tuesday following attacks by Yemen’s Houthi rebels that wounded 73 people, in what Saudi authorities described as a dangerous escalation. Saudi Arabia’s foreign ministry strongly co...",
       "date": "Tue, 08 Sep 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
-      "link": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
-      "description": "UN nuclear watchdog urges Iran to cooperate, as Western powers push to refer its nuclear file to the Security Council.",
-      "date": "Tue, 08 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
-      "description": "An average of 10 ships transited Strait of Hormuz daily over past 10 days, the lowest level since May, Kpler data shows.",
-      "date": "Tue, 08 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
-      "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
-      "description": "Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-      "description": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
-      "description": "Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran threatens US Gulf energy infrastructure following clashes",
@@ -253,11 +283,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Nepal holds day of mourning for victims of devastating floods as families pray missing still alive",
-      "link": "https://www.dawn.com/news/2028115/nepal-holds-day-of-mourning-for-victims-of-devastating-floods-as-families-pray-missing-still-alive",
-      "description": "Nepal held a national day of mourning on Monday for victims of devastating glacial floods, as families of missing hydropower workers feared trapped in tunnels prayed rescuers might yet find them alive. The August 26 glacial and mountain collapse on the China-Nepal border killed a...",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Dawn",
+      "title": "Houthi strikes in Saudi Arabia wound 73: Riyadh-led coalition",
+      "link": "https://www.thehindu.com/news/international/houthi-strikes-in-saudi-arabia-wound-many-says-riyadh-led-coalition/article71441370.ece",
+      "description": "The strikes came after the Houthis accused Riyadh on September 7 of carrying out strikes around Yemen, including the deadly bombardment of a prison",
+      "date": "Tue, 08 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen’s Houthis claim attack on Saudi oil tanker in Red Sea",
+      "link": "https://www.thehindu.com/news/international/yemens-houthis-claim-attack-on-saudi-oil-tanker-in-red-sea/article71385806.ece",
+      "description": "The strike was accurate and direct, resulting in a fire breaking out aboard the vessel and causing a number of other ships that were present in the target area to flee, the Houthis said in a statement.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
+      "link": "https://www.thehindu.com/news/international/fresh-yemen-clashes-kill-more-than-60-military-medical-sources/article71431895.ece",
+      "description": "According to three Yemeni military sources, 26 government troops were killed during several hours of fighting in the country's southwest, while medical and military sources from the Iran-backed Houthis said 31 rebel fighters were killed",
+      "date": "Tue, 08 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -293,34 +343,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "TN Assembly drama: CM Vijay attacks DMK over past corruption | Above the Fold | Sept 7, 2026",
-      "link": "https://www.thehindu.com/videos/tn-assembly-drama-cm-vijay-attacks-dmk-over-past-corruption-above-the-fold-sept-7-2026/article71440003.ece",
-      "description": "Today’s Above the Fold bulletin covers Tamil Nadu’s heated Assembly clashes over past corruption charges, Delhi’s tragic hostel collapse raising serious safety questions, and New Delhi’s official stance on a controversial new UN map. We also examine escalating West Asia strikes, ...",
-      "date": "Mon, 07 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Kremlin says anti-Russian sanctions secondary to Ukrainian settlement",
+      "link": "https://tass.com/politics/2184109",
+      "description": "Russia considers Western sanctions unacceptable, Dmitry Peskov noted",
+      "date": "Tue, 08 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iranian football players who sought asylum in Australia say anthem silence was protest against Tehran",
-      "link": "https://www.thehindu.com/news/international/iranian-football-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest-against-tehran/article71437760.ece",
-      "description": "Ramezanisadeh and Pasandideh said they were protesting Tehran's brutal crackdown on nationwide demonstrations against Iran's theocratic rule.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia conflict updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
-      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
-      "description": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
-      "date": "Sun, 06 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Press review: Iran expands its naval war with US and EU blocks US ambitions in Greenland",
+      "link": "https://tass.com/pressreview/2183933",
+      "description": "Top stories from the Russian press on Tuesday, August 8th",
+      "date": "Tue, 08 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Seven vessels pass through Strait of Hormuz on September 7 — media",
@@ -337,26 +377,6 @@
       "link": "https://tass.com/politics/2183885",
       "description": "The sides are expected to reaffirm their positions on the inadmissibility of a return to escalation in the Persian Gulf region",
       "date": "Tue, 08 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US redirects 94 vessels since resuming naval blockade of Iran",
-      "link": "https://tass.com/world/2183867",
-      "description": "CENTCOM forces also disabled three and boarded two ships",
-      "date": "Mon, 07 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "At least two killed in Houthi missile attack on refugee camp — TV",
-      "link": "https://tass.com/world/2183845",
-      "description": "According to a report by Al Hadath, several people more were wounded",
-      "date": "Mon, 07 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
