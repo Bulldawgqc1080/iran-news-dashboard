@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08 01:54 UTC",
-  "total": 35,
+  "updated": "2026-09-08 06:42 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "Israeli strikes in southern Lebanese village kill 12",
@@ -83,16 +83,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel warns it will retaliate if UK imposes sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
-      "description": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
-      "date": "Tue, 01 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "How could US-Iran conflict end? Three experts give their views",
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "description": "After renewed strikes this week, does either side have an exit strategy?",
@@ -103,9 +93,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel intensifies South Lebanon strikes, killing 13 after weeks-long lull",
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+      "date": "Wed, 02 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel intensifies south Lebanon strikes, killing 13 after weeks-long lull",
       "link": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence",
-      "description": "Israel launched a wave of airstrikes across southern Lebanon, killing 13 people, including women and children, Lebanon’s health ministry said on Monday, marking an escalation after weeks of relative calm. Israel said it would continue targeting Iran-backed Hezbollah over alleged ...",
+      "description": "Israel launched a wave of air strikes across southern Lebanon, killing 13 people, including women and children, Lebanon’s health ministry said on Monday, marking an escalation after weeks of relative calm. Israel said it would continue targeting Iran-backed Hezbollah over alleged...",
       "date": "Mon, 07 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -133,14 +133,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Two children among dead in Israeli strikes on Lebanon",
-      "link": "https://www.france24.com/en/video/20260907-two-children-among-dead-in-israeli-strikes-on-lebanon",
-      "description": "Israeli airstrikes overnight killed 11 people in a south Lebanon village, including two infants, Lebanese state media said Monday, a day after separate raids left seven dead. France 24's Renée Davis in Beirut has the latest.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+      "link": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
+      "description": "Spokesperson for Saudi-led coalition says Houthis have hit civilian sites in Abha, Khamis Mushait, Jizan and Najran.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+      "link": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+      "description": "Bid to take the capital comes as clashes between Yemeni forces and Houthis intensify in the provinces of al-Bayda and al-Jawf.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
+      "link": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+      "description": "UN nuclear watchdog urges Iran to cooperate, as Western powers push to refer its nuclear file to the Security Council.",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
@@ -183,14 +203,34 @@
       "bias": "Medium"
     },
     {
-      "title": "The domestic armed threat facing Iran",
-      "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
-      "description": "External support for ethnic armed groups poses an escalating security threat to Iran, experts and state officials warn.",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Iran threatens US Gulf energy infrastructure following clashes",
+      "link": "https://www.dawn.com/news/2028286/iran-threatens-us-gulf-energy-infrastructure-following-clashes",
+      "description": "DUBAI/TEHRAN: Iran threatened on Monday to retaliate against any new US attacks on its assets, warning that energy infrastructure across the Gulf, including US oil and gas interests, was vulnerable. “Strike our assets and you get struck,” Iranian Parliament Speaker Mohammad Baqer...",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Two children among 13 killed in Israeli strikes on Lebanon",
+      "link": "https://www.dawn.com/news/2028253/two-children-among-13-killed-in-israeli-strikes-on-lebanon",
+      "description": "BEIRUT: Israeli strikes on a southern Lebanese town killed 13 people, including two children, on Monday, in one of the deadliest days of bom­bardment in recent weeks. Fears of a renewed Israeli military campaign are mou­nting in Lebanon after days of escalating strikes despite a ...",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UAE govt mulls alternative routes for oil exports",
+      "link": "https://www.dawn.com/news/2028273/uae-govt-mulls-alternative-routes-for-oil-exports",
+      "description": "DUBAI: The United Arab Emirates is building alternative routes for its energy exports and trade to ensure they are not “held hostage” by the ongoing war between the US and Iran, UAE presidential adviser Anwar Gargash said on Monday. The conflict has had a significant impact on Gu...",
+      "date": "Tue, 08 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Saudi Arabia preparing to grant IAEA more powers, Grossi says",
@@ -216,36 +256,6 @@
       "title": "Nepal holds day of mourning for victims of devastating floods as families pray missing still alive",
       "link": "https://www.dawn.com/news/2028115/nepal-holds-day-of-mourning-for-victims-of-devastating-floods-as-families-pray-missing-still-alive",
       "description": "Nepal held a national day of mourning on Monday for victims of devastating glacial floods, as families of missing hydropower workers feared trapped in tunnels prayed rescuers might yet find them alive. The August 26 glacial and mountain collapse on the China-Nepal border killed a...",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US state of New Mexico becomes latest target of Trump's name-changing spree",
-      "link": "https://www.dawn.com/news/2028093/us-state-of-new-mexico-becomes-latest-target-of-trumps-name-changing-spree",
-      "description": "US President Donald Trump’s name-changing spree found an unlikely new target on Sunday when he suggested the state of New Mexico could become “New America”. His proposal, which was immediately dismissed by the state’s governor, comes days after he signed an order to rename Lake O...",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US envoys hold Kyiv talks in push for Ukraine-Russia peace",
-      "link": "https://www.dawn.com/news/2027996/us-envoys-hold-kyiv-talks-in-push-for-ukraine-russia-peace",
-      "description": "• Kushner says talks produced new ideas for advancing peace, while White House says substantive plans could be announced in coming weeks• US diplomats meet Putin in Moscow before holding talks with Zelensky in Kyiv KYIV: US President Donald Trump’s son-in-law Jared Kushner said S...",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israeli strikes kill seven in Lebanon",
-      "link": "https://www.dawn.com/news/2027997/israeli-strikes-kill-seven-in-lebanon",
-      "description": "ARABSALIM: Lebanese President Joseph Aoun urged Washington and the international community to help stop Israeli attacks after strikes on Sunday killed at least seven people despite a truce and an Israel-Lebanon deal. Mr Aoun said Sunday’s strikes, which damaged government premise...",
       "date": "Mon, 07 Sep 2026",
       "source": "Dawn",
       "region": "me",
@@ -313,6 +323,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Seven vessels pass through Strait of Hormuz on September 7 — media",
+      "link": "https://tass.com/world/2183897",
+      "description": "According to a report by Reuters, traffic through the strait declined after Iran threatened to retaliate against any new US attacks",
+      "date": "Tue, 08 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Lavrov, Saudi foreign minister to hold talks in Moscow",
+      "link": "https://tass.com/politics/2183885",
+      "description": "The sides are expected to reaffirm their positions on the inadmissibility of a return to escalation in the Persian Gulf region",
+      "date": "Tue, 08 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US redirects 94 vessels since resuming naval blockade of Iran",
       "link": "https://tass.com/world/2183867",
       "description": "CENTCOM forces also disabled three and boarded two ships",
@@ -326,26 +356,6 @@
       "title": "At least two killed in Houthi missile attack on refugee camp — TV",
       "link": "https://tass.com/world/2183845",
       "description": "According to a report by Al Hadath, several people more were wounded",
-      "date": "Mon, 07 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Situation around Iran is most pressing political issue for BRICS, says Russian diplomat",
-      "link": "https://tass.com/politics/2183831",
-      "description": "Sergey Ryabkov explained that there are countries within the organization that \"take a sharply critical stance toward what Tehran is doing and has been doing recently\"",
-      "date": "Mon, 07 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Death toll from Israeli attacks on Lebanon exceeds 4,380 - health ministry",
-      "link": "https://tass.com/world/2183823",
-      "description": "According to the country’s ministry, Israeli warplanes are still seen in Lebanon’s airspace",
       "date": "Mon, 07 Sep 2026",
       "source": "TASS",
       "region": "ru",
