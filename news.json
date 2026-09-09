@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-09 10:18 UTC",
-  "total": 38,
+  "updated": "2026-09-09 14:52 UTC",
+  "total": 40,
   "stories": [
+    {
+      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+      "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+      "description": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
       "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
@@ -13,14 +23,24 @@
       "bias": "Low"
     },
     {
-      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-      "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "description": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country's civil war.",
-      "date": "Tue, 08 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+      "date": "Wed, 09 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+      "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
@@ -37,16 +57,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
       "description": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
       "date": "Tue, 08 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "date": "Wed, 09 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -113,11 +123,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-      "date": "Wed, 02 Sep 2026",
-      "source": "BBC",
+      "title": "The Times: 'Counterproductive' sanctions on Israel don't match the 'theatrical rhetoric'",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260909-the-times-counterproductive-sanctions-on-israel-don-t-match-the-theatrical-rhetoric",
+      "description": "PRESS REVIEW – Wednesday, September 9: British papers are reacting to the sanctions imposed on Israel. Next: Israeli papers discuss Haaretz's October 7 revelatory investigation. Also: CDs are back! Finally, South Park renames itself to South America to mock Trump.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran attacks US base after American strikes on tankers",
+      "link": "https://www.france24.com/en/video/20260909-iran-attacks-us-base-after-american-strikes-on-tankers",
+      "description": "Iran said it fired ballistic missiles at a US base in Jordan early Wednesday, in retaliation for US strikes on Iranian oil tankers in the Gulf of Oman and near Kharg Island, off Iran’s coast. The US said five Iranian tankers were destroyed.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -153,74 +173,84 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Tehran targets US base in Jordan after Washington destroys five Iranian tankers",
-      "link": "https://www.france24.com/en/middle-east/20260908-middle-east-live-us-destroys-five-iranian-oil-tankers-as-iran-threatens-kuwait-and-bahrain",
-      "description": "Iran's Revolutionary Guard on Wednesday said it fired ballistic missiles at a base in Jordan used by the US military, attacked 10 ships, and threatened to strike tankers located off Kuwait and Bahrain in retaliation for US forces’ destruction of five Iranian oil tankers on Tuesda...",
-      "date": "Tue, 08 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "title": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
+      "link": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss",
+      "description": "Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+      "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
+      "description": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How has Israel hit back against sanctions by the UK, others?",
+      "link": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
+      "description": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Video: Dozens protest potential Strait of Hormuz deployment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
+      "description": "Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Did Iran capture a US submarine? What we know about the underwater drone",
+      "link": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know?traffic_source=rss",
+      "description": "Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible &#039;had malfunctioned a day ago&#039;.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
+      "link": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
+      "description": "Israel announced it would close the consulate after UK said it was imposing sanctions on illegal settlements.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "The war in the Gulf will have to end in compromise",
+      "link": "https://www.aljazeera.com/opinions/2026/9/9/the-war-in-the-gulf-will-have-to-end-in-compromise?traffic_source=rss",
+      "description": "Iran has not surrendered, and the war’s original aims remain unmet.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Yemen rebels report fresh Saudi strikes as conflict deepens",
+      "link": "https://www.dawn.com/news/2028631/yemen-rebels-report-fresh-saudi-strikes-as-conflict-deepens",
+      "description": "Yemen’s Houthi rebels reported dozens of Saudi airstrikes on Wednesday as daily attacks continued in a conflict that has reignited during the Middle East war, with hundreds of people killed in fighting near the Red Sea. More than 40 attacks targeted several regions, including the...",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan faces new frontier against attacks: Balochistan’s Pashtun areas",
-      "link": "https://www.aljazeera.com/news/2026/9/9/pakistan-faces-new-frontier-against-attacks-balochistans-pashtun-areas?traffic_source=rss",
-      "description": "A surge in attacks in Balochistan’s Pashtun-majority districts is raising questions about a widening rebellion.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Totally reliant on Mother Nature’: UK drought raises water security fears",
-      "link": "https://www.aljazeera.com/news/2026/9/9/uk-drought-raises-fears-over-water-security?traffic_source=rss",
-      "description": "Record heatwaves have troubled British farmers, raising concerns over reservoir levels and food supply.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
-      "link": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
-      "description": "Many Iranians cannot access or afford life-saving drugs, but authorities say pharmaceutical sector will not collapse.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why US-Iran war over Hormuz is threatening the Gulf’s waters",
-      "link": "https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss",
-      "description": "US-Iran attacks on tankers around Hormuz are raising fears of devastating oil spills across the Gulf.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel’s war leaves Lebanon’s schools balancing students and the displaced",
-      "link": "https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced?traffic_source=rss",
-      "description": "Schools in Lebanon are set to start on September 15, but many still host people displaced by Israel&#039;s war.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Cameraman catches the moment Yemeni government forces are ambushed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss",
-      "description": "A suspected-Houthi roadside ambush of Yemeni government forces has been captured on camera.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "Trump bans Canadian alcohol in new trade war salvo",
@@ -235,7 +265,7 @@
     {
       "title": "Asif warns Makkah defence pact could become operational after Houthi attacks on Saudi Arabia",
       "link": "https://www.dawn.com/news/2028592/asif-warns-makkah-defence-pact-could-become-operational-after-houthi-attacks-on-saudi-arabia",
-      "description": "Defence Minister Khawaja Asif has cautioned that the tripartite Makkah Defence Alliance between Pakistan, Saudi Arabia and Turkiye could become operational if there was a “spillover” of the conflict in Yemen into Riyadh. The development comes as Yemen’s Houthi rebels launched att...",
+      "description": "Defence Minister Khawaja Asif has cautioned that the tripartite Makkah Defence Alliance between Pakistan, Saudi Arabia and Turkiye could become operational if there was a “spillover” of the conflict in Yemen into Riyadh. The development comes after Yemen’s Houthi rebels launched ...",
       "date": "Wed, 09 Sep 2026",
       "source": "Dawn",
       "region": "me",
@@ -266,16 +296,6 @@
       "title": "Tehran puts onus on Washington for easing tensions",
       "link": "https://www.dawn.com/news/2028481/tehran-puts-onus-on-washington-for-easing-tensions",
       "description": "• Araghchi says US return to Islamabad commitments could restore ‘normal conditions’• Insists ‘significant progress’ made in talks with Oman over Hormuz• Iranian security official warns of maritime exclusion zone if US ‘economic warfare’ continues• Pezeshkian vows continued resis...",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "UN official says some Israeli actions in Syria may amount to war crimes",
-      "link": "https://www.dawn.com/news/2028521/un-official-says-some-israeli-actions-in-syria-may-amount-to-war-crimes",
-      "description": "GENEVA: A UN commission investigating Syria said on Tuesday it was deeply alarmed over Israel’s military activity inside Syrian territory, warning that some actions including the detention of civilians could amount to war crimes. Presenting an update to the UN Human Rights Counci...",
       "date": "Wed, 09 Sep 2026",
       "source": "Dawn",
       "region": "me",
@@ -343,9 +363,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "EU court upholds for third time refusal to lift sanctions from Abramovich — ruling",
-      "link": "https://tass.com/economy/2184709",
-      "description": "The EU court has already taken similar decisions on Abramovich in December 2023 and September 2025",
+      "title": "US strikes on Iran’s vessels lead to escalation, threaten global security — Iranian MFA",
+      "link": "https://tass.com/world/2184931",
+      "description": "Iran’s state-run broadcaster previously reported that US forces had delivered strikes on three Iranian civilian vessels in the Persian Gulf",
       "date": "Wed, 09 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,9 +373,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US envoys leave Kiev in shock over Zelensky entourage’s behavior — lawmaker",
-      "link": "https://tass.com/world/2184639",
-      "description": "Anna Skorokhod recalled that David Arakhamia, the head of the parliamentary faction of the ruling Servant of the People party, was wearing a \"Kiev regime\" T-shirt while speaking with the US envoys",
+      "title": "Iran, US maintain indirect contacts on resolving conflict — Pakistani defense minister",
+      "link": "https://tass.com/world/2184911",
+      "description": "Khawaja Asif added that Islamabad is seeking to create conditions that would help defuse regional tensions",
       "date": "Wed, 09 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -363,9 +383,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Saudi Arabia carries out over 30 airstrikes on Yemen — Houthis",
-      "link": "https://tass.com/world/2184579",
-      "description": "According to the report, the strikes targeted the governorates of Al-Jawf, Marib, Al-Hodeidah, and Taiz",
+      "title": "Iran to respond to any US aggression without hesitation — foreign ministry",
+      "link": "https://tass.com/world/2184837",
+      "description": "The Islamic Republic of Iran reaffirms its determination to protect its sovereignty and national interests",
       "date": "Wed, 09 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -373,9 +393,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Lebanese army intensifies operations in Nabatieh following Israeli airstrikes",
-      "link": "https://tass.com/world/2184551",
-      "description": "According to its statement, the troops had earlier been deployed across all areas of southern Lebanon not occupied by Israel \"to reassure residents\"",
+      "title": "AfD co-leader speaks out against supplying Ukraine with drones used to strike Russia",
+      "link": "https://tass.com/world/2184785",
+      "description": "Responding to a question about the lifting of sanctions against Russia, Tino Chrupalla emphasized that \"sanctions in any form are pointless\"",
       "date": "Wed, 09 Sep 2026",
       "source": "TASS",
       "region": "ru",
