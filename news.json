@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-09 00:49 UTC",
-  "total": 33,
+  "updated": "2026-09-09 05:29 UTC",
+  "total": 37,
   "stories": [
+    {
+      "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+      "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+      "description": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships and American targets in Jordan, the latest burst of back-and-forth strikes.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
       "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
@@ -16,7 +26,7 @@
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "date": "Tue, 08 Sep 2026",
+      "date": "Wed, 09 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -115,7 +125,7 @@
     {
       "title": "Middle East live: US destroys five Iranian oil tankers as Iran threatens Kuwait and Bahrain",
       "link": "https://www.france24.com/en/middle-east/20260908-middle-east-live-us-destroys-five-iranian-oil-tankers-as-iran-threatens-kuwait-and-bahrain",
-      "description": "US forces destroyed five Iranian oil carriers on Tuesday after Tehran launched ballistic missiles at an American warship twice in recent days. Iran also launched strikes on US targets in Jordan, and threatened attacks on oil tankers off Kuwait and Bahrain. Follow our liveblog for...",
+      "description": "US forces destroyed five Iranian oil carriers on Tuesday after Tehran launched ballistic missiles at an American warship twice in recent days. Iran also launched strikes on US targets in Jordan and threatened attacks on oil tankers off Kuwait and Bahrain. Follow our liveblog for ...",
       "date": "Tue, 08 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -133,9 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US destroys five Iranian tankers, Iran retaliates with attacks on Jordan",
-      "link": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
-      "description": "US military says it struck the five Iranian tankers after IRGC targeted a US warship twice in two days.",
+      "title": "Cameraman catches the moment Yemeni government forces are ambushed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss",
+      "description": "A suspected-Houthi roadside ambush of Yemeni government forces has been captured on camera.",
       "date": "Wed, 09 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -143,7 +153,37 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: US hits Iranian tankers, IRGC attacks US base in Jordan",
+      "title": "Yemen’s Saudi-backed forces strike Houthis on western coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
+      "description": "Saudi-backed Yemeni government forces are intensifying their counteroffensive against the Houthis.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Jordanian air defences intercept Iranian missile barrage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss",
+      "description": "Witnesses have captured the moment Jordanian air defence systems intercepted a barrage of Iranian ballistic missiles.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US strikes 5 Iranian oil tankers; Tehran targets Jordan base, US warships",
+      "link": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+      "description": "US military says it struck the five Iranian tankers after the IRGC targeted a US warship twice in two days.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: US, Iran attack oil tankers; crude heads to $100",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
       "description": "Iran&#039;s IRGC urges crews to leave tankers in Kuwait and Bahrain, warning it will target ships following US attack.",
       "date": "Wed, 09 Sep 2026",
@@ -171,6 +211,36 @@
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Iran attacks American base in Jordan, ships near Hormuz after US hits oil tankers",
+      "link": "https://www.dawn.com/news/2028569/iran-attacks-american-base-in-jordan-ships-near-hormuz-after-us-hits-oil-tankers",
+      "description": "Iran’s Revolutionary Guard (IRGC) said it fired ballistic missiles at a base in Jordan used by the US military and attacked 10 ships on Wednesday, after the US said it had destroyed five Iranian oil tankers, in a sharp escalation of the six-month-old war. Increased attacks by bot...",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Tehran puts onus on Washington for easing tensions",
+      "link": "https://www.dawn.com/news/2028481/tehran-puts-onus-on-washington-for-easing-tensions",
+      "description": "• Araghchi says US return to Islamabad commitments could restore ‘normal conditions’• Insists ‘significant progress’ made in talks with Oman over Hormuz• Iranian security official warns of maritime exclusion zone if US ‘economic warfare’ continues• Pezeshkian vows continued resis...",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UN official says some Israeli actions in Syria may amount to war crimes",
+      "link": "https://www.dawn.com/news/2028521/un-official-says-some-israeli-actions-in-syria-may-amount-to-war-crimes",
+      "description": "GENEVA: A UN commission investigating Syria said on Tuesday it was deeply alarmed over Israel’s military activity inside Syrian territory, warning that some actions including the detention of civilians could amount to war crimes. Presenting an update to the UN Human Rights Counci...",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "UK's Miliband announces sanctions on goods from West Bank over 'ethnic cleansing' by Israeli settlers",
@@ -203,39 +273,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Two children among 13 killed in Israeli strikes on Lebanon",
-      "link": "https://www.dawn.com/news/2028253/two-children-among-13-killed-in-israeli-strikes-on-lebanon",
-      "description": "BEIRUT: Israeli strikes on a southern Lebanese town killed 13 people, including two children, on Monday, in one of the deadliest days of bom­bardment in recent weeks. Fears of a renewed Israeli military campaign are mou­nting in Lebanon after days of escalating strikes despite a ...",
-      "date": "Tue, 08 Sep 2026",
-      "source": "Dawn",
+      "title": "U.S. military says it destroyed five Iranian oil tankers; Tehran hits back at American targets in Jordan",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-destroyed-five-iranian-oil-tankers-tehran-hits-back-at-american-targets-in-jordan/article71445527.ece",
+      "description": "The latest strikes are part of a dual economic and military approach by President Donald Trump as he struggles to bring an end to the war",
+      "date": "Wed, 09 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "UAE govt mulls alternative routes for oil exports",
-      "link": "https://www.dawn.com/news/2028273/uae-govt-mulls-alternative-routes-for-oil-exports",
-      "description": "DUBAI: The United Arab Emirates is building alternative routes for its energy exports and trade to ensure they are not “held hostage” by the ongoing war between the US and Iran, UAE presidential adviser Anwar Gargash said on Monday. The conflict has had a significant impact on Gu...",
-      "date": "Tue, 08 Sep 2026",
-      "source": "Dawn",
+      "title": "Iranian tanker hit by U.S. attack near Iran’s Kharg Island: report",
+      "link": "https://www.thehindu.com/news/international/explosions-in-kharg-island-area-of-gulf/article71431525.ece",
+      "description": "The tanker was reportedly hit by four ‌U.S. missiles in the area of Kharg Island’s anchorage",
+      "date": "Wed, 09 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Saudi Arabia preparing to grant IAEA more powers, Grossi says",
-      "link": "https://www.dawn.com/news/2028145/saudi-arabia-preparing-to-grant-iaea-more-powers-grossi-says",
-      "description": "A planned US-Saudi atomic deal does not include Riyadh signing the International Atomic Energy Agency’s (IAEA) Additional Protocol that gives the UN nuclear watchdog sweeping inspection powers, but something close to it on some points is in the works, the agency’s chief said on M...",
-      "date": "Mon, 07 Sep 2026",
-      "source": "Dawn",
+      "title": "Houthi strikes in Saudi Arabia wound 73: Riyadh-led coalition",
+      "link": "https://www.thehindu.com/news/international/houthi-strikes-in-saudi-arabia-wound-many-says-riyadh-led-coalition/article71441370.ece",
+      "description": "The strikes came after the Houthis accused Riyadh on September 7 of carrying out strikes around Yemen, including the deadly bombardment of a prison",
+      "date": "Wed, 09 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "West Asia conflict LIVE: U.S. says it destroyed five Iranian oil tankers after attacks on American warship",
+      "title": "West Asia conflict LIVE: Iran, U.S. trade blows as Hormuz impasse deepens",
       "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece",
-      "description": "Iran Guards strike U.S. military base in Jordan in retaliation for U.S. strikes; the chief of staff of the Iranian Armed Forces, Ali Abdollahi, on Tuesday, September 8, warned that, Tehran would attack U.S. bases in the region if Iranian oil tankers were hit",
+      "description": "Iran launched fresh attacks against U.S. targets in West Asia in retaliation for American strikes on Iranian oil tankers, further escalating a six-month-old conflict that has severely disrupted traffic through the Strait of Hormuz and pushed global oil prices towards $100 a barre...",
       "date": "Wed, 09 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -253,16 +323,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthi strikes in Saudi Arabia wound 73: Riyadh-led coalition",
-      "link": "https://www.thehindu.com/news/international/houthi-strikes-in-saudi-arabia-wound-many-says-riyadh-led-coalition/article71441370.ece",
-      "description": "The strikes came after the Houthis accused Riyadh on September 7 of carrying out strikes around Yemen, including the deadly bombardment of a prison",
-      "date": "Tue, 08 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Yemen’s Houthis claim attack on Saudi oil tanker in Red Sea",
       "link": "https://www.thehindu.com/news/international/yemens-houthis-claim-attack-on-saudi-oil-tanker-in-red-sea/article71385806.ece",
       "description": "The strike was accurate and direct, resulting in a fire breaking out aboard the vessel and causing a number of other ships that were present in the target area to flee, the Houthis said in a statement.",
@@ -273,24 +333,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
-      "link": "https://www.thehindu.com/news/international/fresh-yemen-clashes-kill-more-than-60-military-medical-sources/article71431895.ece",
-      "description": "According to three Yemeni military sources, 26 government troops were killed during several hours of fighting in the country's southwest, while medical and military sources from the Iran-backed Houthis said 31 rebel fighters were killed",
-      "date": "Tue, 08 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran values long-standing, civilisational ties with India: Foreign Ministry",
-      "link": "https://www.thehindu.com/news/international/iran-values-long-standing-civilisational-ties-with-india-foreign-ministry/article71441080.ece",
-      "description": "Just days before the BRICS summit, Mr. Baghaei said that Chabahar Port is one of the issues of bilateral talks between India and Iran. He said, “Various issues are usually discussed during consultations between Iran and India, including the Chabahar Port, which is important to bo...",
-      "date": "Tue, 08 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Lebanese army intensifies operations in Nabatieh following Israeli airstrikes",
+      "link": "https://tass.com/world/2184551",
+      "description": "According to its statement, the troops had earlier been deployed across all areas of southern Lebanon not occupied by Israel \"to reassure residents\"",
+      "date": "Wed, 09 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran strikes two US destroyers with ballistic missiles — IRGC",
@@ -316,16 +366,6 @@
       "title": "Iran carries out missile strikes on Jordan airbases hosting US forces — TV",
       "link": "https://tass.com/world/2184517",
       "description": "According to sources cited by SNN, At least 20 missiles were launched at two airbases",
-      "date": "Tue, 08 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US strikes targets near Iran’s Kharg Island, Jask — reporter",
-      "link": "https://tass.com/world/2184505",
-      "description": "According to Jennifer Griffin, the targets included Iranian oil tankers",
       "date": "Tue, 08 Sep 2026",
       "source": "TASS",
       "region": "ru",
