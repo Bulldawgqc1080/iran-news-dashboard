@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 21:20 UTC",
+  "updated": "2026-09-09 23:38 UTC",
   "total": 36,
   "stories": [
     {
@@ -123,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Rubio to seek $45 million in additional security funding for Ecuador",
+      "link": "https://www.france24.com/en/americas/20260909-rubio-to-seek-45-million-in-additional-security-funding-for-ecuador",
+      "description": "US Secretary of State Marco Rubio said Wednesday that Washington would seek $45 million in additional security funding for Ecuador and provide military equipment as the two countries deepen cooperation against drug trafficking. During a visit to Quito, Rubio also announced new sa...",
+      "date": "Wed, 09 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran and US strike tankers in biggest shipping attack since war began",
       "link": "https://www.france24.com/en/middle-east/20260909-iran-and-us-strike-tankers-in-biggest-shipping-attack-since-war-began",
       "description": "Iran and the US on Wednesday traded their biggest wave of attacks on shipping since the war began, with Iran saying it struck 10 vessels near the Strait of Hormuz after US forces sank five Iranian oil tankers. Brent crude oil surged above $100 a barrel as fears grew over global e...",
@@ -153,6 +163,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
+      "description": "The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
       "link": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
       "description": "The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.",
@@ -176,26 +196,6 @@
       "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
       "description": "Houthis are trying to drag Saudi Arabia into conflict by targeting Saudi territory, says Yemen’s Ambassador to Qatar.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
-      "link": "https://www.aljazeera.com/news/2026/9/9/pakistan-warns-mecca-defense-pact-will-activate-after-houthi-attacks?traffic_source=rss",
-      "description": "Pakistan warns Mecca defence agreement may be activated if Yemen&#039;s Houthi rebels continue targeting Saudi Arabia.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How significant are new European sanctions on illegal Israeli settlements?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-      "description": "Israel is accused of the ethnic cleansing of Palestinians.",
       "date": "Wed, 09 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,9 +263,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Dangerous phase: On the crisis in West Asia",
-      "link": "https://www.thehindu.com/opinion/editorial/dangerous-phase-on-the-crisis-in-west-asia/article71447652.ece",
-      "description": "The Iran war is plunging the region in an economic and security abyss",
+      "title": "Trump claims Iran war will end right after U.S. midterm elections",
+      "link": "https://www.thehindu.com/news/international/trump-says-iran-war-will-end-right-after-us-midterm-elections/article71449207.ece",
+      "description": "“I think war is going to ‌end immediately after the election because ‌they ⁠can’t hold out any longer. They’re ⁠desperate to try and affect the election,” he told reporters before departing for the Republican National Convention ​in Dallas.",
       "date": "Wed, 09 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -276,6 +276,16 @@
       "title": "Hormuz tensions flare as Iran, U.S. intensify strikes",
       "link": "https://www.thehindu.com/news/international/us-military-says-it-destroyed-five-iranian-oil-tankers-tehran-hits-back-at-american-targets-in-jordan/article71445527.ece",
       "description": "Brent crude futures cross $100/barrel for first time since July 2024 as U.S. attacks Iranian oil tankers and Tehran responds by targeting 20 tankers and other ships trying to pass through the Strait of Hormuz",
+      "date": "Wed, 09 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Dangerous phase: On the crisis in West Asia",
+      "link": "https://www.thehindu.com/opinion/editorial/dangerous-phase-on-the-crisis-in-west-asia/article71447652.ece",
+      "description": "The Iran war is plunging the region in an economic and security abyss",
       "date": "Wed, 09 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -313,14 +323,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthi strikes in Saudi Arabia wound 73: Riyadh-led coalition",
-      "link": "https://www.thehindu.com/news/international/houthi-strikes-in-saudi-arabia-wound-many-says-riyadh-led-coalition/article71441370.ece",
-      "description": "The strikes came after the Houthis accused Riyadh on September 7 of carrying out strikes around Yemen, including the deadly bombardment of a prison",
+      "title": "IAEA new anti-Iranian resolution fraught with new round of escalation — Russian diplomat",
+      "link": "https://tass.com/politics/2185159",
+      "description": "Mikhail Ulyanov said that the US and the E3 nations are systematically turning the IAEA Board of Governors into a \"conveyor belt of provocative anti-Iranian attacks\"",
       "date": "Wed, 09 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Nearly 11 mln barrels of oil transit Strait of Hormuz daily — US energy secretary",
+      "link": "https://tass.com/economy/2185153",
+      "description": "According to Chris Wright, the data as of Wednesday morning \"were at the highest since the start of the conflict\"",
+      "date": "Wed, 09 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iraqi tankers transit Strait of Hormuz with identification systems off — expert",
@@ -336,26 +356,6 @@
       "title": "Israel violated ceasefire with Lebanon 7,700 times since June 26 — Lebanese military",
       "link": "https://tass.com/world/2185115",
       "description": "The Lebanese army rejected Israel’s claims that it was allegedly unable to fulfill the mission of ensuring security in the so-called pilot zones",
-      "date": "Wed, 09 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US not currently seeking talks or deal with Iran — Trump",
-      "link": "https://tass.com/world/2185113",
-      "description": "The US president did not rule out negotiations with Tehran",
-      "date": "Wed, 09 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Houthis attack three Saudi cities with missiles, drones — coalition",
-      "link": "https://tass.com/world/2185095",
-      "description": "Yemen’s rebel Ansar Allah movement attacked Khamis Mushait, Abha and Jizan with ballistic missiles and drones, Brigadier General Turki al-Maliki, spokesman for the Saudi-led Arab coalition, reported",
       "date": "Wed, 09 Sep 2026",
       "source": "TASS",
       "region": "ru",
