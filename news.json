@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-10 21:17 UTC",
+  "updated": "2026-09-10 23:31 UTC",
   "total": 38,
   "stories": [
-    {
-      "title": "Amid war and sanctions, unemployment worsens in Iran",
-      "link": "https://www.npr.org/2026/09/10/nx-s1-5949211/amid-war-and-sanctions-unemployment-worsens-in-iran",
-      "description": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
-      "date": "Thu, 10 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
     {
       "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
       "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
@@ -143,6 +133,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
+      "link": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
+      "description": "Yemen’s Houthis seized the strategic Red Sea port city of Mocha on Thursday as their offensive against Saudi-backed government forces intensified. Saudi Arabia launched dozens of airstrikes over the past 24 hours, the Houthis said, after the Iran-backed group carried out attacks ...",
+      "date": "Thu, 10 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel destroys Hezbollah tunnel network in south Lebanon, triggering 4.1-magnitude tremor",
+      "link": "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
+      "description": "Israel said on Thursday it destroyed key tunnels built by Iran-backed Hezbollah beneath the strategic Ali al-Taher ridge in southern Lebanon, completing what it called operational control of the area. Lebanon reported a massive explosion, while the US Geological Survey recorded a...",
+      "date": "Thu, 10 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "🔴 Live: Israel demolition of Hezbollah tunnels in south Lebanon caused 4.1-magnitude quake",
       "link": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
       "description": "",
@@ -183,39 +193,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+      "link": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+      "description": "Israeli attacks come a week after it said to have established operational control over the strategic ridge.",
+      "date": "Thu, 10 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
+      "description": "Israel’s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.",
+      "date": "Thu, 10 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "What’s happening in Yemen and how did we get here?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss",
       "description": "Fighting has reignited in Yemen as Houthi forces push south towards the strategic Bab al-Mandab Strait.",
-      "date": "Thu, 10 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump’s Iran war now has a midterm election problem",
-      "link": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss",
-      "description": "Trump has tied the end of his war on Iran to the midterms. But with Iran holding firm, the political cost is mounting.",
-      "date": "Thu, 10 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Oil jumps to $105, pushing up chances of a US interest rate increase",
-      "link": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss",
-      "description": "Prices spiked as attacks on oil tankers escalated amid the US-Iran war.",
-      "date": "Thu, 10 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Houthis capture Yemeni town of Mocha: Why it’s important",
-      "link": "https://www.aljazeera.com/news/2026/9/10/houthis-capture-yemeni-town-of-mocha-why-it-matters?traffic_source=rss",
-      "description": "The Houthi seizure of Mocha threatens global trade routes, severs vital supply lines, and displaces thousands in Yemen.",
       "date": "Thu, 10 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,6 +283,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
+      "link": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece",
+      "description": "The summit in New Delhi is taking place against the backdrop of a global economy facing the adverse impacts of the Russia-Ukraine war, the West Asia crisis, especially the blockade of the Strait of Hormuz, and the Trump administration’s trade and tariff policies.",
+      "date": "Thu, 10 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "The global war on terror, an empowered Iran",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-global-war-on-terror-an-empowered-iran/article71452605.ece",
+      "description": "America’s post-9/11 wars created strategic openings that Iran exploited",
+      "date": "Thu, 10 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran-backed Houthi rebels take over a strategic port city in Yemen, posing a new threat to shipping",
       "link": "https://www.thehindu.com/news/international/iran-backed-houthi-rebels-take-over-a-strategic-port-city-in-yemen-posing-a-new-threat-to-shipping/article71452799.ece",
       "description": "Mokha, is about 80 kilometres from the Bab el-Mandeb Strait, a strategic waterway between the Red Sea and the Gulf of Aden through which about 12% of the world's oil and other goods are shipped",
@@ -323,27 +343,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Dangerous phase: On the crisis in West Asia",
-      "link": "https://www.thehindu.com/opinion/editorial/dangerous-phase-on-the-crisis-in-west-asia/article71447652.ece",
-      "description": "The Iran war is plunging the region in an economic and security abyss",
-      "date": "Wed, 09 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia conflict highlights: Oil rises past $100 a barrel after the latest wave of West Asia attacks",
-      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece",
-      "description": "Markets reacted after the U.S. military reported striking five Iranian tankers in response to attempted missile attacks on a Navy warship and after attacks by an Iranian-backed Houthi rebel group ignited fires at oil facilities in Saudi Arabia",
-      "date": "Wed, 09 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US expands intelligence sharing with Riyadh amid conflict with Houthis - CNN",
+      "title": "US expands intelligence sharing with Riyadh amid conflict with Houthis — CNN",
       "link": "https://tass.com/world/2185783",
       "description": "The cooperation is being carried out within the framework of a joint command formed several weeks ago",
       "date": "Thu, 10 Sep 2026",
