@@ -1,17 +1,18 @@
 {
-  "updated": "2026-09-10 15:40 UTC",
-  "total": 8,
+  "updated": "2026-09-10 18:47 UTC",
+  "total": 5,
   "events": [
     {
       "date": "2026-09-10",
       "dateDisplay": "Sep 10, 2026",
-      "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
-      "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
+      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "Al Jazeera",
+        "BBC"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-09-09",
@@ -20,39 +21,6 @@
       "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
       "sources": [
         "NPR News"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-09-08",
-      "dateDisplay": "Sep 08, 2026",
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-09-07",
-      "dateDisplay": "Sep 07, 2026",
-      "title": "Israeli strikes in southern Lebanese village kill 12",
-      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-09-06",
-      "dateDisplay": "Sep 06, 2026",
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
