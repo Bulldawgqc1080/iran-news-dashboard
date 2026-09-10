@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10 01:56 UTC",
-  "total": 32,
+  "updated": "2026-09-10 06:53 UTC",
+  "total": 40,
   "stories": [
     {
       "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
@@ -23,10 +23,10 @@
       "bias": "Low"
     },
     {
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "date": "Wed, 09 Sep 2026",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "date": "Thu, 10 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -46,6 +46,16 @@
       "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
       "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
       "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
       "date": "Wed, 09 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -113,11 +123,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-      "date": "Thu, 03 Sep 2026",
-      "source": "BBC",
+      "title": "Netanyahu visits troops in occupied Syria as Damascus slams 'blatant violation' of sovereignty",
+      "link": "https://www.france24.com/en/middle-east/20260910-netanyahu-visits-troops-occupied-syria-damascus-slams-blatant-violation-sovereignty",
+      "description": "Israeli Prime Minister Benjamin Netanyahu made a third visit to Israeli troops in an occupied stretch of Syria Wednesday, sparking fresh condemnation from Damascus. Netanyahu repeated his claim that the Iranian government is on the verge of collapse as the US-Israeli war against ...",
+      "date": "Thu, 10 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says he'll give Americans $5,000 each if Republicans win midterm elections",
+      "link": "https://www.france24.com/en/americas/20260910-trump-says-give-americans-5-000-each-if-republicans-win-midterm-elections",
+      "description": "US President Donald Trump on Wednesday urged his supporters to pretend he was on the ballot in the upcoming midterm elections in November, even saying he would give $5,000 to each American adult if the right-wing Republicans maintain control of Congress. Trump is struggling with ...",
+      "date": "Thu, 10 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Trump warns Iran over activity at Pickaxe Mountain fortified site",
+      "link": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
+      "description": "US President Donald Trump on Wednesday said the United States may target Iran's Pickaxe Mountain fortified site near its damaged Natanz uranium enrichment facility, warning Tehran \"not to get cute\". He also commented that oil prices that have surged because of the Iran war likely...",
+      "date": "Thu, 10 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -163,6 +193,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss",
+      "description": "Yemen&#039;s government accuses Houthis of killing three children as rebels claim Saudi forces launched 54 air raids in 12 hours.",
+      "date": "Thu, 10 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Why is Iran bombing Jordan’s Al-Azraq base?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
+      "description": "Iran has increased its targeting of Jordan’s Muwaffaq Salti Air Base near Al-Azraq in recent weeks.",
+      "date": "Thu, 10 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
       "description": "Tehran says ready for dialogue with nations in the region to &#039;foster mutual trust&#039; and &#039;achieve sustainable security&#039;.",
@@ -193,34 +243,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
-      "description": "The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "'Trump dividend': US president offers $5,000 to every American if Republicans win midterm elections",
+      "link": "https://www.dawn.com/news/2028825/trump-dividend-us-president-offers-5000-to-every-american-if-republicans-win-midterm-elections",
+      "description": "United States President Donald Trump said on Wednesday he would pay every American adult a $5,000 “Trump dividend” if Republicans retain control of Congress in November’s midterm election, an extraordinary attempt to persuade voters to back his party. Trump made the proposal at h...",
+      "date": "Thu, 10 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
-      "link": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
-      "description": "The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
-      "link": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
-      "description": "In an interview with Al Jazeera, Yemen&#039;s ambassador warns Houthi attacks threaten global shipping.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Republicans put Trump centre stage in US midterms gamble",
@@ -273,19 +303,69 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran attacks American base in Jordan, ships near Hormuz after US hits oil tankers",
-      "link": "https://www.dawn.com/news/2028569/iran-attacks-american-base-in-jordan-ships-near-hormuz-after-us-hits-oil-tankers",
-      "description": "Iran’s Revolutionary Guard (IRGC) said it fired ballistic missiles at a base in Jordan used by the US military and attacked 10 ships on Wednesday, after the US said it had destroyed five Iranian oil tankers, in a sharp escalation of the six-month-old war. Increased attacks by bot...",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Dawn",
+      "title": "UN nuclear watchdog board reports Iran to UN Security Council for the first time in 20 years",
+      "link": "https://www.thehindu.com/news/international/un-nuclear-watchdog-board-reports-iran-to-un-security-council-for-the-first-time-in-20-years/article71449985.ece",
+      "description": "Western officials believe the traces may indicate Iran had a secret nuclear weapons programme until 2003, while Iran claims it’s not pursuing nuclear weapons and that its programme is entirely peaceful",
+      "date": "Thu, 10 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "US, Israeli guarantees needed for IAEA to be granted full access to Iranian nuke sites",
-      "link": "https://tass.com/politics/2185167",
-      "description": "Russian Permanent Representative to the Vienna-based international organizations Mikhail Ulyanov said that the IAEA director general could play a constructive role in securing such guarantees in his contacts with the countries concerned",
+      "title": "Trump claims Iran war will end right after U.S. midterm elections",
+      "link": "https://www.thehindu.com/news/international/trump-says-iran-war-will-end-right-after-us-midterm-elections/article71449207.ece",
+      "description": "“I think war is going to ‌end immediately after the election because ‌they ⁠can’t hold out any longer. They’re ⁠desperate to try and affect the election,” he told reporters before departing for the Republican National Convention ​in Dallas.",
+      "date": "Thu, 10 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Hormuz tensions flare as Iran, U.S. intensify strikes",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-destroyed-five-iranian-oil-tankers-tehran-hits-back-at-american-targets-in-jordan/article71445527.ece",
+      "description": "Brent crude futures cross $100/barrel for first time since July 2024 as U.S. attacks Iranian oil tankers and Tehran responds by targeting 20 tankers and other ships trying to pass through the Strait of Hormuz",
+      "date": "Wed, 09 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Dangerous phase: On the crisis in West Asia",
+      "link": "https://www.thehindu.com/opinion/editorial/dangerous-phase-on-the-crisis-in-west-asia/article71447652.ece",
+      "description": "The Iran war is plunging the region in an economic and security abyss",
+      "date": "Wed, 09 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "West Asia conflict highlights: Oil rises past $100 a barrel after the latest wave of West Asia attacks",
+      "link": "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece",
+      "description": "Markets reacted after the U.S. military reported striking five Iranian tankers in response to attempted missile attacks on a Navy warship and after attacks by an Iranian-backed Houthi rebel group ignited fires at oil facilities in Saudi Arabia",
+      "date": "Wed, 09 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "India condemns Houthi attacks on Saudi oil installations",
+      "link": "https://www.thehindu.com/news/national/india-condemns-houthi-attacks-on-saudi-oil-installations/article71446021.ece",
+      "description": "The Iran-backed Houthi militant group targeted Saudi oil facilities and some other civilian infrastructure on Tuesday (September 8, 2026), triggering widespread apprehensions about further escalation in the West Asia conflict",
+      "date": "Wed, 09 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says Iran nuclear deal was among the worst ones in history",
+      "link": "https://tass.com/world/2185191",
+      "description": "The conflict with Iran would end shortly after the midterm elections, the US president said separately",
       "date": "Thu, 10 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -293,30 +373,30 @@
       "bias": "Very High"
     },
     {
-      "title": "IAEA new anti-Iranian resolution fraught with new round of escalation — Russian diplomat",
-      "link": "https://tass.com/politics/2185159",
-      "description": "Mikhail Ulyanov said that the US and the E3 nations are systematically turning the IAEA Board of Governors into a \"conveyor belt of provocative anti-Iranian attacks\"",
-      "date": "Wed, 09 Sep 2026",
+      "title": "US may hit Iran over activity at suspected nuclear facility — Trump",
+      "link": "https://tass.com/world/2185187",
+      "description": "The US president did not rule out an attack on Pickaxe Mountain",
+      "date": "Thu, 10 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Nearly 11 mln barrels of oil transit Strait of Hormuz daily — US energy secretary",
-      "link": "https://tass.com/economy/2185153",
-      "description": "According to Chris Wright, the data as of Wednesday morning \"were at the highest since the start of the conflict\"",
-      "date": "Wed, 09 Sep 2026",
+      "title": "Several US warplanes damaged after Iranian strikes on Jordan — TV",
+      "link": "https://tass.com/world/2185185",
+      "description": "Sources told CBS that the fighter jets have been repaired and are operational again",
+      "date": "Thu, 10 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Iraqi tankers transit Strait of Hormuz with identification systems off — expert",
-      "link": "https://tass.com/world/2185117",
-      "description": "Nabil al-Marsoumi says oil is transported with the involvement of ADNOC and passes through the strait via the ‘Omani route’",
-      "date": "Wed, 09 Sep 2026",
+      "title": "Trump suggests Strait of Hormuz be renamed Trump Strait",
+      "link": "https://tass.com/world/2185183",
+      "description": "The US president separately said he is convinced that oil prices would go down after the US wins the war with Iran",
+      "date": "Thu, 10 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
