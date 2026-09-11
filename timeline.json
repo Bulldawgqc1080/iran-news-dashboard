@@ -1,15 +1,26 @@
 {
-  "updated": "2026-09-10 23:31 UTC",
-  "total": 5,
+  "updated": "2026-09-11 01:55 UTC",
+  "total": 6,
   "events": [
+    {
+      "date": "2026-09-11",
+      "dateDisplay": "Sep 11, 2026",
+      "title": "Iran claims to have captured a US \u2018sail drone\u2019 near Hormuz Strait",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-09-10",
       "dateDisplay": "Sep 10, 2026",
       "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
       "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24",
-        "BBC"
+        "BBC",
+        "France 24"
       ],
       "sourceCount": 2,
       "type": "govt"
