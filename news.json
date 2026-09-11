@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11 15:30 UTC",
-  "total": 38,
+  "updated": "2026-09-11 18:50 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
@@ -13,10 +13,20 @@
       "bias": "Low"
     },
     {
-      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+      "title": "Iran-backed Houthi rebels seize a strategic port and island, opening a new battlefront",
       "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
       "description": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
       "date": "Fri, 11 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Amid war and sanctions, unemployment worsens in Iran",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5949211/amid-war-and-sanctions-unemployment-worsens-in-iran",
+      "description": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
+      "date": "Thu, 10 Sep 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -33,19 +43,9 @@
       "bias": "Low"
     },
     {
-      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-      "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
-      "description": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Houthis take strategic Red Sea island, witnesses say",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "description": "Rebel fighters are reported to have captured Perim, a strategic island on a vital international shipping route.",
+      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
       "date": "Fri, 11 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -183,6 +183,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Houthis declare Red Sea shipping safe except for Saudi vessels",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss",
+      "description": "Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthis take control of Yemen’s entire Red Sea coast, reports say",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-take-control-of-yemens-entire-red-sea-coast-reports-say?traffic_source=rss",
+      "description": "The Iran-backed Houthi forces have taken control over most of the western Red Sea coastal line",
+      "date": "Fri, 11 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
       "link": "https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast?traffic_source=rss",
       "description": "Some observers see a force that has improved impressively in the past years, but others doubt the Houthis can sustain wins.",
@@ -203,34 +223,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Al Jazeera explains massive Israeli blasts on south Lebanon hill",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss",
-      "description": "Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon",
+      "title": "Yemen’s Houthis reach strategic island at mouth of vital Bab el-Mandeb shipping lane",
+      "link": "https://www.dawn.com/news/2029146/yemens-houthis-reach-strategic-island-at-mouth-of-vital-bab-el-mandeb-shipping-lane",
+      "description": "Yemen’s Houthi rebels reached the strategic island of Perim in the Bab el-Mandeb Strait on Friday, four Yemeni government sources told Reuters, moving to tighten their grip on a vital global shipping route in the widening Middle East war. Earlier, two sources from the internation...",
       "date": "Fri, 11 Sep 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
-      "link": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss",
-      "description": "US official admits the naval base near Manama sustained heavy damage in the war with Iran.",
-      "date": "Fri, 11 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Houthis control key shipping route after gains along Yemen’s Red Sea coast",
-      "link": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
-      "description": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.",
-      "date": "Fri, 11 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "China, Iran among countries that have used AI to aid spying, Anthropic says",
@@ -283,11 +283,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Trump dividend': US president offers $5,000 to every American if Republicans win midterm elections",
-      "link": "https://www.dawn.com/news/2028825/trump-dividend-us-president-offers-5000-to-every-american-if-republicans-win-midterm-elections",
-      "description": "United States President Donald Trump said on Wednesday he would pay every American adult a $5,000 “Trump dividend” if Republicans retain control of Congress in November’s midterm election, an extraordinary attempt to persuade voters to back his party. Trump made the proposal at h...",
-      "date": "Thu, 10 Sep 2026",
-      "source": "Dawn",
+      "title": "West Asia conflict highlights: Yemen's Houthis reach strategic island at mouth of Bab al-Mandeb",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-us-iran-war-live-updates-houthis-iran-red-sea-strait-of-hormuz-september-11-2026/article71455463.ece",
+      "description": "Hundreds of people have died since the Iran-backed Houthis launched an offensive around Bab al-Mandab, a vital artery for Saudi oil exports",
+      "date": "Fri, 11 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran, Saudi Arabia discuss regional 'insecurity' as Yemen fighting flares",
+      "link": "https://www.thehindu.com/news/international/iran-saudi-arabia-discuss-regional-insecurity-as-yemen-fighting-flares/article71457629.ece",
+      "description": "Tehran militarily and financially backs Yemen's Houthis, who for years have held large parts of the country's north and on September 10 seized the strategic Red Sea port city of Mocha",
+      "date": "Fri, 11 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Delhi Police detain five for raising anti-Xi slogans near Bharat Mandapam",
+      "link": "https://www.thehindu.com/news/national/delhi-police-detain-five-for-raising-anti-xi-slogans-near-bharat-mandapam/article71455608.ece",
+      "description": "Tibetan flags waived and slogans such as ‘Xi Jinping=Genocide' and 'Tibet is facing ecocide: Free Tibet' raised during protest near Bharat Mandapam; protest at Majnu Ka Tila in north Delhi sees participation of hundreds of Tibetans from across India",
+      "date": "Fri, 11 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -296,16 +316,6 @@
       "title": "Anthropic says Yemen fighters used AI to seek guided weapons",
       "link": "https://www.thehindu.com/news/international/anthropic-says-yemen-fighters-used-ai-to-seek-guided-weapons/article71456112.ece",
       "description": "The revelation comes at a time when the Iran-backed militants have launched a wide-ranging offensive across the country towards the strategic Bab al-Mandab strait, which connects Europe to Asia",
-      "date": "Fri, 11 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia conflict LIVE: Yemen's Houthis reach strategic island at mouth of Bab al-Mandeb",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-us-iran-war-live-updates-houthis-iran-red-sea-strait-of-hormuz-september-11-2026/article71455463.ece",
-      "description": "Hundreds of people have died since the Iran-backed Houthis launched an offensive around Bab al-Mandab, a vital artery for Saudi oil exports",
       "date": "Fri, 11 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -333,24 +343,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Tremor recorded as Israel says Hezbollah tunnels destroyed in south Lebanon",
-      "link": "https://www.thehindu.com/news/international/tremor-recorded-as-israel-says-hezbollah-tunnels-destroyed-in-south-lebanon/article71454953.ece",
-      "description": "Demolition of key tunnels built beneath the strategic Ali al-Taher ridge triggered a 4.1 magnitude tremor",
+      "title": "Russian finance minister says issue of lifting sanctions not discussed during visit to US",
+      "link": "https://tass.com/economy/2186333",
+      "description": "The meeting between US Secretary of the Treasury Scott Bessent and Anton Siluanov took place earlier on the sidelines of the session of G20 finance ministers and central bank governors",
       "date": "Fri, 11 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says he does not regret Iran war despite impact it may have on midterm elections",
-      "link": "https://www.thehindu.com/news/international/trump-says-he-does-not-regret-iran-war-despite-impact-it-may-have-on-midterm-elections/article71454848.ece",
-      "description": "U.S. President Trump dismissed suggestions that some of his supporters were upset ​and demoralised about the ‌war",
-      "date": "Fri, 11 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Russian MP condemns Houthi attacks on Saudi Arabia's civilian, economic targets",
@@ -366,16 +366,6 @@
       "title": "Iran has US Dive-LD underwater drone in hand, can reverse-engineer it",
       "link": "https://tass.com/world/2186267",
       "description": "As the experts pointed out, Washington had not previously treated Iran’s seizure of US-made drones with such nonchalance",
-      "date": "Fri, 11 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Gulf states, Iran to discuss Strait of Hormuz deal in Oman — media",
-      "link": "https://tass.com/world/2186065",
-      "description": "One source said details had yet to be finalized, but several countries had already confirmed their participation",
       "date": "Fri, 11 Sep 2026",
       "source": "TASS",
       "region": "ru",
