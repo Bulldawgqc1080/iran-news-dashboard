@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-11 18:50 UTC",
-  "total": 37,
+  "updated": "2026-09-11 21:25 UTC",
+  "total": 41,
   "stories": [
+    {
+      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+      "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+      "description": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
       "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
@@ -133,11 +143,41 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
-      "description": "It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.",
-      "date": "Tue, 08 Sep 2026",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "date": "Fri, 11 Sep 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran-backed Houthis seize near control of vital Bab el-Mandeb shipping lane",
+      "link": "https://www.france24.com/en/middle-east/20260911-iran-backed-houthis-seize-near-control-of-vital-bab-el-mandeb-shipping-lane",
+      "description": "Yemen's Iran-aligned Houthi rebels captured the strategic Perim Island in the Bab el-Mandeb Strait, located at the southern entrance to the Red Sea, officials said on Friday. The lightning move opens a new front in the Iran war and threatens energy supplies, especially Saudi oil ...",
+      "date": "Fri, 11 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "🔴 Live: Saudi shuts East-West oil pipeline after multiple Houthi attacks",
+      "link": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
+      "description": "",
+      "date": "Fri, 11 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Zelensky urges Trump to impose new Russia sanctions 'now', after deadly Ukraine strikes",
+      "link": "https://www.france24.com/en/europe/20260911-zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-ukraine-strikes",
+      "description": "Ukrainian President Volodymyr Zelensky on Friday urged US President Donald Trump to impose new sanctions on Russia over deadly strikes on Ukraine, as Kyiv and Moscow step up attacks and US-led efforts to end the war remain deadlocked.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -173,49 +213,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon: Tremor recorded as Israel says destroyed key Hezbollah tunnels",
-      "link": "https://www.france24.com/en/video/20260911-lebanon-tremor-recorded-as-israel-says-destroyed-key-hezbollah-tunnels",
-      "description": "Israel said Thursday it demolished key tunnels built by the Iran-backed Hezbollah group beneath the strategic Ali al-Taher ridge in southern Lebanon, triggering a 4.1-magnitude tremor.",
+      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+      "link": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
+      "description": "Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.",
       "date": "Fri, 11 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthi advance in Yemen is about more than just the Red Sea",
+      "link": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss",
+      "description": "Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+      "link": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
+      "description": "Iran&#039;s Foreign Ministry says the meeting in Oman is to &#039;promote better understanding among the countries of the region&#039;.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Houthis declare Red Sea shipping safe except for Saudi vessels",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss",
       "description": "Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.",
-      "date": "Fri, 11 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Houthis take control of Yemen’s entire Red Sea coast, reports say",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-take-control-of-yemens-entire-red-sea-coast-reports-say?traffic_source=rss",
-      "description": "The Iran-backed Houthi forces have taken control over most of the western Red Sea coastal line",
-      "date": "Fri, 11 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
-      "link": "https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast?traffic_source=rss",
-      "description": "Some observers see a force that has improved impressively in the past years, but others doubt the Houthis can sustain wins.",
-      "date": "Fri, 11 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates",
-      "link": "https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss",
-      "description": "Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.",
       "date": "Fri, 11 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,6 +313,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Saudi Arabia shuts down major oil pipeline, citing attacks amid fighting in Yemen",
+      "link": "https://www.thehindu.com/news/international/saudi-arabia-shuts-down-major-oil-pipeline-citing-attacks-amid-fighting-in-yemen/article71457890.ece",
+      "description": "Yemen’s Iranian-backed Houthi rebels captured a strategic island at the southern entrance to the Red Sea",
+      "date": "Fri, 11 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "West Asia conflict highlights: Yemen's Houthis reach strategic island at mouth of Bab al-Mandeb",
       "link": "https://www.thehindu.com/news/international/west-asia-conflict-us-iran-war-live-updates-houthis-iran-red-sea-strait-of-hormuz-september-11-2026/article71455463.ece",
       "description": "Hundreds of people have died since the Iran-backed Houthis launched an offensive around Bab al-Mandab, a vital artery for Saudi oil exports",
@@ -333,39 +373,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump declines Saudi crown prince's call for U.S. strikes on Houthis: reports",
-      "link": "https://www.thehindu.com/news/international/trump-declines-saudi-crown-princes-call-for-us-strikes-on-houthis-reports/article71455330.ece",
-      "description": "U.S. officials said the administration does not intend to take direct ‌military action against the Houthis at this time",
+      "title": "Over 40 civilians killed in Saudi strikes on Houthi-controlled areas in Yemen in past week",
+      "link": "https://tass.com/world/2186421",
+      "description": "Eighty-two civilians have been wounded",
       "date": "Fri, 11 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Houthis say they have shot down nine Saudi warplanes since September 3",
+      "link": "https://tass.com/world/2186415",
+      "description": "Houthi spokesman Yahya Saria said that hundreds of Saudi soldiers \"have been killed, wounded or taken prisoner\" in the course of the operation on Yemen’s western coast",
+      "date": "Fri, 11 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran, Gulf countries to discuss navigation in Strait of Hormuz — Iranian Foreign Ministry",
+      "link": "https://tass.com/world/2186413",
+      "description": "Spokesman Esmail Baghaei welcomed the upcoming ministerial meeting as an important event and expressed hope that it will pave the way for strengthening mutual understanding between the countries of the region",
+      "date": "Fri, 11 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Russian finance minister says issue of lifting sanctions not discussed during visit to US",
       "link": "https://tass.com/economy/2186333",
       "description": "The meeting between US Secretary of the Treasury Scott Bessent and Anton Siluanov took place earlier on the sidelines of the session of G20 finance ministers and central bank governors",
-      "date": "Fri, 11 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russian MP condemns Houthi attacks on Saudi Arabia's civilian, economic targets",
-      "link": "https://tass.com/politics/2186269",
-      "description": "According to the Chairman of the State Duma Committee on International Affairs, these actions violate the Kingdom's sovereignty and pose a threat to its national security",
-      "date": "Fri, 11 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran has US Dive-LD underwater drone in hand, can reverse-engineer it",
-      "link": "https://tass.com/world/2186267",
-      "description": "As the experts pointed out, Washington had not previously treated Iran’s seizure of US-made drones with such nonchalance",
       "date": "Fri, 11 Sep 2026",
       "source": "TASS",
       "region": "ru",
