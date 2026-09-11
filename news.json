@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-11 01:54 UTC",
-  "total": 41,
+  "updated": "2026-09-11 06:47 UTC",
+  "total": 42,
   "stories": [
+    {
+      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+      "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+      "description": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
       "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
@@ -16,16 +26,6 @@
       "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
       "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
       "description": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
-      "description": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
       "date": "Wed, 09 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -133,6 +133,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: Trump says he has no regrets about launching Iran war",
+      "link": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
+      "description": "US President Donald Trump told Fox News Thursday he didn't have any regrets about launching the US-Israeli war against Iran, insisting he would do \"exactly\" as he had done again if given another chance. The rising cost of living fuelled by the war is expected to take a toll on su...",
+      "date": "Fri, 11 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Putin and Xi in India for BRICS summit as Ukraine, Middle East wars loom",
+      "link": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
+      "description": "Russian President Vladimir Putin arrived in New Delhi on Friday for a two-day BRICS summit expected to focus on wars in Ukraine and the Middle East and economic challenges. Putin and Iran’s Masoud Pezeshkian are due to meet Prime Minister Narendra Modi, while China’s Xi Jinping i...",
+      "date": "Fri, 11 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
       "link": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
       "description": "Yemen’s Houthis seized the strategic Red Sea port city of Mocha on Thursday as their offensive against Saudi-backed government forces intensified. Saudi Arabia launched dozens of airstrikes over the past 24 hours, the Houthis said, after the Iran-backed group carried out attacks ...",
@@ -183,14 +203,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "🔴 Middle East live: Houthis close in on Bab el-Mandeb as Brent barrel price soars to over $106",
-      "link": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
-      "description": "",
-      "date": "Thu, 10 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Young republicans break with Trump over Iran war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+      "description": "A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+      "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+      "description": "Russian, Iranian leaders due to hold talks with India&#039;s Modi at summit dominated by wars in Middle East and Ukraine.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
@@ -233,24 +263,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
-      "description": "Israel’s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.",
-      "date": "Thu, 10 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Trump sets his sights on Iran’s Pickaxe Mountain",
+      "link": "https://www.dawn.com/news/2028981/trump-sets-his-sights-on-irans-pickaxe-mountain",
+      "description": "• Warns against activity at fortified nuclear site; IAEA reports new construction near damaged Natanz facility• Tehran says its navy targeted unmanned US surface vessel in Hormuz• Ship traffic in strait plunges as Iran widens restricted maritime zone WASHINGTON: US President Dona...",
+      "date": "Fri, 11 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "What’s happening in Yemen and how did we get here?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss",
-      "description": "Fighting has reignited in Yemen as Houthi forces push south towards the strategic Bab al-Mandab Strait.",
-      "date": "Thu, 10 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "US-led forces begin pullout from Iraq’s Kurd region",
+      "link": "https://www.dawn.com/news/2029010/us-led-forces-begin-pullout-from-iraqs-kurd-region",
+      "description": "ERBIL: The US-led coalition has be­­­­g­­un withdrawing from Iraq’s Kur­d­­i­­stan region ahead of a deadline to end their mission in the country, a Kurdish official said on Thursday. They had already completed their withdrawal from other bases in Iraq in January and are now only...",
+      "date": "Fri, 11 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "75pc chance of 'historic' El Nino this year: US agency",
@@ -293,30 +323,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UK PM defends West Bank trade ban after Israel's retaliation",
-      "link": "https://www.dawn.com/news/2028586/uk-pm-defends-west-bank-trade-ban-after-israels-retaliation",
-      "description": "UK Prime Minister Andy Burnham on Wednesday defended his government’s ban on trade with illegal Israeli settlements in the occupied West Bank after Israel retaliated against London-led Western sanctions over settler violence. “Where people are being bullied out of their homes, in...",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump bans Canadian alcohol in new trade war salvo",
-      "link": "https://www.dawn.com/news/2028583/trump-bans-canadian-alcohol-in-new-trade-war-salvo",
-      "description": "US President Donald Trump on Tuesday escalated his trade war against Canada, banning imports of alcohol and various products and raising tariffs on others, with the conflict showing no sign of abating. Canadian Prime Minister Mark Carney stood firm, acknowledging that reducing ec...",
-      "date": "Wed, 09 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
-      "link": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece",
-      "description": "The summit in New Delhi is taking place against the backdrop of a global economy facing the adverse impacts of the Russia-Ukraine war, the West Asia crisis, especially the blockade of the Strait of Hormuz, and the Trump administration’s trade and tariff policies.",
-      "date": "Thu, 10 Sep 2026",
+      "title": "Trump says he does not regret Iran war despite impact it may have on midterm elections",
+      "link": "https://www.thehindu.com/news/international/trump-says-he-does-not-regret-iran-war-despite-impact-it-may-have-on-midterm-elections/article71454848.ece",
+      "description": "U.S. President Trump dismissed suggestions that some of his supporters were upset ​and demoralised about the ‌war",
+      "date": "Fri, 11 Sep 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -373,6 +383,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Seven vessels transit Strait of Hormuz on September 10 — agency",
+      "link": "https://tass.com/world/2185829",
+      "description": "According to the report, the figures do not include vessels that might have crossed the strait with their transponders turned off",
+      "date": "Fri, 11 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Rome to host 8th round of Lebanon-Israel talks in mid-September — TV",
+      "link": "https://tass.com/world/2185817",
+      "description": "The two sides will discuss establishing more \"pilot zones\" in southern Lebanon",
+      "date": "Fri, 11 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Trump sees Iran trying to keep the conflict going expecting a Democrat win",
       "link": "https://tass.com/world/2185803",
       "description": "The US president claims that Tehran expects that the Democrats will essentially allow Iran to obtain a nuclear weapon",
@@ -386,26 +416,6 @@
       "title": "Canada imposes sanctions on eight Russian individuals, including Emergencies Minister",
       "link": "https://tass.com/world/2185799",
       "description": "The list includes the head of Rosmolodyozh youth affairs agency, Grigory Gurov, and Russian Emergencies Minister Alexander Kurenkov",
-      "date": "Thu, 10 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran war may end after or even before midterms, Trump says",
-      "link": "https://tass.com/world/2185801",
-      "description": "The US leader thinks the conflict is going to end right after the midterms",
-      "date": "Thu, 10 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US expands intelligence sharing with Riyadh amid conflict with Houthis — CNN",
-      "link": "https://tass.com/world/2185783",
-      "description": "The cooperation is being carried out within the framework of a joint command formed several weeks ago",
       "date": "Thu, 10 Sep 2026",
       "source": "TASS",
       "region": "ru",

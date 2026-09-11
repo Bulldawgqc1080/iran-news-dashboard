@@ -1,17 +1,18 @@
 {
-  "updated": "2026-09-11 01:55 UTC",
+  "updated": "2026-09-11 06:47 UTC",
   "total": 6,
   "events": [
     {
       "date": "2026-09-11",
       "dateDisplay": "Sep 11, 2026",
-      "title": "Iran claims to have captured a US \u2018sail drone\u2019 near Hormuz Strait",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
+      "title": "Putin and Xi in India for BRICS summit as Ukraine, Middle East wars loom",
+      "link": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
       "sources": [
+        "France 24",
         "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-09-10",
@@ -19,8 +20,8 @@
       "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
       "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "BBC",
-        "France 24"
+        "France 24",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
