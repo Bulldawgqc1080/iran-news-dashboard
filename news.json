@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12 06:56 UTC",
-  "total": 42,
+  "updated": "2026-09-12 11:24 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
@@ -46,16 +46,6 @@
       "title": "Amid war and sanctions, unemployment worsens in Iran",
       "link": "https://www.npr.org/2026/09/10/nx-s1-5949211/amid-war-and-sanctions-unemployment-worsens-in-iran",
       "description": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
-      "date": "Thu, 10 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
-      "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
-      "description": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
       "date": "Thu, 10 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -155,7 +145,7 @@
     {
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "date": "Fri, 11 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -163,9 +153,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "BRICS summit set to be dominated by wars in Ukraine and Iran",
-      "link": "https://www.france24.com/en/asia-pacific/20260912-brics-summit-set-to-be-dominated-by-wars-in-ukraine-and-iran",
-      "description": "Leaders of the 11-member BRICS bloc are meeting in New Delhi on Saturday as they seek to expand economic cooperation and push for a greater role for emerging powers in global affairs, while wars in Ukraine and the Middle East test the group’s ability to maintain unity.",
+      "title": "Houthis seize key sites around Bab el-Mandeb as Saudi oil exports face disruption",
+      "link": "https://www.france24.com/en/video/20260912-houthis-seize-key-sites-around-bab-el-mandeb-as-saudi-oil-exports-face-disruption",
+      "description": "Saudi Arabia has stopped transferring oil through a major pipeline after it was attacked by drones. Meanwhile, Houthi forces have taken control of a strategic port and island in Bab el-Mandeb from Yemeni government forces. Iran, which backs the rebels, says it had nothing to do w...",
+      "date": "Sat, 12 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Saudi Arabia shuts down critical oil pipeline after attacks",
+      "link": "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq",
+      "description": "Saudi Arabia on Saturday said that it has shut down its East-West pipeline as a precaution after multiple attacks on the vital oil conduit earlier this week. Both Baghdad and Riyadh said the attacks originated in Iraqi territory, where Iranian-backed militias operate. Follow our ...",
       "date": "Sat, 12 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -203,59 +203,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "🔴Middle East live: Houthis seize entire Red Sea coast of Yemen",
-      "link": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
-      "description": "",
-      "date": "Fri, 11 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump uses 9/11 memorial speech to defend war in Iran",
-      "link": "https://www.france24.com/en/video/20260911-trump-uses-9-11-memorial-speech-to-defend-war-in-iran",
-      "description": "Donald Trump used part of his speech at a 9/11 anniversary ceremony at the Pentagon to defend his administration’s ongoing war in Iran. “On days like 9/11, we learn what a country is truly made of. We’re learning right now what we’re made of,” the president said. “We’re still sen...",
-      "date": "Fri, 11 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "REPLAY: Hegseth warns of 'Islamist threat' at 9/11 25th anniversary commemorations",
-      "link": "https://www.france24.com/en/video/20260911-replay-hegseth-warns-of-islamist-threat-at-9-11-25th-anniversary-commemorations",
-      "description": "US defense secretary Pete Hegseth delivered remarks at a ceremony at the Pentagon on Friday on the 25th anniversary of the September 11 attacks. Hegseth used his speech to turn to the ongoing conflict in Iran and sought to connect it to the 2001 attacks on America. ““Our warriors...",
-      "date": "Fri, 11 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "BRICS meets in India: What’s on the agenda, why it matters",
       "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
       "description": "This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.",
-      "date": "Sat, 12 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Putin and Pezeshkian call out US dominance ahead of BRICS",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
-      "description": "The presidents of Iran and Russia have criticised US dollar dominance ahead of the BRICS summit in India.",
-      "date": "Sat, 12 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
-      "description": "Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
       "date": "Sat, 12 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -273,9 +223,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump to visit Ireland's leaders before attending golf tournament",
-      "link": "https://www.dawn.com/news/2029336/trump-to-visit-irelands-leaders-before-attending-golf-tournament",
-      "description": "US President Donald Trump will meet Ireland’s leaders on Saturday before attending a golf tournament this weekend, a departure from his recent focus on the Iran war and his party’s effort to maintain power in November’s midterm elections. The meetings with Ireland’s president and...",
+      "title": "Trump arrives in Ireland to meet leaders before attending golf tournament",
+      "link": "https://www.dawn.com/news/2029336/trump-arrives-in-ireland-to-meet-leaders-before-attending-golf-tournament",
+      "description": "US President Donald Trump arrived in Dublin on Saturday, where he will meet Ireland’s leaders before attending a golf tournament at one of his resorts, a detour from his recent focus on the Iran war and his party’s effort to maintain power in November’s midterm elections. He was ...",
       "date": "Sat, 12 Sep 2026",
       "source": "Dawn",
       "region": "me",
@@ -318,6 +268,16 @@
       "description": "DALLAS: President Donald Trump used the Republican Party’s first-ever midterm convention this week to make a risky appeal to voters: treat November’s midterm elections as a referendum on him. Trump urged voters to “pretend that I’m on the ballot” during the two-day gathering that...",
       "date": "Sat, 12 Sep 2026",
       "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran president says West Asia has no need for U.S. ‘policeman’",
+      "link": "https://www.thehindu.com/news/international/iran-president-says-west-asia-has-no-need-for-us-policeman/article71459702.ece",
+      "description": "The territorial integrity and security of the region can only be guaranteed by its main players and the countries that comprise it, he added",
+      "date": "Sat, 12 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -373,14 +333,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Delhi Police detain five for raising anti-Xi slogans near Bharat Mandapam",
-      "link": "https://www.thehindu.com/news/national/delhi-police-detain-five-for-raising-anti-xi-slogans-near-bharat-mandapam/article71455608.ece",
-      "description": "Tibetan flags waived and slogans such as ‘Xi Jinping=Genocide' and 'Tibet is facing ecocide: Free Tibet' raised during protest near Bharat Mandapam; protest at Majnu Ka Tila in north Delhi sees participation of hundreds of Tibetans from across India",
-      "date": "Fri, 11 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US president expects war with Iran to end ‘very soon’",
+      "link": "https://tass.com/world/2186603",
+      "description": "Oil will come tumbling down when that happens, Donald Trump added",
+      "date": "Sat, 12 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Ships passing through Bab el-Mandeb Strait as normal — Houthi official",
+      "link": "https://tass.com/world/2186543",
+      "description": "Hizam al-Assad, a political bureau member of Yemen’s Houthi rebel movement Ansar Allah, also confirmed that the Houthis had completed a military operation in western Yemen to establish control over territories and districts adjacent to the Bab el-Mandeb Strait",
+      "date": "Sat, 12 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Over 40 civilians killed in Saudi strikes on Houthi-controlled areas in Yemen in past week",
@@ -396,26 +366,6 @@
       "title": "Houthis say they have shot down nine Saudi warplanes since September 3",
       "link": "https://tass.com/world/2186415",
       "description": "Houthi spokesman Yahya Saria said that hundreds of Saudi soldiers \"have been killed, wounded or taken prisoner\" in the course of the operation on Yemen’s western coast",
-      "date": "Fri, 11 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran, Gulf countries to discuss navigation in Strait of Hormuz — Iranian Foreign Ministry",
-      "link": "https://tass.com/world/2186413",
-      "description": "Spokesman Esmail Baghaei welcomed the upcoming ministerial meeting as an important event and expressed hope that it will pave the way for strengthening mutual understanding between the countries of the region",
-      "date": "Fri, 11 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russian finance minister says issue of lifting sanctions not discussed during visit to US",
-      "link": "https://tass.com/economy/2186333",
-      "description": "The meeting between US Secretary of the Treasury Scott Bessent and Anton Siluanov took place earlier on the sidelines of the session of G20 finance ministers and central bank governors",
       "date": "Fri, 11 Sep 2026",
       "source": "TASS",
       "region": "ru",
