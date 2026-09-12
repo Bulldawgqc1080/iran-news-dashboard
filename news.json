@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-12 11:24 UTC",
-  "total": 37,
+  "updated": "2026-09-12 14:34 UTC",
+  "total": 41,
   "stories": [
+    {
+      "title": "Saudi Arabia forced to shut down crucial Red Sea pipeline after attacks",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5964940/saudi-arabia-forced-to-shut-down-crucial-red-sea-pipeline-after-attacks",
+      "description": "The Iran-backed Houthi militia captured a strategic Red Sea port city this week. NPR's Scott Simon talks to April Longley Alley of the Washington Institute.",
+      "date": "Sat, 12 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
       "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
@@ -33,29 +43,19 @@
       "bias": "Low"
     },
     {
-      "title": "Iran-backed Houthi rebels seize a strategic port and island, opening a new battlefront",
-      "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
-      "description": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
-      "date": "Fri, 11 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "date": "Sat, 12 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
-      "title": "Amid war and sanctions, unemployment worsens in Iran",
-      "link": "https://www.npr.org/2026/09/10/nx-s1-5949211/amid-war-and-sanctions-unemployment-worsens-in-iran",
-      "description": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
-      "date": "Thu, 10 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "date": "Fri, 11 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -83,10 +83,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran referred to UN Security Council for nuclear non-compliance",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "description": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
-      "date": "Wed, 09 Sep 2026",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "date": "Fri, 11 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -96,6 +96,16 @@
       "title": "How a community living under demolition orders from Israel view UK sanctions",
       "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
       "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+      "date": "Wed, 09 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "description": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
       "date": "Wed, 09 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -133,29 +143,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-      "description": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
-      "date": "Tue, 08 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
-      "date": "Fri, 11 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Houthis seize key sites around Bab el-Mandeb as Saudi oil exports face disruption",
       "link": "https://www.france24.com/en/video/20260912-houthis-seize-key-sites-around-bab-el-mandeb-as-saudi-oil-exports-face-disruption",
       "description": "Saudi Arabia has stopped transferring oil through a major pipeline after it was attacked by drones. Meanwhile, Houthi forces have taken control of a strategic port and island in Bab el-Mandeb from Yemeni government forces. Iran, which backs the rebels, says it had nothing to do w...",
+      "date": "Sat, 12 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "BRICS leaders call for 'maximum restraint' as Middle East war threatens unity",
+      "link": "https://www.france24.com/en/asia-pacific/20260912-brics-summit-set-to-be-dominated-by-wars-in-ukraine-and-iran",
+      "description": "BRICS leaders meeting in New Delhi on Saturday unanimously adopted a joint declaration expressing \"deep concern\" over the war in the Middle East and urging maximum restraint. The statement was seen as indirect criticism of US and Israeli strikes on Iranian nuclear facilities.",
       "date": "Sat, 12 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -203,14 +203,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "BRICS meets in India: What’s on the agenda, why it matters",
-      "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
-      "description": "This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.",
+      "title": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
+      "link": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
+      "description": "The takeover solidifies the group&#039;s position in the Bab al-Mandeb, but holding it long-term could be difficult.",
       "date": "Sat, 12 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+      "link": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
+      "description": "Iranian officials have praised the Houthis&#039; victories but have not spoken about any imminent closure of Bab al-Mandeb.",
+      "date": "Sat, 12 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
+      "description": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
+      "date": "Sat, 12 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
+      "link": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha?traffic_source=rss",
+      "description": "Yemeni government forces says they launched air strikes on Houthi fighters along the Red Sea coast.",
+      "date": "Sat, 12 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
+      "description": "Yemen’s Iran-aligned Houthis have been celebrating after seizing control of the Red Sea coast in a rapid offensive.",
+      "date": "Sat, 12 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel-Lebanon talks postponed as explosions rock southern Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/9/12/israel-lebanon-talks-postponed-as-explosions-rock-southern-lebanon?traffic_source=rss",
+      "description": "President Aoun says &#039;no new negotiations with Israel at the moment&#039;.",
+      "date": "Sat, 12 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump says Houthis have asked US not to intervene in Yemen",
+      "link": "https://www.dawn.com/news/2029391/trump-says-houthis-have-asked-us-not-to-intervene-in-yemen",
+      "description": "United States President Donald Trump said on Saturday that Yemen’s Iran-allied Houthi fighters, who have seized a vital shipping corridor linking Europe and Asia, have asked Washington not to intervene. The Houthis have taken control of Yemen’s entire Red Sea coast after capturin...",
+      "date": "Sat, 12 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Saudi Arabia says Iraqi drones forced temporary closure of crucial oil pipeline",
@@ -263,11 +323,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Loyalists at Republican convention question Trump-centric midterm strategy",
-      "link": "https://www.dawn.com/news/2029285/loyalists-at-republican-convention-question-trump-centric-midterm-strategy",
-      "description": "DALLAS: President Donald Trump used the Republican Party’s first-ever midterm convention this week to make a risky appeal to voters: treat November’s midterm elections as a referendum on him. Trump urged voters to “pretend that I’m on the ballot” during the two-day gathering that...",
+      "title": "U.S. President Donald Trump says Yemen's Houthis have asked U.S. not to intervene",
+      "link": "https://www.thehindu.com/news/international/us-president-donald-trump-says-yemens-houthis-have-asked-us-not-to-intervene/article71460007.ece",
+      "description": "\"The Houthis called us and they don't want to fight with us,\" Donald Trump told reporters on a visit to Dublin, Ireland",
       "date": "Sat, 12 Sep 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -323,50 +383,30 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran, Saudi Arabia discuss regional 'insecurity' as Yemen fighting flares",
-      "link": "https://www.thehindu.com/news/international/iran-saudi-arabia-discuss-regional-insecurity-as-yemen-fighting-flares/article71457629.ece",
-      "description": "Tehran militarily and financially backs Yemen's Houthis, who for years have held large parts of the country's north and on September 10 seized the strategic Red Sea port city of Mocha",
-      "date": "Fri, 11 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Putin completes series of bilateral meetings by talks with Abu Dhabi crown prince",
+      "link": "https://tass.com/world/2186755",
+      "description": "Presidential Aide Yury Ushakov said the talks will focus primarily on the situation in the Middle East, including the escalation around Iran.",
+      "date": "Sat, 12 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "BRICS nations call for lifting of unilateral, secondary sanctions, deeming them illegal",
+      "link": "https://tass.com/world/2186695",
+      "description": "According to the summit participants, unilateral economic and secondary sanctions have far-reaching negative implications for the human rights",
+      "date": "Sat, 12 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US president expects war with Iran to end ‘very soon’",
       "link": "https://tass.com/world/2186603",
       "description": "Oil will come tumbling down when that happens, Donald Trump added",
       "date": "Sat, 12 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Ships passing through Bab el-Mandeb Strait as normal — Houthi official",
-      "link": "https://tass.com/world/2186543",
-      "description": "Hizam al-Assad, a political bureau member of Yemen’s Houthi rebel movement Ansar Allah, also confirmed that the Houthis had completed a military operation in western Yemen to establish control over territories and districts adjacent to the Bab el-Mandeb Strait",
-      "date": "Sat, 12 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Over 40 civilians killed in Saudi strikes on Houthi-controlled areas in Yemen in past week",
-      "link": "https://tass.com/world/2186421",
-      "description": "Eighty-two civilians have been wounded",
-      "date": "Fri, 11 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Houthis say they have shot down nine Saudi warplanes since September 3",
-      "link": "https://tass.com/world/2186415",
-      "description": "Houthi spokesman Yahya Saria said that hundreds of Saudi soldiers \"have been killed, wounded or taken prisoner\" in the course of the operation on Yemen’s western coast",
-      "date": "Fri, 11 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
