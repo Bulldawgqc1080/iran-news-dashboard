@@ -1,11 +1,21 @@
 {
-  "updated": "2026-09-13 21:53 UTC",
+  "updated": "2026-09-13 23:44 UTC",
   "total": 36,
   "stories": [
     {
       "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
       "link": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
       "description": "India hosted the an annual summit which gathered leaders from 28 countries, including the presidents of China and Iran. Though, the U.S. was notably absent.",
+      "date": "Sun, 13 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+      "link": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
+      "description": "Dania Thafer of the Gulf International Forum weighs in on previously scheduled talks between Iran and Gulf states. Shortly before this interview aired, Oman announced that the talks were postponed.",
       "date": "Sun, 13 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -27,16 +37,6 @@
       "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
       "description": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack.",
       "date": "Sat, 12 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-      "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-      "description": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
-      "date": "Fri, 11 Sep 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -183,9 +183,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Guyana’s oil boom and challenges",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss",
-      "description": "Guyana’s president says his country has seen an increase in oil revenue as the Iran conflict reshapes global markets.",
+      "title": "Tehran and Muscat delay talks, citing regional consensus need",
+      "link": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
+      "description": "Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.",
       "date": "Sun, 13 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -193,9 +193,9 @@
       "bias": "Medium"
     },
     {
-      "title": "World leaders gather in New Delhi for final day of BRICS summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
-      "description": "BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.",
+      "title": "Guyana’s oil boom and challenges",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss",
+      "description": "Guyana’s president says his country has seen an increase in oil revenue as the Iran conflict reshapes global markets.",
       "date": "Sun, 13 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,6 +263,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Fighting in Yemen intensifies, Houthis launch more attacks on Saudi Arabia",
+      "link": "https://www.thehindu.com/news/international/fighting-in-yemen-intensifies-houthis-launch-more-attacks-on-saudi-arabia/article71464664.ece",
+      "description": "As Yemen risks descending into another civil war, the United Nations estimated that more than 80,000 people in the impoverished country have been displaced by the fighting since the start of September",
+      "date": "Sun, 13 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Talks between Iran and Gulf countries in Oman postponed ‘in the interests of consensus’",
       "link": "https://www.thehindu.com/news/international/talks-between-iran-and-gulf-countries-in-oman-postponed-in-the-interests-of-consensus/article71464526.ece",
       "description": "The regional meeting to ‌discuss ‌possible ⁠agreements ⁠on the Strait of ​Hormuz was scheduled for September 14",
@@ -306,16 +316,6 @@
       "title": "Iranian commercial ship struck near Strait of Hormuz with 1 dead, Iranian media say",
       "link": "https://www.thehindu.com/news/international/casualties-reported-as-an-iranian-commercial-ship-was-struck-near-the-strait-of-hormuz/article71462672.ece",
       "description": "The United Kingdom Maritime Trade Operations separately reported that a vessel was hit by a projectile while transiting the strait, with no details",
-      "date": "Sun, 13 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.P. top Shia leader pushes for stronger India-Iran ties in meeting with President Pezeshkian",
-      "link": "https://www.thehindu.com/news/national/up-top-shia-leader-pushes-for-stronger-india-iran-ties-in-meeting-with-president-pezeshkian/article71460722.ece",
-      "description": "“India and Iran are two ancient civilisations with centuries-old cultural, intellectual, spiritual and trade relations. He stressed the need to further expand cooperation between the two countries in education, trade, culture, science, technology, connectivity and energy,” Mr. Ab...",
       "date": "Sun, 13 Sep 2026",
       "source": "The Hindu",
       "region": "me",
