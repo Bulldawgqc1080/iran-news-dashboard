@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13 06:56 UTC",
+  "updated": "2026-09-13 12:27 UTC",
   "total": 41,
   "stories": [
     {
@@ -26,16 +26,6 @@
       "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
       "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
       "description": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
-      "date": "Fri, 11 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
-      "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-      "description": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
       "date": "Fri, 11 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -143,6 +133,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "The week in pictures: 9/11 anniversary, far-right win in Germany and Houthis' Yemen offensive",
+      "link": "https://www.france24.com/en/americas/20260913-the-week-in-pictures-9-11-anniversary-far-right-win-germany-houthis-yemen-offensive",
+      "description": "A look back at some of the week's key news stories and the most striking images, from commemorations marking 25 years since the 9/11 attacks to the breakthrough win for Germany's far-right AfD party and the lightening offensive that has left Yemen's Iran-backed Houthi rebels in c...",
+      "date": "Sun, 13 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen: Houthi offensive triggers new displacement crisis",
+      "link": "https://www.france24.com/en/yemen-houthi-offensive-triggers-new-displacement-crisis",
+      "description": "More than 70,000 people have fled their homes in Yemen after Iran-backed Houthi rebels launched an offensive to seize the Bab el-Mandeb Strait, with many escaping to Aden and around 1,400 crossing into neighbouring Djibouti. The UN and IOM warn the new displacement wave is worsen...",
+      "date": "Sun, 13 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Middle East live: Houthis say hit Saudi base after renewed fighting with Yemeni forces",
       "link": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
       "description": "Yemeni Houthi rebels claimed responsibility on Sunday for an attack on a military base in southern Saudi Arabia as renewed fighting with Yemen's government forces forced growing numbers of civilians to flee. Fighting in western Yemen over the past few weeks has left hundreds dead...",
@@ -163,29 +173,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "BRICS: What is in the joint statement from the 11 members?",
-      "link": "https://www.france24.com/en/video/20260912-brics-what-is-in-the-joint-statement-from-the-11-members",
-      "description": "Members of the 11-nation BRICS group including China, Russia, Iran and India called for calm in the Middle East at a summit in New Delhi on Saturday, overcoming earlier divisions to issue a joint statement. Chinese President Xi Jinping, who joined Russian, Iranian, Indian and oth...",
-      "date": "Sat, 12 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "BRICS summit 2026: What are the key takeaways?",
+      "link": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
+      "description": "The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.",
+      "date": "Sun, 13 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "BRICS nations urge 'maximum restraint' in Middle East war",
-      "link": "https://www.france24.com/en/video/20260912-brics-nations-urge-maximum-restraint-in-middle-east-war",
-      "description": "Members of the 11-nation BRICS group including China, Russia, Iran and India called for calm in the Middle East at a summit in New Delhi on Saturday, overcoming earlier divisions to issue a joint statement.",
-      "date": "Sat, 12 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+      "link": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
+      "description": "With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.",
+      "date": "Sun, 13 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "1,400 Yemenis flee to Djibouti within 24 hours",
+      "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+      "link": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
+      "description": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
+      "date": "Sun, 13 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
+      "description": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+      "date": "Sun, 13 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
       "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
-      "description": "Yemeni refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten their grip on the Bab al-Mandeb strait.",
+      "description": "Refugees from Yemen arrive in Obock, Djibouti, as Houthis tighten their grip on the Bab al-Mandeb strait.",
       "date": "Sun, 13 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -223,39 +253,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-      "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
-      "description": "The Houthis say they carried out a strike targeting a Saudi military base in Sharurah, Najran province.",
-      "date": "Sun, 13 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Commercial ship attacked in Hormuz killing 1, wounding 3",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-      "description": "Latest strike on cargo vessel comes as Iran leaders plan to meet Gulf officials to discuss control over key waterway.",
-      "date": "Sun, 13 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel bombs southern Lebanon as talks postponed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
-      "description": "The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.",
-      "date": "Sat, 12 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "BRICS urges ‘maximum restraint’ in Mideast",
-      "link": "https://www.dawn.com/news/2029557/brics-urges-maximum-restraint-in-mideast",
-      "description": "• Joint statement demands protection of civilians, respect of sovereignty, global trade routes; condemns strikes on N-plants as breaches of international law• Calls for ceasefires in Gaza, Lebanon, Sudan, Syria NEW DELHI: Members of the 11-nation BRICS group, including China, Rus...",
+      "title": "Iran authorities say 1 killed, 3 injured as merchant vessel struck in Hormuz",
+      "link": "https://www.dawn.com/news/2029620/iran-authorities-say-1-killed-3-injured-as-merchant-vessel-struck-in-hormuz",
+      "description": "A ship was struck in the Strait of Hormuz on Sunday, killing one person and injuring three, local Iranian authorities said, as Tehran and Washington clash over the strategic waterway. “A merchant vessel was struck around 5am this morning off the coasts of Hengam and Qeshm islands...",
       "date": "Sun, 13 Sep 2026",
       "source": "Dawn",
       "region": "me",
@@ -313,7 +313,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "An Iranian commercial ship is struck near Strait of Hormuz, one person killed, Iran's state media say",
+      "title": "Iranian commercial ship struck near Strait of Hormuz with 1 dead, Iranian media say",
       "link": "https://www.thehindu.com/news/international/casualties-reported-as-an-iranian-commercial-ship-was-struck-near-the-strait-of-hormuz/article71462672.ece",
       "description": "The United Kingdom Maritime Trade Operations separately reported that a vessel was hit by a projectile while transiting the strait, with no details",
       "date": "Sun, 13 Sep 2026",
@@ -373,6 +373,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Russia happy BRICS declaration wording acceptable to Iran, UAE — Kremlin",
+      "link": "https://tass.com/politics/2187003",
+      "description": "Many pessimists believed this would not be possible, but everything worked out as planned, Dmitry Peskov said",
+      "date": "Sun, 13 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Strike on Iranian civilian vessel in Strait of Hormuz kills one — local official",
       "link": "https://tass.com/world/2186893",
       "description": "Three were wounded",
@@ -396,16 +406,6 @@
       "title": "Saudi air force delivers almost 130 strikes on Yemeni territory in two days — Houthis",
       "link": "https://tass.com/world/2186835",
       "description": "Military spokesman Yahya Saree said that the Houthis \"will not leave these strikes unanswered\"",
-      "date": "Sat, 12 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Yemen’s government forces report destroying Houthi military assets near Mocha",
-      "link": "https://tass.com/world/2186823",
-      "description": "Spokesperson Majed Abdullah al-Nazili said that government troops had also \"eliminated large clusters\" of Houthi forces near the port city",
       "date": "Sat, 12 Sep 2026",
       "source": "TASS",
       "region": "ru",
