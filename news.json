@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14 02:11 UTC",
-  "total": 39,
+  "updated": "2026-09-14 08:13 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
@@ -33,14 +33,14 @@
       "bias": "Low"
     },
     {
-      "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
-      "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
-      "description": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack.",
-      "date": "Sat, 12 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "US pilot shot down over Iran recalls 'free-falling' in first interview since rescue",
+      "link": "https://www.bbc.co.uk/news/articles/cy7zvxe1jm7o?at_medium=RSS&at_campaign=rss",
+      "description": "The April rescue operation to recover the downed aircrew saw the first US boots on the ground in Iran in 46 years, American officials say.",
+      "date": "Mon, 14 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -63,9 +63,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel says it has destroyed major underground Hezbollah base",
       "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
       "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "date": "Fri, 11 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "description": "Mokha's capture brings the Iran-backed group closer to controlling a key international shipping route.",
       "date": "Fri, 11 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -77,16 +97,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
       "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
       "date": "Thu, 10 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "date": "Fri, 11 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -123,21 +133,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "date": "Wed, 09 Sep 2026",
-      "source": "BBC",
+      "title": "Mideast live: Trump downplays report China supplied Iran with intel before deadly US base attack",
+      "link": "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+      "description": "US President Donald Trump brushed aside a report that Iran ​acquired satellite images of a base in Jordan from Chinese entities before a July attack that killed three US troops. Oman postponed a meeting set for Monday with Iran and other regional countries to discuss the Strait o...",
+      "date": "Mon, 14 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-      "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
-      "date": "Wed, 09 Sep 2026",
-      "source": "BBC",
+      "title": "Iranian cargo vessel struck near Qeshm Island as Oman delays Tehran-Gulf talks",
+      "link": "https://www.france24.com/en/middle-east/20260914-iranian-ship-qeshm-island-tehran-hormuz",
+      "description": "An Iranian cargo vessel was struck off Qeshm Island in the Strait of Hormuz on Sunday, killing one person and wounding four, Iranian state media said. Tehran blamed a “terrorist enemy” for the attack, which came as threats to shipping intensified around the Hormuz and Bab el-Mand...",
+      "date": "Mon, 14 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -145,7 +155,7 @@
     {
       "title": "US hosts G20 energy talks in Texas as Iran war disrupts global fuel markets",
       "link": "https://www.france24.com/en/americas/20260914-us-g20-energy-talks-iran-war",
-      "description": "The United States begins G20 meetings in Houston on Monday promoting “energy abundance,” as President Donald Trump’s war against Iran disrupts global fuel markets. Delegations from major economies, including China, India, Japan and Germany, will attend alongside oil producers Can...",
+      "description": "The United States begins G20 meetings in Houston on Monday promoting “energy abundance” as President Donald Trump’s war against Iran disrupts global fuel markets. Delegations from major economies, including China, India, Japan and Germany, will attend alongside oil producers Cana...",
       "date": "Mon, 14 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -183,16 +193,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "The week in pictures: 9/11 anniversary, far-right win in Germany and Houthis' Yemen offensive",
-      "link": "https://www.france24.com/en/americas/20260913-the-week-in-pictures-9-11-anniversary-far-right-win-germany-houthis-yemen-offensive",
-      "description": "A look back at some of the week's key news stories and the most striking images, from commemorations marking 25 years since the 9/11 attacks to the breakthrough win for Germany's far-right AfD party and the lightening offensive that has left Yemen's Iran-backed Houthi rebels in c...",
-      "date": "Sun, 13 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
       "description": "Fighting is intensifying in Yemen as Houthi fighters advance toward Saudi-backed government-held areas.",
@@ -213,24 +213,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Tehran and Muscat delay talks, citing regional consensus need",
-      "link": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
-      "description": "Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.",
-      "date": "Sun, 13 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "'India started a war based on a lie and lost miserably': Bilawal reacts to Indian media's attempt to link Pakistan to terrorism",
+      "link": "https://www.dawn.com/news/2029840/india-started-a-war-based-on-a-lie-and-lost-miserably-bilawal-reacts-to-indian-medias-attempt-to-link-pakistan-to-terrorism",
+      "description": "PPP Chairman Bilawal Bhutto-Zardari on Monday reacted to Indian media’s attempts to link Pakistan to terrorism, saying that the neighbouring country had “started a war based on a lie and lost miserably”, a reference to last year’s May conflict. Bilawal made the remarks on the soc...",
+      "date": "Mon, 14 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Guyana’s oil boom and challenges",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss",
-      "description": "Guyana’s president says his country has seen an increase in oil revenue as the Iran conflict reshapes global markets.",
-      "date": "Sun, 13 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "New attacks test nerves amid widespread oil disruption",
+      "link": "https://www.dawn.com/news/2029774/new-attacks-test-nerves-amid-widespread-oil-disruption",
+      "description": "• Prices likely to spike as markets reopen today after weekend attack shuts Saudi pipeline• Diesel prices hit all-time high of $6.20 per gallon in US ADEN: New strikes on Saudi Arabia and on ships in the Gulf tested nerves in the Middle East on Sunday, after an attack on a Saudi ...",
+      "date": "Mon, 14 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump asks Zelensky to stop attacking Russian refineries",
+      "link": "https://www.dawn.com/news/2029762/trump-asks-zelensky-to-stop-attacking-russian-refineries",
+      "description": "DOONBEG: US President Donald Trump said on Sunday he had warned Ukrainian President Volodymyr Zelensky to “stop knocking out diesel fuel” refineries in Russia because it was causing shortages and “hurting” other countries. “Mr Zelensky has to do one thing,” Trump told reporters w...",
+      "date": "Mon, 14 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Pakistan to continue efforts for 'defusing' regional tensions, PM tells Saudi crown prince",
@@ -263,31 +273,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel-Lebanon talks postponed until October",
-      "link": "https://www.dawn.com/news/2029554/israel-lebanon-talks-postponed-until-october",
-      "description": "BEIRUT: Talks between Israel and Lebanon that were scheduled to take place in Rome next week have been postponed and will instead be held in October, Axios reported on Friday, citing a US official. Jewish holidays, a Paris conference and preparations for the United Nations Genera...",
-      "date": "Sun, 13 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Death toll in Philippine ferry fire rises to 76",
-      "link": "https://www.dawn.com/news/2029555/death-toll-in-philippine-ferry-fire-rises-to-76",
-      "description": "CORON: Philippine rescuers recovered 41 more charred remains from a ferry fire, raising the death toll to 76 and leaving 13 people unaccounted for, as forensic teams faced the daunting task of identifying the victims. That painstaking process had already begun after 30 bodies rec...",
-      "date": "Sun, 13 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says Irish unification would be ‘fantastic’",
-      "link": "https://www.dawn.com/news/2029521/trump-says-irish-unification-would-be-fantastic",
-      "description": "DUBLIN: Donald Trump said on Saturday he would “love to see” a united Ireland, wading into a politically sensitive subject as he embarked on a two-day Irish visit that blurs the lines between his presidency and personal business interests. After meeting Ireland’s Prime Minister M...",
-      "date": "Sun, 13 Sep 2026",
-      "source": "Dawn",
+      "title": "Fighting in Yemen intensifies, Houthis launch more attacks on Saudi Arabia",
+      "link": "https://www.thehindu.com/news/international/fighting-in-yemen-intensifies-houthis-launch-more-attacks-on-saudi-arabia/article71464664.ece",
+      "description": "As Yemen risks descending into another civil war, the United Nations estimated that more than 80,000 people in the impoverished country have been displaced by the fighting since the start of September",
+      "date": "Mon, 14 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -297,16 +287,6 @@
       "link": "https://www.thehindu.com/business/markets/oil-prices-jump-more-than-3-after-new-strikes-on-saudi-strait-of-hormuz/article71465318.ece",
       "description": "Brent crude futures rose $3.62, or 3.46%, to $108.23 per barrel as of 2214 GMT (Sunday). WTI futures rose $3.15, ‌or 3.15%, to $103.20 per barrel",
       "date": "Mon, 14 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Fighting in Yemen intensifies, Houthis launch more attacks on Saudi Arabia",
-      "link": "https://www.thehindu.com/news/international/fighting-in-yemen-intensifies-houthis-launch-more-attacks-on-saudi-arabia/article71464664.ece",
-      "description": "As Yemen risks descending into another civil war, the United Nations estimated that more than 80,000 people in the impoverished country have been displaced by the fighting since the start of September",
-      "date": "Sun, 13 Sep 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -353,6 +333,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran downs US drone MQ-1 over Strait of Hormuz — IRGC",
+      "link": "https://tass.com/world/2187177",
+      "description": "According to the statement, the drone was destroyed by IRGC’s latest air defense system",
+      "date": "Mon, 14 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "US wants to resume talks on Iran's nuclear program — TV channel",
       "link": "https://tass.com/world/2187117",
       "description": "CNN clarified that Iranian representatives made it clear to regional players that they would only be open to discussing their nuclear program after the Strait of Hormuz issue is resolved",
@@ -376,16 +366,6 @@
       "title": "Houthis say Saudi Arabia delivered 58 airstrikes on six Yemeni governorates",
       "link": "https://tass.com/emergencies/2187093",
       "description": "Strikes were delivered by F-15 fighter jet that took off from the Khamis Mushait airbase, spokesman for the Yemeni rebel movement Ansar Allah Yahya Saria said",
-      "date": "Sun, 13 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Zelensky imposes sanctions against his former press secretary Yulia Mendel",
-      "link": "https://tass.com/world/2187087",
-      "description": "The sanctions against Mendel were imposed for a term of ten years",
       "date": "Sun, 13 Sep 2026",
       "source": "TASS",
       "region": "ru",
