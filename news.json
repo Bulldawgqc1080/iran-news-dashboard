@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15 13:56 UTC",
-  "total": 38,
+  "updated": "2026-09-15 17:51 UTC",
+  "total": 37,
   "stories": [
     {
       "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
@@ -23,19 +23,19 @@
       "bias": "Low"
     },
     {
-      "title": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968072/talks-between-iran-and-gulf-states-to-discuss-strait-of-hormuz-postponed",
-      "description": "Iranian officials say a meeting with Gulf states to discuss the Strait of Hormuz has been postponed, dealing a blow to efforts to reopen the strait.",
-      "date": "Mon, 14 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
       "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
       "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "date": "Tue, 15 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
       "date": "Tue, 15 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -113,21 +113,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran referred to UN Security Council for nuclear non-compliance",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "description": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
-      "date": "Wed, 09 Sep 2026",
+      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+      "description": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+      "date": "Tue, 08 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
-      "date": "Tue, 08 Sep 2026",
-      "source": "BBC",
+      "title": "US diesel prices hit new record high as Trump seeks to blame Kyiv",
+      "link": "http://www.france24.com/en/video/20260915-us-diesel-prices-hit-new-record-high-as-trump-seeks-to-blame-kyiv",
+      "description": "Average diesel prices in the United States struck a record high of just under $6.27 a gallon Tuesday, pressuring President Donald Trump ahead of midterm congressional elections. Diesel prices have soared as Washington's war with Iran disrupts the world's flow of fuel, though Trum...",
+      "date": "Tue, 15 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Houthis seize Red Sea islands, attack Saudi targets",
+      "link": "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets",
+      "description": "Yemen's Iran-aligned Houthis have launched a new wave of attacks on Saudi Arabia, the group claimed Monday, and also seized the strategic islands of Greater and Lesser Hanish in the southern Red Sea, bolstering the rebels' ability to control a key maritime shipping route.",
+      "date": "Tue, 15 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -153,9 +163,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Middle East live: Iran rejects talks with US after 'mixed signals' from Trump",
+      "title": "Middle East live: Saudi Arabia vows to hit back ‘firmly’ after Houthi attacks",
       "link": "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
-      "description": "Iran's security chief on Tuesday rejected talks with the United States, criticising the \"mixed signals\" from US President Donald Trump after he said he was open to resuming negotiations. The diplomatic deadlock comes as the US military is facing a shortfall in ammunition as a res...",
+      "description": "Saudi Arabia vowed on Tuesday to respond \"firmly\" to attacks by Yemen's Houthis after the Iran-backed fighters wounded 13 people in the kingdom’s south following a series of drone and missile attacks. Tensions have escalated since the Houthis pushed their offensive in Yemen and b...",
       "date": "Tue, 15 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -163,59 +173,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen: Fact-checking videos claiming to show Houthi rebel attacks",
-      "link": "http://www.france24.com/en/yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-1",
-      "description": "A video claiming to show Houthi rebels ambushing Saudi-backed mercenaries has racked up major views on X. But the FRANCE 24 Observers found it is actually footage of 2024 Houthi military drills. The clip was edited with football commentary and blurred flags, which originally show...",
-      "date": "Mon, 14 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+      "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+      "description": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
+      "date": "Tue, 15 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Nigeria's Dangote refinery kicks off blockbuster IPO",
-      "link": "http://www.france24.com/en/tv-shows/business/20260914-nigeria-s-dangote-refinery-kicks-off-blockbuster-ipo",
-      "description": "Nigerian billionaire Aliko Dangote launched the biggest-ever share sale on the African continent, listing 4.1 billion shares in his Lagos refinery on the stock exchange. He framed it as a \"people's IPO\" to give all Nigerians a chance to share the plant's wealth potentials. Tradin...",
-      "date": "Mon, 14 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
+      "link": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
+      "description": "Riyadh has several military options, say analysts, but all of them carry risks, too.",
+      "date": "Tue, 15 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Can the Houthis hold on to Yemen’s strategic western coast?",
+      "link": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
+      "description": "Houthi coastal advances face hurdles: geography, local resistance and fierce government counterattacks.",
+      "date": "Tue, 15 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Houthi-run TV releases video of abandoned Mocha airport",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss",
       "description": "Houthi-run TV has aired drone video of Yemen’s Mocha International Airport, empty and abandoned.",
-      "date": "Tue, 15 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
-      "link": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss",
-      "description": "The Pentagon watchdog&#039;s report paints a picture of significant losses to US forces and facilities in the region.",
-      "date": "Tue, 15 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Saudi Arabia promises to respond to Houthi attacks ‘firmly’",
-      "link": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
-      "description": "Saudi-led coalition promises to respond &#039;firmly&#039; to Houthi strikes on urban areas in Saudi Arabia.",
-      "date": "Tue, 15 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-      "link": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
-      "description": "New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.",
       "date": "Tue, 15 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -343,9 +333,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lavrov says Iran settlement progress should come from regional states",
-      "link": "https://tass.com/politics/2187939",
-      "description": "The Russian foreign minister noted that some states clearly oppose the process",
+      "title": "Viktor Bout sees no real readiness from US to restore relations with Russia",
+      "link": "https://tass.com/politics/2188047",
+      "description": "Viktor Bout noted that the US Congress continues to consider new sanctions against Russia",
       "date": "Tue, 15 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -353,9 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Russia maintains foreign trade volume despite sanctions — Oreshkin",
-      "link": "https://tass.com/economy/2187903",
-      "description": "\"There was an attempt to exclude Russia from global trade and disrupt our country's economic development,\" the Russian presidential administration deputy chief of staff said",
+      "title": "Mideast facing worst energy logistics crisis in modern history — Russian Energy Minister",
+      "link": "https://tass.com/economy/2188039",
+      "description": "Sergey Tsivilyov commented on the situation in the Strait of Hormuz",
       "date": "Tue, 15 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -363,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Houthis assess shipping through Bab el-Mandeb Strait as safe",
-      "link": "https://tass.com/world/2187897",
-      "description": "According to the statement, \"Saudi Arabia’s attempts to mislead the international community on this issue are baseless\"",
+      "title": "Switzerland not being considered for new round of Ukraine talks — Russian foreign ministry",
+      "link": "https://tass.com/politics/2188005",
+      "description": "Maria Zakharova cited the loss of neutrality in Switzerland’s policy, Russophobia in the context of joining anti-Russian sanctions and related statements as reasons",
       "date": "Tue, 15 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -373,9 +363,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Russian ambassador says Italy begins to realize anti-Russia policy was mistake",
-      "link": "https://tass.com/politics/2187859",
-      "description": "Alexey Paramonov noted that sanctions had almost completely halted energy cooperation between Russia and Italy and seriously damaged bilateral trade",
+      "title": "Only 15% of Russia's trade done in dollars, euros — Kremlin official",
+      "link": "https://tass.com/economy/2187997",
+      "description": "Maxim Oreshkin, Deputy Chief of Staff of the Russian Presidential Executive Office, noted that sanctions pressure enabled a faster transition to a 'new track'",
       "date": "Tue, 15 Sep 2026",
       "source": "TASS",
       "region": "ru",
