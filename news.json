@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16 20:35 UTC",
-  "total": 32,
+  "updated": "2026-09-16 23:21 UTC",
+  "total": 34,
   "stories": [
     {
       "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
@@ -183,26 +183,6 @@
       "bias": "Medium"
     },
     {
-      "title": "Sweden expels Iran embassy employee, citing security concerns",
-      "link": "https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss",
-      "description": "Stockholm says Iran-backed groups are plotting against &#039;Jewish and Israeli interests&#039; in the country.",
-      "date": "Wed, 16 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss",
-      "description": "Former Republican Congresswoman Marjorie Taylor Greene slammed US President Donald Trump’s war on Iran.",
-      "date": "Wed, 16 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Yemeni forces clash with Houthis near Saudi border",
       "link": "https://www.dawn.com/news/2030410/yemeni-forces-clash-with-houthis-near-saudi-border",
       "description": "Yemeni government forces clashed with Houthi fighters near the Saudi border, with AFP footage showing soldiers in armoured vehicles and trucks pushing across desert terrain under the crackle of machine-gun fire. The Houthis also released footage on Wednesday of the fighting in th...",
@@ -263,6 +243,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others",
+      "link": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
+      "description": "The Bill, which will now be sent U.S. President Donald Trump for his signature, could result in significant U.S. tariffs on India",
+      "date": "Wed, 16 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Federal Reserve hikes key rate to tackle ‘too high’ inflation, defying Trump demands for cut",
+      "link": "https://www.thehindu.com/news/international/federal-reserve-hikes-key-rate-for-first-time-in-three-years-defying-trump-demands-for-cut/article71474094.ece",
+      "description": "Chairperson Warsh said renewed U.S.-Iran combat, which has driven up gas prices, also convinced officials to support rate hikes; President Trump reacted angrily to the decision, renewing his call for the Fed to lower interest rates “AND FAST”",
+      "date": "Wed, 16 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Oman pitches new port that could give India better access to Gulf energy",
       "link": "https://www.thehindu.com/news/national/oman-pitches-new-port-that-could-give-india-better-access-to-gulf-energy/article71473404.ece",
       "description": "Located away from the conflict-hit Strait of Hormuz, Sohar Port is located close to vital energy pipelines of the United Arab Emirates and eastern Saudi Arabia",
@@ -303,24 +303,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen’s Houthis say shot down Saudi fighter jet",
-      "link": "https://www.thehindu.com/news/international/yemens-houthis-say-shot-down-saudi-fighter-jet/article71471293.ece",
-      "description": "A spokesman for the Houthis accused Saudi Arabia of launching 450 strikes",
+      "title": "Trump hopes war with Iran about to end",
+      "link": "https://tass.com/world/2188709",
+      "description": "The US president says that Tehran is seeking a peace deal",
       "date": "Wed, 16 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Saudi coalition says Houthi drone destroyed near Mecca",
-      "link": "https://www.thehindu.com/news/international/saudi-coalition-says-houthi-drone-destroyed-near-mecca/article71470972.ece",
-      "description": "The drone, intercepted on September 15 was the second Houthi attempt to target Mecca after a ballistic missile launch in July 2017, spokesperson Turki al-Malki said in a statement",
+      "title": "US Congress passes bill to toughen sanctions against Russia",
+      "link": "https://tass.com/world/2188707",
+      "description": "262 members of the House of Representatives voted in favor, while 159 were against",
       "date": "Wed, 16 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US wants Germany to confront Russia, while Washington focuses on China, Iran — expert",
+      "link": "https://tass.com/world/2188691",
+      "description": "Sevim Dagdelen, a foreign policy expert for the BSW party, said that \"while the United States itself is at times willing to engage in dialogue with Moscow,\" Berlin is announcing plans to create Europe’s strongest army within a few years",
+      "date": "Wed, 16 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Era of US global dominance over — media",
+      "link": "https://tass.com/world/2188681",
+      "description": "According to Payson O’Brien, America’s military strength, global network of bases and logistics systems, and military and diplomatic partnerships around the world proved insufficient to defeat Iran",
+      "date": "Wed, 16 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
