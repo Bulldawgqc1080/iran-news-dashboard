@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-15 23:16 UTC",
+  "updated": "2026-09-16 02:11 UTC",
   "total": 38,
   "stories": [
-    {
-      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
-      "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
-      "description": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.",
-      "date": "Mon, 14 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
     {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
       "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
@@ -173,6 +163,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war increasing inflation, straining US munitions: congressional report",
+      "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
+      "description": "Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.",
+      "date": "Wed, 16 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Saudi-led coalition intercepts drone headed for Mecca",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
+      "description": "Saudi Arabia has intercepted and destroyed a Houthi drone that was heading toward Mecca.",
+      "date": "Wed, 16 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss",
+      "description": "A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.",
+      "date": "Tue, 15 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
       "link": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
       "description": "GOP Representative Thomas Massie has emerged as outspoken critic of war on Iran and overseas military interventions.",
@@ -196,26 +216,6 @@
       "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
       "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
       "description": "Western intelligence agencies highlight &#039;CHOSEN BRICK&#039; spyware targeting critics of Iran government abroad.",
-      "date": "Tue, 15 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
-      "link": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
-      "description": "Thousands making risky maritime journey to Djibouti as conflict between Yemen gov&#039;t and Houthis intensifies.",
-      "date": "Tue, 15 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-      "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-      "description": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
       "date": "Tue, 15 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,7 +283,17 @@
       "bias": "Low-Med"
     },
     {
-      "title": "War on Iran cost U.S. more than $38B: Congressional Budget Office",
+      "title": "U.S. House advances Russia sanctions Bill that seeks 100% tariffs on India, others; set for final vote",
+      "link": "https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece",
+      "description": "The resolution to advance the Russia sanctions Bill and a slew of other legislations was approved by a 214-211 vote, shocking the House Democratic leadership. The Bill is expected to come up for a final vote in the House on September 16",
+      "date": "Wed, 16 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "War on Iran cost U.S. more than $38 billion: Congressional Budget Office",
       "link": "https://www.thehindu.com/news/international/war-on-iran-cost-us-more-than-38b-congressional-budget-office/article71469949.ece",
       "description": "CBO said the war is expected to contribute to inflation into the first quarter of 2027, making inflation roughly 0.5 percentage points higher than they had previously estimated.",
       "date": "Tue, 15 Sep 2026",
@@ -333,49 +343,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. lawmaker submits amendment naming India in Russia sanctions act",
-      "link": "https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece",
-      "description": "The Lindsey O Graham Sanctioning Russia and Iran Act, passed by the U.S. Senate by an overwhelming 86-11 vote last month, seeks to impose sanctions not only on Russia's leadership and energy sector but also on the \"shadow fleet\" of vessels that enable Moscow to evade sanctions on...",
+      "title": "Middle Eastern countries disappointed with US security guarantees — ex-top diplomat",
+      "link": "https://tass.com/world/2188129",
+      "description": "Antony Blinken said the US had no good military solution to the current conflict \"absent a full-scale invasion of Iran, which would be a disaster\"",
+      "date": "Wed, 16 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran-backed Houthis’ actions go beyond domestic conflict — Yemen’s PM",
+      "link": "https://tass.com/world/2188121",
+      "description": "Shaya Mohsen al-Zindani says Houthi attacks on Saudi Arabia \"cannot be separated from the military escalation\" on Yemen’s Red Sea coast",
       "date": "Tue, 15 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US House advances Russia sanctions bill",
+      "link": "https://tass.com/world/2188119",
+      "description": "The House of Representatives voted 214-211",
+      "date": "Tue, 15 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Explosions heard in Iranian city of Qeshm — agency",
       "link": "https://tass.com/emergencies/2188117",
       "description": "According to sources cited by IRNA, the sounds came from the sea",
-      "date": "Tue, 15 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "War between US, Iran to enter 'different phase' in coming months — Vance",
-      "link": "https://tass.com/world/2188107",
-      "description": "According to the vice president, the US has already completed the first phase, which was to destroy the nuclear program and conventional military of Iran",
-      "date": "Tue, 15 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran lifts ban on use of foreign messengers by government agencies",
-      "link": "https://tass.com/society/2188099",
-      "description": "Islamic Republic Government Spokeswoman Fatemeh Mohajerani said that the main goal of the move is \"to ensure the ability to promptly respond to emerging doubts and planted information, as well as effectively counter psychological operations and the information war\" against Iran",
-      "date": "Tue, 15 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "War with Iran costs US taxpayers $38 billion — congressional budget office",
-      "link": "https://tass.com/world/2188095",
-      "description": "The authority also confirmed that the war had depleted US weapons stocks, including critically important interceptors for air defense systems",
       "date": "Tue, 15 Sep 2026",
       "source": "TASS",
       "region": "ru",
