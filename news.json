@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17 17:49 UTC",
-  "total": 41,
+  "updated": "2026-09-17 20:42 UTC",
+  "total": 42,
   "stories": [
     {
       "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
@@ -27,16 +27,6 @@
       "link": "https://www.npr.org/2026/09/17/nx-s1-5971210/how-the-fighting-between-the-houthis-and-saudi-arabia-is-affecting-gas-prices",
       "description": "NPR's A Martinez speaks with oil markets expert Ellen R. Wald of the Atlantic Council about how the escalation in fighting between the Houthis and Saudi Arabia is affecting global oil and gas prices.",
       "date": "Thu, 17 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
-      "description": "The New Yorker's Dexter Filkins says while Trump's son-in-law is a U.S. special envoy negotiating peace, he's also working on private business deals, raising billions in some of the same countries.",
-      "date": "Wed, 16 Sep 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -143,6 +133,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "India vows to protect energy security after new US tariffs over Russian oil",
+      "link": "https://www.france24.com/en/india-vows-to-protect-energy-security-after-new-us-tariffs-over-russian-oil",
+      "description": "India has warned Washington that new measures to levy tariffs over the purchase of Russian oil could impact bilateral ties, the South Asian nation's foreign ministry said on Thursday, hours after the U.S. made a ​new move to ‌punish such buyers. Earlier in the day, the U.S. House...",
+      "date": "Thu, 17 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump declines to back Saudi Arabia as US officials reportedly meet Iran-backed Houthis in Oman",
+      "link": "https://www.france24.com/en/trump-declines-to-back-saudi-arabia-as-us-officials-reportedly-meet-iran-backed-houthis-in-oman",
+      "description": "US officials met representatives of Yemen's Houthis in Oman over the weekend, five sources familiar with the matter said, days after the Iran-backed militia seized a strategic ​stretch of the ‌Red Sea coast in a sweeping offensive that routed Saudi-backed forces. U.S. ​President ...",
+      "date": "Thu, 17 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Stalemate' in Lebanon: Hezbollah justifies weapons, citing Israeli occupation and ongoing attacks",
+      "link": "https://www.france24.com/en/stalemate-in-lebanon-hezbollah-justifies-weapons-citing-israeli-occupation-and-ongoing-attacks",
+      "description": "Angela Diffley is pleased to welcome Dr Filippo Dionigi, Senior Lecturer in Politics and International Relations at the University of Bristol. According to Dr. Dionigi, the central obstacle to Hezbollah’s disarmament is not simply the military capacity of the Lebanese state, but ...",
+      "date": "Thu, 17 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Food security under pressure from conflicts, extreme weather",
       "link": "https://www.france24.com/en/tv-shows/people-profit/20260917-food-security-under-pressure-from-conflicts-extreme-weather",
       "description": "Extreme weather and violent conflicts are threatening food production and trade across the globe. Experts are forecasting a super El Niño, which could further disrupt planting and harvests – and push millions more people into acute food insecurity. Meanwhile the ongoing wars with...",
@@ -193,14 +213,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lebanon: UNIFIL withdrawal at the heart of Paris talks",
-      "link": "https://www.france24.com/en/lebanon-unifil-withdrawal-at-the-heart-of-paris-talks",
-      "description": "Emmanuel Macron welcomes Lebanese President Joseph Aoun and Jordan's King Abdullah II to Paris today for talks on Lebanon's security and international support for the Lebanese army. The meeting comes as France pushes to prevent a security vacuum ahead of UNIFIL's planned withdraw...",
+      "title": "Houthi leader denies targeting Mecca, vows to protect holy city",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/houthi-leader-denies-targeting-mecca-vows-to-protect-holy-city?traffic_source=rss",
+      "description": "Houthi leader Abdul Malik al-Houthi pledges to defend Mecca and other Islamic holy sites.",
       "date": "Thu, 17 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
+      "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss",
+      "description": "The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.",
+      "date": "Thu, 17 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "UN fact-finding mission says US committed possible war crimes in Iran",
@@ -226,26 +256,6 @@
       "title": "What are all the sanctions Iran is under?",
       "link": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under?traffic_source=rss",
       "description": "Iran has faced a torrent of international sanctions since the 1979 revolution - here&#039;s what&#039;s in place right now.",
-      "date": "Thu, 17 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-      "link": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss",
-      "description": "Iran&#039;s speaker mocks US interest rates, citing the Taylor equation amidst rising global oil prices and inflation.",
-      "date": "Thu, 17 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
-      "link": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
-      "description": "US sanctions aim to weaken Russian oil exports, heavily targeting China and India as Moscow&#039;s largest energy buyers.",
       "date": "Thu, 17 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -313,6 +323,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. approves visas for Iran President, FM Araghchi to attend UN high-level meeting even with sides at war",
+      "link": "https://www.thehindu.com/news/international/us-approves-visas-for-iran-president-fm-araghchi-to-attend-un-high-level-meeting-even-with-sides-at-war/article71478184.ece",
+      "description": "The move is unusual due to the more than six-month-long conflict between Iran and the United States and no sign that agreements to reopen the Strait of Hormuz or return to talks on Iran's nuclear program are close",
+      "date": "Thu, 17 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others",
+      "link": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
+      "description": "The Bill, which will now be sent U.S. President Donald Trump for his signature, could result in significant U.S. tariffs on India",
+      "date": "Thu, 17 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "China opposes U.S. sanctions bill, says will not accept 'long-arm jurisdiction'",
       "link": "https://www.thehindu.com/news/international/china-opposes-us-sanctions-bill-says-will-not-accept-long-arm-jurisdiction/article71477998.ece",
       "description": "The U.S. House of Representatives passed the Lindsey O Graham Sanctioning Russia and Iran Act 2026 that authorises Donald Trump to impose sanctions on Russia and steep tariffs on its leading trading partners such as India and China",
@@ -343,16 +373,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others",
-      "link": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
-      "description": "The Bill, which will now be sent U.S. President Donald Trump for his signature, could result in significant U.S. tariffs on India",
-      "date": "Thu, 17 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Number of ships transiting Strait of Hormuz falls to three on September 16, data shows",
       "link": "https://www.thehindu.com/news/international/number-of-ships-transiting-strait-of-hormuz-falls-to-three-on-september-16-data-shows/article71475544.ece",
       "description": "The figures exclude any vessels that might have passed through ‌the waterway with their ‌Automatic ⁠Identification System transponders turned off to ⁠avoid detection",
@@ -363,19 +383,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump hopes Iran war nearing end as Houthi-Saudi fighting escalates",
-      "link": "https://www.thehindu.com/news/international/trump-hopes-iran-war-nearing-end-as-houthi-saudi-fighting-escalates/article71475392.ece",
-      "description": "U.S. President Donald Trump is expected to meet Gulf leaders on the sidelines of the UN General Assembly on September 22",
-      "date": "Thu, 17 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "New US sanctions bill puts Russia's trade partners in crosshairs — RSPP deputy head",
-      "link": "https://tass.com/economy/2189189",
-      "description": "Despite the threat, Alexander Murychev noted that Russian businesses have already adapted to ongoing restrictions",
+      "title": "Iran thanks Russia, China for vetoing US anti-Iran sanctions resolution at UN",
+      "link": "https://tass.com/world/2189291",
+      "description": "Iranian diplomats also thanked Somalia and Pakistan, which abstained from voting on the US-drafted resolution",
       "date": "Thu, 17 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -383,9 +393,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Russia calls on the West at UN to halt dangerous actions regarding Iran",
-      "link": "https://tass.com/world/2189179",
-      "description": "Vasily Nebenzya noted that the only way to resolve disputes is through \"political and diplomatic efforts based on taking into account the interests of all parties and the legitimate rights of Tehran\"",
+      "title": "Saudi Arabia strikes Yemen almost 40 times over day, Houthis claim",
+      "link": "https://tass.com/world/2189283",
+      "description": "",
       "date": "Thu, 17 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -393,9 +403,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran’s UN mission objects to US designation for IAEA Board membership",
-      "link": "https://tass.com/world/2189163",
-      "description": "According to the Iranian delegation, having the United States on the global nuclear body’s Board \"would create a structural conflict of interest,\" undermine its neutrality, and further erode confidence in the IAEA itself",
+      "title": "Iran never to capitulate, already controls military situation in region — journalist",
+      "link": "https://tass.com/world/2189281",
+      "description": "Brazilian international journalist and Eurasian geopolitical analyst Pepe Escobar said that the war is impossible to settle",
       "date": "Thu, 17 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -403,9 +413,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran summons German ambassador over alleged interference in domestic affairs",
-      "link": "https://tass.com/world/2189161",
-      "description": "During the meeting, the Iranian Foreign Ministry official rejected what he called unfounded statements by German chancellor Friedrich Merz concerning Tehran and strongly protested Berlin’s \"unfounded and destructive approach\" to regional developments",
+      "title": "US issues visas to Iran’s president, foreign minister to participate in UN session — AP",
+      "link": "https://tass.com/world/2189279",
+      "description": "The Iranian delegation is smaller than last year",
       "date": "Thu, 17 Sep 2026",
       "source": "TASS",
       "region": "ru",
