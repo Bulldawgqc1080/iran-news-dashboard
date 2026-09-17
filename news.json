@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17 02:14 UTC",
-  "total": 39,
+  "updated": "2026-09-17 08:06 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
@@ -21,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US blocks Palestinian leader from UN meeting in New York for second year in row",
+      "link": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
+      "description": "The US State Department extended visa sanctions after accusing Palestinian officials of failing to live up to peace process commitments.",
+      "date": "Thu, 17 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
@@ -93,26 +103,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-      "date": "Fri, 11 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "description": "Mokha's capture brings the Iran-backed group closer to controlling a key international shipping route.",
-      "date": "Fri, 11 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
       "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
@@ -123,7 +113,37 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Live: Explosions shake Kyiv as US Congress advances new sanctions on Moscow",
+      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+      "description": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+      "date": "Tue, 08 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Lebanon: Macron, Aoun and King Abdullah II hold security talks in Paris",
+      "link": "http://www.france24.com/en/lebanon-macron-aoun-and-king-abdullah-ii-hold-security-talks-in-paris",
+      "description": "Emmanuel Macron is hosting Lebanese President Joseph Aoun and Jordan's King Abdullah II in Paris for talks on Lebanon's security and international support for the Lebanese army. The meeting comes as concerns grow over Israel's continued strikes in southern Lebanon and the possibl...",
+      "date": "Thu, 17 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Middle East live: Paris talks aim to bolster Lebanese army as end of UN mission looms",
+      "link": "http://www.france24.com/en/middle-east/20260917-middle-east-live-paris-talks-lebanese-army-unifil-israel-iran-yemen",
+      "description": "European and Arab military chiefs meet in Paris on Thursday to discuss steps to bolster Lebanon's struggling armed forces as the mandate of a United Nations peacekeeping mission expires at the end of the year, amid fears of a renewed Israeli military campaign in southern Lebanon....",
+      "date": "Thu, 17 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Ukraine live: Explosions shake Kyiv as US Congress advances new sanctions on Moscow",
       "link": "http://www.france24.com/en/europe/20260917-live-explosions-kyiv-us-congress-sanctions-moscow",
       "description": "The US House on Wednesday passed a broad package of sanctions targeting Russian officials and key pillars of its economy as lawmakers look to deprive President Vladimir Putin of the financial resources needed to wage the war against Ukraine. Loud explosions were heard across Kyiv...",
       "date": "Thu, 17 Sep 2026",
@@ -171,6 +191,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Yemeni forces target Houthis as US rules out direct role",
+      "link": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
+      "description": "Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle.",
+      "date": "Thu, 17 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Reports: US, Houthis make secret deal over Yemen war",
@@ -223,14 +253,54 @@
       "bias": "Medium"
     },
     {
-      "title": "New video claims to show Saudi fighter jet Houthis say they shot down",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
-      "description": "Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen’s Marib.",
-      "date": "Wed, 16 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Will respond to terror threats from Afghanistan in self-defence as and when needed, Pakistan tells UNSC",
+      "link": "https://www.dawn.com/news/2030582/will-respond-to-terror-threats-from-afghanistan-in-self-defence-as-and-when-needed-pakistan-tells-unsc",
+      "description": "WASHINGTON: Pakistan told the UN Security Council on Wednesday that it would respond to terrorist threats emanating from Afghanistan in self-defence as and when needed and in accordance with international law. The assertion by Pakistan’s Permanent Representative to the United Nat...",
+      "date": "Thu, 17 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan committed to implementing Saudi defence pact, Makkah agreement: FO",
+      "link": "https://www.dawn.com/news/2030603/pakistan-committed-to-implementing-saudi-defence-pact-makkah-agreement-fo",
+      "description": "Pakistan on Thursday said it remained committed “in intent and spirit” to implementing the Strategic Mutual Defence Agreement (SMDA) with Saudi Arabia and the trilateral Makkah Defence Alliance. Foreign Office (FO) spokesperson Sajjad Haider Khan made the statement during his wee...",
+      "date": "Thu, 17 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "India to take 'all necessary measures' to protect economic interests after US passes Russia sanctions bill",
+      "link": "https://www.dawn.com/news/2030596/india-to-take-all-necessary-measures-to-protect-economic-interests-after-us-passes-russia-sanctions-bill",
+      "description": "India said on Thursday it would continue buying oil from “diversified” suppliers, after US lawmakers approved sanctions designed to squeeze Russia over its war in Ukraine. The US legislation targets Russia’s energy and defence sectors, President Vladimir Putin and other senior of...",
+      "date": "Thu, 17 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Washington set to approve $2.8bn arms for Israel",
+      "link": "https://www.dawn.com/news/2030536/washington-set-to-approve-28bn-arms-for-israel",
+      "description": "WASHINGTON: The US federal government is on track to approve a $2.8 billion arms package for Israel, US media reported on Tuesday, with the sale of 40,000 one-ton bombs among the largest munitions packages sold in recent years. The Washington Post said the package — funded with U...",
+      "date": "Thu, 17 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "China ready to safeguard Iran’s ‘rights, interests’",
+      "link": "https://www.dawn.com/news/2030485/china-ready-to-safeguard-irans-rights-interests",
+      "description": "BEIJING: China is willing to “safeguard Iran’s rights and interests” and to “strengthen dialogue and cooperation”, Foreign Minister Wang Yi told his counterpart Abbas Araghchi during their meeting in Beijing on Wednesday. Wang Yi said China encourages Iran and the United States t...",
+      "date": "Thu, 17 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Yemeni forces clash with Houthis near Saudi border",
@@ -243,59 +313,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthi attacks on Saudi Arabia have brought Mideast conflict to 'dangerous juncture', Pakistan tells UN",
-      "link": "https://www.dawn.com/news/2030344/houthi-attacks-on-saudi-arabia-have-brought-mideast-conflict-to-dangerous-juncture-pakistan-tells-un",
-      "description": "UNITED NATIONS: Pakistan said on Tuesday that Houthi attacks on Saudi Arabia had brought the conflict in the Middle East to a “dangerous juncture”, while the United States and China called for restraint and de-escalation in Yemen as renewed fighting and attacks on the kingdom thr...",
-      "date": "Wed, 16 Sep 2026",
-      "source": "Dawn",
+      "title": "Number of ships transiting Strait of Hormuz falls to three on September 16, data shows",
+      "link": "https://www.thehindu.com/news/international/number-of-ships-transiting-strait-of-hormuz-falls-to-three-on-september-16-data-shows/article71475544.ece",
+      "description": "The figures exclude any vessels that might have passed through ‌the waterway with their ‌Automatic ⁠Identification System transponders turned off to ⁠avoid detection",
+      "date": "Thu, 17 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "US confirms deployment of orbital weapons, draws ire of Russia and China",
-      "link": "https://www.dawn.com/news/2030133/us-confirms-deployment-of-orbital-weapons-draws-ire-of-russia-and-china",
-      "description": "The United States on Tuesday confirmed for the first time that Washington has deployed weapons in space, prompting a warning from China against turning outer space into a “battlefield”, and Russia saying space must be “free from any weapon”. Analysts said that the revelation by W...",
-      "date": "Tue, 15 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "War on Iran resulted in munitions shortfall for US, confirms Pentagon report",
-      "link": "https://www.dawn.com/news/2030086/war-on-iran-resulted-in-munitions-shortfall-for-us-confirms-pentagon-report",
-      "description": "WASHINGTON: The United States has acknowledged that its war on Iran resulted in “strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply” for America. The admission came in the first Pentagon Inspector General’s report on the US-Israeli war ...",
-      "date": "Tue, 15 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran denies role as Houthis rain fire on Saudi base",
-      "link": "https://www.dawn.com/news/2030035/iran-denies-role-as-houthis-rain-fire-on-saudi-base",
-      "description": "• Dozens of missiles, drones target King Khalid air base• Iranian foreign ministry says Yemeni rebel group ‘acts independently’• Trump claims Iran wants to make a deal, signals his openness to talks• Eslami barred from IAEA meeting under US pressure SANAA: Yemen’s Houthis launche...",
-      "date": "Tue, 15 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump claims 'sick conspiracy' against AI companies amid calls for slowed development",
-      "link": "https://www.dawn.com/news/2029897/trump-claims-sick-conspiracy-against-ai-companies-amid-calls-for-slowed-development",
-      "description": "US President Donald Trump on Monday claimed that there was a “sick conspiracy” against the leaders of artificial intelligence (AI) companies, amid calls from industry leaders and international organisations to slow AI development due to “unprecedented risks”. The development came...",
-      "date": "Mon, 14 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others",
-      "link": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
-      "description": "The Bill, which will now be sent U.S. President Donald Trump for his signature, could result in significant U.S. tariffs on India",
+      "title": "Trump hopes Iran war nearing end as Houthi-Saudi fighting escalates",
+      "link": "https://www.thehindu.com/news/international/trump-hopes-iran-war-nearing-end-as-houthi-saudi-fighting-escalates/article71475392.ece",
+      "description": "U.S. President Donald Trump is expected to meet Gulf leaders on the sidelines of the UN General Assembly on September 22",
       "date": "Thu, 17 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -306,7 +336,7 @@
       "title": "Federal Reserve hikes key rate to tackle ‘too high’ inflation, defying Trump demands for cut",
       "link": "https://www.thehindu.com/news/international/federal-reserve-hikes-key-rate-for-first-time-in-three-years-defying-trump-demands-for-cut/article71474094.ece",
       "description": "Chairperson Warsh said renewed U.S.-Iran combat, which has driven up gas prices, also convinced officials to support rate hikes; President Trump reacted angrily to the decision, renewing his call for the Fed to lower interest rates “AND FAST”",
-      "date": "Wed, 16 Sep 2026",
+      "date": "Thu, 17 Sep 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -316,41 +346,51 @@
       "title": "Oman pitches new port that could give India better access to Gulf energy",
       "link": "https://www.thehindu.com/news/national/oman-pitches-new-port-that-could-give-india-better-access-to-gulf-energy/article71473404.ece",
       "description": "Located away from the conflict-hit Strait of Hormuz, Sohar Port is located close to vital energy pipelines of the United Arab Emirates and eastern Saudi Arabia",
-      "date": "Wed, 16 Sep 2026",
+      "date": "Thu, 17 Sep 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "India voices concern over attempted drone attack on Mecca",
-      "link": "https://www.thehindu.com/news/national/india-voices-concern-over-attempted-drone-attack-on-mecca/article71472296.ece",
-      "description": "The drone, intercepted on September 15 was the second Houthi attempt to target Mecca after a ballistic missile launch in July 2017, spokesperson Turki al-Malki said in a statement",
-      "date": "Wed, 16 Sep 2026",
+      "title": "U.S. House of Representatives to take up Russia sanctions bill next week",
+      "link": "https://www.thehindu.com/news/international/us-house-of-representatives-to-take-up-russia-sanctions-bill-next-week/article71461175.ece",
+      "description": "Ukrainian civilians continue to be killed by Putin’s war machine, and this bill hits the Kremlin’s coffers hard; Now is the time to pass it and force Putin to the negotiating table, said Senate Foreign Relations ranking member Jeanne Shaheen",
+      "date": "Thu, 17 Sep 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Saudi Arabia calls attempted Mecca attack 'red line' as Iran-backed Houthis deny they did it",
-      "link": "https://www.thehindu.com/news/international/saudi-arabia-calls-attempted-mecca-attack-red-line-as-iran-backed-houthis-deny-they-did-it/article71471868.ece",
-      "description": "A crucial Saudi pipeline has reportedly been shut down for weeks as the Yemen-based Houthis have been attacking infrastructure in the kingdom",
-      "date": "Wed, 16 Sep 2026",
+      "title": "U.S. lawmaker submits amendment naming India in Russia sanctions act",
+      "link": "https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece",
+      "description": "The Lindsey O Graham Sanctioning Russia and Iran Act, passed by the U.S. Senate by an overwhelming 86-11 vote last month, seeks to impose sanctions not only on Russia's leadership and energy sector but also on the \"shadow fleet\" of vessels that enable Moscow to evade sanctions on...",
+      "date": "Thu, 17 Sep 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Why Yemen's Houthis have only grown stronger through years of war",
-      "link": "https://www.thehindu.com/news/international/why-yemens-houthis-have-only-grown-stronger-through-years-of-war/article71471322.ece",
-      "description": "As the Iran-backed Houthis advance on a key maritime chokepoint and strike Saudi oil facilities, rattling world markets, there is little that can be done to stop them that hasn't been tried before",
-      "date": "Wed, 16 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "India to take necessary measures following US adoption of Russia-Iran sanctions act — MFA",
+      "link": "https://tass.com/world/2188769",
+      "description": "According to the statement, India remains firmly committed to ensuring energy security",
+      "date": "Thu, 17 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump plans to hold meeting on Iran on UN General Assembly sidelines — Axios",
+      "link": "https://tass.com/world/2188753",
+      "description": "The report says the meeting is expected \"to focus on US ideas for a postwar strategy\"",
+      "date": "Thu, 17 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump believes Iran seeks deal with US but not yet ready for it",
@@ -365,27 +405,7 @@
     {
       "title": "Trump hopes war with Iran about to end",
       "link": "https://tass.com/world/2188709",
-      "description": "The US president says that Tehran is seeking a peace deal",
-      "date": "Wed, 16 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US Congress passes bill to toughen sanctions against Russia",
-      "link": "https://tass.com/world/2188707",
-      "description": "262 members of the House of Representatives voted in favor, while 159 were against",
-      "date": "Wed, 16 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US wants Germany to confront Russia, while Washington focuses on China, Iran — expert",
-      "link": "https://tass.com/world/2188691",
-      "description": "Sevim Dagdelen, a foreign policy expert for the BSW party, said that \"while the United States itself is at times willing to engage in dialogue with Moscow,\" Berlin is announcing plans to create Europe’s strongest army within a few years",
+      "description": "The US president says that the Iranian side had expressed a desire to strike a peace deal",
       "date": "Wed, 16 Sep 2026",
       "source": "TASS",
       "region": "ru",
