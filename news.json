@@ -1,11 +1,21 @@
 {
-  "updated": "2026-09-19 19:02 UTC",
-  "total": 32,
+  "updated": "2026-09-19 21:53 UTC",
+  "total": 33,
   "stories": [
     {
-      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+      "title": "The new lines of southern Lebanon",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
+      "description": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli invasion.",
+      "date": "Sat, 19 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "date": "Sat, 19 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -113,14 +123,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Smoke, flames seen near Riyadh airport, ‘major’ flight disruptions reported",
+      "title": "Saudi Arabia says air defences intercepted Houthi ballistic missile targeting Riyadh",
       "link": "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported",
-      "description": "A plume of smoke and flames rose near Riyadh's main international airport on Saturday and residents reported hearing loud booms hours after Saudi authorities issued the first alert for the country's capital since the latest escalation with Yemen's Iran-backed Houthi rebels. An Ar...",
+      "description": "Saudi Arabia on Saturday confirmed that Yemen’s Houthi rebels tried to attack its capital with a ballistic missile, the first targeting of Riyadh since the escalation in fighting with the rebels. The confirmation came hours after the Houthis said they targeted \"sensitive sites\" i...",
       "date": "Sat, 19 Sep 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+      "description": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.",
+      "date": "Sat, 19 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
@@ -146,16 +166,6 @@
       "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
       "link": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
       "description": "Some officials and state media have long openly described the industry as a ‘mafia’ system.",
-      "date": "Sat, 19 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
-      "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
-      "description": "The sanctions, introduced during the Biden administration, targeted Eritrea&#039;s governing party and the military.",
       "date": "Sat, 19 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,9 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthis claim they carried out missile strikes on targets in Riyadh and Yanbu",
-      "link": "https://tass.com/world/2190123",
-      "description": "Representative of the movement Yahya Saree said that the attacks were a response to Saudi Arabia’s ongoing strikes on Yemen",
+      "title": "Saudi Arabia repels Houthi missile attack on Riyadh — coalition",
+      "link": "https://tass.com/world/2190145",
+      "description": "Brigadier General Turki al-Maliki said that the Houthis had stepped up their attempts to attack civilian targets in the capital",
       "date": "Sat, 19 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -293,9 +303,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump administration does not believe war with Iran ongoing — speaker Johnson",
-      "link": "https://tass.com/world/2190121",
-      "description": "According to the House of Representatives speaker, the conflict is in its final stage",
+      "title": "US used AI in preparation for attack on school in Iran’s Minab — Bloomberg",
+      "link": "https://tass.com/world/2190149",
+      "description": "The US military did not take advantage of a whole series of opportunities to prevent the tragedy, the agency said",
       "date": "Sat, 19 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -303,9 +313,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran conveys conditions for ending war to US — Security Council Secretary",
-      "link": "https://tass.com/world/2190101",
-      "description": "We have not yet made a decision to withdraw from the Non·Proliferation Treaty, and this issue depends on Washington’s behavior, said the Supreme National Security Council Mohsen Rezaei",
+      "title": "China criticizes new US law that tightens sanctions against Russia and Iran",
+      "link": "https://tass.com/world/2190141",
+      "description": "Beijing consistently opposes unilateral sanctions that lack authorization from the UN",
       "date": "Sat, 19 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -313,10 +323,10 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump signs legislation expanding sanctions against Russia — White House",
-      "link": "https://tass.com/world/2189995",
-      "description": "The legislation also extends existing sanctions on Iran",
-      "date": "Fri, 18 Sep 2026",
+      "title": "TASS: Iran ready to return to negotiations if US convinces Tehran of sincerity",
+      "link": "https://tass.com/world/2190137",
+      "description": "The Islamic Republic still considers talks on nuclear issues possible, but only after full implementation of the Islamabad agreement",
+      "date": "Sat, 19 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
