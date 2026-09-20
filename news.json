@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-20 02:11 UTC",
+  "updated": "2026-09-20 08:00 UTC",
   "total": 35,
   "stories": [
+    {
+      "title": "Saudi Arabia says Houthis tried to attack its capital",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "description": "Saudi Arabia on Saturday said that Yemen's Houthi rebels tried to attack Riyadh with a ballistic missile, the first time the Saudi capital has been targeted since the escalation in fighting with the Iran-backed rebels opened a new front in the Iran war.",
+      "date": "Sun, 20 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The new lines of southern Lebanon",
       "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
@@ -133,9 +143,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+      "title": "Morocco’s PJD: what has the party learned from its dramatic fall",
+      "link": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
+      "description": "After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?",
+      "date": "Sun, 20 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-      "description": "Iran security chief says Tehran&#039;s demands include an end to war on all fronts and the lifting of US&#039;s naval blockade.",
+      "description": "Iran security chief says Tehran&#039;s demands include an end to war on all fronts and the lifting of the US naval blockade.",
       "date": "Sun, 20 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -166,26 +186,6 @@
       "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
       "description": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.",
-      "date": "Sat, 19 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-      "link": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
-      "description": "Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.",
-      "date": "Sat, 19 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israel targets paramedics in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
-      "description": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.",
       "date": "Sat, 19 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,6 +253,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. fears rapid escalation in West Asia after Houthis attack Riyadh",
+      "link": "https://www.thehindu.com/news/international/us-fears-rapid-escalation-in-west-asia-after-houthis-attack-riyadh/article71487153.ece",
+      "description": "The Riyadh-led coalition confirmed on September 19, 2026 evening on X that a ballistic missile launched by the Houthis towards the capital was \"successfully intercepted and destroyed\"",
+      "date": "Sun, 20 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with ballistic missile",
       "link": "https://www.thehindu.com/news/international/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486051.ece",
       "description": "The statement by the Saudi-led coalition fighting the Houthis came long after the dawn attempt, which the coalition said was intercepted",
@@ -303,14 +313,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "What are the alternatives to SWIFT, and how are they faring? Explained",
-      "link": "https://www.thehindu.com/news/international/what-are-the-alternatives-to-swift-and-how-are-they-faring-explained/article71483749.ece",
-      "description": "Multiple wars and U.S. weaponisation of the dollar through financial sanctions are making countries in the Global South think of bypassing the so-far universally accepted SWIFT system for inter-country payments",
-      "date": "Sat, 19 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US embassies in Middle East issue security alert for US citizens",
+      "link": "https://tass.com/world/2190213",
+      "description": "The statement linked the alert with hostilities involving Iranian-supported Houthis and warned that the \"military conflict has the potential to escalate rapidly\"",
+      "date": "Sun, 20 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Saudi Arabia repels Houthi missile attack on Riyadh — coalition",
@@ -336,16 +346,6 @@
       "title": "China criticizes new US law that tightens sanctions against Russia and Iran",
       "link": "https://tass.com/world/2190141",
       "description": "Beijing consistently opposes unilateral sanctions that lack authorization from the UN",
-      "date": "Sat, 19 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "TASS: Iran ready to return to negotiations if US convinces Tehran of sincerity",
-      "link": "https://tass.com/world/2190137",
-      "description": "The Islamic Republic still considers talks on nuclear issues possible, but only after full implementation of the Islamabad agreement",
       "date": "Sat, 19 Sep 2026",
       "source": "TASS",
       "region": "ru",
