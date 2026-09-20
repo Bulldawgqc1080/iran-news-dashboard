@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 19:55 UTC",
+  "updated": "2026-09-20 22:01 UTC",
   "total": 34,
   "stories": [
     {
@@ -115,7 +115,7 @@
     {
       "title": "Iran closes French language centre in Tehran for ‘illegal acts’",
       "link": "https://www.france24.com/en/middle-east/20260920-iran-closes-french-language-centre-in-tehran-for-illegal-acts",
-      "description": "Iranian authorities on Sunday shut down the French Language Centre (CLF) in Tehran, alleging the French embassy-linked institute conducted \"illegal acts that violated diplomatic conventions\" and \"abused its status as a language training facility\".",
+      "description": "Iranian authorities on Sunday shut down the French Language Centre (CLF) in Tehran, alleging the French embassy-linked institute conducted \"illegal acts that violated diplomatic conventions\" and \"abused its status as a language training facility\". France has vowed to take \"approp...",
       "date": "Sun, 20 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -143,14 +143,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen's Houthis strike Saudi capital Riyadh for the first time",
-      "link": "https://www.france24.com/en/yemen-s-houthis-strike-saudi-capital-riyadh-for-the-first-time",
-      "description": "Fighting between Iran-backed Houthi rebels and Saudi Arabia continues to intensify. On Saturday morning, a fire broke out near Riyadh's main airport after Houthis said they launched missiles and drones at Saudi Arabia. On the ground in Yemen, Houthi rebels are pushing east in the...",
+      "title": "Qatar PM urges Gulf security framework with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+      "description": "Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.",
       "date": "Sun, 20 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+      "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+      "description": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar&#039;s investment strategy.",
+      "date": "Sun, 20 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Qatar says it is working to revive Iran-US talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
+      "description": "Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.",
+      "date": "Sun, 20 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "How will Saudi Arabia deal with the Houthis?",
@@ -176,26 +196,6 @@
       "title": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
       "link": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
       "description": "Iran has launched a major mobilisation drive, sparking fears of renewed conflict with the US.",
-      "date": "Sun, 20 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran win Asian Games basketball bronze amid emotional scenes",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
-      "description": "Players celebrate podium finish that brings exemption from conscription, saying the pressure was &#039;out of this world&#039;.",
-      "date": "Sun, 20 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
-      "link": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss",
-      "description": "Iran&#039;s cost of living crisis is affecting the dreams and everyday life choices of young Iranians.",
       "date": "Sun, 20 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,6 +263,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran shuts language centre linked to French embassy",
+      "link": "https://www.thehindu.com/news/international/iran-shuts-language-centre-linked-to-french-embassy/article71489087.ece",
+      "description": "Based on the Tehran prosecutor's office, the illegal centre affiliated with the French embassy in Tehran, which has operated for years under the guise of language instruction, was closed, the judiciary's Mizan news website said",
+      "date": "Sun, 20 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "New party emerges as a frontrunner as Israel goes to polls amid Netanyahu’s waning appeal",
       "link": "https://www.thehindu.com/news/international/new-party-emerges-as-a-frontrunner-as-israel-goes-to-polls-amid-netanyahus-waning-appeal/article71488057.ece",
       "description": "Yashar leads in opinion polls as its leader Gadi Eisenkot’s popularity among voters eclipses that of Netanyahu; Eisenkot bats for strategic wars over endless ones and concurs with the PM on matter such as two-state solution and Iran",
@@ -306,16 +316,6 @@
       "title": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with ballistic missile",
       "link": "https://www.thehindu.com/news/international/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486051.ece",
       "description": "The statement by the Saudi-led coalition fighting the Houthis came long after the dawn attempt, which the coalition said was intercepted",
-      "date": "Sat, 19 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. lifts sanctions targeting Eritrea's ruling party and the military",
-      "link": "https://www.thehindu.com/news/international/us-lifts-sanctions-targeting-eritreas-ruling-party-and-the-military/article71484091.ece",
-      "description": "Eritrean Information Minister Yemane Gebremeskel said the sanctions had been unwarranted and caused considerable damage to his country",
       "date": "Sat, 19 Sep 2026",
       "source": "The Hindu",
       "region": "me",
