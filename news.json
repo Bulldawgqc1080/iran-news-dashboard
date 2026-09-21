@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-21 05:37 UTC",
-  "total": 34,
+  "updated": "2026-09-21 11:20 UTC",
+  "total": 32,
   "stories": [
-    {
-      "title": "Saudi Arabia says Houthis tried to attack its capital",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
-      "description": "Saudi Arabia said Yemen's Houthi rebels tried to attack Riyadh with a ballistic missile, the first time its capital has been targeted since the escalation in fighting with the Iran-backed rebels.",
-      "date": "Sun, 20 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "The new lines of southern Lebanon",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
-      "description": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli invasion.",
-      "date": "Sat, 19 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
@@ -36,6 +16,16 @@
       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
       "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
       "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "date": "Thu, 17 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
       "date": "Thu, 17 Sep 2026",
       "source": "BBC",
       "region": "eu",
@@ -113,24 +103,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran closes French language centre in Tehran for ‘illegal acts’",
-      "link": "https://www.france24.com/en/middle-east/20260920-iran-closes-french-language-centre-in-tehran-for-illegal-acts",
-      "description": "Iranian authorities on Sunday shut down the French Language Centre (CLF) in Tehran, alleging the French embassy-linked institute conducted \"illegal acts that violated diplomatic conventions\" and \"abused its status as a language training facility\". France has vowed to take \"approp...",
-      "date": "Sun, 20 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Why is the US trying ‘regime change’ again?",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss",
+      "description": "The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway",
+      "date": "Mon, 21 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
-      "link": "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
-      "description": "The US has warned that fighting between Saudi Arabia and Iran-backed Houthis could rapidly escalate. It comes after a missile attack targeted Riyadh for the first time since the Yemen conflict resumed. The Houthis' lightning offensive seized swathes of Yemeni territory in recent ...",
-      "date": "Sun, 20 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
+      "link": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
+      "description": "The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.",
+      "date": "Mon, 21 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Mystery object spotted hovering over Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
+      "description": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
+      "date": "Mon, 21 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "A simple guide to the Yemen conflict",
+      "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
+      "description": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.",
+      "date": "Mon, 21 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s military says US preparing to resume strikes",
+      "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
+      "description": "Tehran threatens retaliation as Trump weighs military action while Qatar pushes to revive talks.",
+      "date": "Mon, 21 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Trump administration readies sweeping sanctions against ICC, reports say",
@@ -143,9 +163,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+      "title": "Iran war live: Tehran says world will be ‘astonished’ by its new weapons",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
-      "description": "Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation &#039;without limitations&#039;.",
+      "description": "Tehran says it has learnt the US may be planning a new round of strikes, warns of retaliation &#039;without limitations&#039;.",
       "date": "Mon, 21 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -153,54 +173,34 @@
       "bias": "Medium"
     },
     {
-      "title": "France to summon Iran envoy after language centre closure in Tehran",
-      "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
-      "description": "Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.",
-      "date": "Sun, 20 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Chinese President Xi to visit US from Sept 23-25 for talks with Trump",
+      "link": "https://www.dawn.com/news/2031585/chinese-president-xi-to-visit-us-from-sept-23-25-for-talks-with-trump",
+      "description": "China’s President Xi Jinping will visit the United States this week for talks with President Donald Trump, Beijing confirmed on Monday. Xi will be there from September 23 to 25 (Wednesday to Friday), a government statement said. Foreign ministry spokesman Guo Jiakun said the two ...",
+      "date": "Mon, 21 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Qatar PM urges Gulf security framework with Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
-      "description": "Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.",
-      "date": "Sun, 20 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Oil prices slide on hopes of diplomacy in Iran war",
+      "link": "https://www.dawn.com/news/2031581/oil-prices-slide-on-hopes-of-diplomacy-in-iran-war",
+      "description": "Oil prices slid to their ​lowest in more than a week on Monday as investors hoped for diplomatic progress on the US-Israeli war on Iran due to this ‌week’s UN meeting and eyed a partial recovery in shipments from Saudi Arabia despite ongoing attacks by Yemen’s Houthis. Brent crud...",
+      "date": "Mon, 21 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
-      "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
-      "description": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar&#039;s investment strategy.",
-      "date": "Sun, 20 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Pakistan carries out 'calibrated’ airstrikes against terrorist targets in border region with Afghanistan",
+      "link": "https://www.dawn.com/news/2031589/pakistan-carries-out-calibrated-airstrikes-against-terrorist-targets-in-border-region-with-afghanistan",
+      "description": "Pakistan conducted airstrikes on terrorist sites “in the border region with Afghanistan”, killing more than 28 terrorists, the information ministry said on Monday. In a statement, the ministry stressed that the “calibrated” strikes were carried out “against the hideouts and safe ...",
+      "date": "Mon, 21 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Qatar says it is working to revive Iran-US talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
-      "description": "Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.",
-      "date": "Sun, 20 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How will Saudi Arabia deal with the Houthis?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
-      "description": "Yemeni group warns of further attacks on the kingdom.",
-      "date": "Sun, 20 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump mulls next moves on Iran amid ominous warnings",
@@ -233,31 +233,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump lists 25 'top achievements' as midterms loom",
-      "link": "https://www.dawn.com/news/2031142/trump-lists-25-top-achievements-as-midterms-loom",
-      "description": "President Donald Trump claimed he halted all refugee admissions and made English the official language of the United States in a long list of what he called his top achievements, as difficult midterm elections loom. Trump is scrambling to boost his low approval ratings ahead of N...",
-      "date": "Sat, 19 Sep 2026",
-      "source": "Dawn",
+      "title": "EU scrambles for Russia sanctions deal amid France standoff",
+      "link": "https://www.thehindu.com/news/international/eu-scrambles-for-russia-sanctions-deal-amid-france-standoff/article71491116.ece",
+      "description": "All EU countries are required to agree to extend the sanctions — a key part of the bloc’s response to Russia’s war since 2022 — every six months",
+      "date": "Mon, 21 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Dar stresses importance of uninterrupted energy supplies in phone call with Iran's FM Araghchi",
-      "link": "https://www.dawn.com/news/2031124/dar-stresses-importance-of-uninterrupted-energy-supplies-in-phone-call-with-irans-fm-araghchi",
-      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar stressed the importance of “uninterrupted energy supplies” and the “safe and expeditious passage of ships” during a conversation with Iranian Foreign Minister Abbas Araghchi on Saturday, the Foreign Office (FO) said. In a post ...",
-      "date": "Sat, 19 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan calls on Yemen's Houthis to halt ‘provocative acts’ in Red Sea",
-      "link": "https://www.dawn.com/news/2031071/pakistan-calls-on-yemens-houthis-to-halt-provocative-acts-in-red-sea",
-      "description": "https://www.dawn.com/news/2031028",
-      "date": "Sat, 19 Sep 2026",
-      "source": "Dawn",
+      "title": "U.S. issues Iran travel warning, urges Americans to leave country amid rising West Asia tensions",
+      "link": "https://www.thehindu.com/news/international/us-issues-iran-travel-warning-urges-americans-to-leave-country-amid-rising-west-asia-tensions/article71490382.ece",
+      "description": "The U.S. Virtual Embassy in Iran, in a security alert, said the regional security environment remained complex and warned of potential flight cancellations, airspace closures and other travel disruptions",
+      "date": "Mon, 21 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -303,29 +293,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. sanctions on International Criminal Court officials | Explained",
-      "link": "https://www.thehindu.com/news/international/us-sanctions-on-international-criminal-court-officials-explained/article71367867.ece",
-      "description": "U.S. Secretary of State Marco Rubio, announcing the sanctions, said that the ICC has made multiple attempts to assert authority over U.S. nationals and citizens of countries outside the court’s jurisdiction",
-      "date": "Mon, 21 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran shuts language centre linked to French embassy",
-      "link": "https://www.thehindu.com/news/international/iran-shuts-language-centre-linked-to-french-embassy/article71489087.ece",
-      "description": "Based on the Tehran prosecutor's office, the illegal centre affiliated with the French embassy in Tehran, which has operated for years under the guise of language instruction, was closed, the judiciary's Mizan news website said",
-      "date": "Sun, 20 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Dutch businesses cutting ties with ICC for fear of US sanctions — diplomat",
-      "link": "https://tass.com/world/2190391",
-      "description": "According to a diplomatic source, mostly IT companies are behind the move",
+      "title": "Iran to strike new US targets in Middle East with new weapons in case of aggression — IRGC",
+      "link": "https://tass.com/world/2190445",
+      "description": "Hossein Mohebi emphasized that the changes would affect the geography of war, weapons and military equipment used",
       "date": "Mon, 21 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -333,10 +303,20 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran will keep Strait of Hormuz closed until US accepts its terms — parliamentary speaker",
-      "link": "https://tass.com/world/2190249",
-      "description": "Earlier, Secretary of Iran’s Supreme National Security Council Mohsen Rezaei said that Iranian authorities have conveyed their conditions for ending the war to the US through Qatari mediators",
-      "date": "Sun, 20 Sep 2026",
+      "title": "Ship transit through Strait of Hormuz falls threefold over weekend — Reuters",
+      "link": "https://tass.com/world/2190429",
+      "description": "According to the report, only 12 vessels passed through the strait over the past weekend",
+      "date": "Mon, 21 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Dutch businesses cutting ties with ICC for fear of US sanctions — diplomat",
+      "link": "https://tass.com/world/2190391",
+      "description": "According to a diplomatic source, mostly IT companies are behind the move",
+      "date": "Mon, 21 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
