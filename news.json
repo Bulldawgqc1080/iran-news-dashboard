@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21 17:20 UTC",
-  "total": 35,
+  "updated": "2026-09-21 21:20 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -123,9 +123,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Projectile hits tanker as it enters the Strait of Hormuz",
+      "title": "Two tankers hit by 'unknown projectile' or debris in Strait of Hormuz",
       "link": "https://www.france24.com/en/middle-east/20260921-projectile-hits-tanker-as-it-enters-the-strait-of-hormuz",
-      "description": "At least two people were injured when an “unknown projectile” struck a tanker as it entered the Strait of Hormuz, the British military said Monday. The vessel will reportedly continue to its next port of call, and there are no indications of any environmental impact at this time.",
+      "description": "Two tankers were hit in the Strait of Hormuz on Monday by either an \"unknown projectile\" or debris, a maritime security agency said. United Kingdom Maritime Trade Operations added that at least two crew members were injured in the first incident, and both vessels will continue to...",
       "date": "Mon, 21 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
+      "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
+      "description": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
+      "date": "Mon, 21 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
       "link": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss",
       "description": "Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.",
@@ -156,36 +166,6 @@
       "title": "How an economic squeeze is changing everyday life and work for Iranians",
       "link": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
       "description": "Iran’s government is trying to change some work patterns to help save on fuel and energy amid struggles and shortages.",
-      "date": "Mon, 21 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why is the US trying ‘regime change’ again?",
-      "link": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss",
-      "description": "The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway",
-      "date": "Mon, 21 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
-      "link": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
-      "description": "The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.",
-      "date": "Mon, 21 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Mystery object spotted hovering over Tehran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
-      "description": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
       "date": "Mon, 21 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -253,6 +233,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. refuses visas for Iran UN delegation members: state media",
+      "link": "https://www.thehindu.com/news/international/us-refuses-visas-for-iran-un-delegation-members-state-media/article71492961.ece",
+      "description": "\"In an unprecedented hostile move by the U.S. government, U.S. President Donald Trump has denied U.S. visas to certain members of the president's high-level delegation, including members of his communications team,\" says state news agency IRNA",
+      "date": "Mon, 21 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Trump, in call with Yemen President, did not pledge military support against Houthis, say sources",
       "link": "https://www.thehindu.com/news/international/trump-in-call-with-yemen-president-did-not-pledge-military-support-against-houthis-say-sources/article71492048.ece",
       "description": "President Alimi requested ‌U.S. ⁠support for his Saudi-backed ⁠government in its fight against the Houthis, who this month took key ​areas along the ‌Bab al-Mandeb strait in a lightning offensive",
@@ -303,14 +293,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
-      "link": "https://www.thehindu.com/news/international/us-religious-freedom-body-seeks-sanctions-against-rss-no-high-level-meetings-with-its-leaders/article71368052.ece",
-      "description": "The remarks of the religious freedom body’s chief came weeks ahead of RSS Chief Mohan Bhagwat’s visit to the U.S.",
+      "title": "Expert predicts long-term energy crisis for West, names most vulnerable sectors",
+      "link": "https://tass.com/economy/2190775",
+      "description": "According to Vasily Koltashov, attempts to curb oil prices by raising interest rates can only limit price growth at the expense of shrinking Western economies and their manufacturing sectors",
       "date": "Mon, 21 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "ICC did not revoke arrest warrants for Netanyahu and Galant despite US sanctions",
+      "link": "https://tass.com/world/2190761",
+      "description": "According to ICC acting prosecutor Nazhat Shameem Khan, the prosecutor's office is guided by \"the law and the evidence\" and rejects \"any attempt to suggest that we have some other ulterior motive\"",
+      "date": "Mon, 21 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US denies entry to Iranian journalists for UN General Assembly — Iranian MFA",
@@ -326,26 +326,6 @@
       "title": "IN BRIEF: Key takeaways from Finance Minister Siluanov speech at Moscow Financial Forum",
       "link": "https://tass.com/economy/2190715",
       "description": "According to the minister, Russia has built up an immunity to the US \"sanctions from hell\"",
-      "date": "Mon, 21 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US may ‘pluck numbers out of air,’ while Iran publishes truth about dead — Mehr agency",
-      "link": "https://tass.com/society/2190705",
-      "description": "According to the agency's Managing Director Mohammad Mehdi Rahmati, the US can change the figures to suit their own goals",
-      "date": "Mon, 21 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "IN BRIEF: Kremlin spokesman covers NATO’s nature, US sanctions",
-      "link": "https://tass.com/politics/2190703",
-      "description": "According to Dmitry Peskov, Russia has largely adapted to the sanctions and has also found ways to reduce the negative effects of their implementation",
       "date": "Mon, 21 Sep 2026",
       "source": "TASS",
       "region": "ru",
