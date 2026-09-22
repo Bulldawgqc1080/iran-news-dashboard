@@ -1,12 +1,22 @@
 {
-  "updated": "2026-09-22 00:22 UTC",
-  "total": 30,
+  "updated": "2026-09-22 05:34 UTC",
+  "total": 34,
   "stories": [
     {
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
       "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
       "date": "Mon, 21 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+      "date": "Tue, 22 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -93,11 +103,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-      "date": "Tue, 15 Sep 2026",
-      "source": "BBC",
+      "title": "Middle East live: Yemen fighting escalates as Trump heads to UN",
+      "link": "https://www.france24.com/en/middle-east/20260922-middle-east-live-yemen-fighting-escalates-as-trump-heads-to-un",
+      "description": "Saudi airstrikes on Yemen's Red Sea port of Mokha have killed at least six people as Iran-backed Houthis press their offensive. The escalation comes as the US and its allies face growing pressure to protect Saudi Arabia and regional energy infrastructure, while Donald Trump prepa...",
+      "date": "Tue, 22 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "EU fails to agree on lifting sanctions on Russian oligarchs",
+      "link": "https://www.france24.com/en/europe/20260922-eu-fails-to-agree-on-lifting-sanctions-on-russian-oligarchs",
+      "description": "EU countries failed Monday to reach a final deal that would remove Russian billionaires Alisher Usmanov and Mikhail Fridman from the bloc's sanctions list, with diplomats set to resume talks Tuesday.",
+      "date": "Tue, 22 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -113,34 +133,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "France: Government hosts energy meeting amid fuel price tensions",
-      "link": "https://www.france24.com/en/france-government-hosts-energy-meeting-amid-fuel-price-tensions",
-      "description": "The French government is holding urgent meetings today as it looks for ways to tackle rapidly rising fuel prices. Drivers are paying record-high prices for diesel, as the war in Iran disrupts crude oil shipments from the Middle East. But with public discontent growing, the govern...",
-      "date": "Mon, 21 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "title": "Houthis battle for strategic heights in Yemen as thousands more flee homes",
+      "link": "https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss",
+      "description": "Fighting intensifies as US media say Trump called off strikes against Houthis at the last minute on Sunday.",
+      "date": "Tue, 22 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Influencers Jake and Logan Paul visit the Pentagon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss",
+      "description": "Influencers Logan and Jake Paul visited the Pentagon and addressed US troops, praising them for serving the country.",
+      "date": "Tue, 22 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump returns to the UN, what will he say?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+      "description": "Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.",
+      "date": "Tue, 22 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "UK to refuel Saudi jets to help counter Houthi attacks",
+      "link": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
+      "description": "British Prime Minister Andy Burnham says he has agreed to a request for &#039;defensive&#039; air-to-air refuelling of Saudi jets.",
+      "date": "Tue, 22 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss",
+      "description": "The IRGC says the US and Israel \"must accept the region&#039;s freedom from their vile and criminal presence\".",
+      "date": "Tue, 22 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran shows willingness to return to negotiating table",
+      "link": "https://www.dawn.com/news/2031745/iran-shows-willingness-to-return-to-negotiating-table",
+      "description": "• Naqvi meets Pezeshkian, Momeni to ‘discuss mediation process’• Iran ‘grateful’ to Pakistan’s political, military leadership for peace efforts• US refuses visas to some members of Iranian president’s delegation• Second Qatari LNG cargo ship ‘cleared by Iranians’ due today ISLAMA...",
+      "date": "Tue, 22 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
-      "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
-      "description": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
-      "date": "Mon, 21 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Houthis push for control of Yemen’s highlands",
+      "link": "https://www.dawn.com/news/2031722/houthis-push-for-control-of-yemens-highlands",
+      "description": "• Trump speaks with Yemen’s president, doesn’t pledge military support• NYT says US president reversed decision on air strikes on Houthis DUBAI: Houthi fighters were pushing to seize strategic heights in Yemen on Monday to cut off the Red Sea coast from remaining areas held by Sa...",
+      "date": "Tue, 22 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
-      "link": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss",
-      "description": "Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.",
-      "date": "Mon, 21 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Chinese President Xi to visit US from Sept 23-25 for talks with Trump",
@@ -183,21 +243,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthis say targeted 'sensitive sites' in Riyadh, Aramco facilities in Yanbu",
-      "link": "https://www.dawn.com/news/2031137/houthis-say-targeted-sensitive-sites-in-riyadh-aramco-facilities-in-yanbu",
-      "description": "Yemen’s Houthis said on Saturday that they launched strikes targeting “sensitive sites” in Saudi Arabia’s Riyadh and oil facilities in the kingdom’s port city of Yanbu, hours after residents reported blasts in the Saudi capital. This is the first time since Yemen’s long-standing ...",
-      "date": "Sat, 19 Sep 2026",
-      "source": "Dawn",
+      "title": "G7 leaders condemn Houthi strikes on Saudi Arabia",
+      "link": "https://www.thehindu.com/news/international/houthis-must-immediately-cease-strikes-against-saudi-arabia-g7-foreign-ministers/article71494097.ece",
+      "description": "The statement also called on Iran to end its arming of and support for the Houthis",
+      "date": "Tue, 22 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "DPM Dar to arrive ahead of PM Shehbaz’s UNGA visit, hold preliminary consultations",
-      "link": "https://www.dawn.com/news/2031167/dpm-dar-to-arrive-ahead-of-pm-shehbazs-unga-visit-hold-preliminary-consultations",
-      "description": "UNITED NATIONS: Deputy Prime Minister and Foreign Minister Ishaq Dar will arrive in New York on Sunday for preliminary consultations, a day before Prime Minister Shehbaz Sharif arrives to lead the Pakistani delegation to the 81st session of the United Nations General Assembly. Da...",
-      "date": "Sat, 19 Sep 2026",
-      "source": "Dawn",
+      "title": "U.S. fears rapid escalation in West Asia after Houthis attack Riyadh",
+      "link": "https://www.thehindu.com/news/international/us-fears-rapid-escalation-in-west-asia-after-houthis-attack-riyadh/article71487153.ece",
+      "description": "The Riyadh-led coalition confirmed on September 19, 2026 evening on X that a ballistic missile launched by the Houthis towards the capital was \"successfully intercepted and destroyed\"",
+      "date": "Tue, 22 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -236,26 +296,6 @@
       "title": "The Netherlands is bracing for potentially devastating U.S. sanctions against ICC",
       "link": "https://www.thehindu.com/news/international/the-netherlands-is-bracing-for-potentially-devastating-us-sanctions-against-icc/article71491670.ece",
       "description": "The Netherlands is looking at ways to help the court maintain payments to staff and to protected witnesses, and to ensure that security at the detention facility is not disrupted",
-      "date": "Mon, 21 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "EU scrambles for Russia sanctions deal amid France standoff",
-      "link": "https://www.thehindu.com/news/international/eu-scrambles-for-russia-sanctions-deal-amid-france-standoff/article71491116.ece",
-      "description": "All EU countries are required to agree to extend the sanctions — a key part of the bloc’s response to Russia’s war since 2022 — every six months",
-      "date": "Mon, 21 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. issues Iran travel warning, urges Americans to leave country amid rising West Asia tensions",
-      "link": "https://www.thehindu.com/news/international/us-issues-iran-travel-warning-urges-americans-to-leave-country-amid-rising-west-asia-tensions/article71490382.ece",
-      "description": "The U.S. Virtual Embassy in Iran, in a security alert, said the regional security environment remained complex and warned of potential flight cancellations, airspace closures and other travel disruptions",
       "date": "Mon, 21 Sep 2026",
       "source": "The Hindu",
       "region": "me",
