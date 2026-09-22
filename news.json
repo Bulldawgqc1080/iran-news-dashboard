@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22 19:21 UTC",
-  "total": 38,
+  "updated": "2026-09-22 22:29 UTC",
+  "total": 41,
   "stories": [
     {
       "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
@@ -203,9 +203,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+      "link": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "description": "Saudi monarch&#039;s rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.",
+      "date": "Tue, 22 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump: US-Iran meeting at UN was ‘very good’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+      "description": "US President Donald Trump says he had a ‘very good’ three-hour meeting with Iranian officials at the UN.",
+      "date": "Tue, 22 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
       "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
-      "description": "Sheikh Tamim says years of delayed diplomacy led to the US-Israeli war on Iran.",
+      "description": "Sheikh Tamim says years of delayed diplomacy led to the US-Israel war on Iran.",
       "date": "Tue, 22 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -223,39 +243,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says US officials met for three hours with Iranian delegation",
+      "title": "US, Iran hold ‘very good’ talks, Trump says at UN meeting",
       "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
-      "description": "This is a breaking news story.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
-      "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
-      "description": "Turkish leader says UN has been forced into &#039;dysfunction&#039; and was &#039;bleeding out&#039; in Palestine, Lebanon, Sudan.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss",
-      "description": "US President Donald Trump told the UN General Assembly that he has a ‘big decision to make’ on Iran.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
-      "link": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
-      "description": "Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes.",
+      "description": "US President hints at possible deal with Iran, but warns of dire consequences if no agreement is reached.",
       "date": "Tue, 22 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -381,6 +371,46 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US studying tougher Russia sanctions law — Trump",
+      "link": "https://tass.com/economy/2191351",
+      "description": "Donald Trump stressed that \"it's a very severe bill\"",
+      "date": "Tue, 22 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says 'a lot of good thoughts' presented at Iran meeting",
+      "link": "https://tass.com/world/2191345",
+      "description": "The US President said his son-in-law Jared Kushner and Special Envoy Steve Witkoff \"met with the mediators on Iran deal\"",
+      "date": "Tue, 22 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "‘Sanctions from hell’ law not expected to hurt Russian exports",
+      "link": "https://tass.com/economy/2191325",
+      "description": "According to Russian Union of Industrialists and Entrepreneurs President Alexander Shokhin, political support for business projects takes on particular importance under such conditions",
+      "date": "Tue, 22 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "EU decides not to renew sanctions against three individuals, one entity",
+      "link": "https://tass.com/world/2191319",
+      "description": "Three deceased persons have also been removed from the list",
+      "date": "Tue, 22 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
