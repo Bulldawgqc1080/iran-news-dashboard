@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23 01:01 UTC",
+  "updated": "2026-09-23 06:54 UTC",
   "total": 44,
   "stories": [
     {
@@ -21,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+      "description": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+      "date": "Wed, 23 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
@@ -103,20 +113,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-      "date": "Wed, 16 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
-      "date": "Wed, 16 Sep 2026",
+      "title": "Watch: Trump threatens to 'annihilate' Iran if no deal reached",
+      "link": "https://www.bbc.co.uk/news/videos/cmvgydqqlyx9o?at_medium=RSS&at_campaign=rss",
+      "description": "US President Donald Trump presented Iran with a stark choice: reach an agreement or face the rapid “annihilation” of the Islamic Republic.",
+      "date": "Tue, 22 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -203,6 +203,46 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump rallies Latin American allies against drug cartels",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
+      "description": "US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action.",
+      "date": "Wed, 23 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
+      "description": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
+      "date": "Wed, 23 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
+      "link": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss",
+      "description": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
+      "date": "Wed, 23 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss",
+      "description": "Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues.",
+      "date": "Wed, 23 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
       "description": "President Trump says US officials held a &#039;very good&#039; meeting on Tuesday with the Iranian delegation at UN.",
@@ -213,9 +253,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+      "title": "Iran cancels Baghdad, Muscat flights as US aviation sanctions take effect",
       "link": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
-      "description": "Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.",
+      "description": "Iran official says Baghdad and Muscat airports will not accept Iranian flights from midnight on Wednesday.",
       "date": "Tue, 22 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -243,44 +283,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump: US-Iran meeting at UN was ‘very good’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
-      "description": "US President Donald Trump says he had a ‘very good’ three-hour meeting with Iranian officials at the UN.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "Saudi king denounces Houthis in rare rebuke",
+      "link": "https://www.dawn.com/news/2032005/saudi-king-denounces-houthis-in-rare-rebuke",
+      "description": "• Rebels accuse Riyadh of deadly strikes as thousands flee• 154 people reportedly killed in fighting over past two days• G7 calls on Yemeni group to halt military actions, attacks on shipping• UK commits air-to-air refuelling support for Saudis SANAA: The king of Saudi Arabia den...",
+      "date": "Wed, 23 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Qatar’s emir urges diplomacy as Gulf faces ‘dangerous phase’ amid Iran war",
-      "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
-      "description": "Sheikh Tamim says years of delayed diplomacy led to the US-Israel war on Iran.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "West Bank settlements raise ethnic cleansing ‘spectre’: UN chief",
+      "link": "https://www.dawn.com/news/2031979/west-bank-settlements-raise-ethnic-cleansing-spectre-un-chief",
+      "description": "UNITED NATIONS: Expansion of Israeli settlements in the occupied West Bank is damaging the prospect of peace between the Israelis and Palestinians while raising the “spectre of ethnic cleansing,” UN chief Antonio Guterres warned on Tuesday. “Violence, displacement and settlement ...",
+      "date": "Wed, 23 Sep 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
-      "description": "Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US, Iran hold ‘very good’ talks, Trump says at UN meeting",
-      "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
-      "description": "US President hints at possible deal with Iran, but warns of dire consequences if no agreement is reached.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "'Terrific man' Shehbaz gets special mention during Trump's UNGA speech",
@@ -323,21 +343,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Want him to be a great mayor': Trump praises Zohran Mamdani after New York meeting",
-      "link": "https://www.dawn.com/news/2031823/want-him-to-be-a-great-mayor-trump-praises-zohran-mamdani-after-new-york-meeting",
-      "description": "United States President Donald Trump heaped praise Monday onto New York Mayor Zohran Mamdani as the pair set aside their political differences to discuss immigration enforcement and a multi-billion-dollar housing project. Trump, a Republican, heavily criticised Mamdani before he ...",
-      "date": "Tue, 22 Sep 2026",
-      "source": "Dawn",
+      "title": "This year’s El Niño-driven heat could cause nearly half a million more deaths, group says",
+      "link": "https://www.thehindu.com/news/international/this-years-el-nino-driven-heat-could-cause-nearly-half-a-million-more-deaths-group-says/article71498323.ece",
+      "description": "The heaviest toll is expected in poorer countries, already struggling with food insecurity and high energy costs, partly due to climate change and the fallout of the war in Iran, the University of Chicago-based Climate Impact Lab says",
+      "date": "Wed, 23 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran shows willingness to return to negotiating table",
-      "link": "https://www.dawn.com/news/2031745/iran-shows-willingness-to-return-to-negotiating-table",
-      "description": "• Naqvi meets Pezeshkian, Momeni to ‘discuss mediation process’• Iran ‘grateful’ to Pakistan’s political, military leadership for peace efforts• US refuses visas to some members of Iranian president’s delegation• Second Qatari LNG cargo ship ‘cleared by Iranians’ due today ISLAMA...",
-      "date": "Tue, 22 Sep 2026",
-      "source": "Dawn",
+      "title": "Trump says U.S., Iranian officials met, shortly after warning he may 'annihilate' Iran",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-iranian-officials-met-shortly-after-warning-he-may-annihilate-iran/article71498118.ece",
+      "description": "The engagement comes after months of U.S.-Iran communications languishing following the collapse of a short-lived ceasefire that was brokered in June",
+      "date": "Wed, 23 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -383,24 +403,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran President vows to ‘firmly defend’ country's positions at UN",
-      "link": "https://www.thehindu.com/news/international/iran-president-vows-to-firmly-defend-countrys-positions-at-un/article71494470.ece",
-      "description": "Mr. Pezeshkian will be the highest-ranking Iranian official to set foot on American soil since the start of the West Asia war",
-      "date": "Tue, 22 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Witkoff calls consultations with Iran through mediators successful",
+      "link": "https://tass.com/world/2191377",
+      "description": "US Special Envoy noted that the mediators will continue their work",
+      "date": "Wed, 23 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "U.K. to offer Saudi Arabia aerial refuelling to counter Houthi attacks",
-      "link": "https://www.thehindu.com/news/international/uk-to-offer-saudi-arabia-aerial-refuelling-to-counter-houthi-attacks/article71494479.ece",
-      "description": "Britain has condemned the Houthi attacks and said the U.K. will “work with partners to support regional stability, protect civilians and support humanitarian access”.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US must accept new status of Strait of Hormuz for shipping to pass through — Iranian envoy",
+      "link": "https://tass.com/world/2191375",
+      "description": "It will be determined \"precisely by the two countries that possess this strait - Iran and Oman,\" Iranian Ambassador to Russia Kazem Jalali said",
+      "date": "Wed, 23 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "US studying tougher Russia sanctions law — Trump",
@@ -416,26 +436,6 @@
       "title": "Trump says 'a lot of good thoughts' presented at Iran meeting",
       "link": "https://tass.com/world/2191345",
       "description": "The US President said his son-in-law Jared Kushner and Special Envoy Steve Witkoff \"met with the mediators on Iran deal\"",
-      "date": "Tue, 22 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "‘Sanctions from hell’ law not expected to hurt Russian exports",
-      "link": "https://tass.com/economy/2191325",
-      "description": "According to Russian Union of Industrialists and Entrepreneurs President Alexander Shokhin, political support for business projects takes on particular importance under such conditions",
-      "date": "Tue, 22 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "EU decides not to renew sanctions against three individuals, one entity",
-      "link": "https://tass.com/world/2191319",
-      "description": "Three deceased persons have also been removed from the list",
       "date": "Tue, 22 Sep 2026",
       "source": "TASS",
       "region": "ru",
