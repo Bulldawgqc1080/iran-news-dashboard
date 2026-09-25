@@ -1,22 +1,12 @@
 {
-  "updated": "2026-09-25 14:16 UTC",
-  "total": 37,
+  "updated": "2026-09-25 19:00 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "Iran's president says his country has 'no trust' in U.S. in meeting with journalists",
       "link": "https://www.npr.org/2026/09/25/nx-s1-5980398/irans-president-says-his-country-has-no-trust-in-u-s-in-meeting-with-journalists",
       "description": "NPR's Steve Inskeep was part of a small group of journalists who met with an Iranian official on the sidelines of the U.N. General Assembly in New York. He tells Leila Fadel what he learned.",
       "date": "Fri, 25 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
-      "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
-      "description": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
-      "date": "Thu, 24 Sep 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -123,6 +113,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "🔴 Live: Yemen's president calls on his people to mobilise against Iran-backed Houthis",
+      "link": "https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war",
+      "description": "",
+      "date": "Fri, 25 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'Iran has dragged us into this conflict,' top Emirati diplomat Anwar Gargash says",
+      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260925-iran-has-dragged-us-into-this-conflict-top-emirati-diplomat-anwar-gargash-says",
+      "description": "In an interview with FRANCE 24 on the sidelines of the UN General Assembly, Anwar Gargash, senior diplomatic adviser to the UAE president, said Iran \"has dragged us into this conflict\", after the UAE was \"the target of 3,300 missiles and drones\" fired by Iran. After US President ...",
+      "date": "Fri, 25 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Macron says ‘military resources’ to be sent to Saudi Arabia",
+      "link": "https://www.france24.com/en/macron-says-military-resources-to-be-sent-to-saudi-arabia",
+      "description": "Speaking to broadcasters TF1 and France 2, French President Emmanuel Macron on Thursday announced that “military resources” will be sent to protect the Yanbu oil site in Saudi Arabia, integral to maintaining the kingdom’s fuel exports and increasingly threatened by Yemen’s Iran-b...",
+      "date": "Fri, 25 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Each side feels it 'could get a decisive military victory' in Sudan, Trump's Africa envoy says",
       "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260925-each-side-feels-it-could-get-a-decisive-military-victory-in-sudan-trump-s-africa-envoy-says",
       "description": "In an interview with FRANCE 24 on the sidelines of the UN General Assembly, Trump's Africa envoy Massad Boulos said that each side in Sudan feels it \"could get a decisive military victory\". Asked about Western Sahara, he acknowledged there is no \"imminent solution that we can fee...",
@@ -133,84 +153,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Ethiopia: Tigray rebels claim \"full-blown war\"",
-      "link": "https://www.france24.com/en/ethiopia-tigray-rebels-claim-full-blown-war",
-      "description": "The Tigray People's Liberation Front says it is in a \"full-blown war\" with Ethiopia's federal government after seizing key airports and launching attacks into the neighbouring Amhara and Afar regions. The escalation comes days after the TPLF joined six other armed groups in a new...",
+      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+      "link": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
+      "description": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran&#039;s aviation sector.",
       "date": "Fri, 25 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
+      "description": "Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.",
+      "date": "Fri, 25 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanese in Brazil, Brazilian in Lebanon",
+      "link": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
+      "description": "Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.",
+      "date": "Fri, 25 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli shelling continues as Lebanon’s PM demands withdrawal in UN speech",
+      "link": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech?traffic_source=rss",
+      "description": "Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat.",
+      "date": "Fri, 25 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump hails ‘very productive’ talks with China’s Xi Jinping",
+      "link": "https://www.aljazeera.com/news/2026/9/25/trump-hails-very-productive-talks-with-chinas-xi?traffic_source=rss",
+      "description": "Xi says future of China-US ties &#039;bright&#039; after state visit that included discussions about Iran and AI cooperation.",
+      "date": "Fri, 25 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss",
+      "description": "Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’.",
+      "date": "Fri, 25 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Any attempt to divert Pakistan’s water to be treated as act of war, India ‘must make no mistake about it’: PM at UNGA",
+      "link": "https://www.dawn.com/news/2032621/any-attempt-to-divert-pakistans-water-to-be-treated-as-act-of-war-india-must-make-no-mistake-about-it-pm-at-unga",
+      "description": "Prime Minister Shehbaz Sharif reiterated before the United Nation’s General Assembly on Friday that any attempt by India to divert Pakistan’s share of water would be treated as an “act of war”. “Water must never be weaponised. Rivers should nourish nations, not divide them. There...",
+      "date": "Fri, 25 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Donald Trump courts Xi Jinping during high-profile White House visit",
-      "link": "https://www.france24.com/en/donald-trump-courts-xi-jinping-during-high-profile-white-house-visit",
-      "description": "President Donald Trump rolled out an unusually lavish welcome for Chinese President Xi Jinping, praising their personal friendship throughout a White House state dinner and other ceremonial events. While both leaders said they held frank discussions behind closed doors, the visit...",
-      "date": "Fri, 25 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
-      "link": "https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis?traffic_source=rss",
-      "description": "Pakistani and Turkish military chiefs head to Riyadh for urgent talks, but both countries remain cautious on involvement",
-      "date": "Fri, 25 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss",
-      "description": "The US-Israel war on Iran will continue to be a focus as the UNGA enters its fourth day.",
-      "date": "Fri, 25 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
-      "link": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss",
-      "description": "Tehran’s offer comes as high fuel prices put pressure on Trump ahead of the US midterm elections.",
-      "date": "Fri, 25 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss",
-      "description": "The war on Iran is raising the cost of living in Nigeria.",
-      "date": "Fri, 25 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran pitches seven-day roadmap to end conflict with US",
-      "link": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
-      "description": "Tehran seeks rapid implementation failed ceasefire deal, offering to open Hormuz if regional conflicts halted.",
-      "date": "Fri, 25 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Saudi Arabia allies line up support as Houthi attacks mount",
-      "link": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss",
-      "description": "France is sending military to protect key Yanbu oil terminal; Pakistan and Turkiye to hold military talks with Riyadh.",
-      "date": "Fri, 25 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "Delegate walkout, protests greet Netanyahu as he addresses UN General Assembly",
@@ -263,11 +273,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Xi sets red lines for Trump despite lavish White House welcome",
-      "link": "https://www.dawn.com/news/2032298/xi-sets-red-lines-for-trump-despite-lavish-white-house-welcome",
-      "description": "Chinese President Xi Jinping told his US counterpart, Donald Trump, on Thursday that Beijing and Washington must peacefully manage their superpower rivalry, as the US president gave his Chinese counterpart a lavish welcome to the White House. While Trump hailed their “truly great...",
-      "date": "Thu, 24 Sep 2026",
-      "source": "Dawn",
+      "title": "UN Security Council condemns Houthi attacks on Saudi Arabia",
+      "link": "https://www.thehindu.com/news/international/un-security-council-condemns-houthi-attacks-on-saudi-arabia/article71510183.ece",
+      "description": "The council stressed the importance of upholding international law and freedom of navigation",
+      "date": "Fri, 25 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Sri Lanka adopts controversial amendment raising judges' retirement age",
+      "link": "https://www.thehindu.com/news/international/sri-lanka-adopts-controversial-amendment-raising-judges-retirement-age/article71510186.ece",
+      "description": "The amendment raises the retirement age of Supreme Court judges from 65 to 67 years and that of Court of Appeal judges from 63 to 65",
+      "date": "Fri, 25 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran suggests deal to reopen the Strait of Hormuz in seven days",
+      "link": "https://www.thehindu.com/news/international/iran-suggests-deal-to-reopen-the-strait-of-hormuz-in-seven-days/article71510004.ece",
+      "description": "Iran's Foreign Minister Abbas Araghchi, who detailed the proposal in a private gathering on September 24 on the sidelines of the UN General Assembly, suggested that a speedy agreement would help U.S. President Trump ahead of November’s midterm elections",
+      "date": "Fri, 25 Sep 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -301,76 +331,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Iran's President says it is up to U.S. to choose if it wants to end Iran war",
-      "link": "https://www.thehindu.com/news/international/irans-president-says-it-is-up-to-us-to-choose-if-it-wants-to-end-iran-war/article71506919.ece",
-      "description": "But we do not wish to continue. It’s America that must choose whether it wants to end this or not, says Iranian President Masoud Pezeshkian",
-      "date": "Fri, 25 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Yemen says govt. forces repel Houthi push on key Taiz-Aden route",
-      "link": "https://www.thehindu.com/news/international/yemen-says-govt-forces-repel-houthi-push-on-key-taiz-aden-route/article71505498.ece",
-      "description": "The steep, winding mountain pass, known as Hejat al-Abd, is a lifeline for forces fighting on behalf of Yemen’s government, which has been ‌hemmed in by a lightning Houthi advance this month linked to the Iran war",
-      "date": "Thu, 24 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran threatens to expand war to Indian Ocean if U.S. attacks again",
-      "link": "https://www.thehindu.com/news/international/iran-threatens-to-expand-war-to-indian-ocean-if-us-attacks-again/article71503625.ece",
-      "description": "Iran has put forward its conditions for ending the war, including the lifting of sanctions targeting its economy and the unconditional release of its frozen assets abroad",
-      "date": "Thu, 24 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Sanctions on diesel imports need to be lifted — Kremlin",
-      "link": "https://tass.com/politics/2192851",
-      "description": "Only a comprehensive solution is possible in this sphere, Dmitry Peskov emphasized",
-      "date": "Fri, 25 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russia, China, India responsible for keeping energy markets stable — senior diplomat",
-      "link": "https://tass.com/politics/2192791",
-      "description": "Russian Deputy Foreign Minister Andrey Rudenko said that coordinated approaches to international security issues, including the situation around Iran, were reflected in the Bishkek Declaration of the SCO Council of Heads of States",
-      "date": "Fri, 25 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Araghchi, Lavrov discuss Strait of Hormuz, contacts with US — Iranian MFA",
-      "link": "https://tass.com/world/2192789",
-      "description": "Abbas Araghchi emphasized that Iran had already demonstrated serious approach in the diplomatic arena",
-      "date": "Fri, 25 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Kremlin calls EU sanctions on former RT France bureau chief pressure on media",
-      "link": "https://tass.com/politics/2192753",
-      "description": "Brussels claims that Ksenia Fyodorova’s activities constitute \"information manipulation\" and \"undermine democracy\" in the European Union",
-      "date": "Fri, 25 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
