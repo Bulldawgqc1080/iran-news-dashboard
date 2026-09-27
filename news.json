@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-27 19:26 UTC",
-  "total": 35,
+  "updated": "2026-09-27 22:39 UTC",
+  "total": 38,
   "stories": [
+    {
+      "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
+      "description": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran.",
+      "date": "Sun, 27 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
       "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
@@ -83,31 +93,41 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "date": "Thu, 17 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
-      "date": "Thu, 17 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Who are the Houthis and what do they want?",
       "link": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
       "description": "A rapid military advance down Yemen's Red Sea coast has put the spotlight on the Iran-backed group, amid growing concerns about the global energy market.",
       "date": "Thu, 24 Sep 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Watch: Trump threatens to 'annihilate' Iran if no deal reached",
+      "link": "https://www.bbc.co.uk/news/videos/cmvgydqqlyx9o?at_medium=RSS&at_campaign=rss",
+      "description": "US President Donald Trump presented Iran with a stark choice: reach an agreement or face the rapid “annihilation” of the Islamic Republic.",
+      "date": "Tue, 22 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+      "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
+      "description": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
+      "date": "Mon, 21 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+      "link": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+      "description": "US President Donald Trump said on Sunday he expected talks with Iran to resume next week, despite rejecting Tehran’s proposal for a seven-day truce followed by the reopening of the Strait of Hormuz. Trump has raised the possibility of renewed air strikes on Iran, but told Axios h...",
+      "date": "Sun, 27 Sep 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -143,14 +163,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Switzerland votes on country's neutrality",
-      "link": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality",
-      "description": "As other neutral countries such as Austria and Ireland increase defence spending and strengthen ties with NATO, Swiss voters are taking part in a referendum on whether to enshrine a stricter definition of the country’s centuries-old neutrality in the constitution. Switzerland has...",
+      "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "description": "An Israeli Apache helicopter struck a commercial centre near Mayfadoun in Southern Lebanon.",
       "date": "Sun, 27 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+      "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
+      "description": "Cuba&#039;s deputy foreign minister slams US sanctions, labelling them &#039;equivalent to genocide&#039;.",
+      "date": "Sun, 27 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
+      "link": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss",
+      "description": "Israel escalates retaliatory measures as Western sanctions target illegal West Bank settlements.",
+      "date": "Sun, 27 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Why has Trump rejected Iran’s peace proposal?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
+      "description": "The US president has reportedly threatened to resume strikes on Iran.",
+      "date": "Sun, 27 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "‘Iran ready for doomsday war’, FM Araghchi says",
@@ -166,26 +216,6 @@
       "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
       "link": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
       "description": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
-      "date": "Sun, 27 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
-      "link": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
-      "description": "There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.",
-      "date": "Sun, 27 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
-      "link": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
-      "description": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
       "date": "Sun, 27 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -283,16 +313,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Police evacuate homes near U.S. air base in England, detain men on suspected explosives offences",
-      "link": "https://www.thehindu.com/news/international/uk-london-fairford-air-base-bomb-threat/article71515604.ece",
-      "description": "The British government gave authorisation to the ‌U.S. to use RAF Fairford to carry out strikes on Iranian ‌missile ⁠sites that are attacking ships in the Strait of Hormuz.",
-      "date": "Sun, 27 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
       "link": "https://www.thehindu.com/news/international/trump-rejects-iran-proposal-for-deal-to-reopen-hormuz/article71514089.ece",
       "description": "\"They want to make a deal where they open the Strait immediately because they're losing so badly. They want to make a deal and I think that's fine. I like making a deal too,\" the U.S. President said.",
@@ -311,6 +331,26 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran's President says it is up to U.S. to choose if it wants to end Iran war",
+      "link": "https://www.thehindu.com/news/international/irans-president-says-it-is-up-to-us-to-choose-if-it-wants-to-end-iran-war/article71506919.ece",
+      "description": "But we do not wish to continue. It’s America that must choose whether it wants to end this or not, says Iranian President Masoud Pezeshkian",
+      "date": "Sun, 27 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US will seek to contain India as it grows stronger — Russian ambassador",
+      "link": "https://tass.com/politics/2193687",
+      "description": "Denis Alipov clarified that earlier this year, at the Raisina Dialogue, a senior US official publicly said that the US would never allow India to become the next China",
+      "date": "Sun, 27 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump says he is always considering renewed strikes on Iran",
@@ -336,16 +376,6 @@
       "title": "Trump says US to hold more talks with Iran next week",
       "link": "https://tass.com/world/2193661",
       "description": "They want to make a deal, but it is not the deal that I want to make. It is what we would have maybe agreed to a year ago, Trump said",
-      "date": "Sun, 27 Sep 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Araghchi says Iran ready for ‘doomsday war’ against US",
-      "link": "https://tass.com/world/2193649",
-      "description": "We are fully prepared for the war to be resumed. We stand firm in the face of any new aggression, even if it comes to a doomsday war, Araghchi said",
       "date": "Sun, 27 Sep 2026",
       "source": "TASS",
       "region": "ru",
