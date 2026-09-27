@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27 15:56 UTC",
-  "total": 36,
+  "updated": "2026-09-27 19:26 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
@@ -11,6 +11,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "date": "Sun, 27 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
@@ -103,16 +113,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Watch: Trump threatens to 'annihilate' Iran if no deal reached",
-      "link": "https://www.bbc.co.uk/news/videos/cmvgydqqlyx9o?at_medium=RSS&at_campaign=rss",
-      "description": "US President Donald Trump presented Iran with a stark choice: reach an agreement or face the rapid “annihilation” of the Islamic Republic.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "UK: Police arrest 5 on suspicion of preparing a terrorist act",
       "link": "https://www.france24.com/en/uk-police-arrest-5-on-suspicion-of-preparing-a-terrorist-act",
       "description": "British police have evacuated homes near an air force base in Gloucestershire, as army bomb disposal experts examined several vehicles in what authorities described as a major incident. Five men have been arrested on suspicion of preparing a terrorist act and offences under the E...",
@@ -153,6 +153,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "‘Iran ready for doomsday war’, FM Araghchi says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
+      "description": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
+      "date": "Sun, 27 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+      "link": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
+      "description": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
+      "date": "Sun, 27 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
       "link": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
       "description": "There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.",
@@ -166,36 +186,6 @@
       "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
       "link": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
       "description": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
-      "date": "Sun, 27 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Yemen government forces widen attacks against Houthis: What we know",
-      "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
-      "description": "Yemeni government forces claim multiple air and ground operations across Taiz in 24 hours.",
-      "date": "Sun, 27 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Five arrested on ‘terrorism’ charges in UK near base used to strike Iran",
-      "link": "https://www.aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us?traffic_source=rss",
-      "description": "Police evacuated about 85 households and cordoned off the area as bomb disposal experts examined three vehicles.",
-      "date": "Sun, 27 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
-      "description": "Iran is looking for alternatives to export its oil as the US blockades its southern ports.",
       "date": "Sun, 27 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,9 +253,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran stands firm on Hormuz plan after U.S. rejection",
+      "link": "https://www.thehindu.com/news/international/iran-stands-firm-on-hormuz-plan-after-us-rejection/article71517156.ece",
+      "description": "Iran's plan called for a cessation of all hostilities in West Asia, including in Lebanon, according to Foreign Minister Abbas Araghchi, and a return to the conditions in the ceasefire deal that fell apart a few months ago",
+      "date": "Sun, 27 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Seven people killed in strike on market in Yemen, Houthi-run health ministry says",
       "link": "https://www.thehindu.com/news/international/people-killed-in-strike-on-market-in-yemen-houthi-run-health-ministry-says/article71515951.ece",
       "description": "Yemen’s internationally ‌recognised government ​said its forces had targeted a ⁠Houthi military camp and vehicles ‌at the same junction",
+      "date": "Sun, 27 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israeli Minister calls for West Bank war, annexation of Lebanon and Gaza areas",
+      "link": "https://www.thehindu.com/news/international/israeli-minister-calls-for-west-bank-war-annexation-of-lebanon-and-gaza-areas/article71517090.ece",
+      "description": "The \"yellow line\" demarcates the area of Gaza already under Israeli military control after the recent war triggered by Hamas's attack on Israel on October 7, 2023",
       "date": "Sun, 27 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -303,29 +313,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran's President says it is up to U.S. to choose if it wants to end Iran war",
-      "link": "https://www.thehindu.com/news/international/irans-president-says-it-is-up-to-us-to-choose-if-it-wants-to-end-iran-war/article71506919.ece",
-      "description": "But we do not wish to continue. It’s America that must choose whether it wants to end this or not, says Iranian President Masoud Pezeshkian",
-      "date": "Sun, 27 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "China pushes back against U.S. on Iran and Cuba in UN speech",
-      "link": "https://www.thehindu.com/news/international/china-pushes-back-against-us-on-iran-and-cuba-in-un-speech/article71513507.ece",
-      "description": "The comments stood in sharp ⁠contrast to the bonhomie on display earlier this week at the White House, where President Donald Trump feted Chinese leader Xi Jinping with military flyovers and at a lavish ​state dinner",
-      "date": "Sat, 26 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Record amount of oil moved through Strait of Hormuz last night — Trump",
-      "link": "https://tass.com/world/2193625",
-      "description": "He did not specify how much oil had been transported through the strait",
+      "title": "Trump says he is always considering renewed strikes on Iran",
+      "link": "https://tass.com/world/2193667",
+      "description": "Asked in an interview with Axios whether he was considering resuming strikes on Iran, Trump replied: \"Always thinking about it.\"",
       "date": "Sun, 27 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -333,9 +323,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iranian army seizes second US underwater drone in Strait of Hormuz",
-      "link": "https://tass.com/world/2193611",
-      "description": "The Remus 600-class underwater vehicle has been taken as a trophy and is now in the hands of specialists for data extraction",
+      "title": "Trump keeping all options on table on Iran — US envoy to UN",
+      "link": "https://tass.com/world/2193665",
+      "description": "Earlier, Trump said he was always considering renewed strikes on Iran",
       "date": "Sun, 27 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -343,20 +333,20 @@
       "bias": "Very High"
     },
     {
-      "title": "Israeli aircraft launch series of strikes on mountainous areas in southern Lebanon",
-      "link": "https://tass.com/world/2193497",
-      "description": "Intense airstrikes targeted underground shelters, command posts, and depots belonging to the Shiite organization Hezbollah on the heights of Jebel al-Rafi, Rayhan, and Sajoud",
-      "date": "Sat, 26 Sep 2026",
+      "title": "Trump says US to hold more talks with Iran next week",
+      "link": "https://tass.com/world/2193661",
+      "description": "They want to make a deal, but it is not the deal that I want to make. It is what we would have maybe agreed to a year ago, Trump said",
+      "date": "Sun, 27 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "US-Iran Islamabad memorandum is fair deal, worth returning to — Lavrov",
-      "link": "https://tass.com/politics/2193463",
-      "description": "There was also the Islamabad memorandum, which contained specific agreements, he said",
-      "date": "Sat, 26 Sep 2026",
+      "title": "Araghchi says Iran ready for ‘doomsday war’ against US",
+      "link": "https://tass.com/world/2193649",
+      "description": "We are fully prepared for the war to be resumed. We stand firm in the face of any new aggression, even if it comes to a doomsday war, Araghchi said",
+      "date": "Sun, 27 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
