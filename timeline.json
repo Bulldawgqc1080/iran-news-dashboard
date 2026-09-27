@@ -1,18 +1,28 @@
 {
-  "updated": "2026-09-27 00:00 UTC",
-  "total": 11,
+  "updated": "2026-09-27 05:56 UTC",
+  "total": 12,
   "events": [
+    {
+      "date": "2026-09-27",
+      "dateDisplay": "Sep 27, 2026",
+      "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-09-26",
       "dateDisplay": "Sep 26, 2026",
       "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
       "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
       "sources": [
-        "Al Jazeera",
         "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-09-24",
