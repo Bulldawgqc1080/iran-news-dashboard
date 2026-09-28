@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-28 16:11 UTC",
-  "total": 32,
+  "updated": "2026-09-28 22:19 UTC",
+  "total": 37,
   "stories": [
+    {
+      "title": "British men released on bail after suspected terror plot",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
+      "description": "Five British men have been released on bail after being detained near a military base for alleged terror offenses. The British base is used by the U.S. military for strikes on Iran.",
+      "date": "Mon, 28 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
       "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
@@ -13,9 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "5 British suspects arrested, explosives found near U.S.-run air base. Iran denies role",
+      "title": "U.K. examines if Iran or Russia are involved in foiled attack near base used by U.S.",
       "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
-      "description": "Authorities have arrested five British nationals over a suspected attack at a U.S.-operated air force base in England. Iran denied involvement.",
+      "description": "Five men arrested on terror charges near a U.S.-run air force base were released on bail, as detectives investigate lines of inquiry, including whether a foreign state or armed group was involved.",
       "date": "Mon, 28 Sep 2026",
       "source": "NPR News",
       "region": "us",
@@ -37,6 +47,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
       "date": "Sun, 27 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "description": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+      "date": "Mon, 28 Sep 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -123,19 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Who are the Houthis and what do they want?",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
-      "description": "A rapid military advance down Yemen's Red Sea coast has put the spotlight on the Iran-backed group, amid growing concerns about the global energy market.",
-      "date": "Thu, 24 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Five men arrested over suspected bomb plot at UK air base to be released on bail",
-      "link": "https://www.france24.com/en/europe/20260928-five-men-arrested-suspected-bomb-plot-uk-air-base-to-be-released-on-bail-fairford",
-      "description": "British police said Monday that five men arrested on explosives and terror charges near a US-run air base in England will be released on bail but are still under investigation. Counter-terror detectives said they were investigating \"multiple lines of inquiry\", including whether t...",
+      "title": "Trump ‘flips & flops’ with Iran between making a deal and threats to attack in ‘devastating fashion’",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260928-saudis-furious-trump-flips-flops-between-deal-with-iran-and-attacks-in-devastating-fashion",
+      "description": "François Picard is pleased to welcome Barbara Slavin, Distinguished Fellow at the Stimson Center. She describes the US-Iran conflict as a dangerous combination of military escalation, diplomatic ambiguity and political calculation. Slavin sees an absence of true diplomacy: The re...",
       "date": "Mon, 28 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -143,9 +153,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
-      "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
-      "description": "Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.",
+      "title": "As midterms approach, does GOP have a Trump problem?",
+      "link": "https://www.france24.com/en/video/20260928-as-midterms-approach-does-gop-have-a-trump-problem",
+      "description": "The US midterm elections are just five weeks away - and while the US President is not on the ballot, his influence is top of mind for Republicans. Donald Trump's approval ratings have been hitting record lows in recent weeks, and in a sign of the party's concern it has started po...",
+      "date": "Mon, 28 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UK police bail five men held over suspected bomb plot at US-run air base",
+      "link": "https://www.france24.com/en/europe/20260928-five-men-arrested-suspected-bomb-plot-uk-air-base-to-be-released-on-bail-fairford",
+      "description": "British police said Monday that five men arrested on explosives and terror charges near a US-run air base in England were being released on bail but remained under investigation. Counter-terror detectives said they were investigating \"multiple lines of inquiry\", including whether...",
+      "date": "Mon, 28 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "South Sudan calls for sanctions to be lifted at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
+      "description": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted",
       "date": "Mon, 28 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -153,9 +183,29 @@
       "bias": "Medium"
     },
     {
-      "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz?traffic_source=rss",
-      "description": "The continued blockade of the Strait of Hormuz has forced Iraq to look for alternatives to export its oil.",
+      "title": "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
+      "link": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs?traffic_source=rss",
+      "description": "Tehran filed a UN complaint against US sanctions forcing regional cancellations of Iran flights.",
+      "date": "Mon, 28 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump made the right decision to reject Iran’s offer",
+      "link": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
+      "description": "The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point.",
+      "date": "Mon, 28 Sep 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
+      "link": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
+      "description": "Mediators are trying to facilitate more talks, but Washington signals faith in its pressure tactics.",
       "date": "Mon, 28 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -223,6 +273,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran denies link to suspected bomb plot at U.K. airbase used by U.S.",
+      "link": "https://www.thehindu.com/news/international/iran-denies-link-to-suspected-bomb-plot-at-uk-airbase-used-by-us/article71521258.ece",
+      "description": "Tehran's denial, issued via its embassy in London, followed widespread U.K. media reports that police were probing possible Iranian links to the security scare early Sunday at the Royal Air Force (RAF) Fairford base",
+      "date": "Mon, 28 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran supreme leader says U.S. will be forced out of West Asia: state TV",
       "link": "https://www.thehindu.com/news/international/iran-supreme-leader-says-us-will-be-forced-out-of-west-asia-state-tv/article71520917.ece",
       "description": "‘Today, having suffered painful blows at the hands of valiant fighters and the guardians of the Strait of Hormuz, they [the enemies] do not venture beyond the Arabian Sea,’ Mojtaba Khamenei said in the written statement attributed to him",
@@ -273,19 +333,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Seven people killed in strike on market in Yemen, Houthi-run health ministry says",
-      "link": "https://www.thehindu.com/news/international/people-killed-in-strike-on-market-in-yemen-houthi-run-health-ministry-says/article71515951.ece",
-      "description": "Yemen’s internationally ‌recognised government ​said its forces had targeted a ⁠Houthi military camp and vehicles ‌at the same junction",
-      "date": "Sun, 27 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Houthis report nearly 200 vessels passing through Bab al-Mandab in five days",
-      "link": "https://tass.com/world/2194039",
-      "description": "According to the Houthis, 104 ships traveled north and 94 south",
+      "title": "Trump ready to ease Iranian sanctions if progress on nuclear dossier is reached — Axios",
+      "link": "https://tass.com/world/2194233",
+      "description": "Correspondent Barak Ravid specified that the US might unfreeze Iran's immobilized assets",
       "date": "Mon, 28 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -293,9 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iranian foreign minister to meet mediators in US talks — media",
-      "link": "https://tass.com/world/2194015",
-      "description": "According to ISNA, the participants plan to discuss the latest proposals and positions on the current situation",
+      "title": "Iran ready to say it will never develop nuclear weapons, Trump trumpets",
+      "link": "https://tass.com/world/2194217",
+      "description": "The US president added that the Iranian authorities understand the impossibility of obtaining nuclear weapons",
       "date": "Mon, 28 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -303,9 +353,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran will soon clear Arabian Sea of enemy forces, Khamenei vows",
-      "link": "https://tass.com/world/2194009",
-      "description": "Iran’s Supreme Leader noted that in recent years, two seas in the south of Iran \"used to be a theater of operations for enemy forces\"",
+      "title": "Lebanon expects concrete results from agreement with Israel — prime minister",
+      "link": "https://tass.com/world/2194167",
+      "description": "Nawaf Salam believes that setting a clear timeline for the parties to fulfill their obligations would help speed up the reconstruction of damaged infrastructure and create conditions for displaced people to return home",
       "date": "Mon, 28 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -313,9 +363,9 @@
       "bias": "Very High"
     },
     {
-      "title": "EU sanctions Russian officials in connection with Yabloko ban",
-      "link": "https://tass.com/economy/2193999",
-      "description": "The sanctions include a ban on entry into the EU",
+      "title": "Iran agrees to suspend enrichment in exchange for sanctions relief — TV",
+      "link": "https://tass.com/world/2194161",
+      "description": "The Iranian authorities have not yet commented on these reports",
       "date": "Mon, 28 Sep 2026",
       "source": "TASS",
       "region": "ru",
