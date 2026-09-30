@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-30 06:06 UTC",
-  "total": 35,
+  "updated": "2026-09-30 13:07 UTC",
+  "total": 37,
   "stories": [
+    {
+      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+      "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+      "description": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
+      "date": "Wed, 30 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "U.S. military withdraws from Iraq two decades after invasion",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
+      "description": "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence.",
+      "date": "Wed, 30 Sep 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
       "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
@@ -37,16 +57,6 @@
       "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
       "description": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
       "date": "Mon, 28 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
-      "description": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran.",
-      "date": "Sun, 27 Sep 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -113,16 +123,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UK to help refuel Saudi jets countering Houthi attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-      "description": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Who are the Houthis and what do they want?",
       "link": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
       "description": "A rapid military advance down Yemen's Red Sea coast has put the spotlight on the Iran-backed group, amid growing concerns about the global energy market.",
@@ -153,9 +153,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US forces leave Iraq, raising fears of Iran-backed militias amid power vacuum",
-      "link": "https://www.france24.com/en/middle-east/20260930-us-forces-leave-iraq-raising-fears-of-iran-backed-militias-amid-power-vacuum",
-      "description": "US forces are withdrawing from their remaining bases in Iraq on Wednesday, completing a pullout agreed under former president Joe Biden as fears grow over the security vacuum it could leave. Iraqi officials and analysts warn the departure could embolden Iran-backed militias and g...",
+      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+      "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
+      "description": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
+      "date": "Mon, 21 Sep 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Why is the US withdrawing its troops from Iraq?",
+      "link": "https://www.france24.com/en/video/20260930-why-is-the-us-withdrawing-its-troops-from-iraq",
+      "description": "A US-led coalition deployed in Iraq more than a decade ago to fight jihadists concluded its mission on Wednesday, a move celebrated by the country's leaders, but which some fear will embolden pro-Iran armed factions. France 24's Angela Diffley takes a look at the security challen...",
       "date": "Wed, 30 Sep 2026",
       "source": "France 24",
       "region": "eu",
@@ -163,19 +173,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Mystery over UK airbase scare as police find 'quantity of petrol' but no explosives",
-      "link": "https://www.france24.com/en/europe/20260929-mystery-over-uk-airbase-scare-as-police-find-quantity-of-petrol-but-no-explosives",
-      "description": "Britain's counter-terrorism police said ​on Tuesday that no improvised explosive devices had been found as part of an ​investigation ‌into a suspected plot targeting ⁠a British airbase used by US forces to ‌strike Iran, deepening uncertainty over the incident a day after five UK-...",
-      "date": "Tue, 29 Sep 2026",
+      "title": "'Cornell won't, we will': Student journalists 'relentlessly' reporting on university rape",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260930-cornell-won-t-we-will-student-journalists-relentlessly-reporting-on-university-rape",
+      "description": "PRESS REVIEW – Wednesday, September 30: The Cornell University gang rape investigation reopens. But first: students and prisoners protest in Iran \"in a rare show of dissent\". Journalist Evan Gershkovich speaks about his 16 months in a Russian prison. Bonus: what can we do to be l...",
+      "date": "Wed, 30 Sep 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-      "description": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
+      "title": "Medicine prices soar in Iran as US blockade and sanctions hit hard",
+      "link": "https://www.france24.com/en/video/20260930-medicine-prices-soar-in-iran-as-us-blockade-and-sanctions-hit-hard",
+      "description": "Medication prices are soaring in Iran and some treatments have become hard to find, leaving patients and their families scrambling as a US blockade and stepped-up sanctions squeeze the country's pharmaceuticals industry.",
+      "date": "Wed, 30 Sep 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
+      "description": "Crude flows through Hormuz have recovered, but tanker insurance costs and geopolitical risks remain barriers to a return to normality.",
       "date": "Wed, 30 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -183,19 +203,19 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump says he plans to campaign for 32 days before midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-      "description": "US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.",
-      "date": "Tue, 29 Sep 2026",
+      "title": "Pakistan vows to defend Saudi Arabia against Houthis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss",
+      "description": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.",
+      "date": "Wed, 30 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "Ahead of deal on Hormuz, US and Iran ramp up the rhetoric again",
-      "link": "https://www.dawn.com/news/2033667/ahead-of-deal-on-hormuz-us-and-iran-ramp-up-the-rhetoric-again",
-      "description": "• Tehran awaiting formal reply to its proposal to reopen troubled strait; Qatari mediators trying to find common ground• Ghalibaf warns of fresh strikes if provoked; IRGC urges American voters to oppose war• Oil prices fall as Saudi Arabia resumes loading at Yanbu port; US offers...",
+      "title": "Mystery over UK airbase scare as police find petrol not explosives",
+      "link": "https://www.dawn.com/news/2033734/mystery-over-uk-airbase-scare-as-police-find-petrol-not-explosives",
+      "description": "A UK probe into a suspected bomb plot at an airbase used by the United States was mired in confusion, as police said no explosives but a “quantity of petrol” was found in vehicles seized nearby. Police were called to the Royal Air Force Fairford base in southwest England on Sunda...",
       "date": "Wed, 30 Sep 2026",
       "source": "Dawn",
       "region": "me",
@@ -203,9 +223,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US-led coalition ends mission in Iraq",
-      "link": "https://www.dawn.com/news/2033700/us-led-coalition-ends-mission-in-iraq",
-      "description": "After more than a decade, the US-led coalition is ending its mission in Iraq, having helped save the country from militant groups while causing persistent friction. Coalition troops were deployed to Iraq and Syria in 2014 to fight the Islamic State (IS) group, which had seized la...",
+      "title": "Iraq PM hails new era of 'sovereignty' after US-led coalition exit",
+      "link": "https://www.dawn.com/news/2033700/iraq-pm-hails-new-era-of-sovereignty-after-us-led-coalition-exit",
+      "description": "A US-led coalition deployed in Iraq more than a decade ago to fight militants concluded its mission on Wednesday, a move celebrated by the country’s leaders. Coalition troops were deployed to Iraq and Syria in 2014 to fight the Islamic State group, which had seized large swathes ...",
+      "date": "Wed, 30 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "How the US controls Iraq's oil revenues",
+      "link": "https://www.dawn.com/news/2033712/how-the-us-controls-iraqs-oil-revenues",
+      "description": "US forces are set to withdraw on Wednesday from their last bases in Iraq, a departure celebrated as a victory by Iran and its allies, which have deep influence in the country where 4,500 Americans died during more than two decades of war. Still, since its 2003 invasion of Iraq, t...",
       "date": "Wed, 30 Sep 2026",
       "source": "Dawn",
       "region": "me",
@@ -223,6 +253,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Ahead of deal on Hormuz, US and Iran ramp up the rhetoric again",
+      "link": "https://www.dawn.com/news/2033667/ahead-of-deal-on-hormuz-us-and-iran-ramp-up-the-rhetoric-again",
+      "description": "• Tehran awaiting formal reply to its proposal to reopen troubled strait; Qatari mediators trying to find common ground• Ghalibaf warns of fresh strikes if provoked; IRGC urges American voters to oppose war• Oil prices fall as Saudi Arabia resumes loading at Yanbu port; US offers...",
+      "date": "Wed, 30 Sep 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Police say no explosives found in UK airbase probe",
       "link": "https://www.dawn.com/news/2033639/police-say-no-explosives-found-in-uk-airbase-probe",
       "description": "FAIRFORD: A UK probe into a suspected bomb plot at an airbase used by the United States was mired in confusion on Tuesday, after media reported no explosives were detected in vehicles seized nearby. As armed guards maintained a cordon around a nearby village, Washington questione...",
@@ -233,29 +273,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Saudi crown prince, UAE vice president meet in Riyadh: report",
-      "link": "https://www.dawn.com/news/2033552/saudi-crown-prince-uae-vice-president-meet-in-riyadh-report",
-      "description": "Saudi Crown Prince Mohammed bin Salman met UAE Vice President Sheikh Mansour bin Zayed Al Nahyan in Riyadh on Tuesday, Saudi official media reported, months after the two countries fell out over Yemen. The meeting comes as the kingdom reels from weeks of attacks by Yemen’s Houthi...",
-      "date": "Tue, 29 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Morocco names Fatima Ezzahra El Mansouri first woman prime minister",
-      "link": "https://www.dawn.com/news/2033570/morocco-names-fatima-ezzahra-el-mansouri-first-woman-prime-minister",
-      "description": "The king of Morocco on Tuesday named Marrakesh mayor Fatima Ezzahra El Mansouri the country’s first female prime minister, the royal cabinet announced, after her party won last week’s parliamentary elections. Her centre-right Authenticity and Modernity Party (PAM) had dominated t...",
-      "date": "Tue, 29 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. forces exit Iraq after two decades, leaving opening for Iran",
+      "title": "U.S. military says its withdrawal of troops from Iraq complete",
       "link": "https://www.thehindu.com/news/international/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran/article71526553.ece",
-      "description": "While the eventual departure of U.S. forces is broadly popular among Iraqis, those who worry about the strength of the Iran-backed groups fear the withdrawal is premature",
+      "description": "Iran, which says its ultimate aim is to force American forces to leave the entire West Asia, casts the U.S. withdrawal from Iraq as a victory for its “axis of resistance” of allied armed groups across the region",
+      "date": "Wed, 30 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "23 years after invasion, U.S. leaves Iraq; stays in Iran",
+      "link": "https://www.thehindu.com/news/international/23-years-after-invasion-us-leaves-iraq-stays-in-iran/article71527593.ece",
+      "description": "The U.S. invasion of Iraq in 2003 was it’s second target in its ‘war on terror’. But it’s war against Iran now has made it increasingly difficult for the United States to keep a large group of troops in a region that’s turning hostile.",
+      "date": "Wed, 30 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran receives U.S. feedback on seven-day trust-building plan",
+      "link": "https://www.thehindu.com/news/international/iran-receives-us-feedback-on-seven-day-trust-building-plan/article71527525.ece",
+      "description": "Iranian Foreign Minister Abbas Araqchi received the feedback via Qatari mediators in Doha, with the sequencing of steps the main sticking point",
+      "date": "Wed, 30 Sep 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran retaliates after Israeli strikes its nuclear program; 3 killed, several wounded",
+      "link": "https://www.thehindu.com/news/international/iran-retaliates-after-israeli-strikes-its-nuclear-program-3-killed-several-wounded/article69693787.ece",
+      "description": "Iran retaliated by launching drones and later firing waves of ballistic missiles at Israel, where explosions lit the night skies over Jerusalem and Tel Aviv and shook the buildings below",
       "date": "Wed, 30 Sep 2026",
       "source": "The Hindu",
       "region": "me",
@@ -283,39 +333,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran threatens new strikes as it awaits US response to Hormuz plan",
-      "link": "https://www.thehindu.com/news/international/iran-says-no-country-in-the-region-will-be-able-to-export-oil-if-its-exports-stay-blocked/article71523146.ece",
-      "description": "No ⁠regional infrastructure would ‌be safe if Iran had no security, ‌Iran’s parliamentary speaker Mohammad-Bagher Ghalibaf said",
-      "date": "Tue, 29 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S., Iran separately talk with mediators in latest bid to end war",
-      "link": "https://www.thehindu.com/news/international/us-iran-separately-talk-with-mediators-in-latest-bid-to-end-war/article71521582.ece",
-      "description": "Iran’s seven-day plan envisages an end to all hostilities in Iran and Lebanon, the unfreezing of billions of dollars’ ‌worth of Iranian assets, an end to sanctions on Iranian oil and the lifting of the US blockade on Iranian ports.",
-      "date": "Tue, 29 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran denies link to suspected bomb plot at U.K. airbase used by U.S.",
-      "link": "https://www.thehindu.com/news/international/iran-denies-link-to-suspected-bomb-plot-at-uk-airbase-used-by-us/article71521258.ece",
-      "description": "Tehran's denial, issued via its embassy in London, followed widespread U.K. media reports that police were probing possible Iranian links to the security scare early Sunday at the Royal Air Force (RAF) Fairford base",
-      "date": "Mon, 28 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US tightens sanctions against Cuba — Treasury",
-      "link": "https://tass.com/world/2194793",
-      "description": "The US banned all financial transactions with Cuban organizations linked to the law enforcement agencies",
+      "title": "NATO, while using Kiev as proxy, recognizes risks of direct clash with Russia — expert",
+      "link": "https://tass.com/politics/2195117",
+      "description": "Commenting on the prospects for the future world order, Fyodor Voitolovsky said that \"one should not expect leading powers to develop some sort of shared vision of the future\"",
       "date": "Wed, 30 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -323,9 +343,9 @@
       "bias": "Very High"
     },
     {
-      "title": "UR-Iran talks yield no results, hostilities may resume — Axios",
-      "link": "https://tass.com/world/2194785",
-      "description": "US President Donald Trump may order to resume operations after the November midterm elections to Congress, the news portal said",
+      "title": "Europe lost advantage when rejecting Russian gas, Macron says",
+      "link": "https://tass.com/world/2195055",
+      "description": "According to the French leader, Europe is experiencing a new turn of the energy crisis caused by the situation in the Strait of Hormuz, which has confirmed the European countries' dependence on fossil fuels",
       "date": "Wed, 30 Sep 2026",
       "source": "TASS",
       "region": "ru",
@@ -333,20 +353,20 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump believes Iran to decide to surrender at some point",
-      "link": "https://tass.com/world/2194761",
-      "description": "The Us leader also reiterated his confidence that \"Iran will not have a nuclear weapon\"",
-      "date": "Tue, 29 Sep 2026",
+      "title": "Press review: EU may tighten Ukraine aid oversight as US, Iran explore nuclear compromise",
+      "link": "https://tass.com/pressreview/2194873",
+      "description": "Top stories from the Russian press on Wednesday, September 30th",
+      "date": "Wed, 30 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Next session of ICC countries’ Assembly to be held in The Hague instead of New York",
-      "link": "https://tass.com/world/2194739",
-      "description": "The current US administration has already imposed sanctions on the ICC several times",
-      "date": "Tue, 29 Sep 2026",
+      "title": "Iran receives US response to conditions for resuming dialogue — authorities",
+      "link": "https://tass.com/world/2194977",
+      "description": "The US gave a response to Iranian Foreign Minister Abbas Araghchi through intermediaries",
+      "date": "Wed, 30 Sep 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
