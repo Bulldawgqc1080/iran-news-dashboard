@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01 07:57 UTC",
-  "total": 31,
+  "updated": "2026-10-01 15:00 UTC",
+  "total": 27,
   "stories": [
     {
       "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
@@ -33,6 +33,16 @@
       "bias": "Low"
     },
     {
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "description": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
       "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
       "description": "Iran's foreign minister has responded, saying the PM was \"barking up the wrong tree\".",
@@ -63,16 +73,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-      "date": "Sat, 26 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Inside Yemen's front-line city as Houthis battle for control",
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
@@ -93,69 +93,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-      "date": "Mon, 21 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
-      "description": "After contagion in the Arabian Peninsula, should the entire Horn of Africa fear a domino effect? Just as Donald Trump’s decision to invade Iran drew the Saudis back to Yemen: did threats over the Strait of Bab el-Mandeb light the fuse in Ethiopia, where last week, unresolved issu...",
-      "date": "Wed, 30 Sep 2026",
+      "title": "Pink October: Raising awareness about breast cancer",
+      "link": "https://www.france24.com/en/video/20261001-pink-october-raising-awareness-about-breast-cancer",
+      "description": "Breast cancer is the leading cause of cancer-related deaths among women and more than 61,000 cases are diagnosed in France each year. At Paris's Curie Institute, researchers are trying to develop new ways to identify and treat different types of cancers. One trial involves develo...",
+      "date": "Thu, 01 Oct 2026",
       "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "British PM alleges there are 'strong indications' Iran was involved in Fairford airbase incident",
-      "link": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
-      "description": "UK Prime Minister Andy Burnham on Wednesday insisted that there were \"strong indications\" that Tehran was involved in a security incident on Sunday near an airbase in England that the US military uses in its war against Iran. The British government has still not explained the nat...",
-      "date": "Wed, 30 Sep 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "title": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?",
+      "link": "https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss",
+      "description": "UK, US and Israeli officials point to Iranian involvement but remain tight-lipped on details.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "UAE says investigation launched into diverted flydubai flight",
+      "link": "https://www.dawn.com/news/2033952/uae-says-investigation-launched-into-diverted-flydubai-flight",
+      "description": "The United Arab Emirates’ chief prosecutor on Thursday ordered an investigation into the incident aboard flydubai flight FZ1073 from Dubai to Tel Aviv, which made an emergency landing in Saudi Arabia after a reported altercation in the cockpit. The state news agency WAM said the ...",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
-      "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
-      "description": "Andy Burnham says UK has &#039;strong indications&#039; Iran involved in alleged security incident at RAF base used by US.",
+      "title": "‘Why the need for all this drama’: DG ISPR lampoons India's 'neutralised Pakistani terrorist' claims, presents him before media",
+      "link": "https://www.dawn.com/news/2033963/why-the-need-for-all-this-drama-dg-ispr-lampoons-indias-neutralised-pakistani-terrorist-claims-presents-him-before-media",
+      "description": "Inter-Services Public Relations (ISPR) Director General Lt Gen Ahmed Sharif Chaudhry lampooned India’s claims of “neutralising” a “terrorist” allegedly linked to the Pakistani military, presenting the individual during a press conference on Thursday. The press conference came aft...",
       "date": "Thu, 01 Oct 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran parades Shahed drones through capital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
-      "description": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran.",
-      "date": "Thu, 01 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
-      "description": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
-      "date": "Thu, 01 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "UAE prosecutor general orders investigation into diverted flydubai flight",
-      "link": "https://www.dawn.com/news/2033952/uae-prosecutor-general-orders-investigation-into-diverted-flydubai-flight",
-      "description": "The UAE prosecutor general has ordered an investigation into the incident aboard flydubai flight FZ1073 from Dubai to Tel Aviv, which was diverted and landed in Saudi Arabia after an altercation in the cockpit, the state news agency reported on Thursday. The investigation will ex...",
+      "title": "Makkah Defence Alliance aims to 'bolster regional stability', says Saudi crown prince",
+      "link": "https://www.dawn.com/news/2033965/makkah-defence-alliance-aims-to-bolster-regional-stability-says-saudi-crown-prince",
+      "description": "Saudi Crown Prince Mohammed bin Salman on Wednesday said the Makkah Defence Alliance with Turkiye and Pakistan aims to bolster regional stability and shield the region from tensions and conflicts. He made the remarks while delivering the annual royal address on behalf of King Sal...",
       "date": "Thu, 01 Oct 2026",
       "source": "Dawn",
       "region": "me",
@@ -186,26 +166,6 @@
       "title": "Pakistan will be there to defend Saudi Arabia in any conflict: Khawaja Asif",
       "link": "https://www.dawn.com/news/2033772/pakistan-will-be-there-to-defend-saudi-arabia-in-any-conflict-khawaja-asif",
       "description": "Defence Minister Khawaja Asif has said that Pakistan was “there to help” Saudi Arabia in any conflict. “We are there to help Saudi Arabia in any conflict, whether it is coming from the Houthis or a country or any other outfit that threatens Saudi Arabia’s security. We will be the...",
-      "date": "Wed, 30 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Mystery over UK airbase scare as police find petrol not explosives",
-      "link": "https://www.dawn.com/news/2033734/mystery-over-uk-airbase-scare-as-police-find-petrol-not-explosives",
-      "description": "A UK probe into a suspected bomb plot at an airbase used by the United States was mired in confusion, as police said no explosives but a “quantity of petrol” was found in vehicles seized nearby. Police were called to the Royal Air Force Fairford base in southwest England on Sunda...",
-      "date": "Wed, 30 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iraq PM hails new era of 'sovereignty' after US-led coalition exit",
-      "link": "https://www.dawn.com/news/2033700/iraq-pm-hails-new-era-of-sovereignty-after-us-led-coalition-exit",
-      "description": "A US-led coalition deployed in Iraq more than a decade ago to fight militants concluded its mission on Wednesday, a move celebrated by the country’s leaders. Coalition troops were deployed to Iraq and Syria in 2014 to fight the Islamic State group, which had seized large swathes ...",
       "date": "Wed, 30 Sep 2026",
       "source": "Dawn",
       "region": "me",
@@ -273,9 +233,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iranian mission to UN says delegation to UNGA left New York as originally scheduled",
-      "link": "https://tass.com/world/2195375",
-      "description": "Having achieved nothing, the State Department has resorted to propagating baseless and worthless news, Iranian mission to the United Nations said",
+      "title": "Russia maintains open economy despite sanctions — minister",
+      "link": "https://tass.com/economy/2195791",
+      "description": "Commenting on current global trade and economic tensions, Maksim Reshetnikov expressed confidence that common rules of the game are required",
       "date": "Thu, 01 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -283,9 +243,9 @@
       "bias": "Very High"
     },
     {
-      "title": "NATO chief has no idea of Iran’s nuclear program — Russian diplomat",
-      "link": "https://tass.com/world/2195363",
-      "description": "The level of professionalism or the lack of professionalism in the West is a real disaster, Russia’s Permanent Representative to the Vienna-based international organizations Mikhail Ulyanov said",
+      "title": "Pezeshkian states Iran will not avoid dialogue with US",
+      "link": "https://tass.com/world/2195675",
+      "description": "The Iranian president added that the national unity and internal cohesion had only grown stronger",
       "date": "Thu, 01 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -293,9 +253,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Rubio ordered Iranian delegation to UNGA leave US immediately after talks stalled — media",
-      "link": "https://tass.com/world/2195359",
-      "description": "The White House thought that talks with Iran could yield some progress but later it became clear that the talks had reached an impasse",
+      "title": "Trump calls Iran’s potential annihilation ‘possibility’",
+      "link": "https://tass.com/world/2195661",
+      "description": "The US leader claimed that by annihilating Iran, the United States had created \"peace in the world\"",
       "date": "Thu, 01 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -303,10 +263,10 @@
       "bias": "Very High"
     },
     {
-      "title": "125 vessels redirected by US military since resumption of blockade of Iran — CENTCOM",
-      "link": "https://tass.com/world/2195345",
-      "description": "CENTCOM said that the US ensures strict compliance with the restrictions",
-      "date": "Wed, 30 Sep 2026",
+      "title": "UK adds 23 individuals, entities, 8 vessels to Russia sanctions list",
+      "link": "https://tass.com/world/2195583",
+      "description": "Under the restrictions, any assets or bank accounts belonging to the sanctioned individuals and entities in the UK will be frozen, and the listed individuals are subject to a travel ban",
+      "date": "Thu, 01 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
