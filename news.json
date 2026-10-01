@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01 01:39 UTC",
-  "total": 32,
+  "updated": "2026-10-01 07:57 UTC",
+  "total": 31,
   "stories": [
     {
       "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
@@ -73,26 +73,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
-      "description": "The foreign secretary stresses \"the UK's unwavering resolve to combat threats from Iranian-linked groups in UK soil, including attacks on the British Jewish community\".",
-      "date": "Fri, 25 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Inside Yemen's front-line city as Houthis battle for control",
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
@@ -123,16 +103,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Watch: Trump threatens to 'annihilate' Iran if no deal reached",
-      "link": "https://www.bbc.co.uk/news/videos/cmvgydqqlyx9o?at_medium=RSS&at_campaign=rss",
-      "description": "US President Donald Trump presented Iran with a stark choice: reach an agreement or face the rapid “annihilation” of the Islamic Republic.",
-      "date": "Tue, 22 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
       "link": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
       "description": "After contagion in the Arabian Peninsula, should the entire Horn of Africa fear a domino effect? Just as Donald Trump’s decision to invade Iran drew the Saudis back to Yemen: did threats over the Strait of Bab el-Mandeb light the fuse in Ethiopia, where last week, unresolved issu...",
@@ -151,6 +121,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+      "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
+      "description": "Andy Burnham says UK has &#039;strong indications&#039; Iran involved in alleged security incident at RAF base used by US.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Iran parades Shahed drones through capital",
@@ -173,14 +153,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
-      "link": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss",
-      "description": "Crown Prince Mohammed bin Salman says the kingdom &#039;will not hesitate to respond firmly to any threat&#039;.",
-      "date": "Wed, 30 Sep 2026",
-      "source": "Al Jazeera",
+      "title": "UAE prosecutor general orders investigation into diverted flydubai flight",
+      "link": "https://www.dawn.com/news/2033952/uae-prosecutor-general-orders-investigation-into-diverted-flydubai-flight",
+      "description": "The UAE prosecutor general has ordered an investigation into the incident aboard flydubai flight FZ1073 from Dubai to Tel Aviv, which was diverted and landed in Saudi Arabia after an altercation in the cockpit, the state news agency reported on Thursday. The investigation will ex...",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran gets US response as Washington pulls out of Iraq",
+      "link": "https://www.dawn.com/news/2033884/iran-gets-us-response-as-washington-pulls-out-of-iraq",
+      "description": "• Tehran says it looks forward to restoring Islamabad MoU• Official says both sides largely agree on required steps but still disagree about the order in which to take them• US withdrawal from Iraq hailed as historic win• Trump says ‘time to go home’ after ‘victory’ BAGHDAD: The ...",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Polar oceans transformed as warming melts ice habitats",
+      "link": "https://www.dawn.com/news/2033911/polar-oceans-transformed-as-warming-melts-ice-habitats",
+      "description": "PARIS: Climate change is increasingly reshaping the polar oceans, with Arctic waters warming rapidly, sea ice shrinking and wildlife losing habitat at both ends of the planet, an annual report said on Wednesday. The Copernicus Ocean State Report depicts profound changes across th...",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Pakistan will be there to defend Saudi Arabia in any conflict: Khawaja Asif",
@@ -213,40 +213,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How the US controls Iraq's oil revenues",
-      "link": "https://www.dawn.com/news/2033712/how-the-us-controls-iraqs-oil-revenues",
-      "description": "US forces are set to withdraw on Wednesday from their last bases in Iraq, a departure celebrated as a victory by Iran and its allies, which have deep influence in the country where 4,500 Americans died during more than two decades of war. Still, since its 2003 invasion of Iraq, t...",
-      "date": "Wed, 30 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "100 settlers attack West Bank village, drawing rare censure from Netanyahu",
-      "link": "https://www.dawn.com/news/2033633/100-settlers-attack-west-bank-village-drawing-rare-censure-from-netanyahu",
-      "description": "JALUD: More than 100 Israeli settlers attacked a Palestinian village in the occupied West Bank on Tuesday, drawing rare Israeli government condemnation after they injured three members of the security forces. The raid, along with another attack on a different West Bank village on...",
-      "date": "Wed, 30 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Ahead of deal on Hormuz, US and Iran ramp up the rhetoric again",
-      "link": "https://www.dawn.com/news/2033667/ahead-of-deal-on-hormuz-us-and-iran-ramp-up-the-rhetoric-again",
-      "description": "• Tehran awaiting formal reply to its proposal to reopen troubled strait; Qatari mediators trying to find common ground• Ghalibaf warns of fresh strikes if provoked; IRGC urges American voters to oppose war• Oil prices fall as Saudi Arabia resumes loading at Yanbu port; US offers...",
-      "date": "Wed, 30 Sep 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "U.K. PM says 'strong indications' Iran involved in airbase incident",
       "link": "https://www.thehindu.com/news/international/uk-pm-says-strong-indications-iran-involved-in-airbase-incident/article71530409.ece",
       "description": "Mr. Burnham's comments are the first official confirmation from U.K. authorities that Iran may have had a hand in the incident, which saw three white vans appearing to head towards RAF Fairford in the early hours of Sunday.",
-      "date": "Wed, 30 Sep 2026",
+      "date": "Thu, 01 Oct 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -301,6 +271,26 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iranian mission to UN says delegation to UNGA left New York as originally scheduled",
+      "link": "https://tass.com/world/2195375",
+      "description": "Having achieved nothing, the State Department has resorted to propagating baseless and worthless news, Iranian mission to the United Nations said",
+      "date": "Thu, 01 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "NATO chief has no idea of Iran’s nuclear program — Russian diplomat",
+      "link": "https://tass.com/world/2195363",
+      "description": "The level of professionalism or the lack of professionalism in the West is a real disaster, Russia’s Permanent Representative to the Vienna-based international organizations Mikhail Ulyanov said",
+      "date": "Thu, 01 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Rubio ordered Iranian delegation to UNGA leave US immediately after talks stalled — media",
