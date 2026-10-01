@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30 22:41 UTC",
-  "total": 31,
+  "updated": "2026-10-01 01:39 UTC",
+  "total": 32,
   "stories": [
     {
       "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
@@ -27,16 +27,6 @@
       "link": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
       "description": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.",
       "date": "Wed, 30 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
-      "description": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
-      "date": "Tue, 29 Sep 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -163,29 +153,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran parades Shahed drones through capital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+      "description": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "description": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
       "link": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss",
       "description": "Crown Prince Mohammed bin Salman says the kingdom &#039;will not hesitate to respond firmly to any threat&#039;.",
-      "date": "Wed, 30 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Strong indications’ Iran linked to suspected UK airbase plot",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
-      "description": "UK Prime Minister says there are ‘strong indications’ Iran played a part in the suspected RAF Fairford airbase plot.",
-      "date": "Wed, 30 Sep 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
-      "description": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
       "date": "Wed, 30 Sep 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -311,6 +301,26 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Rubio ordered Iranian delegation to UNGA leave US immediately after talks stalled — media",
+      "link": "https://tass.com/world/2195359",
+      "description": "The White House thought that talks with Iran could yield some progress but later it became clear that the talks had reached an impasse",
+      "date": "Thu, 01 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "125 vessels redirected by US military since resumption of blockade of Iran — CENTCOM",
+      "link": "https://tass.com/world/2195345",
+      "description": "CENTCOM said that the US ensures strict compliance with the restrictions",
+      "date": "Wed, 30 Sep 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
