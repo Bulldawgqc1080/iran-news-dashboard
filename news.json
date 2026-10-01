@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-01 15:00 UTC",
-  "total": 27,
+  "updated": "2026-10-01 20:38 UTC",
+  "total": 30,
   "stories": [
+    {
+      "title": "What life under U.S. sanctions looks like for one ICC judge",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+      "description": "Kimberly Prost, a Canadian judge at the International Criminal Court, says U.S. sanctions disrupted her daily life. She is still hearing cases and challenging the sanctions in court.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
       "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
@@ -23,17 +33,7 @@
       "bias": "Low"
     },
     {
-      "title": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
-      "description": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.",
-      "date": "Wed, 30 Sep 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "title": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
       "description": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
       "date": "Thu, 01 Oct 2026",
@@ -63,16 +63,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "date": "Sun, 27 Sep 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Inside Yemen's front-line city as Houthis battle for control",
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
@@ -93,6 +83,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "UK police arrest dual UK-Iranian national over Fairford air base incident",
+      "link": "https://www.france24.com/en/europe/20261001-uk-police-arrest-dual-uk-iranian-national-over-fairford-air-base-incident",
+      "description": "British police on Thursday arrested a British-Iranian dual national in connection with the security incident at the Fairford airbase Wednesday. Five other men initially arrested over the incidence were later released without charge on bail.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Pink October: Raising awareness about breast cancer",
       "link": "https://www.france24.com/en/video/20261001-pink-october-raising-awareness-about-breast-cancer",
       "description": "Breast cancer is the leading cause of cancer-related deaths among women and more than 61,000 cases are diagnosed in France each year. At Paris's Curie Institute, researchers are trying to develop new ways to identify and treat different types of cancers. One trial involves develo...",
@@ -103,14 +103,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?",
-      "link": "https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss",
-      "description": "UK, US and Israeli officials point to Iranian involvement but remain tight-lipped on details.",
+      "title": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
+      "link": "https://www.aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye?traffic_source=rss",
+      "description": "Six sources from Syria, the US and Lebanon told Reuters news agency the reported meeting aimed to calm tensions.",
       "date": "Thu, 01 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "After Red Sea losses, Yemen’s government forces hold the line",
+      "link": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss",
+      "description": "Air strikes and difficult terrain have prevented the Houthis from turning coastal gains into a wider breakthrough.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
+      "link": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss",
+      "description": "At the same time in Yemen, the Saudi-backed government army says it is inflicting heavy losses on the Houthis in Taiz.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "British police arrest UK-Iranian national over airbase incident",
+      "link": "https://www.aljazeera.com/news/2026/10/1/british-police-arrest-uk-iranian-national-over-airbase-incident?traffic_source=rss",
+      "description": "Counter Terrorism police also questioned a UK national, days after five others were arrested and released on bail.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Saudi-led coalition says Houthis attacked power station in Madina",
+      "link": "https://www.dawn.com/news/2034032/saudi-led-coalition-says-houthis-attacked-power-station-in-madina",
+      "description": "The Saudi-led coalition fighting Yemen’s Houthis said on Thursday the group had attacked a power distribution station in Madina this week, putting one transformer out of service but without affecting the electricity network. The coalition said an investigation and examination of ...",
+      "date": "Thu, 01 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "UAE says investigation launched into diverted flydubai flight",
@@ -125,7 +165,7 @@
     {
       "title": "‘Why the need for all this drama’: DG ISPR lampoons India's 'neutralised Pakistani terrorist' claims, presents him before media",
       "link": "https://www.dawn.com/news/2033963/why-the-need-for-all-this-drama-dg-ispr-lampoons-indias-neutralised-pakistani-terrorist-claims-presents-him-before-media",
-      "description": "Inter-Services Public Relations (ISPR) Director General Lt Gen Ahmed Sharif Chaudhry lampooned India’s claims of “neutralising” a “terrorist” allegedly linked to the Pakistani military, presenting the individual during a press conference on Thursday. The press conference came aft...",
+      "description": "Inter-Services Public Relations (ISPR) Director General Lt Gen Ahmed Sharif Chaudhry lampooned India’s claims of “neutralising” a “terrorist” allegedly linked to the Pakistani military, presenting the individual during a press conference on Thursday. The press briefing came after...",
       "date": "Thu, 01 Oct 2026",
       "source": "Dawn",
       "region": "me",
@@ -163,11 +203,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan will be there to defend Saudi Arabia in any conflict: Khawaja Asif",
-      "link": "https://www.dawn.com/news/2033772/pakistan-will-be-there-to-defend-saudi-arabia-in-any-conflict-khawaja-asif",
-      "description": "Defence Minister Khawaja Asif has said that Pakistan was “there to help” Saudi Arabia in any conflict. “We are there to help Saudi Arabia in any conflict, whether it is coming from the Houthis or a country or any other outfit that threatens Saudi Arabia’s security. We will be the...",
-      "date": "Wed, 30 Sep 2026",
-      "source": "Dawn",
+      "title": "Saudi Arabia says flydubai co-pilot who tried to crash Israel-bound jet transferred to UAE; Trump alleges copilot linked to Iran",
+      "link": "https://www.thehindu.com/news/international/flydubai-copilot-iran-links-alleges-trump-netanyahu/article71534583.ece",
+      "description": "Asked if the U.S. would retaliate against Tehran if it was behind the attack, Mr. Trump said, “Oh they'll be hit, very hard, don't worry.”",
+      "date": "Thu, 01 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iraqi PM sets June 30 deadline for pro-Iran factions to disarm",
+      "link": "https://www.thehindu.com/news/international/iraqi-pm-sets-june-30-deadline-for-pro-iran-factions-to-disarm/article71534320.ece",
+      "description": "The Iraqi government believes the withdrawal of coalition forces will deprive the armed factions, many of which are backed by Iran, of the excuse they have used to retain their arsenal.",
+      "date": "Thu, 01 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -213,29 +263,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran receives U.S. feedback on seven-day trust-building plan",
-      "link": "https://www.thehindu.com/news/international/iran-receives-us-feedback-on-seven-day-trust-building-plan/article71527525.ece",
-      "description": "Iranian Foreign Minister Abbas Araqchi received the feedback via Qatari mediators in Doha, with the sequencing of steps the main sticking point",
-      "date": "Wed, 30 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran retaliates after Israeli strikes its nuclear program; 3 killed, several wounded",
-      "link": "https://www.thehindu.com/news/international/iran-retaliates-after-israeli-strikes-its-nuclear-program-3-killed-several-wounded/article69693787.ece",
-      "description": "Iran retaliated by launching drones and later firing waves of ballistic missiles at Israel, where explosions lit the night skies over Jerusalem and Tel Aviv and shook the buildings below",
-      "date": "Wed, 30 Sep 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russia maintains open economy despite sanctions — minister",
-      "link": "https://tass.com/economy/2195791",
-      "description": "Commenting on current global trade and economic tensions, Maksim Reshetnikov expressed confidence that common rules of the game are required",
+      "title": "Western community is trying to lower new Iron Curtain — Putin",
+      "link": "https://tass.com/politics/2196311",
+      "description": "The president said that the \"Iron Curtain\" is being built through sanctions against Russia",
       "date": "Thu, 01 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -243,9 +273,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Pezeshkian states Iran will not avoid dialogue with US",
-      "link": "https://tass.com/world/2195675",
-      "description": "The Iranian president added that the national unity and internal cohesion had only grown stronger",
+      "title": "Sanctions prevent Russian diesel fuel from flowing to global markets",
+      "link": "https://tass.com/economy/2196253",
+      "description": "The head of state assured that Russia has enough diesel fuel",
       "date": "Thu, 01 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -253,9 +283,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump calls Iran’s potential annihilation ‘possibility’",
-      "link": "https://tass.com/world/2195661",
-      "description": "The US leader claimed that by annihilating Iran, the United States had created \"peace in the world\"",
+      "title": "Offer to transfer enriched uranium from Iran to Russia still on the table — Putin",
+      "link": "https://tass.com/politics/2196199",
+      "description": "The Russian president noted that everyone initially agreed",
       "date": "Thu, 01 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -263,9 +293,9 @@
       "bias": "Very High"
     },
     {
-      "title": "UK adds 23 individuals, entities, 8 vessels to Russia sanctions list",
-      "link": "https://tass.com/world/2195583",
-      "description": "Under the restrictions, any assets or bank accounts belonging to the sanctioned individuals and entities in the UK will be frozen, and the listed individuals are subject to a travel ban",
+      "title": "Russia hopes Strait of Hormuz reopens, Iran sanctions lifted — Putin",
+      "link": "https://tass.com/politics/2196179",
+      "description": "The president also stressed that Russia opposes all forms of aggression and favors resolving every issue peacefully",
       "date": "Thu, 01 Oct 2026",
       "source": "TASS",
       "region": "ru",
