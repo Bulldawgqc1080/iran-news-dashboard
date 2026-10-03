@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03 19:34 UTC",
-  "total": 22,
+  "updated": "2026-10-03 22:30 UTC",
+  "total": 24,
   "stories": [
     {
       "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
@@ -63,9 +63,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Loud blasts rock Sanaa as Houthis accuse Saudi forces of pounding Yemeni capital",
+      "title": "Houthis claim strike on oil facilty near Riyadh, accuse Saudi forces of pounding Yemen's capital",
       "link": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
-      "description": "Houthi rebels accused Saudi forces of launching 26 strikes on Sanaa on Saturday after loud explosions rocked the Yemeni capital, which is controlled by the Iran-backed group. In Saudi Arabia, flames and a large plume of smoke were seen rising from a facility belonging to oil gian...",
+      "description": "Houthi rebels accused Saudi forces of launching 26 strikes on Sanaa on Saturday after loud explosions rocked the Yemeni capital. The Iran-backed group said it struck an oil facility south of Riyadh, where flames and a large plume of smoke were seen rising from a plant belonging t...",
       "date": "Sat, 03 Oct 2026",
       "source": "France 24",
       "region": "eu",
@@ -143,6 +143,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Popular Mobilisation Forces | Iraq’s militias within the military",
+      "link": "https://www.thehindu.com/news/international/popular-mobilisation-forces-iraqs-militias-within-the-military/article71541613.ece",
+      "description": "For the Iran-backed Shia armed organisations, which opposed the U.S. occupation of Iraq and frequently clashed with U.S. forces, the September 30 withdrawal of American troops, at a time when Washington wages war on Iran, is a ‘historic victory’",
+      "date": "Sat, 03 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Ethiopia's Tigray rebels abandon regional capital as government advances",
       "link": "https://www.thehindu.com/news/international/ethiopias-tigray-rebels-abandon-regional-capital-as-government-advances/article71541559.ece",
       "description": "Fighting erupted on September 23 in northern Ethiopia as the rebel Tigray People's Liberation Front (TPLF) launched attacks into neighbouring states, raising fears of a return to the devastating 2020-2022 civil war.",
@@ -193,19 +203,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says Iran link possible as flydubai co-pilot is transferred to UAE",
-      "link": "https://www.thehindu.com/videos/trump-says-iran-link-possible-as-flydubai-co-pilot-is-transferred-to-uae/article71536084.ece",
-      "description": "A Flydubai co-pilot accused of attacking the captain on an Israel-bound flight has been transferred from Saudi Arabia to the UAE. U.S. President Donald Trump has also suggested a possible Iran link, while investigations continue.",
-      "date": "Fri, 02 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Yemeni military neutralizes over 1,500 Houthis in past day",
-      "link": "https://tass.com/world/2197063",
-      "description": "The strikes involved combat aircraft, drones, artillery and missile systems, Yemeni Armed Forces Spokesman Col. Majed Al-Nuzaili said",
+      "title": "Trump says Iran abandoned plans to acquire nuclear weapons",
+      "link": "https://tass.com/world/2197223",
+      "description": "The US leader also said that Iran has been defeated",
       "date": "Sat, 03 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -213,9 +213,29 @@
       "bias": "Very High"
     },
     {
-      "title": "US not ready to join Saudi operation against Houthis — media",
-      "link": "https://tass.com/world/2197059",
-      "description": "According to the Axios, the United States has rebuffed a Saudi request to join the operation and conduct airstrikes against Houthi positions for the second time in recent weeks",
+      "title": "Medvedev spells conditions for Ukraine peace, comments on impact from attack on Iran",
+      "link": "https://tass.com/politics/2197219",
+      "description": "Russian Security Council Deputy Chairman Dmitry Medvedev stressed that Ukraine will need to embrace a neutral, non-nuclear status, reject its nationalist policy course and recognize the four new Russian regions to achieve a long-lasting political settlement",
+      "date": "Sat, 03 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russia, Iran attach much importance to cooperation in defense — Medvedev",
+      "link": "https://tass.com/politics/2197213",
+      "description": "Russian Security Council Deputy Chairman Dmitry Medvedev highlighted to the aerospace industry, energy, artificial intelligence, and advanced technology, among other spheres of cooperation between Moscow and Tehran",
+      "date": "Sat, 03 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Medvedev commends relations between Russia, Iran",
+      "link": "https://tass.com/politics/2197211",
+      "description": "The relations between the Islamic Republic of Iran and Russia have reached unprecedented heights, Dmitry Medvedev said",
       "date": "Sat, 03 Oct 2026",
       "source": "TASS",
       "region": "ru",
