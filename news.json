@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04 14:31 UTC",
-  "total": 26,
+  "updated": "2026-10-04 18:26 UTC",
+  "total": 25,
   "stories": [
     {
       "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
@@ -43,7 +43,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen's leader announces counter-offensive as Houthis cut off supply route to besieged city",
+      "title": "Yemen's government declares counter-offensive as Houthis cut vital route to besieged city",
       "link": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
       "description": "The ​leader of ​Yemen's Saudi-backed government announced the beginning of a ​major ‌military ⁠operation against the Iran-backed Houthis ‌on Sunday aimed at ⁠recapturing territory under their control. The announcement came as Houthi forces cut off a vital supply route to the besi...",
       "date": "Sun, 04 Oct 2026",
@@ -61,6 +61,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran tells US: there is ‘no military solution’ to end the war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
+      "description": "Iranian Foreign Minister Abbas Araghchi says the era of “wasting time and dictating demands is over’.",
+      "date": "Sun, 04 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
@@ -83,29 +93,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran says Hormuz to remain closed until US meets conditions",
-      "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-      "description": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.",
-      "date": "Sun, 04 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha",
-      "link": "https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss",
-      "description": "Yemenis trapped in the Red Sea port city speak of deteriorating conditions there.",
-      "date": "Sun, 04 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
       "title": "Yemen leader announces major military operations against Houthis",
       "link": "https://www.dawn.com/news/2034695/yemen-leader-announces-major-military-operations-against-houthis",
-      "description": "The leader of Yemen’s Saudi-backed government announced the beginning of a major military operation against the Houthis on Sunday, aimed at seizing the territory under their control. Regional and western officials had previously told Reuters that Saudi Arabia and its Yemeni allie...",
+      "description": "The leader of Yemen’s government announced the beginning of a major military operation against the Houthis on Sunday, aimed at seizing the territory under their control. Regional and western officials had previously told Reuters that Saudi Arabia and its Yemeni allies were planni...",
       "date": "Sun, 04 Oct 2026",
       "source": "Dawn",
       "region": "me",
@@ -163,6 +153,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Yemen presidency announces military drive to retake all Houthi territory",
+      "link": "https://www.thehindu.com/news/international/yemen-presidency-announces-military-drive-to-retake-all-houthi-territory/article71544431.ece",
+      "description": "I announce today the start of military operations to retake the remaining territories of the republic and extend the authority of the state and its institutions across the entire national territory, says Rashad al-Alimi, the head of Yemen's presidential council",
+      "date": "Sun, 04 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran's Foreign Minister tells U.S. there is no military solution to their conflict",
       "link": "https://www.thehindu.com/news/international/irans-foreign-minister-tells-us-there-is-no-military-solution-to-their-conflict/article71543286.ece",
       "description": "\"If our enemies again choose the path of military confrontation, our response will be stronger than before, and we will defend ourselves with even more force,\" Mr. Araghchi said at a gathering of foreign ambassadors",
@@ -213,49 +213,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran executes man linked to anti-government protests",
-      "link": "https://www.thehindu.com/news/international/iran-executes-man-linked-to-anti-government-protests/article71541461.ece",
-      "description": "Siavash Jamshidi was accused of targeting security personnel during mass demonstrations that peaked in January in which thousands of people were killed.",
-      "date": "Sat, 03 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US doesn’t rule out imposing secondary sanctions on Russia’s trade partners by Oct. 18",
+      "link": "https://tass.com/economy/2197417",
+      "description": "On September 18, Trump signed into law legislation passed by the US Congress to tighten sanctions on Russia",
+      "date": "Sun, 04 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iranian MP says US must choose between Iranian diplomacy and Iranian missiles",
+      "link": "https://tass.com/world/2197407",
+      "description": "According to Rezaei, the Iranian side \"has no other option and no other proposal\" to Washington",
+      "date": "Sun, 04 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Yemeni government announces launch of operation against Houthis",
+      "link": "https://tass.com/world/2197405",
+      "description": "Тhe decision to proceed \"from the stage of preparations to the stage of liberation\" was made after the authorities have exhausted all other options for a peaceful settlement",
+      "date": "Sun, 04 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran to decide on sending uranium to Russia based on national interests — Foreign Ministry",
       "link": "https://tass.com/world/2197369",
       "description": "On October 1, Russian President Vladimir Putin said Moscow’s proposal to transfer enriched uranium from Iran to Russia remained on the table",
-      "date": "Sun, 04 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian Foreign Ministry confirms discussions on possible withdrawal from NPT",
-      "link": "https://tass.com/world/2197267",
-      "description": "Iranian Foreign Ministry Spokesman Esmaeil Baghaei stressed that Iran currently remains a party to the treaty and that the Foreign Ministry would abide by the decision of the competent authorities on the matter",
-      "date": "Sun, 04 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran to reopen Strait of Hormuz within seven days if US accepts proposal",
-      "link": "https://tass.com/world/2197263",
-      "description": "Most importantly, there is the plan presented by the Islamic Republic of Iran this year to resolve the existing disagreements and ongoing conflict between Iran and the United States, Iranian Foreign Minister Abbas Araghchi said",
-      "date": "Sun, 04 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump stresses importance of good relations with leaders of nuclear powers",
-      "link": "https://tass.com/world/2197237",
-      "description": "The US President also noted that \"Iran will never have a nuclear missile\"",
       "date": "Sun, 04 Oct 2026",
       "source": "TASS",
       "region": "ru",
