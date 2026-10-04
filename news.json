@@ -1,22 +1,12 @@
 {
-  "updated": "2026-10-04 02:13 UTC",
-  "total": 25,
+  "updated": "2026-10-04 08:56 UTC",
+  "total": 29,
   "stories": [
     {
       "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
       "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
       "description": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
       "date": "Fri, 02 Oct 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "description": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
-      "date": "Thu, 01 Oct 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -83,9 +73,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
-      "description": "Fighting in Yemen displaces more civilians, as Trump says a decision on Iran is coming.",
+      "title": "Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha",
+      "link": "https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss",
+      "description": "Yemenis trapped in the Red Sea port city speak of deteriorating conditions there.",
       "date": "Sun, 04 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -93,61 +83,121 @@
       "bias": "Medium"
     },
     {
-      "title": "UAE investigators say flydubai co-pilot was planning 'terrorist act'",
-      "link": "https://www.dawn.com/news/2034442/uae-investigators-say-flydubai-co-pilot-was-planning-terrorist-act",
-      "description": "The United Arab Emirates’ attorney general said the co-pilot of a flydubai flight to Israel had planned a “terrorist act” and used the cockpit’s emergency axe to attack the captain, the official UAE news agency WAM reported on Saturday. The news agency quoted Attorney General Ham...",
-      "date": "Sat, 03 Oct 2026",
+      "title": "Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack",
+      "link": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss",
+      "description": "The Saudi-led coalition spokesman says the Yemeni armed group is &#039;attempting to divert attention&#039; from its losses.",
+      "date": "Sun, 04 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+      "description": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb",
+      "date": "Sun, 04 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
+      "description": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
+      "date": "Sun, 04 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+      "link": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
+      "description": "Spokesman for Saudi-led coalition supporting Yemen government says Houthi claims of targeting Riyadh are &#039;misleading&#039;.",
+      "date": "Sun, 04 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Hormuz Strait closed until US meets seven agreed conditions",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+      "description": "Era of &#039;wasting time and dictating demands is over&#039;; US must fulfill MoU, top Iranian negotiator says.",
+      "date": "Sun, 04 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Yemen forces say struck Houthi targets in several areas",
+      "link": "https://www.dawn.com/news/2034695/yemen-forces-say-struck-houthi-targets-in-several-areas",
+      "description": "Yemen’s government forces said Sunday they had struck Houthi targets around the country, deepening the conflict ravaging one of the world’s poorest nations and the wider region. The armed forces launched strikes against the Houthis in the capital Sanaa, the northwestern governora...",
+      "date": "Sun, 04 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "EU agrees to release diesel stocks after US pressure",
-      "link": "https://www.dawn.com/news/2034412/eu-agrees-to-release-diesel-stocks-after-us-pressure",
-      "description": "BRUSSELS: European countries agreed to release diesel stocks on Friday after the White House pressured governments to do so, in a bid to cool surging fuel prices linked to the Iran war. “Europe has just agreed to release a massive amount of their heavily stocked diesel oil. The p...",
-      "date": "Sat, 03 Oct 2026",
+      "title": "Israeli forces help settlers seize olive groves in occupied West Bank",
+      "link": "https://www.dawn.com/news/2034623/israeli-forces-help-settlers-seize-olive-groves-in-occupied-west-bank",
+      "description": "BEITA: Israeli soldiers on Saturday backed settlers who seized Palestinian olive groves at the start of the harvest season, with injuries reported in several places across the occupied West Bank, witnesses and medics said. October is the traditional start of the harvest for Pales...",
+      "date": "Sun, 04 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "'Grave provocation': Pakistan condemns Houthi attack on power facility in Madina",
-      "link": "https://www.dawn.com/news/2034209/grave-provocation-pakistan-condemns-houthi-attack-on-power-facility-in-madina",
-      "description": "Pakistan on Friday strongly condemned an attack by the Houthi militia on the Taibah power distribution station in Madina on Sept 29, describing it as a “grave provocation” and a threat to regional peace and security. In a statement, the Foreign Office (FO) said the attack targete...",
-      "date": "Fri, 02 Oct 2026",
+      "title": "Portugal probes legality of US use of base in Iran war",
+      "link": "https://www.dawn.com/news/2034633/portugal-probes-legality-of-us-use-of-base-in-iran-war",
+      "description": "LISBON: Portuguese prosecutors said on Saturday they had opened a probe into the legality of the centre-right government’s authorisation of the United States’ use of the Lajes Air Base in the Azores during the Iran conflict, following a complaint by an opposition party. A longsta...",
+      "date": "Sun, 04 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Trump calls Iran’s Hormuz offer ‘not enough’",
-      "link": "https://www.dawn.com/news/2034154/trump-calls-irans-hormuz-offer-not-enough",
-      "description": "• US president warns strikes against Tehran could resume after midterms; Washington sanctions Iran’s top carmakers, rail operators• Pezeshkian says his country is open to dialogue; Putin hopes the strait reopens, says Russia’s offer to take enriched uranium still stands PRESIDENT...",
-      "date": "Fri, 02 Oct 2026",
+      "title": "Putin knows war was a mistake but won’t admit it, says ex-Russian PM",
+      "link": "https://www.dawn.com/news/2034631/putin-knows-war-was-a-mistake-but-wont-admit-it-says-ex-russian-pm",
+      "description": "PARIS: Despite growing economic trouble and rising unease among ordinary Russians and the elite, President Vladimir Putin is not ready to negotiate an end to the war in Ukraine, his former prime minister said on Saturday. Speaking to this news agency in an interview, Mikhail Kasy...",
+      "date": "Sun, 04 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Islamabad hints at cautious shift on US sanctions against Iran",
-      "link": "https://www.dawn.com/news/2034164/islamabad-hints-at-cautious-shift-on-us-sanctions-against-iran",
-      "description": "ISLAMABAD: Pakistan on Thursday signalled a cautious shift in its approach to the newly imposed US sanctions on Iran, saying it would adhere to “all applicable sanctions regimes” under international and domestic law, a formulation that goes beyond Islamabad’s earlier emphasis on ...",
-      "date": "Fri, 02 Oct 2026",
+      "title": "Russia warns diplomats to leave Kyiv amid new strikes threat",
+      "link": "https://www.dawn.com/news/2034566/russia-warns-diplomats-to-leave-kyiv-amid-new-strikes-threat",
+      "description": "KYIV: Russia issued a new call on Saturday for diplomats and foreigners to leave Kyiv, warning the Ukrainian capital of new “massive” air attacks hours after striking another major bridge in the city. Moscow has ramped up its pummelling of Kyiv, launching waves of drones at the c...",
+      "date": "Sun, 04 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iraqi PM urges pro-Iran militias to lay down weapons",
-      "link": "https://www.dawn.com/news/2034114/iraqi-pm-urges-pro-iran-militias-to-lay-down-weapons",
-      "description": "BAGHDAD: Iraqi Prime Minister Ali al-Zaidi on Thursday announced June 30 as a new deadline for armed factions to turn over their weapons to the state, following the end of the US-led coalition’s mission in the country. “October 1 is considered a serious beginning to address the i...",
-      "date": "Fri, 02 Oct 2026",
+      "title": "Iran war to end ‘very soon’: Trump",
+      "link": "https://www.dawn.com/news/2034571/iran-war-to-end-very-soon-trump",
+      "description": "• Says there is ‘nobody to deal with’ in Tehran• US senator urges Congress to cut funding for military action• Pentagon study to examine future warfare after operations against Iran• IRGC commander says Iran has technological ‘surprises’ for adversaries• Two oil tankers struck by...",
+      "date": "Sun, 04 Oct 2026",
       "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran says Strait of Hormuz will not reopen until conditions are met, says reports",
+      "link": "https://www.thehindu.com/news/international/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-says-reports/article71543176.ece",
+      "description": "The position of the Islamic Republic of ‌Iran is completely clear and ​firm, says Iran's Parliament Speaker Mohammad ‌Baqer Qalibaf",
+      "date": "Sun, 04 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -203,14 +253,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "World shares mixed after global bond sell-off deepens, ahead of U.S. jobs data",
-      "link": "https://www.thehindu.com/business/markets/world-shares-mixed-after-global-bond-sell-off-deepens-ahead-of-us-jobs-data/article71536631.ece",
-      "description": "Oil prices declined even as the U.S. sent another aircraft carrier and more troops to the West Asia, and as President Donald Trump threatened more possible escalations against Iran.",
-      "date": "Fri, 02 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iran to reopen Strait of Hormuz within seven days if US accepts proposal",
+      "link": "https://tass.com/world/2197263",
+      "description": "Most importantly, there is the plan presented by the Islamic Republic of Iran this year to resolve the existing disagreements and ongoing conflict between Iran and the United States, Iranian Foreign Minister Abbas Araghchi said",
+      "date": "Sun, 04 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump stresses importance of good relations with leaders of nuclear powers",
+      "link": "https://tass.com/world/2197237",
+      "description": "The US President also noted that \"Iran will never have a nuclear missile\"",
+      "date": "Sun, 04 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump says Iran abandoned plans to acquire nuclear weapons",
@@ -225,27 +285,7 @@
     {
       "title": "Medvedev spells conditions for Ukraine peace, comments on impact from attack on Iran",
       "link": "https://tass.com/politics/2197219",
-      "description": "Russian Security Council Deputy Chairman Dmitry Medvedev stressed that Ukraine will need to embrace a neutral, non-nuclear status, reject its nationalist policy course and recognize the four new Russian regions to achieve a long-lasting political settlement",
-      "date": "Sat, 03 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russia, Iran attach much importance to cooperation in defense — Medvedev",
-      "link": "https://tass.com/politics/2197213",
-      "description": "Russian Security Council Deputy Chairman Dmitry Medvedev highlighted to the aerospace industry, energy, artificial intelligence, and advanced technology, among other spheres of cooperation between Moscow and Tehran",
-      "date": "Sat, 03 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Medvedev commends relations between Russia, Iran",
-      "link": "https://tass.com/politics/2197211",
-      "description": "The relations between the Islamic Republic of Iran and Russia have reached unprecedented heights, Dmitry Medvedev said",
+      "description": "Russian Security Council Deputy Chairman Dmitry Medvedev stressed that Ukraine will need to embrace a neutral, non-nuclear status, reject its nationalist policy course and recognize the four new Russian regions",
       "date": "Sat, 03 Oct 2026",
       "source": "TASS",
       "region": "ru",
