@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-05 01:22 UTC",
-  "total": 25,
+  "updated": "2026-10-05 07:51 UTC",
+  "total": 26,
   "stories": [
+    {
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "date": "Sun, 04 Oct 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
     {
       "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
       "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
@@ -63,6 +73,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+      "link": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+      "description": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
+      "date": "Mon, 05 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Yemen gov’t forces commence major combat operation against Houthis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
+      "description": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
+      "date": "Mon, 05 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
       "description": "Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.",
@@ -73,24 +103,44 @@
       "bias": "Medium"
     },
     {
-      "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
-      "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
-      "description": "The abrupt redeployment to the US comes after several &#039;terrorism-related&#039; arrests were made outside RAF Fairford.",
-      "date": "Sun, 04 Oct 2026",
-      "source": "Al Jazeera",
+      "title": "Makkah defence pact meeting to be held today in Riyadh, confirms FO",
+      "link": "https://www.dawn.com/news/2034893/makkah-defence-pact-meeting-to-be-held-today-in-riyadh-confirms-fo",
+      "description": "A meeting of the Makkah Joint Defence Agreement will be held on Monday in Riyadh and will focus on regional developments and ongoing cooperation among the member states, the Foreign Office (FO) confirmed. In a statement on social media platform X, the FO said Pakistan’s delegatio...",
+      "date": "Mon, 05 Oct 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "War on Iran: Is escalation more likely than a deal?",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
-      "description": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
-      "date": "Sun, 04 Oct 2026",
-      "source": "Al Jazeera",
+      "title": "Only ‘just, fair’ talks can end war, Iran tells US",
+      "link": "https://www.dawn.com/news/2034846/only-just-fair-talks-can-end-war-iran-tells-us",
+      "description": "TEHRAN: Iranian Foreign Minister Abbas Araghchi declared on Sunday that there was no military solution to the US’ war against the Islamic Republic and that only negotiations based on “justice and fairness” could end the conflict, as talks between Washington and Tehran appeared to...",
+      "date": "Mon, 05 Oct 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Steep fuel price rise close to midterms forces one-third of US states to cut taxes",
+      "link": "https://www.dawn.com/news/2034838/steep-fuel-price-rise-close-to-midterms-forces-one-third-of-us-states-to-cut-taxes",
+      "description": "WASHINGTON: A steep rise in fuel prices close to the November midterm elections has forced about one-third of US states to cut fuel taxes or ease diesel restrictions, as officials seek to limit the impact of the war with Iran on consumers. With voters already concerned about the ...",
+      "date": "Mon, 05 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran airlines resume flights to Iraqi city",
+      "link": "https://www.dawn.com/news/2034840/iran-airlines-resume-flights-to-iraqi-city",
+      "description": "NAJAF: Iranian airlines resumed flights to Iraq’s Najaf on Sunday after the United States granted Baghdad an exemption allowing sanctioned Iranian carriers to operate to the city, a correspondent said. Najaf airport official Hussein Muhanna said that “flights between Iraq and the...",
+      "date": "Mon, 05 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Yemen presidency announces military drive to retake all territory seized by Houthis",
@@ -113,41 +163,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Portugal probes legality of US use of base in Iran war",
-      "link": "https://www.dawn.com/news/2034633/portugal-probes-legality-of-us-use-of-base-in-iran-war",
-      "description": "LISBON: Portuguese prosecutors said on Saturday they had opened a probe into the legality of the centre-right government’s authorisation of the United States’ use of the Lajes Air Base in the Azores during the Iran conflict, following a complaint by an opposition party. A longsta...",
-      "date": "Sun, 04 Oct 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Putin knows war was a mistake but won’t admit it, says ex-Russian PM",
-      "link": "https://www.dawn.com/news/2034631/putin-knows-war-was-a-mistake-but-wont-admit-it-says-ex-russian-pm",
-      "description": "PARIS: Despite growing economic trouble and rising unease among ordinary Russians and the elite, President Vladimir Putin is not ready to negotiate an end to the war in Ukraine, his former prime minister said on Saturday. Speaking to this news agency in an interview, Mikhail Kasy...",
-      "date": "Sun, 04 Oct 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russia warns diplomats to leave Kyiv amid new strikes threat",
-      "link": "https://www.dawn.com/news/2034566/russia-warns-diplomats-to-leave-kyiv-amid-new-strikes-threat",
-      "description": "KYIV: Russia issued a new call on Saturday for diplomats and foreigners to leave Kyiv, warning the Ukrainian capital of new “massive” air attacks hours after striking another major bridge in the city. Moscow has ramped up its pummelling of Kyiv, launching waves of drones at the c...",
-      "date": "Sun, 04 Oct 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war to end ‘very soon’: Trump",
-      "link": "https://www.dawn.com/news/2034571/iran-war-to-end-very-soon-trump",
-      "description": "• Says there is ‘nobody to deal with’ in Tehran• US senator urges Congress to cut funding for military action• Pentagon study to examine future warfare after operations against Iran• IRGC commander says Iran has technological ‘surprises’ for adversaries• Two oil tankers struck by...",
-      "date": "Sun, 04 Oct 2026",
-      "source": "Dawn",
+      "title": "West Asian crude oil exports exceed pre-war levels but tanker attacks increase",
+      "link": "https://www.thehindu.com/news/international/west-asian-crude-oil-exports-exceed-pre-war-levels-but-tanker-attacks-increase/article71545667.ece",
+      "description": "Exports averaged 18 million bpd between March 2025 and February this year before the U.S.-Israeli war with Iran began",
+      "date": "Mon, 05 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -197,16 +217,6 @@
       "link": "https://www.thehindu.com/news/international/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-says-reports/article71543176.ece",
       "description": "The position of the Islamic Republic of ‌Iran is completely clear and ​firm, says Iran's Parliament Speaker Mohammad ‌Baqer Qalibaf",
       "date": "Sun, 04 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Yemen’s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
-      "link": "https://www.thehindu.com/news/international/yemen-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones/article71541954.ece",
-      "description": "The ⁠reported attack comes amid escalating hostilities between Saudi Arabia and ‌the Houthis, who have stepped up attacks on Saudi cities and energy infrastructure",
-      "date": "Sat, 03 Oct 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
