@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09 00:46 UTC",
-  "total": 32,
+  "updated": "2026-10-09 06:55 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
@@ -93,6 +93,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Families reunited as USS Lincoln returns from troubled 10-month deployment",
+      "link": "https://www.france24.com/en/americas/20261009-families-reunited-as-uss-lincoln-comes-home-after-troubled-gulf-deployment",
+      "description": "The USS Lincoln docked in California on Thursday ending a record deployment of 265 days of uninterrupted time at sea marked by reports of deteriorating conditions onboard. Crew members were reunited with family they had not seen in nearly a year after their mission was prolonged ...",
+      "date": "Fri, 09 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "OpenAI bans Russian, Iranian ChatGPT propaganda networks",
       "link": "https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks",
       "description": "OpenAI said Thursday it shut down Russian and Iranian influence operations that used ChatGPT to create fake journalist personas and support a purported think tank spreading anti-Ukraine propaganda. The Iranian operation involved seven profiles posing as Western journalists to pla...",
@@ -113,7 +123,47 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+      "title": "Trump says US will not strike Iran before midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+      "description": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How October 7 changed Lebanon and Hezbollah’s political reality",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
+      "description": "Analysts say Hezbollah&#039;s decision on October 8 to join a &#039;war of support&#039; for Gaza changed Lebanon&#039;s political reality.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+      "link": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
+      "description": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+      "description": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: IRGC says it targets ‘violating’ ships nightly in Hormuz",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
       "description": "Iranian media reported massive explosions in the southern Strait of Hormuz, with Fars citing unnamed military sources.",
       "date": "Fri, 09 Oct 2026",
@@ -143,80 +193,60 @@
       "bias": "Medium"
     },
     {
-      "title": "What is the Mecca defence pact?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
-      "description": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
-      "date": "Thu, 08 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
-      "link": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
-      "description": "The damage, documented in a Congressional Budget Office report, comes as Trump faces criticism over war&#039;s cost.",
-      "date": "Thu, 08 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Turkiye's FM Fidan says Istanbul assessing aid to Saudi Arabia as part of Makkah agreement",
-      "link": "https://www.dawn.com/news/2035679/turkiyes-fm-fidan-says-istanbul-assessing-aid-to-saudi-arabia-as-part-of-makkah-agreement",
-      "description": "Turkiye is assessing how it can help Saudi Arabia counter attacks from Yemen’s Houthis under the Makkah defence pact signed between Islamabad, Riyadh and Istanbul, Turkish Foreign Minister Hakan Fidan said on Thursday. The defence pact, signed on Aug 7, aims to strengthen collect...",
-      "date": "Thu, 08 Oct 2026",
+      "title": "PM Shehbaz condemns fresh Houthi attacks on Saudi Arabia, reiterates commitment to kingdom's security under Makkah pact",
+      "link": "https://www.dawn.com/news/2035878/pm-shehbaz-condemns-fresh-houthi-attacks-on-saudi-arabia-reiterates-commitment-to-kingdoms-security-under-makkah-pact",
+      "description": "Prime Minister Shehbaz Sharif on Friday condemned recent Houthi attacks on Saudi Arabia, reiterating Pakistan’s commitment to the Gulf state’s “sovereignty, territorial integrity and security” under the Makkah Defence Alliance. The defence pact, of which Turkiye is also a part, w...",
+      "date": "Fri, 09 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "No stipulation in Makkah pact bars 'direct involvement' in case of threat to a member: Asif",
-      "link": "https://www.dawn.com/news/2035730/no-stipulation-in-makkah-pact-bars-direct-involvement-in-case-of-threat-to-a-member-asif",
-      "description": "Defence Minister Khawaja Asif said on Thursday that no stipulation of the Makkah Defence Alliance barred the member states from getting “directly involved” in case of a threat to one of the members. He said this during ARY News programme ‘Khabar Muhammad Malick Ke Saath’ after he...",
-      "date": "Thu, 08 Oct 2026",
+      "title": "US to livestream army firing squad execution of Fort Hood shooter, Pentagon says",
+      "link": "https://www.dawn.com/news/2035879/us-to-livestream-army-firing-squad-execution-of-fort-hood-shooter-pentagon-says",
+      "description": "The US will livestream the army’s upcoming firing squad execution of a gunman who killed 13 people at the Fort Hood military base in 2009, the Pentagon said, in what would be an unprecedented broadcast of a US execution. Nidal Hasan, a former army psychiatrist, is set to become t...",
+      "date": "Fri, 09 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "'Fake and fabricated': Info ministry rejects NYT report claiming PAF jets being used against Yemen's Houthis",
-      "link": "https://www.dawn.com/news/2035695/fake-and-fabricated-info-ministry-rejects-nyt-report-claiming-paf-jets-being-used-against-yemens-houthis",
-      "description": "The Ministry of Information dismissed on Thursday a news report claiming that Pakistan Air Force (PAF) aircraft were being used against the Yemen’s Houthis as “fake and fabricated”. A New York Times report published on Oct 7, a screenshot of which the ministry shared in an X post...",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Saudis reel from attacks as allies debate ‘involvement’",
+      "link": "https://www.dawn.com/news/2035797/saudis-reel-from-attacks-as-allies-debate-involvement",
+      "description": "• Houthis fire missiles at Riyadh airport, airbases; kindergarten, clinic complex damaged by debris• Lufthansa, Air India suspend flights to Saudi capital; half of all departures cancelled• Nothing in Makkah pact bars members from joining Yemen fight, says Kh Asif• Ankara calls a...",
+      "date": "Fri, 09 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Israel drastically reduces British diplomatic presence in Jerusalem, announces closure of consulate",
-      "link": "https://www.dawn.com/news/2035697/israel-drastically-reduces-british-diplomatic-presence-in-jerusalem-announces-closure-of-consulate",
-      "description": "Israel said the British consulate in Jerusalem ended its functions on Thursday but that seven diplomats would be allowed to remain in a limited capacity, with the United Kingdom saying it would continue to offer “vital services”. The move comes after Israel ordered the closure of...",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Iran weighs US response as Trump rules out attack before midterms",
+      "link": "https://www.dawn.com/news/2035790/iran-weighs-us-response-as-trump-rules-out-attack-before-midterms",
+      "description": "• Araghchi says Tehran can reply to proposal within days; Iranian atomic chief vows not to give up enrichment• Centcom terms Hormuz closure claims ‘false’ TEHRAN: Iran announced on Thursday that it was still reviewing Washington’s response to a proposal under which the Strait of ...",
+      "date": "Fri, 09 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Bahrain working to 'speed up' approval of Pak-GCC free trade pact, foreign minister says",
-      "link": "https://www.dawn.com/news/2035648/bahrain-working-to-speed-up-approval-of-pak-gcc-free-trade-pact-foreign-minister-says",
-      "description": "Bahrain on Thursday said it was working to “speed up” the approval of a free trade agreement between Pakistan and the Gulf Cooperation Council (GCC). The remarks came after the two countries held the third session of their Joint Ministerial Commission (JMC) in Islamabad. Bahrain’...",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Britain’s presence ends in Jerusalem",
+      "link": "https://www.dawn.com/news/2035810/britains-presence-ends-in-jerusalem",
+      "description": "JERUSALEM: Britain and Israel announced on Thursday that the nearly 200-year-old British diplomatic mission in East Jerusalem will stay open on a smaller scale and with a new name, in a compromise after Israel ordered the consulate shut in a sanctions dispute. Israeli Foreign Min...",
+      "date": "Fri, 09 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Western civilisation is ‘at an inflection point’, says Rubio",
-      "link": "https://www.dawn.com/news/2035591/western-civilisation-is-at-an-inflection-point-says-rubio",
-      "description": "ATHENS: Western civilisation is at a crossroads as it faces multiple threats, US Secretary of State Marco Rubio said in Athens on Wednesday, calling for a rebuilding of alliances and for Europe to “awaken from its long slumber”. “We are at an inflection point... not only in the h...",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Trump says comment on LA was misinterpreted",
+      "link": "https://www.dawn.com/news/2035809/trump-says-comment-on-la-was-misinterpreted",
+      "description": "WASHINGTON: US President Donald Trump on Thursday said comments he made that Iran could “take out” California cities had been misinterpreted and that he was instead referring to the need for people to tolerate higher gas prices. Trump made the remarks at a political rally in Nebr...",
+      "date": "Fri, 09 Oct 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -283,6 +313,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Pentagon prepares to resume military action against Iran — NYT",
+      "link": "https://tass.com/world/2199629",
+      "description": "According to the newspaper, the Pentagon is also drafting plans of striking missile and drone storage facilities in Iran",
+      "date": "Fri, 09 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Kremlin sees importance of Iran’s participation in CIS Plus format — spokesman",
+      "link": "https://tass.com/politics/2199619",
+      "description": "Russian President Vladimir Putin met with Iranian President Masoud Pezeshkian on Thursday, during his visit to Turkmenistan",
+      "date": "Fri, 09 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Two drones attack Iranian opposition sites in Iraqi Kurdistan — TV",
       "link": "https://tass.com/world/2199617",
       "description": "No information about deaths or casualties is available at this point",
@@ -297,26 +347,6 @@
       "link": "https://tass.com/world/2199615",
       "description": "Masoud Pezeshkian emphasized that Vladimir Putin always opposes unilateralism, and Iran values this approach",
       "date": "Fri, 09 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Putin, Pezeshkian decided to meet earlier, because scheduling permitted — spokesman",
-      "link": "https://tass.com/politics/2199613",
-      "description": "The Russian leader will take part in the Council of Heads of State of the Commonwealth of Independent States, and in the Caspian Environmental Summit, to be attended by leaders of all the five Caspian littoral states",
-      "date": "Fri, 09 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Several tankers strike naval mines in Strait of Hormuz — Fars",
-      "link": "https://tass.com/emergencies/2199601",
-      "description": "The precise number of affected vessels in unknown, and there have been no reports of potential casualties",
-      "date": "Thu, 08 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
