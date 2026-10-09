@@ -1,18 +1,19 @@
 {
-  "updated": "2026-10-09 06:55 UTC",
-  "total": 9,
+  "updated": "2026-10-09 13:57 UTC",
+  "total": 8,
   "events": [
     {
       "date": "2026-10-09",
       "dateDisplay": "Oct 09, 2026",
-      "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
       "sources": [
         "Al Jazeera",
-        "NPR News"
+        "France 24",
+        "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 3,
+      "type": "fact"
     },
     {
       "date": "2026-10-08",
@@ -20,8 +21,8 @@
       "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
       "link": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
       "sources": [
-        "BBC",
-        "NPR News"
+        "NPR News",
+        "BBC"
       ],
       "sourceCount": 2,
       "type": "govt"
@@ -31,17 +32,6 @@
       "dateDisplay": "Oct 06, 2026",
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
       "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        "BBC"
-      ],
-      "sourceCount": 1,
-      "type": "framing"
-    },
-    {
-      "date": "2026-10-04",
-      "dateDisplay": "Oct 04, 2026",
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],

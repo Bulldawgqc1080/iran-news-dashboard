@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-09 06:55 UTC",
-  "total": 35,
+  "updated": "2026-10-09 13:57 UTC",
+  "total": 30,
   "stories": [
+    {
+      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+      "description": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
       "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
@@ -21,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "description": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
@@ -73,16 +93,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "date": "Sun, 04 Oct 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
       "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
       "description": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
@@ -93,9 +103,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Families reunited as USS Lincoln returns from troubled 10-month deployment",
-      "link": "https://www.france24.com/en/americas/20261009-families-reunited-as-uss-lincoln-comes-home-after-troubled-gulf-deployment",
-      "description": "The USS Lincoln docked in California on Thursday ending a record deployment of 265 days of uninterrupted time at sea marked by reports of deteriorating conditions onboard. Crew members were reunited with family they had not seen in nearly a year after their mission was prolonged ...",
+      "title": "Houthi strikes on Riyadh airport killed three Saudis as war escalates",
+      "link": "https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates",
+      "description": "Thursday's attacks on Riyadh airport killed ​three people, Saudi authorities said on Friday, as Yemen's Houthi group stepped up missile strikes on the kingdom and tried to shut down its airspace in an escalating war triggered by the US-Iran conflict. The strikes, which also injur...",
       "date": "Fri, 09 Oct 2026",
       "source": "France 24",
       "region": "eu",
@@ -103,94 +113,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "OpenAI bans Russian, Iranian ChatGPT propaganda networks",
-      "link": "https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks",
-      "description": "OpenAI said Thursday it shut down Russian and Iranian influence operations that used ChatGPT to create fake journalist personas and support a purported think tank spreading anti-Ukraine propaganda. The Iranian operation involved seven profiles posing as Western journalists to pla...",
-      "date": "Thu, 08 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+      "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "description": "Saudi Arabia has seen several attacks by the Houthis in recent days, with airports appearing to be the primary target.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Is Trump signalling a return to war with Iran after the midterms?",
+      "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
+      "description": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Ex-OpenAI staff say they were fired for raising safety concerns",
+      "link": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns?traffic_source=rss",
+      "description": "Three former researchers pen open letter warning of &#039;chilling&#039; effect on company culture.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Pilot among 3 Saudi nationals killed in attacks on Riyadh airport, authorities say",
+      "link": "https://www.dawn.com/news/2035905/pilot-among-3-saudi-nationals-killed-in-attacks-on-riyadh-airport-authorities-say",
+      "description": "Saudi Arabia’s civil aviation authority said on Friday that three Saudi nationals ​were killed and several people were injured in ‌two attacks on King Khalid International Airport in Riyadh on Thursday. In a statement on X, the General Authority of Civil Aviation said the ​first ...",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "How long will the global energy crunch last?",
-      "link": "https://www.france24.com/en/tv-shows/people-profit/20261008-how-long-will-the-global-energy-crunch-last",
-      "description": "High energy prices continue to drive inflation and stoke anger among voters around the world. But with more crude oil flowing through the Strait of Hormuz, and governments releasing more emergency fuel stockpiles, how long will the energy crunch last?",
-      "date": "Thu, 08 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says US will not strike Iran before midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
-      "description": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How October 7 changed Lebanon and Hezbollah’s political reality",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
-      "description": "Analysts say Hezbollah&#039;s decision on October 8 to join a &#039;war of support&#039; for Gaza changed Lebanon&#039;s political reality.",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
-      "link": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
-      "description": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
-      "description": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: IRGC says it targets ‘violating’ ships nightly in Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
-      "description": "Iranian media reported massive explosions in the southern Strait of Hormuz, with Fars citing unnamed military sources.",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Putin pledges Russia’s support to end US-led war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
-      "description": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
-      "date": "Thu, 08 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
-      "link": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
-      "description": "Six-time French champions Bordeaux, the club where Zinedine Zidane made his name, to play in sixth tier after sanctions.",
-      "date": "Thu, 08 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "PM Shehbaz condemns fresh Houthi attacks on Saudi Arabia, reiterates commitment to kingdom's security under Makkah pact",
@@ -206,6 +166,16 @@
       "title": "US to livestream army firing squad execution of Fort Hood shooter, Pentagon says",
       "link": "https://www.dawn.com/news/2035879/us-to-livestream-army-firing-squad-execution-of-fort-hood-shooter-pentagon-says",
       "description": "The US will livestream the army’s upcoming firing squad execution of a gunman who killed 13 people at the Fort Hood military base in 2009, the Pentagon said, in what would be an unprecedented broadcast of a US execution. Nidal Hasan, a former army psychiatrist, is set to become t...",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "OpenAI says it has fired 3 researchers for violating sensitive information policy",
+      "link": "https://www.dawn.com/news/2035901/openai-says-it-has-fired-3-researchers-for-violating-sensitive-information-policy",
+      "description": "OpenAI fired three of its researchers last week after an investigation found they violated policies on handling sensitive information, the AI major said in a post on X on Friday. OpenAI’s statement comes after the dismissed researchers Jasmine Wang, Tomek Korbak and Mikita Balesn...",
       "date": "Fri, 09 Oct 2026",
       "source": "Dawn",
       "region": "me",
@@ -233,21 +203,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Britain’s presence ends in Jerusalem",
-      "link": "https://www.dawn.com/news/2035810/britains-presence-ends-in-jerusalem",
-      "description": "JERUSALEM: Britain and Israel announced on Thursday that the nearly 200-year-old British diplomatic mission in East Jerusalem will stay open on a smaller scale and with a new name, in a compromise after Israel ordered the consulate shut in a sanctions dispute. Israeli Foreign Min...",
+      "title": "Sri Lanka says no immediate plan to help Iranian ships near its waters with depleting food, fuel",
+      "link": "https://www.thehindu.com/news/international/sri-lanka-says-no-immediate-plan-to-help-iranian-ships-near-its-waters-with-depleting-food-fuel/article71564238.ece",
+      "description": "Foreign Ministry Spokesman Thushara Rodrigo said Sri Lanka will put its national interest first before considering any help",
       "date": "Fri, 09 Oct 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says comment on LA was misinterpreted",
-      "link": "https://www.dawn.com/news/2035809/trump-says-comment-on-la-was-misinterpreted",
-      "description": "WASHINGTON: US President Donald Trump on Thursday said comments he made that Iran could “take out” California cities had been misinterpreted and that he was instead referring to the need for people to tolerate higher gas prices. Trump made the remarks at a political rally in Nebr...",
+      "title": "India advises nationals in Saudi Arabia to remain vigilant amid escalating regional tensions",
+      "link": "https://www.thehindu.com/news/national/india-advises-nationals-in-saudi-arabia-to-remain-vigilant-amid-escalating-regional-tensions/article71563038.ece",
+      "description": "The Indian Embassy in Riyadh has asked nationals to stay indoors as necessary, after attacks attributed to Houthi militants killed three people and disrupted flights between India and Saudi Arabia",
       "date": "Fri, 09 Oct 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Air India, IndiGo cancel and divert Riyadh flights after missile threat",
+      "link": "https://www.thehindu.com/news/national/air-india-indigo-cancel-and-divert-riyadh-flights-after-missile-threat/article71560628.ece",
+      "description": "Flights were disrupted after Iran-aligned Houthi rebels reportedly targeted Saudi Arabia, including a missile fired towards Riyadh International Airport.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -273,16 +253,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Air India, IndiGo cancel and divert Riyadh flights after missile threat",
-      "link": "https://www.thehindu.com/news/national/air-india-indigo-cancel-and-divert-riyadh-flights-after-missile-threat/article71560628.ece",
-      "description": "Flights were disrupted after Iran-aligned Houthi rebels reportedly targeted Saudi Arabia, including a missile fired towards Riyadh International Airport.",
-      "date": "Thu, 08 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Houthis claim new attack against airport in Saudi capital Riyadh as witness reports evacuation",
       "link": "https://www.thehindu.com/news/international/saudi-arabia-riyadh-airport-attack-yemen-houthis-october-8-2026/article71560070.ece",
       "description": "Saudi Arabia’s civil defence agency said a kindergarten and medical complex in Riyadh were damaged by shrapnel from an intercepted missile, hours after explosions rattled Riyadh",
@@ -293,29 +263,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen’s Houthis say struck Riyadh airport, other Saudi sites",
-      "link": "https://www.thehindu.com/news/international/yemens-houthis-say-struck-riyadh-airport-other-saudi-sites/article71550273.ece",
-      "description": "The fighting in Yemen has become the most active front in the West Asia war in recent weeks, displacing more than 1,84,000 people, the United Nations says, and deepening the conflict that has engulfed the wider region.",
-      "date": "Thu, 08 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump interrupted by protesters as he fights to rally Texas voters behind Paxton in U.S. Senate race",
-      "link": "https://www.thehindu.com/news/international/trump-interrupted-by-protesters-as-he-fights-to-rally-texas-voters-behind-paxton-in-us-senate-race/article71558298.ece",
-      "description": "With Election Day less than a month away, Trump's poor approval ratings, the Iran war and soaring gas prices have threatened Republicans in virtually every state",
-      "date": "Thu, 08 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pentagon prepares to resume military action against Iran — NYT",
-      "link": "https://tass.com/world/2199629",
-      "description": "According to the newspaper, the Pentagon is also drafting plans of striking missile and drone storage facilities in Iran",
+      "title": "IRGC reports strike on gas tanker in Strait of Hormuz",
+      "link": "https://tass.com/world/2199917",
+      "description": "According to the Islamic Revolutionary Guard Corps, the large-capacity liquefied gas tanker MT Sunshine was struck",
       "date": "Fri, 09 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -323,9 +273,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Kremlin sees importance of Iran’s participation in CIS Plus format — spokesman",
-      "link": "https://tass.com/politics/2199619",
-      "description": "Russian President Vladimir Putin met with Iranian President Masoud Pezeshkian on Thursday, during his visit to Turkmenistan",
+      "title": "Tehran will not give up on dialogue with Washington, despite US attacks — Pezeshkian",
+      "link": "https://tass.com/world/2199881",
+      "description": "Once the proposals are finalized, the two sides will sit down and sum up the results through mediators, the Iranian president added",
       "date": "Fri, 09 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -333,9 +283,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Two drones attack Iranian opposition sites in Iraqi Kurdistan — TV",
-      "link": "https://tass.com/world/2199617",
-      "description": "No information about deaths or casualties is available at this point",
+      "title": "Iranian president suggests CIS+1 format be established",
+      "link": "https://tass.com/world/2199871",
+      "description": "According to Masoud Pezeshkian, regional diplomacy \"should serve as an instrument of crisis management, maintaining ties, preventing the spread of conflicts, and fostering practical cooperation\"",
       "date": "Fri, 09 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -343,9 +293,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Pezeshkian thanks Putin for Russia’s stance on Middle East conflict",
-      "link": "https://tass.com/world/2199615",
-      "description": "Masoud Pezeshkian emphasized that Vladimir Putin always opposes unilateralism, and Iran values this approach",
+      "title": "US military lobbies Trump to carry out strikes 80 km deep inside Iranian territory — TV",
+      "link": "https://tass.com/world/2199863",
+      "description": "According to the source, the United States is currently \"focusing on imposing a blockade on Iranian ships and ports\"",
       "date": "Fri, 09 Oct 2026",
       "source": "TASS",
       "region": "ru",
