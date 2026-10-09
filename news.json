@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-08 20:18 UTC",
-  "total": 27,
+  "updated": "2026-10-09 00:46 UTC",
+  "total": 32,
   "stories": [
+    {
+      "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+      "description": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
       "link": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
@@ -83,6 +93,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "OpenAI bans Russian, Iranian ChatGPT propaganda networks",
+      "link": "https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks",
+      "description": "OpenAI said Thursday it shut down Russian and Iranian influence operations that used ChatGPT to create fake journalist personas and support a purported think tank spreading anti-Ukraine propaganda. The Iranian operation involved seven profiles posing as Western journalists to pla...",
+      "date": "Thu, 08 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "How long will the global energy crunch last?",
       "link": "https://www.france24.com/en/tv-shows/people-profit/20261008-how-long-will-the-global-energy-crunch-last",
       "description": "High energy prices continue to drive inflation and stoke anger among voters around the world. But with more crude oil flowing through the Strait of Hormuz, and governments releasing more emergency fuel stockpiles, how long will the energy crunch last?",
@@ -93,14 +113,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Conflict in Yemen: What are the Houthis’ aims?",
-      "link": "https://www.france24.com/en/video/20261008-conflict-in-yemen-what-are-the-houthis-aims",
-      "description": "Saudi authorities said Wednesday three people were killed in attacks on two of the kingdom's international airports, including in the capital Riyadh, after Yemen's Houthis claimed to have fired on both transport hubs. The Iran-backed Houthis have claimed a wave of attacks on Saud...",
+      "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
+      "description": "Iranian media reported massive explosions in the southern Strait of Hormuz, with Fars citing unnamed military sources.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Putin pledges Russia’s support to end US-led war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+      "description": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
       "date": "Thu, 08 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
+      "link": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
+      "description": "Six-time French champions Bordeaux, the club where Zinedine Zidane made his name, to play in sixth tier after sanctions.",
+      "date": "Thu, 08 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What is the Mecca defence pact?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
+      "description": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
+      "date": "Thu, 08 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
@@ -173,6 +223,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump says U.S. will not resume military strikes on Iran before Nov. 3 midterm elections",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-will-not-resume-military-strikes-on-iran-before-nov-3-midterm-elections/article71561624.ece",
+      "description": "The U.S. and Iran signed a short-lived interim agreement in June, intended to establish a 60-day ceasefire and framework for a permanent peace deal",
+      "date": "Thu, 08 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Israel drastically reduces British diplomatic presence in Jerusalem",
       "link": "https://www.thehindu.com/news/international/israel-drastically-reduces-british-diplomatic-presence-in-jerusalem/article71561112.ece",
       "description": "The move comes after Israel ordered the closure of the consulate in September as retaliation after London-led Western sanctions over violence by Israeli settlers against Palestinians in the occupied West Bank",
@@ -223,49 +283,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Attacks on Saudi airports claimed by Houthi rebels kill 3 people, officials say",
-      "link": "https://www.thehindu.com/news/international/attacks-on-saudi-airports-claimed-by-houthi-rebels-kill-several/article71557187.ece",
-      "description": "The Saudi General Authority for Civil Aviation did not blame any party for the attacks at Abha and Riyadh’s King Khalid international airports, but Houthi rebels took credit earlier for the airport strikes",
-      "date": "Thu, 08 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russia-Iran relations develop positively — Putin",
-      "link": "https://tass.com/politics/2199573",
-      "description": "As for bilateral relations, I would like to note that they are developing in a positive way, based on a fundamental agreement we signed at the beginning of last year, the Russian leader noted",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Two drones attack Iranian opposition sites in Iraqi Kurdistan — TV",
+      "link": "https://tass.com/world/2199617",
+      "description": "No information about deaths or casualties is available at this point",
+      "date": "Fri, 09 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Putin says Iran making serious efforts to end Middle East conflict",
-      "link": "https://tass.com/politics/2199563",
-      "description": "Putin added that, for its part, Russia is ready to do everything to help resolve the situation",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Pezeshkian thanks Putin for Russia’s stance on Middle East conflict",
+      "link": "https://tass.com/world/2199615",
+      "description": "Masoud Pezeshkian emphasized that Vladimir Putin always opposes unilateralism, and Iran values this approach",
+      "date": "Fri, 09 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Putin calls Middle East situation pressing problem",
-      "link": "https://tass.com/politics/2199557",
-      "description": "The Russian leader noted that Russia is aware of Iran’s genuine efforts to end the conflict",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Putin, Pezeshkian decided to meet earlier, because scheduling permitted — spokesman",
+      "link": "https://tass.com/politics/2199613",
+      "description": "The Russian leader will take part in the Council of Heads of State of the Commonwealth of Independent States, and in the Caspian Environmental Summit, to be attended by leaders of all the five Caspian littoral states",
+      "date": "Fri, 09 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Putin holds talks with Iran’s president in Turkmenistan",
-      "link": "https://tass.com/politics/2199547",
-      "description": "Although the meeting with Masoud Pezeshkian was originally scheduled for Friday, the leaders of the two countries decided to hold it today",
+      "title": "Several tankers strike naval mines in Strait of Hormuz — Fars",
+      "link": "https://tass.com/emergencies/2199601",
+      "description": "The precise number of affected vessels in unknown, and there have been no reports of potential casualties",
       "date": "Thu, 08 Oct 2026",
       "source": "TASS",
       "region": "ru",
