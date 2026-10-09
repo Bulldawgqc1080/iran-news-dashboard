@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09 19:13 UTC",
-  "total": 31,
+  "updated": "2026-10-09 23:39 UTC",
+  "total": 32,
   "stories": [
     {
       "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
@@ -17,16 +17,6 @@
       "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
       "description": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
       "date": "Fri, 09 Oct 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
-      "description": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
-      "date": "Thu, 08 Oct 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -103,6 +93,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
+      "link": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
+      "description": "US President Donald Trump said Friday that Russia had agreed to immediately supply more than 300,000 tonnes of diesel to US and global markets in an effort to cut fuel prices before November's midterm elections. The move marks a stunning change of policy after the US and its alli...",
+      "date": "Fri, 09 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine",
       "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
       "description": "It’s been a week of vigils, protests and political upheaval – from Israel, where three years after the Hamas-led attacks, former hostages and mourners called for accountability over the failures of October 7th, as questions grow over the stalled path to peace in Gaza; to France, ...",
@@ -123,29 +123,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "description": "Saudi Arabia and Yemen&#039;s internationally recognised gov&#039;t urge UN Security Council action amid Houthi escalation.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
+      "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+      "description": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+      "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+      "description": "Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.",
+      "date": "Fri, 09 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
       "description": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
-      "description": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "US sanctions International Criminal Court itself in major escalation",
-      "link": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
-      "description": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
       "date": "Fri, 09 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -213,6 +223,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "U.S. lifts sanctions on sale of Russian diesel in global markets",
+      "link": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
+      "description": "The announcement by the US Department of Treasury came minutes after U.S. President Donald Trump spoke with Russian President Vladimir Putin and struck a deal to supply diesel to the American and global markets",
+      "date": "Fri, 09 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Talks with Iran can only succeed without threats, President says",
       "link": "https://www.thehindu.com/news/international/talks-with-iran-can-only-succeed-without-threats-president-says/article71565681.ece",
       "description": "Diplomatic efforts to end the seven-month conflict, which began with U.S.-Israeli strikes on Iran in February, have been at an impasse since the summer",
@@ -256,16 +276,6 @@
       "title": "Sri Lanka says no immediate plan to help Iranian ships near its waters with depleting food, fuel",
       "link": "https://www.thehindu.com/news/international/sri-lanka-says-no-immediate-plan-to-help-iranian-ships-near-its-waters-with-depleting-food-fuel/article71564238.ece",
       "description": "Foreign Ministry Spokesman Thushara Rodrigo said Sri Lanka will put its national interest first before considering any help",
-      "date": "Fri, 09 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "India advises nationals in Saudi Arabia to remain vigilant amid escalating regional tensions",
-      "link": "https://www.thehindu.com/news/national/india-advises-nationals-in-saudi-arabia-to-remain-vigilant-amid-escalating-regional-tensions/article71563038.ece",
-      "description": "The Indian Embassy in Riyadh has asked nationals to stay indoors as necessary, after attacks attributed to Houthi militants killed three people and disrupted flights between India and Saudi Arabia",
       "date": "Fri, 09 Oct 2026",
       "source": "The Hindu",
       "region": "me",
