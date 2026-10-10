@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-10 10:12 UTC",
-  "total": 31,
+  "updated": "2026-10-10 15:58 UTC",
+  "total": 33,
   "stories": [
+    {
+      "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
+      "description": "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.",
+      "date": "Sat, 10 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
       "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
@@ -21,6 +31,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "description": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "date": "Sat, 10 Oct 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
@@ -73,21 +93,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
-      "link": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
-      "description": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements.",
-      "date": "Tue, 06 Oct 2026",
+      "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
+      "description": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
+      "date": "Fri, 02 Oct 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
-      "description": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
-      "date": "Fri, 02 Oct 2026",
-      "source": "BBC",
+      "title": "Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow",
+      "link": "https://www.france24.com/en/video/20261010-russian-attack-on-ukrainian-city-kills-15-a-day-after-trump-eases-diesel-sanctions-on-moscow",
+      "description": "Fifteen people, including three children, were killed in a Russian attack on the southern Ukrainian city of Zaporizhzhia on Saturday, a day after US President Donald Trump announced a deal to lift sanctions on Russian diesel, in a major setback for Kyiv. Our correspondent Gullive...",
+      "date": "Sat, 10 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen says advancing against Houthis around key Bab al-Mandab strait",
+      "link": "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway",
+      "description": "Yemen said Saturday that forces were advancing against the Houthis around the Bab al-Mandab strait, a week after the country's Saudi-backed government announced that it was initiating a counter-offensive to take back territory seized by the pro-Iran group during last month's ligh...",
+      "date": "Sat, 10 Oct 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -103,54 +133,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
-      "link": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
-      "description": "US President Donald Trump said Friday that Russia had agreed to immediately supply more than 300,000 tonnes of diesel to US and global markets in an effort to cut fuel prices before November's midterm elections. The move marks a stunning change of policy after the US and its alli...",
-      "date": "Fri, 09 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "title": "Why is the US sanctioning the International Criminal Court?",
+      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+      "description": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
+      "date": "Sat, 10 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Has Yemen returned to ‘full-scale war’?",
+      "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
+      "description": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
+      "date": "Sat, 10 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
+      "description": "Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.",
+      "date": "Sat, 10 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Why is US turning to Russia for diesel despite sanctions?",
+      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
+      "description": "President Donald Trump&#039;s deal with Putin comes amid surging fuel prices and looming US midterm elections.",
+      "date": "Sat, 10 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Nobel peace laureate calls US sanctions on International Criminal Court 'unacceptable'",
+      "link": "https://www.dawn.com/news/2036177/nobel-peace-laureate-calls-us-sanctions-on-international-criminal-court-unacceptable",
+      "description": "Jurist and former UN rights chief Navi Pillay, the winner of this year’s Nobel Peace Prize, on Saturday called sanctions announced by the US on the International Criminal Court (ICC) “unheard of” and “unacceptable”. “There is so much tension and anxiety over the continued existen...",
+      "date": "Sat, 10 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine",
-      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
-      "description": "It’s been a week of vigils, protests and political upheaval – from Israel, where three years after the Hamas-led attacks, former hostages and mourners called for accountability over the failures of October 7th, as questions grow over the stalled path to peace in Gaza; to France, ...",
-      "date": "Fri, 09 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
-      "link": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
-      "description": "Delisting comes days after Trump administration reportedly reopened talks with Myanmar&#039;s government.",
-      "date": "Sat, 10 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Saudi-led coalition says it’s carrying out operation in Yemen",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss",
-      "description": "The Saudi-led coalition says it’s carrying out a wide-ranging operation, targeting Yemen’s Houthis.",
-      "date": "Sat, 10 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Yemen’s Taiz under siege again as food and fuel prices rise",
-      "link": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
-      "description": "Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.",
-      "date": "Sat, 10 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "Pakistan reaffirms commitment to Saudi security at UN Security Council",
@@ -196,16 +226,6 @@
       "title": "Pilot among 3 Saudi nationals killed in attacks on Riyadh airport, authorities say",
       "link": "https://www.dawn.com/news/2035905/pilot-among-3-saudi-nationals-killed-in-attacks-on-riyadh-airport-authorities-say",
       "description": "Saudi Arabia’s civil aviation authority said on Friday that three Saudi nationals ​were killed and several people were injured in ‌two attacks on King Khalid International Airport in Riyadh on Thursday. In a statement on X, the General Authority of Civil Aviation said the ​first ...",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "FO says Pakistan has 'substantial number of forces, resources' in Riyadh",
-      "link": "https://www.dawn.com/news/2035943/fo-says-pakistan-has-substantial-number-of-forces-resources-in-riyadh",
-      "description": "Foreign Office (FO) spokesperson Sajjad Haider Khan said on Friday that Pakistan already had “substantial number” of forces and resources in Riyadh and it was now up to the Makkah Defence Alliance to assess the threat in Saudi Arabia and make decisions accordingly. The FO spokesp...",
       "date": "Fri, 09 Oct 2026",
       "source": "Dawn",
       "region": "me",
@@ -273,6 +293,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Putin conveyed Iran’s vision for possible conflict resolution to Trump — Kremlin",
+      "link": "https://tass.com/politics/2200271",
+      "description": "Russian President held two meetings with Pezeshkian on the sidelines of a summit in Turkmenistan, Dmitry Peskov said",
+      "date": "Sat, 10 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Trump says Ukraine conflict will be settled soon",
       "link": "https://tass.com/world/2200207",
       "description": "The US president also promised a soon resolution of the conflict in Iran",
@@ -296,16 +326,6 @@
       "title": "Iran to hold nothing back in responding to new US, Israeli attacks — source",
       "link": "https://tass.com/world/2200023",
       "description": "Iran will demonstrate the latest and most unexpected military equipment in the event of new strikes against the country",
-      "date": "Fri, 09 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Oil tanker chartering from the US to China now costs more than space launch",
-      "link": "https://tass.com/world/2200017",
-      "description": "Such high price is explained by a global shortage of tankers driven by the aggravated situation in the Strait of Hormuz, the news agency said",
       "date": "Fri, 09 Oct 2026",
       "source": "TASS",
       "region": "ru",
