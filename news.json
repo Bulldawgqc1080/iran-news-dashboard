@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-10 19:47 UTC",
-  "total": 30,
+  "updated": "2026-10-10 23:03 UTC",
+  "total": 31,
   "stories": [
+    {
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "description": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+      "date": "Sat, 10 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
       "link": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
@@ -23,19 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-      "description": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
-      "date": "Fri, 09 Oct 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+      "description": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
       "date": "Sat, 10 Oct 2026",
       "source": "BBC",
       "region": "eu",
@@ -103,16 +103,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Riyadh airport suspends operations after attack leaves multiple people wounded",
-      "link": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
-      "description": "Saudi authorities on Saturday said that they had suspended operations at Riyadh's King Khalid International Airport after a new attack there left multiple people wounded. An attack on the airport by the Houthis on Thursday killed three people and damaged a plane, though the Iran-...",
-      "date": "Sat, 10 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow",
       "link": "https://www.france24.com/en/video/20261010-russian-attack-on-ukrainian-city-kills-15-a-day-after-trump-eases-diesel-sanctions-on-moscow",
       "description": "Fifteen people, including three children, were killed in a Russian attack on the southern Ukrainian city of Zaporizhzhia on Saturday, a day after US President Donald Trump announced a deal to lift sanctions on Russian diesel, in a major setback for Kyiv. Our correspondent Gullive...",
@@ -133,9 +123,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Why is the US sanctioning the International Criminal Court?",
-      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
-      "description": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
+      "title": "Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children",
+      "link": "https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children",
+      "description": "US President Donald Trump on Saturday told reporters that Ukraine should \"get a new president\", adding that his Ukrainian counterpart Volodymyr Zelensky had disobeyed his orders not to strike Russian refineries. This comes after Washington moved to ease sanctions on Russian diese...",
+      "date": "Sat, 10 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemeni government’s military says its forces advancing against Houthis",
+      "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "description": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
       "date": "Sat, 10 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -143,9 +143,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Has Yemen returned to ‘full-scale war’?",
-      "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
-      "description": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
+      "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
+      "link": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
+      "description": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
       "date": "Sat, 10 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -153,9 +153,19 @@
       "bias": "Medium"
     },
     {
-      "title": "Riyadh airport suspends operations after attack leaves several wounded",
-      "link": "https://www.dawn.com/news/2036199/riyadh-airport-suspends-operations-after-attack-leaves-several-wounded",
-      "description": "Saudi authorities suspended operations at Riyadh’s international airport on Saturday after a fresh attack there left multiple people wounded. The Saudi civil aviation authority confirmed an attack had injured several people at the sprawling King Khalid International Airport, with...",
+      "title": "Why is the Trump administration trying to dismantle the ICC?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+      "description": "The US has imposed sweeping new sanctions on the International Criminal Court.",
+      "date": "Sat, 10 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Palestinian flags fill streets in European cities as thousands march against Israeli attacks on Gaza",
+      "link": "https://www.dawn.com/news/2036234/palestinian-flags-fill-streets-in-european-cities-as-thousands-march-against-israeli-attacks-on-gaza",
+      "description": "Thousands of people on Saturday joined pro-Palestinian marches in London, Berlin and Dublin, calling for an end to Israeli strikes on Gaza, three years after it launched its bombing of the enclave in response to Hamas’s Oct 7 attack. Several thousand marchers in London carried pl...",
       "date": "Sat, 10 Oct 2026",
       "source": "Dawn",
       "region": "me",
@@ -273,6 +283,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Oil supertanker hits mine in Strait of Hormuz — IRGC",
+      "link": "https://tass.com/world/2200371",
+      "description": "According to the Iranian military, the tanker struck a mine and exploded after turning off its positioning and navigation systems",
+      "date": "Sat, 10 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Putin conveyed Iran’s vision for possible conflict resolution to Trump — Kremlin",
       "link": "https://tass.com/politics/2200271",
       "description": "Russian President held two meetings with Pezeshkian on the sidelines of a summit in Turkmenistan, Dmitry Peskov said",
@@ -286,16 +306,6 @@
       "title": "Trump says Ukraine conflict will be settled soon",
       "link": "https://tass.com/world/2200207",
       "description": "The US president also promised a soon resolution of the conflict in Iran",
-      "date": "Sat, 10 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Putin tells Trump Russia’s Iran uranium offer remains on table",
-      "link": "https://tass.com/politics/2200195",
-      "description": "Russian Presidential Aide Yury Ushakov added that the US president acknowledged the remark, \"welcoming Moscow’s involvement in resolving the situation surrounding Tehran\"",
       "date": "Sat, 10 Oct 2026",
       "source": "TASS",
       "region": "ru",
