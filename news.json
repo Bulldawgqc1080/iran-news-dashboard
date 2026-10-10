@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10 15:58 UTC",
-  "total": 33,
+  "updated": "2026-10-10 19:47 UTC",
+  "total": 30,
   "stories": [
     {
       "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
@@ -33,9 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "title": "Several injured in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "description": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
       "date": "Sat, 10 Oct 2026",
       "source": "BBC",
       "region": "eu",
@@ -103,6 +103,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Riyadh airport suspends operations after attack leaves multiple people wounded",
+      "link": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
+      "description": "Saudi authorities on Saturday said that they had suspended operations at Riyadh's King Khalid International Airport after a new attack there left multiple people wounded. An attack on the airport by the Houthis on Thursday killed three people and damaged a plane, though the Iran-...",
+      "date": "Sat, 10 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow",
       "link": "https://www.france24.com/en/video/20261010-russian-attack-on-ukrainian-city-kills-15-a-day-after-trump-eases-diesel-sanctions-on-moscow",
       "description": "Fifteen people, including three children, were killed in a Russian attack on the southern Ukrainian city of Zaporizhzhia on Saturday, a day after US President Donald Trump announced a deal to lift sanctions on Russian diesel, in a major setback for Kyiv. Our correspondent Gullive...",
@@ -116,16 +126,6 @@
       "title": "Yemen says advancing against Houthis around key Bab al-Mandab strait",
       "link": "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway",
       "description": "Yemen said Saturday that forces were advancing against the Houthis around the Bab al-Mandab strait, a week after the country's Saudi-backed government announced that it was initiating a counter-offensive to take back territory seized by the pro-Iran group during last month's ligh...",
-      "date": "Sat, 10 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump hails Russia deal to release diesel as midterms loom",
-      "link": "https://www.france24.com/en/video/20261010-trump-hails-russia-deal-to-release-diesel-as-midterms-loom",
-      "description": "US President Donald Trump said Friday that he had secured Russia's agreement for a major release of diesel, as he eased war sanctions on Moscow in a push to lower energy costs ahead of midterm elections.",
       "date": "Sat, 10 Oct 2026",
       "source": "France 24",
       "region": "eu",
@@ -153,24 +153,14 @@
       "bias": "Medium"
     },
     {
-      "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
-      "description": "Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.",
+      "title": "Riyadh airport suspends operations after attack leaves several wounded",
+      "link": "https://www.dawn.com/news/2036199/riyadh-airport-suspends-operations-after-attack-leaves-several-wounded",
+      "description": "Saudi authorities suspended operations at Riyadh’s international airport on Saturday after a fresh attack there left multiple people wounded. The Saudi civil aviation authority confirmed an attack had injured several people at the sprawling King Khalid International Airport, with...",
       "date": "Sat, 10 Oct 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why is US turning to Russia for diesel despite sanctions?",
-      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
-      "description": "President Donald Trump&#039;s deal with Putin comes amid surging fuel prices and looming US midterm elections.",
-      "date": "Sat, 10 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Nobel peace laureate calls US sanctions on International Criminal Court 'unacceptable'",
@@ -223,11 +213,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pilot among 3 Saudi nationals killed in attacks on Riyadh airport, authorities say",
-      "link": "https://www.dawn.com/news/2035905/pilot-among-3-saudi-nationals-killed-in-attacks-on-riyadh-airport-authorities-say",
-      "description": "Saudi Arabia’s civil aviation authority said on Friday that three Saudi nationals ​were killed and several people were injured in ‌two attacks on King Khalid International Airport in Riyadh on Thursday. In a statement on X, the General Authority of Civil Aviation said the ​first ...",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Dawn",
+      "title": "Missile strikes passenger terminal at Riyadh airport, many wounded",
+      "link": "https://www.thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece",
+      "description": "President Donald Trump told reporters he was evaluating whether the U.S. should join Saudi strikes against the Iran-backed Houthi rebels in neighbouring Yemen",
+      "date": "Sat, 10 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -283,16 +273,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Sri Lanka says no immediate plan to help Iranian ships near its waters with depleting food, fuel",
-      "link": "https://www.thehindu.com/news/international/sri-lanka-says-no-immediate-plan-to-help-iranian-ships-near-its-waters-with-depleting-food-fuel/article71564238.ece",
-      "description": "Foreign Ministry Spokesman Thushara Rodrigo said Sri Lanka will put its national interest first before considering any help",
-      "date": "Fri, 09 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Putin conveyed Iran’s vision for possible conflict resolution to Trump — Kremlin",
       "link": "https://tass.com/politics/2200271",
       "description": "Russian President held two meetings with Pezeshkian on the sidelines of a summit in Turkmenistan, Dmitry Peskov said",
@@ -317,16 +297,6 @@
       "link": "https://tass.com/politics/2200195",
       "description": "Russian Presidential Aide Yury Ushakov added that the US president acknowledged the remark, \"welcoming Moscow’s involvement in resolving the situation surrounding Tehran\"",
       "date": "Sat, 10 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran to hold nothing back in responding to new US, Israeli attacks — source",
-      "link": "https://tass.com/world/2200023",
-      "description": "Iran will demonstrate the latest and most unexpected military equipment in the event of new strikes against the country",
-      "date": "Fri, 09 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
