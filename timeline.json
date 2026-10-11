@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-10 23:03 UTC",
-  "total": 9,
+  "updated": "2026-10-11 02:43 UTC",
+  "total": 10,
   "events": [
+    {
+      "date": "2026-10-11",
+      "dateDisplay": "Oct 11, 2026",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "sourceCount": 2,
+      "type": "govt"
+    },
     {
       "date": "2026-10-10",
       "dateDisplay": "Oct 10, 2026",
@@ -16,10 +28,10 @@
     {
       "date": "2026-10-09",
       "dateDisplay": "Oct 09, 2026",
-      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"

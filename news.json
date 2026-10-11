@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10 23:03 UTC",
-  "total": 31,
+  "updated": "2026-10-11 02:43 UTC",
+  "total": 35,
   "stories": [
     {
       "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
@@ -23,20 +23,10 @@
       "bias": "Low"
     },
     {
-      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
-      "description": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
-      "date": "Fri, 09 Oct 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
       "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "description": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
-      "date": "Sat, 10 Oct 2026",
+      "description": "Another 309 people are injured, with a Saudi-led military coalition saying the attack by Yemen's Houthis is a \"war crime\".",
+      "date": "Sun, 11 Oct 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -133,6 +123,46 @@
       "bias": "Low-Med"
     },
     {
+      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+      "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+      "description": "Trump condemns &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s attacks on the Houthis.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+      "description": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "description": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+      "description": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Yemeni government’s military says its forces advancing against Houthis",
       "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
       "description": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
@@ -223,9 +253,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Missile strikes passenger terminal at Riyadh airport, many wounded",
+      "title": "Missile strikes passenger terminal at Riyadh airport; 12 killed, over 300 wounded",
       "link": "https://www.thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece",
-      "description": "President Donald Trump told reporters he was evaluating whether the U.S. should join Saudi strikes against the Iran-backed Houthi rebels in neighbouring Yemen",
+      "description": "U.S. President Donald Trump said he was evaluating whether the U.S. should join Saudi strikes against the Iran-backed Houthi rebels in neighbouring Yemen",
       "date": "Sat, 10 Oct 2026",
       "source": "The Hindu",
       "region": "me",
@@ -283,6 +313,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US condemns Houthi attack on Riyadh airport, which killed American — Rubio",
+      "link": "https://tass.com/world/2200409",
+      "description": "The US secretary of state also condemned other recent attacks on Saudi Arabia",
+      "date": "Sun, 11 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Arabian coalition accuses Houthis of attacking airport in Riyadh",
+      "link": "https://tass.com/world/2200403",
+      "description": "Spokesperson Turki al-Maliki promised a decisive response to the aggression",
+      "date": "Sat, 10 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Oil supertanker hits mine in Strait of Hormuz — IRGC",
       "link": "https://tass.com/world/2200371",
       "description": "According to the Iranian military, the tanker struck a mine and exploded after turning off its positioning and navigation systems",
@@ -296,16 +346,6 @@
       "title": "Putin conveyed Iran’s vision for possible conflict resolution to Trump — Kremlin",
       "link": "https://tass.com/politics/2200271",
       "description": "Russian President held two meetings with Pezeshkian on the sidelines of a summit in Turkmenistan, Dmitry Peskov said",
-      "date": "Sat, 10 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says Ukraine conflict will be settled soon",
-      "link": "https://tass.com/world/2200207",
-      "description": "The US president also promised a soon resolution of the conflict in Iran",
       "date": "Sat, 10 Oct 2026",
       "source": "TASS",
       "region": "ru",
