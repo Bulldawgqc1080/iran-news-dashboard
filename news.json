@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11 16:01 UTC",
-  "total": 35,
+  "updated": "2026-10-11 20:40 UTC",
+  "total": 38,
   "stories": [
     {
       "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
@@ -21,6 +21,26 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Airport attacks another dangerous moment in already tense conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
@@ -93,6 +113,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike",
+      "link": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+      "description": "",
+      "date": "Sun, 11 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
+      "link": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
+      "description": "The Saudi-led coalition in Yemen said an \"unidentified projectile\" had targeted Riyadh's international airport on Sunday, causing a fire. The incident came hours after the Iran-backed Houthis warned airlines and travellers to stay away from Saudi airports. David Smith, The Guardi...",
+      "date": "Sun, 11 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Strike on Riyadh: What options for the Saudi-led coalition?",
       "link": "https://www.france24.com/en/video/20261011-strike-on-riyadh-what-options-for-the-saudi-led-coalition",
       "description": "Saturday's attack, the deadliest on Saudi soil in more than a decade, marked a sharp escalation in the Yemen war. Riyadh backs the internationally recognised government against the Houthis, who captured swathes of the Red Sea coastline in a lightning offensive last month. The Sau...",
@@ -123,34 +163,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'Going bankrupt': Iran shopkeepers struggle as war dims demand",
-      "link": "https://www.france24.com/en/video/20261011-going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand",
-      "description": "Iran's economy has been battered by years of sanctions, but the conflict that began in February with US-Israeli attacks and an American blockade of the country's ports has put extra strain on daily life. Rising inflation, nearly 90 percent year-on-year in September according to o...",
+      "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+      "link": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+      "description": "US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.",
       "date": "Sun, 11 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump urges Zelensky replacement as diesel row rages",
-      "link": "https://www.france24.com/en/video/20261011-trump-urges-zelensky-replacement-as-diesel-row-rages",
-      "description": "Donald Trump called on Saturday for Ukraine to \"get a new leader\" after Volodymyr Zelensky slammed Washington's easing of Russian diesel sanctions, as the US president faces fuel price pressure weeks before midterm elections. Our correspondent Gulliver Cragg tells us more.",
+      "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+      "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+      "description": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
       "date": "Sun, 11 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "🔴Follow live: Houthis renew threats against Saudi airports as Riyadh attack prompts wave of condemnation",
-      "link": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
-      "description": "",
+      "title": "Lebanon’s first electric train hopes to revive railway system",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
+      "description": "A new solar-powered model train has returned to a section of Lebanon’s historic railway.",
       "date": "Sun, 11 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Is the Yemen war entering a new phase?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
+      "description": "Saudi Arabia has accused Yemen’s Houthis of killing 12 people and injuring 300 in Saturday&#039;s attack on King Khalid Inter",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "How the ICC can be saved",
@@ -176,26 +226,6 @@
       "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
       "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
       "description": "IRGC warns against ignoring waterway&#039;s &#039;security and rules&#039; as CENTCOM says US disabled vessel trying to run blockade.",
-      "date": "Sun, 11 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-      "description": "A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300.",
-      "date": "Sun, 11 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
-      "link": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
-      "description": "Saudi coalition blames Houthi group for the missile attack on the main international airport in Riyadh.",
       "date": "Sun, 11 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -313,39 +343,39 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran-Oman agreement on Hormuz Strait doesn’t provide for its immediate reopening",
+      "link": "https://tass.com/world/2200593",
+      "description": "The reopening of the strait depends entirely on the United States fulfilling its obligations, Iranian Deputy Foreign Minister Kazem Gharibabadi said",
+      "date": "Sun, 11 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran warns ships against transiting Strait of Hormuz with their navigation systems off",
+      "link": "https://tass.com/world/2200591",
+      "description": "In such cases, the vessels \"will be subject to severe punishment,\" it warned",
+      "date": "Sun, 11 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Houthis say they attacked Saudi Aramco facilities, airports in Saudi Arabia",
+      "link": "https://tass.com/world/2200579",
+      "description": "According to the Houthi spokesman Yahya Saria, the attacks targeted a Saudi Aramco gas processing facility in Shedgum and an oil facility in Tanajib in the east of Saudi Arabia and were followed by fires",
+      "date": "Sun, 11 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "No sanctions bills ban US from importing diesel from Russia — Treasury Secretary",
       "link": "https://tass.com/world/2200543",
       "description": "The US administration possesses all the necessary legal authority to do so, Scott Bessent said",
-      "date": "Sun, 11 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian diplomat calls Trump’s remarks about Tehran destroying LA election rhetoric",
-      "link": "https://tass.com/world/2200541",
-      "description": "US President’s allegations about the possible destruction of American cities are completely unfounded, Iranian Ambassador to Russia Kazem Jalali said",
-      "date": "Sun, 11 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Europe’s false solidarity only prolongs Ukrainian conflict — Finnish politician",
-      "link": "https://tass.com/world/2200535",
-      "description": "A member of the Freedom Alliance national conservative party Armando Mema noted that while Europe promises to maintain sanctions pressure and provide military aid to Ukraine, the US is lifting restrictions and working to end the conflict",
-      "date": "Sun, 11 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Houthis urge Saudi Arabia to cancel flights, declaring country’s airports as their targets",
-      "link": "https://tass.com/world/2200479",
-      "description": "The military spokesman Yahya Saria urged people to \"take the warnings seriously\"",
       "date": "Sun, 11 Oct 2026",
       "source": "TASS",
       "region": "ru",
