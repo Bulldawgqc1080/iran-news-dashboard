@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11 02:43 UTC",
-  "total": 35,
+  "updated": "2026-10-11 09:26 UTC",
+  "total": 36,
   "stories": [
     {
       "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
@@ -23,9 +23,9 @@
       "bias": "Low"
     },
     {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "description": "Another 309 people are injured, with a Saudi-led military coalition saying the attack by Yemen's Houthis is a \"war crime\".",
+      "description": "Saturday's attack was the deadliest in Saudi Arabia since May 2015. US and Saudi officials are blaming Yemen's Houthis, who have yet to comment on the strike.",
       "date": "Sun, 11 Oct 2026",
       "source": "BBC",
       "region": "eu",
@@ -93,6 +93,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "🔴Follow live: Houthis renew threats against Saudi airports as Riyadh attack prompts wave of condemnation",
+      "link": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+      "description": "",
+      "date": "Sun, 11 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Riyadh airport strike kills 12, Saudi Arabia threatens 'decisive' response",
+      "link": "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response",
+      "description": "Saudi Arabia vowed to retaliate against Yemen’s Houthi rebels on Sunday after a strike on Riyadh’s international airport killed a dozen people and wounded more than 300, marking the kingdom's deadliest strike in a decade.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Live: Houthis renew threats against Saudi airports as Riyadh attack prompts wave of condemnation",
+      "link": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+      "description": "Yemen’s Houthi rebels warned airlines, airport staff and travellers against using Saudi airports after a strike on Riyadh killed at least 12 people and wounded more than 300. The attack drew international condemnation as Saudi Arabia threatened retaliation. Follow our liveblog fo...",
+      "date": "Sun, 11 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow",
       "link": "https://www.france24.com/en/video/20261010-russian-attack-on-ukrainian-city-kills-15-a-day-after-trump-eases-diesel-sanctions-on-moscow",
       "description": "Fifteen people, including three children, were killed in a Russian attack on the southern Ukrainian city of Zaporizhzhia on Saturday, a day after US President Donald Trump announced a deal to lift sanctions on Russian diesel, in a major setback for Kyiv. Our correspondent Gullive...",
@@ -103,29 +133,49 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen says advancing against Houthis around key Bab al-Mandab strait",
-      "link": "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway",
-      "description": "Yemen said Saturday that forces were advancing against the Houthis around the Bab al-Mandab strait, a week after the country's Saudi-backed government announced that it was initiating a counter-offensive to take back territory seized by the pro-Iran group during last month's ligh...",
-      "date": "Sat, 10 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "What the Iran war has done to the world’s energy supply, in charts",
+      "link": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
+      "description": "Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children",
-      "link": "https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children",
-      "description": "US President Donald Trump on Saturday told reporters that Ukraine should \"get a new president\", adding that his Ukrainian counterpart Volodymyr Zelensky had disobeyed his orders not to strike Russian refineries. This comes after Washington moved to ease sanctions on Russian diese...",
-      "date": "Sat, 10 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
+      "description": "A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+      "link": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "description": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+      "link": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+      "description": "US military jet strikes stern of commercial cargo ship &#039;without harming the crew&#039;, CENTCOM says.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
       "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
-      "description": "Trump condemns &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s attacks on the Houthis.",
+      "description": "Trump denounces &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s offensive on the Houthis.",
       "date": "Sun, 11 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -153,7 +203,7 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
       "description": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
       "date": "Sun, 11 Oct 2026",
@@ -163,34 +213,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Yemeni government’s military says its forces advancing against Houthis",
-      "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-      "description": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
-      "date": "Sat, 10 Oct 2026",
-      "source": "Al Jazeera",
+      "title": "FO reiterates Pakistan's 'firm and unshakeable' commitment to Saudi Arabia's security after Riyadh attack",
+      "link": "https://www.dawn.com/news/2036347/fo-reiterates-pakistans-firm-and-unshakeable-commitment-to-saudi-arabias-security-after-riyadh-attack",
+      "description": "The Foreign Office (FO) on Sunday condemned a fresh wave of Houthi attacks against Saudi Arabia, reaffirming Pakistan’s “firm and unshakeable” commitment to the sovereignty, territorial integrity, security and stability of the Gulf state under the Makkah Joint Defence Agreement. ...",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-      "link": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "description": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
-      "date": "Sat, 10 Oct 2026",
-      "source": "Al Jazeera",
+      "title": "Lebanon arrests Hezbollah members over explosives",
+      "link": "https://www.dawn.com/news/2036257/lebanon-arrests-hezbollah-members-over-explosives",
+      "description": "BEIRUT: Lebanese authorities arrested two suspected Hezbollah members accused of secretly transporting half-a-tonne of explosives, a judicial source said on Saturday. According to the source the two men were caught on Thursday afternoon at a security checkpoint in Dahr al-Baidar ...",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why is the Trump administration trying to dismantle the ICC?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
-      "description": "The US has imposed sweeping new sanctions on the International Criminal Court.",
-      "date": "Sat, 10 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Palestinian flags fill streets in European cities as thousands march against Israeli attacks on Gaza",
@@ -233,21 +273,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Islamabad pushes UN to turn words into action",
-      "link": "https://www.dawn.com/news/2036076/islamabad-pushes-un-to-turn-words-into-action",
-      "description": "• Seeks stronger General Assembly role when veto stalls Security Council• Proposes dedicated mechanism to track resolutions; urges regular, detailed reports from Secretariat, UNSC to assembly WASHINGTON: Pakistan has called for strengthening the United Nations General Assembly’s ...",
-      "date": "Sat, 10 Oct 2026",
-      "source": "Dawn",
+      "title": "India condemns attack on King Khalid International Airport in Riyadh",
+      "link": "https://www.thehindu.com/news/national/india-condemns-attack-on-king-khalid-international-airport-in-riyadh/article71570790.ece",
+      "description": "The Ministry of External Affairs called the October 10 attack, which killed 12 and injured over 300, “completely unacceptable,” as Saudi Arabia blamed Houthi militants",
+      "date": "Sun, 11 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "US imposes sanctions on International Criminal Court, hours after Nobel award to former judge",
-      "link": "https://www.dawn.com/news/2035945/us-imposes-sanctions-on-international-criminal-court-hours-after-nobel-award-to-former-judge",
-      "description": "The United States on Friday imposed sanctions on the International Criminal Court, vowing to cripple the tribunal’s operations just hours after the Nobel Peace Prize went to a former ICC judge who warned of mounting political attacks on the court. The move came on the same day th...",
-      "date": "Fri, 09 Oct 2026",
-      "source": "Dawn",
+      "title": "U.S. military says it disabled cargo vessel trying to run Iran blockade",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade/article71570769.ece",
+      "description": "CENTCOM said the cargo vessel had attempted to transit regional waters after leaving an Iranian port",
+      "date": "Sun, 11 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump says Ukraine should get new President as he blames Zelenskyy for U.S. diesel prices",
+      "link": "https://www.thehindu.com/news/international/trump-says-ukraine-should-get-new-president-as-he-blames-zelenskyy-for-us-diesel-prices/article71570543.ece",
+      "description": "Donald Trump has also sought to blame record U.S. diesel prices on Ukraine rather than the U.S.-led war in Iran, which has elevated world energy prices",
+      "date": "Sun, 11 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -283,36 +333,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan says ‘substantial’ forces, resources already in Saudi Arabia under defence deal",
-      "link": "https://www.thehindu.com/news/international/pakistan-says-substantial-forces-resources-already-in-saudi-arabia-under-defence-deal/article71565652.ece",
-      "description": "Foreign Office spokesperson Sajjad Haider Khan made the remarks at his weekly press briefing in response to a question on the growing threat posed by Yemen’s Houthi rebels to Saudi Arabia",
-      "date": "Fri, 09 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Saudi authorities say three killed in Houthi-claimed attacks on Riyadh airport",
-      "link": "https://www.thehindu.com/news/international/saudi-authorities-say-three-killed-in-houthi-claimed-attacks-on-riyadh-airport/article71565580.ece",
-      "description": "The attacks on October 8 were the deadliest in Saudi Arabia since the kingdom and allied forces in neighbouring Yemen launched a major military offensive against Yemen's Iran-backed Houthi rebels last weekend",
-      "date": "Fri, 09 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "ICC rejects U.S. sanctions, says 'history will judge this moment'",
-      "link": "https://www.thehindu.com/news/international/icc-rejects-us-sanctions-says-history-will-judge-this-moment/article71565060.ece",
-      "description": "The sanctions are \"an assault on the rule of law and on the very foundations of the international legal order which strikes at the simple principle that no one stands above the law\", said the court in a statement",
-      "date": "Fri, 09 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "US condemns Houthi attack on Riyadh airport, which killed American — Rubio",
       "link": "https://tass.com/world/2200409",
       "description": "The US secretary of state also condemned other recent attacks on Saudi Arabia",
@@ -336,16 +356,6 @@
       "title": "Oil supertanker hits mine in Strait of Hormuz — IRGC",
       "link": "https://tass.com/world/2200371",
       "description": "According to the Iranian military, the tanker struck a mine and exploded after turning off its positioning and navigation systems",
-      "date": "Sat, 10 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Putin conveyed Iran’s vision for possible conflict resolution to Trump — Kremlin",
-      "link": "https://tass.com/politics/2200271",
-      "description": "Russian President held two meetings with Pezeshkian on the sidelines of a summit in Turkmenistan, Dmitry Peskov said",
       "date": "Sat, 10 Oct 2026",
       "source": "TASS",
       "region": "ru",
