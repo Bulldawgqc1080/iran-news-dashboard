@@ -1,15 +1,26 @@
 {
-  "updated": "2026-10-12 00:04 UTC",
-  "total": 9,
+  "updated": "2026-10-12 06:42 UTC",
+  "total": 10,
   "events": [
+    {
+      "date": "2026-10-12",
+      "dateDisplay": "Oct 12, 2026",
+      "title": "Fresh Houthi strike hits Riyadh airport a day after deadly attack",
+      "link": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-10-11",
       "dateDisplay": "Oct 11, 2026",
       "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
-        "BBC"
+        "BBC",
+        "Al Jazeera"
       ],
       "sourceCount": 2,
       "type": "govt"
