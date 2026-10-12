@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-11 20:40 UTC",
+  "updated": "2026-10-12 00:04 UTC",
   "total": 38,
   "stories": [
+    {
+      "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
+      "link": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
+      "description": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
       "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
@@ -23,9 +33,9 @@
       "bias": "Low"
     },
     {
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+      "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
       "date": "Sun, 11 Oct 2026",
       "source": "BBC",
       "region": "eu",
@@ -153,14 +163,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
-      "link": "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
-      "description": "US President Donald Trump and Ukrainian leader Volodymyr Zelensky traded barbs Saturday after Washington moved to ease sanctions on Russian diesel and Moscow's continued strikes on Ukraine killed at least 21 people, including four children.",
+      "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+      "description": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
       "date": "Sun, 11 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+      "description": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Two killed near Israeli-occupied area in south Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+      "description": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.",
+      "date": "Sun, 11 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
@@ -196,36 +226,6 @@
       "title": "Is the Yemen war entering a new phase?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
       "description": "Saudi Arabia has accused Yemen’s Houthis of killing 12 people and injuring 300 in Saturday&#039;s attack on King Khalid Inter",
-      "date": "Sun, 11 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "How the ICC can be saved",
-      "link": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
-      "description": "Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless. Action is needed to protect the court.",
-      "date": "Sun, 11 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
-      "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
-      "description": "Repeated Houthi attacks on Saudi Arabia&#039;s King Khalid Airport reveal the limitations of even high-tech air defences.",
-      "date": "Sun, 11 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-      "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-      "description": "IRGC warns against ignoring waterway&#039;s &#039;security and rules&#039; as CENTCOM says US disabled vessel trying to run blockade.",
       "date": "Sun, 11 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -343,6 +343,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Death toll from Israeli attacks on Lebanon nears 4,390 — health ministry",
+      "link": "https://tass.com/world/2200599",
+      "description": "Meanwhile, 12,424 people have being injured",
+      "date": "Sun, 11 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran says US’ response to its conditions for talks are insufficient — Iranian official",
+      "link": "https://tass.com/world/2200597",
+      "description": "Secretary of Iran’s Supreme National Security Council Mohsen Rezaei stressed that \"if the Americans do not meet these conditions, neither will the Strait of Hormuz be opened to them\"",
+      "date": "Sun, 11 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Iran-Oman agreement on Hormuz Strait doesn’t provide for its immediate reopening",
       "link": "https://tass.com/world/2200593",
       "description": "The reopening of the strait depends entirely on the United States fulfilling its obligations, Iranian Deputy Foreign Minister Kazem Gharibabadi said",
@@ -356,26 +376,6 @@
       "title": "Iran warns ships against transiting Strait of Hormuz with their navigation systems off",
       "link": "https://tass.com/world/2200591",
       "description": "In such cases, the vessels \"will be subject to severe punishment,\" it warned",
-      "date": "Sun, 11 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Houthis say they attacked Saudi Aramco facilities, airports in Saudi Arabia",
-      "link": "https://tass.com/world/2200579",
-      "description": "According to the Houthi spokesman Yahya Saria, the attacks targeted a Saudi Aramco gas processing facility in Shedgum and an oil facility in Tanajib in the east of Saudi Arabia and were followed by fires",
-      "date": "Sun, 11 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "No sanctions bills ban US from importing diesel from Russia — Treasury Secretary",
-      "link": "https://tass.com/world/2200543",
-      "description": "The US administration possesses all the necessary legal authority to do so, Scott Bessent said",
       "date": "Sun, 11 Oct 2026",
       "source": "TASS",
       "region": "ru",
