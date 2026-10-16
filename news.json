@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16 20:12 UTC",
-  "total": 28,
+  "updated": "2026-10-16 23:05 UTC",
+  "total": 30,
   "stories": [
     {
       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
@@ -83,6 +83,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
+      "link": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
+      "description": "Ukrainian President Volodymyr Zelensky turned to his European allies on Friday, asking Brussels for an additional €70 billion to fund the war against Russia next year. Zelensky's relationship with US President Donald Trump deteriorated after the US eased sanctions on Moscow as pa...",
+      "date": "Fri, 16 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
+      "link": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
+      "description": "Albanian Prime Minister Edi Rama on Friday blamed the involvement of “foreign hands” for escalating protests, which he said are aimed at hindering Albania's bid to join the European Union. Thousands of demonstrators have taken to the streets of Albania's capital since Tuesday, de...",
+      "date": "Fri, 16 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
       "link": "https://www.france24.com/en/video/20261016-replay-ukraine-s-zelensky-holds-presser-in-brussels",
       "description": "Ukrainian President Volodymyr Zelensky on Friday urged European leaders to maintain their support for Kyiv and warned against easing sanctions on Russia. Speaking to reporters at the European summit in Brussels, Zelensky said that ending the war remained Ukraine’s priority but ac...",
@@ -103,6 +123,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+      "link": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+      "description": "Attack comes as Yemeni gov&#039;t forces claim advances in Marib and say they &#039;neutralised&#039; 430 Houthi fighters in 24 hours.",
+      "date": "Fri, 16 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
       "link": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
       "description": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
@@ -116,36 +146,6 @@
       "title": "Iran’s president condemns environmental impact of war in Middle East",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
       "description": "Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East",
-      "date": "Fri, 16 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Division in Lebanon over Hezbollah’s confiscated explosives",
-      "link": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss",
-      "description": "Hezbollah said explosives were to be used against Israel but political figures and some analysts fear assassinations.",
-      "date": "Fri, 16 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
-      "description": "Sheikh Mohammed also discussed Israeli &#039;violations&#039; in Lebanese territory with Prime Minister Nawaf Salam.",
-      "date": "Fri, 16 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
-      "description": "Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.",
       "date": "Fri, 16 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -263,9 +263,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Lavrov to pay working visit to Iran on October 19 — spokeswoman",
-      "link": "https://tass.com/politics/2203135",
-      "description": "The Russian foreign minister will have a meeting with his Iranian counterpart, Abbas Araghchi",
+      "title": "US not to supply Ukraine with weapons at expense of its own security — columnist",
+      "link": "https://tass.com/world/2203381",
+      "description": "Jude Russo pointed out that a war with Iran \"will always tend to demand more attention and resources than the proxy conflict in Europe",
       "date": "Fri, 16 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -273,9 +273,29 @@
       "bias": "Very High"
     },
     {
-      "title": "Iranian ambassador says US withdrawal from Middle East is only way to resolve conflict",
-      "link": "https://tass.com/world/2203127",
-      "description": "Kazem Jalali said the the Middle East can ensure security in the region itself",
+      "title": "Trump says war with Iran will end 'sooner than people think'",
+      "link": "https://tass.com/world/2203369",
+      "description": "Thus the US leader told reporters",
+      "date": "Fri, 16 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Two Houthi missiles hit Aden Airport, no casualties reported — police",
+      "link": "https://tass.com/world/2203367",
+      "description": "This was the second such attack on the airport in less than a week",
+      "date": "Fri, 16 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Lavrov to pay working visit to Iran on October 19 — spokeswoman",
+      "link": "https://tass.com/politics/2203135",
+      "description": "The Russian foreign minister will have a meeting with his Iranian counterpart, Abbas Araghchi",
       "date": "Fri, 16 Oct 2026",
       "source": "TASS",
       "region": "ru",
