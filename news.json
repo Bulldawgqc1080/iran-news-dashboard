@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17 01:59 UTC",
-  "total": 31,
+  "updated": "2026-10-17 06:36 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
@@ -83,6 +83,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
+      "link": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
+      "description": "Yemen's Iran-aligned Houthi group claimed responsibility after two missiles struck Aden International Airport Friday, saying they had targeted a weapons depot as well as a military command headquarters. The Aden Security Department said a Yemenia Airways flight bound for Cairo ha...",
+      "date": "Sat, 17 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
       "link": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
       "description": "Ukrainian President Volodymyr Zelensky turned to his European allies on Friday, asking Brussels for an additional €70 billion to fund the war against Russia next year. Zelensky's relationship with US President Donald Trump deteriorated after the US eased sanctions on Moscow as pa...",
@@ -113,19 +123,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'America, with this president, is not our ally. Trump is a liar': French MEP Bernard Guetta",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261016-america-with-this-president-is-not-our-ally-trump-is-a-liar-french-mep-bernard-guetta",
-      "description": "Our guest is veteran French journalist and commentator Bernard Guetta, who is a Member of the European Parliament for the centrist Renew group. He tells the programme that Donald Trump is \"a liar, because he tried to tell the American people that Zelensky and the Ukrainian resist...",
-      "date": "Fri, 16 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
+      "description": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
+      "date": "Sat, 17 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
+      "title": "Trump puts on hold new Russia sanctions he signed into law",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
+      "description": "US president&#039;s executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
+      "date": "Sat, 17 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+      "description": "Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.",
+      "date": "Sat, 17 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-      "description": "Trump says the US Navy blockade has stopped all Iranian ships from crossing the Strait of Hormuz.",
+      "description": "Iran’s IRGC says an oil supertanker is on fire in the Strait of Hormuz after striking a naval mine.",
       "date": "Sat, 17 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -143,14 +173,24 @@
       "bias": "Medium"
     },
     {
-      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
-      "description": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
-      "date": "Fri, 16 Oct 2026",
-      "source": "Al Jazeera",
+      "title": "Trump waives new Russia sanctions as Ukraine ties slump",
+      "link": "https://www.dawn.com/news/2037795/trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
+      "description": "President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia’s energy revenues, marking a new low in Washington’s ties with war-torn Ukraine. The move came as Ukrainian President Volodymyr Zelensky urged EU leaders to k...",
+      "date": "Sat, 17 Oct 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Zelensky smiles on being asked whether Trump is scapegoating him",
+      "link": "https://www.dawn.com/news/2037755/zelensky-smiles-on-being-asked-whether-trump-is-scapegoating-him",
+      "description": "BRUSSELS: Ukrainian President Volodymyr Zele­­nsky gave a knowing smile and stayed mum on Friday when asked if the US president was scapegoating him for troubles in the US. “This is my answer,” Zelensky said, as journalists broke into laughter at a press conference in Brussels af...",
+      "date": "Sat, 17 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Norwegian teen gets 20 years for UK murder plot",
@@ -193,29 +233,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Saudi Arabia accuses Iran of encouraging Houthis in latest escalation",
-      "link": "https://www.dawn.com/news/2037377/saudi-arabia-accuses-iran-of-encouraging-houthis-in-latest-escalation",
-      "description": "A Saudi foreign ministry official on Thursday accused Iran of encouraging the Houthis in the latest escalation of their fight with the kingdom, adding that it continues to arm and train the group. “Iran continues to arm, train and support the Houthi militia in violation of UN sec...",
-      "date": "Thu, 15 Oct 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US considers hitting Iran with 'Mother of All Bombs': report",
-      "link": "https://www.dawn.com/news/2037331/us-considers-hitting-iran-with-mother-of-all-bombs-report",
-      "description": "The United States is considering using its biggest non-nuclear bomb against Iran if President Donald Trump should decide to renew combat in the war that has hit a deadlock, CNN reported on Thursday. The military is planning for the potential use of the GBU-43/B Massive Ordnance A...",
-      "date": "Thu, 15 Oct 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Israel drastically reduces British diplomatic presence in Jerusalem",
-      "link": "https://www.thehindu.com/news/international/israel-drastically-reduces-british-diplomatic-presence-in-jerusalem/article71561112.ece",
-      "description": "The move comes after Israel ordered the closure of the consulate in September as retaliation after London-led Western sanctions over violence by Israeli settlers against Palestinians in the occupied West Bank",
+      "title": "Attacks on Gulf energy infrastructure ‘worrying’ for outlook: Pakistan Finance Minister",
+      "link": "https://www.thehindu.com/news/international/attacks-on-gulf-energy-infrastructure-worrying-for-outlook-pakistan-finance-minister/article71595450.ece",
+      "description": "Muhammad Aurangzeb told AFP that Pakistan has withstood the initial shock from the Iran war but said continued attacks on Gulf energy infrastructure would delay a return to economic normalcy",
       "date": "Sat, 17 Oct 2026",
       "source": "The Hindu",
       "region": "me",
@@ -223,9 +243,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthis claim new attack against airport in Saudi capital Riyadh as witness reports evacuation",
-      "link": "https://www.thehindu.com/news/international/saudi-arabia-riyadh-airport-attack-yemen-houthis-october-8-2026/article71560070.ece",
-      "description": "Saudi Arabia’s civil defence agency said a kindergarten and medical complex in Riyadh were damaged by shrapnel from an intercepted missile, hours after explosions rattled Riyadh",
+      "title": "Talks with Iran can only succeed without threats, President says",
+      "link": "https://www.thehindu.com/news/international/talks-with-iran-can-only-succeed-without-threats-president-says/article71565681.ece",
+      "description": "Diplomatic efforts to end the seven-month conflict, which began with U.S.-Israeli strikes on Iran in February, have been at an impasse since the summer",
       "date": "Sat, 17 Oct 2026",
       "source": "The Hindu",
       "region": "me",
@@ -233,9 +253,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump interrupted by protesters as he fights to rally Texas voters behind Paxton in U.S. Senate race",
-      "link": "https://www.thehindu.com/news/international/trump-interrupted-by-protesters-as-he-fights-to-rally-texas-voters-behind-paxton-in-us-senate-race/article71558298.ece",
-      "description": "With Election Day less than a month away, Trump's poor approval ratings, the Iran war and soaring gas prices have threatened Republicans in virtually every state",
+      "title": "Pakistan says ‘substantial’ forces, resources already in Saudi Arabia under defence deal",
+      "link": "https://www.thehindu.com/news/international/pakistan-says-substantial-forces-resources-already-in-saudi-arabia-under-defence-deal/article71565652.ece",
+      "description": "Foreign Office spokesperson Sajjad Haider Khan made the remarks at his weekly press briefing in response to a question on the growing threat posed by Yemen’s Houthi rebels to Saudi Arabia",
       "date": "Sat, 17 Oct 2026",
       "source": "The Hindu",
       "region": "me",
@@ -243,9 +263,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen’s Houthis say struck Riyadh airport, other Saudi sites",
-      "link": "https://www.thehindu.com/news/international/yemens-houthis-say-struck-riyadh-airport-other-saudi-sites/article71550273.ece",
-      "description": "The fighting in Yemen has become the most active front in the West Asia war in recent weeks, displacing more than 1,84,000 people, the United Nations says, and deepening the conflict that has engulfed the wider region.",
+      "title": "Saudi authorities say three killed in Houthi-claimed attacks on Riyadh airport",
+      "link": "https://www.thehindu.com/news/international/saudi-authorities-say-three-killed-in-houthi-claimed-attacks-on-riyadh-airport/article71565580.ece",
+      "description": "The attacks on October 8 were the deadliest in Saudi Arabia since the kingdom and allied forces in neighbouring Yemen launched a major military offensive against Yemen's Iran-backed Houthi rebels last weekend",
       "date": "Sat, 17 Oct 2026",
       "source": "The Hindu",
       "region": "me",
@@ -253,60 +273,60 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran has ‘lost complete control’ of Hormuz Strait: Rubio",
-      "link": "https://www.thehindu.com/news/international/iran-has-lost-complete-control-of-hormuz-strait-rubio/article71557084.ece",
-      "description": "“The Straits of Hormuz are open. There’s almost as much oil flowing out now as there was before this conflict began. So they’ve lost complete control of the Straits,” Mr. Rubio said",
-      "date": "Fri, 16 Oct 2026",
+      "title": "ICC rejects U.S. sanctions, says 'history will judge this moment'",
+      "link": "https://www.thehindu.com/news/international/icc-rejects-us-sanctions-says-history-will-judge-this-moment/article71565060.ece",
+      "description": "The sanctions are \"an assault on the rule of law and on the very foundations of the international legal order which strikes at the simple principle that no one stands above the law\", said the court in a statement",
+      "date": "Sat, 17 Oct 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Tanker off Qatar reports hits from multiple projectiles: U.K. maritime agency",
-      "link": "https://www.thehindu.com/news/international/oil-tanker-off-qatar-reports-hits-from-multiple-projectiles-hormuz-strait-october-7-2026/article71558152.ece",
-      "description": "The reported attack on Wednesday (October 7, 2026) was around 500 kilometres (300 miles) from the Strait of Hormuz",
-      "date": "Fri, 16 Oct 2026",
+      "title": "Donald Trump waives sanctions, tariffs on purchase of Russian oil and gas",
+      "link": "https://www.thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece",
+      "description": "Trump said he had submitted to Congress a certification that issuing such a waiver at this time is in the national interest of the United States",
+      "date": "Sat, 17 Oct 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Trump suspends sanctions against Russia under new law until further notice",
+      "link": "https://tass.com/world/2203433",
+      "description": "It does not specify any time limits for these exceptions",
+      "date": "Sat, 17 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump orders not to apply sanctions against Russians under new law",
+      "link": "https://tass.com/world/2203431",
+      "description": "The decree says that these exceptions do not apply to other existing US restrictions",
+      "date": "Sat, 17 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump says has no plans to introduce restrictions based on law on sanctions against Russia",
+      "link": "https://tass.com/world/2203419",
+      "description": "This is in the national interests of the United States, the American leader’s decree stated",
+      "date": "Sat, 17 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump believes US receives information about all Iran’s actions",
       "link": "https://tass.com/world/2203411",
       "description": "Donald Trump stated that the US hears everything the Iranian authorities say",
       "date": "Sat, 17 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Projectile hits tanker with five Indians on board in Strait of Hormuz — Indian minister",
-      "link": "https://tass.com/world/2203407",
-      "description": "India’s Minister of Ports, Shipping and Waterways Sarbananda Sonowal noted that the Indian authorities are monitoring the situation",
-      "date": "Sat, 17 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran ready to assist in resolving conflict between Houthis and Saudi Arabia",
-      "link": "https://tass.com/world/2203405",
-      "description": "Foreign Ministry spokesman Esmaeil Baghaei noted the need to resolve the disagreements between Saudi Arabia and the Houthis through dialogue and diplomacy",
-      "date": "Sat, 17 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US not to supply Ukraine with weapons at expense of its own security — columnist",
-      "link": "https://tass.com/world/2203381",
-      "description": "Jude Russo pointed out that a war with Iran \"will always tend to demand more attention and resources than the proxy conflict in Europe",
-      "date": "Fri, 16 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
