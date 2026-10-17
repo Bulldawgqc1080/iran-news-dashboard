@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-17 11:15 UTC",
+  "updated": "2026-10-17 14:35 UTC",
   "total": 32,
   "stories": [
+    {
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+      "description": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+      "date": "Sat, 17 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
       "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
@@ -113,9 +123,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
+      "title": "Zelensky fears Trump 'will continue' to lift Russia sanctions",
       "link": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
-      "description": "Ukrainian President Volodymyr Zelensky turned to his European allies on Friday, asking Brussels for an additional €70 billion to fund the war against Russia next year. Zelensky's relationship with US President Donald Trump deteriorated after the US eased sanctions on Moscow as pa...",
+      "description": "Ukrainian President Volodymyr Zelensky said on Saturday that he feared his US counterpart Donald Trump \"will continue\" lifitng sanctions on Russia. Zelensky's relationship with Trump deteriorated after the Washington eased sanctions on Moscow as part of a diesel-supply deal, desp...",
       "date": "Fri, 16 Oct 2026",
       "source": "France 24",
       "region": "eu",
@@ -131,6 +141,26 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+      "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+      "description": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+      "date": "Sat, 17 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+      "description": "Analysts say Russia will benefit most from US sanctions waiver.",
+      "date": "Sat, 17 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
@@ -153,34 +183,14 @@
       "bias": "Medium"
     },
     {
-      "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
-      "description": "Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.",
+      "title": "Iran backs 'political process' to resolve Saudi-Houthi conflict",
+      "link": "https://www.dawn.com/news/2037840/iran-backs-political-process-to-resolve-saudi-houthi-conflict",
+      "description": "Iranian Foreign Minister Abbas Araghchi said on Saturday that Tehran supports a “political process” to resolve the conflict between Saudi Arabia and Yemen’s Houthi rebels. The Houthis have repeatedly attacked Saudi targets, including energy facilities and Riyadh’s international a...",
       "date": "Sat, 17 Oct 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
-      "description": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
-      "date": "Sat, 17 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump puts on hold new Russia sanctions he signed into law",
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
-      "description": "US president&#039;s executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
-      "date": "Sat, 17 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Zelensky smiles on being asked whether Trump is scapegoating him",
@@ -213,21 +223,41 @@
       "bias": "Low-Med"
     },
     {
-      "title": "7 sailors missing after drones hit two ships near Romania",
-      "link": "https://www.dawn.com/news/2037483/7-sailors-missing-after-drones-hit-two-ships-near-romania",
-      "description": "BUCHAREST: Rescuers searched on Thursday for seven missing sailors after drones struck two chemical tankers near Romania’s Black Sea coast, setting them ablaze and raising fresh security concerns along a vital shipping route used by Ukraine. Romanian President Nicusor Dan said th...",
-      "date": "Fri, 16 Oct 2026",
-      "source": "Dawn",
+      "title": "Iran backs ‘political process’ to resolve Saudi-Houthi conflict: FM",
+      "link": "https://www.thehindu.com/news/international/iran-backs-political-process-to-resolve-saudi-houthi-conflict-fm/article71596732.ece",
+      "description": "The Houthis have repeatedly attacked Saudi targets including energy facilities and Riyadh’s international airport, where 13 people were killed in a major attack last week",
+      "date": "Sat, 17 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "At UNSC, Pakistan condemns Houthi attacks on Saudi Arabia, reaffirms support for kingdom's security",
-      "link": "https://www.dawn.com/news/2037399/at-unsc-pakistan-condemns-houthi-attacks-on-saudi-arabia-reaffirms-support-for-kingdoms-security",
-      "description": "WASHINGTON: Pakistan on Thursday strongly condemned Houthi attacks on Saudi Arabia’s civilian and economic infrastructure, reaffirming its support for the kingdom’s security and right to self-defence amid escalating regional tensions. Speaking at a United Nations Security Council...",
-      "date": "Thu, 15 Oct 2026",
-      "source": "Dawn",
+      "title": "Sri Lanka’s former President Mahinda Rajapaksa admitted to hospital for urgent medical care",
+      "link": "https://www.thehindu.com/news/international/sri-lankas-former-president-mahinda-rajapaksa-admitted-to-hospital-for-urgent-medical-care/article71574145.ece",
+      "description": "Mr. Rajapaksa's hospitalisation comes amid legal proceedings involving his family, with his wife Shiranthi and elder son Namal facing separate investigations over alleged financial irregularities",
+      "date": "Sat, 17 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Oil tanker on fire after hitting mine in Hormuz: Iran's Guards",
+      "link": "https://www.thehindu.com/news/international/oil-tanker-on-fire-after-hitting-mine-in-hormuz-irans-guards/article71596177.ece",
+      "description": "Tehran seized control over Hormuz after the start of the war in late February, choking off the strait that normally carries about one-fifth of global oil consumption.",
+      "date": "Sat, 17 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Saudi-led coalition says destroyed more than 100 Houthi targets",
+      "link": "https://www.thehindu.com/news/international/saudi-led-coalition-says-destroyed-more-than-100-houthi-targets/article71569265.ece",
+      "description": "",
+      "date": "Sat, 17 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -253,34 +283,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Attacks on Gulf energy infrastructure ‘worrying’ for outlook: Pakistan Finance Minister",
-      "link": "https://www.thehindu.com/news/international/attacks-on-gulf-energy-infrastructure-worrying-for-outlook-pakistan-finance-minister/article71595450.ece",
-      "description": "Muhammad Aurangzeb told AFP that Pakistan has withstood the initial shock from the Iran war but said continued attacks on Gulf energy infrastructure would delay a return to economic normalcy",
+      "title": "Sanctions are Biden’s ineffective idea — Russian presidential envoy",
+      "link": "https://tass.com/politics/2203535",
+      "description": "Most countries have not joined sanctions against Russia and understand they harm the world economy and prosperity, special representative of the Russian president for investment and economic cooperation with foreign countries, head of the Russian Direct Investment Fund Kirill Dmi...",
       "date": "Sat, 17 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Talks with Iran can only succeed without threats, President says",
-      "link": "https://www.thehindu.com/news/international/talks-with-iran-can-only-succeed-without-threats-president-says/article71565681.ece",
-      "description": "Diplomatic efforts to end the seven-month conflict, which began with U.S.-Israeli strikes on Iran in February, have been at an impasse since the summer",
+      "title": "Record number of vessels attacked in Strait of Hormuz since early October",
+      "link": "https://tass.com/world/2203527",
+      "description": "From October 1 to October 13, 22 vessels reported attacks",
       "date": "Sat, 17 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Pakistan says ‘substantial’ forces, resources already in Saudi Arabia under defence deal",
-      "link": "https://www.thehindu.com/news/international/pakistan-says-substantial-forces-resources-already-in-saudi-arabia-under-defence-deal/article71565652.ece",
-      "description": "Foreign Office spokesperson Sajjad Haider Khan made the remarks at his weekly press briefing in response to a question on the growing threat posed by Yemen’s Houthi rebels to Saudi Arabia",
-      "date": "Sat, 17 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump suspends sanctions against Russia under new law until further notice",
@@ -296,26 +316,6 @@
       "title": "Trump orders not to apply sanctions against Russians under new law",
       "link": "https://tass.com/world/2203431",
       "description": "The decree says that these exceptions do not apply to other existing US restrictions",
-      "date": "Sat, 17 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says has no plans to introduce restrictions based on law on sanctions against Russia",
-      "link": "https://tass.com/world/2203419",
-      "description": "This is in the national interests of the United States, the American leader’s decree stated",
-      "date": "Sat, 17 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump believes US receives information about all Iran’s actions",
-      "link": "https://tass.com/world/2203411",
-      "description": "Donald Trump stated that the US hears everything the Iranian authorities say",
       "date": "Sat, 17 Oct 2026",
       "source": "TASS",
       "region": "ru",
