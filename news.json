@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18 15:02 UTC",
-  "total": 27,
+  "updated": "2026-10-18 18:20 UTC",
+  "total": 28,
   "stories": [
     {
       "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
@@ -83,6 +83,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
+      "link": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
+      "description": "US President Donald Trump on Sunday endorsed Prime Minister Benjamin Netanyahu ahead of Israel's October 27 elections. It was not clear what impact the endorsement would have on voters, since many Israelis have expressed disappointment with Trump over the outcome of the Iran war ...",
+      "date": "Sun, 18 Oct 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Riots in Tirana enter a fifth day as Albania's anti-government protests escalate",
       "link": "https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate",
       "description": "Clashes broke out near the Albanian prime minister’s office in the capital, Tirana, on Saturday as anti-government riots entered a fifth day.",
@@ -93,14 +103,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Rubio says Trump to 'analyze' global impact of Russia sanctions during pause",
-      "link": "https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact",
-      "description": "US Secretary of State Marco Rubio said Saturday that US President Donald Trump’s decision to waive sanctions and tariffs on Russia would last 60 days, as the move drew bipartisan criticism and raised fears in Ukraine that Washington could ease further restrictions on Moscow.",
+      "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+      "link": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+      "description": "Police crack down on hundreds of protesters in Albania&#039;s capital, using rubber bullets, water cannons and tear gas.",
       "date": "Sun, 18 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
@@ -111,6 +121,16 @@
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Trump endorses Netanyahu in Israeli election",
+      "link": "https://www.dawn.com/news/2038051/trump-endorses-netanyahu-in-israeli-election",
+      "description": "United States President Donald Trump on Sunday endorsed his ally Benjamin Netanyahu as the longtime Israeli prime minister struggles for an edge in next week’s parliamentary election. Trump praised Netanyahu as a “great warrior prime minster” and peace partner, crediting him with...",
+      "date": "Sun, 18 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Tensions over headscarves, Israel test Azerbaijan-Turkiye ties",
@@ -163,11 +183,41 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran backs 'political process' to resolve Saudi-Houthi conflict",
-      "link": "https://www.dawn.com/news/2037840/iran-backs-political-process-to-resolve-saudi-houthi-conflict",
-      "description": "Iranian Foreign Minister Abbas Araghchi said on Saturday that Tehran supports a “political process” to resolve the conflict between Saudi Arabia and Yemen’s Houthi rebels. The Houthis have repeatedly attacked Saudi targets, including energy facilities and Riyadh’s international a...",
-      "date": "Sat, 17 Oct 2026",
-      "source": "Dawn",
+      "title": "Iran backs ‘political process’ to resolve Saudi-Houthi conflict: FM",
+      "link": "https://www.thehindu.com/news/international/iran-backs-political-process-to-resolve-saudi-houthi-conflict-fm/article71596732.ece",
+      "description": "The Houthis have repeatedly attacked Saudi targets including energy facilities and Riyadh’s international airport, where 13 people were killed in a major attack last week",
+      "date": "Sun, 18 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Houthi media says Saudi strike kills 9 in northern Yemen",
+      "link": "https://www.thehindu.com/news/international/houthi-media-says-saudi-strike-kills-9-in-northern-yemen/article71600958.ece",
+      "description": "The Saudi-led coalition fighting the Houthis has launched hundreds of raids in Yemen backing the internationally recognised government since the start of the renewed fighting in the long-running civil war",
+      "date": "Sun, 18 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran's new Defence Minister Akhlaghi threatens 'enormous damage' if U.S. attacks",
+      "link": "https://www.thehindu.com/news/international/irans-new-defence-minister-akhlaghi-threatens-enormous-damage-if-us-attacks/article71600872.ece",
+      "description": "The veteran defence official replaces Aziz Nasirzadeh, who was killed in a U.S.-Israeli attack on a leadership compound on February 28, alongside former Supreme leader Ayatollah Ali Khamenei and senior military commanders",
+      "date": "Sun, 18 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "France protests: Police arrest 1,800 after violent clashes and looting mar protests",
+      "link": "https://www.thehindu.com/news/international/france-paris-protests-police-arrests-damage/article71599628.ece",
+      "description": "The violence in Paris, Marseille, Lyon, Bordeaux and other cities occurred on the sidelines of mass demonstrations against high inflation caused in part from the U.S.-Iran war",
+      "date": "Sun, 18 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -193,49 +243,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Saudi coalition says two pilots killed in chopper crash near Yemen",
-      "link": "https://www.thehindu.com/news/international/saudi-coalition-says-two-pilots-killed-in-chopper-crash-near-yemen/article71599858.ece",
-      "description": "The coalition blamed a \"technical malfunction\" for the incident, which inflicted its first military fatalities since the long-running war with the Houthis reignited in July",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "France protests: More than 1,800 arrested, Interior Minister says",
-      "link": "https://www.thehindu.com/news/international/france-paris-protests-police-arrests-damage/article71599628.ece",
-      "description": "The violence in Paris, Marseille, Lyon, Bordeaux and other cities occurred on the sidelines of mass demonstrations against high inflation caused in part from the U.S.-Iran war",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Attacks on Gulf energy infrastructure ‘worrying’ for outlook: Pakistan Finance Minister",
-      "link": "https://www.thehindu.com/news/international/attacks-on-gulf-energy-infrastructure-worrying-for-outlook-pakistan-finance-minister/article71595450.ece",
-      "description": "Muhammad Aurangzeb told AFP that Pakistan has withstood the initial shock from the Iran war but said continued attacks on Gulf energy infrastructure would delay a return to economic normalcy",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Vice-President Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-      "link": "https://www.thehindu.com/news/international/vice-president-vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall/article71599161.ece",
-      "description": "The string of sharp queries, some from voters who said they had supported him and President Donald Trump, previewed the rocky path he may face trying to answer for the administration's record if he runs for President himself in 2028",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russia, Kuwait note importance of finding ways to ease tensions in Persian Gulf",
-      "link": "https://tass.com/politics/2203735",
-      "description": "The Gulf Cooperation Council is a regional organization comprising six countries: Bahrain, Qatar, Kuwait, the UAE, Oman, and Saudi Arabia.",
+      "title": "Lavrov to visit Tehran, to be received by President Pezeshkian on October 19",
+      "link": "https://tass.com/politics/2203831",
+      "description": "Russian Foreign Minister Sergey Lavrov also will hold talks with his Iranian counterpart Araghchi",
       "date": "Sun, 18 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -243,9 +253,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Persian Gulf states highly appreciate coordination with Russia within OPEC+",
-      "link": "https://tass.com/economy/2203739",
-      "description": "Bahrain’s Foreign Minister Abdullatif bin Rashid Al Zayani emphasized the importance of accelerating the implementation of the joint action plan between the countries of the Persian Gulf and Russia in such areas as energy, transport, food security, investment, and culture",
+      "title": "Trump’s approach to Iranian leadership harmful to stability in region — Lavrov",
+      "link": "https://tass.com/politics/2203811",
+      "description": "\"I think was essentially about what the United States and Israel have done,\" Russian Foreign Minister said",
       "date": "Sun, 18 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -253,9 +263,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Gulf countries call on Russia to support their participation in negotiations on Iran",
-      "link": "https://tass.com/world/2203729",
-      "description": "He also expressed gratitude to Moscow for its coordination within the UN Security Council",
+      "title": "Situation in Middle East on brink of full-scale war — Lavrov",
+      "link": "https://tass.com/politics/2203795",
+      "description": "It is necessary to eliminate the root causes of what is happening in and around the Strait of Hormuz, Russian Foreign Minister said",
       "date": "Sun, 18 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -263,9 +273,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Lavrov meets with Saudi Arabian foreign minister in Bahrain — Russian Foreign Ministry",
-      "link": "https://tass.com/politics/2203705",
-      "description": "The ministers met in September in Moscow to discuss the dangerous escalation in the Middle East, including in connection with the deteriorating conflict between Saudi Arabia and the Yemeni Houthis",
+      "title": "Russia looking for ways to settle conflict between Saudi Arabia, Houthis — Lavrov",
+      "link": "https://tass.com/politics/2203805",
+      "description": "We believe there are ample grounds for this, including the 2023 road map developed with Saudi Arabia’s active and leading role, Russian Foreign Minister said",
       "date": "Sun, 18 Oct 2026",
       "source": "TASS",
       "region": "ru",
