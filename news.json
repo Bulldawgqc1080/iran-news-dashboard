@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 23:46 UTC",
+  "updated": "2026-10-19 02:15 UTC",
   "total": 29,
   "stories": [
     {
@@ -83,9 +83,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
+      "title": "Zelensky holds US talks as Trump accuses him of not wanting peace",
       "link": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
-      "description": "US President Donald Trump on Sunday accused Ukrainian President Volodymyr Zelensky of prolonging the war with Russia, claiming Kyiv had little interest in peace. Trump said negotiations to end the four-year conflict were making “great progress” but alleged Zelensky was reluctant ...",
+      "description": "Ukrainian President Volodymyr Zelensky spoke with US envoys Steve Witkoff and Jared Kushner on Sunday amid tensions after President Donald Trump accused Kyiv of resisting peace with Russia. The talks came as both sides exchanged attacks on energy infrastructure, while Washington’...",
       "date": "Sun, 18 Oct 2026",
       "source": "France 24",
       "region": "eu",
@@ -103,6 +103,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+      "description": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+      "date": "Sun, 18 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
       "description": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
@@ -116,16 +126,6 @@
       "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
       "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
       "description": "Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.",
-      "date": "Sun, 18 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
-      "link": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
-      "description": "Police crack down on hundreds of protesters in Albania&#039;s capital, using rubber bullets, water cannons and tear gas.",
       "date": "Sun, 18 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -193,6 +193,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "60-day pause on Russia sanctions to analyse global impact: Rubio",
+      "link": "https://www.thehindu.com/news/international/secretary-of-state-marco-rubio-comments-before-departing-to-uzbekistan-and-india/article71599016.ece",
+      "description": "U.S. Secretary of State Marco Rubio has said the waiver from sanctions on Russia and tariffs on other countries, including India, was a 60-day pause to analyse the global impact of the measure.",
+      "date": "Mon, 19 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Saudi coalition says two pilots killed in chopper crash near Yemen",
+      "link": "https://www.thehindu.com/news/international/saudi-coalition-says-two-pilots-killed-in-chopper-crash-near-yemen/article71599858.ece",
+      "description": "The coalition blamed a \"technical malfunction\" for the incident, which inflicted its first military fatalities since the long-running war with the Houthis reignited in July",
+      "date": "Mon, 19 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Zelenskyy says Trump could lift more Russia sanctions",
       "link": "https://www.thehindu.com/news/international/zelenskyy-says-trump-could-lift-more-russia-sanctions/article71597822.ece",
       "description": "Mr. Trump heightened a battle with Mr. Zelenskyy on Friday (October 16, 2026) when he signed an executive order that waived sweeping U.S. sanctions targeting Russia’s energy revenues",
@@ -233,24 +253,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran's new Defence Minister Akhlaghi threatens 'enormous damage' if U.S. attacks",
-      "link": "https://www.thehindu.com/news/international/irans-new-defence-minister-akhlaghi-threatens-enormous-damage-if-us-attacks/article71600872.ece",
-      "description": "The veteran defence official replaces Aziz Nasirzadeh, who was killed in a U.S.-Israeli attack on a leadership compound on February 28, alongside former Supreme leader Ayatollah Ali Khamenei and senior military commanders",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "France protests: Police arrest 1,800 after violent clashes and looting mar protests",
-      "link": "https://www.thehindu.com/news/international/france-paris-protests-police-arrests-damage/article71599628.ece",
-      "description": "The violence in Paris, Marseille, Lyon, Bordeaux and other cities occurred on the sidelines of mass demonstrations against high inflation caused in part from the U.S.-Iran war",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Lavrov to outline Russia’s de-escalation efforts during visit to Iran",
+      "link": "https://tass.com/politics/2203891",
+      "description": "The parties will pay significant attention to practical measures aimed at strengthening comprehensive strategic partnership",
+      "date": "Mon, 19 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Trump says he can tighten sanctions on Russia ‘any time’ he wants",
@@ -276,16 +286,6 @@
       "title": "Lavrov to visit Tehran, to be received by President Pezeshkian on October 19",
       "link": "https://tass.com/politics/2203831",
       "description": "Russian Foreign Minister Sergey Lavrov also will hold talks with his Iranian counterpart Araghchi",
-      "date": "Sun, 18 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump’s approach to Iranian leadership harmful to stability in region — Lavrov",
-      "link": "https://tass.com/politics/2203811",
-      "description": "\"I think was essentially about what the United States and Israel have done,\" Russian Foreign Minister said",
       "date": "Sun, 18 Oct 2026",
       "source": "TASS",
       "region": "ru",
