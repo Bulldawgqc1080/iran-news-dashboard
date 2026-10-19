@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-19 02:15 UTC",
+  "updated": "2026-10-19 08:13 UTC",
   "total": 29,
   "stories": [
     {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-      "description": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
-      "date": "Sat, 17 Oct 2026",
+      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+      "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+      "description": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
+      "date": "Mon, 19 Oct 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -85,7 +85,7 @@
     {
       "title": "Zelensky holds US talks as Trump accuses him of not wanting peace",
       "link": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
-      "description": "Ukrainian President Volodymyr Zelensky spoke with US envoys Steve Witkoff and Jared Kushner on Sunday amid tensions after President Donald Trump accused Kyiv of resisting peace with Russia. The talks came as both sides exchanged attacks on energy infrastructure, while Washington’...",
+      "description": "Ukrainian President Volodymyr Zelensky spoke with US envoys Steve Witkoff and Jared Kushner on Sunday amid tensions after US President Donald Trump accused Kyiv of resisting peace with Russia. The talks came as both sides exchanged attacks on energy infrastructure, while Washingt...",
       "date": "Sun, 18 Oct 2026",
       "source": "France 24",
       "region": "eu",
@@ -103,9 +103,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+      "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+      "description": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+      "date": "Mon, 19 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: US issues Middle East security alert; Yemen fighting flares",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
-      "description": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+      "description": "US embassies in the Middle East have issued a security alert for Americans as fighting in Yemen continues to ramp up.",
       "date": "Sun, 18 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -123,14 +133,24 @@
       "bias": "Medium"
     },
     {
-      "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-      "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-      "description": "Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.",
-      "date": "Sun, 18 Oct 2026",
-      "source": "Al Jazeera",
+      "title": "Violence grips Albania as PM refuses to quit",
+      "link": "https://www.dawn.com/news/2038139/violence-grips-albania-as-pm-refuses-to-quit",
+      "description": "TIRANA: Albanian pol­ice fired water cannon and tear gas Sunday as violent anti-government protests entered a sixth day and Prime Minister Edi Rama rejected demonstrators’ demands that he resign. Violent demonstrations have rocked Tirana since Tuesday with protesters calling for ...",
+      "date": "Mon, 19 Oct 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Rubio visits Uzbekistan to boost Washington’s ties with Central Asia",
+      "link": "https://www.dawn.com/news/2038138/rubio-visits-uzbekistan-to-boost-washingtons-ties-with-central-asia",
+      "description": "WASHINGTON: While the Iran war smoulders, Saudi Arabia fights the Houthi-led Ansarallah forces in Yemen and a new rift opens in US-Ukraine relations, Secretary of State Marco Rubio is scheduled to land on Sunday in Samarkand city of Uzbekistan, a nation far removed from the bigge...",
+      "date": "Mon, 19 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump endorses Netanyahu in Israeli election",
@@ -173,21 +193,41 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Tirana sees fifth straight day of violent clashes",
-      "link": "https://www.dawn.com/news/2037962/tirana-sees-fifth-straight-day-of-violent-clashes",
-      "description": "TIRANA: Albania’s capital saw violent clashes for a fifth straight day on Saturday as police fired rubber bullets on protesters demanding the resignation of Prime Minister Edi Rama, who pledged to listen to their concerns. Violent demonstrations have rocked Tirana since Tuesday, ...",
-      "date": "Sun, 18 Oct 2026",
-      "source": "Dawn",
+      "title": "Houthi media says Saudi strike kills 9 in northern Yemen",
+      "link": "https://www.thehindu.com/news/international/houthi-media-says-saudi-strike-kills-9-in-northern-yemen/article71600958.ece",
+      "description": "The Saudi-led coalition fighting the Houthis has launched hundreds of raids in Yemen backing the internationally recognised government since the start of the renewed fighting in the long-running civil war",
+      "date": "Mon, 19 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "What is holding up the US-India trade deal?",
-      "link": "https://www.dawn.com/news/2038003/what-is-holding-up-the-us-india-trade-deal",
-      "description": "United States Secretary of State Marco Rubio is set to visit India for the second time this year, as Washington seeks to bolster ties with a strategic partner despite months of friction over a trade deal. Rubio will meet senior Indian officials, but will bypass the Indian capital...",
-      "date": "Sun, 18 Oct 2026",
-      "source": "Dawn",
+      "title": "Iran's new Defence Minister Akhlaghi threatens 'enormous damage' if U.S. attacks",
+      "link": "https://www.thehindu.com/news/international/irans-new-defence-minister-akhlaghi-threatens-enormous-damage-if-us-attacks/article71600872.ece",
+      "description": "The veteran defence official replaces Aziz Nasirzadeh, who was killed in a U.S.-Israeli attack on a leadership compound on February 28, alongside former Supreme leader Ayatollah Ali Khamenei and senior military commanders",
+      "date": "Mon, 19 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "France protests: Police arrest 1,800 after violent clashes and looting mar protests",
+      "link": "https://www.thehindu.com/news/international/france-paris-protests-police-arrests-damage/article71599628.ece",
+      "description": "The violence in Paris, Marseille, Lyon, Bordeaux and other cities occurred on the sidelines of mass demonstrations against high inflation caused in part from the U.S.-Iran war",
+      "date": "Mon, 19 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran's Parliament approves Mehrdad Akhlaqi as Minister of Defence",
+      "link": "https://www.thehindu.com/news/international/irans-parliament-approves-mehrdad-akhlaqi-as-minister-of-defence/article71600323.ece",
+      "description": "Mehrdad Akhlaqi Ketabchi replaces Majid Ebn al-Reza, who took over in an interim capacity after then Defence ‌Minister Aziz Nasirzadeh was killed by U.S.-Israeli strikes in February",
+      "date": "Mon, 19 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -213,44 +253,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Zelenskyy says Trump could lift more Russia sanctions",
-      "link": "https://www.thehindu.com/news/international/zelenskyy-says-trump-could-lift-more-russia-sanctions/article71597822.ece",
-      "description": "Mr. Trump heightened a battle with Mr. Zelenskyy on Friday (October 16, 2026) when he signed an executive order that waived sweeping U.S. sanctions targeting Russia’s energy revenues",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Oil tanker on fire after hitting mine in Hormuz: Iran's Guards",
-      "link": "https://www.thehindu.com/news/international/oil-tanker-on-fire-after-hitting-mine-in-hormuz-irans-guards/article71596177.ece",
-      "description": "Tehran seized control over Hormuz after the start of the war in late February, choking off the strait that normally carries about one-fifth of global oil consumption.",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran backs ‘political process’ to resolve Saudi-Houthi conflict: FM",
-      "link": "https://www.thehindu.com/news/international/iran-backs-political-process-to-resolve-saudi-houthi-conflict-fm/article71596732.ece",
-      "description": "The Houthis have repeatedly attacked Saudi targets including energy facilities and Riyadh’s international airport, where 13 people were killed in a major attack last week",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Houthi media says Saudi strike kills 9 in northern Yemen",
-      "link": "https://www.thehindu.com/news/international/houthi-media-says-saudi-strike-kills-9-in-northern-yemen/article71600958.ece",
-      "description": "The Saudi-led coalition fighting the Houthis has launched hundreds of raids in Yemen backing the internationally recognised government since the start of the renewed fighting in the long-running civil war",
-      "date": "Sun, 18 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US suspends new sanctions against Russia to give diplomacy chance — Rubio",
+      "link": "https://tass.com/world/2203931",
+      "description": "According to the US Secretary of State, the US President had suspended the sanctions for 60 days",
+      "date": "Mon, 19 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Lavrov to outline Russia’s de-escalation efforts during visit to Iran",
@@ -276,16 +286,6 @@
       "title": "Tanker hits mine in southern part of Strait of Hormuz — IRGC",
       "link": "https://tass.com/world/2203869",
       "description": "The IRGC Navy reported an explosion and a fire in the tanker's engine room",
-      "date": "Sun, 18 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Lavrov to visit Tehran, to be received by President Pezeshkian on October 19",
-      "link": "https://tass.com/politics/2203831",
-      "description": "Russian Foreign Minister Sergey Lavrov also will hold talks with his Iranian counterpart Araghchi",
       "date": "Sun, 18 Oct 2026",
       "source": "TASS",
       "region": "ru",
