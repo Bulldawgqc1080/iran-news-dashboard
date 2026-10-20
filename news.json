@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-20 10:34 UTC",
-  "total": 20,
+  "updated": "2026-10-20 15:26 UTC",
+  "total": 29,
   "stories": [
     {
-      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-      "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
-      "description": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
-      "date": "Mon, 19 Oct 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+      "description": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+      "date": "Tue, 20 Oct 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
       "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "date": "Mon, 19 Oct 2026",
+      "description": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+      "date": "Tue, 20 Oct 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -63,19 +63,109 @@
       "bias": "Low-Med"
     },
     {
-      "title": "French retailers begin filing insurance claims after weekend of looting",
-      "link": "https://www.france24.com/en/tv-shows/business/20261020-french-retailers-begin-filing-insurance-claims-after-weekend-of-looting",
-      "description": "Shop owners in France are counting the cost of the weekend's riots as the government works on new measures to help them recover from widespread looting. Also in this edition: Germany welcomes new investments from Nvidia into its tech scene, and energy prices continue to climb aft...",
+      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+      "description": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
       "date": "Tue, 20 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
+      "description": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
+      "date": "Tue, 20 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+      "link": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
+      "description": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
+      "date": "Tue, 20 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran denies collapse is close as US claims IRGC running out of money",
+      "link": "https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money?traffic_source=rss",
+      "description": "Iranian authorities defiant despite financial strain, saying they want to lift US blockade and pressure on their terms.",
+      "date": "Tue, 20 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Yemen: Maps show 10 years of changing control",
+      "link": "https://www.aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control?traffic_source=rss",
+      "description": "A decade of war has shifted Yemen’s front lines, but the Houthis still hold Sanaa, and no side controls the country.",
+      "date": "Tue, 20 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+      "description": "Ministry of Defence says warplanes will operate in &#039;defensive role&#039; and not be used to attack Yemeni group.",
+      "date": "Tue, 20 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Masoud Pezeshkian: Peace, Not Surrender",
+      "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
+      "description": "Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.",
+      "date": "Tue, 20 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US VP Vance says he is staying out of Israel vote as Trump backs Netanyahu",
+      "link": "https://www.dawn.com/news/2038548/us-vp-vance-says-he-is-staying-out-of-israel-vote-as-trump-backs-netanyahu",
+      "description": "US Vice President JD Vance said he would not be following Donald Trump in endorsing Israeli Prime Minister Benjamin Netanyahu and wanted to stay on the sidelines. “I’m not anti-endorsing him. I’m not pro-endorsing him. I’m not getting involved in Israeli elections,” Vance said of...",
+      "date": "Tue, 20 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Rubio lands in India for 'trade diplomacy'",
-      "link": "https://www.dawn.com/news/2038486/rubio-lands-in-india-for-trade-diplomacy",
-      "description": "US Secretary of State Marco Rubio arrived in India on Tuesday, his second official visit to the country this year, as he pursues an Asian tour blending diplomacy and trade. Rubio visited Uzbekistan, where he called for stronger partnerships with Central Asian countries, before la...",
+      "title": "UK to deploy fighter jets to help protect Saudi Arabia from Houthi attacks",
+      "link": "https://www.dawn.com/news/2038537/uk-to-deploy-fighter-jets-to-help-protect-saudi-arabia-from-houthi-attacks",
+      "description": "British fighter planes will be deployed to help Saudi Arabia defend itself against increasing attacks from Yemen’s Houthi rebels, the UK government announced on Tuesday. The defence ministry said the deployment formed part of “additional defensive military support” to Riyadh. “Th...",
+      "date": "Tue, 20 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "At SCO, Dar calls for promoting use of national currencies to help offset global economic shocks",
+      "link": "https://www.dawn.com/news/2038514/at-sco-dar-calls-for-promoting-use-of-national-currencies-to-help-offset-global-economic-shocks",
+      "description": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Tuesday encouraged members of the Shanghai Cooperation Organisation (SCO) to use national currencies for “mutual settlement” and establish other financial mechanisms to “offset international financial shocks”. He made the re...",
+      "date": "Tue, 20 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Rubio says India made 'substantial progress' in diversifying oil purchases",
+      "link": "https://www.dawn.com/news/2038486/rubio-says-india-made-substantial-progress-in-diversifying-oil-purchases",
+      "description": "US Secretary of State Marco Rubio said on Tuesday that India had made “substantial progress” in diversifying its energy supplies, including away from its key importer, Russia. “What India has expressed repeatedly is their desire to diversify their energy portfolio, which is a sma...",
       "date": "Tue, 20 Oct 2026",
       "source": "Dawn",
       "region": "me",
@@ -103,31 +193,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "CDF Munir to visit Tehran today",
-      "link": "https://www.dawn.com/news/2038436/cdf-munir-to-visit-tehran-today",
-      "description": "ISLAMABAD: Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir is due to visit Tehran on Tuesday (today), according to a Pakistani official and Iranian media. The scheduled visit follows earlier talks between Field Marshal Munir and Iranian leaders in the sum...",
+      "title": "Defence Minister Rajnath Singh meets Iranian Vice-President, Tajikistan Prime Minister",
+      "link": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-meets-iranian-vice-president-tajikistan-prime-minister/article71604395.ece",
+      "description": "\"Pleasure to meet H.E. Mr Mohammad Reza Aref, First Vice President of Iran on the sidelines of the SCO Heads of Government meeting in Dushanbe,\" Defence Minister Rajnath Singh said",
       "date": "Tue, 20 Oct 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Israel announces 10 arrests after West Bank settler attacks on Westerners",
-      "link": "https://www.dawn.com/news/2038315/israel-announces-10-arrests-after-west-bank-settler-attacks-on-westerners",
-      "description": "Israeli police said on Monday that they had arrested 10 people in the occupied West Bank after settler attacks on an American photographer and a French mayor that drew international condemnation but mixed messages from the government. In a rare action against rising settler viole...",
-      "date": "Mon, 19 Oct 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Christiane Amanpour to leave CNN after four decades as Ellison era begins",
-      "link": "https://www.dawn.com/news/2038334/christiane-amanpour-to-leave-cnn-after-four-decades-as-ellison-era-begins",
-      "description": "CNN’s chief international anchor Christiane Amanpour will leave next year, after 43 years with the network, according to an internal memo seen by Reuters on Monday. The news channel has recently come under the ownership of Skydance, whose Chief Executive Officer David Ellison has...",
-      "date": "Mon, 19 Oct 2026",
-      "source": "Dawn",
+      "title": "Death toll rises to 60 in Houthi strike on Yemen training camp in deadliest attack in months",
+      "link": "https://www.thehindu.com/news/international/death-toll-rises-to-60-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/article71604054.ece",
+      "description": "At least a dozen people were still missing a day after the Iran-backed rebels hit the al-Alam training camp in Shabwa province with ballistic missiles, Yemeni officials said",
+      "date": "Tue, 20 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -173,9 +253,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1982",
-      "link": "https://tass.com/economy/2204541",
-      "description": "The recent drawdowns have been part of an order by US President Donald Trump to release 172 mln barrels from the facility following the closure of the Strait of Hormuz by Iran",
+      "title": "Iranian president appoints IRGC brigadier general as defense adviser",
+      "link": "https://tass.com/world/2204801",
+      "description": "Masoud Pezeshkian expressed hope that the new adviser \"will contribute to achieving the government’s goals\"",
       "date": "Tue, 20 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -183,9 +263,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Trump says he can tighten sanctions on Russia at any time if no deal is reached",
-      "link": "https://tass.com/world/2204435",
-      "description": "The US leader also stressed that most of his fellow Republicans understood his decision not to invoke the legislation for now",
+      "title": "Lifting of sanctions on Russian diesel helpful to stabilize market — Matviyenko",
+      "link": "https://tass.com/economy/2204777",
+      "description": "\"Naturally, this is a benefit for American diesel and fuel consumers,\" Federation Council Speaker Valentina Matviyenko added",
       "date": "Tue, 20 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -193,9 +273,19 @@
       "bias": "Very High"
     },
     {
-      "title": "IRGC warns undersea internet cables in Strait of Hormuz could become Iran’s targets",
-      "link": "https://tass.com/world/2204413",
-      "description": "The IRGC representative also stressed that \"new types of weapons will be unveiled in the next phase of the war\"",
+      "title": "Iran downs US MQ-9 drone over Strait of Hormuz — IRGC",
+      "link": "https://tass.com/world/2204779",
+      "description": "Iran has taken down more than 50 MQ-9 drones since the outbreak of the conflict",
+      "date": "Tue, 20 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Russian approach to Ukraine settlement not tied to US sanctions decision — diplomat",
+      "link": "https://tass.com/politics/2204767",
+      "description": "Sergey Ryabkov noted that \"both Washington and European capitals are well aware of this approach\"",
       "date": "Tue, 20 Oct 2026",
       "source": "TASS",
       "region": "ru",
