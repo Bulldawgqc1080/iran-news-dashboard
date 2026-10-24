@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-24 06:38 UTC",
-  "total": 32,
+  "updated": "2026-10-24 11:42 UTC",
+  "total": 28,
   "stories": [
+    {
+      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+      "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+      "description": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
+      "date": "Sat, 24 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
       "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
@@ -73,6 +83,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
+      "description": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region.",
+      "date": "Sat, 24 Oct 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
       "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
       "description": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
@@ -101,66 +121,6 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
-    },
-    {
-      "title": "‘I killed lots of terrorists, but it didn’t make me feel better’: The trauma haunting Israel's elections",
-      "link": "https://www.france24.com/en/middle-east/20261023-i-killed-lots-of-terrorists-but-it-didn-t-make-me-feel-better-the-trauma-haunting-israel-s-elections",
-      "description": "After more than three years of war, the number of Israeli soldiers suffering from post-traumatic stress disorder following bloody campaigns in Gaza and Lebanon has risen drastically. In the lead-up to Israel’s crucial legislative elections, FRANCE 24 speaks with soldiers left she...",
-      "date": "Fri, 23 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Several killed, dozens wounded in Jordan church shooting",
-      "link": "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting",
-      "description": "At least seven people have been killed and 34 others wounded in a church shooting in Jordan, authorities said Friday. The unidentified assailants allegedly attacked the Greek Orthodox church during a funeral in the Karak directorate in the central part of the country.",
-      "date": "Fri, 23 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
-      "link": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
-      "description": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
-      "date": "Sat, 24 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Tehran says US military banned entirely from Gulf entry",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
-      "description": "Iran top general says US military vessels will not be allowed to enter the Gulf \"under any circumstances.\"",
-      "date": "Sat, 24 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-      "description": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
-      "date": "Fri, 23 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
-      "link": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
-      "description": "More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.",
-      "date": "Fri, 23 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "Trump’s threat to strike Iran raises public concerns, congressional questions",
