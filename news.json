@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-24 11:42 UTC",
-  "total": 28,
+  "updated": "2026-10-24 15:00 UTC",
+  "total": 30,
   "stories": [
+    {
+      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+      "description": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+      "date": "Sat, 24 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
       "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
@@ -27,16 +37,6 @@
       "link": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
       "description": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
       "date": "Fri, 23 Oct 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "What we know about war plans that Trump and Netanyahu are drawing up",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
-      "description": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
-      "date": "Thu, 22 Oct 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -113,19 +113,59 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
-      "link": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran",
-      "description": "US President Donald Trump on Friday said his country may launch “another little Epic Fury” on Iran, referring to the joint Israeli-American military operation that sparked the war with Iran at the end of February.",
-      "date": "Fri, 23 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "title": "Netanyahu floats Crypto to bypass sanctions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+      "description": "Netanyahu floats Crypto to bypass sanctions",
+      "date": "Sat, 24 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+      "description": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "date": "Sat, 24 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+      "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+      "description": "US intelligence memo warns that Iranian plots against US citizens in the Middle East &#039;have reached advanced stages&#039;.",
+      "date": "Sat, 24 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israeli forces displace families, demolish buildings in occupied West Bank's Hebron",
+      "link": "https://www.dawn.com/news/2039462/israeli-forces-displace-families-demolish-buildings-in-occupied-west-banks-hebron",
+      "description": "Israeli forces pushed into the occupied West Bank city of Hebron on Saturday and displaced around 250 families, some in the middle of the night, vowing to exact a heavy price for a deadly attack on soldiers. The Palestinian Authority called for international pressure on Israel to...",
+      "date": "Sat, 24 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
       "title": "Trump’s threat to strike Iran raises public concerns, congressional questions",
       "link": "https://www.dawn.com/news/2039463/trumps-threat-to-strike-iran-raises-public-concerns-congressional-questions",
       "description": "WASHINGTON: President Donald Trump has renewed his threat of military action against Iran, raising questions about public support for the war and Congress’s ability to restrain further escalation. With midterm elections approaching on November 3, polls show widespread dissatisfac...",
+      "date": "Sat, 24 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill",
+      "link": "https://www.dawn.com/news/2039491/uaes-ras-al-khaimah-shuts-all-beaches-as-neighbours-grapple-with-oil-spill",
+      "description": "Ras Al Khaimah authorities said on Saturday that all beaches in the emirate would be closed until further notice, a day after an offshore oil leak prompted beach closures in neighbouring Umm Al Quwain and Sharjah. The Public Services Department announced the closures in a stateme...",
       "date": "Sat, 24 Oct 2026",
       "source": "Dawn",
       "region": "me",
@@ -163,21 +203,31 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Brent crude hits more than five-month high on concern over Middle East escalation",
-      "link": "https://www.dawn.com/news/2039269/brent-crude-hits-more-than-five-month-high-on-concern-over-middle-east-escalation",
-      "description": "Oil prices rose on Friday, with Brent crude touching a more than five-month high, after Houthi attacks in Saudi Arabia stoked concern over further disruption to energy supplies from the Middle East. Brent crude futures gained $1.40, or 1.2 per cent, to $114.57 a barrel by 1138 GM...",
-      "date": "Fri, 23 Oct 2026",
-      "source": "Dawn",
+      "title": "Death toll from Jordan church attack rises to nine",
+      "link": "https://www.thehindu.com/news/international/death-toll-from-jordan-church-attack-rises-to-nine/article71620464.ece",
+      "description": "Gunmen stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate during a funeral procession on October 23 and opened fire, Jordanian authorities said",
+      "date": "Sat, 24 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli fire kills four in Gaza, Syrian man",
-      "link": "https://www.dawn.com/news/2039131/israeli-fire-kills-four-in-gaza-syrian-man",
-      "description": "CAIRO/JAKARTA: Israeli strikes and gunfire killed at least four people in the Gaza Strip in separate incidents on Thursday, health officials in the enclave said. In Gaza City, a strike on a car killed at least one person, medics said. They earlier said there had been two deaths. ...",
-      "date": "Fri, 23 Oct 2026",
-      "source": "Dawn",
+      "title": "Iran’s Ghalibaf will not attend BRICS Parliamentary Forum in Delhi: Embassy",
+      "link": "https://www.thehindu.com/news/national/irans-ghalibaf-will-not-attend-brics-parliamentary-forum-in-delhi-embassy/article71619999.ece",
+      "description": "The Iranian Embassy in India cites ‘certain unforeseen circumstances’; says a parliamentary delegation from the country would participate in the meeting on Oct. 26-27",
+      "date": "Sat, 24 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Saudi forces launch deadly strikes on Yemen’s Houthi-controlled Sanaa city",
+      "link": "https://www.thehindu.com/news/international/saudi-forces-deadly-strikes-on-yemens-houthi-controlled-sanaa-city/article71619917.ece",
+      "description": "The Houthis' Al-Masirah reported a series of \"Saudi enemy airstrikes\" targeting Sanaa, including one on a house that killed at least three people and wounded several others.",
+      "date": "Sat, 24 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -207,36 +257,6 @@
       "link": "https://www.thehindu.com/news/international/trump-says-us-will-take-care-of-cuba-on-its-way-back-from-iran/article71618927.ece",
       "description": "Mr. Trump predicted last month the U.S. and Cuba would reach an agreement and that he did not ‌think military action would be necessary",
       "date": "Sat, 24 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. could strike Iran this weekend, envoy says",
-      "link": "https://www.thehindu.com/news/international/us-could-strike-iran-this-weekend-envoy-says/article71617954.ece",
-      "description": "\"Could there be a strike this weekend? Absolutely,\" Tom Barrack, the U.S. ambassador to Turkey and point man on Syria who does not have a direct role on Iran, told podcast host Mario Nawfal",
-      "date": "Fri, 23 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-      "link": "https://www.thehindu.com/news/international/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say/article71617797.ece",
-      "description": "Their comments followed warnings by Iranian officials that undersea cables in ​the region could become targets in any renewed conflict if diplomacy with Washington collapses",
-      "date": "Fri, 23 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "India denies rejecting Iran’s request to transport medicines",
-      "link": "https://www.thehindu.com/news/national/india-continues-to-facilitate-transport-of-life-saving-medicines-to-iran-mea/article71616727.ece",
-      "description": "Ministry of External Affairs spokesperson Randhir Jaiswal said, “We remain in contact with our Iranian counterparts to facilitate the transport of life-saving medicines as a humanitarian gesture.”",
-      "date": "Fri, 23 Oct 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
