@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24 21:17 UTC",
-  "total": 30,
+  "updated": "2026-10-24 23:50 UTC",
+  "total": 31,
   "stories": [
     {
       "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
@@ -123,9 +123,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Thousands gather at new Albanian antigovernment rally",
-      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-      "description": "More than 300 protesters and police were injured in the Albanian capital Tirana&#039;s fiercest clashes in days.",
+      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+      "description": "Tehran warns that even limited strikes would trigger a response &#039;several times greater&#039;.",
       "date": "Sat, 24 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -133,9 +133,19 @@
       "bias": "Medium"
     },
     {
-      "title": "Netanyahu floats Crypto to bypass sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-      "description": "Netanyahu floats Crypto to bypass sanctions",
+      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "description": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden&#039;s airport and a coastguard base.",
+      "date": "Sat, 24 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Thousands gather at new Albanian antigovernment rally",
+      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+      "description": "More than 300 protesters and police were injured in the Albanian capital Tirana&#039;s fiercest clashes in days.",
       "date": "Sat, 24 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -203,6 +213,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Trump casts his midterm ballot early in Florida",
+      "link": "https://www.thehindu.com/news/international/trump-casts-his-midterm-ballot-early-in-florida/article71621475.ece",
+      "description": "As for the war in Iran, President Trump said, “I may have to finish it off. Or maybe they’ll make a deal, but I’m not sure. Either way, we win.”",
+      "date": "Sat, 24 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Houthis say attacked Saudi Arabia, Yemen’s Aden after deadly strikes",
+      "link": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece",
+      "description": "Over the past 24 hours, the Yemeni fighters said they targeted three Saudi airports, including the international airport in capital Riyadh, energy installations, a pipeline and an air base",
+      "date": "Sat, 24 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Albanian police fire tear gas as anti-government student protests turn violent",
       "link": "https://www.thehindu.com/news/international/albanian-police-fire-tear-gas-as-anti-government-student-protests-turn-violent/article71621342.ece",
       "description": "Student-led demonstrations, fuelled by anger over perceived government ‌corruption have ‌engulfed central Tirana and spread ‌to ⁠other cities this month",
@@ -243,59 +273,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthis attack Yemen’s Aden, say Saudi strikes kill 16",
-      "link": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece",
-      "description": "The Houthis quickly claimed the attack, saying they targeted a naval base and military camp overseen by Saudi forces",
+      "title": "Drone attacks camp of Iranian Kurdish opposition in Iraqi Kurdistan — news outlet",
+      "link": "https://tass.com/world/2207367",
+      "description": "No information has been provided about casualties or the aftermath of the attack",
       "date": "Sat, 24 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Houthis say Saudi strikes kill at least 11 after missiles intercepted",
-      "link": "https://www.thehindu.com/news/international/saudi-forces-deadly-strikes-on-yemens-houthi-controlled-sanaa-city/article71619917.ece",
-      "description": "The Houthis' Al-Masirah reported a series of \"Saudi enemy airstrikes\" targeting Sanaa, including one on a house that killed at least three people and wounded several others.",
+      "title": "Houthis declare Riyadh airport as their military target — spokesman",
+      "link": "https://tass.com/world/2207361",
+      "description": "Military spokesman of the rebel group Yahya Saria warned all airlines, staff, and passengers not to use King Khalid Airport in Riyadh",
       "date": "Sat, 24 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump weighs resumption of US strikes against Iran",
+      "link": "https://tass.com/world/2207359",
+      "description": "This may happen if Washington and Tehran fail to reach a deal",
+      "date": "Sat, 24 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran proposes reopening Hormuz in exchange for US lifting its blockade — TV",
       "link": "https://tass.com/world/2207343",
       "description": "Tehran has already conveyed this proposal to Washington through Pakistani mediators, sources told the Al Arabiya",
-      "date": "Sat, 24 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
-      "link": "https://tass.com/world/2207323",
-      "description": "The attack on the airport in Dammam caused a halt to air traffic",
-      "date": "Sat, 24 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
-      "link": "https://tass.com/world/2207235",
-      "description": "Saudi Arabia’s General Directorate of Civil Defense activated the National Early Warning Platform for Emergencies, notifying the Riyadh residents about a possible threat",
-      "date": "Sat, 24 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russia senator says Western sanctions may remain in place forever",
-      "link": "https://tass.com/politics/2207233",
-      "description": "Konstantin Kosachev stressed that Moscow should not worry, because it has proven its self-sufficiency",
       "date": "Sat, 24 Oct 2026",
       "source": "TASS",
       "region": "ru",
