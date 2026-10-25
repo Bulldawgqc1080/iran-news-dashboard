@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-25 02:09 UTC",
-  "total": 33,
+  "updated": "2026-10-25 07:53 UTC",
+  "total": 32,
   "stories": [
+    {
+      "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+      "description": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
+      "date": "Sun, 25 Oct 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
       "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
@@ -26,16 +36,6 @@
       "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
       "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
       "description": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
-      "date": "Fri, 23 Oct 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
-      "description": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
       "date": "Fri, 23 Oct 2026",
       "source": "NPR News",
       "region": "us",
@@ -123,7 +123,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
       "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
       "description": "Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.",
       "date": "Sun, 25 Oct 2026",
@@ -133,9 +133,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
-      "description": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+      "description": "Saudi coalition intercepts Houthi missile over Riyadh as rebels warn city airport is unsafe military target.",
       "date": "Sun, 25 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -163,14 +163,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Thousands gather at new Albanian antigovernment rally",
-      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-      "description": "More than 300 protesters and police were injured in the Albanian capital Tirana&#039;s fiercest clashes in days.",
-      "date": "Sat, 24 Oct 2026",
-      "source": "Al Jazeera",
+      "title": "'Never seen a president excel in straight-up grifting': Obama unloads on Trump ahead of US midterms",
+      "link": "https://www.dawn.com/news/2039697/never-seen-a-president-excel-in-straight-up-grifting-obama-unloads-on-trump-ahead-of-us-midterms",
+      "description": "US President Donald Trump has been telling voters to view the midterm elections as if he were on the ballot, and on Saturday one of his Democratic predecessors did just that. Ten days out from the elections that will determine control of the closely divided Congress, Barack Obama...",
+      "date": "Sun, 25 Oct 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pezeshkian calls for end to state of ‘neither war nor peace’",
+      "link": "https://www.dawn.com/news/2039562/pezeshkian-calls-for-end-to-state-of-neither-war-nor-peace",
+      "description": "Iranian President Masoud Pezeshkian said on Saturday that Tehran must break out of its current state of “neither war nor peace”, as economic pressures mount from the ongoing military conflict with the United States and Israel, the semi-official Isna news agency reported. Speaking...",
+      "date": "Sun, 25 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Pakistan reopens Gabd border crossing with Iran, restores bilateral trade after weeklong suspension",
+      "link": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension",
+      "description": "https://www.dawn.com/news/2039610",
+      "date": "Sun, 25 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Jordan king orders 'iron fist' response to deadly church attack",
@@ -203,31 +223,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Islamabad rebuts Kabul's stance on ‘lacking capacity’ to fuel insecurity in Pakistan, slams 'diversionary allegations'",
-      "link": "https://www.dawn.com/news/2039485/islamabad-rebuts-kabuls-stance-on-lacking-capacity-to-fuel-insecurity-in-pakistan-slams-diversionary-allegations",
-      "description": "The information ministry on Saturday rebutted the Afghan Taliban’s stance that it lacked the “capabilities” to fuel insecurity in other countries and criticised it for resorting to “diversionary allegations” instead of preventing the use of Afghanistan’s soil for terrorist attack...",
-      "date": "Sat, 24 Oct 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump’s threat to strike Iran raises public concerns, congressional questions",
-      "link": "https://www.dawn.com/news/2039463/trumps-threat-to-strike-iran-raises-public-concerns-congressional-questions",
-      "description": "WASHINGTON: President Donald Trump has renewed his threat of military action against Iran, raising questions about public support for the war and Congress’s ability to restrain further escalation. With midterm elections approaching on November 3, polls show widespread dissatisfac...",
-      "date": "Sat, 24 Oct 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Jordan church shooting claims 7 lives",
-      "link": "https://www.dawn.com/news/2039342/jordan-church-shooting-claims-7-lives",
-      "description": "AMMAN: Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, authorities said, with the king vowing retaliation for the rare attack on Christians in the majority Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church ...",
-      "date": "Sat, 24 Oct 2026",
-      "source": "Dawn",
+      "title": "Riyadh airport resumes flights following Houthi attacks",
+      "link": "https://www.thehindu.com/news/international/riyadh-airport-resumes-flights-following-houthi-attacks/article71622578.ece",
+      "description": "The Yemeni Armed Forces warn all airlines, staff and travellers against using King Khalid airport in Riyadh; calls the airport a military target for their forces",
+      "date": "Sun, 25 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -236,7 +236,7 @@
       "title": "Trump casts his midterm ballot early in Florida",
       "link": "https://www.thehindu.com/news/international/trump-casts-his-midterm-ballot-early-in-florida/article71621475.ece",
       "description": "As for the war in Iran, President Trump said, “I may have to finish it off. Or maybe they’ll make a deal, but I’m not sure. Either way, we win.”",
-      "date": "Sat, 24 Oct 2026",
+      "date": "Sun, 25 Oct 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -283,14 +283,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran president says many struggling for food as war bites",
-      "link": "https://www.thehindu.com/news/international/iran-president-says-many-struggling-for-food-as-war-bites/article71620956.ece",
-      "description": "Masoud Pezeshkian called for an end to what he described as a \"state of neither war nor peace\"",
-      "date": "Sat, 24 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Saudi-led arab coalition downs Houthi ballistic missile over Riyadh",
+      "link": "https://tass.com/world/2207399",
+      "description": "This was at least the third aerial target intercepted by coalition forces overnight",
+      "date": "Sun, 25 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Drone attacks camp of Iranian Kurdish opposition in Iraqi Kurdistan — news outlet",
@@ -316,16 +316,6 @@
       "title": "Trump weighs resumption of US strikes against Iran",
       "link": "https://tass.com/world/2207359",
       "description": "This may happen if Washington and Tehran fail to reach a deal",
-      "date": "Sat, 24 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran proposes reopening Hormuz in exchange for US lifting its blockade — TV",
-      "link": "https://tass.com/world/2207343",
-      "description": "Tehran has already conveyed this proposal to Washington through Pakistani mediators, sources told the Al Arabiya",
       "date": "Sat, 24 Oct 2026",
       "source": "TASS",
       "region": "ru",
