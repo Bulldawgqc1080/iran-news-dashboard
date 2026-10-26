@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26 00:49 UTC",
-  "total": 26,
+  "updated": "2026-10-26 05:33 UTC",
+  "total": 27,
   "stories": [
     {
       "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
@@ -93,14 +93,34 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-      "description": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "description": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
       "date": "Mon, 26 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "description": "Saudi-led coalition says missiles launchers and tunnels in Yemen destroyed after Houthis targeted Riyadh airport.",
+      "date": "Mon, 26 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel to close all West Bank crossings on election day",
+      "link": "https://www.dawn.com/news/2039810/israel-to-close-all-west-bank-crossings-on-election-day",
+      "description": "• Netanyahu faces tight race against Bennett, Lapid, Eisenkot in tomorrow’s polls • Warns Iran against attempts to disrupt elections • Israeli strikes kill seven people in Gaza, including three at university HEBRON: With just one day to go before Israel’s Oct 27 general election,...",
+      "date": "Mon, 26 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Flights resume at Riyadh airport after two-week closure as Houthis attack Saudi Arabia",
@@ -153,11 +173,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan reopens Gabd border crossing with Iran, restores bilateral trade after weeklong suspension",
-      "link": "https://www.dawn.com/news/2039677/pakistan-reopens-gabd-border-crossing-with-iran-restores-bilateral-trade-after-weeklong-suspension",
-      "description": "https://www.dawn.com/news/2039610",
-      "date": "Sun, 25 Oct 2026",
-      "source": "Dawn",
+      "title": "Intercepted missile after Houthis hit Riyadh airport, says Saudi coalition",
+      "link": "https://www.thehindu.com/news/international/intercepted-missile-after-houthis-hit-riyadh-airport-says-saudi-coalition/article71625586.ece",
+      "description": "The Houthis have carried out waves of strikes on the King Khalid International Airport in Riyadh, including an attack this month that killed 13 people and injured more than 300",
+      "date": "Mon, 26 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Israel's Eisenkot vows unity as Netanyahu paints him as soft on Iran",
+      "link": "https://www.thehindu.com/news/international/israels-eisenkot-vows-unity-as-netanyahu-paints-him-as-soft-on-iran/article71625533.ece",
+      "description": "Polls had shown Mr. Netanyahu and Mr. Eisenkot running neck and neck before a ban on new polling took effect in the three days before October 27 vote",
+      "date": "Mon, 26 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -203,24 +233,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan reopens Iran border crossing after week-long suspension of trade",
-      "link": "https://www.thehindu.com/news/international/pakistan-reopens-iran-border-crossing-after-week-long-suspension-of-trade/article71622812.ece",
-      "description": "Resumption of operations in the Gabd-Rimdan crossing is expected to ease LPG shortage and reduce food and energy prices",
-      "date": "Sun, 25 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Cooperation with Russia helps to bolster energy security — Iran’s top diplomat",
+      "link": "https://tass.com/world/2207659",
+      "description": "Among the most important areas of cooperation between Moscow and Tehran, Abbas Araghchi named possible investments by Russian companies in the development of Iran’s oil and gas fields, the transfer of technology",
+      "date": "Mon, 26 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Riyadh airport resumes flights following Houthi attacks",
-      "link": "https://www.thehindu.com/news/international/riyadh-airport-resumes-flights-following-houthi-attacks/article71622578.ece",
-      "description": "The Yemeni Armed Forces warn all airlines, staff and travellers against using King Khalid airport in Riyadh; calls the airport a military target for their forces",
-      "date": "Sun, 25 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Protests in Europe stem from instability on energy markets — Iranian top diplomat",
+      "link": "https://tass.com/world/2207643",
+      "description": "Abbas Araghchi noted that military action against Iran has led to the closure of the Strait of Hormuz and the disruption of global natural gas supplies",
+      "date": "Mon, 26 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Vucic says winning Student List will impose anti-Russian sanctions by spring",
@@ -236,26 +266,6 @@
       "title": "Russia may help Iran reduce dependence on southern ports — senior Iranian diplomat",
       "link": "https://tass.com/world/2207611",
       "description": "Hamid Ghanbari said that Russia could become a supplier of essential goods",
-      "date": "Sun, 25 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Houthis say they attacked Riyadh Airport and military bases",
-      "link": "https://tass.com/world/2207607",
-      "description": "Houthi spokesman Yahya Saria warned international air carriers and passengers against flying to Riyadh’s airport",
-      "date": "Sun, 25 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "No plans for striking Iran on October 25 — Trump",
-      "link": "https://tass.com/world/2207591",
-      "description": "Earlier, when asked by blogger Mario Nawfal if a strike on Iran was possible this weekend, US Ambassador to Turkey and special envoy for Syria Tom Barrack said: \"Absolutely.\"",
       "date": "Sun, 25 Oct 2026",
       "source": "TASS",
       "region": "ru",
