@@ -1,22 +1,12 @@
 {
-  "updated": "2026-10-29 17:10 UTC",
-  "total": 18,
+  "updated": "2026-10-29 22:10 UTC",
+  "total": 17,
   "stories": [
     {
       "title": "Forty Iranian sailors stranded off Sri Lanka coast rescued",
       "link": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss",
       "description": "The sailors received medical treatment before being flown back to Iran, Sri Lankan authorities said.",
       "date": "Mon, 26 Oct 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
-      "description": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region.",
-      "date": "Sat, 24 Oct 2026",
       "source": "BBC",
       "region": "eu",
       "color": "#06d6a0",
@@ -41,6 +31,16 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Pentagon fires general it says leaked classified information to media",
+      "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+      "description": "Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine.",
+      "date": "Thu, 29 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Israel piles pressure on Arab parties as Netanyahu seeks government",
@@ -103,6 +103,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "A security deal, but not the end of the Arctic contest",
+      "link": "https://www.thehindu.com/opinion/op-ed/a-security-deal-but-not-the-end-of-the-arctic-contest/article71641792.ece",
+      "description": "The Greenland agreement strengthens American security while raising sovereignty concerns",
+      "date": "Thu, 29 Oct 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran says four tankers on fire after hitting mines in Hormuz",
       "link": "https://www.thehindu.com/news/international/iran-says-four-tankers-on-fire-after-hitting-mines-in-hormuz/article71642019.ece",
       "description": "The vessels had \"switched off all their radar and navigation systems\" and disregarded warnings from the IRGC navy, the statement said",
@@ -143,9 +153,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran yet to respond to Vance’s letter to security council secretary — Tasnim",
-      "link": "https://tass.com/world/2210315",
-      "description": "According to the agency, the Iranian side has received the letter",
+      "title": "CENTCOM chief briefs Trump on options for strikes on Iran — newspaper",
+      "link": "https://tass.com/world/2210581",
+      "description": "According to a report by The Wall Street Journal, this was Bradley Cooper’s \"rare in-person visit to the White House as the US weighs resuming major combat operations\"",
       "date": "Thu, 29 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -153,29 +163,9 @@
       "bias": "Very High"
     },
     {
-      "title": "Iran calls on US to prove Hormuz mine clearance — IRGC spokesman",
-      "link": "https://tass.com/world/2210271",
-      "description": "The previous day, CENTCOM claimed that US forces had cleared all internationally recognized main routes through the strait of naval mines",
-      "date": "Thu, 29 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Three tankers hit mines in Strait of Hormuz within 24 hours, IRGC Navy says",
-      "link": "https://tass.com/world/2210269",
-      "description": "According to the IRGC Navy, the vessels had switched off their radar and navigation systems and ignored warnings as they attempted to leave the strait via the prohibited route",
-      "date": "Thu, 29 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel seeks US permission to strike Iranian energy facilities — broadcaster",
-      "link": "https://tass.com/world/2210251",
-      "description": "US President Donald Trump earlier told Republican Party supporters in Ohio ahead of the US midterm congressional elections that he intended to end the war against Iran very quickly",
+      "title": "Russia ready to respond to any challenge in Baltic Sea — Putin",
+      "link": "https://tass.com/politics/2210499",
+      "description": "Russia does not want a situation similar to that in the Strait of Hormuz and the Persian Gulf to develop in the Baltic Sea, the Russian president added",
       "date": "Thu, 29 Oct 2026",
       "source": "TASS",
       "region": "ru",
