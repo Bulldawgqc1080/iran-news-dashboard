@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31 07:40 UTC",
-  "total": 23,
+  "updated": "2026-10-31 13:59 UTC",
+  "total": 26,
   "stories": [
     {
       "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
@@ -18,6 +18,16 @@
       "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
       "date": "Thu, 22 Oct 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump vs MAGA: Why his movement is splitting",
+      "link": "https://www.france24.com/en/video/20261031-trump-vs-maga-why-his-movement-is-splitting",
+      "description": "As the 2026 midterm elections approach, divisions within the MAGA camp are becoming increasingly visible. From the war in Iran and rising fuel prices to the Epstein files, several of Trump’s decisions are fuelling divisions among his most loyal supporters. Once united by a shared...",
+      "date": "Sat, 31 Oct 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -43,34 +53,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
-      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
-      "description": "In an interview with FRANCE 24, former Israeli prime minister Ehud Barak said Prime Minister Benjamin Netanyahu \"did not win\" this week's election in Israel but \"lost dramatically\", and that his rival Gadi Eisenkot should ally with Arab parties. Barak also suggested that claims o...",
-      "date": "Fri, 30 Oct 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
+      "description": "Withdrawal from the nuclear treaty doses not mean that Iran would build a nuclear weapon, observers say.",
+      "date": "Sat, 31 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
+      "description": "Iran’s supreme leader says Tehran’s potential response will not be restricted by geography.",
+      "date": "Sat, 31 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How Ambani’s Jio became India’s second-largest company",
+      "link": "https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company?traffic_source=rss",
+      "description": "Jio makes India’s largest-ever stock market debut, raising $3.2bn in IPO.",
+      "date": "Sat, 31 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Can Democrats win the US Senate? 10 key midterm races to watch",
+      "link": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss",
+      "description": "From Texas to Maine, rising prices and the Iran war put key Senate races in play as Democrats fight for control.",
+      "date": "Sat, 31 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Lebanon charges 13 over confiscated Hezbollah explosives",
+      "link": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives?traffic_source=rss",
+      "description": "Group calls charges &#039;unjust&#039;, says weapons were meant to be used against Israeli forces in south Lebanon.",
+      "date": "Sat, 31 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran's supreme leader warns US, Israel of 'unrestricted geographical response' to new attacks",
+      "link": "https://www.dawn.com/news/2041187/irans-supreme-leader-warns-us-israel-of-unrestricted-geographical-response-to-new-attacks",
+      "description": "Iran’s Supreme Leader Mojtaba Khamenei on Saturday warned the United States and Israel against returning to war, according to a written statement, following threats from the Islamic republic’s foes of a possible resumption of strikes. “If the enemies once again launch military or...",
+      "date": "Sat, 31 Oct 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says four tankers on fire after striking mines in Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
-      "description": "Iran&#039;s Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.",
+      "title": "Syria weighing whether to join Makkah pact: foreign minister",
+      "link": "https://www.dawn.com/news/2041182/syria-weighing-whether-to-join-makkah-pact-foreign-minister",
+      "description": "Syria’s Foreign Minister Asaad al-Shaibani on Saturday said Damascus was considering whether to join the Makkah defence pact that binds Pakistan, Saudi Arabia and Turkiye. The Makkah Joint Defence Agreement, signed on Aug 7, empowers the three members to consider an armed attack ...",
       "date": "Sat, 31 Oct 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iran war live: Tehran warns of earth-shattering blow; drone targets Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-      "description": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will &#039;get wrapped up soon&#039;.",
-      "date": "Sat, 31 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Qatari delegation arrives in Tehran for peace talks",
@@ -113,21 +163,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Rubio hosts G20 ministers as Iran, Ukraine wars divide members",
-      "link": "https://www.dawn.com/news/2040947/rubio-hosts-g20-ministers-as-iran-ukraine-wars-divide-members",
-      "description": "US Secretary of State Marco Rubio will host his G20 counterparts, including Russia’s Sergei Lavrov, for talks on Friday that are expected to be fractious, with wars in Ukraine and Iran and surging energy prices fanning discord. The foreign ministers’ meeting in Atlanta, Georgia, ...",
-      "date": "Fri, 30 Oct 2026",
-      "source": "Dawn",
+      "title": "Iran says fishermen found after accusing U.S. of attack in Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-says-fishermen-found-after-accusing-us-of-attack-in-hormuz/article71649330.ece",
+      "description": "Two fishermen from Qeshm, who had gone missing following an attack by the American enemy on their fishing boat this morning, have been found, state television said",
+      "date": "Sat, 31 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "First Russian diesel shipment from Putin-Trump deal heads to US",
-      "link": "https://www.dawn.com/news/2040838/first-russian-diesel-shipment-from-putin-trump-deal-heads-to-us",
-      "description": "MOSCOW: The first Russian diesel bound for the US following a surprise agreement reached between Moscow and US President Donald Trump is aboard a tanker heading for New York, ship-tracking data showed. Trump announced the deal this month as part of his efforts to bring down soari...",
-      "date": "Fri, 30 Oct 2026",
-      "source": "Dawn",
+      "title": "Iran’s Supreme Leader warns U.S., Israel against new attacks",
+      "link": "https://www.thehindu.com/news/international/irans-supreme-leader-warns-us-israel-against-new-attacks/article71649244.ece",
+      "description": "According to the statement, Mr. Khamenei ordered the commanders to ensure that \"any level or type of threat must be met with an immediate, impactful and geographically unrestricted response\".",
+      "date": "Sat, 31 Oct 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -173,29 +223,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "A security deal, but not the end of the Arctic contest",
-      "link": "https://www.thehindu.com/opinion/op-ed/a-security-deal-but-not-the-end-of-the-arctic-contest/article71641792.ece",
-      "description": "The Greenland agreement strengthens American security while raising sovereignty concerns",
-      "date": "Fri, 30 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran says four tankers on fire after hitting mines in Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-says-four-tankers-on-fire-after-hitting-mines-in-hormuz/article71642019.ece",
-      "description": "The vessels had \"switched off all their radar and navigation systems\" and disregarded warnings from the IRGC navy, the statement said",
-      "date": "Thu, 29 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US may resume strikes on Iran on November 4 — media",
-      "link": "https://tass.com/world/2211305",
-      "description": "According to sources cited by MS NOW, the US administration has informed several Persian Gulf countries that they should prepare for \"a short, intense round of strikes\"",
+      "title": "Iranian delegation arrives in Doha to discuss nuclear proposals",
+      "link": "https://tass.com/world/2211371",
+      "description": "Iranian authorities had formed special committees to discuss the nuclear proposals",
       "date": "Sat, 31 Oct 2026",
       "source": "TASS",
       "region": "ru",
@@ -203,30 +233,30 @@
       "bias": "Very High"
     },
     {
-      "title": "US not lifting sanctions on Russian Direct Investment Fund for now — Trump",
-      "link": "https://tass.com/world/2211293",
-      "description": "The US president made the remarks at a White House meeting with Stephen Hubbard, an American who was recently released from prison in Russia after being convicted of fighting alongside Ukrainian forces",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Iran to respond to any threat regardless of geographical restrictions — supreme leader",
+      "link": "https://tass.com/world/2211365",
+      "description": "Mojtaba Khamenei described combat readiness for a strong response to enemies as a condition stipulating \"maximum deterrence\"",
+      "date": "Sat, 31 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Houthis deliver missile strikes on airport, presidential palace in Aden",
-      "link": "https://tass.com/world/2211195",
-      "description": "At the same time, government forces conducted 1,087 successful operations, Colonel Majed Al-Nuzaili, spokesperson for Yemen's internationally recognized armed forces, said",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Iran to determine war’s end in case of new assaults — country’s supreme leader",
+      "link": "https://tass.com/world/2211359",
+      "description": "Mojtaba Khamenei also ordered that the target bank be updated so that the tangible and intangible assets of the United States and Israel would be within the reach of the armed forces",
+      "date": "Sat, 31 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Trump did not discuss strikes on Iran with CENTCOM head on Thursday — Axios",
-      "link": "https://tass.com/world/2211145",
-      "description": "According to the report, blockade and economic pressure were discussed at length",
-      "date": "Fri, 30 Oct 2026",
+      "title": "US may resume strikes on Iran on November 4 — media",
+      "link": "https://tass.com/world/2211305",
+      "description": "According to sources cited by MS NOW, the US administration has informed several Persian Gulf countries that they should prepare for \"a short, intense round of strikes\"",
+      "date": "Sat, 31 Oct 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
