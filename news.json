@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 21:13 UTC",
+  "updated": "2026-10-31 01:11 UTC",
   "total": 23,
   "stories": [
     {
@@ -18,6 +18,16 @@
       "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
       "date": "Thu, 22 Oct 2026",
       "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Residents leave Russian-occupied Oleshky in evacuation operation",
+      "link": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
+      "description": "Residents evacuated from the Russian-occupied Ukrainian town of Oleshky have left for Russia's Anapa city with a Ukrainian delegation, senior official David Arakhamia said Friday. They are expected to fly to Belarus before returning to Ukraine by bus, during a rare ceasefire brok...",
+      "date": "Fri, 30 Oct 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
@@ -43,6 +53,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+      "description": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will &#039;get wrapped up soon&#039;.",
+      "date": "Sat, 31 Oct 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
       "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
       "description": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
@@ -66,26 +86,6 @@
       "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
       "description": "Incident comes as Iran says three oil tankers were halted while attempting to use &#039;unauthorised routes&#039; to cross Hormuz.",
-      "date": "Fri, 30 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
-      "description": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
-      "date": "Fri, 30 Oct 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-      "description": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.",
       "date": "Fri, 30 Oct 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -193,6 +193,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US not lifting sanctions on Russian Direct Investment Fund for now — Trump",
+      "link": "https://tass.com/world/2211293",
+      "description": "The US president made the remarks at a White House meeting with Stephen Hubbard, an American who was recently released from prison in Russia after being convicted of fighting alongside Ukrainian forces",
+      "date": "Fri, 30 Oct 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Houthis deliver missile strikes on airport, presidential palace in Aden",
       "link": "https://tass.com/world/2211195",
       "description": "At the same time, government forces conducted 1,087 successful operations, Colonel Majed Al-Nuzaili, spokesperson for Yemen's internationally recognized armed forces, said",
@@ -216,16 +226,6 @@
       "title": "IRGC says supertanker with over 2 mln barrels of oil struck mine in Strait of Hormuz",
       "link": "https://tass.com/world/2211041",
       "description": "Two more such incidents in the southern part of the Strait of Hormuz were reported by the IRGC earlier",
-      "date": "Fri, 30 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran destroys enemy drone boat east of Strait of Hormuz — navy",
-      "link": "https://tass.com/world/2211037",
-      "description": "According to the navy, two tankers sustained damage and caught fire after striking sea mines while sailing through prohibited and unsafe waters east of the strait, ignoring warnings and keeping their tracking systems switched off",
       "date": "Fri, 30 Oct 2026",
       "source": "TASS",
       "region": "ru",
