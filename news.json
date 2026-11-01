@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01 01:36 UTC",
-  "total": 21,
+  "updated": "2026-11-01 08:19 UTC",
+  "total": 24,
   "stories": [
     {
       "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
@@ -43,7 +43,37 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
+      "link": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
+      "description": "From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families&#039; hopes of return.",
+      "date": "Sun, 01 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+      "link": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+      "description": "Mohammad el-Shami had been held since June 2024, when he and many other UN and NGO workers were accused of being spies.",
+      "date": "Sun, 01 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "What we know about latest efforts to end US war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+      "description": "The foreign ministers of the US and Iran say a diplomatic end to the war is still possible.",
+      "date": "Sun, 01 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
       "description": "Top diplomat says Iran and Qatar have reached a plan to reopen Hormuz in two days if the US meets Tehran&#039;s conditions.",
       "date": "Sun, 01 Nov 2026",
@@ -51,6 +81,16 @@
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Muslim Americans seek greater voice as midterms approach",
+      "link": "https://www.dawn.com/news/2041308/muslim-americans-seek-greater-voice-as-midterms-approach",
+      "description": "WASHINGTON: Muslim and Arab Americans are seeking a greater political voice in the Nov 3 midterm elections, with candidates contesting congressional, state legislative and local offices across the US amid growing debate over American policy in the Middle East. The wars in Gaza an...",
+      "date": "Sun, 01 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran's supreme leader warns US, Israel of 'unrestricted geographical response' to new attacks",
@@ -103,11 +143,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Vatican says Pope Leo XIV voted in US midterm elections",
-      "link": "https://www.dawn.com/news/2040984/vatican-says-pope-leo-xiv-voted-in-us-midterm-elections",
-      "description": "Pope Leo XIV, the Catholic Church’s first US-born pontiff, has voted in the United States midterm elections, submitting his mail-in ballot in Chicago, the Vatican said on Friday. It is the first known time a pope has voted in a political election. The head of the world’s 1.4 bill...",
-      "date": "Fri, 30 Oct 2026",
-      "source": "Dawn",
+      "title": "President Trump says U.S. still has ‘one or two targets’ in Iran",
+      "link": "https://www.thehindu.com/news/international/president-trump-says-us-still-has-one-or-two-targets-in-iran/article71652262.ece",
+      "description": "The President said the United States is not in a hurry to take offensive action because it had already decimated Iran’s military and nuclear programme",
+      "date": "Sun, 01 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -163,14 +203,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Oman rescues 25 from burning ship, Iran halts tankers",
-      "link": "https://www.thehindu.com/news/international/oman-rescues-25-from-burning-ship-iran-halts-tankers/article71648359.ece",
-      "description": "Tehran has restricted maritime traffic through the strait since the West Asia war erupted on February 28 with U.S.-Israeli strikes on the Islamic republic",
-      "date": "Sat, 31 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Qatari LNG tanker attacked in Persian Gulf — statement",
+      "link": "https://tass.com/emergencies/2211495",
+      "description": "None of the crew members onboard were injured",
+      "date": "Sun, 01 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran may withdraw from NPT if war resumes — security council secretary",
@@ -196,16 +236,6 @@
       "title": "Iran remains committed to Nuclear Non-Proliferation Treaty — foreign minister",
       "link": "https://tass.com/world/2211381",
       "description": "The country remains a party to the Treaty, Abbas Araghchi said",
-      "date": "Sat, 31 Oct 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran has no plans for direct meetings with US officials — foreign minister",
-      "link": "https://tass.com/world/2211379",
-      "description": "The American side’s attempt to open the door to dialogue and understanding more broadly is a positive step, Abbas Araghchi said",
       "date": "Sat, 31 Oct 2026",
       "source": "TASS",
       "region": "ru",
