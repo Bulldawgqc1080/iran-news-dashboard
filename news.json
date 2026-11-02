@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-02 03:11 UTC",
-  "total": 21,
+  "updated": "2026-11-02 11:47 UTC",
+  "total": 24,
   "stories": [
     {
-      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
       "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
       "description": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
       "date": "Sun, 01 Nov 2026",
@@ -13,19 +13,19 @@
       "bias": "Low"
     },
     {
-      "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
-      "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
-      "description": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.",
-      "date": "Fri, 30 Oct 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+      "date": "Mon, 02 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran warns renewed war with US could outlast previous conflict",
-      "link": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
-      "description": "Iran warned on Sunday that a renewed war with the United States could last longer than the previous conflict, as President Donald Trump suggested Washington still had targets to strike. Tehran threatened retaliation without geographical limits while diplomatic efforts continued t...",
+      "title": "'Give them the hammer': Trump threatens Iran ahead of midterms",
+      "link": "https://www.france24.com/en/video/20261102-give-them-the-hammer-trump-threatens-iran-ahead-of-midterms",
+      "description": "US President Donald Trump on Sunday reiterated his threat to resume strikes against Iran, telling a campaign rally that he may have to give Tehran \"the hammer\" at some unspecified time. Trump had previously said he would not strike Iran again before the upcoming US midterm electi...",
       "date": "Mon, 02 Nov 2026",
       "source": "France 24",
       "region": "eu",
@@ -33,9 +33,29 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "description": "US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+      "title": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
+      "link": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
+      "description": "Russia and Ukraine on Monday traded accusations over cyberattacks, with Moscow reporting a hack of its emergency alerts app hours after Kyiv said its own air raid warning system had been compromised. The incidents came as a fragile ceasefire in Ukraine's Kherson region expired, r...",
+      "date": "Mon, 02 Nov 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran warns renewed war with US could outlast previous conflict",
+      "link": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+      "description": "Iran on Sunday said that a renewed war with the United States could last longer than the previous round of fighting, as President Donald Trump suggested that Washington still had targets to strike. Tehran threatened retaliation without geographical limits while diplomatic efforts...",
+      "date": "Mon, 02 Nov 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
+      "link": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+      "description": "Houthi-affiliated media report that seven people were wounded in strikes on the city of Hodeidah.",
       "date": "Mon, 02 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -43,14 +63,54 @@
       "bias": "Medium"
     },
     {
-      "title": "How will the Iran war shape the outcome of the US midterm vote?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
-      "description": "The conflict has become a central issue ahead of Tuesday&#039;s polls.",
-      "date": "Sun, 01 Nov 2026",
+      "title": "UN staffer’s death in custody exposes Houthi ‘political extortion’ in Yemen",
+      "link": "https://www.aljazeera.com/news/2026/11/2/un-staffers-death-in-custody-exposes-houthi-political-extortion-in-yemen?traffic_source=rss",
+      "description": "Following a UN staffer&#039;s death, rights experts expose systematic abuses and demand international accountability in Yemen",
+      "date": "Mon, 02 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Hormuz shipping still faces major risks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks?traffic_source=rss",
+      "description": "The Strait of Hormuz remains dangerous and costly for shipping, despite US claims that it is open.",
+      "date": "Mon, 02 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Bangladesh garment workers protesting for higher wages clash with police",
+      "link": "https://www.dawn.com/news/2041608/bangladesh-garment-workers-protesting-for-higher-wages-clash-with-police",
+      "description": "Thousands of Bangladeshi garment workers blocked a major highway and clashed with police on Monday, demanding a monthly minimum wage more than double their current pay, as protests spread across industrial hubs. The South Asian nation of 170 million people is the world’s second-b...",
+      "date": "Mon, 02 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US midterms: Michigan Democrat's endorsement of Republican ruffles critical Senate race",
+      "link": "https://www.dawn.com/news/2041589/us-midterms-michigan-democrats-endorsement-of-republican-ruffles-critical-senate-race",
+      "description": "A prominent Michigan Democrat endorsed Republican Mike Rogers on Sunday, giving President Donald Trump’s Republicans an unexpected boost in ​a critical US Senate race two days before midterm elections that will decide control of Congress. US Representative Haley Stevens, who lost...",
+      "date": "Mon, 02 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UAE state oil company announces OpenAI partnership",
+      "link": "https://www.dawn.com/news/2041606/uae-state-oil-company-announces-openai-partnership",
+      "description": "UAE state oil company ADNOC on Monday announced a partnership with OpenAI, saying it would be the world’s first energy firm to deploy OpenAI Frontier, an advanced artificial intelligence platform. The deal was announced as OpenAI CEO Sam Altman attended the UAE’s flagship oil ind...",
+      "date": "Mon, 02 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Democrats expand lead ahead of key US midterm polls",
@@ -83,31 +143,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan's embassy in Tehran refutes rumours of people 'attacking' its ambassador to Iran",
-      "link": "https://www.dawn.com/news/2041397/pakistans-embassy-in-tehran-refutes-rumours-of-people-attacking-its-ambassador-to-iran",
-      "description": "Pakistan’s embassy in Iran on Sunday refuted rumours of an attack on Ambassador Imran Ahmed Siddiqui in Tehran, terming them “baseless”. In a post on X, the embassy said it had taken note of “certain reports circulating in social media and other forums” concerning the Pakistani a...",
-      "date": "Sun, 01 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "‘We’re technology-savvy’: DG ISPR says Pakistan ahead of India, Afghan Taliban in operational readiness",
-      "link": "https://www.dawn.com/news/2041391/were-technology-savvy-dg-ispr-says-pakistan-ahead-of-india-afghan-taliban-in-operational-readiness",
-      "description": "Inter-Services Public Relations (ISPR) Director General Lieutenant General Ahmed Sharif Chaudhry has affirmed that Pakistan is “much ahead” in operational readiness compared to the Afghan Taliban and India, adding that the country’s military is adopting emerging technologies. The...",
-      "date": "Sun, 01 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Kabul warned of ‘unbearable punishment’ as clashes persist along border",
-      "link": "https://www.dawn.com/news/2041542/kabul-warned-of-unbearable-punishment-as-clashes-persist-along-border",
-      "description": "• Torkham stays shut for five hours following firefight over disputed check post• Military spox says Afghan Taliban ‘won’t be able to bear cost’ of harbouring terrorists• Names India as ‘prime contractor’ behind terrorism in Pakistan• Rubio says US shares Pakistan’s concerns over...",
+      "title": "West Asia conflict: China's Foreign Minister pushes for dialogue",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-chinas-foreign-minister-pushes-for-dialogue/article71656273.ece",
+      "description": "Dialogue ‌and negotiation are the way ‌to ⁠resolve West Asia conflicts, Chinese FM ⁠told Ali Bagheri Kani, the Deputy Secretary of the Iran Supreme National Security Council",
       "date": "Mon, 02 Nov 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran says considering two-day plan to reopen Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-says-considering-two-day-plan-to-reopen-hormuz/article71656060.ece",
+      "description": "“The possibility of implementing this plan in two days is another indication of Iran's good-faith approach,” Foreign Ministry spokesperson Esmaeil Baqaei said",
+      "date": "Mon, 02 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -153,60 +203,40 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Rubio says U.S. yet to decide on new Iran strikes",
-      "link": "https://www.thehindu.com/news/international/rubio-says-us-yet-to-decide-on-new-iran-strikes/article71651951.ece",
-      "description": "Iran’s supreme leader October 31, 2026 warned the United States and Israel against launching new attacks, following threats to resume strikes after crucial elections",
-      "date": "Sun, 01 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran has no plans for talks with U.S.: Foreign Minister",
-      "link": "https://www.thehindu.com/news/international/iran-has-no-plans-for-talks-with-us-foreign-minister/article71650486.ece",
-      "description": "Araghchi confirmed that Iran received a letter from U.S. Vice President J. D. Vance, following days of diplomatic efforts to head off a return to violence",
-      "date": "Sat, 31 Oct 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran hopes US will prefer diplomacy to other scenarios — top diplomat",
-      "link": "https://tass.com/world/2211589",
-      "description": "According to the Iranian Foreign Minister Abbas Araghchi, the country’s armed forces are today much stronger than they were during the two previous wars",
-      "date": "Sun, 01 Nov 2026",
+      "title": "Iran’s IRGC Navy says 11 tankers violating Hormuz passage rules catch fire since Oct 25",
+      "link": "https://tass.com/world/2211903",
+      "description": "Some of the vessels sank",
+      "date": "Mon, 02 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Iran rapidly changing its defense doctrine — supreme leader’s adviser",
-      "link": "https://tass.com/world/2211575",
-      "description": "With the geography of threats no longer determining the geography of response, Mohammad Mokhber, and adviser to the Iranian supreme leader, said",
-      "date": "Sun, 01 Nov 2026",
+      "title": "Iran ready for talks with all parties, determined to defend national security — official",
+      "link": "https://tass.com/world/2211893",
+      "description": "Iranian National Security Council Deputy Secretary Ali Bagheri Kani had a meeting with Chinese Foreign Minister Wang Yi in Beijing",
+      "date": "Mon, 02 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Iran continues talks with mediators on opening Strait of Hormuz — top diplomat",
-      "link": "https://tass.com/world/2211541",
-      "description": "According to Iranian Foreign Minister Abbas Araghchi the visit to Qatar by the Iranian delegation led by a deputy foreign minister was geared to continue consultations with the Qatari mediators who had visited Tehran in recent weeks",
-      "date": "Sun, 01 Nov 2026",
+      "title": "Iranian delegation leaves Doha to review settlement proposals — news agency",
+      "link": "https://tass.com/world/2211721",
+      "description": "According to a source familiar with the consultations' progress, a draft agreement has been circulated among participants for feedback",
+      "date": "Mon, 02 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Iran designates UK’s Royal Navy, Royal Air Force as terrorist organizations — MFA",
-      "link": "https://tass.com/world/2211497",
-      "description": "Tehran also classified the British foreign intelligence service MI6 as a hostile group, the Foreign Ministry said",
-      "date": "Sun, 01 Nov 2026",
+      "title": "Iran’s nuclear program to remain peaceful while country stays in NPT — MFA",
+      "link": "https://tass.com/world/2211719",
+      "description": "Esmaeil Baghaei said that Iran’s nuclear program is entirely peaceful",
+      "date": "Mon, 02 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
