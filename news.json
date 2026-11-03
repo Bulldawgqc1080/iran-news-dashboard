@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03 02:46 UTC",
+  "updated": "2026-11-03 10:14 UTC",
   "total": 26,
   "stories": [
     {
@@ -23,9 +23,39 @@
       "bias": "Low"
     },
     {
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "date": "Tue, 03 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
       "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
       "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+      "date": "Mon, 02 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+      "description": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+      "date": "Tue, 27 Oct 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
       "date": "Mon, 02 Nov 2026",
       "source": "BBC",
       "region": "eu",
@@ -43,7 +73,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "MAGA: Why Trump's most loyal supporters are turning against him?",
+      "title": "MAGA: Why are Trump's most loyal supporters turning against him?",
       "link": "https://www.france24.com/en/maga-why-trump-s-most-loyal-supporters-are-turning-against-him",
       "description": "Is Trump losing the support of the very coalition that brought him back to power? Just one day before the midterm elections, Trump's approval rating stands at 32%, one of the lowest ever recorded at this stage of a presidency. And discontent is growing beyond Democratic voters. S...",
       "date": "Mon, 02 Nov 2026",
@@ -63,40 +93,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran offers deal on Hormuz Strait, Netanyahu wants to 'finish the job'",
-      "link": "https://www.france24.com/en/video/20261102-iran-offers-deal-on-hormuz-strait-netanyahu-wants-to-finish-the-job",
-      "description": "Iran said Monday it had a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States, shortening a process originally expected to take seven days. Israel's Prime Minister Benjamin Netanyahu said he wanted to \"finish the job\" first. FRANCE 24's Int...",
-      "date": "Mon, 02 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
-      "description": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.",
+      "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
+      "link": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
+      "description": "Start date for AFC Cup 2027 moved from January to December due to ongoing Houthi attacks on host nation Saudi Arabia.",
       "date": "Tue, 03 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-      "description": "Hit hard by Trump&#039;s tariffs and the war on Iran, countries in the Asia-Pacific want &#039;enormous changes&#039; in US policies.",
-      "date": "Mon, 02 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
-      "description": "Iran says its offer to reopen the Strait of Hormuz can be implemented in two days if the US agrees to terms.",
-      "date": "Mon, 02 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
@@ -113,51 +113,81 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump touts Washington reflecting pool as US midterm battle reaches finale",
-      "link": "https://www.dawn.com/news/2041656/trump-touts-washington-reflecting-pool-as-us-midterm-battle-reaches-finale",
-      "description": "United States President Donald Trump devoted his final public remarks before Tuesday’s midterm elections to touting renovations of the Lincoln Memorial Reflecting Pool, even as Democrats sought to contain a rift in Michigan’s closely fought US Senate race. Polls show Democrats po...",
-      "date": "Mon, 02 Nov 2026",
+      "title": "Indian national killed after 2 helicopters collide in Nepal's Mount Everest region",
+      "link": "https://www.dawn.com/news/2041820/indian-national-killed-after-2-helicopters-collide-in-nepals-mount-everest-region",
+      "description": "An Indian national was killed and a New Zealander injured after two helicopters collided as they prepared to land in Nepal’s Mount Everest region on Tuesday, authorities said. The New Zealander has been rescued, the chief district officer of Solukhumbu district, Kaman Singh Thapa...",
+      "date": "Tue, 03 Nov 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "China calls for Middle East dialogue in talks with Iran, Saudi Arabia, Oman",
-      "link": "https://www.dawn.com/news/2041642/china-calls-for-middle-east-dialogue-in-talks-with-iran-saudi-arabia-oman",
-      "description": "China stepped up diplomatic efforts on Monday to resolve the Middle East crisis, urging a return to the negotiating table in back-to-back meetings with Iranian, Omani and Saudi officials in Beijing. The meetings come days after United States President Donald Trump issued a fresh ...",
-      "date": "Mon, 02 Nov 2026",
+      "title": "US signals progress in Iran talks to avert flare-up",
+      "link": "https://www.dawn.com/news/2041801/us-signals-progress-in-iran-talks-to-avert-flare-up",
+      "description": "US President Donald Trump signaled progress on Tuesday in talks with Iran to avoid a return to war, as Tehran reported “intensive” exchanges while offering to reopen the Strait of Hormuz under strict conditions. The fresh diplomatic signals came ahead of US midterm elections on T...",
+      "date": "Tue, 03 Nov 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Bangladesh garment workers protesting for higher wages clash with police",
-      "link": "https://www.dawn.com/news/2041608/bangladesh-garment-workers-protesting-for-higher-wages-clash-with-police",
-      "description": "Thousands of Bangladeshi garment workers blocked a major highway and clashed with police on Monday, demanding a monthly minimum wage more than double their current pay, as protests spread across industrial hubs. The South Asian nation of 170 million people is the world’s second-b...",
-      "date": "Mon, 02 Nov 2026",
+      "title": "'Who cares?' Alaska voters shrug off potential Democratic manipulation",
+      "link": "https://www.dawn.com/news/2041813/who-cares-alaska-voters-shrug-off-potential-democratic-manipulation",
+      "description": "In the long line of US midterm voters casting ballots early Monday in Anchorage, Alaska’s largest city, everyone was aware of the whiff of scandal surrounding the election. Democratic Senate candidate Mary Peltola, in a tight race against Republican incumbent Dan Sullivan that co...",
+      "date": "Tue, 03 Nov 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "US midterms: Michigan Democrat's endorsement of Republican ruffles critical Senate race",
-      "link": "https://www.dawn.com/news/2041589/us-midterms-michigan-democrats-endorsement-of-republican-ruffles-critical-senate-race",
-      "description": "A prominent Michigan Democrat endorsed Republican Mike Rogers on Sunday, giving President Donald Trump’s Republicans an unexpected boost in ​a critical US Senate race two days before midterm elections that will decide control of Congress. US Representative Haley Stevens, who lost...",
-      "date": "Mon, 02 Nov 2026",
+      "title": "Houthis advance on Aden amid strikes",
+      "link": "https://www.dawn.com/news/2041746/houthis-advance-on-aden-amid-strikes",
+      "description": "SANAA: Yemen’s Houthi rebels have advanced to within 80 kilometres of Aden while exchanging cross-border strikes with a Saudi-led coalition on Monday, military sources and officials said. Fighting between the Houthis and Yemen’s internationally recognized government forces was un...",
+      "date": "Tue, 03 Nov 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "UAE state oil company announces OpenAI partnership",
-      "link": "https://www.dawn.com/news/2041606/uae-state-oil-company-announces-openai-partnership",
-      "description": "UAE state oil company ADNOC on Monday announced a partnership with OpenAI, saying it would be the world’s first energy firm to deploy OpenAI Frontier, an advanced artificial intelligence platform. The deal was announced as OpenAI CEO Sam Altman attended the UAE’s flagship oil ind...",
-      "date": "Mon, 02 Nov 2026",
+      "title": "Donald the Lame Duck? Trump will have other ideas if Republicans lose midterms",
+      "link": "https://www.dawn.com/news/2041807/donald-the-lame-duck-trump-will-have-other-ideas-if-republicans-lose-midterms",
+      "description": "President Donald Trump’s second term has been a wild ride, but his last two years in power could be wilder still if Republicans lose control of Congress in Tuesday’s US midterm elections. From renewed military action against Iran to election challenges and fightbacks against Demo...",
+      "date": "Tue, 03 Nov 2026",
       "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran's Foreign Minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
+      "link": "https://www.thehindu.com/news/international/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-intensifies/article71659845.ece",
+      "description": "Riyadh said the talks are intended to open negotiating channels to “prevent ‌the return of military escalation,” ​as fighting between Saudi Arabia and Yemen’s Iran-aligned Houthis had intensified ⁠in recent weeks",
+      "date": "Tue, 03 Nov 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Former Maldives Foreign Minister Abdulla Shahid arrested on child sexual abuse charges",
+      "link": "https://www.thehindu.com/news/international/former-maldives-foreign-minister-abdulla-shahid-arrestedchild-sexual-abuse-allegations/article71659429.ece",
+      "description": "The arrest assumes significance as Mr. Shahid is among the prominent presidential aspirants within the main opposition Maldivian Democratic Party (MDP) for the island nation’s 2028 elections",
+      "date": "Tue, 03 Nov 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. has conducted defensive strikes on some Iranian targets in Strait of Hormuz: official ahead of midterm elections",
+      "link": "https://www.thehindu.com/news/international/us-strikes-iran-strait-of-hormuz-midterm-elections-trump-netanyahu-vance/article71659244.ece",
+      "description": "Vice-President J.D. Vance told reporters that he just spoke to President Trump about talks with Iran and said that “the president and I both feel pretty good about the prospects for potentially coming to a negotiated settlement”",
+      "date": "Tue, 03 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -187,36 +217,6 @@
       "link": "https://www.thehindu.com/news/international/iran-says-ready-to-reopen-hormuz-in-two-days-if-us-agrees-to-demands/article71657916.ece",
       "description": "A senior Iranian official said the offer to open the vital energy corridor, which follows intense efforts by mediators to stop a return to war, showed good faith",
       "date": "Mon, 02 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "West Asia conflict: China's Foreign Minister pushes for dialogue",
-      "link": "https://www.thehindu.com/news/international/west-asia-conflict-chinas-foreign-minister-pushes-for-dialogue/article71656273.ece",
-      "description": "Dialogue ‌and negotiation are the way ‌to ⁠resolve West Asia conflicts, Chinese FM ⁠told Ali Bagheri Kani, the Deputy Secretary of the Iran Supreme National Security Council",
-      "date": "Mon, 02 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran says considering two-day plan to reopen Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-says-considering-two-day-plan-to-reopen-hormuz/article71656060.ece",
-      "description": "“The possibility of implementing this plan in two days is another indication of Iran's good-faith approach,” Foreign Ministry spokesperson Esmaeil Baqaei said",
-      "date": "Mon, 02 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump holds call with Netanyahu over state of Iran war: report",
-      "link": "https://www.thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece",
-      "description": "The Israeli source described the call as “tough,” while the American source said it was “direct,” according to Axios",
-      "date": "Sun, 01 Nov 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
