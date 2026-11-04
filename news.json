@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03 23:45 UTC",
-  "total": 19,
+  "updated": "2026-11-04 03:46 UTC",
+  "total": 21,
   "stories": [
     {
       "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
@@ -63,20 +63,30 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-      "link": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
-      "description": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
-      "date": "Tue, 03 Nov 2026",
+      "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+      "description": "Iran says a &#039;maximum deterrence&#039; plan is ready against any new US attack, warning of an immediate response.",
+      "date": "Wed, 04 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "Americans vote in midterm election seen as a referendum on Trump presidency",
-      "link": "https://www.dawn.com/news/2041758/americans-vote-in-midterm-election-seen-as-a-referendum-on-trump-presidency",
-      "description": "Americans voted on Tuesday in a midterm election seen as a nationwide referendum on US President Donald Trump that could wrest control of Congress from his Republican Party and impose major restraints on the remaining two years of his presidency. Polls predict the Democrats will ...",
-      "date": "Tue, 03 Nov 2026",
+      "title": "US midterms: Democrats projected to flip North Carolina Senate seat, hold Georgia",
+      "link": "https://www.dawn.com/news/2042019/us-midterms-democrats-projected-to-flip-north-carolina-senate-seat-hold-georgia",
+      "description": "Democrats won major Senate races in the US states of North Carolina and Georgia, media projections showed, but it remained unclear whether the party would succeed in wresting control of the chamber from President Donald Trump’s Republicans with millions of votes still uncounted i...",
+      "date": "Wed, 04 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Trump’s poor rating offers Democrats midterm opening",
+      "link": "https://www.dawn.com/news/2041942/trumps-poor-rating-offers-democrats-midterm-opening",
+      "description": "WASHINGTON: As polls opened across the United States on Tuesday, President Donald Trump faced a consequential test of his political standing, with Democrats hoping to turn growing public dissatisfaction with his administration into control of Congress. All 435 seats in the House ...",
+      "date": "Wed, 04 Nov 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -123,11 +133,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthis advance on Aden amid strikes",
-      "link": "https://www.dawn.com/news/2041746/houthis-advance-on-aden-amid-strikes",
-      "description": "SANAA: Yemen’s Houthi rebels have advanced to within 80 kilometres of Aden while exchanging cross-border strikes with a Saudi-led coalition on Monday, military sources and officials said. Fighting between the Houthis and Yemen’s internationally recognized government forces was un...",
-      "date": "Tue, 03 Nov 2026",
-      "source": "Dawn",
+      "title": "Trump says U.S. has no immediate plan to strike Iran: report",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-has-no-immediate-plan-to-strike-iran-report/article71663717.ece",
+      "description": "“We ‌seem to be getting everything we want,” ‌he told FT",
+      "date": "Wed, 04 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -183,14 +193,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. has conducted defensive strikes on some Iranian targets in Strait of Hormuz: official ahead of midterm elections",
-      "link": "https://www.thehindu.com/news/international/us-strikes-iran-strait-of-hormuz-midterm-elections-trump-netanyahu-vance/article71659244.ece",
-      "description": "Vice-President J.D. Vance told reporters that he just spoke to President Trump about talks with Iran and said that “the president and I both feel pretty good about the prospects for potentially coming to a negotiated settlement”",
-      "date": "Tue, 03 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US, Iran have approached \"edge of abyss\" — expert",
+      "link": "https://tass.com/world/2212785",
+      "description": "According to Executive Vice President at the Quincy Institute for Responsible Statecraft Trita Parsi, a resumption of large-scale fighting could result in oil prices soaring to $200 a barrel and lead to a global economic depression",
+      "date": "Wed, 04 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US has no immediate plans to strike Iran — Trump",
+      "link": "https://tass.com/world/2212773",
+      "description": "The US president added that he is satisfied with the current state of affairs on the Iran issue",
+      "date": "Wed, 04 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
