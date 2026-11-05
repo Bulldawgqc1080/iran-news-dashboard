@@ -1,18 +1,28 @@
 {
-  "updated": "2026-11-05 00:11 UTC",
-  "total": 4,
+  "updated": "2026-11-05 07:30 UTC",
+  "total": 5,
   "events": [
+    {
+      "date": "2026-11-05",
+      "dateDisplay": "Nov 05, 2026",
+      "title": "South Korea to deploy military mission to keep Strait of Hormuz open",
+      "link": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
+      "sources": [
+        "France 24"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-11-04",
       "dateDisplay": "Nov 04, 2026",
-      "title": "\ud83d\udd34 Live: Trump says going to war in Iran was worth it, despite midterm rout",
-      "link": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+      "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
       "sources": [
-        "France 24",
-        "Al Jazeera"
+        "NPR News"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-11-03",
@@ -28,10 +38,10 @@
     {
       "date": "2026-11-02",
       "dateDisplay": "Nov 02, 2026",
-      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-      "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "NPR News"
+        "BBC"
       ],
       "sourceCount": 1,
       "type": "framing"
