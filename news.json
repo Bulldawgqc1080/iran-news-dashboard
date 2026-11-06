@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06 01:53 UTC",
-  "total": 23,
+  "updated": "2026-11-06 08:42 UTC",
+  "total": 20,
   "stories": [
     {
       "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
@@ -11,6 +11,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "description": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+      "date": "Fri, 06 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
@@ -53,6 +63,36 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+      "link": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+      "description": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
+      "date": "Fri, 06 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+      "description": "Call comes as Iraq&#039;s top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+      "date": "Fri, 06 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+      "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+      "description": "Putin meets Iran&#039;s top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+      "date": "Fri, 06 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Turkiye’s parliament ratifies Mecca defence agreement",
       "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
       "description": "Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.",
@@ -63,24 +103,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
-      "description": "Trump says the US may have to &#039;destroy&#039; the rest of Iran, adding that people will &#039;know soon enough&#039;.",
+      "title": "Saudi Arabia 'categorically' denies WSJ report claiming Houthis demanded $51bn to halt hostilities",
+      "link": "https://www.dawn.com/news/2042577/saudi-arabia-categorically-denies-wsj-report-claiming-houthis-demanded-51bn-to-halt-hostilities",
+      "description": "Saudi Arabia has denied a report by the US-based Wall Street Journal (WSJ) that Yemen’s Houthis had demanded $51 billion from kingdom in return for a “negotiated halt” to the ongoing hostilities between the two sides. A report by the Journal claimed on Thursday that the kingdom h...",
       "date": "Fri, 06 Nov 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-      "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
-      "description": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
-      "date": "Thu, 05 Nov 2026",
-      "source": "Al Jazeera",
+      "title": "Muslim Americans make historic gains in midterm elections",
+      "link": "https://www.dawn.com/news/2042444/muslim-americans-make-historic-gains-in-midterm-elections",
+      "description": "WASHINGTON: Muslim Americans made significant gains in Tuesday’s US midterm elections, winning or leading in at least 36 contests for federal, state and local offices, while a nationwide exit survey suggests that the wars in Gaza and Iran, economic pressures and rising Islamophob...",
+      "date": "Fri, 06 Nov 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Melania Trump hosts Russia-Ukraine meeting, calls for ‘enduring’ truce",
+      "link": "https://www.dawn.com/news/2042442/melania-trump-hosts-russia-ukraine-meeting-calls-for-enduring-truce",
+      "description": "WASHINGTON: US First Lady Melania Trump called for a “more enduring” ceasefire in Ukraine as she hosted a rare meeting between officials from the war-torn country and its invader Russia at the White House on Thursday. The unprecedented meeting hoped to build on a localised six-da...",
+      "date": "Fri, 06 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump faces new political reality as Democrats vow investigations",
@@ -113,40 +163,10 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Bank of England lifts rate for first time since 2023 to fight inflation",
-      "link": "https://www.dawn.com/news/2042350/bank-of-england-lifts-rate-for-first-time-since-2023-to-fight-inflation",
-      "description": "The Bank of England (BoE) raised its benchmark interest rate to four per cent on Thursday, the first increase in more than three years, as soaring energy costs push up global inflation. The central bank tightened borrowing costs by a quarter point, catching up with the US Federal...",
-      "date": "Thu, 05 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "New wave of bomb threats hits passenger flights across Europe",
-      "link": "https://www.dawn.com/news/2042341/new-wave-of-bomb-threats-hits-passenger-flights-across-europe",
-      "description": "Airlines across Europe received a series of bomb threats on Thursday morning for the second time this week, forcing many to make unplanned or escorted landings, although none of the threats immediately proved to be genuine. While no country has attributed blame for the threats, t...",
-      "date": "Thu, 05 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says Hegseth doing 'a very good job' as questions swirl about defence secretary's future",
-      "link": "https://www.dawn.com/news/2042299/trump-says-hegseth-doing-a-very-good-job-as-questions-swirl-about-defence-secretarys-future",
-      "description": "US President Donald Trump backed Defence Secretary Pete Hegseth a day after Democrats won control of both chambers of Congress in midterm elections that reflected voter anger over the war on Iran. Asked whether he was considering replacing Hegseth, whom he has described as a cham...",
-      "date": "Thu, 05 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Trump designates Oval Office as national monument",
       "link": "https://www.thehindu.com/news/international/trump-designates-oval-office-as-national-monument/article71671751.ece",
       "description": "Critics accused Donald Trump of ignoring voter concerns over the Iran war and affordability ahead of midterm elections and obsessing instead on multiple construction and renovation projects in the capital",
-      "date": "Thu, 05 Nov 2026",
+      "date": "Fri, 06 Nov 2026",
       "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
@@ -181,56 +201,6 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "Pia Dandiya, a new face in the samosa caucus",
-      "link": "https://www.thehindu.com/news/international/pia-dandiya-a-new-face-in-the-samosa-caucus/article71668534.ece",
-      "description": "The dissatisfaction with the administration over rising living costs and the Iran war was so severe that the Democrats were able to overcome institutional measures to hold ground by the Republicans including gerrymandering",
-      "date": "Thu, 05 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "U.S. VP Vance says Iran war was the reason Republicans lost midterms",
-      "link": "https://www.thehindu.com/news/international/us-vp-vance-says-iran-war-was-the-reason-republicans-lost-midterms/article71667003.ece",
-      "description": "The U.S. vice-president said the conflict doomed Republicans, as he sought to distance himself from the war ahead of a possible 2028 presidential run",
-      "date": "Thu, 05 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Khamenei’s adviser warns Yerevan not to cross Iran's red line on Trump route",
-      "link": "https://tass.com/world/2213547",
-      "description": "Ali Akbar Velayati blasted last week’s move by the Armenian parliament to approve the construction of the corridor",
-      "date": "Thu, 05 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Russia, Iran ink documents on Rasht-Astara railway construction project",
-      "link": "https://tass.com/economy/2213481",
-      "description": "The Rasht-Astara section will connect the railway networks of Russia and Iran into a single system",
-      "date": "Thu, 05 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Kremlin aide, intel official attend Putin’s meeting with Iran’s Security Council secretary",
-      "link": "https://tass.com/politics/2213449",
-      "description": "The meeting took place in the Presidential Executive Office in the Senate Palace",
-      "date": "Thu, 05 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
     }
   ]
 }
