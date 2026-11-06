@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-06 08:42 UTC",
+  "updated": "2026-11-06 16:27 UTC",
   "total": 20,
   "stories": [
-    {
-      "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-      "description": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.",
-      "date": "Wed, 04 Nov 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
     {
       "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
       "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
@@ -63,9 +53,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-      "link": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
-      "description": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
+      "title": "US Defence Secretary Pete Hegseth's future in question after midterms setback",
+      "link": "https://www.france24.com/en/video/20261106-us-defence-secretary-pete-hegseth-s-future-in-question-after-midterms-setback",
+      "description": "US Defence Secretary Pete Hegseth's future is in question after Tuesday's, November 3, midterms setback. On Thursday, November 5, he issued a video message vowing to fight efforts in Congress to impeach him and defending the ‌Iran war as “courageous and historic”. FRANCE 24's Int...",
+      "date": "Fri, 06 Nov 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+      "link": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
+      "description": "Iran launches diplomatic offensive as US mulls resumption of war.",
       "date": "Fri, 06 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -73,9 +73,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
-      "description": "Call comes as Iraq&#039;s top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+      "title": "Born to be torn: A generation raised under Houthi rule in Yemen",
+      "link": "https://www.aljazeera.com/opinions/2026/11/6/born-to-be-torn-a-generation-raised-under-houthi-rule-in-yemen?traffic_source=rss",
+      "description": "As children are recruited to fight, the cost of failing to confront the Houthis is being felt far beyond Yemen.",
       "date": "Fri, 06 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -83,9 +83,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
-      "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
-      "description": "Putin meets Iran&#039;s top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+      "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
+      "link": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
+      "description": "Report of deal comes as top Iranian security official Mohsen Rezaei discusses developing cooperation treaty with Putin.",
       "date": "Fri, 06 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -93,18 +93,18 @@
       "bias": "Medium"
     },
     {
-      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
-      "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
-      "description": "Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.",
+      "title": "Makkah Defence Alliance secretary general to assume duties in Riyadh soon: FO",
+      "link": "https://www.dawn.com/news/2042611/makkah-defence-alliance-secretary-general-to-assume-duties-in-riyadh-soon-fo",
+      "description": "The Foreign Office (FO) on Friday said that the secretary general of the Makkah Defence Alliance, retired Lieutenant General Nauman Mahmood, is expected to assume his responsibilities in Riyadh soon. Mahmood was appointed on Sep 23 as the first secretary general of the alliance b...",
       "date": "Fri, 06 Nov 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Saudi Arabia 'categorically' denies WSJ report claiming Houthis demanded $51bn to halt hostilities",
-      "link": "https://www.dawn.com/news/2042577/saudi-arabia-categorically-denies-wsj-report-claiming-houthis-demanded-51bn-to-halt-hostilities",
+      "title": "Saudi Arabia denies WSJ report claiming Houthis demanded $51bn to halt hostilities",
+      "link": "https://www.dawn.com/news/2042577/saudi-arabia-denies-wsj-report-claiming-houthis-demanded-51bn-to-halt-hostilities",
       "description": "Saudi Arabia has denied a report by the US-based Wall Street Journal (WSJ) that Yemen’s Houthis had demanded $51 billion from kingdom in return for a “negotiated halt” to the ongoing hostilities between the two sides. A report by the Journal claimed on Thursday that the kingdom h...",
       "date": "Fri, 06 Nov 2026",
       "source": "Dawn",
@@ -153,11 +153,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Gadi Eisenkot tipped to seek Israel government with backing of Arab lists",
-      "link": "https://www.dawn.com/news/2042371/gadi-eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists",
-      "description": "Israel’s largest Arab list on Thursday said it would back Gadi Eisenkot to form the next government, bolstering his chances of being picked over Prime Minister Benjamin Netanyahu, who lost the support of an allied religious party. President Isaac Herzog was holding a second day o...",
-      "date": "Thu, 05 Nov 2026",
-      "source": "Dawn",
+      "title": "Airstrikes on market in southwestern Yemen kill at least 20, Houthis say",
+      "link": "https://www.thehindu.com/news/international/airstrikes-on-market-in-southwestern-yemen-kill-at-least-20-houthis-say/article71674991.ece",
+      "description": "A Houthi Health Ministry spokesperson, Anees Alsabahi, told Houthi-run TV Al Masirah that 15 people were also wounded in the airstrikes on the market in al-Waziyah in the province of Taiz",
+      "date": "Fri, 06 Nov 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Saudi-led coalition says it downs Houthi drone over Medina; Houthis deny attack",
+      "link": "https://www.thehindu.com/news/international/saudi-led-coalition-says-it-downs-houthi-drone-over-medina-houthis-deny-attack/article71674467.ece",
+      "description": "The Houthis have ​repeatedly denied targeting Mecca and Medina, Islam's ⁠two holiest cities, rejecting ⁠previous Saudi-led coalition accusations that it ‌had launched drones towards the cities",
+      "date": "Fri, 06 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -186,16 +196,6 @@
       "title": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
       "link": "https://www.thehindu.com/news/international/saudi-arabia-warns-of-potential-danger-in-yanbu-oil-hub-as-houthi-attacks-continue/article71671139.ece",
       "description": "The Saudi-led coalition fighting the Houthis in ‌Yemen said it destroyed a missile launched by the group towards Islam's holy city of ‌Medina",
-      "date": "Thu, 05 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran says five tankers, tugboat caught fire in Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-says-five-tankers-tugboat-caught-fire-in-hormuz/article71671070.ece",
-      "description": "British monitor UKMTO reported a tanker being struck by \"two unidentified projectiles\" around 50 nautical miles (90 kilometres) off the north coast of Qatar, without providing details on any damage or casualties",
       "date": "Thu, 05 Nov 2026",
       "source": "The Hindu",
       "region": "me",
