@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06 21:50 UTC",
-  "total": 19,
+  "updated": "2026-11-07 01:24 UTC",
+  "total": 23,
   "stories": [
     {
       "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
@@ -73,9 +73,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
-      "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
-      "description": "The attack on al-Hadara market in Taiz governorate&#039;s al-Waziiya district killed at least 30 people, Houthi rebels say.",
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "description": "Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.",
+      "date": "Sat, 07 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+      "description": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
       "date": "Fri, 06 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -191,6 +201,36 @@
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
+    },
+    {
+      "title": "UN Maritime Organization says 25 sailors died in Strait of Hormuz since February 28",
+      "link": "https://tass.com/world/2214123",
+      "description": "The number of attacks on commercial vessels in the region stands at 130",
+      "date": "Fri, 06 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran shoots down US drone over Qeshm island — agency",
+      "link": "https://tass.com/world/2214121",
+      "description": "As reported by Tasnim, an MQ-9 drone was destroyed by the air defense system",
+      "date": "Fri, 06 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US continues talks with Iran — Trump",
+      "link": "https://tass.com/world/2214091",
+      "description": "The US president noted that the negotiations went \"very well\"",
+      "date": "Fri, 06 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     }
   ]
 }
