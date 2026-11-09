@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-09 00:14 UTC",
-  "total": 6,
+  "updated": "2026-11-09 07:23 UTC",
+  "total": 7,
   "events": [
     {
       "date": "2026-11-09",
       "dateDisplay": "Nov 09, 2026",
-      "title": "Iran war live: Trump says land blockade in effect; drone cuts power in Iraq",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "title": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
+      "link": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
       "sources": [
-        "Al Jazeera"
+        "France 24"
       ],
       "sourceCount": 1,
       "type": "framing"
@@ -16,8 +16,8 @@
     {
       "date": "2026-11-08",
       "dateDisplay": "Nov 08, 2026",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
@@ -40,6 +40,17 @@
       "dateDisplay": "Nov 06, 2026",
       "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
       "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
+    {
+      "date": "2026-11-04",
+      "dateDisplay": "Nov 04, 2026",
+      "title": "Could Democrats in Congress end the war in Iran?",
+      "link": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
       "sources": [
         "BBC"
       ],
