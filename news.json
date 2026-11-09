@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-08 20:51 UTC",
-  "total": 25,
+  "updated": "2026-11-09 00:14 UTC",
+  "total": 26,
   "stories": [
+    {
+      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+      "description": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+      "date": "Sun, 08 Nov 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Houthis say at least 33 killed in Saudi air strike",
       "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
@@ -63,19 +73,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
-      "link": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
-      "description": "A skyscraper belonging to Saudi oil giant Aramco was hit by a Houthi-claimed attack on Sunday, blowing out windows across several floors but causing no casualties. The Iran-aligned group has repeatedly targeted Aramco facilities and infrastructure.",
-      "date": "Sun, 08 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "title": "Iran war live: Trump says land blockade in effect; drone cuts power in Iraq",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "description": "More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility,",
+      "date": "Mon, 09 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
-      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-      "description": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
+      "title": "Iran waiting to resume talks after US midterms ‘shock’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "description": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
       "date": "Sun, 08 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -83,9 +93,9 @@
       "bias": "Medium"
     },
     {
-      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-      "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-      "description": "As fears of an escalation grow, Washington announces &#039;Task Force Iron Gate&#039;.",
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "description": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
       "date": "Sun, 08 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -153,6 +163,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
+      "link": "https://www.thehindu.com/news/international/saudi-arabia-turns-to-syria-for-help-as-fighting-with-houthis-escalates/article71681228.ece",
+      "description": "A Syrian official said that an initial force of about 600 Syrian special forces fighters is expected to be deployed to Saudi Arabia in the coming week",
+      "date": "Sun, 08 Nov 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Tens of thousands march in Amsterdam, pressing Dutch government on Gaza, Israel",
       "link": "https://www.thehindu.com/news/international/tens-of-thousands-march-in-amsterdam-pressing-dutch-government-on-gaza-israel/article71681124.ece",
       "description": "Organisers of the “Red Line” demonstration called for stricter trade sanctions, a halt to arms sales, and an official declaration that Israel’s actions in Gaza amount to genocide",
@@ -203,14 +223,14 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Explosions heard in areas in southern Iran, Iranian media report",
-      "link": "https://www.thehindu.com/news/international/explosions-heard-in-areas-in-southern-iran-iranian-media-report/article71679592.ece",
-      "description": "State TV said Iranian ‌officials have not confirmed any missile strikes on the areas, while the semi-official Tasnim news agency cited ‌a source as saying that the explosions heard ‌on ⁠Qeshm Island were not related to missile strikes",
+      "title": "US, Iran not close to any breakthrough, Rubio says",
+      "link": "https://tass.com/world/2214551",
+      "description": "Meanwhile, Marco Rubio stressed that US President Donald Trump and his administration prefer to solve any conflicts, including with Iran, diplomatically",
       "date": "Sun, 08 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Iran’s oil storage facilities 80% restored — NIOEC CEO",
@@ -236,16 +256,6 @@
       "title": "Iraqi delegation hands over message from US to Iranian leadership — TV",
       "link": "https://tass.com/world/2214529",
       "description": "According to the sources, the delegation met with Iranian officials in Tehran",
-      "date": "Sun, 08 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran preserves 10% of missile, 15% of drone production facilities — Trump",
-      "link": "https://tass.com/world/2214525",
-      "description": "US President repeated that \"most likely it will not be necessary\" to resume military action against Iran",
       "date": "Sun, 08 Nov 2026",
       "source": "TASS",
       "region": "ru",
