@@ -1,16 +1,27 @@
 {
-  "updated": "2026-11-10 00:59 UTC",
-  "total": 7,
+  "updated": "2026-11-10 08:01 UTC",
+  "total": 8,
   "events": [
+    {
+      "date": "2026-11-10",
+      "dateDisplay": "Nov 10, 2026",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        "BBC"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-11-09",
       "dateDisplay": "Nov 09, 2026",
       "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
       "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
       "sources": [
+        "France 24",
         "NPR News",
-        "BBC",
-        "France 24"
+        "BBC"
       ],
       "sourceCount": 3,
       "type": "fact"
