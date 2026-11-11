@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11 02:20 UTC",
-  "total": 38,
+  "updated": "2026-11-11 09:58 UTC",
+  "total": 33,
   "stories": [
     {
       "title": "Iran denies it was behind cyber fridge attacks targeting France",
@@ -11,6 +11,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "date": "Wed, 11 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Trump says more US attacks on Iran 'highly unlikely'",
@@ -103,7 +113,7 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
+      "title": "US charges three 'Iranian operatives' over terror plot at UK Fairford airbase",
       "link": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
       "description": "The US Justice Department on Tuesday charged three men it described as Iranian operatives over an alleged September terrorist plot at Britain's RAF Fairford airbase in England. Prosecutors said one suspect directed individuals to drive vans, some carrying fuel barrels, to the bas...",
       "date": "Tue, 10 Nov 2026",
@@ -115,7 +125,7 @@
     {
       "title": "What the hack? Europeans face growing psyops and cyberattacks",
       "link": "https://www.france24.com/en/tv-shows/the-debate/20261110-what-the-hack-europeans-face-growing-psyops-and-cyberattacks",
-      "description": "So this time, it's Iran, not Russia? France - reportedly acting on US intelligence - summoning Tehran’s ambassador over last month’s hacking of hundreds of supermarket refrigerators that overheated, 15 of which even caught fire. Why now at a time when Iran’s trying to break its i...",
+      "description": "So this time, it's Iran, not Russia? France – reportedly acting on US intelligence – is summoning Tehran's ambassador over last month's hacking of hundreds of supermarket refrigerators that overheated, 15 of which even caught fire. Why now, at a time when Iran is trying to break ...",
       "date": "Tue, 10 Nov 2026",
       "source": "France 24",
       "region": "eu",
@@ -123,39 +133,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US Pentagon chief Pete Hegseth calls impeachment moves 'a farce'",
-      "link": "https://www.france24.com/en/video/20261110-us-pentagon-chief-pete-hegseth-calls-impeachment-moves-a-farce",
-      "description": "US Defence Secretary Pete Hegseth on Tuesday, November 10, called an effort to impeach him over ​abuse of power in the Iran war a farce and sabotage that plays into the hands of adversaries. FRANCE 24's International Affairs Commentator Douglas Herbert has more.",
-      "date": "Tue, 10 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Who exactly is Pete Hegseth, the Pentagon chief facing an impeachment bid?",
-      "link": "https://www.france24.com/en/video/20261110-who-exactly-is-pete-hegseth-the-pentagon-chief-facing-an-impeachment-bid",
-      "description": "US Defence Secretary Pete Hegseth on Tuesday dismissed the impeachment effort against him as \"a political spectacle\". He made the comments a day after Republican Thomas Massie launched a bid to impeach him over his handling of the unpopular war in Iran and other actions. But who ...",
-      "date": "Tue, 10 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "REPLAY: US Secretary of State Rubio holds press conference after G7 meeting",
-      "link": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting",
-      "description": "US Secretary of State Marco Rubio talked to the press Tuesday as the G7 meets in Paris. He said he saw no need to resume major combat operations against Iran because economic restrictions were working so effectively. He also hailed US-mediated talks between Russia and Ukraine in ...",
-      "date": "Tue, 10 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
-      "description": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
+      "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
+      "link": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss",
+      "description": "US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz.",
       "date": "Wed, 11 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -163,121 +143,131 @@
       "bias": "Medium"
     },
     {
-      "title": "Fire contained on platform in Iran’s South Pars gas field",
-      "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
-      "description": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
-      "date": "Tue, 10 Nov 2026",
+      "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+      "link": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
+      "description": "Mohsen Rezaei&#039;s comments come as the IRGC said at least three ships had hit mines and caught fire in the Hormuz strait.",
+      "date": "Wed, 11 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "US House Republicans block Pete Hegseth impeachment effort",
-      "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-      "description": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
-      "date": "Tue, 10 Nov 2026",
+      "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+      "link": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+      "description": "Yemen&#039;s government says 190 rebel fighters killed and wounded, as Houthis also claim dealing heavy blows.",
+      "date": "Wed, 11 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "UNIFIL patrol comes under fire in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
-      "description": "UNIFIL said on Tuesday that &#039;about a dozen rounds&#039; were fired at one of its patrols, without identifying the assailants.",
-      "date": "Tue, 10 Nov 2026",
+      "title": "Iran opens training camp for women in readiness for war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
+      "description": "Iran has opened its first all-women military training camp amid fears of renewed US attacks.",
+      "date": "Wed, 11 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
-      "description": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
-      "date": "Tue, 10 Nov 2026",
-      "source": "Al Jazeera",
+      "title": "Iran says oil tanker hit mine and caught fire in Strait of Hormuz",
+      "link": "https://www.arabnews.com/middle-east/iran-says-oil-tanker-hit-mine-and-caught-fire-in-strait-of-hormuz-3011095",
+      "description": "UKMTO reported an incident involving a tanker in the Strait of Hormuz. Details about the crew, damage, and environmental impact remain unknown.",
+      "date": "Wed, 11 Nov 2026",
+      "source": "Arab News",
       "region": "me",
       "color": "#ffbe0b",
-      "bias": "Medium"
+      "bias": "High"
     },
     {
-      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-      "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-      "description": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
-      "date": "Tue, 10 Nov 2026",
-      "source": "Al Jazeera",
+      "title": "US Senator-elect El-Sayed urges Hegseth to resign",
+      "link": "https://www.arabnews.com/world/us-senator-elect-el-sayed-urges-hegseth-to-resign-3011130",
+      "description": "DUBAI: US Senator-elect Abdul El-Sayed called on Defense Secretary Pete Hegseth on Tuesday to resign after the House of Representatives voted to send a resolution to impeach him to committee. In an interview with CNN, El-Sayed said Hegseth had mishandled the war with Iran and had...",
+      "date": "Wed, 11 Nov 2026",
+      "source": "Arab News",
       "region": "me",
       "color": "#ffbe0b",
-      "bias": "Medium"
+      "bias": "High"
     },
     {
-      "title": "Rubio says no need for major combat operations against Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-      "description": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-      "date": "Tue, 10 Nov 2026",
-      "source": "Al Jazeera",
+      "title": "Iran president in Turkiye to attend UN climate summit",
+      "link": "https://www.arabnews.com/middle-east/iran-president-in-turkiye-to-attend-un-climate-summit-3011135",
+      "description": "Iranian President Masoud Pezeshkian is in Antalya, Turkiye, to participate in the 31st UN Climate Change Conference (COP31). He will also engage in discussions with other country leaders and officials.",
+      "date": "Wed, 11 Nov 2026",
+      "source": "Arab News",
       "region": "me",
       "color": "#ffbe0b",
-      "bias": "Medium"
+      "bias": "High"
     },
     {
-      "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-      "link": "https://www.dawn.com/news/2043517/israels-parliament-sworn-in-as-eisenkot-tries-to-forge-a-government",
-      "description": "Israel’s parliament was sworn in on Tuesday without a new government, after a deadlocked general election stripped Prime Minister Benjamin Netanyahu of his parliamentary majority but left his main rivals with no clear path to power. Lawmakers elected in the Oct 27 vote took their...",
-      "date": "Tue, 10 Nov 2026",
-      "source": "Dawn",
+      "title": "Houthis target Sanaa bakeries to fund war effort",
+      "link": "https://www.arabnews.com/middle-east/houthis-target-sanaa-bakeries-to-fund-war-effort-3011126",
+      "description": "Yemen's capital Sanaa is facing a looming bread shortage after the terrorist Houthi militia shut dozens of bakeries in a campaign to extract illegal payments from owners, targeting even charitable bakeries that feed poor families while forcing others to use low-quality flour. Loc...",
+      "date": "Wed, 11 Nov 2026",
+      "source": "Arab News",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "High"
+    },
+    {
+      "title": "US says Houthis use blockade claims to justify attacks on Yemen govt, Saudi Arabia",
+      "link": "https://www.arabnews.com/middle-east/us-says-houthis-use-blockade-claims-to-justify-attacks-on-yemen-govt-saudi-arabia-3011099",
+      "description": "DUBAI: The US Embassy in Yemen said repeated Houthi claims that Yemen is under a blockade were “just slogans” used to justify attacks against the internationally recognized government and Saudi Arabia on Iran’s orders. Embassy spokesman Khaled Wolfsberg said the only blockade was...",
+      "date": "Wed, 11 Nov 2026",
+      "source": "Arab News",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "High"
+    },
+    {
+      "title": "Iran classifies Argentine air and naval forces as “terrorist organizations”",
+      "link": "https://www.arabnews.com/middle-east/iran-classifies-argentine-air-and-naval-forces-as-terrorist-organizations-3011114",
+      "description": "Iran has labeled the Argentine air and naval forces as terrorist organizations in response to Argentina naming the Islamic Revolutionary Guard Corps as a terrorist entity. This comes after US pressure on Argentina to take such measures.",
+      "date": "Wed, 11 Nov 2026",
+      "source": "Arab News",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "High"
+    },
+    {
+      "title": "Iran says tanker struck mine, caught fire in Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece",
+      "description": "The American military recently claimed all mines had been cleared from the strait",
+      "date": "Wed, 11 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Britain says its bases are safe after US refuelling planes evacuated",
-      "link": "https://www.dawn.com/news/2043541/britain-says-its-bases-are-safe-after-us-refuelling-planes-evacuated",
-      "description": "Britain said on Tuesday that its military bases were safe, after the US removed huge refuelling aircraft from a British airbase following what the Wall Street Journal said was a threat from Iran, the second such apparent evacuation in three months. Commercially available flight t...",
-      "date": "Tue, 10 Nov 2026",
-      "source": "Dawn",
+      "title": "No talks underway with U.S., says Iran top security official",
+      "link": "https://www.thehindu.com/news/international/no-talks-underway-with-us-says-iran-top-security-official/article71688184.ece",
+      "description": "Iran ‌has insisted ‌the ⁠U.S. must meet ⁠seven conditions set out in a June interim agreement ​before the ‌Strait of Hormuz can reopen and negotiations resume",
+      "date": "Wed, 11 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "PM Shehbaz arrives in Turkiye to address COP31 summit",
-      "link": "https://www.dawn.com/news/2043486/pm-shehbaz-arrives-in-turkiye-to-address-cop31-summit",
-      "description": "Prime Minister Shehbaz Sharif arrived in Antalya, Turkiye, on Tuesday for a three-day visit to attend the Leaders’ Summit of the 31st Conference of the Parties (COP 31) to the United Nations Framework Convention on Climate Change (UNFCCC). Upon arrival, the prime minister was rec...",
-      "date": "Tue, 10 Nov 2026",
-      "source": "Dawn",
+      "title": "Rubio says 'no need' to attack Iran as diplomacy gathers pace",
+      "link": "https://www.thehindu.com/news/international/rubio-says-no-need-to-attack-iran-as-diplomacy-gathers-pace/article71688168.ece",
+      "description": "Tehran said its offer to reopen Hormuz within two days — if Washington agreed to a raft of conditions — remained on the table",
+      "date": "Wed, 11 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Trump nominates Natalie Baker for US ambassador to Pakistan",
-      "link": "https://www.dawn.com/news/2043495/trump-nominates-natalie-baker-for-us-ambassador-to-pakistan",
-      "description": "US President Donald Trump has nominated Natalie Baker, the current charge d’affaires at the US embassy in Islamabad, to be the ambassador to Pakistan, according to a statement by the White House. The nomination has been submitted to the US Senate, whose foreign relations committe...",
-      "date": "Tue, 10 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump sets off bedlam in White House briefing room with UFC chief's appearance",
-      "link": "https://www.dawn.com/news/2043493/trump-sets-off-bedlam-in-white-house-briefing-room-with-ufc-chiefs-appearance",
-      "description": "President Donald Trump set off a scramble in the White House press briefing room on Monday with an appearance so sudden that aides had no time to place the presidential seal on the podium. The cause of the sudden bedlam? Trump was eager to show off UFC CEO Dana White, a close fri...",
-      "date": "Tue, 10 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump sees 'positive momentum' on Iran after Qatar PM talks",
-      "link": "https://www.dawn.com/news/2043491/trump-sees-positive-momentum-on-iran-after-qatar-pm-talks",
-      "description": "US President Donald Trump said on Monday there was momentum toward ending the war with Iran, as he declared that the country “militarily, is effectively over,” but kept open the possibility of new strikes. Trump met at the White House with Qatar Prime Minister Sheikh Mohammed bin...",
-      "date": "Tue, 10 Nov 2026",
-      "source": "Dawn",
+      "title": "Liberia-flagged VLCC hit in Persian Gulf, six Indian seafarers aboard: Sarbananda Sonowal",
+      "link": "https://www.thehindu.com/news/national/liberia-flagged-vlcc-hit-in-persian-gulf-six-indian-seafarers-aboard-sarbananda-sonowal/article71688307.ece",
+      "description": "Mr. Sonowal said four crew members sustained injuries in the attack, including one Indian national, who suffered minor injuries and has been safely taken ashore",
+      "date": "Wed, 11 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -303,79 +293,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. charges three ‘Iranian operatives’ over U.K. airbase plot",
-      "link": "https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece",
-      "description": "Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani allegedly helped plan and direct the September incident at Britain’s RAF Fairford airbase",
-      "date": "Tue, 10 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Iran lists Argentine Navy, Air Force as terrorist organizations",
+      "link": "https://tass.com/world/2215985",
+      "description": "Buenos Aires added the Islamic Revolutionary Guard Corps to its list of terrorist organizations in March",
+      "date": "Wed, 11 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iran rejects France’s ‘baseless accusations’ on cyberattack",
-      "link": "https://www.thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece",
-      "description": "Hundreds of French supermarkets were hit in the October 11 and 12 cyberattacks, which raised the temperatures in their refrigerators and freezers, forcing many to throw away entire inventories of perishable food",
-      "date": "Tue, 10 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US attempt to force Iran into peace through pressure difficult to achieve — Russian MFA",
+      "link": "https://tass.com/politics/2215925",
+      "description": "The decision to step up pressure is misguided and counterproductive, Maxim Maksimov said",
+      "date": "Wed, 11 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Iraq reopens border crossing with Iran",
-      "link": "https://www.thehindu.com/news/international/iraq-reopens-border-crossing-with-iran/article71685697.ece",
-      "description": "The Iraqi government closed the Al-Sheeb crossing in Missan province in October",
-      "date": "Tue, 10 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "France blames Iran for cyberattack on supermarket fridges",
-      "link": "https://www.thehindu.com/news/international/france-blames-iran-for-cyberattack-on-supermarket-fridges/article71684836.ece",
-      "description": "The October 12 attack sent refrigerator temperatures soaring, affecting about 700 of France’s supermarkets",
-      "date": "Tue, 10 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Russia notes preconditions for resumed hostilities around Iran — senior diplomat",
+      "link": "https://tass.com/politics/2215923",
+      "description": "Maxim Maksimov said that three carrier groups and two Marine Expeditionary groups have been pulled to the region",
+      "date": "Wed, 11 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "UN peacekeeping patrol comes under fire on Lebanese-Israeli border",
       "link": "https://tass.com/emergencies/2215795",
       "description": "No peacekeepers were injured, the UN Interim Force in Lebanon reported",
-      "date": "Tue, 10 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Netanyahu had difficult conversation with Trump over Iran — portal",
-      "link": "https://tass.com/world/2215791",
-      "description": "According to a source cited by Ynet, the discussion focused on the resumption of a military operation",
-      "date": "Tue, 10 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iraqi Sunni politician Ahmed al-Alwani killed in Beirut — TV",
-      "link": "https://tass.com/emergencies/2215789",
-      "description": "Lebanese security services are tracking down the perpetrators and have already detained one suspect",
-      "date": "Tue, 10 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iranian military reports third tanker hit by mine in Strait of Hormuz on Tuesday",
-      "link": "https://tass.com/world/2215747",
-      "description": "The tanker is on fire in the eastern part of the strait, with smoke billowing over the waterway, according to the IRGC",
       "date": "Tue, 10 Nov 2026",
       "source": "TASS",
       "region": "ru",
