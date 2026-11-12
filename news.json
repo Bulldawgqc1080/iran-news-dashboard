@@ -1,16 +1,26 @@
 {
-  "updated": "2026-11-12 13:25 UTC",
-  "total": 27,
+  "updated": "2026-11-12 21:13 UTC",
+  "total": 28,
   "stories": [
     {
-      "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-      "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-      "description": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
+      "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+      "description": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
+      "date": "Thu, 12 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
       "date": "Wed, 11 Nov 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
@@ -63,16 +73,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "date": "Sun, 08 Nov 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Could Democrats in Congress end the war in Iran?",
       "link": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Asma Khalid looks at how the two chambers of the US Congress could put an end to the months-long conflict, which began in February.",
@@ -93,9 +93,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Israeli occupation in southern Lebanon: Displaced families struggle to cope",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261112-israeli-occupation-in-southern-lebanon-displaced-families-struggle-to-cope",
-      "description": "In Lebanon, more than 360,000 people are still displaced after months of war between Israel and Hezbollah, according to the UN. Along the border, the Israeli army claims to be fighting the Iran-backed militant group but now occupies 6 percent of Lebanese territory and is wiping e...",
+      "title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
+      "link": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
+      "description": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used \"martyrdom” announcements and the geolocation ...",
       "date": "Thu, 12 Nov 2026",
       "source": "France 24",
       "region": "eu",
@@ -103,9 +103,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
-      "description": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
+      "title": "Iranian men guilty of spying on British journalists",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
+      "description": "Two Iranian men were convicted under Britain&#039;s National Security Act for spying on dissident journalists.",
       "date": "Thu, 12 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -113,14 +113,24 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
-      "description": "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
+      "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+      "description": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
       "date": "Thu, 12 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "8 dead, 19 injured in New York building collapse",
+      "link": "https://www.dawn.com/news/2044065/8-dead-19-injured-in-new-york-building-collapse",
+      "description": "New York City’s fire department reported on Thursday that more victims had been found after a three-story residential building collapsed, raising the death toll to at least eight, with 19 injured. The building collapse on Wednesday in the Flatbush neighborhood of Brooklyn prompte...",
+      "date": "Thu, 12 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "At COP31, PM Shehbaz calls for grant-based finance, resilience funding for climate-vulnerable countries",
@@ -173,11 +183,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Leaders try out new sales pitch for climate action at COP31",
-      "link": "https://www.dawn.com/news/2043971/leaders-try-out-new-sales-pitch-for-climate-action-at-cop31",
-      "description": "ANTALYA: Leaders at the COP31 summit in Turkiye are trying out a new sales pitch for climate action that is tailored to the times: do it to bolster the economy and bring down the cost of living. The message, being repeated in the hallways and on the plenary stage of the annual UN...",
+      "title": "Trump says U.S. does not ‘need a deal with Iran’",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-does-not-need-a-deal-with-iran/article71695103.ece",
+      "description": "His comments came shortly after the Wall Street Journal reported that Vice-President J.D. Vance was mulling face-to-face talks with a top Iranian security official",
       "date": "Thu, 12 Nov 2026",
-      "source": "Dawn",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Centre sanctions new roads, infrastructure along China’s border",
+      "link": "https://www.thehindu.com/news/national/centre-sanctions-new-roads-infrastructure-along-chinas-border/article71694100.ece",
+      "description": "The Indo-Tibetan Border Police sanctions the construction of 15 pedestrian suspension bridges and 18 log bridges in Arunachal Pradesh; CCS clears 26 new roads as part of ICBR-III",
+      "date": "Thu, 12 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -223,29 +243,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iran says tanker struck mine, caught fire in Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece",
-      "description": "The American military recently claimed all mines had been cleared from the strait",
-      "date": "Wed, 11 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "No talks underway with U.S., says Iran top security official",
-      "link": "https://www.thehindu.com/news/international/no-talks-underway-with-us-says-iran-top-security-official/article71688184.ece",
-      "description": "Iran ‌has insisted ‌the ⁠U.S. must meet ⁠seven conditions set out in a June interim agreement ​before the ‌Strait of Hormuz can reopen and negotiations resume",
-      "date": "Wed, 11 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "EU to impose new sanctions against Russia on November 16 — French minister",
-      "link": "https://tass.com/world/2217089",
-      "description": "Benjamin Haddad said that 150 individuals and 50 banks could be added to the sanctions lists",
+      "title": "Sanctions against Russia indicate London’s desire to prolong conflict in Ukraine — embassy",
+      "link": "https://tass.com/politics/2217467",
+      "description": "The new sanctions come amid negotiations on a settlement in Ukraine and discussions on the shape of Europe’s future security architecture, the Russian embassy in London said",
       "date": "Thu, 12 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -253,9 +253,9 @@
       "bias": "Very High"
     },
     {
-      "title": "EU welcomes Abu Dhabi talks while preparing 22nd package of sanctions against Russia — EC",
-      "link": "https://tass.com/world/2217067",
-      "description": "According to EC President Ursula von der Leyen, the EU would support Ukraine \"be it in wartime or be it in peacetime\"",
+      "title": "Houthis claim responsibility for strikes on Saudi Aramco, airbase in Saudi Arabia",
+      "link": "https://tass.com/world/2217431",
+      "description": "The Houthis also struck \"a military transport aircraft at Sharurah Airport with a drone\"",
       "date": "Thu, 12 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -263,9 +263,19 @@
       "bias": "Very High"
     },
     {
-      "title": "Two supertankers with oil exploded in Hormuz — IRGC Navy",
-      "link": "https://tass.com/world/2216937",
-      "description": "Both ships are on fire now, the IRGC Navy said",
+      "title": "Iran should consider withdrawing from NPT, revising its doctrine — Assembly of Experts",
+      "link": "https://tass.com/world/2217265",
+      "description": "The Assembly called on officials not to back down even one inch from the demands and rights of the Iranian people",
+      "date": "Thu, 12 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Brazil intends to increase supplies of fertilizers from Iran — Lula da Silva",
+      "link": "https://tass.com/world/2217245",
+      "description": "The Brazilian president also expressed hope for a resolution to the conflict between the US and Iran",
       "date": "Thu, 12 Nov 2026",
       "source": "TASS",
       "region": "ru",
