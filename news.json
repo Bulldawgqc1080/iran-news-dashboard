@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-13 10:15 UTC",
-  "total": 28,
+  "updated": "2026-11-13 18:15 UTC",
+  "total": 27,
   "stories": [
+    {
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "description": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "date": "Fri, 13 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
     {
       "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
       "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
@@ -53,26 +63,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "description": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "date": "Sun, 08 Nov 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "date": "Sun, 08 Nov 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Could Democrats in Congress end the war in Iran?",
       "link": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Asma Khalid looks at how the two chambers of the US Congress could put an end to the months-long conflict, which began in February.",
@@ -93,9 +83,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
-      "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
-      "description": "Funding cuts and Israel&#039;s war have left Palestinians in Lebanon in increasingly dire circumstances.",
+      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+      "description": "Despite Treasury&#039;s Scott Bessent&#039;s remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
       "date": "Fri, 13 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -103,9 +93,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-      "link": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
-      "description": "Despite knowing a war with Iran would be manufactured for Netanyahu&#039;s survival, many would still rally behind it.",
+      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+      "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+      "description": "PM&#039;s caretaker government can legally go to war, though it would likely inflame domestic divisions.",
       "date": "Fri, 13 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -113,14 +103,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran says it targeted US radar site in Bahrain",
-      "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
-      "description": "IRGC says it hit radar in retaliation for an &#039;enemy&#039; air attack on a telecom tower in Iran&#039;s Hormozgan province.",
+      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+      "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+      "description": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
       "date": "Fri, 13 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Turkiye, Qatar sign defence agreement: Turkish presidency",
+      "link": "https://www.dawn.com/news/2044322/turkiye-qatar-sign-defence-agreement-turkish-presidency",
+      "description": "Turkiye and Qatar signed a defence agreement on Friday that President Recep Tayyip Erdogan said would further strengthen ties between the regional allies, his office said. The announcement came after Erdogan met Qatari Emir Sheikh Tamim bin Hamad Al Thani in Istanbul. Qatar’s rul...",
+      "date": "Fri, 13 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
+      "link": "https://www.dawn.com/news/2044324/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops",
+      "description": "Judges at the International Criminal Court have issued a decision to formally close part of the prosecutor’s investigations into Afghanistan that previously looked at alleged crimes by United States troops and to focus only on actions of the Taliban since 2021, court documents sh...",
+      "date": "Fri, 13 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Pakistan calls for ‘immediate’ end to Houthi attacks on Saudi Arabia as UNSC renews Yemen sanctions",
@@ -163,21 +173,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "At COP31, PM Shehbaz calls for grant-based finance, resilience funding for climate-vulnerable countries",
-      "link": "https://www.dawn.com/news/2044031/at-cop31-pm-shehbaz-calls-for-grant-based-finance-resilience-funding-for-climate-vulnerable-countries",
-      "description": "Prime Minister Shehbaz Sharif on Thursday called for grant-based finance and improved resilience and adaptation funds for climate-vulnerable countries at COP31, being held in Turkiye’s Antalya. This year’s summit focuses on transitioning toward a low-carbon future. Delegates from...",
-      "date": "Thu, 12 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Mississippi Democrat flips US Senate seat in stunning upset after 140 years",
-      "link": "https://www.dawn.com/news/2044006/mississippi-democrat-flips-us-senate-seat-in-stunning-upset-after-140-years",
-      "description": "In a historic upset, Democrat Scott Colom has won his US Senate race in traditionally conservative Mississippi, networks projected Wednesday, making him the first African American elected to the chamber from the southern state in more than 140 years. Colom, a 43-year-old district...",
-      "date": "Thu, 12 Nov 2026",
-      "source": "Dawn",
+      "title": "Pakistan calls for 'immediate' end to Houthi attacks on Saudi Arabia at UN",
+      "link": "https://www.thehindu.com/news/international/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-at-un/article71699212.ece",
+      "description": "UN Security Council renewed targeted sanctions under its Yemen sanctions regime for another year",
+      "date": "Fri, 13 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -186,6 +186,16 @@
       "title": "Iran says it struck U.S. military radar in Bahrain",
       "link": "https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece",
       "description": "The IRGC says the strait is closed, while the U.S. Navy claims that it has opened a southern route for commercial vessels to exit and enter the critical waterway, while maintaining its “ironclad blockade” of Iranian ports",
+      "date": "Fri, 13 Nov 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "UN nuclear watchdog urges Iran to take 'steps' towards inspections",
+      "link": "https://www.thehindu.com/news/international/un-nuclear-watchdog-urges-iran-to-take-steps-towards-inspections/article71697585.ece",
+      "description": "The International Atomic Energy Agency has not had access to key nuclear facilities in Iran since Israel and the U.S. launched a 12-day conflict in June 2025 that included strikes on nuclear sites",
       "date": "Fri, 13 Nov 2026",
       "source": "The Hindu",
       "region": "me",
@@ -223,29 +233,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Centre sanctions new roads, infrastructure along China’s border",
-      "link": "https://www.thehindu.com/news/national/centre-sanctions-new-roads-infrastructure-along-chinas-border/article71694100.ece",
-      "description": "The Indo-Tibetan Border Police sanctions the construction of 15 pedestrian suspension bridges and 18 log bridges in Arunachal Pradesh; CCS clears 26 new roads as part of ICBR-III",
-      "date": "Fri, 13 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump says U.S. does not ‘need a deal with Iran’",
-      "link": "https://www.thehindu.com/news/international/trump-says-us-does-not-need-a-deal-with-iran/article71695103.ece",
-      "description": "His comments came shortly after the Wall Street Journal reported that Vice-President J.D. Vance was mulling face-to-face talks with a top Iranian security official",
-      "date": "Thu, 12 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Russia does not expect lifting of sanctions against it in medium term — MFA",
-      "link": "https://tass.com/politics/2217645",
-      "description": "Western countries have recently begun to employ a sanctions policy with increasing frequency as they are losing their advantages, their \"undisputed leadership,\" Alexander Trofimov said",
+      "title": "Lebanese military discovers weapons depot in southern Beirut",
+      "link": "https://tass.com/world/2217999",
+      "description": "One person was detained, the Lebanese army reported",
       "date": "Fri, 13 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -253,9 +243,9 @@
       "bias": "Very High"
     },
     {
-      "title": "LNG carrier hits mine in Strait of Hormuz on Friday — IRGC Navy",
-      "link": "https://tass.com/world/2217633",
-      "description": "The vessel attempted to transit under the cover of US fighter jets",
+      "title": "Rosatom to increase personnel at Bushehr nuclear plant",
+      "link": "https://tass.com/economy/2217993",
+      "description": "CEO Alexey Likhachev said that 180 people are already on the site",
       "date": "Fri, 13 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -263,9 +253,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US refrains from tougher measures against Iran on request from regional countries — Trump",
-      "link": "https://tass.com/world/2217537",
-      "description": "US President Donald Trump stressed that if not for that request, he could go further",
+      "title": "Mossad chief arrives in Washington for consultations on Iran — media",
+      "link": "https://tass.com/world/2217953",
+      "description": "According to the report, Gofman will meet with CIA Director John Ratcliffe",
       "date": "Fri, 13 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -273,9 +263,9 @@
       "bias": "Very High"
     },
     {
-      "title": "CENTCOM denies reports of instructions to Israel to prepare for war with Iran — TV",
-      "link": "https://tass.com/world/2217533",
-      "description": "The CENTCOM spokesperson in the Persian Gulf zone said the reports were \"mere speculation\"",
+      "title": "Vance may put his presidential ambitions on hold — CNN",
+      "link": "https://tass.com/world/2217931",
+      "description": "According to the TV channel, the ongoing war with Iran remains a major obstacle to Vance’s presidential ambitions",
       "date": "Fri, 13 Nov 2026",
       "source": "TASS",
       "region": "ru",
