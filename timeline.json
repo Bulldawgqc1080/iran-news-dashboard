@@ -1,15 +1,26 @@
 {
-  "updated": "2026-11-12 21:13 UTC",
-  "total": 7,
+  "updated": "2026-11-13 02:14 UTC",
+  "total": 8,
   "events": [
+    {
+      "date": "2026-11-13",
+      "dateDisplay": "Nov 13, 2026",
+      "title": "After Iraq ex-MP\u2019s killing, Lebanon asks Syria to extradite suspects",
+      "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-11-12",
       "dateDisplay": "Nov 12, 2026",
       "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
       "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
-        "BBC"
+        "BBC",
+        "Al Jazeera"
       ],
       "sourceCount": 2,
       "type": "govt"
