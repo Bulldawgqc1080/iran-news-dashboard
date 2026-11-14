@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-13 18:15 UTC",
-  "total": 27,
+  "updated": "2026-11-14 00:00 UTC",
+  "total": 28,
   "stories": [
+    {
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "description": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
+      "date": "Fri, 13 Nov 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
       "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
@@ -83,29 +93,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "description": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
+      "date": "Fri, 13 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+      "description": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+      "date": "Fri, 13 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
       "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
       "description": "Despite Treasury&#039;s Scott Bessent&#039;s remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
-      "date": "Fri, 13 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
-      "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
-      "description": "PM&#039;s caretaker government can legally go to war, though it would likely inflame domestic divisions.",
-      "date": "Fri, 13 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
-      "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
-      "description": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
       "date": "Fri, 13 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -233,6 +243,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Ceasefire to be EU’s priority at Ukraine talks — von der Leyen",
+      "link": "https://tass.com/world/2218045",
+      "description": "European Commission President also pledged to present a 22nd package of sanctions on Russia as soon as possible and put forward proposals toward military funding for Ukraine before the end of the year",
+      "date": "Fri, 13 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iraq resumes oil exports through Strait of Hormuz under US’ protection — top diplomat",
+      "link": "https://tass.com/world/2218043",
+      "description": "Baghdad’s diplomatic efforts are geared primarily toward \"containing crises and protecting Iraq from the consequences of regional conflicts,\" Iraqi Foreign Minister Fuad Hussein said",
+      "date": "Fri, 13 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Lebanese military discovers weapons depot in southern Beirut",
       "link": "https://tass.com/world/2217999",
       "description": "One person was detained, the Lebanese army reported",
@@ -246,26 +276,6 @@
       "title": "Rosatom to increase personnel at Bushehr nuclear plant",
       "link": "https://tass.com/economy/2217993",
       "description": "CEO Alexey Likhachev said that 180 people are already on the site",
-      "date": "Fri, 13 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Mossad chief arrives in Washington for consultations on Iran — media",
-      "link": "https://tass.com/world/2217953",
-      "description": "According to the report, Gofman will meet with CIA Director John Ratcliffe",
-      "date": "Fri, 13 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Vance may put his presidential ambitions on hold — CNN",
-      "link": "https://tass.com/world/2217931",
-      "description": "According to the TV channel, the ongoing war with Iran remains a major obstacle to Vance’s presidential ambitions",
       "date": "Fri, 13 Nov 2026",
       "source": "TASS",
       "region": "ru",
