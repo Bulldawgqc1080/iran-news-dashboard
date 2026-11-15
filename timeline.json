@@ -1,17 +1,18 @@
 {
-  "updated": "2026-11-15 10:05 UTC",
+  "updated": "2026-11-15 17:29 UTC",
   "total": 8,
   "events": [
     {
       "date": "2026-11-15",
       "dateDisplay": "Nov 15, 2026",
-      "title": "Iran claims attack on US military airbase in Bahrain",
-      "link": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
+      "title": "Iran claims drone attack on US military base in Bahrain",
+      "link": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
       "sources": [
-        "France 24"
+        "France 24",
+        "Al Jazeera"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-11-13",
