@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 02:28 UTC",
-  "total": 31,
+  "updated": "2026-11-16 10:19 UTC",
+  "total": 26,
   "stories": [
     {
       "title": "What's Trump's strategy now with Iran? To keep things as they are",
@@ -11,6 +11,26 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "description": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "date": "Mon, 16 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "date": "Sun, 15 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
@@ -53,26 +73,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "description": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "date": "Tue, 10 Nov 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "date": "Tue, 10 Nov 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
       "link": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
       "description": "Houthi forces in Yemen have advanced to within 60 kilometres of Aden, the seat of the country's internationally recognised government, military and government sources said Sunday. The embattled government earlier announced it was pulling back its last forces from the Bab el-Mande...",
@@ -93,134 +93,94 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Bahrain says air defences destroyed several Iranian drones attacking US base",
-      "link": "https://www.france24.com/en/bahrain-says-air-defences-destroyed-several-iranian-drones-attacking-us-base",
-      "description": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September. The second Iranian drone attack in three days, ending a long lull in strikes during the Middle East war. Diplomatic efforts to end the almost nine-month conflict have yet to produce...",
-      "date": "Sun, 15 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+      "description": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
+      "date": "Mon, 16 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "How Russia is preparing Iran for the next escalation",
+      "link": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
+      "description": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
+      "date": "Mon, 16 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+      "link": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss",
+      "description": "Iran-aligned Kataib Hezbollah says the group is subjected to &#039;blackmail&#039; to force disarmament amid US pressure on Iraq.",
+      "date": "Mon, 16 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthis advance in Yemen as government forces move to defend Aden",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+      "description": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+      "date": "Mon, 16 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Houthis free 600 fighters as Yemen forces redeployed",
+      "link": "https://www.dawn.com/news/2044792/houthis-free-600-fighters-as-yemen-forces-redeployed",
+      "description": "• Forces withdraw from strategic area overlooking Bab al-Mandeb Strait • Eight killed in attack near Aden; Saudis intercept two missiles heading towards Riyadh GENEVA: Yemen’s Houthis on Sunday released 600 members of Saudi-backed Yemeni government forces, the International Commi...",
+      "date": "Mon, 16 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "The Philippines and Australia strengthen joint military deterrence at ASEAN summit",
-      "link": "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit",
-      "description": "Southeast Asian leaders opened their annual summit in the Philippine capital Manila on Sunday. During three days, world leaders are expected to focus on trade, energy and conflict – including the war in Iran. Donald Trump is expected to land in Manila on Tuesday. Details by FRANC...",
+      "title": "Blasts rattle Bahrain as Iran launches second drone attack in 3 days",
+      "link": "https://www.dawn.com/news/2044711/blasts-rattle-bahrain-as-iran-launches-second-drone-attack-in-3-days",
+      "description": "Blasts echoed over Bahrain on Sunday as the tiny Gulf nation was rattled by the second Iranian drone attack in three days, ending a long lull in strikes during the Middle East war. Sirens rang out, and authorities posted several alerts on social media urging residents to seek she...",
       "date": "Sun, 15 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Czechs rally against gov’t threat to media independence",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
-      "description": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+      "title": "How identity politics is redrawing the India-Bangladesh borderlands",
+      "link": "https://www.dawn.com/news/2044815/how-identity-politics-is-redrawing-the-india-bangladesh-borderlands",
+      "description": "THE India–Bangladesh borderlands are not simply spaces of territorial contestation. They are landscapes shaped by shared histories, cultural continuities and deeply intertwined human relationships. These borderlands hold a profound place in Bangladesh’s history. At Baidyanathtala...",
       "date": "Mon, 16 Nov 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
-      "description": "The USS Theodore Roosevelt has arrived in the Middle East, while Iran warned it would not simply wait for an attack.",
-      "date": "Mon, 16 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
-      "description": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+      "title": "Netanyahu calls for Israeli unity government, Eisenkot dismisses 'tricks'",
+      "link": "https://www.dawn.com/news/2044695/netanyahu-calls-for-israeli-unity-government-eisenkot-dismisses-tricks",
+      "description": "Israel’s caretaker prime minister Benjamin Netanyahu on Saturday reiterated his calls for a national unity government with his opponent Gadi Eisenkot, who in turn dismissed the appeal as a ruse. The latest exchange comes as Eisenkot is in the midst of negotiations to form a gover...",
       "date": "Sun, 15 Nov 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Jordan sentences three men to death over deadly church attack in Karak",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
-      "description": "Jordan sentences three men to death over deadly church attack in Karak",
+      "title": "US president may hold fire on Iran unless provoked",
+      "link": "https://www.dawn.com/news/2044639/us-president-may-hold-fire-on-iran-unless-provoked",
+      "description": "• Sympathetic to allies urging restraint; Saudi crown prince, Erdogan press Trump not to resume war• Mines hit three ships in Strait of Hormuz in two days; UN official urges Iran, US to let fertiliser shipments pass WASHINGTON: President Donald Trump has told senior advisers in r...",
       "date": "Sun, 15 Nov 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
-      "description": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
-      "date": "Sun, 15 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Musk, tech leaders back Jensen Huang as report alleges he misled Nvidia top execs over affair",
-      "link": "https://www.arabnews.com/world/musk-tech-leaders-back-jensen-huang-as-report-alleges-he-misled-nvidia-top-execs-over-affair-3012134",
-      "description": "Elon Musk and over 158,000 supporters have signed an open letter urging Nvidia's board to reinstate former CEO Jensen Huang, who stepped down amid scandal involving extramarital affairs. Allegations surfaced that Huang misled company executives about the nature of one relationshi...",
-      "date": "Mon, 16 Nov 2026",
-      "source": "Arab News",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
-    },
-    {
-      "title": "Muslim World League condemns Houthi attacks on Makkah",
-      "link": "https://www.arabnews.com/saudi-arabia/muslim-world-league-condemns-houthi-attacks-on-makkah-3012117",
-      "description": "The Muslim World League condemned the Iran-backed Houthi militia's repeated attacks on Makkah, stating that such actions violate Islamic sanctities and endanger civilian lives. Secretary-General Dr. Mohammed Al-Issa emphasized the militia's terrorist approach and affirmed support...",
-      "date": "Sun, 15 Nov 2026",
-      "source": "Arab News",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
-    },
-    {
-      "title": "Iran’s navy says oil tanker on fire after hitting mine east of Hormuz",
-      "link": "https://www.arabnews.com/middle-east/irans-navy-says-oil-tanker-on-fire-after-hitting-mine-east-of-hormuz-3012121",
-      "description": "An oil tanker caught fire after reportedly striking a naval mine east of the Strait of Hormuz, according to Iran’s navy. Reuters has been unable to verify the report independently.",
-      "date": "Sun, 15 Nov 2026",
-      "source": "Arab News",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
-    },
-    {
-      "title": "Fire destroys Syrian refugee camp in Lebanon, leaving 75 families homeless",
-      "link": "https://www.arabnews.com/middle-east/fire-destroys-syrian-refugee-camp-in-lebanon-leaving-75-families-homeless-3012109",
-      "description": "LONDON: An overnight blaze destroyed tents at a Syrian refugee camp in eastern Lebanon, leaving 75 families homeless, Turkiye’s Anadolu news agency reported on Sunday. The blaze struck a camp housing about 486 people in Bar Elias, a town in the Bekaa Valley’s Zahle district, acco...",
-      "date": "Sun, 15 Nov 2026",
-      "source": "Arab News",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
-    },
-    {
-      "title": "Yemen’s southern forces redeploy troops to bolster Aden’s defenses",
-      "link": "https://www.arabnews.com/middle-east/yemens-southern-forces-redeploy-troops-to-bolster-adens-defenses-3012108",
-      "description": "LONDON: Yemen’s Southern Armed Forces said on Sunday that they were redeploying troops from Dhubab Airport and the Bab Al-Mandab area in western Taiz province, citing threats to the capital Aden and neighboring provinces. The move was part of a broader reorganization to reinforce...",
-      "date": "Sun, 15 Nov 2026",
-      "source": "Arab News",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
-    },
-    {
-      "title": "Israel says it demolished Hezbollah tunnel in southern Lebanon",
-      "link": "https://www.arabnews.com/middle-east/israel-says-it-demolished-hezbollah-tunnel-in-southern-lebanon-3012104",
-      "description": "LONDON: The Israeli military said on Sunday it demolished a 35-meter-long Hezbollah tunnel in the southern Lebanese town of Majdal Zoun. Troops from the military’s 300th “Baram” Regional Brigade discovered the tunnel during operations in the area, the military said in a statement...",
-      "date": "Sun, 15 Nov 2026",
-      "source": "Arab News",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
@@ -263,19 +223,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
-      "link": "https://www.thehindu.com/news/international/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/article71702671.ece",
-      "description": "The war has hiked global fuel prices and proven unpopular with U.S. voters, who handed control ‌of ⁠Congress to the Democrats in last week's midterm elections",
-      "date": "Sat, 14 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "USS Theodore Roosevelt aircraft carrier arrives in CENTCOM area of responsibility",
-      "link": "https://tass.com/world/2218431",
-      "description": "According to Axios correspondent Barak Ravid, the US military has three vessels of this type in CENTCOM",
+      "title": "Russia rejects neocolonialism, including pressure through sanctions — Putin",
+      "link": "https://tass.com/politics/2218567",
+      "description": "The Russian president added that Moscow fully supports the majority of countries' aspirations to strengthen their sovereignty and independence",
       "date": "Mon, 16 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -283,30 +233,30 @@
       "bias": "Very High"
     },
     {
-      "title": "Tanker catches fire after striking sea mine in Strait of Hormuz — IRGC",
-      "link": "https://tass.com/world/2218407",
-      "description": "According to the statement, the tanker was moving along an unauthorized route with its navigation systems off",
-      "date": "Sun, 15 Nov 2026",
+      "title": "EU finds it ‘harder’ to agree on new anti-Russian sanctions — top Estonian diplomat",
+      "link": "https://tass.com/world/2218493",
+      "description": "Margus Tsahkna added that some EU countries are hoping to resume business with Russia",
+      "date": "Mon, 16 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "US’ responses to Iran’s terms cannot be implemented — senior Iranian diplomat",
-      "link": "https://tass.com/world/2218397",
-      "description": "Kazem Gharibabadi explained that the document provides for a delay in the fulfilment of certain conditions set by Iran, which is unacceptable for Tehran",
-      "date": "Sun, 15 Nov 2026",
+      "title": "Iranian envoy points to Supreme Leader’s ‘special’ message to Putin",
+      "link": "https://tass.com/world/2218439",
+      "description": "Kazem Jalali noted the importance of relations between the two countries",
+      "date": "Mon, 16 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Houthis say they hit Riyadh’s airport, financial center",
-      "link": "https://tass.com/world/2218395",
-      "description": "According to Ansar Allah spokesman Yahya Saris missiles also struck Saudi forces’ positions in the Lahij governorate in southern Yemen",
-      "date": "Sun, 15 Nov 2026",
+      "title": "USS Theodore Roosevelt aircraft carrier arrives in CENTCOM area of responsibility",
+      "link": "https://tass.com/world/2218431",
+      "description": "According to Axios correspondent Barak Ravid, the US military has three vessels of this type in CENTCOM",
+      "date": "Mon, 16 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
