@@ -1,17 +1,18 @@
 {
-  "updated": "2026-11-16 10:19 UTC",
+  "updated": "2026-11-16 20:43 UTC",
   "total": 8,
   "events": [
     {
       "date": "2026-11-16",
       "dateDisplay": "Nov 16, 2026",
-      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia dismisses commander of anti-Houthi coalition as rebels advance",
+      "link": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance",
       "sources": [
-        "BBC"
+        "Al Jazeera",
+        "France 24"
       ],
-      "sourceCount": 1,
-      "type": "framing"
+      "sourceCount": 2,
+      "type": "govt"
     },
     {
       "date": "2026-11-15",
@@ -19,11 +20,10 @@
       "title": "Iran targets US military base in Bahrain with drone attack",
       "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "France 24",
         "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-11-13",
