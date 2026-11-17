@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 20:43 UTC",
-  "total": 26,
+  "updated": "2026-11-17 03:17 UTC",
+  "total": 23,
   "stories": [
     {
       "title": "What's Trump's strategy now with Iran? To keep things as they are",
@@ -11,6 +11,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "date": "Mon, 16 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
@@ -83,14 +93,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Saudi Arabia dismisses commander of anti-Houthi coalition as rebels advance",
-      "link": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance",
-      "description": "Saudi Arabia has removed the commander of the Saudi-led coalition in Yemen, state media said Monday, as the Iran-backed rebels advanced on the temporary capital of Aden. The shake up comes after Houthi forces took territory on Yemen's southern coast and Saudi-backed forces fell b...",
+      "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+      "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+      "description": "Yemen&#039;s army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+      "date": "Tue, 17 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+      "description": "Iran-aligned Houthi fighters kept up their push in southern Yemen as JD Vance ruled out a US &#039;forever war&#039; in Iran.",
       "date": "Mon, 16 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
@@ -103,94 +123,64 @@
       "bias": "Medium"
     },
     {
-      "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-      "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
-      "description": "US pressure on Iraq to curb Tehran&#039;s influence leaves potential for direct confrontation with Iran-linked armed group.",
-      "date": "Mon, 16 Nov 2026",
-      "source": "Al Jazeera",
+      "title": "Rebel forces close in on Aden as Riyadh shakes up command",
+      "link": "https://www.dawn.com/news/2045069/rebel-forces-close-in-on-aden-as-riyadh-shakes-up-command",
+      "description": "Riyadh: Houthi fighters have seized territory on Yemen’s southern coast after Saudi-backed government forces fell back to defend Aden, military sources said on Monday, as Saudi Arabia replaced the commander of its military coalition following a series of setbacks. Following a cou...",
+      "date": "Tue, 17 Nov 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Iran braces for natural gas shortages during winter energy imbalance",
-      "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
-      "description": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
-      "date": "Mon, 16 Nov 2026",
-      "source": "Al Jazeera",
+      "title": "Iran refuses to let nuclear inspectors in until war ends",
+      "link": "https://www.dawn.com/news/2045066/iran-refuses-to-let-nuclear-inspectors-in-until-war-ends",
+      "description": "• Gharibabadi says IAEA request aims to gauge US weapon impact• Oil tanker set ablaze by projectile in Hormuz; IRGC says six tankers have sunk since Sunday• Third US aircraft carrier group arrives in Middle East TEHRAN: Iran will not let UN inspectors visit its damaged nuclear fa...",
+      "date": "Tue, 17 Nov 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
-      "description": "Oil tankers hit sea mines in the Strait of Hormuz",
+      "title": "Dar says Pakistan to host next Makkah alliance summit later this month",
+      "link": "https://www.dawn.com/news/2044957/dar-says-pakistan-to-host-next-makkah-alliance-summit-later-this-month",
+      "description": "Pakistan will host the next meeting of the Makkah Defence Alliance’s apex committee, likely later this month, Deputy Prime Minister and Foreign Minister Ishaq Dar said on Monday. He made the remarks while answering a query during a press briefing regarding a ministerial meeting o...",
       "date": "Mon, 16 Nov 2026",
-      "source": "Al Jazeera",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism",
-      "link": "https://www.arabnews.com/world/pakistan-vows-to-proceed-with-us-iran-diplomacy-and-urges-afghanistan-to-act-on-terrorism-3012314",
-      "description": "Pakistan pledges to engage in diplomatic efforts to alleviate tensions between the US and Iran and urges Afghanistan to combat terrorism. Foreign Minister Ishaq Dar highlights the need for Taliban action during an international meeting in Islamabad.",
+      "title": "China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit",
+      "link": "https://www.dawn.com/news/2044928/china-says-xi-trump-putin-to-discuss-world-peace-in-trilateral-summit",
+      "description": "The leaders of China, Russia and the United States will discuss “world peace” when they hold their first trilateral summit in Shenzhen this week, Beijing said on Monday. Presidents Xi Jinping, Donald Trump and Vladimir Putin are due to meet in the southern Chinese city on Thursda...",
       "date": "Mon, 16 Nov 2026",
-      "source": "Arab News",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "Saudi Arabia’s Fatima Al-Ammari to face Lebanon’s Anna Wakim at PFL MENA 12",
-      "link": "https://www.arabnews.com/sport/saudi-arabias-fatima-al-ammari-to-face-lebanons-anna-wakim-at-pfl-mena-12-3012303",
-      "description": "RIYADH: Saudi Arabian MMA fighter Fatima Al-Ammari returns to the cage to face off against Lebanon’s Anna Wakim on Friday, Dec. 11, as part of the PFL MENA 12, as reported by Asharq Al-Awsat. The event will be hosted by Dhahran Expo in Alkhobar, bringing together two champions wi...",
+      "title": "Houthis free 600 fighters as Yemen forces redeployed",
+      "link": "https://www.dawn.com/news/2044792/houthis-free-600-fighters-as-yemen-forces-redeployed",
+      "description": "• Forces withdraw from strategic area overlooking Bab al-Mandeb Strait • Eight killed in attack near Aden; Saudis intercept two missiles heading towards Riyadh GENEVA: Yemen’s Houthis on Sunday released 600 members of Saudi-backed Yemeni government forces, the International Commi...",
       "date": "Mon, 16 Nov 2026",
-      "source": "Arab News",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
-      "title": "New US Congress must demand a clear strategy on Iran",
-      "link": "https://www.arabnews.com/opinion/new-us-congress-must-demand-a-clear-strategy-on-iran-3012055",
-      "description": "US Defense Secretary Pete Hegseth kept his job after the House last week voted 211-204 to send Republican Rep. Thomas Massie’s impeachment resolution to the Judiciary Committee. The referral stalled the impeachment effort. When the new Congress takes office on Jan. 3, 2027, it sh...",
-      "date": "Mon, 16 Nov 2026",
-      "source": "Arab News",
+      "title": "Blasts rattle Bahrain as Iran launches second drone attack in 3 days",
+      "link": "https://www.dawn.com/news/2044711/blasts-rattle-bahrain-as-iran-launches-second-drone-attack-in-3-days",
+      "description": "Blasts echoed over Bahrain on Sunday as the tiny Gulf nation was rattled by the second Iranian drone attack in three days, ending a long lull in strikes during the Middle East war. Sirens rang out, and authorities posted several alerts on social media urging residents to seek she...",
+      "date": "Sun, 15 Nov 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
-    },
-    {
-      "title": "Yemeni forces report 661 strikes against Houthi targets",
-      "link": "https://www.arabnews.com/middle-east/yemeni-forces-report-661-strikes-against-houthi-targets-3012295",
-      "description": "ADEN: Yemen’s armed forces have carried out 661 strikes against Houthi targets over the past several hours, killing or wounding 173 field commanders and fighters, the army’s spokesperson said on Monday. In a statement, the spokesperson said the operations were part of the “Dawn o...",
-      "date": "Mon, 16 Nov 2026",
-      "source": "Arab News",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
-    },
-    {
-      "title": "Israel strikes eastern Lebanon near Syrian border, says it targeted weapons bound for Hezbollah",
-      "link": "https://www.arabnews.com/middle-east/israel-strikes-eastern-lebanon-near-syrian-border-says-it-targeted-weapons-bound-for-hezbollah-3012288",
-      "description": "LONDON: Israeli jets early on Monday struck a mountainous area in eastern Lebanon near the Syrian border, targeting what the Israeli military said was a weapons shipment bound for Hezbollah. Lebanon’s state-run National News Agency said the dawn strike hit the Al-Shaara area in t...",
-      "date": "Mon, 16 Nov 2026",
-      "source": "Arab News",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
-    },
-    {
-      "title": "Coalition intercepts two Houthi drones launched towards Makkah and Riyadh",
-      "link": "https://www.arabnews.com/saudi-arabia/coalition-intercepts-two-houthi-drones-launched-towards-makkah-and-riyadh-3012282",
-      "description": "The Saudi-led coalition intercepted and destroyed two drones launched by Houthis targeting Makkah and Riyadh. The drones posed a threat to key locations in Saudi Arabia.",
-      "date": "Mon, 16 Nov 2026",
-      "source": "Arab News",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "High"
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Third American aircraft carrier arrives in West Asia as Trump keeps options open in Iran war",
@@ -223,39 +213,19 @@
       "bias": "Low-Med"
     },
     {
+      "title": "US not to allow war with Iran to drag on for two years — vice president",
+      "link": "https://tass.com/world/2219269",
+      "description": "JD Vance stressed that the US President Donald Trump will get the country out of the conflict \"with great results\"",
+      "date": "Tue, 17 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Plenty of frictions remain between Russia, US — Lavrov",
       "link": "https://tass.com/politics/2219145",
       "description": "The United States adopted new sanctions against Lukoil and Rosneft already under Donald Trump, the Russian foreign minister said",
-      "date": "Mon, 16 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Trump says to discuss Ukraine, Iran, nuclear disarmament with Putin and Xi Jinping",
-      "link": "https://tass.com/world/2219043",
-      "description": "The US president added that the meeting would also discuss economics and trade",
-      "date": "Mon, 16 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "EU expands sanctions against Russia",
-      "link": "https://tass.com/world/2219033",
-      "description": "The European Union sanctioned 47 Russian regional banks",
-      "date": "Mon, 16 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Number of individuals, entities on EU anti-Russia sanctions lists exceeds 4,000",
-      "link": "https://tass.com/world/2219017",
-      "description": "The document indicates that under the Ukraine-related sanctions list, the EU has imposed measures against 12 individuals and 101 entities",
       "date": "Mon, 16 Nov 2026",
       "source": "TASS",
       "region": "ru",

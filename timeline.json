@@ -1,18 +1,28 @@
 {
-  "updated": "2026-11-16 20:43 UTC",
-  "total": 8,
+  "updated": "2026-11-17 03:17 UTC",
+  "total": 9,
   "events": [
+    {
+      "date": "2026-11-17",
+      "dateDisplay": "Nov 17, 2026",
+      "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+      "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sourceCount": 1,
+      "type": "framing"
+    },
     {
       "date": "2026-11-16",
       "dateDisplay": "Nov 16, 2026",
-      "title": "Saudi Arabia dismisses commander of anti-Houthi coalition as rebels advance",
-      "link": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
       "sources": [
-        "Al Jazeera",
-        "France 24"
+        "BBC"
       ],
-      "sourceCount": 2,
-      "type": "govt"
+      "sourceCount": 1,
+      "type": "framing"
     },
     {
       "date": "2026-11-15",
