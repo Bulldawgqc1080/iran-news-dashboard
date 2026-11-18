@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17 21:25 UTC",
-  "total": 29,
+  "updated": "2026-11-18 03:13 UTC",
+  "total": 31,
   "stories": [
     {
       "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
@@ -83,6 +83,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Middle East live: Kuwait, Bahrain report drone and missile attacks",
+      "link": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks",
+      "description": "Kuwait said Wednesday it was countering hostile drone attacks, while Bahrain reported intercepting Iranian strikes, as US allies in the Gulf remained on alert following an American attack on Iran's Qeshm Island. The incidents came amid a standoff over the Strait of Hormuz. Follow...",
+      "date": "Wed, 18 Nov 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran 'playing mind games with the United States', expert says",
       "link": "https://www.france24.com/en/iran-playing-mind-games-with-the-united-states-expert-says",
       "description": "President Donald Trump said Tuesday that US authorities take \"very seriously\" any possible threat to Washington, following reports Iran was planning to target officials, possibly with a radioactive bomb. Speaking with FRANCE 24's Monte Francis, Barbara Slavin, Distinguished Fello...",
@@ -103,44 +113,54 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Did the US use ‘blackout bombs’ in Iran? Images reveal mysterious fibres at infrastructure sites",
-      "link": "https://www.france24.com/en/middle-east/20261117-iran-us-graphite-blackout-bombs-infrastructure",
-      "description": "Photographs published by Iranian local media suggest that US forces may have used graphite bombs, also known as ‘blackout bombs’, against infrastructure in Iran in recent days. These weapons are designed to disrupt electricity supplies by causing short circuits rather than physic...",
+      "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+      "link": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+      "description": "Head of Iran&#039;s IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
+      "date": "Wed, 18 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+      "description": "Kuwait intercepts &#039;hostile&#039; drone attacks as Bahrain accuses Iran of &#039;criminal attacks&#039;.",
+      "date": "Wed, 18 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+      "description": "Kuwait&#039;s military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
       "date": "Tue, 17 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+      "description": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+      "date": "Tue, 17 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Man sentenced to over 27 years in US for plot to assassinate Trump",
+      "link": "https://www.dawn.com/news/2045363/man-sentenced-to-over-27-years-in-us-for-plot-to-assassinate-trump",
+      "description": "A US judge has sentenced a Pakistani man, found guilty of plotting to assassinate President Donald Trump and other prominent US politicians, to more than 27 years in prison, the Department of Justice (DOJ) said on Tuesday. “Earlier today, in federal court in Brooklyn, Asif Mercha...",
+      "date": "Wed, 18 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-      "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-      "description": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
-      "date": "Tue, 17 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
-      "description": "Ali al-Zaidi&#039;s talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-      "date": "Tue, 17 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
-      "link": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
-      "description": "The law targets the group&#039;s financing and activities as Houthis make advances in southwestern Yemen.",
-      "date": "Tue, 17 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "UK sanctions Israeli firms helping build West Bank settlements",
@@ -193,11 +213,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Rebel forces close in on Aden as Riyadh shakes up command",
-      "link": "https://www.dawn.com/news/2045069/rebel-forces-close-in-on-aden-as-riyadh-shakes-up-command",
-      "description": "Riyadh: Houthi fighters have seized territory on Yemen’s southern coast after Saudi-backed government forces fell back to defend Aden, military sources said on Monday, as Saudi Arabia replaced the commander of its military coalition following a series of setbacks. Following a cou...",
-      "date": "Tue, 17 Nov 2026",
-      "source": "Dawn",
+      "title": "Pakistani man convicted of plotting to kill Trump is sentenced to over 27 years in prison",
+      "link": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece",
+      "description": "Prosecutors said Asif Merchant tried to recruit people in U.S. in a plan targeting Donald Trump, others ​in retaliation for Washington's killing of ‌Iranian military commander in 2020",
+      "date": "Wed, 18 Nov 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Indian national missing after attacks on commercial vessel in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece",
+      "description": "MEA said that of the 24 Indian nationals on board MT Tara Gas, 21 have been safely evacuated",
+      "date": "Wed, 18 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -243,14 +273,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "After Yemen setback, Saudi Arabia replaces military commander",
-      "link": "https://www.thehindu.com/news/international/after-yemen-setback-saudi-arabia-replaces-military-commander/article71709122.ece",
-      "description": "The Houthis have made rapid gains ⁠against the Saudi-backed Yemeni government since the U.S.-Iran conflict reignited Yemen’s frozen civil war this summer, drawing Riyadh back into confrontation with the group",
-      "date": "Mon, 16 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US strikes missile launch site on Iran’s Qeshm Island — Axios correspondent",
+      "link": "https://tass.com/world/2219955",
+      "description": "The Islamic Revolutionary Guard Corps had launched missiles from that island, a US military official said",
+      "date": "Tue, 17 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Top diplomat refutes allegations about Iran’s plans to use chemical weapons in US",
+      "link": "https://tass.com/world/2219943",
+      "description": "The Iranian Foreign Minister called such reports \"rubbish\" and \"the Iraq War-style propaganda\"",
+      "date": "Tue, 17 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "Houthis say they attacked two oil pumping stations near Riyadh",
@@ -266,26 +306,6 @@
       "title": "Foreign ministers of Iran, Oman, Uzbekistan discuss North-South corridor in Muscat",
       "link": "https://tass.com/world/2219913",
       "description": "The parties discussed ways to develop interregional cooperation in the economic, trade, transport, and transit sectors, the Iranian Foreign Ministry noted",
-      "date": "Tue, 17 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran to view dams, ports near US bases as military targets — parliament speaker",
-      "link": "https://tass.com/world/2219889",
-      "description": "Mohammad Bagher Ghalibaf accused the United States of preparing a new round of attacks on civilian infrastructure in Iran",
-      "date": "Tue, 17 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "US strike on Qeshm Island in southern Iran caused no damage, authorities say",
-      "link": "https://tass.com/world/2219877",
-      "description": "Ahmad Nafisi, the Deputy Governor of Hormozgan Province for political, security, and social affairs, assured that the situation on Qeshm remains stable, with all emergency response, service, and administrative agencies placed on heightened alert",
       "date": "Tue, 17 Nov 2026",
       "source": "TASS",
       "region": "ru",
