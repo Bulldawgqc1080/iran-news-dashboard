@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20 01:29 UTC",
-  "total": 26,
+  "updated": "2026-11-20 09:21 UTC",
+  "total": 25,
   "stories": [
     {
       "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
@@ -21,6 +21,16 @@
       "region": "us",
       "color": "#3a86ff",
       "bias": "Low"
+    },
+    {
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "description": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+      "date": "Fri, 20 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
     },
     {
       "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
@@ -93,34 +103,74 @@
       "bias": "Low-Med"
     },
     {
-      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-      "description": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-      "date": "Fri, 13 Nov 2026",
-      "source": "BBC",
+      "title": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
+      "link": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
+      "description": "Iraqi security forces deployed ​in the Kataib Hezbollah stronghold of Jurf al-Sakhar, state media said on Friday, under a compromise deal brokered by Shi'ite politicians. Iraq's prime minister ordered a security intervention earlier this week after accusing the Iran-backed militi...",
+      "date": "Fri, 20 Nov 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-      "description": "Houthi missile fire has rocked Riyadh&#039;s financial centre as the Iran war leaves &#039;lasting marks&#039; on global energy.",
-      "date": "Thu, 19 Nov 2026",
+      "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+      "link": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
+      "description": "US Maritime Administration acknowledged naval blockade&#039;s impact on insurance premiums and cargo capacity, memo shows.",
+      "date": "Fri, 20 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-      "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-      "description": "The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.",
-      "date": "Thu, 19 Nov 2026",
+      "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
+      "link": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
+      "description": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
+      "date": "Fri, 20 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Pakistan 'unequivocally' condemns Houthi attack on Riyadh’s tallest skyscraper",
+      "link": "https://www.dawn.com/news/2045872/pakistan-unequivocally-condemns-houthi-attack-on-riyadhs-tallest-skyscraper",
+      "description": "Pakistan on Friday “unequivocally” condemned a Houthi attack on Riyadh’s tallest skyscraper, which serves as the headquarters of Saudi Arabia’s sovereign wealth fund. “This act of aggression constitutes a grave violation of the sovereignty of the Kingdom of Saudi Arabia,” the For...",
+      "date": "Fri, 20 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Freedom of association does not need state authorisation: UN",
+      "link": "https://www.dawn.com/news/2045813/freedom-of-association-does-not-need-state-authorisation-un",
+      "description": "GENEVA: Amid swelling crackdowns on civil society globally, a UN watchdog told countries on Thursday they could not limit the right to freedom of association by requiring state authorisation or misusing counter-terrorism laws. The reminder from the United Nations Human Rights Com...",
+      "date": "Fri, 20 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Riyadh’s tallest skyscraper hit by Houthis",
+      "link": "https://www.dawn.com/news/2045801/riyadhs-tallest-skyscraper-hit-by-houthis",
+      "description": "• Strike damages several floors of PIF Tower; no injuries reported• Saudis say they reserve right to take ‘all necessary measures’• MBS meets Centcom chief• Saudi FM, Makkah alliance secy discuss joint defence cooperation• Tahir Ashrafi condemns attacks, expresses solidarity RIYA...",
+      "date": "Fri, 20 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Once unthinkable, Trump-Xi-Putin summit makes Russia and Beijing the biggest winners",
+      "link": "https://www.dawn.com/news/2045892/once-unthinkable-trump-xi-putin-summit-makes-russia-and-beijing-the-biggest-winners",
+      "description": "SHENZHEN: In a capacious reception room within a sprawling hillside resort in the southern Chinese tech hub Shenzhen, the leaders of the world’s three biggest powers sat at a round table and spoke for 90 minutes in a meeting that was once unthinkable. The historic trilateral talk...",
+      "date": "Fri, 20 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Silicon Valley elites 'bankrolled' news platform Visegrad24 publishing pro-Israel content: report",
@@ -143,31 +193,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "US Democrats nominate Hakeem Jeffries to be first Black House speaker",
-      "link": "https://www.dawn.com/news/2045446/us-democrats-nominate-hakeem-jeffries-to-be-first-black-house-speaker",
-      "description": "Hakeem Jeffries is on the cusp of becoming the first Black speaker of the US House of Representatives after Democrats elected him their leader Wednesday following a sweeping midterm election triumph. The 56-year-old New Yorker secured 251 votes in a closed-door, secret ballot, wi...",
-      "date": "Wed, 18 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Man sentenced to over 27 years in US for plot to assassinate Trump",
-      "link": "https://www.dawn.com/news/2045363/man-sentenced-to-over-27-years-in-us-for-plot-to-assassinate-trump",
-      "description": "A US judge has sentenced a Pakistani man, found guilty of plotting to assassinate President Donald Trump and other prominent US politicians, to more than 27 years in prison, the Department of Justice (DOJ) said on Tuesday. “Earlier today, in federal court in Brooklyn, Asif Mercha...",
-      "date": "Wed, 18 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Trump warns Iran over ‘plot’ to target US officials",
-      "link": "https://www.dawn.com/news/2045272/trump-warns-iran-over-plot-to-target-us-officials",
-      "description": "• Says American authorities take ‘very seriously’ any possible threat to Washington • CDF Munir tells FM Araghchi to maintain sustained engagement • US strikes Qeshm island; Iran targets Bahrain radar system MANILA: President Donald Trump said on Tuesday that US authorities take ...",
-      "date": "Wed, 18 Nov 2026",
-      "source": "Dawn",
+      "title": "How U.S. controls flow of advanced tech, chip, and compute to China | Explained",
+      "link": "https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece",
+      "description": "The U.S. Commerce Department, on November 16, 2026, issued an interim final rule barring data centre operators outside of the U.S., equipped with advanced American AI chips, from providing cloud service to businesses in two dozen countries, including China, Iran and Russia",
+      "date": "Fri, 20 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -183,44 +213,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "How U.S. controls flow of advanced tech, chip, and compute to China | Explained",
-      "link": "https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece",
-      "description": "The U.S. Commerce Department, on November 16, 2026, issued an interim final rule barring data centre operators outside of the U.S., equipped with advanced American AI chips, from providing cloud service to businesses in two dozen countries, including China, Iran and Russia",
-      "date": "Thu, 19 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Putin-Trump contacts indicate possibility of improving ties — ex-congressman",
+      "link": "https://tass.com/world/2222145",
+      "description": "Dennis Kucinich separately said that the final declaration approved at the trilateral summit, which took place after the meeting between the two leaders, mentions Russia, the US and China's plans to boost oil production and deliveries, which could lead to an easing of sanctions a...",
+      "date": "Fri, 20 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
-      "title": "Saudis prepare for Houthi war to last well into 2027",
-      "link": "https://www.thehindu.com/news/international/saudis-prepare-for-houthi-war-to-last-well-into-2027/article71717227.ece",
-      "description": "Saudi and Yemeni forces are ​now reorganising, with plans to protect Aden from the Houthi advances and potentially shift their offensive to eastern fronts where they have made some advances or have at least held their lines",
-      "date": "Wed, 18 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran strikes U.S. air base in Kuwait, targets Bahrain amid wider Gulf attacks",
-      "link": "https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece",
-      "description": "Iran said its recent attacks — including those on other U.S. facilities in Bahrain on November 15 and November 13 — were in response to U.S. drone surveillance operations and an attack on Iranian communications towers",
-      "date": "Wed, 18 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion",
-      "link": "https://www.thehindu.com/news/international/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion/article71715383.ece",
-      "description": "The measures prohibit Australians ​and Australian businesses from trading ‌with, or providing support to, the sanctioned individuals and organisations",
-      "date": "Wed, 18 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "US accuses Iran of developing chemical weapons to justify invasion — Foreign Ministry",
+      "link": "https://tass.com/world/2222141",
+      "description": "Spokesman Esmaeil Baghaei compared the accusations to then-US Secretary of State \"Colin Powell’s infamous appearance before the UN Security Council in 2003,\" during which allegations were leveled against Iraq",
+      "date": "Fri, 20 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "EU to include ban on visas for Russian athletes in 22nd sanctions package — Tusk",
@@ -236,26 +246,6 @@
       "title": "Houthis claim strikes on four sites in Saudi Arabia, warn investors",
       "link": "https://tass.com/world/2222091",
       "description": "The Yemeni movement urged foreign investors to leave the kingdom immediately",
-      "date": "Thu, 19 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Merz floats idea of lifting Russia sanctions piecemeal as Ukraine deal progresses",
-      "link": "https://tass.com/world/2222061",
-      "description": "\"The goal was and remains a sovereign Ukraine in a secure Europe,\" the German chancellor added",
-      "date": "Thu, 19 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran demonstrates 4,500 km range missiles near Diego Garcia, says IRGC official",
-      "link": "https://tass.com/world/2222017",
-      "description": "According to Hossein Mohebbi, Iran had previously maintained a 2,000-kilometer limit on its missiles in accordance with a directive from the late Supreme Leader",
       "date": "Thu, 19 Nov 2026",
       "source": "TASS",
       "region": "ru",
