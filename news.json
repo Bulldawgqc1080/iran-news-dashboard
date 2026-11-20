@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-20 09:21 UTC",
-  "total": 25,
+  "updated": "2026-11-20 18:05 UTC",
+  "total": 28,
   "stories": [
+    {
+      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+      "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+      "description": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+      "date": "Fri, 20 Nov 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
+    {
+      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+      "description": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
+      "date": "Fri, 20 Nov 2026",
+      "source": "NPR News",
+      "region": "us",
+      "color": "#3a86ff",
+      "bias": "Low"
+    },
     {
       "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
       "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
@@ -103,34 +123,44 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
-      "link": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
-      "description": "Iraqi security forces deployed ​in the Kataib Hezbollah stronghold of Jurf al-Sakhar, state media said on Friday, under a compromise deal brokered by Shi'ite politicians. Iraq's prime minister ordered a security intervention earlier this week after accusing the Iran-backed militi...",
+      "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
+      "link": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+      "description": "Yemen&#039;s Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
       "date": "Fri, 20 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+      "link": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
+      "description": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
+      "date": "Fri, 20 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+      "link": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+      "description": "Iraq&#039;s Federal Police are due to assume control of town&#039;s newly established control headquarters.",
+      "date": "Fri, 20 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "'We don't want to die': Protesters slam Claude creator Anthropic after IPO debut",
+      "link": "https://www.dawn.com/news/2045928/we-dont-want-to-die-protesters-slam-claude-creator-anthropic-after-ipo-debut",
+      "description": "Around a hundred people braved the rain on Thursday to protest in front of Anthropic’s offices in San Francisco, the same day the artificial intelligence (AI) lab went public, to denounce its race toward ever more powerful AI models. “Ban RSI, we don’t want to die,” the protester...",
+      "date": "Fri, 20 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
       "bias": "Low-Med"
-    },
-    {
-      "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-      "link": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
-      "description": "US Maritime Administration acknowledged naval blockade&#039;s impact on insurance premiums and cargo capacity, memo shows.",
-      "date": "Fri, 20 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
-      "link": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
-      "description": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
-      "date": "Fri, 20 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
     },
     {
       "title": "Pakistan 'unequivocally' condemns Houthi attack on Riyadh’s tallest skyscraper",
@@ -183,11 +213,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Kuwait rocked by first Iranian attacks since Sept",
-      "link": "https://www.dawn.com/news/2045503/kuwait-rocked-by-first-iranian-attacks-since-sept",
-      "description": "• US airbase comes under attack; Bahrain, Saudi Arabia also intercept strikes • Washington tightens Iran blockade with curbs on oil transfers at sea • Rubio sees ‘no imminent threat’ from Iran DUBAI: Iran said on Wednesday it had targeted US drone and missile sites in Kuwait over...",
-      "date": "Thu, 19 Nov 2026",
-      "source": "Dawn",
+      "title": "U.S. sanctions Myanmar armed group leader over scam links",
+      "link": "https://www.thehindu.com/news/international/us-sanctions-myanmar-armed-group-leader-over-scam-links/article71725716.ece",
+      "description": "The U.S. Treasury Department said on November 19 it had imposed an asset freeze on General Saw Shwe Wah, commander-in-chief of the Democratic Karen Benevolent Army (DKBA), and one of his top officers, and had banned Americans from dealing with them",
+      "date": "Fri, 20 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -213,9 +243,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Putin-Trump contacts indicate possibility of improving ties — ex-congressman",
-      "link": "https://tass.com/world/2222145",
-      "description": "Dennis Kucinich separately said that the final declaration approved at the trilateral summit, which took place after the meeting between the two leaders, mentions Russia, the US and China's plans to boost oil production and deliveries, which could lead to an easing of sanctions a...",
+      "title": "Houthis say they attacked power plant, port in Saudi Arabia",
+      "link": "https://tass.com/world/2222691",
+      "description": "According to Yahya Saria, the strikes that caused serious damage came as response to the Saudi-led coalition’s strikes against on power plants in the Yemeni cities of Saada and Mokha, and the shelling attack on a Hodeida port berth",
       "date": "Fri, 20 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -223,9 +253,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US accuses Iran of developing chemical weapons to justify invasion — Foreign Ministry",
-      "link": "https://tass.com/world/2222141",
-      "description": "Spokesman Esmaeil Baghaei compared the accusations to then-US Secretary of State \"Colin Powell’s infamous appearance before the UN Security Council in 2003,\" during which allegations were leveled against Iraq",
+      "title": "Missile strikes outskirts of Iranian city of Qeshm — agency",
+      "link": "https://tass.com/world/2222643",
+      "description": "No details were provided on possible damage or the scale of the attack",
       "date": "Fri, 20 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -233,20 +263,20 @@
       "bias": "Very High"
     },
     {
-      "title": "EU to include ban on visas for Russian athletes in 22nd sanctions package — Tusk",
-      "link": "https://tass.com/world/2222103",
-      "description": "At the same time, the Polish prime minister added that he was not authorized to disclose details of the initiative",
-      "date": "Thu, 19 Nov 2026",
+      "title": "Israeli reconnaissance drones fly over Beirut at medium altitude",
+      "link": "https://tass.com/world/2222611",
+      "description": "The hum of their engines has been heard over Beirut for several hours",
+      "date": "Fri, 20 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Houthis claim strikes on four sites in Saudi Arabia, warn investors",
-      "link": "https://tass.com/world/2222091",
-      "description": "The Yemeni movement urged foreign investors to leave the kingdom immediately",
-      "date": "Thu, 19 Nov 2026",
+      "title": "Saudi-led coalition hits seven Houthi military targets in Yemen",
+      "link": "https://tass.com/world/2222603",
+      "description": "According to coalition’s spokesman Turki al-Maliki, the coalition forces \"wiped out one of the Houthi group’s main logistics warehouses in Sanaa\"",
+      "date": "Fri, 20 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
