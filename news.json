@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21 00:26 UTC",
-  "total": 28,
+  "updated": "2026-11-21 07:49 UTC",
+  "total": 30,
   "stories": [
     {
       "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
@@ -123,9 +123,29 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
+      "link": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
+      "description": "Yemen's Houthi rebels launched strikes on Riyadh on Saturday after Saudi-led coalition air raids on Yemen, escalating a months-long surge in cross-border attacks.",
+      "date": "Fri, 20 Nov 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+      "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
+      "description": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+      "date": "Sat, 21 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
       "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-      "description": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
+      "description": "Saudi-led coalition says it intercepted three missiles, as IRGC claims it downed US MQ-9 drone over Strait of Hormuz.",
       "date": "Sat, 21 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -143,14 +163,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-      "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-      "description": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
-      "date": "Fri, 20 Nov 2026",
-      "source": "Al Jazeera",
+      "title": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'",
+      "link": "https://www.dawn.com/news/2046096/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation",
+      "description": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them. Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this s...",
+      "date": "Sat, 21 Nov 2026",
+      "source": "Dawn",
       "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Houthis claim more attacks on Saudi Arabia after Hodeidah hit",
+      "link": "https://www.dawn.com/news/2045987/houthis-claim-more-attacks-on-saudi-arabia-after-hodeidah-hit",
+      "description": "PEOPLE gather outside a mosque to take part in the funeral of Raed al-Kuhlani, a prominent anti-Houthi resistance commander, in the city of Taiz.—Reuters • Saudi-led coalition says Houthi capabilities destroyed; two ballistic missiles intercepted over Jazan • Rebels warn airlines...",
+      "date": "Sat, 21 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "COP31 runs into overtime over fossil fuel dispute",
+      "link": "https://www.dawn.com/news/2045986/cop31-runs-into-overtime-over-fossil-fuel-dispute",
+      "description": "• Revised draft deal drops any mention of fossil fuels, drawing criticism• Dozen countries demand a clear transition to cleaner energy sources ANTALYA: The UN’s COP31 climate talks ran into overtime Friday as countries clashed over a draft deal that was silent on fossil fuels, wi...",
+      "date": "Sat, 21 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "'We don't want to die': Protesters slam Claude creator Anthropic after IPO debut",
@@ -183,31 +223,11 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Riyadh’s tallest skyscraper hit by Houthis",
-      "link": "https://www.dawn.com/news/2045801/riyadhs-tallest-skyscraper-hit-by-houthis",
-      "description": "• Strike damages several floors of PIF Tower; no injuries reported• Saudis say they reserve right to take ‘all necessary measures’• MBS meets Centcom chief• Saudi FM, Makkah alliance secy discuss joint defence cooperation• Tahir Ashrafi condemns attacks, expresses solidarity RIYA...",
-      "date": "Fri, 20 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Once unthinkable, Trump-Xi-Putin summit makes Russia and Beijing the biggest winners",
-      "link": "https://www.dawn.com/news/2045892/once-unthinkable-trump-xi-putin-summit-makes-russia-and-beijing-the-biggest-winners",
-      "description": "SHENZHEN: In a capacious reception room within a sprawling hillside resort in the southern Chinese tech hub Shenzhen, the leaders of the world’s three biggest powers sat at a round table and spoke for 90 minutes in a meeting that was once unthinkable. The historic trilateral talk...",
-      "date": "Fri, 20 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Silicon Valley elites 'bankrolled' news platform Visegrad24 publishing pro-Israel content: report",
-      "link": "https://www.dawn.com/news/2045708/silicon-valley-elites-bankrolled-news-platform-visegrad24-publishing-pro-israel-content-report",
-      "description": "An extensive investigation by American magazine Wired revealed on Thursday how an “anti-migrant, pro-Israel propaganda machine” took form and gained traction via bankrolling by Silicon Valley elites. The investigative report, published by Wired on Thursday morning, detailed the r...",
-      "date": "Thu, 19 Nov 2026",
-      "source": "Dawn",
+      "title": "Saudi-led coalition says downed 3 Houthi missiles headed for Riyadh",
+      "link": "https://www.thehindu.com/news/international/saudi-led-coalition-says-downed-3-houthi-missiles-headed-for-riyadh/article71727179.ece",
+      "description": "Yemen's Houthis said on X that they were striking targets across Saudi Arabia, including in Riyadh",
+      "date": "Sat, 21 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -243,6 +263,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Iran actually no longer NPT member after strikes on its nuclear facilities — MP",
+      "link": "https://tass.com/world/2222845",
+      "description": "Abolfazl Zohrevand, a member of the National Security and Foreign Policy Committee of Iran’s Majlis mentioned that public opinion guided by such considerations fully supports withdrawing from the Treaty",
+      "date": "Sat, 21 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "US should explicitly state its desire to enter into peace agreement with Iran — Araghchi",
+      "link": "https://tass.com/world/2222815",
+      "description": "Iranian Foreign Minister Abbas Araghchi noted Tehran is also prepared for negotiations regarding its enriched uranium stockpiles",
+      "date": "Sat, 21 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Iranian nuclear program discussed at Russia-US-China meeting — Trump",
       "link": "https://tass.com/world/2222737",
       "description": "Leaders talked extensively about ensuring that Iran will never have a nuclear weapon, US President said",
@@ -256,26 +296,6 @@
       "title": "Houthis say they attacked power plant, port in Saudi Arabia",
       "link": "https://tass.com/world/2222691",
       "description": "According to Yahya Saria, the strikes that caused serious damage came as response to the Saudi-led coalition’s strikes against on power plants in the Yemeni cities of Saada and Mokha, and the shelling attack on a Hodeida port berth",
-      "date": "Fri, 20 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Missile strikes outskirts of Iranian city of Qeshm — agency",
-      "link": "https://tass.com/world/2222643",
-      "description": "No details were provided on possible damage or the scale of the attack",
-      "date": "Fri, 20 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israeli reconnaissance drones fly over Beirut at medium altitude",
-      "link": "https://tass.com/world/2222611",
-      "description": "The hum of their engines has been heard over Beirut for several hours",
       "date": "Fri, 20 Nov 2026",
       "source": "TASS",
       "region": "ru",
