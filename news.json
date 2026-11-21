@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21 07:49 UTC",
-  "total": 30,
+  "updated": "2026-11-21 15:43 UTC",
+  "total": 31,
   "stories": [
     {
       "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
@@ -17,26 +17,6 @@
       "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
       "description": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
       "date": "Fri, 20 Nov 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-      "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-      "description": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
-      "date": "Thu, 19 Nov 2026",
-      "source": "NPR News",
-      "region": "us",
-      "color": "#3a86ff",
-      "bias": "Low"
-    },
-    {
-      "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-      "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-      "description": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
-      "date": "Thu, 19 Nov 2026",
       "source": "NPR News",
       "region": "us",
       "color": "#3a86ff",
@@ -123,6 +103,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Ethiopia: Tackling period poverty and stigma",
+      "link": "https://www.france24.com/en/ethiopia-tackling-period-poverty-and-stigma",
+      "description": "In Ethiopia, entrepreneur Hanan Ahmed is tackling period poverty and the stigma surrounding menstruation. By producing affordable reusable sanitary pads and raising awareness in schools, she hopes to make menstrual health more accessible and help girls stay in class. Report by Aw...",
+      "date": "Sat, 21 Nov 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Houthis launch strikes on Saudi Arabia",
+      "link": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
+      "description": "Iran-backed Houthi rebels in Yemen continue to exchange strikes with the Saudi-led coalition. The coalition said it intercepted and destroyed three ballistic missiles fired towards Riyadh early on Saturday. It marks the second Houthi attack on the Saudi capital in recent days, fo...",
+      "date": "Sat, 21 Nov 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
       "link": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
       "description": "Yemen's Houthi rebels launched strikes on Riyadh on Saturday after Saudi-led coalition air raids on Yemen, escalating a months-long surge in cross-border attacks.",
@@ -133,9 +133,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-      "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-      "description": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+      "description": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
       "date": "Sat, 21 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -143,9 +143,9 @@
       "bias": "Medium"
     },
     {
-      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-      "description": "Saudi-led coalition says it intercepted three missiles, as IRGC claims it downed US MQ-9 drone over Strait of Hormuz.",
+      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+      "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+      "description": "Iran&#039;s FM Araghchi says there is &#039;major strategic debate&#039; about the future of Iran&#039;s nuclear doctrine.",
       "date": "Sat, 21 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -153,14 +153,34 @@
       "bias": "Medium"
     },
     {
-      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-      "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-      "description": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-      "date": "Fri, 20 Nov 2026",
+      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+      "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+      "description": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as &#039;oil trustees&#039;.",
+      "date": "Sat, 21 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "At SCO moot in India, Musadik Malik declares climate change ‘enemy’ of civilisations",
+      "link": "https://www.dawn.com/news/2046109/at-sco-moot-in-india-musadik-malik-declares-climate-change-enemy-of-civilisations",
+      "description": "Climate Change Minister Musadik Malik on Saturday declared climate change an “enemy” of civilisations as he highlighted its impact on South Asian countries at a meeting of the Shanghai Cooperation Organisation (SCO) in India. Malik is in New Delhi on a three-day trip to attend th...",
+      "date": "Sat, 21 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Democrats won big in the US midterms. Now what?",
+      "link": "https://www.dawn.com/news/2046121/democrats-won-big-in-the-us-midterms-now-what",
+      "description": "Democrats basking in their Nov 3 election wins will soon unveil an ambitious legislative agenda for the first 100 days and beyond, in a test of progressives’ influence and Republicans’ willingness to cooperate, as they take control of the US Congress on Jan 3. That agenda is like...",
+      "date": "Sat, 21 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'",
@@ -203,21 +223,21 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Pakistan 'unequivocally' condemns Houthi attack on Riyadh’s tallest skyscraper",
-      "link": "https://www.dawn.com/news/2045872/pakistan-unequivocally-condemns-houthi-attack-on-riyadhs-tallest-skyscraper",
-      "description": "Pakistan on Friday “unequivocally” condemned a Houthi attack on Riyadh’s tallest skyscraper, which serves as the headquarters of Saudi Arabia’s sovereign wealth fund. “This act of aggression constitutes a grave violation of the sovereignty of the Kingdom of Saudi Arabia,” the For...",
-      "date": "Fri, 20 Nov 2026",
-      "source": "Dawn",
+      "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
+      "link": "https://www.thehindu.com/news/international/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine/article71728084.ece",
+      "description": "Iran has barred the International Atomic Energy Agency from inspecting its nuclear sites, citing security concerns and blaming the agency for failing to condemn U.S. and Israeli attacks on its nuclear facilities",
+      "date": "Sat, 21 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
     },
     {
-      "title": "Freedom of association does not need state authorisation: UN",
-      "link": "https://www.dawn.com/news/2045813/freedom-of-association-does-not-need-state-authorisation-un",
-      "description": "GENEVA: Amid swelling crackdowns on civil society globally, a UN watchdog told countries on Thursday they could not limit the right to freedom of association by requiring state authorisation or misusing counter-terrorism laws. The reminder from the United Nations Human Rights Com...",
-      "date": "Fri, 20 Nov 2026",
-      "source": "Dawn",
+      "title": "Iran-U.S. negotiations stalled over uranium enrichment dispute, mediators warn of renewed conflict, says reports",
+      "link": "https://www.thehindu.com/news/international/iran-us-negotiations-stalled-over-uranium-enrichment-dispute-mediators-warn-of-renewed-conflict-says-reports/article71727934.ece",
+      "description": "The diplomatic deadlock comes amid continuing tensions between Washington and Tehran, with both countries yet to reach an understanding on the future of Iran's nuclear programme",
+      "date": "Sat, 21 Nov 2026",
+      "source": "The Hindu",
       "region": "me",
       "color": "#22bb77",
       "bias": "Low-Med"
@@ -253,19 +273,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Riyadh's tallest building damaged as Saudi reports new Houthi attacks",
-      "link": "https://www.thehindu.com/news/international/riyadhs-tallest-building-damaged-as-saudi-reports-new-houthi-attacks/article71721448.ece",
-      "description": "The Iran-backed Houthis have stepped up their attacks against Saudi Arabia in recent weeks, striking targets including airports, energy infrastructure, military sites and Riyadh's financial district",
-      "date": "Thu, 19 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran actually no longer NPT member after strikes on its nuclear facilities — MP",
-      "link": "https://tass.com/world/2222845",
-      "description": "Abolfazl Zohrevand, a member of the National Security and Foreign Policy Committee of Iran’s Majlis mentioned that public opinion guided by such considerations fully supports withdrawing from the Treaty",
+      "title": "US F-16 fighter jet damaged by Iranian air defense — Iranian army",
+      "link": "https://tass.com/world/2222897",
+      "description": "It was struck over the Persian Gulf",
       "date": "Sat, 21 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -273,9 +283,9 @@
       "bias": "Very High"
     },
     {
-      "title": "US should explicitly state its desire to enter into peace agreement with Iran — Araghchi",
-      "link": "https://tass.com/world/2222815",
-      "description": "Iranian Foreign Minister Abbas Araghchi noted Tehran is also prepared for negotiations regarding its enriched uranium stockpiles",
+      "title": "Iran conducts one of its most intense operations in Strait of Hormuz — IRIB",
+      "link": "https://tass.com/world/2222889",
+      "description": "It was aimed against US aerial vehicles",
       "date": "Sat, 21 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -283,20 +293,20 @@
       "bias": "Very High"
     },
     {
-      "title": "Iranian nuclear program discussed at Russia-US-China meeting — Trump",
-      "link": "https://tass.com/world/2222737",
-      "description": "Leaders talked extensively about ensuring that Iran will never have a nuclear weapon, US President said",
-      "date": "Fri, 20 Nov 2026",
+      "title": "Oil tanker hits mine in east of Strait of Hormuz — Iranian Navy",
+      "link": "https://tass.com/world/2222883",
+      "description": "Iran warned shipowners and tanker operators that passage through prohibited areas posed a serious danger for the lives of crews and the safety of vessels",
+      "date": "Sat, 21 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
       "bias": "Very High"
     },
     {
-      "title": "Houthis say they attacked power plant, port in Saudi Arabia",
-      "link": "https://tass.com/world/2222691",
-      "description": "According to Yahya Saria, the strikes that caused serious damage came as response to the Saudi-led coalition’s strikes against on power plants in the Yemeni cities of Saada and Mokha, and the shelling attack on a Hodeida port berth",
-      "date": "Fri, 20 Nov 2026",
+      "title": "US-Iran talks come to a deadlock over disagreements on uranium — Al Arabiya",
+      "link": "https://tass.com/world/2222877",
+      "description": "Both sides firmly adhere to their positions, despite the mediators’ proposals, says the Saudi television channel",
+      "date": "Sat, 21 Nov 2026",
       "source": "TASS",
       "region": "ru",
       "color": "#cc4444",
