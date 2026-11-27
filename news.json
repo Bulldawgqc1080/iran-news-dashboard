@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26 15:57 UTC",
-  "total": 14,
+  "updated": "2026-11-27 00:16 UTC",
+  "total": 18,
   "stories": [
     {
       "title": "Desperate appeals from women on death row in Iran after protests",
@@ -33,39 +33,39 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-      "date": "Mon, 16 Nov 2026",
-      "source": "BBC",
+      "title": "Iranian monarchists disrupt Paris event, highlighting bitter diaspora divide",
+      "link": "https://www.france24.com/en/france/20261126-iranian-monarchists-disrupt-paris-event-highlighting-bitter-diaspora-divide",
+      "description": "A Paris event on Iranian women's rights attended by French Foreign Minister Jean-Noël Barrot was disrupted when diaspora supporters of Reza Pahlavi, the US-based son of Iran's deposed shah, taunted left-leaning opponents of Iran's Islamic regime. The chaos underscored the bitter ...",
+      "date": "Thu, 26 Nov 2026",
+      "source": "France 24",
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
     },
     {
-      "title": "Can Trump continue with Iran war despite funding restrictions?",
-      "link": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
-      "description": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
+      "title": "Spanish economist de Cos to succeed Lagarde as head of ECB",
+      "link": "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb",
+      "description": "Spanish monetary economist Pablo Hernandez de Cos on Thursday was set to replace France's Christine Lagarde as the new head of the European Central Bank (ECB). His nomination comes as the Europe's most powerful financial institution grapples with an Iran war-driven resurgence in ...",
       "date": "Thu, 26 Nov 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+      "description": "Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+      "date": "Fri, 27 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
     },
     {
-      "title": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
-      "link": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
-      "description": "House votes to refer draft amendments to the 2006 Anti-Terrorism Law to its Legal Committee for review.",
-      "date": "Thu, 26 Nov 2026",
-      "source": "Al Jazeera",
-      "region": "me",
-      "color": "#ffbe0b",
-      "bias": "Medium"
-    },
-    {
-      "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
-      "link": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
-      "description": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+      "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+      "description": "Iran has strongly denied any involvement in the fatal incident.",
       "date": "Thu, 26 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -103,6 +103,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "Two Italians killed in drone attack in Kuwait",
+      "link": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece",
+      "description": "‘Around 2:00 p.m. today, several Iranian-made drones targeted Kuwaiti military installations, including an air-defence detection station where two Italian technicians from Rheinmetall were working,’ Italian FM Antonio Tajani said",
+      "date": "Thu, 26 Nov 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Yemen's Houthi-held capital hit after group targets Riyadh",
+      "link": "https://www.thehindu.com/news/international/yemens-houthi-held-capital-hit-after-group-targets-riyadh/article71748008.ece",
+      "description": "The exchanges between the Houthis and the Saudi-led coalition in Yemen have become near-daily in the country's revived civil war",
+      "date": "Thu, 26 Nov 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
       "title": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
       "link": "https://www.thehindu.com/news/international/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage/article71743889.ece",
       "description": "The statement said the vessels ‌had been attempting to transit ‌an ⁠unauthorised route through the ⁠waterway",
@@ -123,9 +143,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Houthis attack oil refinery in Saudi city of Jizan — coalition",
-      "link": "https://tass.com/world/2225459",
-      "description": "The Saudi-led coalition command provided no information about possible casualties or material damage",
+      "title": "One person killed in Houthi attack on Saudi refinery",
+      "link": "https://tass.com/world/2225595",
+      "description": "Several others sustained injuries of varying degrees, the facility partially halted operations",
       "date": "Thu, 26 Nov 2026",
       "source": "TASS",
       "region": "ru",
@@ -133,9 +153,29 @@
       "bias": "Very High"
     },
     {
-      "title": "Qatar’s LNG exports hit highest level since start of US-Iran conflict",
-      "link": "https://tass.com/economy/2225397",
-      "description": "Qatar deployed at least 34 tankers to transport the fuel through the Strait of Hormuz",
+      "title": "Yemeni government has no plans to leave Aden because of Houthis — ambassador",
+      "link": "https://tass.com/world/2225591",
+      "description": "Ahmed Salem Saleh al-Wahishi expressed determination to defeat hostile forces",
+      "date": "Thu, 26 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Iran denies Kuwait’s accusations of attacking its facility",
+      "link": "https://tass.com/world/2225577",
+      "description": "The accusations serve as a cover for attempts by Israel and the US to increase instability in the region, Spokesman for the Army Abolfazl Shekarchi said",
+      "date": "Thu, 26 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Israel says hit Hezbollah targets in southern Lebanon",
+      "link": "https://tass.com/world/2225571",
+      "description": "The strikes targeted dozens of missiles and launchers located at a training camp near the settlement of Ain al-Tinah, the military added",
       "date": "Thu, 26 Nov 2026",
       "source": "TASS",
       "region": "ru",
