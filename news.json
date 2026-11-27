@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-27 00:16 UTC",
-  "total": 18,
+  "updated": "2026-11-27 09:13 UTC",
+  "total": 22,
   "stories": [
+    {
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+      "description": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+      "date": "Fri, 27 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "description": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "date": "Thu, 26 Nov 2026",
+      "source": "BBC",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
     {
       "title": "Desperate appeals from women on death row in Iran after protests",
       "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
@@ -23,16 +43,6 @@
       "bias": "Low-Med"
     },
     {
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "description": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "date": "Fri, 20 Nov 2026",
-      "source": "BBC",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
       "title": "Iranian monarchists disrupt Paris event, highlighting bitter diaspora divide",
       "link": "https://www.france24.com/en/france/20261126-iranian-monarchists-disrupt-paris-event-highlighting-bitter-diaspora-divide",
       "description": "A Paris event on Iranian women's rights attended by French Foreign Minister Jean-Noël Barrot was disrupted when diaspora supporters of Reza Pahlavi, the US-based son of Iran's deposed shah, taunted left-leaning opponents of Iran's Islamic regime. The chaos underscored the bitter ...",
@@ -43,19 +53,9 @@
       "bias": "Low-Med"
     },
     {
-      "title": "Spanish economist de Cos to succeed Lagarde as head of ECB",
-      "link": "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb",
-      "description": "Spanish monetary economist Pablo Hernandez de Cos on Thursday was set to replace France's Christine Lagarde as the new head of the European Central Bank (ECB). His nomination comes as the Europe's most powerful financial institution grapples with an Iran war-driven resurgence in ...",
-      "date": "Thu, 26 Nov 2026",
-      "source": "France 24",
-      "region": "eu",
-      "color": "#06d6a0",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-      "description": "Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+      "title": "Can the Mecca pact turn its collective defence promise into real support?",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+      "description": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
       "date": "Fri, 27 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
@@ -63,14 +63,74 @@
       "bias": "Medium"
     },
     {
-      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-      "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
-      "description": "Iran has strongly denied any involvement in the fatal incident.",
-      "date": "Thu, 26 Nov 2026",
+      "title": "Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss",
+      "description": "The presumptive House speaker&#039;s political pragmatism will be tested by divisions over healthcare, Israel and Iran.",
+      "date": "Fri, 27 Nov 2026",
       "source": "Al Jazeera",
       "region": "me",
       "color": "#ffbe0b",
       "bias": "Medium"
+    },
+    {
+      "title": "Western sanctions on Israeli settlers serve to shield the Israeli state",
+      "link": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
+      "description": "The settler takeover in Jericho exposes the inadequacy of sanctions targeting only settlers and their organisations.",
+      "date": "Fri, 27 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+      "link": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
+      "description": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
+      "date": "Fri, 27 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+      "link": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+      "description": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+      "date": "Fri, 27 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "Erdogan completes Turkiye's ratification of Makkah defence pact",
+      "link": "https://www.dawn.com/news/2047450/erdogan-completes-turkiyes-ratification-of-makkah-defence-pact",
+      "description": "President Tayyip Erdogan has formally approved the Makkah Joint Defence Agreement with Pakistan and Saudi Arabia, the country’s Official Gazette said on Friday, completing Turkiye’s ratification after parliament ratified it earlier this month. Turkiye’s parliament ratified the ag...",
+      "date": "Fri, 27 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Norse Atlantic lessors demand jets back as airline seeks urgent funding",
+      "link": "https://www.dawn.com/news/2047462/norse-atlantic-lessors-demand-jets-back-as-airline-seeks-urgent-funding",
+      "description": "The companies that own Norse Atlantic’s fleet of 12 aircraft have terminated their leasing contracts, the airline said on Friday, adding to pressure on the long-haul low-cost carrier as it seeks urgent fresh funding. Norse Atlantic said on Wednesday that its financial situation w...",
+      "date": "Fri, 27 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "Islamabad set to host Makkah Defence Alliance meeting today; Yemen conflict also on agenda",
+      "link": "https://www.dawn.com/news/2047415/islamabad-set-to-host-makkah-defence-alliance-meeting-today-yemen-conflict-also-on-agenda",
+      "description": "Pakistan is set to host a two-day meeting of the tripartite Makkah Defence Alliance’s top decision-making body from today, with discussions also expected to feature the conflict between Saudi Arabia and Houthi fighters in Yemen. The third session of the Strategic Political and De...",
+      "date": "Fri, 27 Nov 2026",
+      "source": "Dawn",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
     },
     {
       "title": "PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension",
@@ -87,16 +147,6 @@
       "link": "https://www.dawn.com/news/2047185/for-trump-doubling-down-on-tariffs-is-about-power-not-popularity",
       "description": "In midterm elections three weeks ago, US voters punished Republicans over an economy and inflation that many said were made worse by tariffs. President Donald Trump is doubling down on them anyway. The Trump administration on Wednesday announced a new round of tariffs on goods fr...",
       "date": "Thu, 26 Nov 2026",
-      "source": "Dawn",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
-    },
-    {
-      "title": "US unveils proposed tariffs on major partners, including EU, China and India",
-      "link": "https://www.dawn.com/news/2047008/us-unveils-proposed-tariffs-on-major-partners-including-eu-china-and-india",
-      "description": "The United States on Wednesday unveiled proposed tariffs on 14 economies, including the European Union, China and India, after a months-long probe into alleged excess production — the latest move by US President Donald Trump to remake Washington’s trade relationships. The duties,...",
-      "date": "Wed, 25 Nov 2026",
       "source": "Dawn",
       "region": "me",
       "color": "#22bb77",
@@ -133,14 +183,24 @@
       "bias": "Low-Med"
     },
     {
-      "title": "At least two Indians among 11 injured in Houthi attack in Riyadh; New Delhi condemns strike",
-      "link": "https://www.thehindu.com/news/national/houthi-attack-in-saudi-capital-riyadh-indians-injured/article71740914.ece",
-      "description": "Saudi Arabia's Civil Defence said a tower in Riyadh's King Abdullah Financial District came under what it described as a \"terrorist attack\" by Houthi militia",
-      "date": "Wed, 25 Nov 2026",
-      "source": "The Hindu",
-      "region": "me",
-      "color": "#22bb77",
-      "bias": "Low-Med"
+      "title": "Trump acknowledges lack of activity near Iran’s presumed nuclear site in Natanz",
+      "link": "https://tass.com/world/2225639",
+      "description": "The president said that the US \"would absolutely hit Pickaxe Mountain\" if any activities related to Iran's presumed nuclear facility were observed",
+      "date": "Fri, 27 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Trump doubts Iran will accept deal with US",
+      "link": "https://tass.com/world/2225615",
+      "description": "According to the US president, Washington has \"victory at hand\"",
+      "date": "Fri, 27 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
     },
     {
       "title": "One person killed in Houthi attack on Saudi refinery",
@@ -156,26 +216,6 @@
       "title": "Yemeni government has no plans to leave Aden because of Houthis — ambassador",
       "link": "https://tass.com/world/2225591",
       "description": "Ahmed Salem Saleh al-Wahishi expressed determination to defeat hostile forces",
-      "date": "Thu, 26 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Iran denies Kuwait’s accusations of attacking its facility",
-      "link": "https://tass.com/world/2225577",
-      "description": "The accusations serve as a cover for attempts by Israel and the US to increase instability in the region, Spokesman for the Army Abolfazl Shekarchi said",
-      "date": "Thu, 26 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Israel says hit Hezbollah targets in southern Lebanon",
-      "link": "https://tass.com/world/2225571",
-      "description": "The strikes targeted dozens of missiles and launchers located at a training camp near the settlement of Ain al-Tinah, the military added",
       "date": "Thu, 26 Nov 2026",
       "source": "TASS",
       "region": "ru",
