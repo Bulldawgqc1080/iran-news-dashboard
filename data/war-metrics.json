@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T18:06:08.473Z",
+  "lastUpdated": "2026-11-28T01:51:39.969Z",
   "operation": {
     "name": "Operation Epic Fury",
     "start": "2026-02-28T00:00:00Z"
@@ -9,13 +9,13 @@
     "baselineWindowDays": 6,
     "ongoingPerDayUsd": 1000000000,
     "method": "baseline_plus_daily_burn",
-    "estimatedTotalUsd": 278054264745
+    "estimatedTotalUsd": 278377545938
   },
   "casualties": {
     "us": {
       "killed": {
         "value": 13,
-        "asOf": "2026-11-27T18:06:08.473Z",
+        "asOf": "2026-11-28T01:51:39.969Z",
         "sourceId": "dod-centcom-rss",
         "confidence": "high"
       },
@@ -68,10 +68,10 @@
   "energy": {
     "usGasNationalAvgUsd": 3.5476,
     "usGasChangeSinceStartUsd": -0.41,
-    "brentUsdPerBbl": 94.06,
-    "brentChangePct24h": -2.6,
-    "asOf": "2026-11-27T18:06:08.208Z",
-    "gasSeriesDate": "2026-11-27",
+    "brentUsdPerBbl": 95.44,
+    "brentChangePct24h": -1.17,
+    "asOf": "2026-11-28T01:51:39.366Z",
+    "gasSeriesDate": "2026-11-28",
     "gasBaselineDate": "2026-03-02",
     "gasSource": "aaa-national-average",
     "brentSource": "oilprice-brent",
@@ -80,7 +80,7 @@
     "gasMethod": "daily_snapshot"
   },
   "quality": {
-    "generatedAt": "2026-11-27T18:06:08.474Z",
+    "generatedAt": "2026-11-28T01:51:39.969Z",
     "staleThresholdHours": 48,
     "casualties": {
       "usStale": false,
