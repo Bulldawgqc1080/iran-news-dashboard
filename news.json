@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27 19:14 UTC",
-  "total": 19,
+  "updated": "2026-11-28 02:20 UTC",
+  "total": 24,
   "stories": [
     {
       "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
@@ -43,6 +43,16 @@
       "bias": "Low-Med"
     },
     {
+      "title": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261127-the-end-of-spain-s-frankenstein-coalition-presidential-plotting-in-paris-kushner-kremlin-trap",
+      "description": "Catch up with the World This Week with Gavin Lee. In just 45 minutes, make sense of seven extraordinary days in global affairs, as Gavin and his handpicked panel of four leading international correspondents unpack the stories shaping the world — and the questions behind the headl...",
+      "date": "Fri, 27 Nov 2026",
+      "source": "France 24",
+      "region": "eu",
+      "color": "#06d6a0",
+      "bias": "Low-Med"
+    },
+    {
       "title": "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
       "link": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades",
       "description": "Amid war with the US and Israel, Iranian protesters continue to face death sentences following what Amnesty International describes as grossly unfair, torture-tainted trials. “The situation has changed from bad to catastrophic,” says Raha Bahreini, Iranian-Canadian human rights l...",
@@ -51,6 +61,36 @@
       "region": "eu",
       "color": "#06d6a0",
       "bias": "Low-Med"
+    },
+    {
+      "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+      "description": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+      "date": "Sat, 28 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US disables ship attempting to breach Iran blockade",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+      "description": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
+      "date": "Fri, 27 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
+    },
+    {
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+      "description": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+      "date": "Fri, 27 Nov 2026",
+      "source": "Al Jazeera",
+      "region": "me",
+      "color": "#ffbe0b",
+      "bias": "Medium"
     },
     {
       "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
@@ -103,9 +143,19 @@
       "bias": "Low-Med"
     },
     {
-      "title": "U.S. military says it disabled commercial ship trying to run Iran blockade",
+      "title": "Makkah alliance countries review regional security situation, condemn Houthi attacks on Saudi Arabia",
+      "link": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
+      "description": "‘The committee reviewed the evolving regional security situation and reaffirmed the determination of the three countries to continue working collectively towards peace, security, and stability,’ said Ishaq Dar",
+      "date": "Fri, 27 Nov 2026",
+      "source": "The Hindu",
+      "region": "me",
+      "color": "#22bb77",
+      "bias": "Low-Med"
+    },
+    {
+      "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
       "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
-      "description": "U.S. military aircraft ​launched ‌”precision munitions” that struck the stern of the ‌Palau-flagged M/V ​Pacific Archer after it departed ⁠from the port city of ‌Bandar Abbas",
+      "description": "Mohammad Mokhber, an adviser to ⁠Iran’s Supreme Leader Ayatollah Mojtaba Khamenei, said: “Neither will the Strait of Hormuz be ‌reopened, nor will we allow the blockade to remain in place,” Iranian state media reported",
       "date": "Fri, 27 Nov 2026",
       "source": "The Hindu",
       "region": "me",
@@ -153,6 +203,26 @@
       "bias": "Low-Med"
     },
     {
+      "title": "CSTO not raising issue of Armenia’s expulsion — secretary general",
+      "link": "https://tass.com/world/2226277",
+      "description": "Taalatbek Masadykov said that, despite the earlier introduced measures of \"financial discipline,\" the republic retains its security guarantees",
+      "date": "Fri, 27 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
+      "title": "Pakistan, Turkey to bolster support for Riyadh amid Houthi attacks — Islamabad",
+      "link": "https://tass.com/world/2226271",
+      "description": "Pakistani Foreign Minister Ishaq Dar also said that the sides reiterated their strong condemnation of Houthi attacks targeting civilians and civilian infrastructure in the kingdom",
+      "date": "Fri, 27 Nov 2026",
+      "source": "TASS",
+      "region": "ru",
+      "color": "#cc4444",
+      "bias": "Very High"
+    },
+    {
       "title": "Lebanon wants hostilities with Israel to end — president",
       "link": "https://tass.com/world/2226247",
       "description": "Ending the state of hostility between Lebanon and Israel will be good for the entire region, Joseph Aoun emphasized",
@@ -166,26 +236,6 @@
       "title": "Putin wishes crew of new submarine fair winds and safe voyages",
       "link": "https://tass.com/politics/2226185",
       "description": "The head of state took part in the naval flag-raising ceremony aboard the Perm submarine, marking its commissioning into the Russian Navy",
-      "date": "Fri, 27 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Putin partakes in flag-raising ceremony on submarine Perm",
-      "link": "https://tass.com/politics/2226157",
-      "description": "The nuclear-powered submarine cruiser Perm is the fifth nuclear-powered submarine missile cruiser in the line of multi-purpose submarines of the Yasen-M project",
-      "date": "Fri, 27 Nov 2026",
-      "source": "TASS",
-      "region": "ru",
-      "color": "#cc4444",
-      "bias": "Very High"
-    },
-    {
-      "title": "Putin congratulates sailors, Sevmash workers as flag raised on new nuclear submarine",
-      "link": "https://tass.com/politics/2226151",
-      "description": "The head of state called the raising of the flag \"a significant event for the navy\"",
       "date": "Fri, 27 Nov 2026",
       "source": "TASS",
       "region": "ru",
